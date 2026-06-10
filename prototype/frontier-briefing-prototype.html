@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SIGNAL — Frontier Tech Briefing</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@75,500..800&family=IBM+Plex+Mono:wght@400;500&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#EDF0F4;        /* cool daylight ground */
+    --card:#FFFFFF;
+    --ink:#0E1626;          /* near-navy ink */
+    --ink-soft:#4A5568;
+    --line:#D4DAE3;
+    --signal:#2438E8;       /* electric ultramarine */
+    --signal-soft:#E4E8FD;
+    --breaking:#FF4D12;     /* signal orange */
+    --ok:#0E9F6E;
+    --mono:'IBM Plex Mono',monospace;
+    --display:'Archivo',sans-serif;
+    --body:'Inter',sans-serif;
+    --rail-w:218px;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{scroll-behavior:smooth}
+  body{background:var(--paper);color:var(--ink);font-family:var(--body);font-size:15px;line-height:1.55}
+  a{color:inherit}
+  button{font-family:inherit;cursor:pointer}
+  :focus-visible{outline:2px solid var(--signal);outline-offset:2px;border-radius:3px}
+
+  /* ---------- top bar ---------- */
+  header{position:sticky;top:0;z-index:30;background:var(--paper);border-bottom:1px solid var(--line)}
+  .bar{display:flex;align-items:center;gap:16px;padding:14px 22px;max-width:1240px;margin:0 auto}
+  .wordmark{font-family:var(--display);font-stretch:75%;font-weight:800;font-size:22px;letter-spacing:.04em;display:flex;align-items:center;gap:9px}
+  .wordmark .dot{width:9px;height:9px;border-radius:50%;background:var(--signal);animation:pulse 2.2s infinite}
+  @keyframes pulse{0%,100%{box-shadow:0 0 0 0 rgba(36,56,232,.45)}55%{box-shadow:0 0 0 7px rgba(36,56,232,0)}}
+  .bar .meta{font-family:var(--mono);font-size:11.5px;color:var(--ink-soft);letter-spacing:.02em}
+  .bar .spacer{flex:1}
+  .mode{display:flex;border:1px solid var(--line);border-radius:7px;overflow:hidden;background:var(--card)}
+  .mode button{border:0;background:transparent;padding:7px 13px;font-family:var(--mono);font-size:11.5px;color:var(--ink-soft)}
+  .mode button.on{background:var(--ink);color:#fff}
+
+  /* ---------- layout ---------- */
+  .shell{max-width:1240px;margin:0 auto;display:grid;grid-template-columns:var(--rail-w) 1fr;gap:0;align-items:start}
+
+  /* ---------- signature: the wire rail ---------- */
+  .wire{position:sticky;top:57px;align-self:start;padding:22px 18px 22px 22px;border-right:1px solid var(--line);height:calc(100vh - 57px);overflow:auto}
+  .wire h2{font-family:var(--mono);font-size:10.5px;font-weight:500;letter-spacing:.14em;color:var(--ink-soft);text-transform:uppercase;margin-bottom:14px}
+  .feed{display:flex;align-items:baseline;gap:8px;padding:7px 0;border-bottom:1px dashed var(--line);font-size:12.5px}
+  .feed:last-child{border-bottom:0}
+  .feed .led{width:6px;height:6px;border-radius:50%;background:var(--ok);flex:none;position:relative;top:-1px}
+  .feed .led.slow{background:#C9A227}
+  .feed .name{font-weight:600;flex:1;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .feed .age{font-family:var(--mono);font-size:10.5px;color:var(--ink-soft)}
+  .wire .note{margin-top:16px;font-size:11.5px;color:var(--ink-soft);line-height:1.5;border-top:1px solid var(--line);padding-top:12px}
+
+  /* ---------- main column ---------- */
+  main{padding:24px 22px 60px}
+  .filters{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:8px}
+  .chip{border:1px solid var(--line);background:var(--card);border-radius:999px;padding:6px 14px;font-size:12.5px;font-weight:500;color:var(--ink-soft);transition:all .15s}
+  .chip:hover{border-color:var(--signal)}
+  .chip.on{background:var(--signal);border-color:var(--signal);color:#fff}
+  .orgrow{display:flex;flex-wrap:wrap;gap:8px;margin:6px 0 22px}
+  .orgrow .chip{border-radius:6px;font-family:var(--mono);font-size:11px;padding:5px 11px;text-transform:uppercase;letter-spacing:.05em}
+  .orgrow .chip.on{background:var(--ink);border-color:var(--ink)}
+
+  .countline{font-family:var(--mono);font-size:11px;color:var(--ink-soft);margin-bottom:14px;letter-spacing:.03em}
+
+  /* ---------- hero ---------- */
+  .hero{background:var(--ink);color:#F2F4F8;border-radius:12px;padding:26px 28px;margin-bottom:18px;position:relative;overflow:hidden}
+  .hero .tag{display:inline-flex;align-items:center;gap:7px;font-family:var(--mono);font-size:10.5px;letter-spacing:.12em;text-transform:uppercase;color:#FFB39A;margin-bottom:12px}
+  .hero .tag::before{content:"";width:7px;height:7px;border-radius:50%;background:var(--breaking);animation:pulse 1.6s infinite}
+  .hero h3{font-family:var(--display);font-stretch:78%;font-weight:750;font-size:clamp(22px,3.4vw,32px);line-height:1.12;margin-bottom:12px;letter-spacing:.005em}
+  .hero p{font-size:14.5px;color:#B9C2D4;max-width:62ch}
+  .hero .why{margin-top:14px;font-size:13.5px;color:#8FA0FF;font-weight:500}
+  .hero .src{position:absolute;top:26px;right:28px;font-family:var(--mono);font-size:11px;color:#6B7894}
+
+  /* ---------- cards ---------- */
+  .grid{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:18px 20px 16px;display:flex;flex-direction:column;gap:9px;transition:border-color .15s, transform .15s}
+  .card:hover{border-color:var(--signal);transform:translateY(-1px)}
+  .card .top{display:flex;align-items:center;gap:10px;font-family:var(--mono);font-size:10.5px;color:var(--ink-soft);letter-spacing:.03em}
+  .card .top .org{color:var(--ink);font-weight:500;text-transform:uppercase}
+  .card .top .age{margin-left:auto}
+  .sig{display:inline-flex;gap:2px;align-items:flex-end;height:11px}
+  .sig i{width:3px;background:var(--line);border-radius:1px}
+  .sig i:nth-child(1){height:4px}.sig i:nth-child(2){height:7px}.sig i:nth-child(3){height:11px}
+  .sig[data-l="1"] i:nth-child(1){background:var(--signal)}
+  .sig[data-l="2"] i:nth-child(-n+2){background:var(--signal)}
+  .sig[data-l="3"] i{background:var(--signal)}
+  .card h4{font-family:var(--display);font-stretch:80%;font-weight:680;font-size:17.5px;line-height:1.22}
+  .card .tldr{font-size:13.5px;color:var(--ink-soft)}
+  .card .why{font-size:12.5px;color:var(--signal);font-weight:600;margin-top:auto;padding-top:6px}
+  .card .why::before{content:"WHY IT MATTERS";font-family:var(--mono);font-weight:500;font-size:9.5px;letter-spacing:.13em;display:block;color:var(--ink-soft);margin-bottom:3px}
+  .badges{display:flex;gap:6px}
+  .badge{font-family:var(--mono);font-size:9.5px;letter-spacing:.07em;text-transform:uppercase;background:var(--signal-soft);color:var(--signal);border-radius:4px;padding:2.5px 7px}
+  .badge.paper{background:#E6F6EF;color:var(--ok)}
+  .badge.launch{background:#FFEAE2;color:var(--breaking)}
+
+  /* ---------- digest mode ---------- */
+  .digest{display:none;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:8px 26px}
+  .digest .d-item{display:flex;gap:18px;padding:18px 0;border-bottom:1px solid var(--line);align-items:baseline}
+  .digest .d-item:last-child{border-bottom:0}
+  .digest .n{font-family:var(--mono);font-size:13px;color:var(--signal);font-weight:500;flex:none;width:24px}
+  .digest h4{font-family:var(--display);font-stretch:80%;font-weight:680;font-size:17px;margin-bottom:3px}
+  .digest p{font-size:13.5px;color:var(--ink-soft)}
+  .digest .meta{font-family:var(--mono);font-size:10.5px;color:var(--ink-soft);margin-top:5px;letter-spacing:.04em}
+  body.digest-on .grid,body.digest-on .hero,body.digest-on .filters,body.digest-on .orgrow,body.digest-on .countline{display:none}
+  body.digest-on .digest{display:block}
+  .digest-head{font-family:var(--mono);font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-soft);padding:18px 0 4px}
+
+  .empty{display:none;text-align:center;padding:50px 20px;color:var(--ink-soft);font-size:14px}
+  .empty.show{display:block}
+  .empty button{margin-top:10px;border:1px solid var(--line);background:var(--card);border-radius:7px;padding:7px 14px;font-size:12.5px}
+
+  @media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+  @media (max-width:920px){
+    .shell{grid-template-columns:1fr}
+    .wire{position:static;height:auto;border-right:0;border-bottom:1px solid var(--line);display:flex;gap:18px;overflow-x:auto;padding:12px 22px}
+    .wire h2{display:none}.wire .note{display:none}
+    .feed{border-bottom:0;flex:none}
+    .grid{grid-template-columns:1fr}
+    .hero .src{position:static;display:block;margin-bottom:8px}
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="bar">
+    <div class="wordmark"><span class="dot" aria-hidden="true"></span>SIGNAL</div>
+    <div class="meta">WED 10 JUN 2026 · 14:32 BST · 6 FEEDS LIVE</div>
+    <div class="spacer"></div>
+    <div class="mode" role="tablist" aria-label="View mode">
+      <button id="mFeed" class="on" onclick="setMode('feed')">LIVE FEED</button>
+      <button id="mDigest" onclick="setMode('digest')">DAILY DIGEST</button>
+    </div>
+  </div>
+</header>
+
+<div class="shell">
+
+  <!-- signature element: the wire rail — every source, its health, its freshness -->
+  <aside class="wire" aria-label="Source feeds">
+    <h2>On the wire</h2>
+    <div class="feed"><span class="led"></span><span class="name">Anthropic News</span><span class="age">23m</span></div>
+    <div class="feed"><span class="led"></span><span class="name">OpenAI Blog</span><span class="age">1h</span></div>
+    <div class="feed"><span class="led"></span><span class="name">Google DeepMind</span><span class="age">2h</span></div>
+    <div class="feed"><span class="led"></span><span class="name">xAI</span><span class="age">4h</span></div>
+    <div class="feed"><span class="led"></span><span class="name">arXiv cs.AI</span><span class="age">11m</span></div>
+    <div class="feed"><span class="led"></span><span class="name">Launch Library</span><span class="age">6m</span></div>
+    <div class="feed"><span class="led slow"></span><span class="name">Hacker News</span><span class="age">38m</span></div>
+    <div class="feed"><span class="led slow"></span><span class="name">Press wire</span><span class="age">52m</span></div>
+    <div class="note">Each source is polled on its own cadence. Items are de-duplicated, summarised, and ranked before they reach this feed.</div>
+  </aside>
+
+  <main>
+    <!-- topic filters -->
+    <div class="filters" role="group" aria-label="Topic filters">
+      <button class="chip on" data-topic="all" onclick="setTopic(this)">All</button>
+      <button class="chip" data-topic="ai" onclick="setTopic(this)">AI &amp; Models</button>
+      <button class="chip" data-topic="space" onclick="setTopic(this)">Space</button>
+      <button class="chip" data-topic="compute" onclick="setTopic(this)">Chips &amp; Compute</button>
+      <button class="chip" data-topic="science" onclick="setTopic(this)">Science</button>
+      <button class="chip" data-topic="energy" onclick="setTopic(this)">Energy</button>
+    </div>
+    <!-- org filters -->
+    <div class="orgrow" role="group" aria-label="Organisation filters">
+      <button class="chip on" data-org="all" onclick="setOrg(this)">All orgs</button>
+      <button class="chip" data-org="anthropic" onclick="setOrg(this)">Anthropic</button>
+      <button class="chip" data-org="openai" onclick="setOrg(this)">OpenAI</button>
+      <button class="chip" data-org="google" onclick="setOrg(this)">Google</button>
+      <button class="chip" data-org="xai" onclick="setOrg(this)">xAI</button>
+      <button class="chip" data-org="spacex" onclick="setOrg(this)">SpaceX</button>
+      <button class="chip" data-org="terafab" onclick="setOrg(this)">Terafab</button>
+    </div>
+
+    <div class="countline" id="countline"></div>
+
+    <!-- tier-1 hero: one story gets the big treatment -->
+    <article class="hero" data-topic="compute" data-org="terafab xai spacex">
+      <span class="src">PRESS WIRE · 41 MIN AGO</span>
+      <span class="tag">Breaking · Tier 1</span>
+      <h3>Terafab clears county approvals as ASML talks become the project's real bottleneck</h3>
+      <p>The Tesla–SpaceX–xAI chip venture is moving from announcement to permits and supplier negotiations. Access to extreme-ultraviolet lithography machines — made by exactly one company — now looks like the deciding constraint on the whole plan.</p>
+      <div class="why">Why it matters → Whoever controls advanced chip supply controls the pace of AI. This is the first serious attempt by an AI lab group to own the entire stack, from silicon to satellites.</div>
+    </article>
+
+    <!-- tier-2 feed -->
+    <section class="grid" id="grid">
+
+      <article class="card" data-topic="ai" data-org="anthropic">
+        <div class="top"><span class="sig" data-l="3" aria-label="High importance"><i></i><i></i><i></i></span><span class="org">Anthropic</span><span class="age">23m ago</span></div>
+        <h4>New interpretability method maps deception-related features across model scales</h4>
+        <p class="tldr">Researchers traced how internal "honesty" features evolve as models grow, and showed they can be monitored in production. The technique runs cheaply enough to use on live traffic.</p>
+        <div class="badges"><span class="badge">research</span><span class="badge paper">paper</span></div>
+        <div class="why">A practical path to auditing what frontier models are actually doing, not just what they say.</div>
+      </article>
+
+      <article class="card" data-topic="space" data-org="spacex">
+        <div class="top"><span class="sig" data-l="3" aria-label="High importance"><i></i><i></i><i></i></span><span class="org">SpaceX</span><span class="age">1h ago</span></div>
+        <h4>Starship Flight 14 targets first full orbital refuelling demo</h4>
+        <p class="tldr">A two-ship propellant transfer is now on the range schedule. Success would retire the biggest open question on the Mars and lunar architecture.</p>
+        <div class="badges"><span class="badge launch">launch</span><span class="badge">space</span></div>
+        <div class="why">Orbital refuelling is the unlock for everything beyond Earth orbit — no demo, no Moon landing.</div>
+      </article>
+
+      <article class="card" data-topic="ai" data-org="google">
+        <div class="top"><span class="sig" data-l="2" aria-label="Medium importance"><i></i><i></i><i></i></span><span class="org">Google DeepMind</span><span class="age">2h ago</span></div>
+        <h4>AlphaFold successor predicts full protein–drug binding dynamics, not just structure</h4>
+        <p class="tldr">The new model simulates how candidate molecules behave over time inside binding pockets, an order of magnitude faster than physics simulation.</p>
+        <div class="badges"><span class="badge">research</span><span class="badge paper">bio</span></div>
+        <div class="why">Collapses months of wet-lab screening into hours of compute for early drug discovery.</div>
+      </article>
+
+      <article class="card" data-topic="ai" data-org="openai">
+        <div class="top"><span class="sig" data-l="2" aria-label="Medium importance"><i></i><i></i><i></i></span><span class="org">OpenAI</span><span class="age">3h ago</span></div>
+        <h4>Agent framework adds verified long-horizon task execution</h4>
+        <p class="tldr">Multi-day agent runs now produce cryptographically signed action logs, aimed at enterprises that need to audit autonomous work.</p>
+        <div class="badges"><span class="badge">product</span></div>
+        <div class="why">Auditability is the gate between agent demos and agents doing real regulated work.</div>
+      </article>
+
+      <article class="card" data-topic="compute" data-org="xai terafab">
+        <div class="top"><span class="sig" data-l="2" aria-label="Medium importance"><i></i><i></i><i></i></span><span class="org">xAI</span><span class="age">5h ago</span></div>
+        <h4>Colossus expansion shifts to chips earmarked from future Terafab output</h4>
+        <p class="tldr">Cluster roadmap now assumes in-house silicon from 2028, with 80% of projected fab output pointed at orbital compute.</p>
+        <div class="badges"><span class="badge">compute</span></div>
+        <div class="why">A bet that the next compute race is fought in orbit, where power and cooling work differently.</div>
+      </article>
+
+      <article class="card" data-topic="science" data-org="">
+        <div class="top"><span class="sig" data-l="1" aria-label="Standard importance"><i></i><i></i><i></i></span><span class="org">arXiv · cond-mat</span><span class="age">6h ago</span></div>
+        <h4>Room-temperature quantum coherence held for record duration in diamond lattice</h4>
+        <p class="tldr">A materials group reports coherence times long enough for practical sensing applications without cryogenic cooling.</p>
+        <div class="badges"><span class="badge paper">paper</span><span class="badge">quantum</span></div>
+        <div class="why">Quantum sensors that work at room temperature could leave the lab within a few years.</div>
+      </article>
+
+      <article class="card" data-topic="energy" data-org="">
+        <div class="top"><span class="sig" data-l="2" aria-label="Medium importance"><i></i><i></i><i></i></span><span class="org">Press wire</span><span class="age">8h ago</span></div>
+        <h4>Commonwealth Fusion confirms SPARC first-plasma window</h4>
+        <p class="tldr">The demonstration tokamak remains on schedule, with net-energy attempts to follow in the subsequent campaign.</p>
+        <div class="badges"><span class="badge">energy</span></div>
+        <div class="why">First plasma is the moment fusion stops being a slideshow and starts being an experiment.</div>
+      </article>
+
+      <article class="card" data-topic="ai" data-org="anthropic">
+        <div class="top"><span class="sig" data-l="1" aria-label="Standard importance"><i></i><i></i><i></i></span><span class="org">Hacker News · #2</span><span class="age">9h ago</span></div>
+        <h4>Open-source toolkit replicates frontier-lab evals for local models</h4>
+        <p class="tldr">A community project packages the major benchmark suites into one runner, so anyone can score a fine-tune against published frontier results.</p>
+        <div class="badges"><span class="badge">community</span><span class="badge">oss</span></div>
+        <div class="why">Levels the playing field on the question "is this model actually good?"</div>
+      </article>
+
+    </section>
+
+    <div class="empty" id="empty">
+      Nothing on the wire for that combination yet.
+      <br><button onclick="resetFilters()">Clear filters</button>
+    </div>
+
+    <!-- digest mode: the 90-second read -->
+    <section class="digest" aria-label="Daily digest">
+      <div class="digest-head">The 90-second read · Wednesday 10 June</div>
+      <div class="d-item"><span class="n">01</span><div><h4>Terafab moves from stagecraft to permits</h4><p>County approvals are in; the constraint is now ASML's lithography machines. Watch supplier announcements, not keynotes.</p><div class="meta">CHIPS &amp; COMPUTE · TIER 1</div></div></div>
+      <div class="d-item"><span class="n">02</span><div><h4>Starship attempts orbital refuelling</h4><p>The single biggest technical gate on the Mars architecture gets its first real test this flight.</p><div class="meta">SPACE · SPACEX</div></div></div>
+      <div class="d-item"><span class="n">03</span><div><h4>Interpretability gets production-ready</h4><p>Anthropic's feature-mapping work is cheap enough to monitor live models — auditing AI internals is becoming an engineering practice.</p><div class="meta">AI · ANTHROPIC</div></div></div>
+      <div class="d-item"><span class="n">04</span><div><h4>Drug discovery speeds up again</h4><p>DeepMind's binding-dynamics model turns months of screening into hours of compute.</p><div class="meta">SCIENCE · GOOGLE</div></div></div>
+      <div class="d-item"><span class="n">05</span><div><h4>Fusion stays on schedule</h4><p>SPARC's first-plasma window is confirmed — the clearest near-term milestone in energy.</p><div class="meta">ENERGY</div></div></div>
+    </section>
+
+  </main>
+</div>
+
+<script>
+  let topic = 'all', org = 'all';
+
+  function setMode(m){
+    document.body.classList.toggle('digest-on', m === 'digest');
+    document.getElementById('mFeed').classList.toggle('on', m === 'feed');
+    document.getElementById('mDigest').classList.toggle('on', m === 'digest');
+  }
+  function setTopic(btn){
+    topic = btn.dataset.topic;
+    document.querySelectorAll('[data-topic]').forEach(c => { if(c.classList.contains('chip')) c.classList.toggle('on', c === btn); });
+    apply();
+  }
+  function setOrg(btn){
+    org = btn.dataset.org;
+    document.querySelectorAll('.orgrow .chip').forEach(c => c.classList.toggle('on', c === btn));
+    apply();
+  }
+  function resetFilters(){
+    topic = 'all'; org = 'all';
+    document.querySelectorAll('.filters .chip').forEach(c => c.classList.toggle('on', c.dataset.topic === 'all'));
+    document.querySelectorAll('.orgrow .chip').forEach(c => c.classList.toggle('on', c.dataset.org === 'all'));
+    apply();
+  }
+  function matches(el){
+    const t = el.dataset.topic || '', o = (el.dataset.org || '');
+    const tOk = topic === 'all' || t === topic;
+    const oOk = org === 'all' || o.split(' ').includes(org);
+    return tOk && oOk;
+  }
+  function apply(){
+    let shown = 0;
+    document.querySelectorAll('.card').forEach(c => {
+      const ok = matches(c);
+      c.style.display = ok ? '' : 'none';
+      if(ok) shown++;
+    });
+    const hero = document.querySelector('.hero');
+    const heroOk = matches(hero);
+    hero.style.display = heroOk ? '' : 'none';
+    if(heroOk) shown++;
+    document.getElementById('empty').classList.toggle('show', shown === 0);
+    document.getElementById('countline').textContent =
+      shown + ' ITEMS · RANKED BY SIGNAL STRENGTH · UPDATED 6 MIN AGO';
+  }
+  apply();
+</script>
+</body>
+</html>

@@ -1,0 +1,404 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SIGNAL — Frontier Tech Briefing</title>
+<meta name="description" content="The absolute latest in AI, space, compute, science and energy — de-duplicated, ranked, TL;DR-first. Updated every ~30 minutes.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@75,500..800&family=IBM+Plex+Mono:wght@400;500&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  /* Dark theme derived from the SIGNAL tokens (docs/DESIGN.md): black ground,
+     ultramarine accent kept, periwinkle (#8FA0FF) as the on-dark accent voice. */
+  :root{
+    --paper:#000000;          /* black ground — launch-stream look */
+    --card:#0B0E14;           /* near-black card surface */
+    --ink:#F2F4F8;            /* primary text on dark */
+    --ink-soft:#8C95A8;       /* secondary text, metadata */
+    --line:#1C2230;           /* borders, dividers */
+    --signal:#2438E8;         /* electric ultramarine — fills */
+    --signal-on-dark:#8FA0FF; /* periwinkle — accent text on black */
+    --signal-soft:#141A3A;    /* badge ground on dark */
+    --breaking:#FF4D12;       /* signal orange */
+    --ok:#0E9F6E;
+    --slow:#C9A227;
+    --mono:'IBM Plex Mono',monospace;
+    --display:'Archivo',sans-serif;
+    --body:'Inter',sans-serif;
+    --rail-w:218px;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{scroll-behavior:smooth}
+  body{background:var(--paper);color:var(--ink);font-family:var(--body);font-size:15px;line-height:1.55}
+  a{color:inherit;text-decoration:none}
+  button{font-family:inherit;cursor:pointer}
+  :focus-visible{outline:2px solid var(--signal-on-dark);outline-offset:2px;border-radius:3px}
+  ::selection{background:var(--signal);color:#fff}
+
+  /* ---------- top bar ---------- */
+  header{position:sticky;top:0;z-index:30;background:rgba(0,0,0,.88);backdrop-filter:blur(8px);border-bottom:1px solid var(--line)}
+  .bar{display:flex;align-items:center;gap:16px;padding:14px 22px;max-width:1240px;margin:0 auto}
+  .wordmark{font-family:var(--display);font-stretch:75%;font-weight:800;font-size:22px;letter-spacing:.14em;display:flex;align-items:center;gap:10px;text-transform:uppercase}
+  .wordmark .dot{width:9px;height:9px;border-radius:50%;background:var(--signal-on-dark);animation:pulse 2.2s infinite}
+  @keyframes pulse{0%,100%{box-shadow:0 0 0 0 rgba(143,160,255,.45)}55%{box-shadow:0 0 0 7px rgba(143,160,255,0)}}
+  .bar .meta{font-family:var(--mono);font-size:11.5px;color:var(--ink-soft);letter-spacing:.02em}
+  .bar .spacer{flex:1}
+  .mode{display:flex;border:1px solid var(--line);border-radius:7px;overflow:hidden;background:var(--card)}
+  .mode button{border:0;background:transparent;padding:7px 13px;font-family:var(--mono);font-size:11.5px;color:var(--ink-soft)}
+  .mode button.on{background:var(--ink);color:#000}
+
+  /* ---------- staleness / error banner ---------- */
+  .banner{display:none;max-width:1240px;margin:0 auto;padding:9px 22px;font-family:var(--mono);font-size:11.5px;letter-spacing:.04em;color:var(--slow);border-bottom:1px solid var(--line)}
+  .banner.show{display:block}
+
+  /* ---------- layout ---------- */
+  .shell{max-width:1240px;margin:0 auto;display:grid;grid-template-columns:var(--rail-w) 1fr;gap:0;align-items:start}
+
+  /* ---------- signature: the wire rail ---------- */
+  .wire{position:sticky;top:57px;align-self:start;padding:22px 18px 22px 22px;border-right:1px solid var(--line);height:calc(100vh - 57px);overflow:auto}
+  .wire h2{font-family:var(--mono);font-size:10.5px;font-weight:500;letter-spacing:.14em;color:var(--ink-soft);text-transform:uppercase;margin-bottom:14px}
+  .feed{display:flex;align-items:baseline;gap:8px;padding:7px 0;border-bottom:1px dashed var(--line);font-size:12.5px}
+  .feed:last-child{border-bottom:0}
+  .feed .led{width:6px;height:6px;border-radius:50%;background:var(--ok);flex:none;position:relative;top:-1px}
+  .feed .led.slow{background:var(--slow)}
+  .feed .name{font-weight:600;flex:1;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .feed .age{font-family:var(--mono);font-size:10.5px;color:var(--ink-soft)}
+  .wire .note{margin-top:16px;font-size:11.5px;color:var(--ink-soft);line-height:1.5;border-top:1px solid var(--line);padding-top:12px}
+
+  /* ---------- main column ---------- */
+  main{padding:24px 22px 60px}
+  .filters{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:8px}
+  .chip{border:1px solid var(--line);background:var(--card);border-radius:999px;padding:6px 14px;font-size:12.5px;font-weight:500;color:var(--ink-soft);transition:all .15s}
+  .chip:hover{border-color:var(--signal-on-dark);color:var(--ink)}
+  .chip.on{background:var(--signal);border-color:var(--signal);color:#fff}
+  .orgrow{display:flex;flex-wrap:wrap;gap:8px;margin:6px 0 22px}
+  .orgrow .chip{border-radius:6px;font-family:var(--mono);font-size:11px;padding:5px 11px;text-transform:uppercase;letter-spacing:.05em}
+  .orgrow .chip.on{background:var(--ink);border-color:var(--ink);color:#000}
+
+  .countline{font-family:var(--mono);font-size:11px;color:var(--ink-soft);margin-bottom:14px;letter-spacing:.03em}
+
+  /* ---------- hero ---------- */
+  .hero{display:block;background:linear-gradient(160deg,#10141F 0%,#0A0D14 60%,#0B0F22 100%);border:1px solid var(--line);color:var(--ink);border-radius:12px;padding:26px 28px;margin-bottom:18px;position:relative;overflow:hidden;transition:border-color .15s}
+  .hero:hover{border-color:var(--signal-on-dark)}
+  .hero .tag{display:inline-flex;align-items:center;gap:7px;font-family:var(--mono);font-size:10.5px;letter-spacing:.12em;text-transform:uppercase;color:#FFB39A;margin-bottom:12px}
+  .hero .tag::before{content:"";width:7px;height:7px;border-radius:50%;background:var(--breaking);animation:pulse 1.6s infinite}
+  .hero h3{font-family:var(--display);font-stretch:78%;font-weight:750;font-size:clamp(22px,3.4vw,32px);line-height:1.12;margin-bottom:12px;letter-spacing:.005em}
+  .hero p{font-size:14.5px;color:#B9C2D4;max-width:62ch}
+  .hero .why{margin-top:14px;font-size:13.5px;color:var(--signal-on-dark);font-weight:500}
+  .hero .src{position:absolute;top:26px;right:28px;font-family:var(--mono);font-size:11px;color:var(--ink-soft)}
+
+  /* ---------- cards ---------- */
+  .grid{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:18px 20px 16px;display:flex;flex-direction:column;gap:9px;transition:border-color .15s, transform .15s}
+  .card:hover{border-color:var(--signal-on-dark);transform:translateY(-1px)}
+  .card .top{display:flex;align-items:center;gap:10px;font-family:var(--mono);font-size:10.5px;color:var(--ink-soft);letter-spacing:.03em}
+  .card .top .org{color:var(--ink);font-weight:500;text-transform:uppercase}
+  .card .top .age{margin-left:auto}
+  .sig{display:inline-flex;gap:2px;align-items:flex-end;height:11px}
+  .sig i{width:3px;background:var(--line);border-radius:1px}
+  .sig i:nth-child(1){height:4px}.sig i:nth-child(2){height:7px}.sig i:nth-child(3){height:11px}
+  .sig[data-l="1"] i:nth-child(1){background:var(--signal-on-dark)}
+  .sig[data-l="2"] i:nth-child(-n+2){background:var(--signal-on-dark)}
+  .sig[data-l="3"] i{background:var(--signal-on-dark)}
+  .card h4{font-family:var(--display);font-stretch:80%;font-weight:680;font-size:17.5px;line-height:1.22}
+  .card .tldr{font-size:13.5px;color:var(--ink-soft)}
+  .card .why{font-size:12.5px;color:var(--signal-on-dark);font-weight:600;margin-top:auto;padding-top:6px}
+  .card .why::before{content:"WHY IT MATTERS";font-family:var(--mono);font-weight:500;font-size:9.5px;letter-spacing:.13em;display:block;color:var(--ink-soft);margin-bottom:3px}
+  .badges{display:flex;gap:6px;flex-wrap:wrap}
+  .badge{font-family:var(--mono);font-size:9.5px;letter-spacing:.07em;text-transform:uppercase;background:var(--signal-soft);color:var(--signal-on-dark);border-radius:4px;padding:2.5px 7px}
+  .badge.paper{background:#0A2A1E;color:#34D399}
+  .badge.launch{background:#2A130A;color:#FF8A5C}
+
+  /* ---------- tier-3 wire list ---------- */
+  .wirelist{margin-top:26px}
+  .wirelist h3{font-family:var(--mono);font-size:10.5px;font-weight:500;letter-spacing:.14em;color:var(--ink-soft);text-transform:uppercase;margin-bottom:6px;border-bottom:1px solid var(--line);padding-bottom:8px}
+  .wirelist a{display:flex;gap:12px;align-items:baseline;padding:9px 2px;border-bottom:1px dashed var(--line);font-size:13.5px;transition:color .15s}
+  .wirelist a:hover .t{color:var(--signal-on-dark)}
+  .wirelist .t{flex:1;font-weight:500}
+  .wirelist .s{font-family:var(--mono);font-size:10.5px;color:var(--ink-soft);white-space:nowrap}
+
+  /* ---------- digest mode ---------- */
+  .digest{display:none;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:8px 26px}
+  .digest .d-item{display:flex;gap:18px;padding:18px 0;border-bottom:1px solid var(--line);align-items:baseline}
+  .digest .d-item:last-child{border-bottom:0}
+  .digest .n{font-family:var(--mono);font-size:13px;color:var(--signal-on-dark);font-weight:500;flex:none;width:24px}
+  .digest h4{font-family:var(--display);font-stretch:80%;font-weight:680;font-size:17px;margin-bottom:3px}
+  .digest h4 a:hover{color:var(--signal-on-dark)}
+  .digest p{font-size:13.5px;color:var(--ink-soft)}
+  .digest .meta{font-family:var(--mono);font-size:10.5px;color:var(--ink-soft);margin-top:5px;letter-spacing:.04em}
+  body.digest-on .grid,body.digest-on .hero,body.digest-on .filters,body.digest-on .orgrow,body.digest-on .countline,body.digest-on .wirelist{display:none}
+  body.digest-on .digest{display:block}
+  .digest-head{font-family:var(--mono);font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-soft);padding:18px 0 4px}
+
+  .empty{display:none;text-align:center;padding:50px 20px;color:var(--ink-soft);font-size:14px}
+  .empty.show{display:block}
+  .empty button{margin-top:10px;border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:7px;padding:7px 14px;font-size:12.5px}
+
+  @media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+  @media (max-width:920px){
+    .shell{grid-template-columns:1fr}
+    .wire{position:static;height:auto;border-right:0;border-bottom:1px solid var(--line);display:flex;gap:18px;overflow-x:auto;padding:12px 22px}
+    .wire h2{display:none}.wire .note{display:none}
+    .feed{border-bottom:0;flex:none}
+    .grid{grid-template-columns:1fr}
+    .hero .src{position:static;display:block;margin-bottom:8px}
+    .bar .meta{display:none}
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="bar">
+    <div class="wordmark"><span class="dot" aria-hidden="true"></span>SIGNAL</div>
+    <div class="meta" id="barMeta">CONNECTING…</div>
+    <div class="spacer"></div>
+    <div class="mode" role="tablist" aria-label="View mode">
+      <button id="mFeed" class="on" onclick="setMode('feed')">LIVE FEED</button>
+      <button id="mDigest" onclick="setMode('digest')">DAILY DIGEST</button>
+    </div>
+  </div>
+  <div class="banner" id="banner" role="status"></div>
+</header>
+
+<div class="shell">
+
+  <!-- signature element: the wire rail — every source, its health, its freshness -->
+  <aside class="wire" aria-label="Source feeds">
+    <h2>On the wire</h2>
+    <div id="wireFeeds"></div>
+    <div class="note">Each source is polled on its own cadence. Items are de-duplicated, summarised, and ranked before they reach this feed.</div>
+  </aside>
+
+  <main>
+    <!-- topic filters -->
+    <div class="filters" role="group" aria-label="Topic filters">
+      <button class="chip on" data-topic="all" onclick="setTopic(this)">All</button>
+      <button class="chip" data-topic="ai" onclick="setTopic(this)">AI &amp; Models</button>
+      <button class="chip" data-topic="space" onclick="setTopic(this)">Space</button>
+      <button class="chip" data-topic="compute" onclick="setTopic(this)">Chips &amp; Compute</button>
+      <button class="chip" data-topic="science" onclick="setTopic(this)">Science</button>
+      <button class="chip" data-topic="energy" onclick="setTopic(this)">Energy</button>
+    </div>
+    <!-- org filters -->
+    <div class="orgrow" role="group" aria-label="Organisation filters">
+      <button class="chip on" data-org="all" onclick="setOrg(this)">All orgs</button>
+      <button class="chip" data-org="anthropic" onclick="setOrg(this)">Anthropic</button>
+      <button class="chip" data-org="openai" onclick="setOrg(this)">OpenAI</button>
+      <button class="chip" data-org="google" onclick="setOrg(this)">Google</button>
+      <button class="chip" data-org="xai" onclick="setOrg(this)">xAI</button>
+      <button class="chip" data-org="spacex" onclick="setOrg(this)">SpaceX</button>
+      <button class="chip" data-org="terafab" onclick="setOrg(this)">Terafab</button>
+    </div>
+
+    <div class="countline" id="countline"></div>
+
+    <div id="heroSlot"></div>
+    <section class="grid" id="grid"></section>
+    <section class="wirelist" id="wirelist"></section>
+
+    <div class="empty" id="empty">
+      Nothing on the wire for that combination yet.
+      <br><button onclick="resetFilters()">Clear filters</button>
+    </div>
+
+    <!-- digest mode: the 90-second read -->
+    <section class="digest" aria-label="Daily digest">
+      <div class="digest-head" id="digestHead">The 90-second read</div>
+      <div id="digestItems"></div>
+    </section>
+
+  </main>
+</div>
+
+<script>
+  let topic = 'all', org = 'all';
+  let DATA = { generated: null, items: [] };
+
+  // ───────── utilities ─────────
+  const esc = s => String(s ?? '').replace(/[&<>"']/g,
+    c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+
+  function relAge(iso, { long = false } = {}) {
+    const ms = Date.now() - new Date(iso).getTime();
+    if (ms < 0) { // future-dated (upcoming launch)
+      const h = Math.round(-ms / 36e5);
+      return h < 48 ? `T-${h}h` : `T-${Math.round(h / 24)}d`;
+    }
+    const m = Math.floor(ms / 6e4);
+    if (m < 1)   return long ? 'just now' : 'now';
+    if (m < 60)  return `${m}m${long ? ' ago' : ''}`;
+    const h = Math.floor(m / 60);
+    if (h < 24)  return `${h}h${long ? ' ago' : ''}`;
+    return new Date(iso).toLocaleDateString('en-GB', { weekday: 'short', day: 'numeric', month: 'short' });
+  }
+
+  const sigLevel = it => it.tier === 1 || it.score >= 0.6 ? 3 : it.score >= 0.45 ? 2 : 1;
+  const sigLabel = l => ({1:'Standard',2:'Medium',3:'High'}[l]) + ' importance';
+
+  // ───────── rendering ─────────
+  function renderHero(it) {
+    if (!it) { document.getElementById('heroSlot').innerHTML = ''; return; }
+    document.getElementById('heroSlot').innerHTML = `
+      <a class="hero" href="${esc(it.url)}" target="_blank" rel="noopener"
+         data-topic="${esc(it.topic)}" data-org="${esc(it.org.join(' '))}">
+        <span class="src">${esc(it.source.toUpperCase())} · ${esc(relAge(it.published, {long:true}).toUpperCase())}</span>
+        <span class="tag">Breaking · Tier 1</span>
+        <h3>${esc(it.title)}</h3>
+        ${it.tldr ? `<p>${esc(it.tldr)}</p>` : ''}
+        ${it.why ? `<div class="why">Why it matters → ${esc(it.why)}</div>` : ''}
+      </a>`;
+  }
+
+  function renderCards(items) {
+    document.getElementById('grid').innerHTML = items.map(it => `
+      <a class="card" href="${esc(it.url)}" target="_blank" rel="noopener"
+         data-topic="${esc(it.topic)}" data-org="${esc(it.org.join(' '))}">
+        <div class="top">
+          <span class="sig" data-l="${sigLevel(it)}" aria-label="${sigLabel(sigLevel(it))}"><i></i><i></i><i></i></span>
+          <span class="org">${esc(it.source)}</span>
+          <span class="age">${esc(relAge(it.published, {long:true}))}</span>
+        </div>
+        <h4>${esc(it.title)}</h4>
+        ${it.tldr ? `<p class="tldr">${esc(it.tldr)}</p>` : ''}
+        ${it.badges?.length ? `<div class="badges">${it.badges.map(b => `<span class="badge ${esc(b)}">${esc(b)}</span>`).join('')}</div>` : ''}
+        ${it.why ? `<div class="why">${esc(it.why)}</div>` : ''}
+      </a>`).join('');
+  }
+
+  function renderWireList(items) {
+    const el = document.getElementById('wirelist');
+    if (!items.length) { el.innerHTML = ''; return; }
+    el.innerHTML = '<h3>Also on the wire</h3>' + items.map(it => `
+      <a href="${esc(it.url)}" target="_blank" rel="noopener"
+         data-topic="${esc(it.topic)}" data-org="${esc(it.org.join(' '))}">
+        <span class="t">${esc(it.title)}</span>
+        <span class="s">${esc(it.source)} · ${esc(relAge(it.published))}</span>
+      </a>`).join('');
+  }
+
+  function renderWireRail(items) {
+    const bySource = new Map();
+    for (const it of items.filter(i => new Date(i.published) <= new Date())) {
+      const cur = bySource.get(it.source);
+      if (!cur || it.published > cur) bySource.set(it.source, it.published);
+    }
+    const rows = [...bySource.entries()].sort((a, b) => b[1].localeCompare(a[1]));
+    document.getElementById('wireFeeds').innerHTML = rows.map(([name, latest]) => {
+      const slow = Date.now() - new Date(latest).getTime() > 6 * 36e5;
+      return `<div class="feed"><span class="led${slow ? ' slow' : ''}"></span><span class="name">${esc(name)}</span><span class="age">${esc(relAge(latest))}</span></div>`;
+    }).join('');
+    return rows.length;
+  }
+
+  function renderDigest(d) {
+    if (!d?.digest?.length) {
+      document.getElementById('digestItems').innerHTML =
+        '<div class="d-item"><div><p>No digest yet — check back after the next refresh.</p></div></div>';
+      return;
+    }
+    document.getElementById('digestHead').textContent =
+      'The 90-second read · ' + new Date(d.generated).toLocaleDateString('en-GB', { weekday: 'long', day: 'numeric', month: 'long' });
+    document.getElementById('digestItems').innerHTML = d.digest.map(x => `
+      <div class="d-item"><span class="n">${String(x.n).padStart(2, '0')}</span>
+        <div>
+          <h4><a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.title)}</a></h4>
+          ${x.tldr ? `<p>${esc(x.tldr)}</p>` : ''}
+          <div class="meta">${esc(x.meta)}</div>
+        </div>
+      </div>`).join('');
+  }
+
+  function renderAll() {
+    const items = DATA.items;
+    renderHero(items.find(i => i.tier === 1));
+    renderCards(items.filter(i => i.tier === 2));
+    renderWireList(items.filter(i => i.tier === 3));
+    const live = renderWireRail(items);
+    const now = new Date();
+    document.getElementById('barMeta').textContent =
+      now.toLocaleDateString('en-GB', { weekday: 'short', day: 'numeric', month: 'short', year: 'numeric' }).toUpperCase()
+      + ' · ' + now.toLocaleTimeString('en-GB', { hour: '2-digit', minute: '2-digit' })
+      + ` · ${live} FEEDS LIVE`;
+    apply();
+  }
+
+  function refreshStaleness() {
+    const banner = document.getElementById('banner');
+    if (!DATA.generated) return;
+    const ageH = (Date.now() - new Date(DATA.generated).getTime()) / 36e5;
+    banner.classList.toggle('show', ageH > 2);
+    if (ageH > 2) banner.textContent = `⚠ FEED LAST UPDATED ${relAge(DATA.generated).toUpperCase()} AGO — THE PIPELINE MAY BE DELAYED. STORIES BELOW ARE STILL LIVE LINKS.`;
+  }
+
+  // ───────── filters (same behaviour as the prototype) ─────────
+  function setMode(m) {
+    document.body.classList.toggle('digest-on', m === 'digest');
+    document.getElementById('mFeed').classList.toggle('on', m === 'feed');
+    document.getElementById('mDigest').classList.toggle('on', m === 'digest');
+  }
+  function setTopic(btn) {
+    topic = btn.dataset.topic;
+    document.querySelectorAll('.filters .chip').forEach(c => c.classList.toggle('on', c === btn));
+    apply();
+  }
+  function setOrg(btn) {
+    org = btn.dataset.org;
+    document.querySelectorAll('.orgrow .chip').forEach(c => c.classList.toggle('on', c === btn));
+    apply();
+  }
+  function resetFilters() {
+    topic = 'all'; org = 'all';
+    document.querySelectorAll('.filters .chip').forEach(c => c.classList.toggle('on', c.dataset.topic === 'all'));
+    document.querySelectorAll('.orgrow .chip').forEach(c => c.classList.toggle('on', c.dataset.org === 'all'));
+    apply();
+  }
+  function matches(el) {
+    const t = el.dataset.topic || '', o = el.dataset.org || '';
+    return (topic === 'all' || t === topic) && (org === 'all' || o.split(' ').includes(org));
+  }
+  function apply() {
+    let shown = 0;
+    document.querySelectorAll('.card, .hero, .wirelist a').forEach(el => {
+      const ok = matches(el);
+      el.style.display = ok ? '' : 'none';
+      if (ok) shown++;
+    });
+    const listVisible = [...document.querySelectorAll('.wirelist a')].some(a => a.style.display !== 'none');
+    const h3 = document.querySelector('.wirelist h3');
+    if (h3) h3.style.display = listVisible ? '' : 'none';
+    document.getElementById('empty').classList.toggle('show', shown === 0 && DATA.items.length > 0);
+    document.getElementById('countline').textContent = DATA.generated
+      ? `${shown} ITEMS · RANKED BY SIGNAL STRENGTH · UPDATED ${relAge(DATA.generated).toUpperCase()} AGO`
+      : '';
+  }
+
+  // ───────── boot ─────────
+  async function load() {
+    try {
+      const r = await fetch('./data/items.json', { cache: 'no-store' });
+      const data = await r.json();
+      if (!Array.isArray(data.items)) throw new Error('malformed items.json');
+      DATA = data;
+      renderAll();
+      refreshStaleness();
+    } catch (err) {
+      const banner = document.getElementById('banner');
+      banner.classList.add('show');
+      banner.textContent = DATA.items.length
+        ? '⚠ REFRESH FAILED — SHOWING THE LAST GOOD FEED. RETRYING SHORTLY.'
+        : '⚠ COULD NOT LOAD THE FEED. THE FIRST PIPELINE RUN MAY NOT HAVE COMPLETED YET — RETRYING SHORTLY.';
+      document.getElementById('barMeta').textContent = 'FEED OFFLINE';
+    }
+    try {
+      const r = await fetch('./data/digest.json', { cache: 'no-store' });
+      renderDigest(await r.json());
+    } catch { renderDigest(null); }
+  }
+
+  load();
+  setInterval(() => { renderAll(); refreshStaleness(); }, 60_000); // re-render relative ages
+  setInterval(load, 10 * 60_000);                                   // re-fetch data every 10 min
+</script>
+</body>
+</html>
