@@ -1,20 +1,51 @@
 {
- "generated": "2026-06-10T20:17:45.693Z",
+ "generated": "2026-06-10T21:19:37.492Z",
  "items": [
   {
    "id": "cb3bf04d8c79534b9b3fd831ee9be9e3d47b83d2",
-   "title": "Claude Desktop spins up a VM without no way of stopping it",
+   "title": "Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use",
    "url": "https://github.com/anthropics/claude-code/issues/29045",
+   "source": "Hacker News",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "space",
+   "tldr": "",
+   "published": "2026-06-10T17:11:56.000Z",
+   "badges": [
+    "launch"
+   ],
+   "dupes": 1,
+   "score": 0.649,
+   "tier": 1
+  },
+  {
+   "id": "cc932f49b0c4edc60314bd03d601008db04329cb",
+   "title": "Anthropic's Model Naming, Extrapolated",
+   "url": "https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated",
    "source": "Hacker News",
    "org": [
     "anthropic"
    ],
    "topic": "ai",
    "tldr": "",
-   "published": "2026-06-10T17:11:56.000Z",
+   "published": "2026-06-10T18:45:20.000Z",
    "dupes": 1,
-   "score": 0.661,
-   "tier": 1
+   "score": 0.627,
+   "tier": 2
+  },
+  {
+   "id": "89ec71606d3800bc587b394ddae06bae7de7c33a",
+   "title": "NASA Awards Contract for Construction Services in California",
+   "url": "https://www.nasa.gov/news-release/nasa-awards-contract-for-construction-services-in-california",
+   "source": "NASA News",
+   "org": [],
+   "topic": "space",
+   "tldr": "NASA has selected multiple small businesses for the Western Regional Multiple Award Construction Contract, which supports a broad range of facility enhancement, modernization, and sustainment work at NASA’s Armstrong…",
+   "published": "2026-06-10T20:32:25.000Z",
+   "dupes": 1,
+   "score": 0.602,
+   "tier": 2
   },
   {
    "id": "9868a0fe7513095937c3abd38cfd2a068fd3394a",
@@ -28,22 +59,7 @@
    "tldr": "",
    "published": "2026-06-10T17:44:59.000Z",
    "dupes": 1,
-   "score": 0.613,
-   "tier": 2
-  },
-  {
-   "id": "b1566d819bd62ec1626d4ecd9d110190f4322622",
-   "title": "New framework for auditing machine unlearning",
-   "url": "https://research.google/blog/new-framework-for-auditing-machine-unlearning",
-   "source": "Google Research",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Algorithms & Theory",
-   "published": "2026-06-10T17:34:55.000Z",
-   "dupes": 1,
-   "score": 0.603,
+   "score": 0.593,
    "tier": 2
   },
   {
@@ -58,74 +74,22 @@
    "tldr": "",
    "published": "2026-06-10T16:24:11.000Z",
    "dupes": 1,
-   "score": 0.601,
+   "score": 0.59,
    "tier": 2
   },
   {
-   "id": "cc932f49b0c4edc60314bd03d601008db04329cb",
-   "title": "Anthropic's Model Naming, Extrapolated",
-   "url": "https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated",
-   "source": "Hacker News",
+   "id": "b1566d819bd62ec1626d4ecd9d110190f4322622",
+   "title": "New framework for auditing machine unlearning",
+   "url": "https://research.google/blog/new-framework-for-auditing-machine-unlearning",
+   "source": "Google Research",
    "org": [
-    "anthropic"
+    "google"
    ],
    "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-10T18:45:20.000Z",
+   "tldr": "Algorithms & Theory",
+   "published": "2026-06-10T17:34:55.000Z",
    "dupes": 1,
-   "score": 0.591,
-   "tier": 2
-  },
-  {
-   "id": "2d9693ec2c35172a3278a20402c2169cab49b2b3",
-   "title": "NASA, NOAA to Hold Joint Session at 23rd Symposium on Operational Environmental Satellite Systems",
-   "url": "https://science.nasa.gov/science-research/earth-science/nasa-noaa-to-hold-joint-session-at-23rd-symposium-on-operational-environmental-satellite-systems",
-   "source": "NASA News",
-   "org": [],
-   "topic": "space",
-   "tldr": "Abstracts are now being accepted for the session, which will take place at the 2027 AMS Annual Meeting.",
-   "published": "2026-06-10T18:09:55.000Z",
-   "dupes": 1,
-   "score": 0.585,
-   "tier": 2
-  },
-  {
-   "id": "23af2686e3c09a514beffe53536a71901894a552",
-   "title": "NASA Equips Astronauts, Industry with Robotic Intelligence",
-   "url": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-equips-astronauts-industry-with-robotic-intelligence",
-   "source": "NASA News",
-   "org": [],
-   "topic": "space",
-   "tldr": "As NASA plans long-term missions on the Moon, the agency could use robots to perform routine tasks, allowing crew members to dedicate more time to science and exploration.  However, robotic motion control requires…",
-   "published": "2026-06-10T17:00:02.000Z",
-   "dupes": 1,
-   "score": 0.571,
-   "tier": 2
-  },
-  {
-   "id": "0135f942cd30d446d37ffe7ea44c367df17d4fcb",
-   "title": "A €0.01 bank transfer could compromise a banking AI agent",
-   "url": "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant",
-   "source": "Hacker News",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-10T13:39:11.000Z",
-   "dupes": 1,
-   "score": 0.567,
-   "tier": 2
-  },
-  {
-   "id": "8e70e1d280bb3e51de8835bdcec86555ba13e5dd",
-   "title": "Train Ride to NASA Kennedy for Artemis III Booster Segments",
-   "url": "https://www.nasa.gov/image-article/train-ride-to-nasa-kennedy-for-artemis-iii-booster-segments",
-   "source": "NASA News",
-   "org": [],
-   "topic": "space",
-   "tldr": "The final booster motor segments for NASA’s SLS (Space Launch System) rocket that will help propel Artemis III astronauts on their journey to space shipped from Northrop Grumman’s Railyard Shipping Facility in Corinne,…",
-   "published": "2026-06-10T16:05:29.000Z",
-   "dupes": 1,
-   "score": 0.56,
+   "score": 0.59,
    "tier": 2
   },
   {
@@ -138,7 +102,46 @@
    "tldr": "",
    "published": "2026-06-10T19:06:50.000Z",
    "dupes": 1,
-   "score": 0.556,
+   "score": 0.589,
+   "tier": 2
+  },
+  {
+   "id": "2d9693ec2c35172a3278a20402c2169cab49b2b3",
+   "title": "NASA, NOAA to Hold Joint Session at 23rd Symposium on Operational Environmental Satellite Systems",
+   "url": "https://science.nasa.gov/science-research/earth-science/nasa-noaa-to-hold-joint-session-at-23rd-symposium-on-operational-environmental-satellite-systems",
+   "source": "NASA News",
+   "org": [],
+   "topic": "space",
+   "tldr": "Abstracts are now being accepted for the session, which will take place at the 2027 AMS Annual Meeting.",
+   "published": "2026-06-10T18:09:55.000Z",
+   "dupes": 1,
+   "score": 0.572,
+   "tier": 2
+  },
+  {
+   "id": "23af2686e3c09a514beffe53536a71901894a552",
+   "title": "NASA Equips Astronauts, Industry with Robotic Intelligence",
+   "url": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-equips-astronauts-industry-with-robotic-intelligence",
+   "source": "NASA News",
+   "org": [],
+   "topic": "space",
+   "tldr": "As NASA plans long-term missions on the Moon, the agency could use robots to perform routine tasks, allowing crew members to dedicate more time to science and exploration.  However, robotic motion control requires…",
+   "published": "2026-06-10T17:00:02.000Z",
+   "dupes": 1,
+   "score": 0.559,
+   "tier": 2
+  },
+  {
+   "id": "8e70e1d280bb3e51de8835bdcec86555ba13e5dd",
+   "title": "Train Ride to NASA Kennedy for Artemis III Booster Segments",
+   "url": "https://www.nasa.gov/image-article/train-ride-to-nasa-kennedy-for-artemis-iii-booster-segments",
+   "source": "NASA News",
+   "org": [],
+   "topic": "space",
+   "tldr": "The final booster motor segments for NASA’s SLS (Space Launch System) rocket that will help propel Artemis III astronauts on their journey to space shipped from Northrop Grumman’s Railyard Shipping Facility in Corinne,…",
+   "published": "2026-06-10T16:05:29.000Z",
+   "dupes": 1,
+   "score": 0.549,
    "tier": 2
   },
   {
@@ -153,7 +156,20 @@
    "tldr": "S.  tech debates, data center narratives, tariffs, and false claims about ChatGPT.",
    "published": "2026-06-10T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.554,
+   "score": 0.544,
+   "tier": 2
+  },
+  {
+   "id": "0135f942cd30d446d37ffe7ea44c367df17d4fcb",
+   "title": "A €0.01 bank transfer could compromise a banking AI agent",
+   "url": "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant",
+   "source": "Hacker News",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-10T13:39:11.000Z",
+   "dupes": 1,
+   "score": 0.542,
    "tier": 2
   },
   {
@@ -166,7 +182,7 @@
    "tldr": "The complex puzzle known as little red dots has become more complete since their initial discovery by NASA’s James Webb Space Telescope in 2022.  Now a particular little red dot’s spectrum is helping connect many of the…",
    "published": "2026-06-10T14:00:00.000Z",
    "dupes": 1,
-   "score": 0.537,
+   "score": 0.526,
    "tier": 2
   },
   {
@@ -179,8 +195,21 @@
    "tldr": "Landsat’s Jim Irons won the prestigious William T.  Pecora Award.",
    "published": "2026-06-10T14:00:00.000Z",
    "dupes": 1,
-   "score": 0.537,
-   "tier": 2
+   "score": 0.526,
+   "tier": 3
+  },
+  {
+   "id": "d6657a17b2e4d25f322c026784549bde79fb53af",
+   "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
+   "url": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues",
+   "source": "TechCrunch AI",
+   "org": [],
+   "topic": "ai",
+   "tldr": "Companies are burning through exorbitant sums of money to keep pace in the AI arms race.  Debt is climbing.",
+   "published": "2026-06-10T20:19:31.000Z",
+   "dupes": 1,
+   "score": 0.524,
+   "tier": 3
   },
   {
    "id": "a2aeb0bb039ad6a6dd7dfae7ea402b1895e2110b",
@@ -194,7 +223,7 @@
    "tldr": "Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others.  But the model won't answer basic biology questions - the…",
    "published": "2026-06-10T18:43:34.000Z",
    "dupes": 1,
-   "score": 0.529,
+   "score": 0.517,
    "tier": 3
   },
   {
@@ -207,7 +236,7 @@
    "tldr": "During the 2025-2026 school year, educators from the NASA Science Activation Program’s GLOBE (Global Learning and Observation to Benefit the Environment) Mission Earth project participated in a specialized Community of…",
    "published": "2026-06-10T12:43:01.000Z",
    "dupes": 1,
-   "score": 0.524,
+   "score": 0.514,
    "tier": 3
   },
   {
@@ -223,7 +252,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.517,
+   "score": 0.507,
    "tier": 3
   },
   {
@@ -236,7 +265,7 @@
    "tldr": "New college graduates around the country have been booing and heckling commencement speakers who hype up AI.  Microsoft would like everyone to talk it out.",
    "published": "2026-06-10T17:45:11.000Z",
    "dupes": 1,
-   "score": 0.517,
+   "score": 0.505,
    "tier": 3
   },
   {
@@ -249,7 +278,7 @@
    "tldr": "Hello and welcome to Regulator, a newsletter for Verge subscribers about tech politics, tech influence, and tech shenanigans in Washington, DC.",
    "published": "2026-06-10T17:38:00.000Z",
    "dupes": 1,
-   "score": 0.516,
+   "score": 0.504,
    "tier": 3
   },
   {
@@ -264,7 +293,7 @@
    "tldr": "If you've uploaded a song to YouTube, Google almost certainly considers your video fair game for training its Lyria music AI, it just won't admit it right now.  A group of independent musicians is suing Google, claiming…",
    "published": "2026-06-10T17:20:36.000Z",
    "dupes": 1,
-   "score": 0.512,
+   "score": 0.5,
    "tier": 3
   },
   {
@@ -279,7 +308,7 @@
    "tldr": "Anthropic released Claude Fable, its first Mythos-class AI model, yesterday and it's already causing concerns inside Microsoft.  Sources tell me that Microsoft is limiting the use of Claude Fable 5 for employees because…",
    "published": "2026-06-10T16:50:23.000Z",
    "dupes": 1,
-   "score": 0.506,
+   "score": 0.494,
    "tier": 3
   },
   {
@@ -294,7 +323,7 @@
    "tldr": "Google is making some changes to how it saves your interactions with Search.  In an email sent to users, Google says it will save the images, files, audio, and video you use to search under a new \"Search Services…",
    "published": "2026-06-10T16:18:45.000Z",
    "dupes": 1,
-   "score": 0.5,
+   "score": 0.489,
    "tier": 3
   },
   {
@@ -307,7 +336,7 @@
    "tldr": "The most AI-obsessed firms are spending roughly $7,500 monthly per employee on AI, per Ramp AI Index.  That's not more than an engineer's salary — yet.",
    "published": "2026-06-10T17:07:35.000Z",
    "dupes": 1,
-   "score": 0.497,
+   "score": 0.485,
    "tier": 3
   },
   {
@@ -320,7 +349,7 @@
    "tldr": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.",
    "published": "2026-06-10T16:11:08.000Z",
    "dupes": 1,
-   "score": 0.486,
+   "score": 0.475,
    "tier": 3
   },
   {
@@ -335,7 +364,7 @@
    "tldr": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
    "published": "2026-06-10T15:41:22.000Z",
    "dupes": 1,
-   "score": 0.481,
+   "score": 0.469,
    "tier": 3
   },
   {
@@ -351,7 +380,7 @@
     "launch"
    ],
    "dupes": 1,
-   "score": 0.473,
+   "score": 0.462,
    "tier": 3
   },
   {
@@ -366,7 +395,7 @@
    "tldr": "Most of the value in SpaceX's IPO is effectively a call option on the company's ambitious space data center plans.",
    "published": "2026-06-10T14:48:01.000Z",
    "dupes": 1,
-   "score": 0.471,
+   "score": 0.46,
    "tier": 3
   },
   {
@@ -379,7 +408,7 @@
    "tldr": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
    "published": "2026-06-10T12:10:00.000Z",
    "dupes": 1,
-   "score": 0.468,
+   "score": 0.458,
    "tier": 3
   },
   {
@@ -392,7 +421,7 @@
    "tldr": "Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models.",
    "published": "2026-06-10T14:31:30.000Z",
    "dupes": 1,
-   "score": 0.468,
+   "score": 0.457,
    "tier": 3
   },
   {
@@ -407,7 +436,7 @@
    "tldr": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
    "published": "2026-06-10T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.46,
+   "score": 0.454,
    "tier": 3
   },
   {
@@ -420,7 +449,7 @@
    "tldr": "The funding round was led by Norwest, with participation from S Capital VC, Cerca Partners, and Oceans Ventures.  Snowflake Ventures also participated as a strategic investor.",
    "published": "2026-06-10T13:33:09.000Z",
    "dupes": 1,
-   "score": 0.457,
+   "score": 0.447,
    "tier": 3
   },
   {
@@ -433,7 +462,7 @@
    "tldr": "Decart is launching Oasis 3, a real-time world model that generates photorealistic driving environments for autonomous vehicle testing, now available via API for developers to build on.",
    "published": "2026-06-10T13:07:56.000Z",
    "dupes": 1,
-   "score": 0.453,
+   "score": 0.443,
    "tier": 3
   },
   {
@@ -446,20 +475,7 @@
    "tldr": "Ice splintered off the southern Patagonia glacier and drifted across a growing glacial lake.",
    "published": "2026-06-10T04:01:00.000Z",
    "dupes": 1,
-   "score": 0.449,
-   "tier": 3
-  },
-  {
-   "id": "6b36397393334bf93008d32ac643f0b170b1cef2",
-   "title": "The “steroid olympics” were a circus—and a window into our culture",
-   "url": "https://www.technologyreview.com/2026/06/10/1138670/enhanced-games-doping-steroids-hormones-supplements-longevity",
-   "source": "MIT Tech Review",
-   "org": [],
-   "topic": "ai",
-   "tldr": "Testosterone.  Methenolone.",
-   "published": "2026-06-10T09:00:00.000Z",
-   "dupes": 1,
-   "score": 0.439,
+   "score": 0.442,
    "tier": 3
   },
   {
@@ -475,22 +491,20 @@
     "launch"
    ],
    "dupes": 1,
-   "score": 0.429,
+   "score": 0.434,
    "tier": 3
   },
   {
-   "id": "5cf88629509e3eaf5c628adbea2cc2f89edcf38d",
-   "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
-   "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate",
-   "source": "Google DeepMind",
-   "org": [
-    "google"
-   ],
+   "id": "6b36397393334bf93008d32ac643f0b170b1cef2",
+   "title": "The “steroid olympics” were a circus—and a window into our culture",
+   "url": "https://www.technologyreview.com/2026/06/10/1138670/enhanced-games-doping-steroids-hormones-supplements-longevity",
+   "source": "MIT Tech Review",
+   "org": [],
    "topic": "ai",
-   "tldr": "5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.",
-   "published": "2026-06-09T15:16:25.000Z",
+   "tldr": "Testosterone.  Methenolone.",
+   "published": "2026-06-10T09:00:00.000Z",
    "dupes": 1,
-   "score": 0.414,
+   "score": 0.43,
    "tier": 3
   },
   {
@@ -506,7 +520,22 @@
     "launch"
    ],
    "dupes": 1,
-   "score": 0.414,
+   "score": 0.418,
+   "tier": 3
+  },
+  {
+   "id": "5cf88629509e3eaf5c628adbea2cc2f89edcf38d",
+   "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+   "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate",
+   "source": "Google DeepMind",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.",
+   "published": "2026-06-09T15:16:25.000Z",
+   "dupes": 1,
+   "score": 0.41,
    "tier": 3
   },
   {
@@ -521,7 +550,7 @@
    "tldr": "",
    "published": "2026-06-09T14:10:19.000Z",
    "dupes": 1,
-   "score": 0.41,
+   "score": 0.405,
    "tier": 3
   },
   {
@@ -536,7 +565,7 @@
    "tldr": "",
    "published": "2026-06-09T14:02:33.000Z",
    "dupes": 1,
-   "score": 0.409,
+   "score": 0.405,
    "tier": 3
   },
   {
@@ -552,7 +581,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.404,
+   "score": 0.399,
    "tier": 3
   },
   {
@@ -566,32 +595,6 @@
    "topic": "ai",
    "tldr": "5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
    "published": "2026-06-09T12:00:00.000Z",
-   "dupes": 1,
-   "score": 0.401,
-   "tier": 3
-  },
-  {
-   "id": "70cc9fc9076eb2c471c749f61c1f0f90ed992f04",
-   "title": "Meta signs first AI data center deal in India with Reliance",
-   "url": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance",
-   "source": "TechCrunch AI",
-   "org": [],
-   "topic": "compute",
-   "tldr": "The 168-megawatt facility will support Meta's global AI computing needs and can be expanded over time.",
-   "published": "2026-06-10T07:05:26.000Z",
-   "dupes": 1,
-   "score": 0.398,
-   "tier": 3
-  },
-  {
-   "id": "3db5ac74d4391be6c3b4244fc491c85921172d72",
-   "title": "Artemis III Crew Announced",
-   "url": "https://www.nasa.gov/image-article/artemis-iii-crew-announced",
-   "source": "NASA News",
-   "org": [],
-   "topic": "space",
-   "tldr": "NASA astronaut Andre Douglas, ESA (European Space Agency) astronaut Luca Parmitano, and NASA astronauts Randy Bresnik and Frank Rubio take a photo together on June 9, 2026.  The four were announced as the Artemis III…",
-   "published": "2026-06-09T19:32:29.000Z",
    "dupes": 1,
    "score": 0.397,
    "tier": 3
@@ -608,7 +611,38 @@
    "tldr": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
    "published": "2026-06-09T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.393,
+   "score": 0.39,
+   "tier": 3
+  },
+  {
+   "id": "12957091cb90b29cd915256426b0739294334f33",
+   "title": "Launch: Falcon 9 Block 5 | Starlink Group 17-44",
+   "url": "https://ll.thespacedevs.com/2.2.0/launch/c7b7e18f-1b42-467e-a8ed-181fb58080e8",
+   "source": "Launch Library",
+   "org": [
+    "spacex"
+   ],
+   "topic": "space",
+   "tldr": "A batch of 24 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
+   "published": "2026-06-11T15:04:40.000Z",
+   "badges": [
+    "launch"
+   ],
+   "dupes": 1,
+   "score": 0.39,
+   "tier": 3
+  },
+  {
+   "id": "70cc9fc9076eb2c471c749f61c1f0f90ed992f04",
+   "title": "Meta signs first AI data center deal in India with Reliance",
+   "url": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance",
+   "source": "TechCrunch AI",
+   "org": [],
+   "topic": "compute",
+   "tldr": "The 168-megawatt facility will support Meta's global AI computing needs and can be expanded over time.",
+   "published": "2026-06-10T07:05:26.000Z",
+   "dupes": 1,
+   "score": 0.39,
    "tier": 3
   },
   {
@@ -624,7 +658,7 @@
     "paper"
    ],
    "dupes": 1,
-   "score": 0.39,
+   "score": 0.385,
    "tier": 3
   },
   {
@@ -640,7 +674,7 @@
     "paper"
    ],
    "dupes": 1,
-   "score": 0.39,
+   "score": 0.385,
    "tier": 3
   },
   {
@@ -656,7 +690,7 @@
     "paper"
    ],
    "dupes": 1,
-   "score": 0.389,
+   "score": 0.384,
    "tier": 3
   },
   {
@@ -672,7 +706,7 @@
     "paper"
    ],
    "dupes": 1,
-   "score": 0.389,
+   "score": 0.384,
    "tier": 3
   },
   {
@@ -688,7 +722,7 @@
     "paper"
    ],
    "dupes": 1,
-   "score": 0.389,
+   "score": 0.384,
    "tier": 3
   },
   {
@@ -704,7 +738,7 @@
     "paper"
    ],
    "dupes": 1,
-   "score": 0.389,
+   "score": 0.384,
    "tier": 3
   },
   {
@@ -720,7 +754,7 @@
     "paper"
    ],
    "dupes": 1,
-   "score": 0.389,
+   "score": 0.384,
    "tier": 3
   },
   {
@@ -736,7 +770,7 @@
     "paper"
    ],
    "dupes": 1,
-   "score": 0.389,
+   "score": 0.384,
    "tier": 3
   },
   {
@@ -752,7 +786,7 @@
     "paper"
    ],
    "dupes": 1,
-   "score": 0.388,
+   "score": 0.383,
    "tier": 3
   },
   {
@@ -768,7 +802,7 @@
     "paper"
    ],
    "dupes": 1,
-   "score": 0.388,
+   "score": 0.383,
    "tier": 3
   },
   {
@@ -784,7 +818,7 @@
     "paper"
    ],
    "dupes": 1,
-   "score": 0.388,
+   "score": 0.383,
    "tier": 3
   },
   {
@@ -800,7 +834,7 @@
     "paper"
    ],
    "dupes": 1,
-   "score": 0.388,
+   "score": 0.383,
    "tier": 3
   },
   {
@@ -816,7 +850,7 @@
     "paper"
    ],
    "dupes": 1,
-   "score": 0.388,
+   "score": 0.383,
    "tier": 3
   },
   {
@@ -832,7 +866,7 @@
     "paper"
    ],
    "dupes": 1,
-   "score": 0.387,
+   "score": 0.383,
    "tier": 3
   },
   {
@@ -848,39 +882,7 @@
     "paper"
    ],
    "dupes": 1,
-   "score": 0.387,
-   "tier": 3
-  },
-  {
-   "id": "e915ab1d27fbb25ab8b6ed8563c912c5eff80d22",
-   "title": "First-Order Trajectory Matching: Fast Ensemble Predictions of Chaotic, Turbulent, Stochastic Systems",
-   "url": "https://arxiv.org/abs/2606.11138v1",
-   "source": "arXiv cs.AI/LG",
-   "org": [],
-   "topic": "ai",
-   "tldr": "We introduce First-Order Trajectory Matching (FTM), a surrogate-modeling method that learns the first-order local transport of probability mass from trajectories of stochastic systems. (arXiv preprint)",
-   "published": "2026-06-09T17:29:05.000Z",
-   "badges": [
-    "paper"
-   ],
-   "dupes": 1,
-   "score": 0.387,
-   "tier": 3
-  },
-  {
-   "id": "53eca5c0c4bc5e964298fc858da9332c97a4bf8d",
-   "title": "Robust Regression of General ReLUs with Queries",
-   "url": "https://arxiv.org/abs/2606.11130v1",
-   "source": "arXiv cs.AI/LG",
-   "org": [],
-   "topic": "ai",
-   "tldr": "We study the task of agnostically learning general (as opposed to homogeneous) ReLUs under the Gaussian distribution with respect to the squared loss. (arXiv preprint)",
-   "published": "2026-06-09T17:24:47.000Z",
-   "badges": [
-    "paper"
-   ],
-   "dupes": 1,
-   "score": 0.387,
+   "score": 0.382,
    "tier": 3
   }
  ]
