@@ -3,67 +3,81 @@
 All sources below are **free and keyless**. This is the approved registry; adding a
 source that needs an API key or payment requires explicit sign-off from the owner.
 
+**Scope (June 2026): AI/LLM companies only.** Frontier labs — Anthropic, OpenAI,
+Google (DeepMind/Research), xAI, NVIDIA, Microsoft — and the open-source model
+labs — DeepSeek, Moonshot (Kimi), Zhipu (GLM), Alibaba (Qwen), Meta (Llama) — plus
+Hugging Face as the venue where open-weights releases actually land. Space,
+general science, and energy sources were removed by owner request; do not re-add
+without sign-off.
+
 URLs were correct as of June 2026 but publishers move feeds — `scripts/fetch.js`
-must treat every URL as fallible. If a feed 404s persistently, check the publisher's
-site for a new path (many sites expose feeds at `/feed`, `/rss.xml`, `/atom.xml`, or
-advertise them in HTML `<link rel="alternate" type="application/rss+xml">` tags).
+must treat every URL as fallible. If a feed 404s persistently, check the
+publisher's site for a new path.
 
-## Tier A — primary lab/company sources (highest weight, 0.9–1.0)
+## Tier A — official lab/company sources (weight 0.75–0.95)
 
-| Source | Org | Topic | Type | Endpoint / strategy |
-|---|---|---|---|---|
-| Anthropic News | anthropic | ai | rss | `https://www.anthropic.com/news` — check for an RSS link; if none, parse the news index page's JSON-LD or HTML list (be gentle: 1 req/run) |
-| OpenAI Blog | openai | ai | rss | `https://openai.com/blog/rss.xml` (path has changed before — verify) |
-| Google DeepMind Blog | google | ai | rss | `https://deepmind.google/blog/rss.xml` (verify; fall back to page parse) |
-| Google Research Blog | google | ai | rss | `https://research.google/blog/rss/` |
-| xAI News | xai | ai | html | `https://x.ai/news` — no known feed; parse index page |
-| SpaceX Updates | spacex | space | html | `https://www.spacex.com/updates/` — parse page; launches come from Launch Library instead |
-| Tesla / Terafab | terafab | compute | — | No first-party feed; Terafab coverage arrives via Tier C news + HN. Tag any item whose title matches /terafab/i with org `terafab` |
-
-HTML-parse sources: extract title + link + date only; keep selectors in
-`scripts/sources.js` so breakage is a one-line fix.
-
-## Tier B — research & structured data (weight 0.7–0.85)
-
-| Source | Topic | Type | Endpoint |
+| Source | Org | Type | Endpoint / strategy |
 |---|---|---|---|
-| arXiv API | ai/science | atom | `http://export.arxiv.org/api/query?search_query=cat:cs.AI+OR+cat:cs.LG&sortBy=submittedDate&sortOrder=descending&max_results=25` — also a second query for `cond-mat`, `quant-ph`, `eess.SY`. **3s between requests, descriptive User-Agent** |
-| Launch Library 2 | space | json | `https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=10` — free tier ~15 req/hr; one call per run |
-| NASA Breaking News | space | rss | `https://www.nasa.gov/news-release/feed/` |
+| Anthropic News | anthropic | html | `https://www.anthropic.com/news` — no RSS; parse anchors + `<time>`/`__title` classes (selectors in fetch.js, 1 req/run) |
+| OpenAI Blog | openai | rss | `https://openai.com/blog/rss.xml` |
+| Google DeepMind | google | rss | `https://deepmind.google/blog/rss.xml` |
+| Google Research | google | rss | `https://research.google/blog/rss/` |
+| NVIDIA Blog | nvidia | rss | `https://blogs.nvidia.com/feed/` |
+| Microsoft Research | microsoft | rss | `https://www.microsoft.com/en-us/research/feed/` |
+| Microsoft Blog | microsoft | rss | `https://blogs.microsoft.com/feed/` — corporate newsroom, `filter: 'frontier'` keeps only AI items |
+| Qwen Blog | qwen | rss | `https://qwenlm.github.io/blog/index.xml` — posts sporadically; Qwen news mostly arrives via HF + aggregators |
+| Hugging Face Blog | — | rss | `https://huggingface.co/blog/feed.xml` — orgs attached via title keyword rules |
 
-arXiv volume control: take only the newest 25 per category per run; ranking +
-dedupe keeps the feed from being swamped. Future upgrade: rank papers by early
-citation velocity via the free Semantic Scholar / OpenAlex APIs (also keyless).
+Notes:
+- **xAI has no scrapeable feed** — `x.ai/news` returns 403 to non-browser agents.
+  Coverage comes from the targeted HN query (grok/xai) + aggregators.
+- **Meta AI blog has no RSS** (`ai.meta.com/blog/rss/` 404s). Llama coverage comes
+  from HF (`meta-llama`) + keyword tagging on aggregator items.
 
-## Tier C — community signal & aggregators (weight 0.4–0.6)
+## Tier B — Hugging Face model releases (weight 0.75)
 
-| Source | Type | Endpoint |
+One keyless API call per org, newest 5 models each:
+`https://huggingface.co/api/models?author=<org>&sort=createdAt&direction=-1&limit=5`
+
+| Registry name | HF org | Tagged org |
 |---|---|---|
-| Hacker News (Algolia) | json | `https://hn.algolia.com/api/v1/search?tags=front_page` and targeted queries like `...search_by_date?query=anthropic&tags=story&numericFilters=points>50`. Keyless, generous limits |
-| Reddit r/spacex, r/MachineLearning | json | `https://www.reddit.com/r/spacex/top.json?t=day&limit=10` — set a real User-Agent or you'll get 429s |
-| Ars Technica Science | rss | `https://feeds.arstechnica.com/arstechnica/science` |
-| The Verge AI | rss | `https://www.theverge.com/rss/ai-artificial-intelligence/index.xml` (verify path) |
-| MIT Technology Review | rss | `https://www.technologyreview.com/feed/` |
-| TechCrunch AI | rss | `https://techcrunch.com/category/artificial-intelligence/feed/` |
+| HF · DeepSeek | `deepseek-ai` | deepseek |
+| HF · Moonshot | `moonshotai` | moonshot |
+| HF · Zhipu | `zai-org` | zhipu |
+| HF · Qwen | `Qwen` | qwen |
+| HF · Meta Llama | `meta-llama` | meta |
+| HF · OpenAI | `openai` | openai |
+| HF · Google | `google` | google |
 
-HN double-duty: besides supplying items, match HN stories against already-fetched
-items by URL to attach `points` as the `communitySignal` ranking input.
+These yield items only when an org pushed a model in the last 7 days — empty most
+runs, which is correct. Variant uploads (Base/Flash etc.) merge via fuzzy title
+dedupe. Items get a `model` badge.
+
+## Tier C — community signal & aggregators (weight 0.5–0.55)
+
+| Source | Endpoint | Notes |
+|---|---|---|
+| Hacker News | `https://hn.algolia.com/api/v1/search?tags=front_page&hitsPerPage=30` | `filter: 'frontier'` — keep only items matching org/topic keyword rules |
+| HN · xAI / DeepSeek / Kimi / GLM | `…/search_by_date?query=<term>&tags=story&numericFilters=points>10` | one query per under-covered org; `mustMatch` regex requires the term in the *title* (Algolia also matches body/author) |
+| The Verge AI | `https://www.theverge.com/rss/ai-artificial-intelligence/index.xml` | `filter: 'frontier'` |
+
+HN double-duty: besides supplying items, HN points feed the `communitySignal`
+ranking input after dedupe-merge.
 
 ## Topic taxonomy
 
-`ai` · `space` · `compute` · `science` · `energy`
-
-Each source carries a default topic; override per-item with keyword rules
-(e.g. /chip|fab|semiconductor|gpu|terafab/i → compute; /fusion|tokamak|battery|grid/i
-→ energy; /quantum|protein|physics|materials/i → science). Keep the rules table in
-`scripts/sources.js` next to the registry.
+`ai` (default) · `compute` (chips/GPU/datacenter keyword rule). The old
+space/science/energy topics are retired with the scope change; the schema field
+remains for forward compatibility.
 
 ## Org taxonomy
 
-`anthropic` · `openai` · `google` · `xai` · `spacex` · `terafab` · (none)
+`anthropic` · `openai` · `google` · `xai` · `nvidia` · `microsoft` · `meta` ·
+`deepseek` · `moonshot` · `zhipu` · `qwen` · (none)
 
-An item can carry multiple orgs (Terafab stories are usually also xai/spacex).
-Detect via keyword match on title for Tier B/C items.
+Each source carries default orgs; additional orgs attach via title keyword rules
+in `scripts/sources.js` (e.g. /claude/ → anthropic, /llama/ → meta, /kimi/ →
+moonshot). An item can carry multiple orgs.
 
 ## Etiquette / legal
 

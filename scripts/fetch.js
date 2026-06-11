@@ -22,6 +22,7 @@ async function fetchSource(src) {
   if (!res.ok) throw new Error(`HTTP ${res.status}`);
   const body = await res.text();
   if (src.type === 'json') return parseJsonSource(src, JSON.parse(body));
+  if (src.type === 'html') return parseHtmlSource(src, body);
   return parseFeed(src, body);
 }
 
@@ -104,14 +105,41 @@ function parseJsonSource(src, data) {
       points: h.points ?? 0,
     }));
   }
-  if (src.parse === 'launchLibrary') {
-    return (data.results ?? []).slice(0, 5).map(l => ({
-      title: `Launch: ${l.name}`,
-      url: l.url ?? `https://ll.thespacedevs.com/launch/${l.id}`,
-      description: l.mission?.description ?? '',
-      published: l.net, // launches are future-dated; recency handled in scoring
-      isLaunch: true,
+  if (src.parse === 'hfModels') {
+    return (Array.isArray(data) ? data : []).map(m => ({
+      title: `New model on Hugging Face: ${m.id ?? m.modelId}`,
+      url: `https://huggingface.co/${m.id ?? m.modelId}`,
+      description: '',
+      published: m.createdAt,
+      isModel: true,
     }));
+  }
+  return [];
+}
+
+// ─────────────────── HTML page parsers ───────────────────
+// Last resort for sources with no feed. Selectors live here so breakage
+// is a one-line fix; a redesign just yields zero items, never a crash.
+
+function parseHtmlSource(src, html) {
+  if (src.parse === 'anthropicNews') {
+    const items = [];
+    for (const m of html.matchAll(/<a [^>]*href="(\/news\/[a-z0-9-]+)"[^>]*>([\s\S]*?)<\/a>/g)) {
+      const [, path, inner] = m;
+      // featured grid wraps titles in <h*>, the publication list in a
+      // <span class="…__title…"> — match the class, fall back to the heading
+      const title = inner.match(/class="[^"]*__title[^"]*"[^>]*>([\s\S]*?)<\/(?:h\d|span|div)>/)?.[1]
+        ?? inner.match(/<h\d[^>]*>([\s\S]*?)<\/h\d>/)?.[1];
+      const date = inner.match(/<time[^>]*>([\s\S]*?)<\/time>/)?.[1];
+      if (!title || !date) continue;
+      items.push({
+        title: stripHtml(title),
+        url: `https://www.anthropic.com${path}`,
+        description: stripHtml(inner.match(/<p[^>]*>([\s\S]*?)<\/p>/)?.[1] ?? ''),
+        published: stripHtml(date), // "May 28, 2026" — Date() parses this
+      });
+    }
+    return items; // same story can appear in two page sections; URL dedupe merges
   }
   return [];
 }
@@ -153,7 +181,7 @@ function classifyBadges(item) {
     const target = r.on === 'url' ? item.url : item.title;
     if (r.re.test(target) && !badges.includes(r.badge)) badges.push(r.badge);
   }
-  if (item.isLaunch && !badges.includes('launch')) badges.unshift('launch');
+  if (item.isModel && !badges.includes('model')) badges.unshift('model');
   return badges;
 }
 
@@ -179,11 +207,11 @@ function normalise(src, raw) {
   if (src.filter === 'frontier'
       && !TOPIC_RULES.some(r => r.re.test(raw.title))
       && !ORG_RULES.some(r => r.re.test(raw.title))) return null;
+  // targeted search sources match on body/author too; require the term in the title
+  if (src.mustMatch && !src.mustMatch.test(raw.title)) return null;
 
   const ageMs = Date.now() - published.getTime();
-  // drop items older than 7 days; keep future-dated launches up to 14 days out
-  if (ageMs > MAX_AGE_DAYS * 864e5) return null;
-  if (ageMs < 0 && (!raw.isLaunch || -ageMs > 14 * 864e5)) return null;
+  if (ageMs > MAX_AGE_DAYS * 864e5 || ageMs < -36e5) return null; // stale or future-dated
 
   return {
     id: sha1(url),
@@ -253,12 +281,8 @@ function dedupe(items) {
 // ─────────────────── score & tier ───────────────────
 
 function score(item, maxPoints) {
-  const ageH = (Date.now() - new Date(item.published).getTime()) / 36e5;
-  // future-dated (upcoming launches): rank by proximity but damped, so a
-  // scheduled launch never outranks every actual story of the day
-  const recency = ageH >= 0
-    ? Math.exp(-Math.LN2 * ageH / 18) // half-life ~18h
-    : 0.55 * Math.exp(-Math.LN2 * -ageH / 24);
+  const ageH = Math.max(0, (Date.now() - new Date(item.published).getTime()) / 36e5);
+  const recency = Math.exp(-Math.LN2 * ageH / 18); // half-life ~18h
   const crossCoverage = Math.min(item.dupes, 4) / 4;
   const community = maxPoints > 0 ? item.points / maxPoints : 0;
   return +(0.35 * recency + 0.25 * item.weight + 0.25 * crossCoverage + 0.15 * community).toFixed(3);
@@ -302,7 +326,6 @@ async function main() {
   const generated = new Date().toISOString();
   const dayAgo = Date.now() - 864e5;
   const digest = items
-    .filter(i => i.source !== 'Launch Library') // digest is editorial; launches live in the feed
     .filter(i => new Date(i.published).getTime() >= dayAgo)
     .slice(0, 5)
     .map((i, n) => ({

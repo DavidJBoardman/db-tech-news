@@ -1,8 +1,11 @@
 # SIGNAL — Frontier Tech Briefing
 
-A zero-cost, static news-briefing platform that surfaces the absolute latest in AI,
-engineering, and science (Anthropic, OpenAI, Google DeepMind, xAI, SpaceX, Terafab,
-fusion, quantum, etc.) in a TL;DR-first, easily digestible format.
+A zero-cost, static news-briefing platform that surfaces the absolute latest from
+the AI/LLM companies — frontier labs (Anthropic, OpenAI, Google, xAI, NVIDIA,
+Microsoft) and open-source model labs (DeepSeek, Moonshot/Kimi, Zhipu/GLM,
+Alibaba/Qwen, Meta/Llama), plus Hugging Face model releases — in a TL;DR-first,
+easily digestible format. (Originally broader — space/science/energy — narrowed
+to AI-only by owner request in June 2026; see docs/DATA_SOURCES.md.)
 
 This repo was scaffolded from a design session in Claude.ai. A working visual
 prototype with final design tokens lives at `prototype/frontier-briefing-prototype.html`

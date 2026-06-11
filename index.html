@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>DB-TECH-NEWS — Frontier Tech Briefing</title>
-<meta name="description" content="The absolute latest in AI, space, compute, science and energy — de-duplicated, ranked, TL;DR-first. Updated every ~30 minutes.">
+<meta name="description" content="The absolute latest from the AI labs — Anthropic, OpenAI, Google, xAI, NVIDIA, Microsoft, and the open-source model labs — de-duplicated, ranked, TL;DR-first. Updated every ~30 minutes.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@75,500..800&family=IBM+Plex+Mono:wght@400;500&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
@@ -107,7 +107,7 @@
   .badges{display:flex;gap:6px;flex-wrap:wrap}
   .badge{font-family:var(--mono);font-size:9.5px;letter-spacing:.07em;text-transform:uppercase;background:var(--signal-soft);color:var(--signal-on-dark);border-radius:4px;padding:2.5px 7px}
   .badge.paper{background:#0A2A1E;color:#34D399}
-  .badge.launch{background:#2A130A;color:#FF8A5C}
+  .badge.model{background:#2A130A;color:#FF8A5C}
 
   /* ---------- tier-3 wire list ---------- */
   .wirelist{margin-top:26px}
@@ -171,24 +171,20 @@
   </aside>
 
   <main>
-    <!-- topic filters -->
-    <div class="filters" role="group" aria-label="Topic filters">
-      <button class="chip on" data-topic="all" onclick="setTopic(this)">All</button>
-      <button class="chip" data-topic="ai" onclick="setTopic(this)">AI &amp; Models</button>
-      <button class="chip" data-topic="space" onclick="setTopic(this)">Space</button>
-      <button class="chip" data-topic="compute" onclick="setTopic(this)">Chips &amp; Compute</button>
-      <button class="chip" data-topic="science" onclick="setTopic(this)">Science</button>
-      <button class="chip" data-topic="energy" onclick="setTopic(this)">Energy</button>
-    </div>
-    <!-- org filters -->
+    <!-- org filters — the feed is AI/LLM-only, so orgs are the one axis -->
     <div class="orgrow" role="group" aria-label="Organisation filters">
       <button class="chip on" data-org="all" onclick="setOrg(this)">All orgs</button>
       <button class="chip" data-org="anthropic" onclick="setOrg(this)">Anthropic</button>
       <button class="chip" data-org="openai" onclick="setOrg(this)">OpenAI</button>
       <button class="chip" data-org="google" onclick="setOrg(this)">Google</button>
       <button class="chip" data-org="xai" onclick="setOrg(this)">xAI</button>
-      <button class="chip" data-org="spacex" onclick="setOrg(this)">SpaceX</button>
-      <button class="chip" data-org="terafab" onclick="setOrg(this)">Terafab</button>
+      <button class="chip" data-org="nvidia" onclick="setOrg(this)">NVIDIA</button>
+      <button class="chip" data-org="microsoft" onclick="setOrg(this)">Microsoft</button>
+      <button class="chip" data-org="meta" onclick="setOrg(this)">Meta · Llama</button>
+      <button class="chip" data-org="deepseek" onclick="setOrg(this)">DeepSeek</button>
+      <button class="chip" data-org="moonshot" onclick="setOrg(this)">Kimi</button>
+      <button class="chip" data-org="zhipu" onclick="setOrg(this)">GLM</button>
+      <button class="chip" data-org="qwen" onclick="setOrg(this)">Qwen</button>
     </div>
 
     <div class="countline" id="countline"></div>
