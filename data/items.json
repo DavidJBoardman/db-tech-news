@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-11T09:28:40.321Z",
+ "generated": "2026-06-11T11:07:31.545Z",
  "items": [
   {
    "id": "436a674e3bf2eef7f208ea290d40459b3526cda7",
@@ -13,7 +13,7 @@
    "tldr": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
    "published": "2026-06-11T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.543,
+   "score": 0.528,
    "tier": 1
   },
   {
@@ -28,7 +28,7 @@
    "tldr": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
    "published": "2026-06-11T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.543,
+   "score": 0.528,
    "tier": 2
   },
   {
@@ -43,7 +43,7 @@
    "tldr": "",
    "published": "2026-06-10T16:42:00.000Z",
    "dupes": 1,
-   "score": 0.533,
+   "score": 0.522,
    "tier": 2
   },
   {
@@ -58,7 +58,20 @@
    "tldr": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
    "published": "2026-06-10T20:00:00.000Z",
    "dupes": 1,
-   "score": 0.508,
+   "score": 0.495,
+   "tier": 2
+  },
+  {
+   "id": "47d05adaf3b5567b68808cb126a7d74754fe064b",
+   "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+   "url": "https://huggingface.co/blog/torch-mlp-fusion",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-11T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.491,
    "tier": 2
   },
   {
@@ -73,7 +86,7 @@
    "tldr": "",
    "published": "2026-06-10T16:24:11.000Z",
    "dupes": 1,
-   "score": 0.481,
+   "score": 0.47,
    "tier": 2
   },
   {
@@ -88,7 +101,7 @@
    "tldr": "A car pulls up to the curb.  ” No one’s in the driver’s seat.",
    "published": "2026-06-10T19:00:12.000Z",
    "dupes": 1,
-   "score": 0.475,
+   "score": 0.463,
    "tier": 2
   },
   {
@@ -103,7 +116,22 @@
    "tldr": "Algorithms & Theory",
    "published": "2026-06-10T17:34:55.000Z",
    "dupes": 1,
-   "score": 0.465,
+   "score": 0.453,
+   "tier": 2
+  },
+  {
+   "id": "c71f854be1a8bcbe3ffaaf878a11528c9a97e567",
+   "title": "PRC-linked influence operations are targeting AI debates in the US",
+   "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "S.  tech debates, data center narratives, tariffs, and false claims about ChatGPT.",
+   "published": "2026-06-10T12:00:00.000Z",
+   "dupes": 1,
+   "score": 0.444,
    "tier": 2
   },
   {
@@ -119,22 +147,7 @@
    "tldr": "Today, Google DeepMind released DiffusionGemma — an experimental open model built for exceptionally fast text generation.  NVIDIA has optimized DiffusionGemma to run even faster across NVIDIA GeForce RTX GPUs, the…",
    "published": "2026-06-10T16:15:20.000Z",
    "dupes": 1,
-   "score": 0.455,
-   "tier": 2
-  },
-  {
-   "id": "c71f854be1a8bcbe3ffaaf878a11528c9a97e567",
-   "title": "PRC-linked influence operations are targeting AI debates in the US",
-   "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "S.  tech debates, data center narratives, tariffs, and false claims about ChatGPT.",
-   "published": "2026-06-10T12:00:00.000Z",
-   "dupes": 1,
-   "score": 0.453,
+   "score": 0.444,
    "tier": 2
   },
   {
@@ -149,7 +162,7 @@
    "tldr": "",
    "published": "2026-06-09T17:23:40.000Z",
    "dupes": 1,
-   "score": 0.42,
+   "score": 0.417,
    "tier": 2
   },
   {
@@ -164,21 +177,6 @@
    "tldr": "Our next generation of intelligence for the hardest knowledge work and coding problems.",
    "published": "2026-06-09T00:00:00.000Z",
    "dupes": 2,
-   "score": 0.401,
-   "tier": 2
-  },
-  {
-   "id": "a2aeb0bb039ad6a6dd7dfae7ea402b1895e2110b",
-   "title": "Claude Fable won’t answer basic biology questions",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions",
-   "source": "The Verge AI",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others.  But the model won't answer basic biology questions - the…",
-   "published": "2026-06-10T18:43:34.000Z",
-   "dupes": 1,
    "score": 0.398,
    "tier": 2
   },
@@ -194,8 +192,23 @@
    "tldr": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
    "published": "2026-06-10T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.396,
+   "score": 0.39,
    "tier": 2
+  },
+  {
+   "id": "a2aeb0bb039ad6a6dd7dfae7ea402b1895e2110b",
+   "title": "Claude Fable won’t answer basic biology questions",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions",
+   "source": "The Verge AI",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others.  But the model won't answer basic biology questions - the…",
+   "published": "2026-06-10T18:43:34.000Z",
+   "dupes": 1,
+   "score": 0.386,
+   "tier": 3
   },
   {
    "id": "4e836ca02eba75b8618a6842a9a69387fa627306",
@@ -209,53 +222,7 @@
    "tldr": "New college graduates around the country have been booing and heckling commencement speakers who hype up AI.  Microsoft would like everyone to talk it out.",
    "published": "2026-06-10T17:45:11.000Z",
    "dupes": 1,
-   "score": 0.391,
-   "tier": 3
-  },
-  {
-   "id": "69077b34ceca0bc58f632771d1ed8496c55907b8",
-   "title": "Google won’t just admit it’s feeding YouTube creators to its music AI",
-   "url": "https://www.theverge.com/tech/947770/google-lyria-music-ai-lawsuit-youtube",
-   "source": "The Verge AI",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "If you've uploaded a song to YouTube, Google almost certainly considers your video fair game for training its Lyria music AI, it just won't admit it right now.  A group of independent musicians is suing Google, claiming…",
-   "published": "2026-06-10T17:20:36.000Z",
-   "dupes": 1,
-   "score": 0.388,
-   "tier": 3
-  },
-  {
-   "id": "dc6895b72e31ab9099e2b98483fffb9308729077",
-   "title": "Microsoft restricts Claude Fable for employees over data retention concerns",
-   "url": "https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally",
-   "source": "The Verge AI",
-   "org": [
-    "anthropic",
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "Anthropic released Claude Fable, its first Mythos-class AI model, yesterday and it's already causing concerns inside Microsoft.  Sources tell me that Microsoft is limiting the use of Claude Fable 5 for employees because…",
-   "published": "2026-06-10T16:50:23.000Z",
-   "dupes": 1,
-   "score": 0.384,
-   "tier": 3
-  },
-  {
-   "id": "d9dcba35528ad3bf6a3c56fc049af2b98a605a1c",
-   "title": "Google will save your Lens photos, Search Live recordings, and Translate audio for AI training",
-   "url": "https://www.theverge.com/tech/947836/google-search-privacy-settings-images-audio",
-   "source": "The Verge AI",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Google is making some changes to how it saves your interactions with Search.  In an email sent to users, Google says it will save the images, files, audio, and video you use to search under a new \"Search Services…",
-   "published": "2026-06-10T16:18:45.000Z",
-   "dupes": 1,
-   "score": 0.381,
+   "score": 0.379,
    "tier": 3
   },
   {
@@ -277,6 +244,52 @@
    "tier": 3
   },
   {
+   "id": "69077b34ceca0bc58f632771d1ed8496c55907b8",
+   "title": "Google won’t just admit it’s feeding YouTube creators to its music AI",
+   "url": "https://www.theverge.com/tech/947770/google-lyria-music-ai-lawsuit-youtube",
+   "source": "The Verge AI",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "If you've uploaded a song to YouTube, Google almost certainly considers your video fair game for training its Lyria music AI, it just won't admit it right now.  A group of independent musicians is suing Google, claiming…",
+   "published": "2026-06-10T17:20:36.000Z",
+   "dupes": 1,
+   "score": 0.376,
+   "tier": 3
+  },
+  {
+   "id": "dc6895b72e31ab9099e2b98483fffb9308729077",
+   "title": "Microsoft restricts Claude Fable for employees over data retention concerns",
+   "url": "https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally",
+   "source": "The Verge AI",
+   "org": [
+    "anthropic",
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "Anthropic released Claude Fable, its first Mythos-class AI model, yesterday and it's already causing concerns inside Microsoft.  Sources tell me that Microsoft is limiting the use of Claude Fable 5 for employees because…",
+   "published": "2026-06-10T16:50:23.000Z",
+   "dupes": 1,
+   "score": 0.373,
+   "tier": 3
+  },
+  {
+   "id": "d9dcba35528ad3bf6a3c56fc049af2b98a605a1c",
+   "title": "Google will save your Lens photos, Search Live recordings, and Translate audio for AI training",
+   "url": "https://www.theverge.com/tech/947836/google-search-privacy-settings-images-audio",
+   "source": "The Verge AI",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Google is making some changes to how it saves your interactions with Search.  In an email sent to users, Google says it will save the images, files, audio, and video you use to search under a new \"Search Services…",
+   "published": "2026-06-10T16:18:45.000Z",
+   "dupes": 1,
+   "score": 0.37,
+   "tier": 3
+  },
+  {
    "id": "5cf88629509e3eaf5c628adbea2cc2f89edcf38d",
    "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
    "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate",
@@ -288,7 +301,7 @@
    "tldr": "5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.",
    "published": "2026-06-09T15:16:25.000Z",
    "dupes": 1,
-   "score": 0.369,
+   "score": 0.365,
    "tier": 3
   },
   {
@@ -303,7 +316,7 @@
    "tldr": "",
    "published": "2026-06-09T14:10:19.000Z",
    "dupes": 1,
-   "score": 0.366,
+   "score": 0.362,
    "tier": 3
   },
   {
@@ -318,7 +331,7 @@
    "tldr": "",
    "published": "2026-06-09T14:02:33.000Z",
    "dupes": 1,
-   "score": 0.366,
+   "score": 0.362,
    "tier": 3
   },
   {
@@ -333,7 +346,7 @@
    "tldr": "NVIDIA GPUs with Confidential Computing are now used for confidential inference in Apple’s Private Cloud Compute (PCC), as it expands beyond Apple’s data centers to Google Cloud.",
    "published": "2026-06-09T22:34:27.000Z",
    "dupes": 1,
-   "score": 0.366,
+   "score": 0.361,
    "tier": 3
   },
   {
@@ -348,7 +361,7 @@
    "tldr": "5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
    "published": "2026-06-09T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.361,
+   "score": 0.357,
    "tier": 3
   },
   {
@@ -363,7 +376,7 @@
    "tldr": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
    "published": "2026-06-09T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.356,
+   "score": 0.353,
    "tier": 3
   },
   {
@@ -376,7 +389,22 @@
    "tldr": "",
    "published": "2026-06-09T19:38:28.000Z",
    "dupes": 1,
-   "score": 0.344,
+   "score": 0.339,
+   "tier": 3
+  },
+  {
+   "id": "31f4bff2af385a2c6ac953aeba84020eb05276fe",
+   "title": "Industrial policy for the Intelligence Age",
+   "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
+   "published": "2026-06-09T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.336,
    "tier": 3
   },
   {
@@ -392,22 +420,7 @@
    "tldr": "",
    "published": "2026-06-08T01:39:30.000Z",
    "dupes": 1,
-   "score": 0.342,
-   "tier": 3
-  },
-  {
-   "id": "31f4bff2af385a2c6ac953aeba84020eb05276fe",
-   "title": "Industrial policy for the Intelligence Age",
-   "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
-   "published": "2026-06-09T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.338,
+   "score": 0.331,
    "tier": 3
   },
   {
@@ -420,7 +433,7 @@
    "tldr": "",
    "published": "2026-06-09T15:56:23.000Z",
    "dupes": 1,
-   "score": 0.333,
+   "score": 0.329,
    "tier": 3
   },
   {
@@ -435,7 +448,7 @@
    "tldr": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
    "published": "2026-06-08T14:00:00.000Z",
    "dupes": 1,
-   "score": 0.326,
+   "score": 0.324,
    "tier": 3
   },
   {
@@ -450,7 +463,7 @@
    "tldr": "Results from a randomized controlled trial show the potential of Gemini’s Guided Learning feature to boost engagement and accelerate learning.",
    "published": "2026-06-08T13:04:59.000Z",
    "dupes": 1,
-   "score": 0.325,
+   "score": 0.324,
    "tier": 3
   },
   {
@@ -463,7 +476,7 @@
    "tldr": "",
    "published": "2026-06-09T10:46:19.000Z",
    "dupes": 1,
-   "score": 0.32,
+   "score": 0.317,
    "tier": 3
   },
   {
@@ -478,7 +491,7 @@
    "tldr": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
    "published": "2026-06-08T01:30:00.000Z",
    "dupes": 1,
-   "score": 0.316,
+   "score": 0.315,
    "tier": 3
   },
   {
@@ -496,7 +509,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.315,
+   "score": 0.314,
    "tier": 3
   },
   {
@@ -514,7 +527,7 @@
     "model"
    ],
    "dupes": 1,
-   "score": 0.312,
+   "score": 0.308,
    "tier": 3
   },
   {
@@ -545,7 +558,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.301,
+   "score": 0.298,
    "tier": 3
   },
   {
@@ -563,7 +576,7 @@
     "model"
    ],
    "dupes": 1,
-   "score": 0.301,
+   "score": 0.298,
    "tier": 3
   },
   {
@@ -578,7 +591,7 @@
    "tldr": "K.  K.",
    "published": "2026-06-08T06:00:57.000Z",
    "dupes": 1,
-   "score": 0.294,
+   "score": 0.293,
    "tier": 3
   },
   {
@@ -593,7 +606,7 @@
    "tldr": "NVIDIA and LG Group are building an AI factory to accelerate LG Group’s next wave of AI-driven businesses, spanning robotics, autonomous driving, data center technologies and GPU cloud services.  The AI factory will…",
    "published": "2026-06-08T03:00:50.000Z",
    "dupes": 1,
-   "score": 0.292,
+   "score": 0.291,
    "tier": 3
   },
   {
@@ -608,7 +621,22 @@
    "tldr": "NVIDIA and Doosan Group are expanding their collaboration to advance new opportunities across physical AI, robotics and AI factory infrastructure, spanning Doosan Robotics, Doosan Bobcat, Doosan Enerbility and Doosan…",
    "published": "2026-06-07T23:00:36.000Z",
    "dupes": 1,
-   "score": 0.29,
+   "score": 0.289,
+   "tier": 3
+  },
+  {
+   "id": "7da74453315a4d2c4fee4356421348c88cd69bef",
+   "title": "NVIDIA, KRAFTON, NC and Reigning ‘League of Legends’ Champions T1 Celebrate RTX Spark at Korea’s PC Bangs",
+   "url": "https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "At GTC Taipei at COMPUTEX last week, NVIDIA unveiled RTX Spark, the superchip that reinvents Windows PCs for the era of personal AI agents.  On the heels of this announcement, NVIDIA founder and CEO Jensen Huang headed…",
+   "published": "2026-06-07T07:00:15.000Z",
+   "dupes": 1,
+   "score": 0.282,
    "tier": 3
   },
   {
@@ -624,22 +652,7 @@
    "tldr": "Microsoft AI CEO Mustafa Suleyman says it's \"really, really dangerous\" for Anthropic to speculate about Claude's consciousness inside its \"constitution,\" or the instructions that tell the model how to behave.",
    "published": "2026-06-09T20:24:25.000Z",
    "dupes": 1,
-   "score": 0.284,
-   "tier": 3
-  },
-  {
-   "id": "7da74453315a4d2c4fee4356421348c88cd69bef",
-   "title": "NVIDIA, KRAFTON, NC and Reigning ‘League of Legends’ Champions T1 Celebrate RTX Spark at Korea’s PC Bangs",
-   "url": "https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "At GTC Taipei at COMPUTEX last week, NVIDIA unveiled RTX Spark, the superchip that reinvents Windows PCs for the era of personal AI agents.  On the heels of this announcement, NVIDIA founder and CEO Jensen Huang headed…",
-   "published": "2026-06-07T07:00:15.000Z",
-   "dupes": 1,
-   "score": 0.283,
+   "score": 0.279,
    "tier": 3
   },
   {
@@ -655,7 +668,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.278,
+   "score": 0.277,
    "tier": 3
   },
   {
