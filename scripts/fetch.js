@@ -141,6 +141,29 @@ function parseHtmlSource(src, html) {
     }
     return items; // same story can appear in two page sections; URL dedupe merges
   }
+  if (src.parse === 'metaAiBlog') {
+    // Class names on ai.meta.com are obfuscated and rotate, but the page's
+    // bottom grid tags every post card with a 'listview-card' analytics
+    // marker. Each card reads: date → category <h4> → title <h4> →
+    // description <p> → "Learn More" anchor with the post URL.
+    const items = [];
+    const dateRe = /(?:January|February|March|April|May|June|July|August|September|October|November|December) \d{1,2}, \d{4}/;
+    for (const chunk of html.split('listview-card').slice(1)) {
+      const um = chunk.match(/href="(https:\/\/ai\.meta\.com\/blog\/[a-z0-9-]+\/)"/);
+      if (!um || um.index > 3000) continue; // tiny inter-marker chunk or stray link
+      const block = chunk.slice(0, um.index); // stop at the link so we never read the next card
+      const date = block.match(dateRe)?.[0];
+      const h4s = [...block.matchAll(/<h4[^>]*>([^<]{4,}?)<\/h4>/g)];
+      if (!date || !h4s.length) continue;
+      items.push({
+        title: stripHtml(h4s.at(-1)[1]), // last <h4>: the title (first is the category)
+        url: um[1],
+        description: stripHtml([...block.matchAll(/<p[^>]*>([^<]{60,}?)<\/p>/g)][0]?.[1] ?? ''),
+        published: date,
+      });
+    }
+    return items; // upstream URL dedupe merges repeats
+  }
   return [];
 }
 

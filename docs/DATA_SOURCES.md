@@ -19,6 +19,8 @@ publisher's site for a new path.
 | Source | Org | Type | Endpoint / strategy |
 |---|---|---|---|
 | Anthropic News | anthropic | html | `https://www.anthropic.com/news` — no RSS; parse anchors + `<time>`/`__title` classes (selectors in fetch.js, 1 req/run) |
+| Meta AI Blog | meta | html | `https://ai.meta.com/blog/` — no RSS; parse the bottom grid's `listview-card` blocks (date → category h4 → title h4 → desc p → link). Posts ~monthly |
+| Meta Newsroom | meta | rss | `https://about.fb.com/news/feed/` — fresh daily but general corporate; `mustMatch` AI-keyword guard (the frontier filter can't help: every title contains "Meta") |
 | OpenAI Blog | openai | rss | `https://openai.com/blog/rss.xml` |
 | Google DeepMind | google | rss | `https://deepmind.google/blog/rss.xml` |
 | Google Research | google | rss | `https://research.google/blog/rss/` |
@@ -31,8 +33,9 @@ publisher's site for a new path.
 Notes:
 - **xAI has no scrapeable feed** — `x.ai/news` returns 403 to non-browser agents.
   Coverage comes from the targeted HN query (grok/xai) + aggregators.
-- **Meta AI blog has no RSS** (`ai.meta.com/blog/rss/` 404s). Llama coverage comes
-  from HF (`meta-llama`) + keyword tagging on aggregator items.
+- **Meta has no AI RSS** (`ai.meta.com/blog/rss/` 404s; `research.facebook.com/feed/`
+  is dead since 2023; `engineering.fb.com/feed/` is infra, not AI). Hence the HTML
+  parse + filtered newsroom above, plus HF (`meta-llama`) and keyword tagging.
 
 ## Tier B — Hugging Face model releases (weight 0.75)
 

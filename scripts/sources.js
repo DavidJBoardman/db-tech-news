@@ -38,6 +38,18 @@ export const SOURCES = [
     filter: 'frontier', // corporate newsroom — keep only AI/model items
   },
   {
+    name: 'Meta AI Blog', org: ['meta'], topic: 'ai', type: 'html',
+    url: 'https://ai.meta.com/blog/', weight: 0.95,
+    parse: 'metaAiBlog', // no RSS — parse the blog index page (1 req/run)
+  },
+  {
+    name: 'Meta Newsroom', org: ['meta'], topic: 'ai', type: 'rss',
+    url: 'https://about.fb.com/news/feed/', weight: 0.75,
+    // corporate newsroom — every title says "Meta", so the frontier filter
+    // can't discriminate; require an actual AI keyword in the title instead
+    mustMatch: /\bAI\b|artificial intelligence|llama|superintelligen|\bmodel\b|data ?cent(er|re)|compute|smart glasses/i,
+  },
+  {
     name: 'Qwen Blog', org: ['qwen'], topic: 'ai', type: 'rss',
     url: 'https://qwenlm.github.io/blog/index.xml', weight: 0.9,
   },
