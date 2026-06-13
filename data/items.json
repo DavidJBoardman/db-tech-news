@@ -1,20 +1,51 @@
 {
- "generated": "2026-06-13T17:02:06.128Z",
+ "generated": "2026-06-13T17:56:02.647Z",
  "items": [
   {
-   "id": "c368b693a7979a02d7f765cf349eaad8330e855e",
-   "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
-   "source": "The Verge AI",
+   "id": "989cdb1a0573d86b56fe9b2bfad40688729b9d56",
+   "title": "Amazon CEO's Talks with U.S. Officials Triggered Crackdown on Anthropic Models",
+   "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578",
+   "source": "Hacker News",
    "org": [
     "anthropic"
    ],
    "topic": "ai",
-   "tldr": "On Friday evening, the government ordered Anthropic to block access to Fable 5 and Mythos 5 for all foreign nations, both inside and outside the US, due to national security concerns.  That order included employees of…",
-   "published": "2026-06-13T12:55:49.000Z",
+   "tldr": "",
+   "published": "2026-06-13T16:57:49.000Z",
    "dupes": 1,
-   "score": 0.499,
+   "score": 0.552,
    "tier": 1
+  },
+  {
+   "id": "025e51008e638cbb597b98edc146150845898a86",
+   "title": "The adder at the heart of Intel's 8087 floating-point chip",
+   "url": "https://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html",
+   "source": "Hacker News",
+   "org": [],
+   "topic": "compute",
+   "tldr": "",
+   "published": "2026-06-13T16:49:42.000Z",
+   "dupes": 1,
+   "score": 0.541,
+   "tier": 2
+  },
+  {
+   "id": "3a82f66e12060897941579760134a9a54b4d64e7",
+   "title": "New model on Hugging Face: moonshotai/Kimi-K2.7-Code",
+   "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+   "source": "HF · Moonshot",
+   "org": [
+    "moonshot"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-11T07:51:47.000Z",
+   "badges": [
+    "model"
+   ],
+   "dupes": 2,
+   "score": 0.5,
+   "tier": 2
   },
   {
    "id": "3a07387af38bd905d3b891b3cf16726cd4c9c589",
@@ -28,40 +59,22 @@
    "tldr": "",
    "published": "2026-06-13T09:55:32.000Z",
    "dupes": 1,
-   "score": 0.494,
+   "score": 0.493,
    "tier": 2
   },
   {
-   "id": "3a82f66e12060897941579760134a9a54b4d64e7",
-   "title": "Kimi K2.7-Code: open-source coding model with better token efficiency",
-   "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
-   "source": "HN · Kimi",
+   "id": "c368b693a7979a02d7f765cf349eaad8330e855e",
+   "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
+   "source": "The Verge AI",
    "org": [
-    "moonshot"
+    "anthropic"
    ],
    "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-12T10:42:50.000Z",
-   "badges": [
-    "oss"
-   ],
+   "tldr": "On Friday evening, the government ordered Anthropic to block access to Fable 5 and Mythos 5 for all foreign nations, both inside and outside the US, due to national security concerns.  That order included employees of…",
+   "published": "2026-06-13T12:55:49.000Z",
    "dupes": 1,
-   "score": 0.446,
-   "tier": 2
-  },
-  {
-   "id": "c152656997f1f77618107ea20a89cb7e5f683632",
-   "title": "NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark",
-   "url": "https://blogs.nvidia.com/blog/nvidia-blackwell-agentperf-artificial-analysis",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "AgentPerf from Artificial Analysis, the industry’s first agentic AI benchmark, gives developers, enterprises and infrastructure providers a clear way to compare systems for agentic AI.",
-   "published": "2026-06-12T21:00:08.000Z",
-   "dupes": 1,
-   "score": 0.437,
+   "score": 0.489,
    "tier": 2
   },
   {
@@ -76,7 +89,22 @@
    "tldr": "The US government has issued an export control directive to suspend all access to Fable 5 and Mythos 5.",
    "published": "2026-06-12T00:00:00.000Z",
    "dupes": 2,
-   "score": 0.435,
+   "score": 0.432,
+   "tier": 2
+  },
+  {
+   "id": "c152656997f1f77618107ea20a89cb7e5f683632",
+   "title": "NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark",
+   "url": "https://blogs.nvidia.com/blog/nvidia-blackwell-agentperf-artificial-analysis",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "AgentPerf from Artificial Analysis, the industry’s first agentic AI benchmark, gives developers, enterprises and infrastructure providers a clear way to compare systems for agentic AI.",
+   "published": "2026-06-12T21:00:08.000Z",
+   "dupes": 1,
+   "score": 0.431,
    "tier": 2
   },
   {
@@ -91,7 +119,7 @@
    "tldr": "Project Ire examined a timely malware sample and determined its intent through reverse engineering—identifying LOTUSLITE characteristics even as most major EDR tools did not detect it.  The post Ire identifies another…",
    "published": "2026-06-12T20:30:48.000Z",
    "dupes": 1,
-   "score": 0.421,
+   "score": 0.416,
    "tier": 2
   },
   {
@@ -109,7 +137,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.418,
+   "score": 0.414,
    "tier": 2
   },
   {
@@ -124,7 +152,7 @@
    "tldr": "Climate & Sustainability",
    "published": "2026-06-12T17:37:00.000Z",
    "dupes": 1,
-   "score": 0.417,
+   "score": 0.412,
    "tier": 2
   },
   {
@@ -139,7 +167,20 @@
    "tldr": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
    "published": "2026-06-12T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.406,
+   "score": 0.402,
+   "tier": 2
+  },
+  {
+   "id": "80b8efd89b1a09401ec51f9709072ec05b60fe55",
+   "title": "olmo-eval: An evaluation workbench for the model development loop",
+   "url": "https://huggingface.co/blog/allenai/olmo-eval",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-12T15:56:10.000Z",
+   "dupes": 1,
+   "score": 0.391,
    "tier": 2
   },
   {
@@ -154,7 +195,7 @@
    "tldr": "We’re launching Claude Corps, a national fellowship program for people early in their careers who are passionate about extending the benefits of AI to communities across America.",
    "published": "2026-06-11T00:00:00.000Z",
    "dupes": 2,
-   "score": 0.391,
+   "score": 0.39,
    "tier": 2
   },
   {
@@ -169,8 +210,8 @@
    "tldr": "",
    "published": "2026-06-12T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.372,
-   "tier": 2
+   "score": 0.37,
+   "tier": 3
   },
   {
    "id": "c63ebd83a0f1aeb21999c31a8230735e0c5a5e98",
@@ -184,8 +225,8 @@
    "tldr": "",
    "published": "2026-06-12T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.372,
-   "tier": 2
+   "score": 0.37,
+   "tier": 3
   },
   {
    "id": "dcc2fd07a9e824262e00178f630f3e3a6b89415a",
@@ -199,8 +240,8 @@
    "tldr": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
    "published": "2026-06-12T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.372,
-   "tier": 2
+   "score": 0.37,
+   "tier": 3
   },
   {
    "id": "ae2bea9b25f37e843f6c56d2cd5d1705a86833d4",
@@ -214,7 +255,7 @@
    "tldr": "We're donating Ray-Ban Meta glasses to every blind veteran in America, giving them transformative AI technology.  The post The Future Is for Everyone: Free AI Glasses for Every Blind Veteran in America appeared first on…",
    "published": "2026-06-12T12:33:26.000Z",
    "dupes": 1,
-   "score": 0.367,
+   "score": 0.363,
    "tier": 3
   },
   {
@@ -229,7 +270,7 @@
    "tldr": "",
    "published": "2026-06-11T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.329,
+   "score": 0.328,
    "tier": 3
   },
   {
@@ -244,7 +285,7 @@
    "tldr": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
    "published": "2026-06-11T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.329,
+   "score": 0.328,
    "tier": 3
   },
   {
@@ -259,7 +300,7 @@
    "tldr": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
    "published": "2026-06-11T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.329,
+   "score": 0.328,
    "tier": 3
   },
   {
@@ -274,7 +315,7 @@
    "tldr": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
    "published": "2026-06-11T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.329,
+   "score": 0.328,
    "tier": 3
   },
   {
@@ -289,22 +330,7 @@
    "tldr": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
    "published": "2026-06-11T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.329,
-   "tier": 3
-  },
-  {
-   "id": "4600462b11c1a928d9c79ee019bba42c6203b5d2",
-   "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
-   "url": "https://openai.com/index/openai-on-oracle-cloud",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
-   "published": "2026-06-10T20:00:00.000Z",
-   "dupes": 1,
-   "score": 0.325,
+   "score": 0.328,
    "tier": 3
   },
   {
@@ -324,18 +350,18 @@
    "tier": 3
   },
   {
-   "id": "b6e60e982c36388743950553d7ebf47a449c85be",
-   "title": "Save Big and Play Bigger: GeForce NOW Summer Sale Brings Major Membership Savings",
-   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-summer-sale-2026",
-   "source": "NVIDIA Blog",
+   "id": "4600462b11c1a928d9c79ee019bba42c6203b5d2",
+   "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+   "url": "https://openai.com/index/openai-on-oracle-cloud",
+   "source": "OpenAI Blog",
    "org": [
-    "nvidia"
+    "openai"
    ],
-   "topic": "compute",
-   "tldr": "The GeForce NOW summer sale kicked off today with limited-time savings of up to $70 off a 12-month membership, making now the perfect time to upgrade to get the best of the cloud and see just how far Ultimate gaming can…",
-   "published": "2026-06-11T13:00:17.000Z",
+   "topic": "ai",
+   "tldr": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
+   "published": "2026-06-10T20:00:00.000Z",
    "dupes": 1,
-   "score": 0.322,
+   "score": 0.324,
    "tier": 3
   },
   {
@@ -354,6 +380,21 @@
    "tier": 3
   },
   {
+   "id": "b6e60e982c36388743950553d7ebf47a449c85be",
+   "title": "Save Big and Play Bigger: GeForce NOW Summer Sale Brings Major Membership Savings",
+   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-summer-sale-2026",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "The GeForce NOW summer sale kicked off today with limited-time savings of up to $70 off a 12-month membership, making now the perfect time to upgrade to get the best of the cloud and see just how far Ultimate gaming can…",
+   "published": "2026-06-11T13:00:17.000Z",
+   "dupes": 1,
+   "score": 0.321,
+   "tier": 3
+  },
+  {
    "id": "c71f854be1a8bcbe3ffaaf878a11528c9a97e567",
    "title": "PRC-linked influence operations are targeting AI debates in the US",
    "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
@@ -365,7 +406,7 @@
    "tldr": "S.  tech debates, data center narratives, tariffs, and false claims about ChatGPT.",
    "published": "2026-06-10T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.318,
+   "score": 0.317,
    "tier": 3
   },
   {
@@ -380,7 +421,7 @@
    "tldr": "",
    "published": "2026-06-11T13:14:31.000Z",
    "dupes": 1,
-   "score": 0.318,
+   "score": 0.317,
    "tier": 3
   },
   {
@@ -398,7 +439,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.317,
+   "score": 0.316,
    "tier": 3
   },
   {
@@ -447,21 +488,6 @@
    "tier": 3
   },
   {
-   "id": "f4a6f6d2b3925084aea66adf8ec3977527da2dbb",
-   "title": "Powering the future of robotics in Europe",
-   "url": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe",
-   "source": "Google DeepMind",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-09T14:02:33.000Z",
-   "dupes": 1,
-   "score": 0.308,
-   "tier": 3
-  },
-  {
    "id": "d484de5576e8df56c06c2f008127d89a545e61a1",
    "title": "How engineers at Nextdoor use Codex to build without limits",
    "url": "https://openai.com/index/nextdoor",
@@ -472,6 +498,21 @@
    "topic": "ai",
    "tldr": "5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
    "published": "2026-06-09T12:00:00.000Z",
+   "dupes": 1,
+   "score": 0.307,
+   "tier": 3
+  },
+  {
+   "id": "f4a6f6d2b3925084aea66adf8ec3977527da2dbb",
+   "title": "Powering the future of robotics in Europe",
+   "url": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe",
+   "source": "Google DeepMind",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-09T14:02:33.000Z",
    "dupes": 1,
    "score": 0.307,
    "tier": 3
@@ -488,7 +529,7 @@
    "tldr": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
    "published": "2026-06-09T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.307,
+   "score": 0.306,
    "tier": 3
   },
   {
@@ -503,7 +544,7 @@
    "tldr": "",
    "published": "2026-06-09T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.305,
+   "score": 0.304,
    "tier": 3
   },
   {
@@ -518,7 +559,7 @@
    "tldr": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
    "published": "2026-06-09T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.305,
+   "score": 0.304,
    "tier": 3
   },
   {
@@ -596,7 +637,7 @@
    "tldr": "A car pulls up to the curb.  ” No one’s in the driver’s seat.",
    "published": "2026-06-10T19:00:12.000Z",
    "dupes": 1,
-   "score": 0.299,
+   "score": 0.298,
    "tier": 3
   },
   {
@@ -631,6 +672,19 @@
    "tier": 3
   },
   {
+   "id": "47d05adaf3b5567b68808cb126a7d74754fe064b",
+   "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+   "url": "https://huggingface.co/blog/torch-mlp-fusion",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-11T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.29,
+   "tier": 3
+  },
+  {
    "id": "c5bba45f9cffa4718ace32c0b5e0e51c9b5add02",
    "title": "NVIDIA Confidential Computing to Help Expand Apple’s Private Cloud Compute",
    "url": "https://blogs.nvidia.com/blog/nvidia-confidential-computing-apple-private-cloud-compute",
@@ -642,7 +696,7 @@
    "tldr": "NVIDIA GPUs with Confidential Computing are now used for confidential inference in Apple’s Private Cloud Compute (PCC), as it expands beyond Apple’s data centers to Google Cloud.",
    "published": "2026-06-09T22:34:27.000Z",
    "dupes": 1,
-   "score": 0.286,
+   "score": 0.285,
    "tier": 3
   },
   {
@@ -706,6 +760,19 @@
    "tier": 3
   },
   {
+   "id": "3b631680ec0a9301bad9396886deef58e476f189",
+   "title": "Introducing North Mini Code: Cohere’s First Model For Developers",
+   "url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-09T15:56:23.000Z",
+   "dupes": 1,
+   "score": 0.271,
+   "tier": 3
+  },
+  {
    "id": "7ee0693dd3ce103ef57cffa7fece5f236bc87576",
    "title": "Infrastructure Explained: Compute Power",
    "url": "https://about.fb.com/news/2026/06/what-is-compute-power-meta-ai-infrastructure",
@@ -717,7 +784,52 @@
    "tldr": "We're explaining what compute power is and how GPUs, CPUs, and MTIA custom silicon help us meet our AI innovation and computing needs.  The post Infrastructure Explained: Compute Power appeared first on Meta Newsroom .",
    "published": "2026-06-10T14:30:04.000Z",
    "dupes": 1,
-   "score": 0.27,
+   "score": 0.269,
+   "tier": 3
+  },
+  {
+   "id": "92ae8342b63631379180bff2702e8ca9a275971f",
+   "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+   "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-09T10:46:19.000Z",
+   "dupes": 1,
+   "score": 0.269,
+   "tier": 3
+  },
+  {
+   "id": "eb987eaf18833b227db4ccfcd6d545cef5b93d9a",
+   "title": "Migrating Your GitHub CI to Hugging Face Jobs",
+   "url": "https://huggingface.co/blog/github-ci-hf-jobs",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-09T00:00:00.000Z",
+   "badges": [
+    "oss"
+   ],
+   "dupes": 1,
+   "score": 0.267,
+   "tier": 3
+  },
+  {
+   "id": "fbaf22fcf62fc4433bc8ccbd71931405ebeb66e3",
+   "title": "The Open Source Community is backing OpenEnv for Agentic RL",
+   "url": "https://huggingface.co/blog/openenv-agentic-rl",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-08T00:00:00.000Z",
+   "badges": [
+    "oss"
+   ],
+   "dupes": 1,
+   "score": 0.264,
    "tier": 3
   },
   {
@@ -732,7 +844,43 @@
    "tldr": "We've enetered an agreement with Reliance Industries to lease our first ever AI-enabled data center in India.  The post Meta Partners With Reliance on AI-Enabled Data Center in India appeared first on Meta Newsroom .",
    "published": "2026-06-10T02:30:40.000Z",
    "dupes": 1,
-   "score": 0.263,
+   "score": 0.262,
+   "tier": 3
+  },
+  {
+   "id": "5bf15749e20cd57d0c9ca32966cba99227760132",
+   "title": "New model on Hugging Face: google/diffusiongemma-26B-A4B-it",
+   "url": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
+   "source": "HF · Google",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-09T12:40:12.000Z",
+   "badges": [
+    "model"
+   ],
+   "dupes": 1,
+   "score": 0.257,
+   "tier": 3
+  },
+  {
+   "id": "f256017604af712f18f651aa98d0556e9c918bdb",
+   "title": "New model on Hugging Face: zai-org/SCAIL-2",
+   "url": "https://huggingface.co/zai-org/SCAIL-2",
+   "source": "HF · Zhipu",
+   "org": [
+    "zhipu"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-09T07:18:27.000Z",
+   "badges": [
+    "model"
+   ],
+   "dupes": 1,
+   "score": 0.256,
    "tier": 3
   },
   {
@@ -747,7 +895,7 @@
    "tldr": "",
    "published": "2026-06-09T15:41:21.000Z",
    "dupes": 1,
-   "score": 0.212,
+   "score": 0.213,
    "tier": 3
   }
  ]
