@@ -1,6 +1,36 @@
 {
- "generated": "2026-06-16T13:06:51.404Z",
+ "generated": "2026-06-16T15:15:37.417Z",
  "items": [
+  {
+   "id": "a30827e1588f72620697e1e2b7b89c0f052e261b",
+   "title": "I Fired Google",
+   "url": "https://www.theartofdoingstuff.com/i-fired-google",
+   "source": "Hacker News",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-16T14:26:19.000Z",
+   "dupes": 1,
+   "score": 0.581,
+   "tier": 1
+  },
+  {
+   "id": "c30d3955d4e45bc066feb4867c929fbfd2cc2e98",
+   "title": "Google Chrome update will close the door on ad blockers",
+   "url": "https://9to5google.com/2026/06/15/google-chromes-next-update-will-mark-the-end-of-popular-ad-blockers",
+   "source": "Hacker News",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-16T13:46:19.000Z",
+   "dupes": 1,
+   "score": 0.574,
+   "tier": 2
+  },
   {
    "id": "e24d6d5bbe563f32e75c328007bb9edc19917b13",
    "title": "Inside the fight over Claude Mythos 5",
@@ -13,8 +43,8 @@
    "tldr": "As the rest of the country celebrated the USA's first World Cup win and the New York Knicks championship, Anthropic spent its weekend fighting the Trump administration over its latest model release.",
    "published": "2026-06-16T03:00:00.000Z",
    "dupes": 1,
-   "score": 0.437,
-   "tier": 1
+   "score": 0.418,
+   "tier": 2
   },
   {
    "id": "192be59ddacd6412f02c6f59a78cb071acb5c8cb",
@@ -28,37 +58,7 @@
    "tldr": "We’re introducing new AI-powered Facebook features to help you connect, create, and find what you’re looking for.  The post New AI Tools to Help You Make Things Happen on Facebook appeared first on Meta Newsroom .",
    "published": "2026-06-15T16:00:23.000Z",
    "dupes": 1,
-   "score": 0.405,
-   "tier": 2
-  },
-  {
-   "id": "d9ba9c0830bb39b369a7f98eadc0a26591b013d9",
-   "title": "All the news about Anthropic’s new AI fight with the White House",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
-   "source": "The Verge AI",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "Anthropic was already navigating one dispute with the government in its standoff with the Pentagon, and then came an order on June 12th to block off foreign access to its most recently released AI models, Fable 5 and…",
-   "published": "2026-06-15T19:04:53.000Z",
-   "dupes": 1,
-   "score": 0.375,
-   "tier": 2
-  },
-  {
-   "id": "e67cde346270bd7451794e3f7a41b8a071012a9f",
-   "title": "Trump’s Anthropic shutdown just made the case for non-American AI",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai",
-   "source": "The Verge AI",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "At Washington's request, Anthropic suddenly took its newest and most powerful AI models offline over the weekend.  The American company said it had little choice after the White House demanded it block access for all…",
-   "published": "2026-06-15T18:10:27.000Z",
-   "dupes": 1,
-   "score": 0.369,
+   "score": 0.393,
    "tier": 2
   },
   {
@@ -73,7 +73,7 @@
    "tldr": "The US government has issued an export control directive to suspend all access to Fable 5 and Mythos 5.",
    "published": "2026-06-12T00:00:00.000Z",
    "dupes": 2,
-   "score": 0.368,
+   "score": 0.367,
    "tier": 2
   },
   {
@@ -88,7 +88,22 @@
    "tldr": "We’re launching Claude Corps, a national fellowship program for people early in their careers who are passionate about extending the benefits of AI to communities across America.",
    "published": "2026-06-11T00:00:00.000Z",
    "dupes": 2,
-   "score": 0.365,
+   "score": 0.364,
+   "tier": 2
+  },
+  {
+   "id": "d9ba9c0830bb39b369a7f98eadc0a26591b013d9",
+   "title": "All the news about Anthropic’s new AI fight with the White House",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
+   "source": "The Verge AI",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "Anthropic was already navigating one dispute with the government in its standoff with the Pentagon, and then came an order on June 12th to block off foreign access to its most recently released AI models, Fable 5 and…",
+   "published": "2026-06-15T19:04:53.000Z",
+   "dupes": 1,
+   "score": 0.361,
    "tier": 2
   },
   {
@@ -103,20 +118,22 @@
    "tldr": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
    "published": "2026-06-14T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.364,
+   "score": 0.359,
    "tier": 2
   },
   {
-   "id": "f3e37047d492b760896459745ee152102f5729ef",
-   "title": "Skydio CEO Adam Bry on why Silicon Valley shouldn’t draw red lines for drone use",
-   "url": "https://www.theverge.com/podcast/949195/skydio-ceo-adam-bry-autonmous-drones-china-red-lines-military",
+   "id": "e67cde346270bd7451794e3f7a41b8a071012a9f",
+   "title": "Trump’s Anthropic shutdown just made the case for non-American AI",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai",
    "source": "The Verge AI",
-   "org": [],
-   "topic": "compute",
-   "tldr": "Today, I’m talking with Adam Bry, who is CEO of Skydio, the leading US maker of autonomous drones.  Before we recorded this episode, I actually got to remotely operate one of Skydio’s drones in the Bay Area from Adam’s…",
-   "published": "2026-06-15T14:00:00.000Z",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "At Washington's request, Anthropic suddenly took its newest and most powerful AI models offline over the weekend.  The American company said it had little choice after the White House demanded it block access for all…",
+   "published": "2026-06-15T18:10:27.000Z",
    "dupes": 1,
-   "score": 0.344,
+   "score": 0.355,
    "tier": 2
   },
   {
@@ -135,6 +152,19 @@
    "tier": 2
   },
   {
+   "id": "f3e37047d492b760896459745ee152102f5729ef",
+   "title": "Skydio CEO Adam Bry on why Silicon Valley shouldn’t draw red lines for drone use",
+   "url": "https://www.theverge.com/podcast/949195/skydio-ceo-adam-bry-autonmous-drones-china-red-lines-military",
+   "source": "The Verge AI",
+   "org": [],
+   "topic": "compute",
+   "tldr": "Today, I’m talking with Adam Bry, who is CEO of Skydio, the leading US maker of autonomous drones.  Before we recorded this episode, I actually got to remotely operate one of Skydio’s drones in the Bay Area from Adam’s…",
+   "published": "2026-06-15T14:00:00.000Z",
+   "dupes": 1,
+   "score": 0.332,
+   "tier": 2
+  },
+  {
    "id": "e17db83823d25ce6b2aee3f0fc1889b6d434a137",
    "title": "New OpenAI Academy courses for the next era of work",
    "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
@@ -146,7 +176,7 @@
    "tldr": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
    "published": "2026-06-12T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.308,
+   "score": 0.307,
    "tier": 2
   },
   {
@@ -177,7 +207,7 @@
    "published": "2026-06-12T00:00:00.000Z",
    "dupes": 1,
    "score": 0.305,
-   "tier": 2
+   "tier": 3
   },
   {
    "id": "dcc2fd07a9e824262e00178f630f3e3a6b89415a",
@@ -192,7 +222,7 @@
    "published": "2026-06-12T00:00:00.000Z",
    "dupes": 1,
    "score": 0.305,
-   "tier": 2
+   "tier": 3
   },
   {
    "id": "27ec170172da57340cf5090fedfc32e2ca75ca7a",
@@ -204,6 +234,36 @@
    ],
    "topic": "ai",
    "tldr": "",
+   "published": "2026-06-11T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.302,
+   "tier": 3
+  },
+  {
+   "id": "8875a0080daca5251f35eabf1a97e4dd4817c6a8",
+   "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+   "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+   "published": "2026-06-11T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.302,
+   "tier": 3
+  },
+  {
+   "id": "436a674e3bf2eef7f208ea290d40459b3526cda7",
+   "title": "How an astrophysicist uses Codex to help simulate black holes",
+   "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
    "published": "2026-06-11T00:00:00.000Z",
    "dupes": 1,
    "score": 0.302,
@@ -240,36 +300,6 @@
    "tier": 3
   },
   {
-   "id": "436a674e3bf2eef7f208ea290d40459b3526cda7",
-   "title": "How an astrophysicist uses Codex to help simulate black holes",
-   "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
-   "published": "2026-06-11T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.302,
-   "tier": 3
-  },
-  {
-   "id": "8875a0080daca5251f35eabf1a97e4dd4817c6a8",
-   "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-   "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
-   "published": "2026-06-11T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.302,
-   "tier": 3
-  },
-  {
    "id": "4600462b11c1a928d9c79ee019bba42c6203b5d2",
    "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
    "url": "https://openai.com/index/openai-on-oracle-cloud",
@@ -280,21 +310,6 @@
    "topic": "ai",
    "tldr": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
    "published": "2026-06-10T20:00:00.000Z",
-   "dupes": 1,
-   "score": 0.302,
-   "tier": 3
-  },
-  {
-   "id": "654ba11c9faceaf3b1eceb3393ff93959c70cbb1",
-   "title": "DiffusionGemma: 4x faster text generation",
-   "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation",
-   "source": "Google DeepMind",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-10T16:24:11.000Z",
    "dupes": 1,
    "score": 0.302,
    "tier": 3
@@ -325,6 +340,21 @@
    "topic": "ai",
    "tldr": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
    "published": "2026-06-10T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.301,
+   "tier": 3
+  },
+  {
+   "id": "654ba11c9faceaf3b1eceb3393ff93959c70cbb1",
+   "title": "DiffusionGemma: 4x faster text generation",
+   "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation",
+   "source": "Google DeepMind",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-10T16:24:11.000Z",
    "dupes": 1,
    "score": 0.301,
    "tier": 3
@@ -363,36 +393,6 @@
    "tier": 3
   },
   {
-   "id": "644db884346b8e03de11af232d3364c073bfff35",
-   "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
-   "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model",
-   "source": "Google DeepMind",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-09T14:10:19.000Z",
-   "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
-   "id": "f4a6f6d2b3925084aea66adf8ec3977527da2dbb",
-   "title": "Powering the future of robotics in Europe",
-   "url": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe",
-   "source": "Google DeepMind",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-09T14:02:33.000Z",
-   "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
    "id": "c152656997f1f77618107ea20a89cb7e5f683632",
    "title": "NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark",
    "url": "https://blogs.nvidia.com/blog/nvidia-blackwell-agentperf-artificial-analysis",
@@ -404,7 +404,7 @@
    "tldr": "AgentPerf from Artificial Analysis, the industry’s first agentic AI benchmark, gives developers, enterprises and infrastructure providers a clear way to compare systems for agentic AI.",
    "published": "2026-06-12T21:00:08.000Z",
    "dupes": 1,
-   "score": 0.287,
+   "score": 0.286,
    "tier": 3
   },
   {
@@ -456,21 +456,6 @@
    "tier": 3
   },
   {
-   "id": "b1566d819bd62ec1626d4ecd9d110190f4322622",
-   "title": "New framework for auditing machine unlearning",
-   "url": "https://research.google/blog/new-framework-for-auditing-machine-unlearning",
-   "source": "Google Research",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Algorithms & Theory",
-   "published": "2026-06-10T17:34:55.000Z",
-   "dupes": 1,
-   "score": 0.277,
-   "tier": 3
-  },
-  {
    "id": "10cb67cd09307f857b6b449f8ae65e61ed6f5ac0",
    "title": "For Robotaxis, Safety Must Be Built In, Not Bolted On",
    "url": "https://blogs.nvidia.com/blog/halos-os-robotaxi-safety",
@@ -486,6 +471,21 @@
    "tier": 3
   },
   {
+   "id": "b1566d819bd62ec1626d4ecd9d110190f4322622",
+   "title": "New framework for auditing machine unlearning",
+   "url": "https://research.google/blog/new-framework-for-auditing-machine-unlearning",
+   "source": "Google Research",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Algorithms & Theory",
+   "published": "2026-06-10T17:34:55.000Z",
+   "dupes": 1,
+   "score": 0.276,
+   "tier": 3
+  },
+  {
    "id": "63967b6013d3453b048532333ec270c7b3354c1e",
    "title": "NVIDIA Accelerates Google DeepMind’s DiffusionGemma for Local AI",
    "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-local-gemma-diffusion",
@@ -498,7 +498,7 @@
    "tldr": "Today, Google DeepMind released DiffusionGemma — an experimental open model built for exceptionally fast text generation.  NVIDIA has optimized DiffusionGemma to run even faster across NVIDIA GeForce RTX GPUs, the…",
    "published": "2026-06-10T16:15:20.000Z",
    "dupes": 1,
-   "score": 0.277,
+   "score": 0.276,
    "tier": 3
   },
   {
@@ -528,7 +528,7 @@
    "tldr": "Project Ire examined a timely malware sample and determined its intent through reverse engineering—identifying LOTUSLITE characteristics even as most major EDR tools did not detect it.  The post Ire identifies another…",
    "published": "2026-06-12T20:30:48.000Z",
    "dupes": 1,
-   "score": 0.274,
+   "score": 0.273,
    "tier": 3
   },
   {
@@ -541,7 +541,7 @@
    "tldr": "",
    "published": "2026-06-12T15:56:10.000Z",
    "dupes": 1,
-   "score": 0.272,
+   "score": 0.271,
    "tier": 3
   },
   {
@@ -554,7 +554,7 @@
    "tldr": "",
    "published": "2026-06-11T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.265,
+   "score": 0.264,
    "tier": 3
   },
   {
@@ -635,7 +635,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.23,
+   "score": 0.228,
    "tier": 3
   }
  ]
