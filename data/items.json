@@ -1,6 +1,36 @@
 {
- "generated": "2026-06-16T18:49:22.390Z",
+ "generated": "2026-06-16T20:03:26.892Z",
  "items": [
+  {
+   "id": "d35c059761529ba1b2062d5379b6bd16273a8760",
+   "title": "Why is Meta destroying its engineering organization?",
+   "url": "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering",
+   "source": "Hacker News",
+   "org": [
+    "meta"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-16T16:42:32.000Z",
+   "dupes": 1,
+   "score": 0.648,
+   "tier": 1
+  },
+  {
+   "id": "25a3f06589ddb85eea984f115314368b4f19ce0c",
+   "title": "Claude: Elevated errors across many models",
+   "url": "https://status.claude.com/incidents/xmhsglsz3h3w",
+   "source": "Hacker News",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-16T17:30:30.000Z",
+   "dupes": 1,
+   "score": 0.608,
+   "tier": 2
+  },
   {
    "id": "82c79cea4cb3dc057402adb5b1579ee2f8e05305",
    "title": "From pixels to planning: Earth AI for nature restoration",
@@ -11,10 +41,10 @@
    ],
    "topic": "ai",
    "tldr": "Climate & Sustainability",
-   "published": "2026-06-16T17:30:14.000Z",
+   "published": "2026-06-16T17:30:00.000Z",
    "dupes": 1,
-   "score": 0.608,
-   "tier": 1
+   "score": 0.592,
+   "tier": 2
   },
   {
    "id": "31bfb289a9aaf6d9be750d2d611801fbb305a9a4",
@@ -28,7 +58,7 @@
    "tldr": "Enterprises are moving agentic AI from proof of concept to production — and the next generation of AI factories are built for the era of agents.",
    "published": "2026-06-16T16:30:27.000Z",
    "dupes": 1,
-   "score": 0.595,
+   "score": 0.58,
    "tier": 2
   },
   {
@@ -43,37 +73,7 @@
    "tldr": "Every breakthrough AI model starts the same way: with a training run.  The infrastructure running those training jobs shapes everything: how fast teams can iterate, what scale of model they can build and whether those…",
    "published": "2026-06-16T15:00:36.000Z",
    "dupes": 1,
-   "score": 0.577,
-   "tier": 2
-  },
-  {
-   "id": "25a3f06589ddb85eea984f115314368b4f19ce0c",
-   "title": "Claude: Elevated errors across many models",
-   "url": "https://status.claude.com/incidents/xmhsglsz3h3w",
-   "source": "Hacker News",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-16T17:30:30.000Z",
-   "dupes": 1,
-   "score": 0.556,
-   "tier": 2
-  },
-  {
-   "id": "d35c059761529ba1b2062d5379b6bd16273a8760",
-   "title": "Why is Meta destroying its engineering organization?",
-   "url": "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering",
-   "source": "Hacker News",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-16T16:42:32.000Z",
-   "dupes": 1,
-   "score": 0.543,
+   "score": 0.563,
    "tier": 2
   },
   {
@@ -91,20 +91,7 @@
     "model"
    ],
    "dupes": 2,
-   "score": 0.54,
-   "tier": 2
-  },
-  {
-   "id": "350c6ceab2a95347e1be4b260b5c53520bb583c6",
-   "title": "Qualcomm’s latest chip hints that more powerful smart glasses could be on the way",
-   "url": "https://www.theverge.com/gadgets/950229/qualcomm-snapdragon-reality-elite-xr-smart-glasses-wearables",
-   "source": "The Verge AI",
-   "org": [],
-   "topic": "compute",
-   "tldr": "Smart glasses are still a nascent category, but chipmaker Qualcomm is hard at work upgrading the silicon to power the next wave of XR devices: the Snapdragon Reality Elite.",
-   "published": "2026-06-16T17:00:00.000Z",
-   "dupes": 1,
-   "score": 0.526,
+   "score": 0.53,
    "tier": 2
   },
   {
@@ -119,25 +106,35 @@
    "tldr": "",
    "published": "2026-06-16T13:15:15.000Z",
    "dupes": 1,
-   "score": 0.496,
+   "score": 0.512,
    "tier": 2
   },
   {
-   "id": "3a82f66e12060897941579760134a9a54b4d64e7",
-   "title": "New model on Hugging Face: moonshotai/Kimi-K2.7-Code",
-   "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
-   "source": "HF · Moonshot",
+   "id": "350c6ceab2a95347e1be4b260b5c53520bb583c6",
+   "title": "Qualcomm’s latest chip hints that more powerful smart glasses could be on the way",
+   "url": "https://www.theverge.com/gadgets/950229/qualcomm-snapdragon-reality-elite-xr-smart-glasses-wearables",
+   "source": "The Verge AI",
+   "org": [],
+   "topic": "compute",
+   "tldr": "Smart glasses are still a nascent category, but chipmaker Qualcomm is hard at work upgrading the silicon to power the next wave of XR devices: the Snapdragon Reality Elite.",
+   "published": "2026-06-16T17:00:00.000Z",
+   "dupes": 1,
+   "score": 0.511,
+   "tier": 2
+  },
+  {
+   "id": "b387731f4f83720dfe4394e2dac385ef5730d12b",
+   "title": "Predicting model behavior before release by simulating deployment",
+   "url": "https://openai.com/index/deployment-simulation",
+   "source": "OpenAI Blog",
    "org": [
-    "moonshot"
+    "openai"
    ],
    "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-11T07:51:47.000Z",
-   "badges": [
-    "model"
-   ],
-   "dupes": 2,
-   "score": 0.465,
+   "tldr": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
+   "published": "2026-06-16T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.462,
    "tier": 2
   },
   {
@@ -152,7 +149,7 @@
    "tldr": "",
    "published": "2026-06-16T06:25:06.000Z",
    "dupes": 1,
-   "score": 0.408,
+   "score": 0.401,
    "tier": 2
   },
   {
@@ -167,7 +164,7 @@
    "tldr": "As the rest of the country celebrated the USA's first World Cup win and the New York Knicks championship, Anthropic spent its weekend fighting the Trump administration over its latest model release.",
    "published": "2026-06-16T03:00:00.000Z",
    "dupes": 1,
-   "score": 0.39,
+   "score": 0.381,
    "tier": 2
   },
   {
@@ -182,7 +179,7 @@
    "tldr": "We’re introducing new AI-powered Facebook features to help you connect, create, and find what you’re looking for.  The post New AI Tools to Help You Make Things Happen on Facebook appeared first on Meta Newsroom .",
    "published": "2026-06-15T16:00:23.000Z",
    "dupes": 1,
-   "score": 0.375,
+   "score": 0.369,
    "tier": 2
   },
   {
@@ -227,7 +224,22 @@
    "tldr": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
    "published": "2026-06-14T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.351,
+   "score": 0.349,
+   "tier": 3
+  },
+  {
+   "id": "66dedc45099c3c76db3a5b1480c587d437a0e388",
+   "title": "Open Reproduction of DeepSeek-R1",
+   "url": "https://github.com/huggingface/open-r1",
+   "source": "HN · DeepSeek",
+   "org": [
+    "deepseek"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-11T13:14:31.000Z",
+   "dupes": 1,
+   "score": 0.34,
    "tier": 3
   },
   {
@@ -242,7 +254,7 @@
    "tldr": "Anthropic was already navigating one dispute with the government in its standoff with the Pentagon, and then came an order on June 12th to block off foreign access to its most recently released AI models, Fable 5 and…",
    "published": "2026-06-15T19:04:53.000Z",
    "dupes": 1,
-   "score": 0.34,
+   "score": 0.334,
    "tier": 3
   },
   {
@@ -257,7 +269,7 @@
    "tldr": "At Washington's request, Anthropic suddenly took its newest and most powerful AI models offline over the weekend.  The American company said it had little choice after the White House demanded it block access for all…",
    "published": "2026-06-15T18:10:27.000Z",
    "dupes": 1,
-   "score": 0.335,
+   "score": 0.329,
    "tier": 3
   },
   {
@@ -270,7 +282,7 @@
    "tldr": "Today, I’m talking with Adam Bry, who is CEO of Skydio, the leading US maker of autonomous drones.  Before we recorded this episode, I actually got to remotely operate one of Skydio’s drones in the Bay Area from Adam’s…",
    "published": "2026-06-15T14:00:00.000Z",
    "dupes": 1,
-   "score": 0.315,
+   "score": 0.31,
    "tier": 3
   },
   {
@@ -349,6 +361,36 @@
    "tier": 3
   },
   {
+   "id": "6600f3e4b9646c4be91a018bd20503396fdc167a",
+   "title": "OpenAI to acquire Ona",
+   "url": "https://openai.com/index/openai-to-acquire-ona",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+   "published": "2026-06-11T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.302,
+   "tier": 3
+  },
+  {
+   "id": "436a674e3bf2eef7f208ea290d40459b3526cda7",
+   "title": "How an astrophysicist uses Codex to help simulate black holes",
+   "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+   "published": "2026-06-11T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.302,
+   "tier": 3
+  },
+  {
    "id": "a9f0898c4190e00181d150cb0120eb6b1701e571",
    "title": "BBVA puts AI at the core of banking with OpenAI",
    "url": "https://openai.com/index/bbva",
@@ -373,36 +415,6 @@
    ],
    "topic": "ai",
    "tldr": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
-   "published": "2026-06-11T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.302,
-   "tier": 3
-  },
-  {
-   "id": "436a674e3bf2eef7f208ea290d40459b3526cda7",
-   "title": "How an astrophysicist uses Codex to help simulate black holes",
-   "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
-   "published": "2026-06-11T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.302,
-   "tier": 3
-  },
-  {
-   "id": "6600f3e4b9646c4be91a018bd20503396fdc167a",
-   "title": "OpenAI to acquire Ona",
-   "url": "https://openai.com/index/openai-to-acquire-ona",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
    "published": "2026-06-11T00:00:00.000Z",
    "dupes": 1,
    "score": 0.302,
@@ -622,21 +634,6 @@
    "tldr": "Project Ire examined a timely malware sample and determined its intent through reverse engineering—identifying LOTUSLITE characteristics even as most major EDR tools did not detect it.  The post Ire identifies another…",
    "published": "2026-06-12T20:30:48.000Z",
    "dupes": 1,
-   "score": 0.272,
-   "tier": 3
-  },
-  {
-   "id": "66dedc45099c3c76db3a5b1480c587d437a0e388",
-   "title": "Open Reproduction of DeepSeek-R1",
-   "url": "https://github.com/huggingface/open-r1",
-   "source": "HN · DeepSeek",
-   "org": [
-    "deepseek"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-11T13:14:31.000Z",
-   "dupes": 1,
    "score": 0.271,
    "tier": 3
   },
@@ -679,6 +676,24 @@
    "published": "2026-06-12T12:33:26.000Z",
    "dupes": 1,
    "score": 0.257,
+   "tier": 3
+  },
+  {
+   "id": "3a82f66e12060897941579760134a9a54b4d64e7",
+   "title": "New model on Hugging Face: moonshotai/Kimi-K2.7-Code",
+   "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+   "source": "HF · Moonshot",
+   "org": [
+    "moonshot"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-11T07:51:47.000Z",
+   "badges": [
+    "model"
+   ],
+   "dupes": 1,
+   "score": 0.252,
    "tier": 3
   },
   {
