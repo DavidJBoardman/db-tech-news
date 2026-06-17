@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-17T14:33:08.326Z",
+ "generated": "2026-06-17T16:16:55.945Z",
  "items": [
   {
    "id": "d882aea7c49de4ccf4ad625faca73e6696f5757d",
@@ -16,8 +16,21 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.635,
+   "score": 0.616,
    "tier": 1
+  },
+  {
+   "id": "07c125a38d887b78876076e79ca4cc0715d08b45",
+   "title": "MolmoMotion: Language-guided 3D motion forecasting",
+   "url": "https://huggingface.co/blog/allenai/molmomotion",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-17T15:26:44.000Z",
+   "dupes": 1,
+   "score": 0.601,
+   "tier": 2
   },
   {
    "id": "c7b6e0d15e340e1a3b79bed5678b1ba8e63dc5e9",
@@ -29,7 +42,7 @@
    "tldr": "",
    "published": "2026-06-17T10:18:05.000Z",
    "dupes": 1,
-   "score": 0.56,
+   "score": 0.541,
    "tier": 2
   },
   {
@@ -44,7 +57,7 @@
    "tldr": "",
    "published": "2026-06-17T09:01:25.000Z",
    "dupes": 1,
-   "score": 0.545,
+   "score": 0.527,
    "tier": 2
   },
   {
@@ -59,7 +72,22 @@
    "tldr": "Google's first new smart speaker in six years starts shipping on June 25th, narrowly missing its promised spring launch window.  Preorders for the Google Home Speaker open today, June 17th.",
    "published": "2026-06-17T13:00:00.000Z",
    "dupes": 1,
-   "score": 0.53,
+   "score": 0.508,
+   "tier": 2
+  },
+  {
+   "id": "6a1e7f2894c3810f814c3fd7c6db1fbf2ec5972a",
+   "title": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
+   "url": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
+   "source": "Anthropic News",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-17T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.487,
    "tier": 2
   },
   {
@@ -74,7 +102,7 @@
    "tldr": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
    "published": "2026-06-16T21:29:50.000Z",
    "dupes": 1,
-   "score": 0.481,
+   "score": 0.47,
    "tier": 2
   },
   {
@@ -89,7 +117,7 @@
    "tldr": "NVIDIA XR AI is now available in public beta, giving developers a framework for building multimodal AI agents for AR glasses and XR devices.",
    "published": "2026-06-16T22:30:41.000Z",
    "dupes": 1,
-   "score": 0.464,
+   "score": 0.452,
    "tier": 2
   },
   {
@@ -104,7 +132,20 @@
    "tldr": "AI runs at the speed of light.  More and more, that light is made in Texas.",
    "published": "2026-06-16T22:10:56.000Z",
    "dupes": 1,
-   "score": 0.461,
+   "score": 0.449,
+   "tier": 2
+  },
+  {
+   "id": "da3c81662bdd9e13d795e3e0ee7761907bf6d3f0",
+   "title": "Agentic Resource Discovery: Let agents search",
+   "url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-17T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.449,
    "tier": 2
   },
   {
@@ -119,7 +160,7 @@
    "tldr": "Climate & Sustainability",
    "published": "2026-06-16T17:30:00.000Z",
    "dupes": 1,
-   "score": 0.431,
+   "score": 0.421,
    "tier": 2
   },
   {
@@ -134,7 +175,7 @@
    "tldr": "Enterprises are moving agentic AI from proof of concept to production — and the next generation of AI factories are built for the era of agents.",
    "published": "2026-06-16T16:30:27.000Z",
    "dupes": 1,
-   "score": 0.425,
+   "score": 0.415,
    "tier": 2
   },
   {
@@ -152,7 +193,7 @@
     "model"
    ],
    "dupes": 2,
-   "score": 0.419,
+   "score": 0.412,
    "tier": 2
   },
   {
@@ -167,8 +208,8 @@
    "tldr": "Every breakthrough AI model starts the same way: with a training run.  The infrastructure running those training jobs shapes everything: how fast teams can iterate, what scale of model they can build and whether those…",
    "published": "2026-06-16T15:00:36.000Z",
    "dupes": 1,
-   "score": 0.416,
-   "tier": 2
+   "score": 0.407,
+   "tier": 3
   },
   {
    "id": "b387731f4f83720dfe4394e2dac385ef5730d12b",
@@ -182,24 +223,8 @@
    "tldr": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
    "published": "2026-06-16T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.379,
-   "tier": 2
-  },
-  {
-   "id": "c0a0897f32afac00618fc1ff9a8f0d2bcf9c21e5",
-   "title": "DeepSeek V4 Pro at 5% the cost of Claude – what it takes to close the gap",
-   "url": "https://howardchen.substack.com/p/deepseek-v4-pro-at-5-the-cost-of",
-   "source": "HN · DeepSeek",
-   "org": [
-    "deepseek",
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-16T19:59:14.000Z",
-   "dupes": 1,
-   "score": 0.378,
-   "tier": 2
+   "score": 0.374,
+   "tier": 3
   },
   {
    "id": "b0d10e8dabf270966b68107c75ff86af37ddd295",
@@ -232,6 +257,22 @@
    "tier": 3
   },
   {
+   "id": "c0a0897f32afac00618fc1ff9a8f0d2bcf9c21e5",
+   "title": "DeepSeek V4 Pro at 5% the cost of Claude – what it takes to close the gap",
+   "url": "https://howardchen.substack.com/p/deepseek-v4-pro-at-5-the-cost-of",
+   "source": "HN · DeepSeek",
+   "org": [
+    "deepseek",
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-16T19:59:14.000Z",
+   "dupes": 1,
+   "score": 0.363,
+   "tier": 3
+  },
+  {
    "id": "350c6ceab2a95347e1be4b260b5c53520bb583c6",
    "title": "Qualcomm’s latest chip hints that more powerful smart glasses could be on the way",
    "url": "https://www.theverge.com/gadgets/950229/qualcomm-snapdragon-reality-elite-xr-smart-glasses-wearables",
@@ -241,7 +282,7 @@
    "tldr": "Smart glasses are still a nascent category, but chipmaker Qualcomm is hard at work upgrading the silicon to power the next wave of XR devices: the Snapdragon Reality Elite.",
    "published": "2026-06-16T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.353,
+   "score": 0.343,
    "tier": 3
   },
   {
@@ -256,7 +297,7 @@
    "tldr": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
    "published": "2026-06-14T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.324,
+   "score": 0.322,
    "tier": 3
   },
   {
@@ -271,7 +312,7 @@
    "tldr": "We’re introducing new AI-powered Facebook features to help you connect, create, and find what you’re looking for.  The post New AI Tools to Help You Make Things Happen on Facebook appeared first on Meta Newsroom .",
    "published": "2026-06-15T16:00:23.000Z",
    "dupes": 1,
-   "score": 0.308,
+   "score": 0.305,
    "tier": 3
   },
   {
@@ -350,21 +391,6 @@
    "tier": 3
   },
   {
-   "id": "436a674e3bf2eef7f208ea290d40459b3526cda7",
-   "title": "How an astrophysicist uses Codex to help simulate black holes",
-   "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
-   "published": "2026-06-11T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
    "id": "a9f0898c4190e00181d150cb0120eb6b1701e571",
    "title": "BBVA puts AI at the core of banking with OpenAI",
    "url": "https://openai.com/index/bbva",
@@ -380,21 +406,6 @@
    "tier": 3
   },
   {
-   "id": "6600f3e4b9646c4be91a018bd20503396fdc167a",
-   "title": "OpenAI to acquire Ona",
-   "url": "https://openai.com/index/openai-to-acquire-ona",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
-   "published": "2026-06-11T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
    "id": "8875a0080daca5251f35eabf1a97e4dd4817c6a8",
    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
    "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
@@ -404,6 +415,36 @@
    ],
    "topic": "ai",
    "tldr": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+   "published": "2026-06-11T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.301,
+   "tier": 3
+  },
+  {
+   "id": "436a674e3bf2eef7f208ea290d40459b3526cda7",
+   "title": "How an astrophysicist uses Codex to help simulate black holes",
+   "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+   "published": "2026-06-11T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.301,
+   "tier": 3
+  },
+  {
+   "id": "6600f3e4b9646c4be91a018bd20503396fdc167a",
+   "title": "OpenAI to acquire Ona",
+   "url": "https://openai.com/index/openai-to-acquire-ona",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
    "published": "2026-06-11T00:00:00.000Z",
    "dupes": 1,
    "score": 0.301,
@@ -451,7 +492,7 @@
    "tldr": "",
    "published": "2026-06-16T06:25:06.000Z",
    "dupes": 1,
-   "score": 0.293,
+   "score": 0.286,
    "tier": 3
   },
   {
@@ -466,7 +507,7 @@
    "tldr": "As the rest of the country celebrated the USA's first World Cup win and the New York Knicks championship, Anthropic spent its weekend fighting the Trump administration over its latest model release.",
    "published": "2026-06-16T03:00:00.000Z",
    "dupes": 1,
-   "score": 0.289,
+   "score": 0.283,
    "tier": 3
   },
   {
@@ -518,21 +559,6 @@
    "tier": 3
   },
   {
-   "id": "66dedc45099c3c76db3a5b1480c587d437a0e388",
-   "title": "Open Reproduction of DeepSeek-R1",
-   "url": "https://github.com/huggingface/open-r1",
-   "source": "HN · DeepSeek",
-   "org": [
-    "deepseek"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-11T13:14:31.000Z",
-   "dupes": 1,
-   "score": 0.278,
-   "tier": 3
-  },
-  {
    "id": "b1566d819bd62ec1626d4ecd9d110190f4322622",
    "title": "New framework for auditing machine unlearning",
    "url": "https://research.google/blog/new-framework-for-auditing-machine-unlearning",
@@ -578,22 +604,6 @@
    "tier": 3
   },
   {
-   "id": "63967b6013d3453b048532333ec270c7b3354c1e",
-   "title": "NVIDIA Accelerates Google DeepMind’s DiffusionGemma for Local AI",
-   "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-local-gemma-diffusion",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia",
-    "google"
-   ],
-   "topic": "compute",
-   "tldr": "Today, Google DeepMind released DiffusionGemma — an experimental open model built for exceptionally fast text generation.  NVIDIA has optimized DiffusionGemma to run even faster across NVIDIA GeForce RTX GPUs, the…",
-   "published": "2026-06-10T16:15:20.000Z",
-   "dupes": 1,
-   "score": 0.276,
-   "tier": 3
-  },
-  {
    "id": "dd008cb894a8038bd6be56d243a46bcf23c16170",
    "title": "Ire identifies another LOTUSLITE specimen",
    "url": "https://www.microsoft.com/en-us/research/blog/ire-identifies-another-lotuslite-specimen",
@@ -606,34 +616,6 @@
    "published": "2026-06-12T20:30:48.000Z",
    "dupes": 1,
    "score": 0.267,
-   "tier": 3
-  },
-  {
-   "id": "80b8efd89b1a09401ec51f9709072ec05b60fe55",
-   "title": "olmo-eval: An evaluation workbench for the model development loop",
-   "url": "https://huggingface.co/blog/allenai/olmo-eval",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-12T15:56:10.000Z",
-   "dupes": 1,
-   "score": 0.266,
-   "tier": 3
-  },
-  {
-   "id": "d9ba9c0830bb39b369a7f98eadc0a26591b013d9",
-   "title": "All the news about Anthropic’s new AI fight with the White House",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
-   "source": "The Verge AI",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "Anthropic was already navigating one dispute with the government in its standoff with the Pentagon, and then came an order on June 12th to block off foreign access to its most recently released AI models, Fable 5 and…",
-   "published": "2026-06-15T19:04:53.000Z",
-   "dupes": 1,
-   "score": 0.266,
    "tier": 3
   },
   {
@@ -650,18 +632,33 @@
    "tier": 3
   },
   {
-   "id": "e67cde346270bd7451794e3f7a41b8a071012a9f",
-   "title": "Trump’s Anthropic shutdown just made the case for non-American AI",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai",
+   "id": "d9ba9c0830bb39b369a7f98eadc0a26591b013d9",
+   "title": "All the news about Anthropic’s new AI fight with the White House",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
    "source": "The Verge AI",
    "org": [
     "anthropic"
    ],
    "topic": "ai",
-   "tldr": "At Washington's request, Anthropic suddenly took its newest and most powerful AI models offline over the weekend.  The American company said it had little choice after the White House demanded it block access for all…",
-   "published": "2026-06-15T18:10:27.000Z",
+   "tldr": "Anthropic was already navigating one dispute with the government in its standoff with the Pentagon, and then came an order on June 12th to block off foreign access to its most recently released AI models, Fable 5 and…",
+   "published": "2026-06-15T19:04:53.000Z",
    "dupes": 1,
-   "score": 0.263,
+   "score": 0.261,
+   "tier": 3
+  },
+  {
+   "id": "66dedc45099c3c76db3a5b1480c587d437a0e388",
+   "title": "Open Reproduction of DeepSeek-R1",
+   "url": "https://github.com/huggingface/open-r1",
+   "source": "HN · DeepSeek",
+   "org": [
+    "deepseek"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-11T13:14:31.000Z",
+   "dupes": 1,
+   "score": 0.259,
    "tier": 3
   },
   {
