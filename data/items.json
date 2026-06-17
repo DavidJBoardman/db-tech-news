@@ -1,21 +1,6 @@
 {
- "generated": "2026-06-17T05:38:45.326Z",
+ "generated": "2026-06-17T07:48:10.922Z",
  "items": [
-  {
-   "id": "26cbdf1a159e979f8c5dfc112ae1700e2c5050fc",
-   "title": "Leaked OpenAI financials show $38.5B loss and compute burn",
-   "url": "https://runtimewire.com/article/openai-leaked-financials-altman-compute-burn",
-   "source": "Hacker News",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-17T02:47:29.000Z",
-   "dupes": 1,
-   "score": 0.567,
-   "tier": 1
-  },
   {
    "id": "d35c059761529ba1b2062d5379b6bd16273a8760",
    "title": "Is Meta destroying its engineering organization?",
@@ -28,8 +13,8 @@
    "tldr": "",
    "published": "2026-06-16T16:42:32.000Z",
    "dupes": 1,
-   "score": 0.563,
-   "tier": 2
+   "score": 0.546,
+   "tier": 1
   },
   {
    "id": "0d76c1a20eb3842afd6d72c3e54e4057e0e0fd6e",
@@ -43,7 +28,7 @@
    "tldr": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
    "published": "2026-06-16T21:29:50.000Z",
    "dupes": 1,
-   "score": 0.556,
+   "score": 0.535,
    "tier": 2
   },
   {
@@ -58,7 +43,7 @@
    "tldr": "NVIDIA XR AI is now available in public beta, giving developers a framework for building multimodal AI agents for AR glasses and XR devices.",
    "published": "2026-06-16T22:30:41.000Z",
    "dupes": 1,
-   "score": 0.541,
+   "score": 0.52,
    "tier": 2
   },
   {
@@ -73,7 +58,7 @@
    "tldr": "AI runs at the speed of light.  More and more, that light is made in Texas.",
    "published": "2026-06-16T22:10:56.000Z",
    "dupes": 1,
-   "score": 0.538,
+   "score": 0.517,
    "tier": 2
   },
   {
@@ -88,7 +73,7 @@
    "tldr": "Climate & Sustainability",
    "published": "2026-06-16T17:30:00.000Z",
    "dupes": 1,
-   "score": 0.494,
+   "score": 0.477,
    "tier": 2
   },
   {
@@ -103,7 +88,7 @@
    "tldr": "Enterprises are moving agentic AI from proof of concept to production — and the next generation of AI factories are built for the era of agents.",
    "published": "2026-06-16T16:30:27.000Z",
    "dupes": 1,
-   "score": 0.486,
+   "score": 0.469,
    "tier": 2
   },
   {
@@ -118,7 +103,7 @@
    "tldr": "Every breakthrough AI model starts the same way: with a training run.  The infrastructure running those training jobs shapes everything: how fast teams can iterate, what scale of model they can build and whether those…",
    "published": "2026-06-16T15:00:36.000Z",
    "dupes": 1,
-   "score": 0.474,
+   "score": 0.458,
    "tier": 2
   },
   {
@@ -136,7 +121,7 @@
     "model"
    ],
    "dupes": 2,
-   "score": 0.463,
+   "score": 0.451,
    "tier": 2
   },
   {
@@ -149,7 +134,7 @@
    "tldr": "",
    "published": "2026-06-16T20:17:42.000Z",
    "dupes": 1,
-   "score": 0.461,
+   "score": 0.442,
    "tier": 2
   },
   {
@@ -165,7 +150,7 @@
    "tldr": "",
    "published": "2026-06-16T19:59:14.000Z",
    "dupes": 1,
-   "score": 0.441,
+   "score": 0.422,
    "tier": 2
   },
   {
@@ -179,19 +164,6 @@
    "topic": "ai",
    "tldr": "",
    "published": "2026-06-16T13:15:15.000Z",
-   "dupes": 1,
-   "score": 0.43,
-   "tier": 2
-  },
-  {
-   "id": "350c6ceab2a95347e1be4b260b5c53520bb583c6",
-   "title": "Qualcomm’s latest chip hints that more powerful smart glasses could be on the way",
-   "url": "https://www.theverge.com/gadgets/950229/qualcomm-snapdragon-reality-elite-xr-smart-glasses-wearables",
-   "source": "The Verge AI",
-   "org": [],
-   "topic": "compute",
-   "tldr": "Smart glasses are still a nascent category, but chipmaker Qualcomm is hard at work upgrading the silicon to power the next wave of XR devices: the Snapdragon Reality Elite.",
-   "published": "2026-06-16T17:00:00.000Z",
    "dupes": 1,
    "score": 0.415,
    "tier": 2
@@ -208,8 +180,21 @@
    "tldr": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
    "published": "2026-06-16T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.412,
-   "tier": 3
+   "score": 0.403,
+   "tier": 2
+  },
+  {
+   "id": "350c6ceab2a95347e1be4b260b5c53520bb583c6",
+   "title": "Qualcomm’s latest chip hints that more powerful smart glasses could be on the way",
+   "url": "https://www.theverge.com/gadgets/950229/qualcomm-snapdragon-reality-elite-xr-smart-glasses-wearables",
+   "source": "The Verge AI",
+   "org": [],
+   "topic": "compute",
+   "tldr": "Smart glasses are still a nascent category, but chipmaker Qualcomm is hard at work upgrading the silicon to power the next wave of XR devices: the Snapdragon Reality Elite.",
+   "published": "2026-06-16T17:00:00.000Z",
+   "dupes": 1,
+   "score": 0.398,
+   "tier": 2
   },
   {
    "id": "b0d10e8dabf270966b68107c75ff86af37ddd295",
@@ -253,22 +238,7 @@
    "tldr": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
    "published": "2026-06-14T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.334,
-   "tier": 3
-  },
-  {
-   "id": "dfd5fae41fdf0febea11395b9d717baae8d14ed7",
-   "title": "DeepSeek raises $7B at $50B valuation",
-   "url": "https://digg.com/tech/lxwv71a1?rank=6",
-   "source": "HN · DeepSeek",
-   "org": [
-    "deepseek"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-16T06:25:06.000Z",
-   "dupes": 1,
-   "score": 0.334,
+   "score": 0.331,
    "tier": 3
   },
   {
@@ -283,7 +253,22 @@
    "tldr": "We’re introducing new AI-powered Facebook features to help you connect, create, and find what you’re looking for.  The post New AI Tools to Help You Make Things Happen on Facebook appeared first on Meta Newsroom .",
    "published": "2026-06-15T16:00:23.000Z",
    "dupes": 1,
-   "score": 0.332,
+   "score": 0.326,
+   "tier": 3
+  },
+  {
+   "id": "dfd5fae41fdf0febea11395b9d717baae8d14ed7",
+   "title": "DeepSeek raises $7B at $50B valuation",
+   "url": "https://digg.com/tech/lxwv71a1?rank=6",
+   "source": "HN · DeepSeek",
+   "org": [
+    "deepseek"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-16T06:25:06.000Z",
+   "dupes": 1,
+   "score": 0.322,
    "tier": 3
   },
   {
@@ -298,7 +283,7 @@
    "tldr": "As the rest of the country celebrated the USA's first World Cup win and the New York Knicks championship, Anthropic spent its weekend fighting the Trump administration over its latest model release.",
    "published": "2026-06-16T03:00:00.000Z",
    "dupes": 1,
-   "score": 0.325,
+   "score": 0.315,
    "tier": 3
   },
   {
@@ -511,7 +496,7 @@
    "tldr": "Anthropic was already navigating one dispute with the government in its standoff with the Pentagon, and then came an order on June 12th to block off foreign access to its most recently released AI models, Fable 5 and…",
    "published": "2026-06-15T19:04:53.000Z",
    "dupes": 1,
-   "score": 0.292,
+   "score": 0.285,
    "tier": 3
   },
   {
@@ -526,7 +511,22 @@
    "tldr": "At Washington's request, Anthropic suddenly took its newest and most powerful AI models offline over the weekend.  The American company said it had little choice after the White House demanded it block access for all…",
    "published": "2026-06-15T18:10:27.000Z",
    "dupes": 1,
-   "score": 0.289,
+   "score": 0.282,
+   "tier": 3
+  },
+  {
+   "id": "c152656997f1f77618107ea20a89cb7e5f683632",
+   "title": "NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark",
+   "url": "https://blogs.nvidia.com/blog/nvidia-blackwell-agentperf-artificial-analysis",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "AgentPerf from Artificial Analysis, the industry’s first agentic AI benchmark, gives developers, enterprises and infrastructure providers a clear way to compare systems for agentic AI.",
+   "published": "2026-06-12T21:00:08.000Z",
+   "dupes": 1,
+   "score": 0.281,
    "tier": 3
   },
   {
@@ -544,22 +544,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.281,
-   "tier": 3
-  },
-  {
-   "id": "c152656997f1f77618107ea20a89cb7e5f683632",
-   "title": "NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark",
-   "url": "https://blogs.nvidia.com/blog/nvidia-blackwell-agentperf-artificial-analysis",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "AgentPerf from Artificial Analysis, the industry’s first agentic AI benchmark, gives developers, enterprises and infrastructure providers a clear way to compare systems for agentic AI.",
-   "published": "2026-06-12T21:00:08.000Z",
-   "dupes": 1,
-   "score": 0.281,
+   "score": 0.28,
    "tier": 3
   },
   {
@@ -648,7 +633,7 @@
    "tldr": "Today, I’m talking with Adam Bry, who is CEO of Skydio, the leading US maker of autonomous drones.  Before we recorded this episode, I actually got to remotely operate one of Skydio’s drones in the Bay Area from Adam’s…",
    "published": "2026-06-15T14:00:00.000Z",
    "dupes": 1,
-   "score": 0.276,
+   "score": 0.27,
    "tier": 3
   },
   {
@@ -663,7 +648,7 @@
    "tldr": "Project Ire examined a timely malware sample and determined its intent through reverse engineering—identifying LOTUSLITE characteristics even as most major EDR tools did not detect it.  The post Ire identifies another…",
    "published": "2026-06-12T20:30:48.000Z",
    "dupes": 1,
-   "score": 0.269,
+   "score": 0.268,
    "tier": 3
   },
   {
@@ -676,7 +661,7 @@
    "tldr": "",
    "published": "2026-06-12T15:56:10.000Z",
    "dupes": 1,
-   "score": 0.268,
+   "score": 0.267,
    "tier": 3
   },
   {
@@ -693,21 +678,6 @@
    "tier": 3
   },
   {
-   "id": "66dedc45099c3c76db3a5b1480c587d437a0e388",
-   "title": "Open Reproduction of DeepSeek-R1",
-   "url": "https://github.com/huggingface/open-r1",
-   "source": "HN · DeepSeek",
-   "org": [
-    "deepseek"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-11T13:14:31.000Z",
-   "dupes": 1,
-   "score": 0.262,
-   "tier": 3
-  },
-  {
    "id": "ae2bea9b25f37e843f6c56d2cd5d1705a86833d4",
    "title": "The Future Is for Everyone: Free AI Glasses for Every Blind Veteran in America",
    "url": "https://about.fb.com/news/2026/06/free-ai-glasses-for-every-blind-veteran",
@@ -718,6 +688,21 @@
    "topic": "ai",
    "tldr": "We're donating Ray-Ban Meta glasses to every blind veteran in America, giving them transformative AI technology.  The post The Future Is for Everyone: Free AI Glasses for Every Blind Veteran in America appeared first on…",
    "published": "2026-06-12T12:33:26.000Z",
+   "dupes": 1,
+   "score": 0.254,
+   "tier": 3
+  },
+  {
+   "id": "66dedc45099c3c76db3a5b1480c587d437a0e388",
+   "title": "Open Reproduction of DeepSeek-R1",
+   "url": "https://github.com/huggingface/open-r1",
+   "source": "HN · DeepSeek",
+   "org": [
+    "deepseek"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-11T13:14:31.000Z",
    "dupes": 1,
    "score": 0.254,
    "tier": 3
