@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-17T13:13:37.574Z",
+ "generated": "2026-06-17T14:33:08.326Z",
  "items": [
   {
    "id": "d882aea7c49de4ccf4ad625faca73e6696f5757d",
@@ -16,7 +16,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.65,
+   "score": 0.635,
    "tier": 1
   },
   {
@@ -29,7 +29,7 @@
    "tldr": "",
    "published": "2026-06-17T10:18:05.000Z",
    "dupes": 1,
-   "score": 0.575,
+   "score": 0.56,
    "tier": 2
   },
   {
@@ -44,7 +44,7 @@
    "tldr": "",
    "published": "2026-06-17T09:01:25.000Z",
    "dupes": 1,
-   "score": 0.56,
+   "score": 0.545,
    "tier": 2
   },
   {
@@ -56,10 +56,10 @@
     "google"
    ],
    "topic": "ai",
-   "tldr": "Google's first new smart speaker in six years starts shipping on June 29th, narrowly missing its promised spring launch window.  Preorders for the Google Home Speaker open today, June 17th.",
+   "tldr": "Google's first new smart speaker in six years starts shipping on June 25th, narrowly missing its promised spring launch window.  Preorders for the Google Home Speaker open today, June 17th.",
    "published": "2026-06-17T13:00:00.000Z",
    "dupes": 1,
-   "score": 0.547,
+   "score": 0.53,
    "tier": 2
   },
   {
@@ -74,7 +74,7 @@
    "tldr": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
    "published": "2026-06-16T21:29:50.000Z",
    "dupes": 1,
-   "score": 0.491,
+   "score": 0.481,
    "tier": 2
   },
   {
@@ -89,7 +89,7 @@
    "tldr": "NVIDIA XR AI is now available in public beta, giving developers a framework for building multimodal AI agents for AR glasses and XR devices.",
    "published": "2026-06-16T22:30:41.000Z",
    "dupes": 1,
-   "score": 0.474,
+   "score": 0.464,
    "tier": 2
   },
   {
@@ -104,7 +104,7 @@
    "tldr": "AI runs at the speed of light.  More and more, that light is made in Texas.",
    "published": "2026-06-16T22:10:56.000Z",
    "dupes": 1,
-   "score": 0.471,
+   "score": 0.461,
    "tier": 2
   },
   {
@@ -119,7 +119,7 @@
    "tldr": "Climate & Sustainability",
    "published": "2026-06-16T17:30:00.000Z",
    "dupes": 1,
-   "score": 0.439,
+   "score": 0.431,
    "tier": 2
   },
   {
@@ -134,22 +134,7 @@
    "tldr": "Enterprises are moving agentic AI from proof of concept to production — and the next generation of AI factories are built for the era of agents.",
    "published": "2026-06-16T16:30:27.000Z",
    "dupes": 1,
-   "score": 0.433,
-   "tier": 2
-  },
-  {
-   "id": "aa77a916b0f0c9e5f9d9e61a1a9b158cc207eaa4",
-   "title": "Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence",
-   "url": "https://qwen.ai/blog?id=qwen-robotsuite",
-   "source": "Hacker News",
-   "org": [
-    "qwen"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-16T13:15:15.000Z",
-   "dupes": 1,
-   "score": 0.431,
+   "score": 0.425,
    "tier": 2
   },
   {
@@ -167,7 +152,7 @@
     "model"
    ],
    "dupes": 2,
-   "score": 0.425,
+   "score": 0.419,
    "tier": 2
   },
   {
@@ -182,7 +167,22 @@
    "tldr": "Every breakthrough AI model starts the same way: with a training run.  The infrastructure running those training jobs shapes everything: how fast teams can iterate, what scale of model they can build and whether those…",
    "published": "2026-06-16T15:00:36.000Z",
    "dupes": 1,
-   "score": 0.424,
+   "score": 0.416,
+   "tier": 2
+  },
+  {
+   "id": "b387731f4f83720dfe4394e2dac385ef5730d12b",
+   "title": "Predicting model behavior before release by simulating deployment",
+   "url": "https://openai.com/index/deployment-simulation",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
+   "published": "2026-06-16T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.379,
    "tier": 2
   },
   {
@@ -198,23 +198,8 @@
    "tldr": "",
    "published": "2026-06-16T19:59:14.000Z",
    "dupes": 1,
-   "score": 0.392,
+   "score": 0.378,
    "tier": 2
-  },
-  {
-   "id": "b387731f4f83720dfe4394e2dac385ef5730d12b",
-   "title": "Predicting model behavior before release by simulating deployment",
-   "url": "https://openai.com/index/deployment-simulation",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
-   "published": "2026-06-16T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.383,
-   "tier": 3
   },
   {
    "id": "b0d10e8dabf270966b68107c75ff86af37ddd295",
@@ -228,7 +213,7 @@
    "tldr": "The US government has issued an export control directive to suspend all access to Fable 5 and Mythos 5.",
    "published": "2026-06-12T00:00:00.000Z",
    "dupes": 2,
-   "score": 0.365,
+   "score": 0.364,
    "tier": 3
   },
   {
@@ -256,7 +241,7 @@
    "tldr": "Smart glasses are still a nascent category, but chipmaker Qualcomm is hard at work upgrading the silicon to power the next wave of XR devices: the Snapdragon Reality Elite.",
    "published": "2026-06-16T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.361,
+   "score": 0.353,
    "tier": 3
   },
   {
@@ -271,7 +256,7 @@
    "tldr": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
    "published": "2026-06-14T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.325,
+   "score": 0.324,
    "tier": 3
   },
   {
@@ -286,22 +271,7 @@
    "tldr": "We’re introducing new AI-powered Facebook features to help you connect, create, and find what you’re looking for.  The post New AI Tools to Help You Make Things Happen on Facebook appeared first on Meta Newsroom .",
    "published": "2026-06-15T16:00:23.000Z",
    "dupes": 1,
-   "score": 0.311,
-   "tier": 3
-  },
-  {
-   "id": "66dedc45099c3c76db3a5b1480c587d437a0e388",
-   "title": "Open Reproduction of DeepSeek-R1",
-   "url": "https://github.com/huggingface/open-r1",
-   "source": "HN · DeepSeek",
-   "org": [
-    "deepseek"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-11T13:14:31.000Z",
-   "dupes": 1,
-   "score": 0.304,
+   "score": 0.308,
    "tier": 3
   },
   {
@@ -481,7 +451,7 @@
    "tldr": "",
    "published": "2026-06-16T06:25:06.000Z",
    "dupes": 1,
-   "score": 0.3,
+   "score": 0.293,
    "tier": 3
   },
   {
@@ -496,22 +466,7 @@
    "tldr": "As the rest of the country celebrated the USA's first World Cup win and the New York Knicks championship, Anthropic spent its weekend fighting the Trump administration over its latest model release.",
    "published": "2026-06-16T03:00:00.000Z",
    "dupes": 1,
-   "score": 0.294,
-   "tier": 3
-  },
-  {
-   "id": "c152656997f1f77618107ea20a89cb7e5f683632",
-   "title": "NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark",
-   "url": "https://blogs.nvidia.com/blog/nvidia-blackwell-agentperf-artificial-analysis",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "AgentPerf from Artificial Analysis, the industry’s first agentic AI benchmark, gives developers, enterprises and infrastructure providers a clear way to compare systems for agentic AI.",
-   "published": "2026-06-12T21:00:08.000Z",
-   "dupes": 1,
-   "score": 0.28,
+   "score": 0.289,
    "tier": 3
   },
   {
@@ -545,6 +500,36 @@
    "published": "2026-06-12T17:37:00.000Z",
    "dupes": 1,
    "score": 0.279,
+   "tier": 3
+  },
+  {
+   "id": "c152656997f1f77618107ea20a89cb7e5f683632",
+   "title": "NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark",
+   "url": "https://blogs.nvidia.com/blog/nvidia-blackwell-agentperf-artificial-analysis",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "AgentPerf from Artificial Analysis, the industry’s first agentic AI benchmark, gives developers, enterprises and infrastructure providers a clear way to compare systems for agentic AI.",
+   "published": "2026-06-12T21:00:08.000Z",
+   "dupes": 1,
+   "score": 0.279,
+   "tier": 3
+  },
+  {
+   "id": "66dedc45099c3c76db3a5b1480c587d437a0e388",
+   "title": "Open Reproduction of DeepSeek-R1",
+   "url": "https://github.com/huggingface/open-r1",
+   "source": "HN · DeepSeek",
+   "org": [
+    "deepseek"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-11T13:14:31.000Z",
+   "dupes": 1,
+   "score": 0.278,
    "tier": 3
   },
   {
@@ -609,21 +594,6 @@
    "tier": 3
   },
   {
-   "id": "d9ba9c0830bb39b369a7f98eadc0a26591b013d9",
-   "title": "All the news about Anthropic’s new AI fight with the White House",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
-   "source": "The Verge AI",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "Anthropic was already navigating one dispute with the government in its standoff with the Pentagon, and then came an order on June 12th to block off foreign access to its most recently released AI models, Fable 5 and…",
-   "published": "2026-06-15T19:04:53.000Z",
-   "dupes": 1,
-   "score": 0.269,
-   "tier": 3
-  },
-  {
    "id": "dd008cb894a8038bd6be56d243a46bcf23c16170",
    "title": "Ire identifies another LOTUSLITE specimen",
    "url": "https://www.microsoft.com/en-us/research/blog/ire-identifies-another-lotuslite-specimen",
@@ -634,21 +604,6 @@
    "topic": "ai",
    "tldr": "Project Ire examined a timely malware sample and determined its intent through reverse engineering—identifying LOTUSLITE characteristics even as most major EDR tools did not detect it.  The post Ire identifies another…",
    "published": "2026-06-12T20:30:48.000Z",
-   "dupes": 1,
-   "score": 0.267,
-   "tier": 3
-  },
-  {
-   "id": "e67cde346270bd7451794e3f7a41b8a071012a9f",
-   "title": "Trump’s Anthropic shutdown just made the case for non-American AI",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai",
-   "source": "The Verge AI",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "At Washington's request, Anthropic suddenly took its newest and most powerful AI models offline over the weekend.  The American company said it had little choice after the White House demanded it block access for all…",
-   "published": "2026-06-15T18:10:27.000Z",
    "dupes": 1,
    "score": 0.267,
    "tier": 3
@@ -667,6 +622,21 @@
    "tier": 3
   },
   {
+   "id": "d9ba9c0830bb39b369a7f98eadc0a26591b013d9",
+   "title": "All the news about Anthropic’s new AI fight with the White House",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
+   "source": "The Verge AI",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "Anthropic was already navigating one dispute with the government in its standoff with the Pentagon, and then came an order on June 12th to block off foreign access to its most recently released AI models, Fable 5 and…",
+   "published": "2026-06-15T19:04:53.000Z",
+   "dupes": 1,
+   "score": 0.266,
+   "tier": 3
+  },
+  {
    "id": "47d05adaf3b5567b68808cb126a7d74754fe064b",
    "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
    "url": "https://huggingface.co/blog/torch-mlp-fusion",
@@ -675,6 +645,21 @@
    "topic": "ai",
    "tldr": "",
    "published": "2026-06-11T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.263,
+   "tier": 3
+  },
+  {
+   "id": "e67cde346270bd7451794e3f7a41b8a071012a9f",
+   "title": "Trump’s Anthropic shutdown just made the case for non-American AI",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai",
+   "source": "The Verge AI",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "At Washington's request, Anthropic suddenly took its newest and most powerful AI models offline over the weekend.  The American company said it had little choice after the White House demanded it block access for all…",
+   "published": "2026-06-15T18:10:27.000Z",
    "dupes": 1,
    "score": 0.263,
    "tier": 3
@@ -692,21 +677,6 @@
    "published": "2026-06-12T12:33:26.000Z",
    "dupes": 1,
    "score": 0.253,
-   "tier": 3
-  },
-  {
-   "id": "7ee0693dd3ce103ef57cffa7fece5f236bc87576",
-   "title": "Infrastructure Explained: Compute Power",
-   "url": "https://about.fb.com/news/2026/06/what-is-compute-power-meta-ai-infrastructure",
-   "source": "Meta Newsroom",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "We're explaining what compute power is and how GPUs, CPUs, and MTIA custom silicon help us meet our AI innovation and computing needs.  The post Infrastructure Explained: Compute Power appeared first on Meta Newsroom .",
-   "published": "2026-06-10T14:30:04.000Z",
-   "dupes": 1,
-   "score": 0.251,
    "tier": 3
   },
   {
