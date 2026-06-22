@@ -1,6 +1,97 @@
 {
- "generated": "2026-06-22T12:31:55.393Z",
+ "generated": "2026-06-22T14:54:04.954Z",
  "items": [
+  {
+   "id": "048ca4aa1cb57f7a59388cbe7c3c9c0d9e19c02f",
+   "title": "At ISC, JUPITER Shows What Exascale Science Looks Like",
+   "url": "https://blogs.nvidia.com/blog/jupiter-exascale-supercomputing-science",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "JUPITER, Europe’s first exascale supercomputer at Germany’s Forschungszentrum Jülich, runs on NVIDIA Grace Hopper Superchips and NVIDIA Quantum-X800 InfiniBand networking — and it’s had a busy year.",
+   "published": "2026-06-22T13:00:48.000Z",
+   "dupes": 1,
+   "score": 0.6,
+   "tier": 1
+  },
+  {
+   "id": "79d282057fa78cb9afd32f129ce7f87319f653fe",
+   "title": "NAIRR Science Program Reshapes Scientific Research, Powered by NVIDIA AI Infrastructure",
+   "url": "https://blogs.nvidia.com/blog/nairr-scientific-research-ai-infrastructure",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "S.  S.",
+   "published": "2026-06-22T13:00:38.000Z",
+   "badges": [
+    "research"
+   ],
+   "dupes": 1,
+   "score": 0.6,
+   "tier": 2
+  },
+  {
+   "id": "71966ba95af1445456b8bd5a973338b7a6c21e72",
+   "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries",
+   "url": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter.",
+   "published": "2026-06-22T13:00:20.000Z",
+   "dupes": 1,
+   "score": 0.6,
+   "tier": 2
+  },
+  {
+   "id": "3b7b3174538915c6e07ec7ffa0756030025cf599",
+   "title": "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
+   "url": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Mission, Vision and Veritas — new Los Alamos National Laboratory (LANL) supercomputers to be built with HPE and NVIDIA — are tapping NVIDIA Vera CPUs to accelerate scientific discovery, unlocking agentic AI for science.",
+   "published": "2026-06-22T13:00:20.000Z",
+   "dupes": 1,
+   "score": 0.6,
+   "tier": 2
+  },
+  {
+   "id": "c9c12c63fc8b5d9f99d2cd2f7b8b2e4cf72643ab",
+   "title": "Eco Wave Power Turns Waves Into Watts With NVIDIA AI Infrastructure and Digital Twins",
+   "url": "https://blogs.nvidia.com/blog/eco-wave-power-ai-digital-twins",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "The next era of AI will not be defined by compute alone.  Its growth will be determined by energy.",
+   "published": "2026-06-22T13:00:13.000Z",
+   "dupes": 1,
+   "score": 0.6,
+   "tier": 2
+  },
+  {
+   "id": "493a508e4ceaa14c153f1cf6111d4d075ab15b9d",
+   "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+   "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-22T13:18:56.000Z",
+   "dupes": 1,
+   "score": 0.592,
+   "tier": 2
+  },
   {
    "id": "356b4a85a4c2aab6073eaaa2350649eb27e43b35",
    "title": "Powering the next wave of AI: Expanding capacity with our new datacenter in Pecos",
@@ -13,8 +104,23 @@
    "tldr": "Today, Microsoft is announcing one of the largest single capacity additions in our history.  In Pecos, Texas, we will build a new datacenter campus, expanding our global datacenter capacity by approximately 2 gigawatts…",
    "published": "2026-06-22T12:06:39.000Z",
    "dupes": 1,
-   "score": 0.594,
-   "tier": 1
+   "score": 0.564,
+   "tier": 2
+  },
+  {
+   "id": "f1485a044c68a490163d1b63f8d8545583823c4c",
+   "title": "Nvidia Halos",
+   "url": "https://www.nvidia.com/en-us/ai-trust-center/halos/autonomous-vehicles",
+   "source": "Hacker News",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-22T13:57:49.000Z",
+   "dupes": 1,
+   "score": 0.546,
+   "tier": 2
   },
   {
    "id": "859218440fe9ebb2ea2781a5a1fc3c15a73086a4",
@@ -28,7 +134,7 @@
    "tldr": "Hot tubs sit at about 38 to 40 degrees Celsius, warm enough that most people can only soak for about 15 minutes.  NVIDIA’s newest AI servers can run their cooling liquid even hotter — up to 45 degrees Celsius, or 113…",
    "published": "2026-06-22T05:00:22.000Z",
    "dupes": 1,
-   "score": 0.537,
+   "score": 0.514,
    "tier": 2
   },
   {
@@ -42,21 +148,6 @@
    "topic": "ai",
    "tldr": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
    "published": "2026-06-21T23:00:00.000Z",
-   "dupes": 1,
-   "score": 0.508,
-   "tier": 2
-  },
-  {
-   "id": "174425f454f7c2a3476cf7e23a22079c1d8218a9",
-   "title": "Identity verification on Claude",
-   "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
-   "source": "Hacker News",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-21T12:44:13.000Z",
    "dupes": 1,
    "score": 0.49,
    "tier": 2
@@ -73,7 +164,37 @@
    "tldr": "",
    "published": "2026-06-21T22:55:23.000Z",
    "dupes": 1,
-   "score": 0.437,
+   "score": 0.44,
+   "tier": 2
+  },
+  {
+   "id": "93583ccae0746be752d3813578eacf994b1caf6d",
+   "title": "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",
+   "url": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17",
+   "source": "HN · DeepSeek",
+   "org": [
+    "deepseek"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-17T03:55:16.000Z",
+   "dupes": 1,
+   "score": 0.34,
+   "tier": 2
+  },
+  {
+   "id": "3aca118931f90f9a6eaa17e574cb6e66cc201b72",
+   "title": "DeepSeek Introduces Vision",
+   "url": "https://chat.deepseek.com/",
+   "source": "HN · DeepSeek",
+   "org": [
+    "deepseek"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-18T06:17:40.000Z",
+   "dupes": 1,
+   "score": 0.332,
    "tier": 2
   },
   {
@@ -92,7 +213,7 @@
    ],
    "dupes": 2,
    "score": 0.314,
-   "tier": 2
+   "tier": 3
   },
   {
    "id": "217d8a1a56f1c727215c9735021178e79bd82d96",
@@ -106,8 +227,8 @@
    "tldr": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
    "published": "2026-06-18T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.31,
-   "tier": 2
+   "score": 0.309,
+   "tier": 3
   },
   {
    "id": "33383567514a4fc878384c06d079128ba5835d2a",
@@ -121,8 +242,8 @@
    "tldr": "5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
    "published": "2026-06-18T11:00:00.000Z",
    "dupes": 1,
-   "score": 0.308,
-   "tier": 2
+   "score": 0.307,
+   "tier": 3
   },
   {
    "id": "2155d7cb8c43e82f85b6ee373605b32572d7c2cd",
@@ -137,7 +258,7 @@
    "published": "2026-06-18T08:00:00.000Z",
    "dupes": 1,
    "score": 0.307,
-   "tier": 2
+   "tier": 3
   },
   {
    "id": "1a8cd099cf1eaeb62d3609e3631aa9bdf0f19deb",
@@ -152,7 +273,7 @@
    "published": "2026-06-17T10:00:00.000Z",
    "dupes": 1,
    "score": 0.303,
-   "tier": 2
+   "tier": 3
   },
   {
    "id": "6a1e7f2894c3810f814c3fd7c6db1fbf2ec5972a",
@@ -167,7 +288,7 @@
    "published": "2026-06-17T00:00:00.000Z",
    "dupes": 1,
    "score": 0.302,
-   "tier": 2
+   "tier": 3
   },
   {
    "id": "0088b66458750462eef8031a7d9cc39402b4ef89",
@@ -182,7 +303,7 @@
    "published": "2026-06-17T00:00:00.000Z",
    "dupes": 1,
    "score": 0.302,
-   "tier": 2
+   "tier": 3
   },
   {
    "id": "0d76c1a20eb3842afd6d72c3e54e4057e0e0fd6e",
@@ -195,21 +316,6 @@
    "topic": "ai",
    "tldr": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
    "published": "2026-06-16T21:29:50.000Z",
-   "dupes": 1,
-   "score": 0.302,
-   "tier": 2
-  },
-  {
-   "id": "367ca70b57b816d927d391560975326982ad229b",
-   "title": "Securing the future of AI agents",
-   "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents",
-   "source": "Google DeepMind",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.",
-   "published": "2026-06-16T15:46:31.000Z",
    "dupes": 1,
    "score": 0.302,
    "tier": 3
@@ -230,18 +336,18 @@
    "tier": 3
   },
   {
-   "id": "93583ccae0746be752d3813578eacf994b1caf6d",
-   "title": "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",
-   "url": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17",
-   "source": "HN · DeepSeek",
+   "id": "367ca70b57b816d927d391560975326982ad229b",
+   "title": "Securing the future of AI agents",
+   "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents",
+   "source": "Google DeepMind",
    "org": [
-    "deepseek"
+    "google"
    ],
    "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-17T03:55:16.000Z",
+   "tldr": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.",
+   "published": "2026-06-16T15:46:31.000Z",
    "dupes": 1,
-   "score": 0.291,
+   "score": 0.301,
    "tier": 3
   },
   {
@@ -256,22 +362,7 @@
    "tldr": "In a consequential grid infrastructure decision, the Federal Energy Regulatory Commission (FERC) today issued a major milestone on large-load interconnection impacting how those building AI factories, semiconductor…",
    "published": "2026-06-18T20:00:27.000Z",
    "dupes": 1,
-   "score": 0.287,
-   "tier": 3
-  },
-  {
-   "id": "3aca118931f90f9a6eaa17e574cb6e66cc201b72",
-   "title": "DeepSeek Introduces Vision",
-   "url": "https://chat.deepseek.com/",
-   "source": "HN · DeepSeek",
-   "org": [
-    "deepseek"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-18T06:17:40.000Z",
-   "dupes": 1,
-   "score": 0.287,
+   "score": 0.286,
    "tier": 3
   },
   {
@@ -286,7 +377,7 @@
    "tldr": "The digital era gave the advertising and marketing industry speed; the AI era is giving it autonomous operations.  For companies building next-generation technologies for advertising and marketing, the question is no…",
    "published": "2026-06-18T13:00:43.000Z",
    "dupes": 1,
-   "score": 0.284,
+   "score": 0.283,
    "tier": 3
   },
   {
@@ -301,7 +392,7 @@
    "tldr": "Play favorite titles from popular game libraries, keep progress synced and jump back into gaming sessions on virtually any device.  That’s the power of GeForce NOW cloud gaming.",
    "published": "2026-06-18T13:00:32.000Z",
    "dupes": 1,
-   "score": 0.284,
+   "score": 0.283,
    "tier": 3
   },
   {
@@ -316,7 +407,7 @@
    "tldr": "A year ago at NVIDIA GTC Paris at VivaTech, France laid out plans to advance local AI — from new AI factories and national compute capacity to open frontier models and industrial platforms.  Now, that AI infrastructure…",
    "published": "2026-06-18T06:00:59.000Z",
    "dupes": 1,
-   "score": 0.282,
+   "score": 0.281,
    "tier": 3
   },
   {
@@ -376,7 +467,7 @@
    "tldr": "Enterprises are moving agentic AI from proof of concept to production — and the next generation of AI factories are built for the era of agents.",
    "published": "2026-06-16T16:30:27.000Z",
    "dupes": 1,
-   "score": 0.277,
+   "score": 0.276,
    "tier": 3
   },
   {
@@ -391,7 +482,7 @@
    "tldr": "Every breakthrough AI model starts the same way: with a training run.  The infrastructure running those training jobs shapes everything: how fast teams can iterate, what scale of model they can build and whether those…",
    "published": "2026-06-16T15:00:36.000Z",
    "dupes": 1,
-   "score": 0.277,
+   "score": 0.276,
    "tier": 3
   },
   {
@@ -407,7 +498,23 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.273,
+   "score": 0.272,
+   "tier": 3
+  },
+  {
+   "id": "86e5755f87b102aa0be683c1bf4c4125811172cd",
+   "title": "A robot is sprinting towards you. Do you want it running on Claude or Grok?",
+   "url": "https://openrouter.ai/blog/insights/royale-last-agent-standing",
+   "source": "HN · xAI",
+   "org": [
+    "xai",
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-17T21:00:07.000Z",
+   "dupes": 1,
+   "score": 0.268,
    "tier": 3
   },
   {
@@ -420,7 +527,7 @@
    "tldr": "",
    "published": "2026-06-18T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.268,
+   "score": 0.267,
    "tier": 3
   },
   {
@@ -433,7 +540,7 @@
    "tldr": "",
    "published": "2026-06-18T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.268,
+   "score": 0.267,
    "tier": 3
   },
   {
@@ -459,7 +566,7 @@
    "tldr": "",
    "published": "2026-06-17T10:18:05.000Z",
    "dupes": 1,
-   "score": 0.266,
+   "score": 0.265,
    "tier": 3
   },
   {
@@ -474,7 +581,7 @@
    "tldr": "",
    "published": "2026-06-17T09:01:25.000Z",
    "dupes": 1,
-   "score": 0.266,
+   "score": 0.265,
    "tier": 3
   },
   {
@@ -487,7 +594,7 @@
    "tldr": "",
    "published": "2026-06-17T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.265,
+   "score": 0.264,
    "tier": 3
   },
   {
@@ -506,22 +613,6 @@
    "tier": 3
   },
   {
-   "id": "86e5755f87b102aa0be683c1bf4c4125811172cd",
-   "title": "A robot is sprinting towards you. Do you want it running on Claude or Grok?",
-   "url": "https://openrouter.ai/blog/insights/royale-last-agent-standing",
-   "source": "HN · xAI",
-   "org": [
-    "xai",
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-17T21:00:07.000Z",
-   "dupes": 1,
-   "score": 0.243,
-   "tier": 3
-  },
-  {
    "id": "1c5754d821968fc1e2148bab26258be399dbde7b",
    "title": "Barret Zoph is out at OpenAI again after just five months",
    "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
@@ -533,7 +624,7 @@
    "tldr": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned.  Zoph returned to OpenAI in mid-January after a stint as cofounder and CTO of…",
    "published": "2026-06-19T04:49:33.000Z",
    "dupes": 1,
-   "score": 0.216,
+   "score": 0.215,
    "tier": 3
   },
   {
@@ -548,7 +639,7 @@
    "tldr": "",
    "published": "2026-06-19T10:38:36.000Z",
    "dupes": 1,
-   "score": 0.212,
+   "score": 0.213,
    "tier": 3
   },
   {
@@ -561,7 +652,23 @@
    "tldr": "When three Amazon software engineers testified earlier this month at Seattle City Council hearings about data centers, they started their testimony by citing a city law barring employment discrimination over political…",
    "published": "2026-06-18T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.21,
+   "score": 0.209,
+   "tier": 3
+  },
+  {
+   "id": "c0a0897f32afac00618fc1ff9a8f0d2bcf9c21e5",
+   "title": "DeepSeek V4 Pro at 5% the cost of Claude – what it takes to close the gap",
+   "url": "https://howardchen.substack.com/p/deepseek-v4-pro-at-5-the-cost-of",
+   "source": "HN · DeepSeek",
+   "org": [
+    "deepseek",
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-16T19:59:14.000Z",
+   "dupes": 1,
+   "score": 0.205,
    "tier": 3
   },
   {
@@ -580,22 +687,6 @@
    "tier": 3
   },
   {
-   "id": "c0a0897f32afac00618fc1ff9a8f0d2bcf9c21e5",
-   "title": "DeepSeek V4 Pro at 5% the cost of Claude – what it takes to close the gap",
-   "url": "https://howardchen.substack.com/p/deepseek-v4-pro-at-5-the-cost-of",
-   "source": "HN · DeepSeek",
-   "org": [
-    "deepseek",
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-16T19:59:14.000Z",
-   "dupes": 1,
-   "score": 0.2,
-   "tier": 3
-  },
-  {
    "id": "b127d3bd245225625c92220e44d1b64c024a851d",
    "title": "Pentagon says Grok has been used to launch missiles at Iran",
    "url": "https://thehill.com/policy/technology/5928204-pentagon-musk-grok-chatbot-iran-strikes",
@@ -607,7 +698,7 @@
    "tldr": "",
    "published": "2026-06-17T17:05:43.000Z",
    "dupes": 1,
-   "score": 0.196,
+   "score": 0.198,
    "tier": 3
   },
   {
@@ -622,7 +713,7 @@
    "tldr": "",
    "published": "2026-06-17T16:49:02.000Z",
    "dupes": 1,
-   "score": 0.196,
+   "score": 0.197,
    "tier": 3
   },
   {
@@ -637,7 +728,7 @@
    "tldr": "",
    "published": "2026-06-16T06:25:06.000Z",
    "dupes": 1,
-   "score": 0.191,
+   "score": 0.192,
    "tier": 3
   }
  ]
