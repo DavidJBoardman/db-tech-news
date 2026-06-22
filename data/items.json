@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-22T16:34:10.810Z",
+ "generated": "2026-06-22T18:22:37.929Z",
  "items": [
   {
    "id": "048ca4aa1cb57f7a59388cbe7c3c9c0d9e19c02f",
@@ -13,7 +13,7 @@
    "tldr": "JUPITER, Europe’s first exascale supercomputer at Germany’s Forschungszentrum Jülich, runs on NVIDIA Grace Hopper Superchips and NVIDIA Quantum-X800 InfiniBand networking — and it’s had a busy year.",
    "published": "2026-06-22T13:00:48.000Z",
    "dupes": 1,
-   "score": 0.58,
+   "score": 0.56,
    "tier": 1
   },
   {
@@ -31,22 +31,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.58,
-   "tier": 2
-  },
-  {
-   "id": "3b7b3174538915c6e07ec7ffa0756030025cf599",
-   "title": "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
-   "url": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Mission, Vision and Veritas — new Los Alamos National Laboratory (LANL) supercomputers to be built with HPE and NVIDIA — are tapping NVIDIA Vera CPUs to accelerate scientific discovery, unlocking agentic AI for science.",
-   "published": "2026-06-22T13:00:20.000Z",
-   "dupes": 1,
-   "score": 0.58,
+   "score": 0.56,
    "tier": 2
   },
   {
@@ -61,7 +46,22 @@
    "tldr": "At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter.",
    "published": "2026-06-22T13:00:20.000Z",
    "dupes": 1,
-   "score": 0.58,
+   "score": 0.56,
+   "tier": 2
+  },
+  {
+   "id": "3b7b3174538915c6e07ec7ffa0756030025cf599",
+   "title": "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
+   "url": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Mission, Vision and Veritas — new Los Alamos National Laboratory (LANL) supercomputers to be built with HPE and NVIDIA — are tapping NVIDIA Vera CPUs to accelerate scientific discovery, unlocking agentic AI for science.",
+   "published": "2026-06-22T13:00:20.000Z",
+   "dupes": 1,
+   "score": 0.56,
    "tier": 2
   },
   {
@@ -76,7 +76,55 @@
    "tldr": "The next era of AI will not be defined by compute alone.  Its growth will be determined by energy.",
    "published": "2026-06-22T13:00:13.000Z",
    "dupes": 1,
-   "score": 0.58,
+   "score": 0.56,
+   "tier": 2
+  },
+  {
+   "id": "cb0605522b7f6cf471b459097a87dc47489e9ccf",
+   "title": "The text in Claude Code’s “Extended Thinking” output",
+   "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic",
+   "source": "Hacker News",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-22T14:22:46.000Z",
+   "dupes": 1,
+   "score": 0.556,
+   "tier": 2
+  },
+  {
+   "id": "f0ab1740b8b7f5b3f7439029864e8548fd6819be",
+   "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+   "url": "https://openai.com/index/patch-the-planet",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+   "published": "2026-06-22T10:00:00.000Z",
+   "badges": [
+    "oss"
+   ],
+   "dupes": 1,
+   "score": 0.553,
+   "tier": 2
+  },
+  {
+   "id": "f7e9d38ae7326e724cd3dd4ce89afcce1e11f14f",
+   "title": "Daybreak: Tools for securing every organization in the world",
+   "url": "https://openai.com/index/daybreak-securing-the-world",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+   "published": "2026-06-22T10:00:00.000Z",
+   "dupes": 1,
+   "score": 0.553,
    "tier": 2
   },
   {
@@ -89,22 +137,7 @@
    "tldr": "",
    "published": "2026-06-22T13:18:56.000Z",
    "dupes": 1,
-   "score": 0.571,
-   "tier": 2
-  },
-  {
-   "id": "cb0605522b7f6cf471b459097a87dc47489e9ccf",
-   "title": "Claude Code's \"extended thinking\" is a summary- not authentic thinking",
-   "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic",
-   "source": "Hacker News",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-22T14:22:46.000Z",
-   "dupes": 1,
-   "score": 0.553,
+   "score": 0.551,
    "tier": 2
   },
   {
@@ -119,22 +152,7 @@
    "tldr": "Today, Microsoft is announcing one of the largest single capacity additions in our history.  In Pecos, Texas, we will build a new datacenter campus, expanding our global datacenter capacity by approximately 2 gigawatts…",
    "published": "2026-06-22T12:06:39.000Z",
    "dupes": 1,
-   "score": 0.545,
-   "tier": 2
-  },
-  {
-   "id": "f1485a044c68a490163d1b63f8d8545583823c4c",
-   "title": "Nvidia Halos",
-   "url": "https://www.nvidia.com/en-us/ai-trust-center/halos/autonomous-vehicles",
-   "source": "Hacker News",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-22T13:57:49.000Z",
-   "dupes": 1,
-   "score": 0.532,
+   "score": 0.525,
    "tier": 2
   },
   {
@@ -149,7 +167,7 @@
    "tldr": "",
    "published": "2026-06-22T13:43:38.000Z",
    "dupes": 1,
-   "score": 0.525,
+   "score": 0.512,
    "tier": 2
   },
   {
@@ -164,7 +182,22 @@
    "tldr": "Hot tubs sit at about 38 to 40 degrees Celsius, warm enough that most people can only soak for about 15 minutes.  NVIDIA’s newest AI servers can run their cooling liquid even hotter — up to 45 degrees Celsius, or 113…",
    "published": "2026-06-22T05:00:22.000Z",
    "dupes": 1,
-   "score": 0.499,
+   "score": 0.484,
+   "tier": 2
+  },
+  {
+   "id": "6fdda2fdc1d813dab1b0c598210f14e8492ff730",
+   "title": "Codex-maxxing for long-running work",
+   "url": "https://openai.com/index/codex-maxxing-long-running-work",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
+   "published": "2026-06-22T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.472,
    "tier": 2
   },
   {
@@ -179,8 +212,8 @@
    "tldr": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
    "published": "2026-06-21T23:00:00.000Z",
    "dupes": 1,
-   "score": 0.478,
-   "tier": 2
+   "score": 0.466,
+   "tier": 3
   },
   {
    "id": "93583ccae0746be752d3813578eacf994b1caf6d",
@@ -194,8 +227,8 @@
    "tldr": "",
    "published": "2026-06-17T03:55:16.000Z",
    "dupes": 1,
-   "score": 0.34,
-   "tier": 2
+   "score": 0.339,
+   "tier": 3
   },
   {
    "id": "3aca118931f90f9a6eaa17e574cb6e66cc201b72",
@@ -209,7 +242,7 @@
    "tldr": "",
    "published": "2026-06-18T06:17:40.000Z",
    "dupes": 1,
-   "score": 0.332,
+   "score": 0.331,
    "tier": 3
   },
   {
@@ -242,7 +275,7 @@
    "tldr": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
    "published": "2026-06-18T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.309,
+   "score": 0.308,
    "tier": 3
   },
   {
@@ -276,21 +309,6 @@
    "tier": 3
   },
   {
-   "id": "1a8cd099cf1eaeb62d3609e3631aa9bdf0f19deb",
-   "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
-   "url": "https://openai.com/index/ai-chemist-improves-reaction",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "4 improved a key drug-making reaction, advancing medicinal chemistry research.",
-   "published": "2026-06-17T10:00:00.000Z",
-   "dupes": 1,
-   "score": 0.303,
-   "tier": 3
-  },
-  {
    "id": "6a1e7f2894c3810f814c3fd7c6db1fbf2ec5972a",
    "title": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
    "url": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
@@ -301,6 +319,21 @@
    "topic": "ai",
    "tldr": "",
    "published": "2026-06-17T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.302,
+   "tier": 3
+  },
+  {
+   "id": "1a8cd099cf1eaeb62d3609e3631aa9bdf0f19deb",
+   "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+   "url": "https://openai.com/index/ai-chemist-improves-reaction",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "4 improved a key drug-making reaction, advancing medicinal chemistry research.",
+   "published": "2026-06-17T10:00:00.000Z",
    "dupes": 1,
    "score": 0.302,
    "tier": 3
@@ -377,7 +410,7 @@
    "tldr": "In a consequential grid infrastructure decision, the Federal Energy Regulatory Commission (FERC) today issued a major milestone on large-load interconnection impacting how those building AI factories, semiconductor…",
    "published": "2026-06-18T20:00:27.000Z",
    "dupes": 1,
-   "score": 0.285,
+   "score": 0.284,
    "tier": 3
   },
   {
@@ -392,7 +425,7 @@
    "tldr": "The digital era gave the advertising and marketing industry speed; the AI era is giving it autonomous operations.  For companies building next-generation technologies for advertising and marketing, the question is no…",
    "published": "2026-06-18T13:00:43.000Z",
    "dupes": 1,
-   "score": 0.283,
+   "score": 0.282,
    "tier": 3
   },
   {
@@ -407,7 +440,7 @@
    "tldr": "Play favorite titles from popular game libraries, keep progress synced and jump back into gaming sessions on virtually any device.  That’s the power of GeForce NOW cloud gaming.",
    "published": "2026-06-18T13:00:32.000Z",
    "dupes": 1,
-   "score": 0.283,
+   "score": 0.282,
    "tier": 3
   },
   {
@@ -422,7 +455,7 @@
    "tldr": "A year ago at NVIDIA GTC Paris at VivaTech, France laid out plans to advance local AI — from new AI factories and national compute capacity to open frontier models and industrial platforms.  Now, that AI infrastructure…",
    "published": "2026-06-18T06:00:59.000Z",
    "dupes": 1,
-   "score": 0.281,
+   "score": 0.28,
    "tier": 3
   },
   {
@@ -513,7 +546,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.272,
+   "score": 0.271,
    "tier": 3
   },
   {
@@ -624,7 +657,7 @@
    "tldr": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned.  Zoph returned to OpenAI in mid-January after a stint as cofounder and CTO of…",
    "published": "2026-06-19T04:49:33.000Z",
    "dupes": 1,
-   "score": 0.214,
+   "score": 0.213,
    "tier": 3
   },
   {
@@ -639,7 +672,7 @@
    "tldr": "",
    "published": "2026-06-19T10:38:36.000Z",
    "dupes": 1,
-   "score": 0.211,
+   "score": 0.21,
    "tier": 3
   },
   {
@@ -683,7 +716,7 @@
    "tldr": "Anthropic has spent much of this week fighting to get its newest AI models back online after the Trump administration abruptly ordered the company to cut access for all foreign nationals, including users inside the US…",
    "published": "2026-06-17T18:28:50.000Z",
    "dupes": 1,
-   "score": 0.204,
+   "score": 0.203,
    "tier": 3
   },
   {
@@ -728,7 +761,7 @@
    "tldr": "",
    "published": "2026-06-16T06:25:06.000Z",
    "dupes": 1,
-   "score": 0.192,
+   "score": 0.191,
    "tier": 3
   }
  ]
