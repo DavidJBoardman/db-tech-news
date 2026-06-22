@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-21T23:58:22.732Z",
+ "generated": "2026-06-22T01:25:38.266Z",
  "items": [
   {
    "id": "eebdb7f63bb5dd4fde85f96add4f98bd295d3124",
@@ -13,7 +13,7 @@
    "tldr": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
    "published": "2026-06-21T23:00:00.000Z",
    "dupes": 1,
-   "score": 0.637,
+   "score": 0.619,
    "tier": 1
   },
   {
@@ -28,7 +28,52 @@
    "tldr": "",
    "published": "2026-06-21T12:44:13.000Z",
    "dupes": 1,
-   "score": 0.571,
+   "score": 0.565,
+   "tier": 2
+  },
+  {
+   "id": "5bfeb5f148ef3f90c691c24ffd5236179b8aaca7",
+   "title": "Petition against Meta's employee training data collection for ML models",
+   "url": "https://mcipetition.com/",
+   "source": "Hacker News",
+   "org": [
+    "meta"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-21T23:34:07.000Z",
+   "dupes": 1,
+   "score": 0.532,
+   "tier": 2
+  },
+  {
+   "id": "201ce65b3ce57d12b800585e69643bb91951192c",
+   "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
+   "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
+   "source": "Hacker News",
+   "org": [
+    "qwen"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-21T22:55:23.000Z",
+   "dupes": 1,
+   "score": 0.522,
+   "tier": 2
+  },
+  {
+   "id": "8f30dfad7969d635a63846a6989eb500a99a1912",
+   "title": "Show HN: Recall – fully-local project memory for Claude Code",
+   "url": "https://github.com/raiyanyahya/recall",
+   "source": "Hacker News",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-21T21:05:37.000Z",
+   "dupes": 1,
+   "score": 0.513,
    "tier": 2
   },
   {
@@ -43,7 +88,7 @@
    "tldr": "",
    "published": "2026-06-17T03:55:16.000Z",
    "dupes": 1,
-   "score": 0.342,
+   "score": 0.335,
    "tier": 2
   },
   {
@@ -58,7 +103,7 @@
    "tldr": "",
    "published": "2026-06-18T06:17:40.000Z",
    "dupes": 1,
-   "score": 0.337,
+   "score": 0.33,
    "tier": 2
   },
   {
@@ -73,7 +118,7 @@
    "tldr": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
    "published": "2026-06-18T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.317,
+   "score": 0.316,
    "tier": 2
   },
   {
@@ -121,7 +166,7 @@
    "tldr": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
    "published": "2026-06-18T08:00:00.000Z",
    "dupes": 1,
-   "score": 0.312,
+   "score": 0.311,
    "tier": 2
   },
   {
@@ -167,7 +212,7 @@
    "published": "2026-06-17T00:00:00.000Z",
    "dupes": 1,
    "score": 0.303,
-   "tier": 2
+   "tier": 3
   },
   {
    "id": "0d76c1a20eb3842afd6d72c3e54e4057e0e0fd6e",
@@ -182,7 +227,7 @@
    "published": "2026-06-16T21:29:50.000Z",
    "dupes": 1,
    "score": 0.303,
-   "tier": 2
+   "tier": 3
   },
   {
    "id": "367ca70b57b816d927d391560975326982ad229b",
@@ -196,8 +241,8 @@
    "tldr": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.",
    "published": "2026-06-16T15:46:31.000Z",
    "dupes": 1,
-   "score": 0.303,
-   "tier": 2
+   "score": 0.302,
+   "tier": 3
   },
   {
    "id": "b387731f4f83720dfe4394e2dac385ef5730d12b",
@@ -226,7 +271,7 @@
    "tldr": "In a consequential grid infrastructure decision, the Federal Energy Regulatory Commission (FERC) today issued a major milestone on large-load interconnection impacting how those building AI factories, semiconductor…",
    "published": "2026-06-18T20:00:27.000Z",
    "dupes": 1,
-   "score": 0.294,
+   "score": 0.293,
    "tier": 3
   },
   {
@@ -271,7 +316,7 @@
    "tldr": "A year ago at NVIDIA GTC Paris at VivaTech, France laid out plans to advance local AI — from new AI factories and national compute capacity to open frontier models and industrial platforms.  Now, that AI infrastructure…",
    "published": "2026-06-18T06:00:59.000Z",
    "dupes": 1,
-   "score": 0.286,
+   "score": 0.285,
    "tier": 3
   },
   {
@@ -287,7 +332,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.28,
+   "score": 0.279,
    "tier": 3
   },
   {
@@ -347,7 +392,7 @@
    "tldr": "Enterprises are moving agentic AI from proof of concept to production — and the next generation of AI factories are built for the era of agents.",
    "published": "2026-06-16T16:30:27.000Z",
    "dupes": 1,
-   "score": 0.278,
+   "score": 0.277,
    "tier": 3
   },
   {
@@ -392,6 +437,19 @@
    "tier": 3
   },
   {
+   "id": "07c125a38d887b78876076e79ca4cc0715d08b45",
+   "title": "MolmoMotion: Language-guided 3D motion forecasting",
+   "url": "https://huggingface.co/blog/allenai/molmomotion",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-17T15:26:44.000Z",
+   "dupes": 1,
+   "score": 0.268,
+   "tier": 3
+  },
+  {
    "id": "86e5755f87b102aa0be683c1bf4c4125811172cd",
    "title": "A robot is sprinting towards you. Do you want it running on Claude or Grok?",
    "url": "https://openrouter.ai/blog/insights/royale-last-agent-standing",
@@ -404,20 +462,7 @@
    "tldr": "",
    "published": "2026-06-17T21:00:07.000Z",
    "dupes": 1,
-   "score": 0.271,
-   "tier": 3
-  },
-  {
-   "id": "07c125a38d887b78876076e79ca4cc0715d08b45",
-   "title": "MolmoMotion: Language-guided 3D motion forecasting",
-   "url": "https://huggingface.co/blog/allenai/molmomotion",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-17T15:26:44.000Z",
-   "dupes": 1,
-   "score": 0.269,
+   "score": 0.268,
    "tier": 3
   },
   {
@@ -430,7 +475,7 @@
    "tldr": "",
    "published": "2026-06-17T10:18:05.000Z",
    "dupes": 1,
-   "score": 0.268,
+   "score": 0.267,
    "tier": 3
   },
   {
@@ -488,7 +533,7 @@
    "tldr": "",
    "published": "2026-06-19T10:38:36.000Z",
    "dupes": 1,
-   "score": 0.227,
+   "score": 0.225,
    "tier": 3
   },
   {
@@ -503,7 +548,7 @@
    "tldr": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned.  Zoph returned to OpenAI in mid-January after a stint as co-founder and CTO of…",
    "published": "2026-06-19T04:49:33.000Z",
    "dupes": 1,
-   "score": 0.226,
+   "score": 0.225,
    "tier": 3
   },
   {
@@ -516,7 +561,7 @@
    "tldr": "When three Amazon software engineers testified earlier this month at Seattle City Council hearings about data centers, they started their testimony by citing a city law barring employment discrimination over political…",
    "published": "2026-06-18T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.216,
+   "score": 0.215,
    "tier": 3
   },
   {
@@ -562,7 +607,7 @@
    "tldr": "",
    "published": "2026-06-17T17:05:43.000Z",
    "dupes": 1,
-   "score": 0.201,
+   "score": 0.2,
    "tier": 3
   },
   {
