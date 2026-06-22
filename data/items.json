@@ -1,21 +1,6 @@
 {
- "generated": "2026-06-22T23:30:07.242Z",
+ "generated": "2026-06-22T23:56:50.621Z",
  "items": [
-  {
-   "id": "8dd88d6deeb40bfaa1f5187daaeacb216157e597",
-   "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
-   "url": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
-   "source": "The Verge AI",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Public pushback against data centers has emphasized their water and energy consumption, and now Nvidia is highlighting its claim that the Rubin generation reference design for a fully liquid-cooled data center has…",
-   "published": "2026-06-22T23:24:32.000Z",
-   "dupes": 1,
-   "score": 0.549,
-   "tier": 1
-  },
   {
    "id": "6ea2d494b2547dc14b20a21da2c535a3623e88ae",
    "title": "Unsloth GLM-5.2 – How to Run Locally",
@@ -27,6 +12,21 @@
    "topic": "ai",
    "tldr": "",
    "published": "2026-06-22T21:21:01.000Z",
+   "dupes": 1,
+   "score": 0.545,
+   "tier": 1
+  },
+  {
+   "id": "8dd88d6deeb40bfaa1f5187daaeacb216157e597",
+   "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
+   "url": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
+   "source": "The Verge AI",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Public pushback against data centers has emphasized their water and energy consumption, and now Nvidia is highlighting its claim that the Rubin generation reference design for a fully liquid-cooled data center has…",
+   "published": "2026-06-22T23:24:32.000Z",
    "dupes": 1,
    "score": 0.543,
    "tier": 2
@@ -43,85 +43,7 @@
    "tldr": "",
    "published": "2026-06-22T14:22:46.000Z",
    "dupes": 1,
-   "score": 0.518,
-   "tier": 2
-  },
-  {
-   "id": "048ca4aa1cb57f7a59388cbe7c3c9c0d9e19c02f",
-   "title": "At ISC, JUPITER Shows What Exascale Science Looks Like",
-   "url": "https://blogs.nvidia.com/blog/jupiter-exascale-supercomputing-science",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "JUPITER, Europe’s first exascale supercomputer at Germany’s Forschungszentrum Jülich, runs on NVIDIA Grace Hopper Superchips and NVIDIA Quantum-X800 InfiniBand networking — and it’s had a busy year.",
-   "published": "2026-06-22T13:00:48.000Z",
-   "dupes": 1,
-   "score": 0.509,
-   "tier": 2
-  },
-  {
-   "id": "79d282057fa78cb9afd32f129ce7f87319f653fe",
-   "title": "NAIRR Science Program Reshapes Scientific Research, Powered by NVIDIA AI Infrastructure",
-   "url": "https://blogs.nvidia.com/blog/nairr-scientific-research-ai-infrastructure",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "S.  S.",
-   "published": "2026-06-22T13:00:38.000Z",
-   "badges": [
-    "research"
-   ],
-   "dupes": 1,
-   "score": 0.509,
-   "tier": 2
-  },
-  {
-   "id": "71966ba95af1445456b8bd5a973338b7a6c21e72",
-   "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries",
-   "url": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter.",
-   "published": "2026-06-22T13:00:20.000Z",
-   "dupes": 1,
-   "score": 0.509,
-   "tier": 2
-  },
-  {
-   "id": "3b7b3174538915c6e07ec7ffa0756030025cf599",
-   "title": "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
-   "url": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Mission, Vision and Veritas — new Los Alamos National Laboratory (LANL) supercomputers to be built with HPE and NVIDIA — are tapping NVIDIA Vera CPUs to accelerate scientific discovery, unlocking agentic AI for science.",
-   "published": "2026-06-22T13:00:20.000Z",
-   "dupes": 1,
-   "score": 0.509,
-   "tier": 2
-  },
-  {
-   "id": "c9c12c63fc8b5d9f99d2cd2f7b8b2e4cf72643ab",
-   "title": "Eco Wave Power Turns Waves Into Watts With NVIDIA AI Infrastructure and Digital Twins",
-   "url": "https://blogs.nvidia.com/blog/eco-wave-power-ai-digital-twins",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "The next era of AI will not be defined by compute alone.  Its growth will be determined by energy.",
-   "published": "2026-06-22T13:00:13.000Z",
-   "dupes": 1,
-   "score": 0.509,
+   "score": 0.516,
    "tier": 2
   },
   {
@@ -136,7 +58,7 @@
    "tldr": "5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
    "published": "2026-06-22T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.508,
+   "score": 0.505,
    "tier": 2
   },
   {
@@ -154,7 +76,85 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.508,
+   "score": 0.505,
+   "tier": 2
+  },
+  {
+   "id": "048ca4aa1cb57f7a59388cbe7c3c9c0d9e19c02f",
+   "title": "At ISC, JUPITER Shows What Exascale Science Looks Like",
+   "url": "https://blogs.nvidia.com/blog/jupiter-exascale-supercomputing-science",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "JUPITER, Europe’s first exascale supercomputer at Germany’s Forschungszentrum Jülich, runs on NVIDIA Grace Hopper Superchips and NVIDIA Quantum-X800 InfiniBand networking — and it’s had a busy year.",
+   "published": "2026-06-22T13:00:48.000Z",
+   "dupes": 1,
+   "score": 0.505,
+   "tier": 2
+  },
+  {
+   "id": "79d282057fa78cb9afd32f129ce7f87319f653fe",
+   "title": "NAIRR Science Program Reshapes Scientific Research, Powered by NVIDIA AI Infrastructure",
+   "url": "https://blogs.nvidia.com/blog/nairr-scientific-research-ai-infrastructure",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "S.  S.",
+   "published": "2026-06-22T13:00:38.000Z",
+   "badges": [
+    "research"
+   ],
+   "dupes": 1,
+   "score": 0.505,
+   "tier": 2
+  },
+  {
+   "id": "3b7b3174538915c6e07ec7ffa0756030025cf599",
+   "title": "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
+   "url": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Mission, Vision and Veritas — new Los Alamos National Laboratory (LANL) supercomputers to be built with HPE and NVIDIA — are tapping NVIDIA Vera CPUs to accelerate scientific discovery, unlocking agentic AI for science.",
+   "published": "2026-06-22T13:00:20.000Z",
+   "dupes": 1,
+   "score": 0.505,
+   "tier": 2
+  },
+  {
+   "id": "71966ba95af1445456b8bd5a973338b7a6c21e72",
+   "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries",
+   "url": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter.",
+   "published": "2026-06-22T13:00:20.000Z",
+   "dupes": 1,
+   "score": 0.505,
+   "tier": 2
+  },
+  {
+   "id": "c9c12c63fc8b5d9f99d2cd2f7b8b2e4cf72643ab",
+   "title": "Eco Wave Power Turns Waves Into Watts With NVIDIA AI Infrastructure and Digital Twins",
+   "url": "https://blogs.nvidia.com/blog/eco-wave-power-ai-digital-twins",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "The next era of AI will not be defined by compute alone.  Its growth will be determined by energy.",
+   "published": "2026-06-22T13:00:13.000Z",
+   "dupes": 1,
+   "score": 0.505,
    "tier": 2
   },
   {
@@ -167,7 +167,7 @@
    "tldr": "",
    "published": "2026-06-22T13:18:56.000Z",
    "dupes": 1,
-   "score": 0.499,
+   "score": 0.495,
    "tier": 2
   },
   {
@@ -182,7 +182,7 @@
    "tldr": "Today, Microsoft is announcing one of the largest single capacity additions in our history.  In Pecos, Texas, we will build a new datacenter campus, expanding our global datacenter capacity by approximately 2 gigawatts…",
    "published": "2026-06-22T12:06:39.000Z",
    "dupes": 1,
-   "score": 0.476,
+   "score": 0.472,
    "tier": 2
   },
   {
@@ -197,7 +197,7 @@
    "tldr": "",
    "published": "2026-06-22T13:43:38.000Z",
    "dupes": 1,
-   "score": 0.471,
+   "score": 0.468,
    "tier": 2
   },
   {
@@ -212,7 +212,7 @@
    "tldr": "Hot tubs sit at about 38 to 40 degrees Celsius, warm enough that most people can only soak for about 15 minutes.  NVIDIA’s newest AI servers can run their cooling liquid even hotter — up to 45 degrees Celsius, or 113…",
    "published": "2026-06-22T05:00:22.000Z",
    "dupes": 1,
-   "score": 0.447,
+   "score": 0.444,
    "tier": 3
   },
   {
@@ -227,7 +227,7 @@
    "tldr": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
    "published": "2026-06-22T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.442,
+   "score": 0.439,
    "tier": 3
   },
   {
@@ -242,7 +242,7 @@
    "tldr": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
    "published": "2026-06-21T23:00:00.000Z",
    "dupes": 1,
-   "score": 0.436,
+   "score": 0.434,
    "tier": 3
   },
   {
@@ -440,7 +440,7 @@
    "tldr": "In a consequential grid infrastructure decision, the Federal Energy Regulatory Commission (FERC) today issued a major milestone on large-load interconnection impacting how those building AI factories, semiconductor…",
    "published": "2026-06-18T20:00:27.000Z",
    "dupes": 1,
-   "score": 0.283,
+   "score": 0.282,
    "tier": 3
   },
   {
@@ -576,7 +576,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.27,
+   "score": 0.269,
    "tier": 3
   },
   {
@@ -671,7 +671,7 @@
    "tldr": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned.  Zoph returned to OpenAI in mid-January after a stint as cofounder and CTO of…",
    "published": "2026-06-19T04:49:33.000Z",
    "dupes": 1,
-   "score": 0.211,
+   "score": 0.21,
    "tier": 3
   },
   {
@@ -699,7 +699,7 @@
    "tldr": "When three Amazon software engineers testified earlier this month at Seattle City Council hearings about data centers, they started their testimony by citing a city law barring employment discrimination over political…",
    "published": "2026-06-18T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.207,
+   "score": 0.206,
    "tier": 3
   },
   {
