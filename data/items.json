@@ -1,6 +1,21 @@
 {
- "generated": "2026-06-22T22:33:56.902Z",
+ "generated": "2026-06-22T23:30:07.242Z",
  "items": [
+  {
+   "id": "8dd88d6deeb40bfaa1f5187daaeacb216157e597",
+   "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
+   "url": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
+   "source": "The Verge AI",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Public pushback against data centers has emphasized their water and energy consumption, and now Nvidia is highlighting its claim that the Rubin generation reference design for a fully liquid-cooled data center has…",
+   "published": "2026-06-22T23:24:32.000Z",
+   "dupes": 1,
+   "score": 0.549,
+   "tier": 1
+  },
   {
    "id": "6ea2d494b2547dc14b20a21da2c535a3623e88ae",
    "title": "Unsloth GLM-5.2 – How to Run Locally",
@@ -13,8 +28,8 @@
    "tldr": "",
    "published": "2026-06-22T21:21:01.000Z",
    "dupes": 1,
-   "score": 0.538,
-   "tier": 1
+   "score": 0.543,
+   "tier": 2
   },
   {
    "id": "cb0605522b7f6cf471b459097a87dc47489e9ccf",
@@ -28,7 +43,7 @@
    "tldr": "",
    "published": "2026-06-22T14:22:46.000Z",
    "dupes": 1,
-   "score": 0.524,
+   "score": 0.518,
    "tier": 2
   },
   {
@@ -43,7 +58,7 @@
    "tldr": "JUPITER, Europe’s first exascale supercomputer at Germany’s Forschungszentrum Jülich, runs on NVIDIA Grace Hopper Superchips and NVIDIA Quantum-X800 InfiniBand networking — and it’s had a busy year.",
    "published": "2026-06-22T13:00:48.000Z",
    "dupes": 1,
-   "score": 0.517,
+   "score": 0.509,
    "tier": 2
   },
   {
@@ -61,22 +76,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.517,
-   "tier": 2
-  },
-  {
-   "id": "3b7b3174538915c6e07ec7ffa0756030025cf599",
-   "title": "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
-   "url": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Mission, Vision and Veritas — new Los Alamos National Laboratory (LANL) supercomputers to be built with HPE and NVIDIA — are tapping NVIDIA Vera CPUs to accelerate scientific discovery, unlocking agentic AI for science.",
-   "published": "2026-06-22T13:00:20.000Z",
-   "dupes": 1,
-   "score": 0.517,
+   "score": 0.509,
    "tier": 2
   },
   {
@@ -91,7 +91,22 @@
    "tldr": "At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter.",
    "published": "2026-06-22T13:00:20.000Z",
    "dupes": 1,
-   "score": 0.517,
+   "score": 0.509,
+   "tier": 2
+  },
+  {
+   "id": "3b7b3174538915c6e07ec7ffa0756030025cf599",
+   "title": "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
+   "url": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Mission, Vision and Veritas — new Los Alamos National Laboratory (LANL) supercomputers to be built with HPE and NVIDIA — are tapping NVIDIA Vera CPUs to accelerate scientific discovery, unlocking agentic AI for science.",
+   "published": "2026-06-22T13:00:20.000Z",
+   "dupes": 1,
+   "score": 0.509,
    "tier": 2
   },
   {
@@ -106,7 +121,7 @@
    "tldr": "The next era of AI will not be defined by compute alone.  Its growth will be determined by energy.",
    "published": "2026-06-22T13:00:13.000Z",
    "dupes": 1,
-   "score": 0.517,
+   "score": 0.509,
    "tier": 2
   },
   {
@@ -121,7 +136,7 @@
    "tldr": "5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
    "published": "2026-06-22T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.516,
+   "score": 0.508,
    "tier": 2
   },
   {
@@ -139,7 +154,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.516,
+   "score": 0.508,
    "tier": 2
   },
   {
@@ -152,7 +167,7 @@
    "tldr": "",
    "published": "2026-06-22T13:18:56.000Z",
    "dupes": 1,
-   "score": 0.508,
+   "score": 0.499,
    "tier": 2
   },
   {
@@ -167,7 +182,7 @@
    "tldr": "Today, Microsoft is announcing one of the largest single capacity additions in our history.  In Pecos, Texas, we will build a new datacenter campus, expanding our global datacenter capacity by approximately 2 gigawatts…",
    "published": "2026-06-22T12:06:39.000Z",
    "dupes": 1,
-   "score": 0.484,
+   "score": 0.476,
    "tier": 2
   },
   {
@@ -182,7 +197,7 @@
    "tldr": "",
    "published": "2026-06-22T13:43:38.000Z",
    "dupes": 1,
-   "score": 0.477,
+   "score": 0.471,
    "tier": 2
   },
   {
@@ -197,8 +212,8 @@
    "tldr": "Hot tubs sit at about 38 to 40 degrees Celsius, warm enough that most people can only soak for about 15 minutes.  NVIDIA’s newest AI servers can run their cooling liquid even hotter — up to 45 degrees Celsius, or 113…",
    "published": "2026-06-22T05:00:22.000Z",
    "dupes": 1,
-   "score": 0.453,
-   "tier": 2
+   "score": 0.447,
+   "tier": 3
   },
   {
    "id": "6fdda2fdc1d813dab1b0c598210f14e8492ff730",
@@ -212,7 +227,7 @@
    "tldr": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
    "published": "2026-06-22T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.447,
+   "score": 0.442,
    "tier": 3
   },
   {
@@ -227,7 +242,7 @@
    "tldr": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
    "published": "2026-06-21T23:00:00.000Z",
    "dupes": 1,
-   "score": 0.441,
+   "score": 0.436,
    "tier": 3
   },
   {
@@ -305,7 +320,7 @@
    "tldr": "5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
    "published": "2026-06-18T11:00:00.000Z",
    "dupes": 1,
-   "score": 0.306,
+   "score": 0.305,
    "tier": 3
   },
   {
@@ -470,7 +485,7 @@
    "tldr": "A year ago at NVIDIA GTC Paris at VivaTech, France laid out plans to advance local AI — from new AI factories and national compute capacity to open frontier models and industrial platforms.  Now, that AI infrastructure…",
    "published": "2026-06-18T06:00:59.000Z",
    "dupes": 1,
-   "score": 0.28,
+   "score": 0.279,
    "tier": 3
   },
   {
@@ -565,22 +580,6 @@
    "tier": 3
   },
   {
-   "id": "86e5755f87b102aa0be683c1bf4c4125811172cd",
-   "title": "A robot is sprinting towards you. Do you want it running on Claude or Grok?",
-   "url": "https://openrouter.ai/blog/insights/royale-last-agent-standing",
-   "source": "HN · xAI",
-   "org": [
-    "xai",
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-17T21:00:07.000Z",
-   "dupes": 1,
-   "score": 0.267,
-   "tier": 3
-  },
-  {
    "id": "dc672d00868203d038ecae4b0128e843c3170c01",
    "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
    "url": "https://huggingface.co/blog/peft-beyond-lora",
@@ -644,7 +643,7 @@
    "tldr": "",
    "published": "2026-06-17T09:01:25.000Z",
    "dupes": 1,
-   "score": 0.265,
+   "score": 0.264,
    "tier": 3
   },
   {
@@ -687,7 +686,7 @@
    "tldr": "",
    "published": "2026-06-19T10:38:36.000Z",
    "dupes": 1,
-   "score": 0.208,
+   "score": 0.207,
    "tier": 3
   },
   {
