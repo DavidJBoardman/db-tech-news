@@ -1,6 +1,21 @@
 {
- "generated": "2026-06-23T07:46:06.528Z",
+ "generated": "2026-06-23T09:06:36.089Z",
  "items": [
+  {
+   "id": "929cbf4cce47e6e85972a6178d3e048ac73d4b88",
+   "title": "NVIDIA Powers Over 400 of the World’s 500 Fastest Supercomputers",
+   "url": "https://blogs.nvidia.com/blog/top500-green500-supercomputers-isc-2026",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "News Highlights: NVIDIA technology runs 81% of the TOP500 and 90% of the systems new to the list.  26 systems on the TOP500 adopted the NVIDIA Grace CPU, up eight from the previous list.",
+   "published": "2026-06-23T09:00:38.000Z",
+   "dupes": 1,
+   "score": 0.624,
+   "tier": 1
+  },
   {
    "id": "435be69646209d3c852707f696083b16307861cb",
    "title": "NVIDIA Brings Trusted, 24/7 AI Agents to Telecom Operations",
@@ -13,8 +28,23 @@
    "tldr": "Telecom operators have seen remarkable returns from using generative AI to automate network management, customer care and back-office operations.  Most of that impact has been task‑based: automation that speeds up…",
    "published": "2026-06-23T06:00:09.000Z",
    "dupes": 1,
-   "score": 0.602,
-   "tier": 1
+   "score": 0.586,
+   "tier": 2
+  },
+  {
+   "id": "0c794cbb255ff7717b1b0584a86302894a74c93c",
+   "title": "How Omio is building the future of conversational travel",
+   "url": "https://openai.com/index/omio",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
+   "published": "2026-06-23T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.546,
+   "tier": 2
   },
   {
    "id": "f7e9d38ae7326e724cd3dd4ce89afcce1e11f14f",
@@ -28,7 +58,7 @@
    "tldr": "5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
    "published": "2026-06-22T10:00:00.000Z",
    "dupes": 2,
-   "score": 0.531,
+   "score": 0.53,
    "tier": 2
   },
   {
@@ -43,22 +73,20 @@
    "tldr": "",
    "published": "2026-06-22T21:21:01.000Z",
    "dupes": 1,
-   "score": 0.529,
+   "score": 0.527,
    "tier": 2
   },
   {
-   "id": "8dd88d6deeb40bfaa1f5187daaeacb216157e597",
-   "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
-   "url": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
-   "source": "The Verge AI",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Public pushback against data centers has emphasized their water and energy consumption, and now Nvidia is highlighting its claim that the Rubin generation reference design for a fully liquid-cooled data center has…",
-   "published": "2026-06-22T23:24:32.000Z",
+   "id": "49c160394cb9a2038758c989c6e48c3ea5b8a7f8",
+   "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+   "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-23T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.454,
+   "score": 0.509,
    "tier": 2
   },
   {
@@ -76,7 +104,22 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.451,
+   "score": 0.444,
+   "tier": 2
+  },
+  {
+   "id": "8dd88d6deeb40bfaa1f5187daaeacb216157e597",
+   "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
+   "url": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
+   "source": "The Verge AI",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Public pushback against data centers has emphasized their water and energy consumption, and now Nvidia is highlighting its claim that the Rubin generation reference design for a fully liquid-cooled data center has…",
+   "published": "2026-06-22T23:24:32.000Z",
+   "dupes": 1,
+   "score": 0.441,
    "tier": 2
   },
   {
@@ -91,7 +134,7 @@
    "tldr": "JUPITER, Europe’s first exascale supercomputer at Germany’s Forschungszentrum Jülich, runs on NVIDIA Grace Hopper Superchips and NVIDIA Quantum-X800 InfiniBand networking — and it’s had a busy year.",
    "published": "2026-06-22T13:00:48.000Z",
    "dupes": 1,
-   "score": 0.445,
+   "score": 0.436,
    "tier": 2
   },
   {
@@ -109,22 +152,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.445,
-   "tier": 2
-  },
-  {
-   "id": "71966ba95af1445456b8bd5a973338b7a6c21e72",
-   "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries",
-   "url": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter.",
-   "published": "2026-06-22T13:00:20.000Z",
-   "dupes": 1,
-   "score": 0.445,
+   "score": 0.436,
    "tier": 2
   },
   {
@@ -139,7 +167,22 @@
    "tldr": "Mission, Vision and Veritas — new Los Alamos National Laboratory (LANL) supercomputers to be built with HPE and NVIDIA — are tapping NVIDIA Vera CPUs to accelerate scientific discovery, unlocking agentic AI for science.",
    "published": "2026-06-22T13:00:20.000Z",
    "dupes": 1,
-   "score": 0.445,
+   "score": 0.436,
+   "tier": 2
+  },
+  {
+   "id": "71966ba95af1445456b8bd5a973338b7a6c21e72",
+   "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries",
+   "url": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter.",
+   "published": "2026-06-22T13:00:20.000Z",
+   "dupes": 1,
+   "score": 0.436,
    "tier": 2
   },
   {
@@ -154,7 +197,7 @@
    "tldr": "The next era of AI will not be defined by compute alone.  Its growth will be determined by energy.",
    "published": "2026-06-22T13:00:13.000Z",
    "dupes": 1,
-   "score": 0.445,
+   "score": 0.436,
    "tier": 2
   },
   {
@@ -167,8 +210,8 @@
    "tldr": "",
    "published": "2026-06-22T13:18:56.000Z",
    "dupes": 1,
-   "score": 0.434,
-   "tier": 2
+   "score": 0.426,
+   "tier": 3
   },
   {
    "id": "356b4a85a4c2aab6073eaaa2350649eb27e43b35",
@@ -182,8 +225,8 @@
    "tldr": "Today, Microsoft is announcing one of the largest single capacity additions in our history.  In Pecos, Texas, we will build a new datacenter campus, expanding our global datacenter capacity by approximately 2 gigawatts…",
    "published": "2026-06-22T12:06:39.000Z",
    "dupes": 1,
-   "score": 0.414,
-   "tier": 2
+   "score": 0.406,
+   "tier": 3
   },
   {
    "id": "6fdda2fdc1d813dab1b0c598210f14e8492ff730",
@@ -197,22 +240,7 @@
    "tldr": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
    "published": "2026-06-22T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.403,
-   "tier": 2
-  },
-  {
-   "id": "859218440fe9ebb2ea2781a5a1fc3c15a73086a4",
-   "title": "Hotter Than a Hot Tub: The 45°C Breakthrough to Cool AI’s Biggest Machines",
-   "url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Hot tubs sit at about 38 to 40 degrees Celsius, warm enough that most people can only soak for about 15 minutes.  NVIDIA’s newest AI servers can run their cooling liquid even hotter — up to 45 degrees Celsius, or 113…",
-   "published": "2026-06-22T05:00:22.000Z",
-   "dupes": 1,
-   "score": 0.4,
+   "score": 0.398,
    "tier": 3
   },
   {
@@ -227,7 +255,22 @@
    "tldr": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
    "published": "2026-06-21T23:00:00.000Z",
    "dupes": 1,
-   "score": 0.399,
+   "score": 0.394,
+   "tier": 3
+  },
+  {
+   "id": "859218440fe9ebb2ea2781a5a1fc3c15a73086a4",
+   "title": "Hotter Than a Hot Tub: The 45°C Breakthrough to Cool AI’s Biggest Machines",
+   "url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Hot tubs sit at about 38 to 40 degrees Celsius, warm enough that most people can only soak for about 15 minutes.  NVIDIA’s newest AI servers can run their cooling liquid even hotter — up to 45 degrees Celsius, or 113…",
+   "published": "2026-06-22T05:00:22.000Z",
+   "dupes": 1,
+   "score": 0.394,
    "tier": 3
   },
   {
@@ -240,7 +283,7 @@
    "tldr": "",
    "published": "2026-06-22T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.365,
+   "score": 0.36,
    "tier": 3
   },
   {
@@ -405,7 +448,7 @@
    "tldr": "In a consequential grid infrastructure decision, the Federal Energy Regulatory Commission (FERC) today issued a major milestone on large-load interconnection impacting how those building AI factories, semiconductor…",
    "published": "2026-06-18T20:00:27.000Z",
    "dupes": 1,
-   "score": 0.281,
+   "score": 0.28,
    "tier": 3
   },
   {
@@ -541,7 +584,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.268,
+   "score": 0.267,
    "tier": 3
   },
   {
@@ -621,7 +664,7 @@
    "tldr": "",
    "published": "2026-06-17T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.264,
+   "score": 0.263,
    "tier": 3
   },
   {
@@ -636,7 +679,7 @@
    "tldr": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned.  Zoph returned to OpenAI in mid-January after a stint as cofounder and CTO of…",
    "published": "2026-06-19T04:49:33.000Z",
    "dupes": 1,
-   "score": 0.208,
+   "score": 0.207,
    "tier": 3
   },
   {
@@ -665,7 +708,7 @@
    "tldr": "When three Amazon software engineers testified earlier this month at Seattle City Council hearings about data centers, they started their testimony by citing a city law barring employment discrimination over political…",
    "published": "2026-06-18T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.205,
+   "score": 0.204,
    "tier": 3
   },
   {
@@ -680,7 +723,7 @@
    "tldr": "",
    "published": "2026-06-19T10:38:36.000Z",
    "dupes": 1,
-   "score": 0.204,
+   "score": 0.203,
    "tier": 3
   },
   {
@@ -695,7 +738,7 @@
    "tldr": "",
    "published": "2026-06-17T16:49:02.000Z",
    "dupes": 1,
-   "score": 0.196,
+   "score": 0.195,
    "tier": 3
   }
  ]
