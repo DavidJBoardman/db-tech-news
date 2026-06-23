@@ -1,6 +1,34 @@
 {
- "generated": "2026-06-23T12:01:27.122Z",
+ "generated": "2026-06-23T13:26:09.969Z",
  "items": [
+  {
+   "id": "fb695c7649535e91ffec89c570d58a31bf4fceb5",
+   "title": "How Businesses Are Building Specialized AI They Can Trust",
+   "url": "https://blogs.nvidia.com/blog/nvidia-agent-toolkit-open-models-tools-skills-secure-runtime-ai-agents",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Companies are asking how to build specialized AI that fits with the way their workflows actually run.  The first wave of enterprise AI was about access.",
+   "published": "2026-06-23T13:00:07.000Z",
+   "dupes": 1,
+   "score": 0.619,
+   "tier": 1
+  },
+  {
+   "id": "f0c4ab4675063190d80d9c7b42197c8f73faedb5",
+   "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+   "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-23T12:51:55.000Z",
+   "dupes": 1,
+   "score": 0.605,
+   "tier": 2
+  },
   {
    "id": "929cbf4cce47e6e85972a6178d3e048ac73d4b88",
    "title": "NVIDIA Powers Over 400 of the World’s 500 Fastest Supercomputers",
@@ -13,8 +41,23 @@
    "tldr": "News Highlights: NVIDIA technology runs 81% of the TOP500 and 90% of the systems new to the list.  26 systems on the TOP500 adopted the NVIDIA Grace CPU, up eight from the previous list.",
    "published": "2026-06-23T09:00:38.000Z",
    "dupes": 1,
-   "score": 0.587,
-   "tier": 1
+   "score": 0.57,
+   "tier": 2
+  },
+  {
+   "id": "84e855c73b29fb0fa28fddbe736d08a244bc08ac",
+   "title": "Meta launches cheaper smart glasses without Ray-Ban",
+   "url": "https://www.theverge.com/tech/954052/meta-glasses-hands-on-kylie-jenner-smart-glasses-price-battery-privacy",
+   "source": "The Verge AI",
+   "org": [
+    "meta"
+   ],
+   "topic": "ai",
+   "tldr": "For the past three years, \"Meta\" and \"Ray-Ban\" have been synonymous in the smart glasses space.  Not anymore.",
+   "published": "2026-06-23T13:00:00.000Z",
+   "dupes": 1,
+   "score": 0.544,
+   "tier": 2
   },
   {
    "id": "435be69646209d3c852707f696083b16307861cb",
@@ -28,7 +71,7 @@
    "tldr": "Telecom operators have seen remarkable returns from using generative AI to automate network management, customer care and back-office operations.  Most of that impact has been task‑based: automation that speeds up…",
    "published": "2026-06-23T06:00:09.000Z",
    "dupes": 1,
-   "score": 0.553,
+   "score": 0.538,
    "tier": 2
   },
   {
@@ -43,22 +86,7 @@
    "tldr": "5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
    "published": "2026-06-22T10:00:00.000Z",
    "dupes": 2,
-   "score": 0.527,
-   "tier": 2
-  },
-  {
-   "id": "0c794cbb255ff7717b1b0584a86302894a74c93c",
-   "title": "How Omio is building the future of conversational travel",
-   "url": "https://openai.com/index/omio",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
-   "published": "2026-06-23T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.52,
+   "score": 0.523,
    "tier": 2
   },
   {
@@ -73,7 +101,22 @@
    "tldr": "",
    "published": "2026-06-22T21:21:01.000Z",
    "dupes": 1,
-   "score": 0.518,
+   "score": 0.516,
+   "tier": 2
+  },
+  {
+   "id": "0c794cbb255ff7717b1b0584a86302894a74c93c",
+   "title": "How Omio is building the future of conversational travel",
+   "url": "https://openai.com/index/omio",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
+   "published": "2026-06-23T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.509,
    "tier": 2
   },
   {
@@ -86,7 +129,7 @@
    "tldr": "",
    "published": "2026-06-23T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.483,
+   "score": 0.471,
    "tier": 2
   },
   {
@@ -104,7 +147,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.428,
+   "score": 0.422,
    "tier": 2
   },
   {
@@ -119,7 +162,7 @@
    "tldr": "JUPITER, Europe’s first exascale supercomputer at Germany’s Forschungszentrum Jülich, runs on NVIDIA Grace Hopper Superchips and NVIDIA Quantum-X800 InfiniBand networking — and it’s had a busy year.",
    "published": "2026-06-22T13:00:48.000Z",
    "dupes": 1,
-   "score": 0.419,
+   "score": 0.412,
    "tier": 2
   },
   {
@@ -137,22 +180,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.419,
-   "tier": 2
-  },
-  {
-   "id": "3b7b3174538915c6e07ec7ffa0756030025cf599",
-   "title": "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
-   "url": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Mission, Vision and Veritas — new Los Alamos National Laboratory (LANL) supercomputers to be built with HPE and NVIDIA — are tapping NVIDIA Vera CPUs to accelerate scientific discovery, unlocking agentic AI for science.",
-   "published": "2026-06-22T13:00:20.000Z",
-   "dupes": 1,
-   "score": 0.419,
+   "score": 0.412,
    "tier": 2
   },
   {
@@ -167,8 +195,23 @@
    "tldr": "At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter.",
    "published": "2026-06-22T13:00:20.000Z",
    "dupes": 1,
-   "score": 0.419,
+   "score": 0.412,
    "tier": 2
+  },
+  {
+   "id": "3b7b3174538915c6e07ec7ffa0756030025cf599",
+   "title": "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
+   "url": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Mission, Vision and Veritas — new Los Alamos National Laboratory (LANL) supercomputers to be built with HPE and NVIDIA — are tapping NVIDIA Vera CPUs to accelerate scientific discovery, unlocking agentic AI for science.",
+   "published": "2026-06-22T13:00:20.000Z",
+   "dupes": 1,
+   "score": 0.412,
+   "tier": 3
   },
   {
    "id": "c9c12c63fc8b5d9f99d2cd2f7b8b2e4cf72643ab",
@@ -182,8 +225,8 @@
    "tldr": "The next era of AI will not be defined by compute alone.  Its growth will be determined by energy.",
    "published": "2026-06-22T13:00:13.000Z",
    "dupes": 1,
-   "score": 0.419,
-   "tier": 2
+   "score": 0.412,
+   "tier": 3
   },
   {
    "id": "8dd88d6deeb40bfaa1f5187daaeacb216157e597",
@@ -197,8 +240,8 @@
    "tldr": "Public pushback against data centers has emphasized their water and energy consumption, and now Nvidia is highlighting its claim that the Rubin generation reference design for a fully liquid-cooled data center has…",
    "published": "2026-06-22T23:24:32.000Z",
    "dupes": 1,
-   "score": 0.415,
-   "tier": 2
+   "score": 0.404,
+   "tier": 3
   },
   {
    "id": "493a508e4ceaa14c153f1cf6111d4d075ab15b9d",
@@ -210,22 +253,7 @@
    "tldr": "",
    "published": "2026-06-22T13:18:56.000Z",
    "dupes": 1,
-   "score": 0.408,
-   "tier": 3
-  },
-  {
-   "id": "356b4a85a4c2aab6073eaaa2350649eb27e43b35",
-   "title": "Powering the next wave of AI: Expanding capacity with our new datacenter in Pecos",
-   "url": "https://blogs.microsoft.com/blog/2026/06/22/powering-the-next-wave-of-ai-expanding-capacity-with-our-new-datacenter-in-pecos",
-   "source": "Microsoft Blog",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "compute",
-   "tldr": "Today, Microsoft is announcing one of the largest single capacity additions in our history.  In Pecos, Texas, we will build a new datacenter campus, expanding our global datacenter capacity by approximately 2 gigawatts…",
-   "published": "2026-06-22T12:06:39.000Z",
-   "dupes": 1,
-   "score": 0.389,
+   "score": 0.401,
    "tier": 3
   },
   {
@@ -240,7 +268,22 @@
    "tldr": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
    "published": "2026-06-22T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.387,
+   "score": 0.383,
+   "tier": 3
+  },
+  {
+   "id": "356b4a85a4c2aab6073eaaa2350649eb27e43b35",
+   "title": "Powering the next wave of AI: Expanding capacity with our new datacenter in Pecos",
+   "url": "https://blogs.microsoft.com/blog/2026/06/22/powering-the-next-wave-of-ai-expanding-capacity-with-our-new-datacenter-in-pecos",
+   "source": "Microsoft Blog",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "compute",
+   "tldr": "Today, Microsoft is announcing one of the largest single capacity additions in our history.  In Pecos, Texas, we will build a new datacenter campus, expanding our global datacenter capacity by approximately 2 gigawatts…",
+   "published": "2026-06-22T12:06:39.000Z",
+   "dupes": 1,
+   "score": 0.382,
    "tier": 3
   },
   {
@@ -255,7 +298,7 @@
    "tldr": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
    "published": "2026-06-21T23:00:00.000Z",
    "dupes": 1,
-   "score": 0.384,
+   "score": 0.38,
    "tier": 3
   },
   {
@@ -270,7 +313,7 @@
    "tldr": "Hot tubs sit at about 38 to 40 degrees Celsius, warm enough that most people can only soak for about 15 minutes.  NVIDIA’s newest AI servers can run their cooling liquid even hotter — up to 45 degrees Celsius, or 113…",
    "published": "2026-06-22T05:00:22.000Z",
    "dupes": 1,
-   "score": 0.381,
+   "score": 0.375,
    "tier": 3
   },
   {
@@ -283,7 +326,7 @@
    "tldr": "",
    "published": "2026-06-22T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.35,
+   "score": 0.345,
    "tier": 3
   },
   {
@@ -298,7 +341,7 @@
    "tldr": "",
    "published": "2026-06-17T03:55:16.000Z",
    "dupes": 1,
-   "score": 0.339,
+   "score": 0.338,
    "tier": 3
   },
   {
@@ -448,7 +491,7 @@
    "tldr": "In a consequential grid infrastructure decision, the Federal Energy Regulatory Commission (FERC) today issued a major milestone on large-load interconnection impacting how those building AI factories, semiconductor…",
    "published": "2026-06-18T20:00:27.000Z",
    "dupes": 1,
-   "score": 0.28,
+   "score": 0.279,
    "tier": 3
   },
   {
@@ -463,7 +506,7 @@
    "tldr": "The digital era gave the advertising and marketing industry speed; the AI era is giving it autonomous operations.  For companies building next-generation technologies for advertising and marketing, the question is no…",
    "published": "2026-06-18T13:00:43.000Z",
    "dupes": 1,
-   "score": 0.279,
+   "score": 0.278,
    "tier": 3
   },
   {
@@ -478,7 +521,7 @@
    "tldr": "Play favorite titles from popular game libraries, keep progress synced and jump back into gaming sessions on virtually any device.  That’s the power of GeForce NOW cloud gaming.",
    "published": "2026-06-18T13:00:32.000Z",
    "dupes": 1,
-   "score": 0.279,
+   "score": 0.278,
    "tier": 3
   },
   {
@@ -679,7 +722,7 @@
    "tldr": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned.  Zoph returned to OpenAI in mid-January after a stint as cofounder and CTO of…",
    "published": "2026-06-19T04:49:33.000Z",
    "dupes": 1,
-   "score": 0.207,
+   "score": 0.206,
    "tier": 3
   },
   {
