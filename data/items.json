@@ -1,9 +1,9 @@
 {
- "generated": "2026-06-23T03:05:31.962Z",
+ "generated": "2026-06-23T04:49:17.010Z",
  "items": [
   {
    "id": "6ea2d494b2547dc14b20a21da2c535a3623e88ae",
-   "title": "Runing GLM-5.2 on local hardware",
+   "title": "GLM-5.2 – How to Run Locally",
    "url": "https://unsloth.ai/docs/models/glm-5.2",
    "source": "Hacker News",
    "org": [
@@ -13,7 +13,7 @@
    "tldr": "",
    "published": "2026-06-22T21:21:01.000Z",
    "dupes": 1,
-   "score": 0.539,
+   "score": 0.535,
    "tier": 1
   },
   {
@@ -28,7 +28,7 @@
    "tldr": "Public pushback against data centers has emphasized their water and energy consumption, and now Nvidia is highlighting its claim that the Rubin generation reference design for a fully liquid-cooled data center has…",
    "published": "2026-06-22T23:24:32.000Z",
    "dupes": 1,
-   "score": 0.504,
+   "score": 0.484,
    "tier": 2
   },
   {
@@ -46,7 +46,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.481,
+   "score": 0.47,
    "tier": 2
   },
   {
@@ -61,7 +61,7 @@
    "tldr": "5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
    "published": "2026-06-22T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.481,
+   "score": 0.47,
    "tier": 2
   },
   {
@@ -76,7 +76,7 @@
    "tldr": "JUPITER, Europe’s first exascale supercomputer at Germany’s Forschungszentrum Jülich, runs on NVIDIA Grace Hopper Superchips and NVIDIA Quantum-X800 InfiniBand networking — and it’s had a busy year.",
    "published": "2026-06-22T13:00:48.000Z",
    "dupes": 1,
-   "score": 0.479,
+   "score": 0.465,
    "tier": 2
   },
   {
@@ -94,7 +94,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.479,
+   "score": 0.465,
    "tier": 2
   },
   {
@@ -109,7 +109,7 @@
    "tldr": "At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter.",
    "published": "2026-06-22T13:00:20.000Z",
    "dupes": 1,
-   "score": 0.478,
+   "score": 0.465,
    "tier": 2
   },
   {
@@ -124,7 +124,7 @@
    "tldr": "Mission, Vision and Veritas — new Los Alamos National Laboratory (LANL) supercomputers to be built with HPE and NVIDIA — are tapping NVIDIA Vera CPUs to accelerate scientific discovery, unlocking agentic AI for science.",
    "published": "2026-06-22T13:00:20.000Z",
    "dupes": 1,
-   "score": 0.478,
+   "score": 0.465,
    "tier": 2
   },
   {
@@ -139,7 +139,7 @@
    "tldr": "The next era of AI will not be defined by compute alone.  Its growth will be determined by energy.",
    "published": "2026-06-22T13:00:13.000Z",
    "dupes": 1,
-   "score": 0.478,
+   "score": 0.465,
    "tier": 2
   },
   {
@@ -152,7 +152,7 @@
    "tldr": "",
    "published": "2026-06-22T13:18:56.000Z",
    "dupes": 1,
-   "score": 0.468,
+   "score": 0.455,
    "tier": 2
   },
   {
@@ -167,7 +167,7 @@
    "tldr": "Today, Microsoft is announcing one of the largest single capacity additions in our history.  In Pecos, Texas, we will build a new datacenter campus, expanding our global datacenter capacity by approximately 2 gigawatts…",
    "published": "2026-06-22T12:06:39.000Z",
    "dupes": 1,
-   "score": 0.447,
+   "score": 0.434,
    "tier": 2
   },
   {
@@ -182,22 +182,7 @@
    "tldr": "",
    "published": "2026-06-22T13:43:38.000Z",
    "dupes": 1,
-   "score": 0.445,
-   "tier": 2
-  },
-  {
-   "id": "859218440fe9ebb2ea2781a5a1fc3c15a73086a4",
-   "title": "Hotter Than a Hot Tub: The 45°C Breakthrough to Cool AI’s Biggest Machines",
-   "url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Hot tubs sit at about 38 to 40 degrees Celsius, warm enough that most people can only soak for about 15 minutes.  NVIDIA’s newest AI servers can run their cooling liquid even hotter — up to 45 degrees Celsius, or 113…",
-   "published": "2026-06-22T05:00:22.000Z",
-   "dupes": 1,
-   "score": 0.425,
+   "score": 0.432,
    "tier": 2
   },
   {
@@ -212,7 +197,22 @@
    "tldr": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
    "published": "2026-06-22T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.423,
+   "score": 0.415,
+   "tier": 2
+  },
+  {
+   "id": "859218440fe9ebb2ea2781a5a1fc3c15a73086a4",
+   "title": "Hotter Than a Hot Tub: The 45°C Breakthrough to Cool AI’s Biggest Machines",
+   "url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Hot tubs sit at about 38 to 40 degrees Celsius, warm enough that most people can only soak for about 15 minutes.  NVIDIA’s newest AI servers can run their cooling liquid even hotter — up to 45 degrees Celsius, or 113…",
+   "published": "2026-06-22T05:00:22.000Z",
+   "dupes": 1,
+   "score": 0.415,
    "tier": 3
   },
   {
@@ -227,7 +227,7 @@
    "tldr": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
    "published": "2026-06-21T23:00:00.000Z",
    "dupes": 1,
-   "score": 0.419,
+   "score": 0.411,
    "tier": 3
   },
   {
@@ -305,7 +305,7 @@
    "tldr": "5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
    "published": "2026-06-18T11:00:00.000Z",
    "dupes": 1,
-   "score": 0.305,
+   "score": 0.304,
    "tier": 3
   },
   {
@@ -410,7 +410,7 @@
    "tldr": "In a consequential grid infrastructure decision, the Federal Energy Regulatory Commission (FERC) today issued a major milestone on large-load interconnection impacting how those building AI factories, semiconductor…",
    "published": "2026-06-18T20:00:27.000Z",
    "dupes": 1,
-   "score": 0.282,
+   "score": 0.281,
    "tier": 3
   },
   {
@@ -546,7 +546,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.269,
+   "score": 0.268,
    "tier": 3
   },
   {
@@ -559,7 +559,7 @@
    "tldr": "",
    "published": "2026-06-18T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.266,
+   "score": 0.265,
    "tier": 3
   },
   {
@@ -572,7 +572,7 @@
    "tldr": "",
    "published": "2026-06-18T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.266,
+   "score": 0.265,
    "tier": 3
   },
   {
@@ -656,20 +656,7 @@
    "tldr": "",
    "published": "2026-06-19T10:38:36.000Z",
    "dupes": 1,
-   "score": 0.206,
-   "tier": 3
-  },
-  {
-   "id": "9fae1d51bd35dda7d0f1d2f132a0ec40ff22ff40",
-   "title": "Amazon employees say they’re facing termination for backing data center limits",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action",
-   "source": "The Verge AI",
-   "org": [],
-   "topic": "compute",
-   "tldr": "When three Amazon software engineers testified earlier this month at Seattle City Council hearings about data centers, they started their testimony by citing a city law barring employment discrimination over political…",
-   "published": "2026-06-18T16:00:00.000Z",
-   "dupes": 1,
-   "score": 0.206,
+   "score": 0.205,
    "tier": 3
   },
   {
@@ -684,6 +671,19 @@
    "topic": "ai",
    "tldr": "",
    "published": "2026-06-16T19:59:14.000Z",
+   "dupes": 1,
+   "score": 0.205,
+   "tier": 3
+  },
+  {
+   "id": "9fae1d51bd35dda7d0f1d2f132a0ec40ff22ff40",
+   "title": "Amazon employees say they’re facing termination for backing data center limits",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action",
+   "source": "The Verge AI",
+   "org": [],
+   "topic": "compute",
+   "tldr": "When three Amazon software engineers testified earlier this month at Seattle City Council hearings about data centers, they started their testimony by citing a city law barring employment discrimination over political…",
+   "published": "2026-06-18T16:00:00.000Z",
    "dupes": 1,
    "score": 0.205,
    "tier": 3
