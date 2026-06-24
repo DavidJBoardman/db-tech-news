@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-24T17:37:01.466Z",
+ "generated": "2026-06-24T18:35:10.713Z",
  "items": [
   {
    "id": "4eff6133e8389c3b2ca86e0e91c9b0759a767f79",
@@ -12,24 +12,9 @@
    "topic": "ai",
    "tldr": "",
    "published": "2026-06-24T16:30:01.000Z",
-   "dupes": 1,
-   "score": 0.635,
-   "tier": 1
-  },
-  {
-   "id": "1a015f5dfa42958d5d31376f9d87f1e17d54017f",
-   "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-   "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "compute",
-   "tldr": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
-   "published": "2026-06-24T06:00:00.000Z",
    "dupes": 2,
-   "score": 0.624,
-   "tier": 2
+   "score": 0.698,
+   "tier": 1
   },
   {
    "id": "21352cf51e7e6ab635de6be548c58bc49e4c5c8e",
@@ -43,7 +28,7 @@
    "tldr": "Generative AI",
    "published": "2026-06-24T16:51:52.000Z",
    "dupes": 1,
-   "score": 0.615,
+   "score": 0.603,
    "tier": 2
   },
   {
@@ -58,7 +43,22 @@
    "tldr": "",
    "published": "2026-06-24T16:00:13.000Z",
    "dupes": 1,
-   "score": 0.591,
+   "score": 0.579,
+   "tier": 2
+  },
+  {
+   "id": "7ca41dfbdac8a894c4e447ddb7296f043047a1c3",
+   "title": "OpenAI unveils its first custom chip, built by Broadcom",
+   "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom",
+   "source": "Hacker News",
+   "org": [
+    "openai"
+   ],
+   "topic": "compute",
+   "tldr": "",
+   "published": "2026-06-24T17:47:00.000Z",
+   "dupes": 1,
+   "score": 0.569,
    "tier": 2
   },
   {
@@ -73,7 +73,7 @@
    "tldr": "Talos was built to help resolve a major bottleneck in genomic medicine: human review time.  3 candidate variants per patient for expert review.",
    "published": "2026-06-24T14:00:14.000Z",
    "dupes": 1,
-   "score": 0.567,
+   "score": 0.556,
    "tier": 2
   },
   {
@@ -88,7 +88,7 @@
    "tldr": "",
    "published": "2026-06-24T15:37:18.000Z",
    "dupes": 1,
-   "score": 0.547,
+   "score": 0.542,
    "tier": 2
   },
   {
@@ -103,7 +103,22 @@
    "tldr": "As demand for cloud and AI services continues to grow, datacenters are becoming more essential than ever.  Communities also want to better understand how this infrastructure affects local resources, particularly water.",
    "published": "2026-06-24T12:01:13.000Z",
    "dupes": 1,
-   "score": 0.532,
+   "score": 0.522,
+   "tier": 2
+  },
+  {
+   "id": "1a015f5dfa42958d5d31376f9d87f1e17d54017f",
+   "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+   "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "compute",
+   "tldr": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+   "published": "2026-06-24T06:00:00.000Z",
+   "dupes": 1,
+   "score": 0.516,
    "tier": 2
   },
   {
@@ -118,7 +133,22 @@
    "tldr": "OpenAI has just revealed a new \"intelligence processor\" chip for AI servers made in partnership with Broadcom.  The chip, called Jalapeño, is designed to power current and future large language models, according to an…",
    "published": "2026-06-24T14:36:47.000Z",
    "dupes": 1,
-   "score": 0.512,
+   "score": 0.5,
+   "tier": 2
+  },
+  {
+   "id": "246f03f4c1fd7c9903705a3f5444213cff8d676a",
+   "title": "NSA lost access to Mythos amid Anthropic dispute",
+   "url": "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html",
+   "source": "Hacker News",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-24T11:45:47.000Z",
+   "dupes": 1,
+   "score": 0.49,
    "tier": 2
   },
   {
@@ -133,7 +163,7 @@
    "tldr": "Right out of the box, the new Google Home Speaker passed a couple of important tests.",
    "published": "2026-06-24T13:00:00.000Z",
    "dupes": 1,
-   "score": 0.493,
+   "score": 0.482,
    "tier": 2
   },
   {
@@ -148,7 +178,7 @@
    "tldr": "Building AI systems at scale is demanding, requiring low-latency inference, fast vector search, strong GPU price-performance and infrastructure that can grow without multiplying operational complexity.  NVIDIA’s latest…",
    "published": "2026-06-24T00:05:37.000Z",
    "dupes": 1,
-   "score": 0.453,
+   "score": 0.447,
    "tier": 2
   },
   {
@@ -161,22 +191,7 @@
    "tldr": "",
    "published": "2026-06-24T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.44,
-   "tier": 2
-  },
-  {
-   "id": "97977ad54a0798cdc758d24f066278af5153d138",
-   "title": "Grok Build 0.1: Intelligence, Performance and Price Analysis",
-   "url": "https://artificialanalysis.ai/models/grok-build-0-1-06-16",
-   "source": "HN · xAI",
-   "org": [
-    "xai"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-24T08:41:07.000Z",
-   "dupes": 1,
-   "score": 0.44,
+   "score": 0.434,
    "tier": 2
   },
   {
@@ -191,8 +206,23 @@
    "tldr": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior.  The breakthrough could support cancer and autoimmune research.",
    "published": "2026-06-23T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.436,
-   "tier": 2
+   "score": 0.431,
+   "tier": 3
+  },
+  {
+   "id": "97977ad54a0798cdc758d24f066278af5153d138",
+   "title": "Grok Build 0.1: Intelligence, Performance and Price Analysis",
+   "url": "https://artificialanalysis.ai/models/grok-build-0-1-06-16",
+   "source": "HN · xAI",
+   "org": [
+    "xai"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-24T08:41:07.000Z",
+   "dupes": 1,
+   "score": 0.431,
+   "tier": 3
   },
   {
    "id": "2a799425b04b9199e7d6036b74fe995068ca84b9",
@@ -206,7 +236,7 @@
    "tldr": "Claude Tag is a new way for teams to work with Claude.",
    "published": "2026-06-23T00:00:00.000Z",
    "dupes": 2,
-   "score": 0.433,
+   "score": 0.43,
    "tier": 3
   },
   {
@@ -221,7 +251,7 @@
    "tldr": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
    "published": "2026-06-23T13:00:00.000Z",
    "dupes": 1,
-   "score": 0.416,
+   "score": 0.412,
    "tier": 3
   },
   {
@@ -236,7 +266,7 @@
    "tldr": "Companies are asking how to build specialized AI that fits with the way their workflows actually run.  The first wave of enterprise AI was about access.",
    "published": "2026-06-23T13:00:07.000Z",
    "dupes": 1,
-   "score": 0.391,
+   "score": 0.387,
    "tier": 3
   },
   {
@@ -249,7 +279,7 @@
    "tldr": "",
    "published": "2026-06-23T12:51:55.000Z",
    "dupes": 1,
-   "score": 0.378,
+   "score": 0.374,
    "tier": 3
   },
   {
@@ -264,7 +294,7 @@
    "tldr": "NVIDIA technologies power more than 400 of the world’s 500 fastest supercomputers — 81% of the TOP500 — according to the latest rankings released this week at the ISC High Performance conference in Hamburg, Germany.",
    "published": "2026-06-23T09:00:38.000Z",
    "dupes": 1,
-   "score": 0.375,
+   "score": 0.371,
    "tier": 3
   },
   {
@@ -279,37 +309,7 @@
    "tldr": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
    "published": "2026-06-23T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.37,
-   "tier": 3
-  },
-  {
-   "id": "9133cb71785e5eefbc1b80d863bb08a7023fc883",
-   "title": "Google Home will soon get better at recognizing you",
-   "url": "https://www.theverge.com/tech/955385/google-home-familiar-faces-clothing",
-   "source": "The Verge AI",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "A new update for Google Home could make it less likely your smart home cameras mistake you for someone else, just because you're facing away from the camera.",
-   "published": "2026-06-23T22:28:19.000Z",
-   "dupes": 1,
-   "score": 0.367,
-   "tier": 3
-  },
-  {
-   "id": "b483da413c7fbe5d4a920862430c61c00dd76bc3",
-   "title": "Hollywood is bending the knee to OpenAI",
-   "url": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "' Clockwork have all reportedly decided to pass on picking up Artificial - director Luca Guadagnino's new biographical drama about OpenAI cofounder / CEO Sam Altman - for distribution deals.",
-   "published": "2026-06-23T22:03:18.000Z",
-   "dupes": 1,
-   "score": 0.365,
+   "score": 0.368,
    "tier": 3
   },
   {
@@ -324,7 +324,37 @@
    "tldr": "Telecom operators have seen remarkable returns from using generative AI to automate network management, customer care and back-office operations.  Most of that impact has been task‑based: automation that speeds up…",
    "published": "2026-06-23T06:00:09.000Z",
    "dupes": 1,
-   "score": 0.364,
+   "score": 0.361,
+   "tier": 3
+  },
+  {
+   "id": "9133cb71785e5eefbc1b80d863bb08a7023fc883",
+   "title": "Google Home will soon get better at recognizing you",
+   "url": "https://www.theverge.com/tech/955385/google-home-familiar-faces-clothing",
+   "source": "The Verge AI",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "A new update for Google Home could make it less likely your smart home cameras mistake you for someone else, just because you're facing away from the camera.",
+   "published": "2026-06-23T22:28:19.000Z",
+   "dupes": 1,
+   "score": 0.361,
+   "tier": 3
+  },
+  {
+   "id": "b483da413c7fbe5d4a920862430c61c00dd76bc3",
+   "title": "Hollywood is bending the knee to OpenAI",
+   "url": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
+   "source": "The Verge AI",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "' Clockwork have all reportedly decided to pass on picking up Artificial - director Luca Guadagnino's new biographical drama about OpenAI cofounder / CEO Sam Altman - for distribution deals.",
+   "published": "2026-06-23T22:03:18.000Z",
+   "dupes": 1,
+   "score": 0.359,
    "tier": 3
   },
   {
@@ -339,7 +369,7 @@
    "tldr": "5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
    "published": "2026-06-22T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.341,
+   "score": 0.34,
    "tier": 3
   },
   {
@@ -357,7 +387,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.341,
+   "score": 0.34,
    "tier": 3
   },
   {
@@ -385,7 +415,7 @@
    "tldr": "",
    "published": "2026-06-23T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.333,
+   "score": 0.33,
    "tier": 3
   },
   {
@@ -398,7 +428,7 @@
    "tldr": "",
    "published": "2026-06-23T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.333,
+   "score": 0.33,
    "tier": 3
   },
   {
@@ -413,7 +443,7 @@
    "tldr": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
    "published": "2026-06-22T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.328,
+   "score": 0.327,
    "tier": 3
   },
   {
@@ -428,7 +458,7 @@
    "tldr": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
    "published": "2026-06-21T23:00:00.000Z",
    "dupes": 1,
-   "score": 0.327,
+   "score": 0.326,
    "tier": 3
   },
   {
@@ -443,7 +473,7 @@
    "tldr": "JUPITER, Europe’s first exascale supercomputer at Germany’s Forschungszentrum Jülich, runs on NVIDIA Grace Hopper Superchips and NVIDIA Quantum-X800 InfiniBand networking — and it’s had a busy year.",
    "published": "2026-06-22T13:00:48.000Z",
    "dupes": 1,
-   "score": 0.321,
+   "score": 0.319,
    "tier": 3
   },
   {
@@ -461,7 +491,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.321,
+   "score": 0.319,
    "tier": 3
   },
   {
@@ -476,7 +506,7 @@
    "tldr": "At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter.",
    "published": "2026-06-22T13:00:20.000Z",
    "dupes": 1,
-   "score": 0.321,
+   "score": 0.319,
    "tier": 3
   },
   {
@@ -491,7 +521,7 @@
    "tldr": "Mission, Vision and Veritas — new Los Alamos National Laboratory (LANL) supercomputers to be built with HPE and NVIDIA — are tapping NVIDIA Vera CPUs to accelerate scientific discovery, unlocking agentic AI for science.",
    "published": "2026-06-22T13:00:20.000Z",
    "dupes": 1,
-   "score": 0.321,
+   "score": 0.319,
    "tier": 3
   },
   {
@@ -506,7 +536,7 @@
    "tldr": "The next era of AI will not be defined by compute alone.  Its growth will be determined by energy.",
    "published": "2026-06-22T13:00:13.000Z",
    "dupes": 1,
-   "score": 0.321,
+   "score": 0.319,
    "tier": 3
   },
   {
@@ -521,7 +551,7 @@
    "tldr": "Hot tubs sit at about 38 to 40 degrees Celsius, warm enough that most people can only soak for about 15 minutes.  NVIDIA’s newest AI servers can run their cooling liquid even hotter — up to 45 degrees Celsius, or 113…",
    "published": "2026-06-22T05:00:22.000Z",
    "dupes": 1,
-   "score": 0.309,
+   "score": 0.308,
    "tier": 3
   },
   {
@@ -534,7 +564,7 @@
    "tldr": "",
    "published": "2026-06-22T13:18:56.000Z",
    "dupes": 1,
-   "score": 0.309,
+   "score": 0.307,
    "tier": 3
   },
   {
@@ -597,7 +627,7 @@
     "model"
    ],
    "dupes": 1,
-   "score": 0.3,
+   "score": 0.298,
    "tier": 3
   },
   {
@@ -612,7 +642,7 @@
    "tldr": "Today, Microsoft is announcing one of the largest single capacity additions in our history.  In Pecos, Texas, we will build a new datacenter campus, expanding our global datacenter capacity by approximately 2 gigawatts…",
    "published": "2026-06-22T12:06:39.000Z",
    "dupes": 1,
-   "score": 0.295,
+   "score": 0.293,
    "tier": 3
   },
   {
@@ -625,7 +655,7 @@
    "tldr": "",
    "published": "2026-06-22T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.29,
+   "score": 0.289,
    "tier": 3
   },
   {
