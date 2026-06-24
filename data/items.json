@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-24T16:43:43.326Z",
+ "generated": "2026-06-24T17:37:01.466Z",
  "items": [
   {
    "id": "4eff6133e8389c3b2ca86e0e91c9b0759a767f79",
@@ -13,7 +13,7 @@
    "tldr": "",
    "published": "2026-06-24T16:30:01.000Z",
    "dupes": 1,
-   "score": 0.647,
+   "score": 0.635,
    "tier": 1
   },
   {
@@ -28,7 +28,22 @@
    "tldr": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
    "published": "2026-06-24T06:00:00.000Z",
    "dupes": 2,
-   "score": 0.621,
+   "score": 0.624,
+   "tier": 2
+  },
+  {
+   "id": "21352cf51e7e6ab635de6be548c58bc49e4c5c8e",
+   "title": "Thinking to recall: How reasoning unlocks parametric knowledge in LLMs",
+   "url": "https://research.google/blog/thinking-to-recall-how-reasoning-unlocks-parametric-knowledge-in-llms",
+   "source": "Google Research",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Generative AI",
+   "published": "2026-06-24T16:51:52.000Z",
+   "dupes": 1,
+   "score": 0.615,
    "tier": 2
   },
   {
@@ -43,7 +58,7 @@
    "tldr": "",
    "published": "2026-06-24T16:00:13.000Z",
    "dupes": 1,
-   "score": 0.603,
+   "score": 0.591,
    "tier": 2
   },
   {
@@ -58,7 +73,7 @@
    "tldr": "Talos was built to help resolve a major bottleneck in genomic medicine: human review time.  3 candidate variants per patient for expert review.",
    "published": "2026-06-24T14:00:14.000Z",
    "dupes": 1,
-   "score": 0.578,
+   "score": 0.567,
    "tier": 2
   },
   {
@@ -73,7 +88,7 @@
    "tldr": "",
    "published": "2026-06-24T15:37:18.000Z",
    "dupes": 1,
-   "score": 0.55,
+   "score": 0.547,
    "tier": 2
   },
   {
@@ -88,7 +103,7 @@
    "tldr": "As demand for cloud and AI services continues to grow, datacenters are becoming more essential than ever.  Communities also want to better understand how this infrastructure affects local resources, particularly water.",
    "published": "2026-06-24T12:01:13.000Z",
    "dupes": 1,
-   "score": 0.542,
+   "score": 0.532,
    "tier": 2
   },
   {
@@ -103,7 +118,7 @@
    "tldr": "OpenAI has just revealed a new \"intelligence processor\" chip for AI servers made in partnership with Broadcom.  The chip, called Jalapeño, is designed to power current and future large language models, according to an…",
    "published": "2026-06-24T14:36:47.000Z",
    "dupes": 1,
-   "score": 0.523,
+   "score": 0.512,
    "tier": 2
   },
   {
@@ -118,7 +133,7 @@
    "tldr": "Right out of the box, the new Google Home Speaker passed a couple of important tests.",
    "published": "2026-06-24T13:00:00.000Z",
    "dupes": 1,
-   "score": 0.503,
+   "score": 0.493,
    "tier": 2
   },
   {
@@ -133,25 +148,20 @@
    "tldr": "Building AI systems at scale is demanding, requiring low-latency inference, fast vector search, strong GPU price-performance and infrastructure that can grow without multiplying operational complexity.  NVIDIA’s latest…",
    "published": "2026-06-24T00:05:37.000Z",
    "dupes": 1,
-   "score": 0.459,
+   "score": 0.453,
    "tier": 2
   },
   {
-   "id": "0810373856c15a813c40abb84fc761472fd4edb9",
-   "title": "Qwen-AgentWorld: Language World Models for General Agents",
-   "url": "https://arxiv.org/abs/2606.24597",
-   "source": "Hacker News",
-   "org": [
-    "qwen"
-   ],
+   "id": "c8f3104266f9489e3a98d368e721364b1cd2fc68",
+   "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+   "url": "https://huggingface.co/blog/ffasr-leaderboard",
+   "source": "Hugging Face Blog",
+   "org": [],
    "topic": "ai",
    "tldr": "",
-   "published": "2026-06-24T02:21:47.000Z",
-   "badges": [
-    "paper"
-   ],
+   "published": "2026-06-24T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.454,
+   "score": 0.44,
    "tier": 2
   },
   {
@@ -166,20 +176,7 @@
    "tldr": "",
    "published": "2026-06-24T08:41:07.000Z",
    "dupes": 1,
-   "score": 0.449,
-   "tier": 2
-  },
-  {
-   "id": "c8f3104266f9489e3a98d368e721364b1cd2fc68",
-   "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
-   "url": "https://huggingface.co/blog/ffasr-leaderboard",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-24T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.446,
+   "score": 0.44,
    "tier": 2
   },
   {
@@ -194,7 +191,7 @@
    "tldr": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior.  The breakthrough could support cancer and autoimmune research.",
    "published": "2026-06-23T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.44,
+   "score": 0.436,
    "tier": 2
   },
   {
@@ -209,7 +206,7 @@
    "tldr": "Claude Tag is a new way for teams to work with Claude.",
    "published": "2026-06-23T00:00:00.000Z",
    "dupes": 2,
-   "score": 0.435,
+   "score": 0.433,
    "tier": 3
   },
   {
@@ -224,7 +221,7 @@
    "tldr": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
    "published": "2026-06-23T13:00:00.000Z",
    "dupes": 1,
-   "score": 0.42,
+   "score": 0.416,
    "tier": 3
   },
   {
@@ -239,7 +236,7 @@
    "tldr": "Companies are asking how to build specialized AI that fits with the way their workflows actually run.  The first wave of enterprise AI was about access.",
    "published": "2026-06-23T13:00:07.000Z",
    "dupes": 1,
-   "score": 0.395,
+   "score": 0.391,
    "tier": 3
   },
   {
@@ -252,7 +249,7 @@
    "tldr": "",
    "published": "2026-06-23T12:51:55.000Z",
    "dupes": 1,
-   "score": 0.382,
+   "score": 0.378,
    "tier": 3
   },
   {
@@ -267,7 +264,7 @@
    "tldr": "NVIDIA technologies power more than 400 of the world’s 500 fastest supercomputers — 81% of the TOP500 — according to the latest rankings released this week at the ISC High Performance conference in Hamburg, Germany.",
    "published": "2026-06-23T09:00:38.000Z",
    "dupes": 1,
-   "score": 0.378,
+   "score": 0.375,
    "tier": 3
   },
   {
@@ -282,7 +279,7 @@
    "tldr": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
    "published": "2026-06-23T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.373,
+   "score": 0.37,
    "tier": 3
   },
   {
@@ -297,7 +294,7 @@
    "tldr": "A new update for Google Home could make it less likely your smart home cameras mistake you for someone else, just because you're facing away from the camera.",
    "published": "2026-06-23T22:28:19.000Z",
    "dupes": 1,
-   "score": 0.373,
+   "score": 0.367,
    "tier": 3
   },
   {
@@ -312,7 +309,7 @@
    "tldr": "' Clockwork have all reportedly decided to pass on picking up Artificial - director Luca Guadagnino's new biographical drama about OpenAI cofounder / CEO Sam Altman - for distribution deals.",
    "published": "2026-06-23T22:03:18.000Z",
    "dupes": 1,
-   "score": 0.371,
+   "score": 0.365,
    "tier": 3
   },
   {
@@ -327,7 +324,7 @@
    "tldr": "Telecom operators have seen remarkable returns from using generative AI to automate network management, customer care and back-office operations.  Most of that impact has been task‑based: automation that speeds up…",
    "published": "2026-06-23T06:00:09.000Z",
    "dupes": 1,
-   "score": 0.367,
+   "score": 0.364,
    "tier": 3
   },
   {
@@ -342,7 +339,7 @@
    "tldr": "5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
    "published": "2026-06-22T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.343,
+   "score": 0.341,
    "tier": 3
   },
   {
@@ -360,7 +357,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.343,
+   "score": 0.341,
    "tier": 3
   },
   {
@@ -388,7 +385,7 @@
    "tldr": "",
    "published": "2026-06-23T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.335,
+   "score": 0.333,
    "tier": 3
   },
   {
@@ -401,7 +398,7 @@
    "tldr": "",
    "published": "2026-06-23T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.335,
+   "score": 0.333,
    "tier": 3
   },
   {
@@ -416,7 +413,7 @@
    "tldr": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
    "published": "2026-06-22T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.329,
+   "score": 0.328,
    "tier": 3
   },
   {
@@ -431,7 +428,7 @@
    "tldr": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
    "published": "2026-06-21T23:00:00.000Z",
    "dupes": 1,
-   "score": 0.328,
+   "score": 0.327,
    "tier": 3
   },
   {
@@ -446,7 +443,7 @@
    "tldr": "JUPITER, Europe’s first exascale supercomputer at Germany’s Forschungszentrum Jülich, runs on NVIDIA Grace Hopper Superchips and NVIDIA Quantum-X800 InfiniBand networking — and it’s had a busy year.",
    "published": "2026-06-22T13:00:48.000Z",
    "dupes": 1,
-   "score": 0.323,
+   "score": 0.321,
    "tier": 3
   },
   {
@@ -464,7 +461,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.323,
+   "score": 0.321,
    "tier": 3
   },
   {
@@ -479,7 +476,7 @@
    "tldr": "At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter.",
    "published": "2026-06-22T13:00:20.000Z",
    "dupes": 1,
-   "score": 0.323,
+   "score": 0.321,
    "tier": 3
   },
   {
@@ -494,7 +491,7 @@
    "tldr": "Mission, Vision and Veritas — new Los Alamos National Laboratory (LANL) supercomputers to be built with HPE and NVIDIA — are tapping NVIDIA Vera CPUs to accelerate scientific discovery, unlocking agentic AI for science.",
    "published": "2026-06-22T13:00:20.000Z",
    "dupes": 1,
-   "score": 0.323,
+   "score": 0.321,
    "tier": 3
   },
   {
@@ -509,35 +506,7 @@
    "tldr": "The next era of AI will not be defined by compute alone.  Its growth will be determined by energy.",
    "published": "2026-06-22T13:00:13.000Z",
    "dupes": 1,
-   "score": 0.323,
-   "tier": 3
-  },
-  {
-   "id": "84e855c73b29fb0fa28fddbe736d08a244bc08ac",
-   "title": "Meta launches cheaper smart glasses without Ray-Ban",
-   "url": "https://www.theverge.com/tech/954052/meta-glasses-hands-on-kylie-jenner-smart-glasses-price-battery-privacy",
-   "source": "The Verge AI",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "For the past three years, \"Meta\" and \"Ray-Ban\" have been synonymous in the smart glasses space.  Not anymore.",
-   "published": "2026-06-23T13:00:00.000Z",
-   "dupes": 1,
-   "score": 0.32,
-   "tier": 3
-  },
-  {
-   "id": "493a508e4ceaa14c153f1cf6111d4d075ab15b9d",
-   "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
-   "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-22T13:18:56.000Z",
-   "dupes": 1,
-   "score": 0.311,
+   "score": 0.321,
    "tier": 3
   },
   {
@@ -552,7 +521,20 @@
    "tldr": "Hot tubs sit at about 38 to 40 degrees Celsius, warm enough that most people can only soak for about 15 minutes.  NVIDIA’s newest AI servers can run their cooling liquid even hotter — up to 45 degrees Celsius, or 113…",
    "published": "2026-06-22T05:00:22.000Z",
    "dupes": 1,
-   "score": 0.31,
+   "score": 0.309,
+   "tier": 3
+  },
+  {
+   "id": "493a508e4ceaa14c153f1cf6111d4d075ab15b9d",
+   "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+   "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-22T13:18:56.000Z",
+   "dupes": 1,
+   "score": 0.309,
    "tier": 3
   },
   {
@@ -615,7 +597,7 @@
     "model"
    ],
    "dupes": 1,
-   "score": 0.301,
+   "score": 0.3,
    "tier": 3
   },
   {
@@ -630,7 +612,7 @@
    "tldr": "Today, Microsoft is announcing one of the largest single capacity additions in our history.  In Pecos, Texas, we will build a new datacenter campus, expanding our global datacenter capacity by approximately 2 gigawatts…",
    "published": "2026-06-22T12:06:39.000Z",
    "dupes": 1,
-   "score": 0.296,
+   "score": 0.295,
    "tier": 3
   },
   {
@@ -643,7 +625,7 @@
    "tldr": "",
    "published": "2026-06-22T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.291,
+   "score": 0.29,
    "tier": 3
   },
   {
@@ -658,7 +640,7 @@
    "tldr": "In a consequential grid infrastructure decision, the Federal Energy Regulatory Commission (FERC) today issued a major milestone on large-load interconnection impacting how those building AI factories, semiconductor…",
    "published": "2026-06-18T20:00:27.000Z",
    "dupes": 1,
-   "score": 0.277,
+   "score": 0.276,
    "tier": 3
   },
   {
@@ -761,21 +743,6 @@
    "published": "2026-06-19T10:38:36.000Z",
    "dupes": 1,
    "score": 0.197,
-   "tier": 3
-  },
-  {
-   "id": "15beac453e2386b4ff1bdd3df4e58161aaf96f50",
-   "title": "DeepSeek v4 Pro 1.6T model post-trained by Huawei on 1000 Ascend 910C chips",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/huawei-led-team-claims-it-post-trained-deepseeks-1-6-trillion-parameter-models-on-ascend-910c-chips",
-   "source": "HN · DeepSeek",
-   "org": [
-    "deepseek"
-   ],
-   "topic": "compute",
-   "tldr": "",
-   "published": "2026-06-17T16:49:02.000Z",
-   "dupes": 1,
-   "score": 0.195,
    "tier": 3
   }
  ]
