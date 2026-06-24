@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-24T12:43:05.015Z",
+ "generated": "2026-06-24T13:42:42.672Z",
  "items": [
   {
    "id": "505e854e5fbb46bef37602251a58e435f9a695b9",
@@ -13,22 +13,37 @@
    "tldr": "As demand for cloud and AI services continues to grow, datacenters are becoming more essential than ever.  Communities also want to better understand how this infrastructure affects local resources, particularly water.",
    "published": "2026-06-24T12:01:13.000Z",
    "dupes": 1,
-   "score": 0.591,
+   "score": 0.578,
    "tier": 1
   },
   {
-   "id": "97977ad54a0798cdc758d24f066278af5153d138",
-   "title": "Grok Build 0.1: Intelligence, Performance and Price Analysis",
-   "url": "https://artificialanalysis.ai/models/grok-build-0-1-06-16",
-   "source": "HN · xAI",
+   "id": "1a015f5dfa42958d5d31376f9d87f1e17d54017f",
+   "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+   "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "compute",
+   "tldr": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+   "published": "2026-06-24T06:00:00.000Z",
+   "dupes": 1,
+   "score": 0.56,
+   "tier": 2
+  },
+  {
+   "id": "f2ff27bae731caa450d866345903b548d2f7cc17",
+   "title": "Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'",
+   "url": "https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake",
+   "source": "Hacker News",
    "org": [
     "xai"
    ],
    "topic": "ai",
    "tldr": "",
-   "published": "2026-06-24T08:41:07.000Z",
+   "published": "2026-06-24T12:23:59.000Z",
    "dupes": 1,
-   "score": 0.492,
+   "score": 0.552,
    "tier": 2
   },
   {
@@ -43,7 +58,22 @@
    "tldr": "Building AI systems at scale is demanding, requiring low-latency inference, fast vector search, strong GPU price-performance and infrastructure that can grow without multiplying operational complexity.  NVIDIA’s latest…",
    "published": "2026-06-24T00:05:37.000Z",
    "dupes": 1,
-   "score": 0.49,
+   "score": 0.482,
+   "tier": 2
+  },
+  {
+   "id": "97977ad54a0798cdc758d24f066278af5153d138",
+   "title": "Grok Build 0.1: Intelligence, Performance and Price Analysis",
+   "url": "https://artificialanalysis.ai/models/grok-build-0-1-06-16",
+   "source": "HN · xAI",
+   "org": [
+    "xai"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-24T08:41:07.000Z",
+   "dupes": 1,
+   "score": 0.48,
    "tier": 2
   },
   {
@@ -61,7 +91,7 @@
     "paper"
    ],
    "dupes": 1,
-   "score": 0.477,
+   "score": 0.47,
    "tier": 2
   },
   {
@@ -76,7 +106,7 @@
    "tldr": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior.  The breakthrough could support cancer and autoimmune research.",
    "published": "2026-06-23T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.464,
+   "score": 0.458,
    "tier": 2
   },
   {
@@ -91,7 +121,7 @@
    "tldr": "Claude Tag is a new way for teams to work with Claude.",
    "published": "2026-06-23T00:00:00.000Z",
    "dupes": 2,
-   "score": 0.448,
+   "score": 0.444,
    "tier": 2
   },
   {
@@ -106,7 +136,7 @@
    "tldr": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
    "published": "2026-06-23T13:00:00.000Z",
    "dupes": 1,
-   "score": 0.44,
+   "score": 0.435,
    "tier": 2
   },
   {
@@ -121,7 +151,7 @@
    "tldr": "Companies are asking how to build specialized AI that fits with the way their workflows actually run.  The first wave of enterprise AI was about access.",
    "published": "2026-06-23T13:00:07.000Z",
    "dupes": 1,
-   "score": 0.415,
+   "score": 0.41,
    "tier": 2
   },
   {
@@ -134,7 +164,7 @@
    "tldr": "",
    "published": "2026-06-23T12:51:55.000Z",
    "dupes": 1,
-   "score": 0.402,
+   "score": 0.397,
    "tier": 2
   },
   {
@@ -149,7 +179,7 @@
    "tldr": "A new update for Google Home could make it less likely your smart home cameras mistake you for someone else, just because you're facing away from the camera.",
    "published": "2026-06-23T22:28:19.000Z",
    "dupes": 1,
-   "score": 0.402,
+   "score": 0.395,
    "tier": 2
   },
   {
@@ -164,7 +194,7 @@
    "tldr": "' Clockwork have all reportedly decided to pass on picking up Artificial - director Luca Guadagnino's new biographical drama about OpenAI cofounder / CEO Sam Altman - for distribution deals.",
    "published": "2026-06-23T22:03:18.000Z",
    "dupes": 1,
-   "score": 0.399,
+   "score": 0.392,
    "tier": 2
   },
   {
@@ -179,8 +209,8 @@
    "tldr": "NVIDIA technologies power more than 400 of the world’s 500 fastest supercomputers — 81% of the TOP500 — according to the latest rankings released this week at the ISC High Performance conference in Hamburg, Germany.",
    "published": "2026-06-23T09:00:38.000Z",
    "dupes": 1,
-   "score": 0.395,
-   "tier": 2
+   "score": 0.391,
+   "tier": 3
   },
   {
    "id": "0c794cbb255ff7717b1b0584a86302894a74c93c",
@@ -194,8 +224,8 @@
    "tldr": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
    "published": "2026-06-23T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.385,
-   "tier": 2
+   "score": 0.382,
+   "tier": 3
   },
   {
    "id": "435be69646209d3c852707f696083b16307861cb",
@@ -209,22 +239,7 @@
    "tldr": "Telecom operators have seen remarkable returns from using generative AI to automate network management, customer care and back-office operations.  Most of that impact has been task‑based: automation that speeds up…",
    "published": "2026-06-23T06:00:09.000Z",
    "dupes": 1,
-   "score": 0.382,
-   "tier": 3
-  },
-  {
-   "id": "f7e9d38ae7326e724cd3dd4ce89afcce1e11f14f",
-   "title": "Daybreak: Tools for securing every organization in the world",
-   "url": "https://openai.com/index/daybreak-securing-the-world",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
-   "published": "2026-06-22T10:00:00.000Z",
-   "dupes": 1,
-   "score": 0.35,
+   "score": 0.378,
    "tier": 3
   },
   {
@@ -242,7 +257,22 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.35,
+   "score": 0.348,
+   "tier": 3
+  },
+  {
+   "id": "f7e9d38ae7326e724cd3dd4ce89afcce1e11f14f",
+   "title": "Daybreak: Tools for securing every organization in the world",
+   "url": "https://openai.com/index/daybreak-securing-the-world",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+   "published": "2026-06-22T10:00:00.000Z",
+   "dupes": 1,
+   "score": 0.348,
    "tier": 3
   },
   {
@@ -255,7 +285,7 @@
    "tldr": "",
    "published": "2026-06-23T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.348,
+   "score": 0.344,
    "tier": 3
   },
   {
@@ -268,22 +298,7 @@
    "tldr": "",
    "published": "2026-06-23T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.348,
-   "tier": 3
-  },
-  {
-   "id": "84e855c73b29fb0fa28fddbe736d08a244bc08ac",
-   "title": "Meta launches cheaper smart glasses without Ray-Ban",
-   "url": "https://www.theverge.com/tech/954052/meta-glasses-hands-on-kylie-jenner-smart-glasses-price-battery-privacy",
-   "source": "The Verge AI",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "For the past three years, \"Meta\" and \"Ray-Ban\" have been synonymous in the smart glasses space.  Not anymore.",
-   "published": "2026-06-23T13:00:00.000Z",
-   "dupes": 1,
-   "score": 0.34,
+   "score": 0.344,
    "tier": 3
   },
   {
@@ -302,6 +317,21 @@
    "tier": 3
   },
   {
+   "id": "84e855c73b29fb0fa28fddbe736d08a244bc08ac",
+   "title": "Meta launches cheaper smart glasses without Ray-Ban",
+   "url": "https://www.theverge.com/tech/954052/meta-glasses-hands-on-kylie-jenner-smart-glasses-price-battery-privacy",
+   "source": "The Verge AI",
+   "org": [
+    "meta"
+   ],
+   "topic": "ai",
+   "tldr": "For the past three years, \"Meta\" and \"Ray-Ban\" have been synonymous in the smart glasses space.  Not anymore.",
+   "published": "2026-06-23T13:00:00.000Z",
+   "dupes": 1,
+   "score": 0.335,
+   "tier": 3
+  },
+  {
    "id": "6fdda2fdc1d813dab1b0c598210f14e8492ff730",
    "title": "Codex-maxxing for long-running work",
    "url": "https://openai.com/index/codex-maxxing-long-running-work",
@@ -313,7 +343,7 @@
    "tldr": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
    "published": "2026-06-22T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.334,
+   "score": 0.333,
    "tier": 3
   },
   {
@@ -328,7 +358,7 @@
    "tldr": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
    "published": "2026-06-21T23:00:00.000Z",
    "dupes": 1,
-   "score": 0.333,
+   "score": 0.331,
    "tier": 3
   },
   {
@@ -343,7 +373,7 @@
    "tldr": "JUPITER, Europe’s first exascale supercomputer at Germany’s Forschungszentrum Jülich, runs on NVIDIA Grace Hopper Superchips and NVIDIA Quantum-X800 InfiniBand networking — and it’s had a busy year.",
    "published": "2026-06-22T13:00:48.000Z",
    "dupes": 1,
-   "score": 0.331,
+   "score": 0.329,
    "tier": 3
   },
   {
@@ -361,22 +391,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.331,
-   "tier": 3
-  },
-  {
-   "id": "71966ba95af1445456b8bd5a973338b7a6c21e72",
-   "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries",
-   "url": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter.",
-   "published": "2026-06-22T13:00:20.000Z",
-   "dupes": 1,
-   "score": 0.331,
+   "score": 0.329,
    "tier": 3
   },
   {
@@ -391,7 +406,22 @@
    "tldr": "Mission, Vision and Veritas — new Los Alamos National Laboratory (LANL) supercomputers to be built with HPE and NVIDIA — are tapping NVIDIA Vera CPUs to accelerate scientific discovery, unlocking agentic AI for science.",
    "published": "2026-06-22T13:00:20.000Z",
    "dupes": 1,
-   "score": 0.331,
+   "score": 0.329,
+   "tier": 3
+  },
+  {
+   "id": "71966ba95af1445456b8bd5a973338b7a6c21e72",
+   "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries",
+   "url": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter.",
+   "published": "2026-06-22T13:00:20.000Z",
+   "dupes": 1,
+   "score": 0.329,
    "tier": 3
   },
   {
@@ -406,7 +436,7 @@
    "tldr": "The next era of AI will not be defined by compute alone.  Its growth will be determined by energy.",
    "published": "2026-06-22T13:00:13.000Z",
    "dupes": 1,
-   "score": 0.331,
+   "score": 0.329,
    "tier": 3
   },
   {
@@ -419,7 +449,7 @@
    "tldr": "",
    "published": "2026-06-22T13:18:56.000Z",
    "dupes": 1,
-   "score": 0.319,
+   "score": 0.317,
    "tier": 3
   },
   {
@@ -434,7 +464,7 @@
    "tldr": "Hot tubs sit at about 38 to 40 degrees Celsius, warm enough that most people can only soak for about 15 minutes.  NVIDIA’s newest AI servers can run their cooling liquid even hotter — up to 45 degrees Celsius, or 113…",
    "published": "2026-06-22T05:00:22.000Z",
    "dupes": 1,
-   "score": 0.316,
+   "score": 0.314,
    "tier": 3
   },
   {
@@ -452,22 +482,7 @@
     "model"
    ],
    "dupes": 1,
-   "score": 0.31,
-   "tier": 3
-  },
-  {
-   "id": "356b4a85a4c2aab6073eaaa2350649eb27e43b35",
-   "title": "Powering the next wave of AI: Expanding capacity with our new datacenter in Pecos",
-   "url": "https://blogs.microsoft.com/blog/2026/06/22/powering-the-next-wave-of-ai-expanding-capacity-with-our-new-datacenter-in-pecos",
-   "source": "Microsoft Blog",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "compute",
-   "tldr": "Today, Microsoft is announcing one of the largest single capacity additions in our history.  In Pecos, Texas, we will build a new datacenter campus, expanding our global datacenter capacity by approximately 2 gigawatts…",
-   "published": "2026-06-22T12:06:39.000Z",
-   "dupes": 1,
-   "score": 0.304,
+   "score": 0.308,
    "tier": 3
   },
   {
@@ -481,6 +496,21 @@
    "topic": "ai",
    "tldr": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
    "published": "2026-06-18T17:00:00.000Z",
+   "dupes": 1,
+   "score": 0.302,
+   "tier": 3
+  },
+  {
+   "id": "356b4a85a4c2aab6073eaaa2350649eb27e43b35",
+   "title": "Powering the next wave of AI: Expanding capacity with our new datacenter in Pecos",
+   "url": "https://blogs.microsoft.com/blog/2026/06/22/powering-the-next-wave-of-ai-expanding-capacity-with-our-new-datacenter-in-pecos",
+   "source": "Microsoft Blog",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "compute",
+   "tldr": "Today, Microsoft is announcing one of the largest single capacity additions in our history.  In Pecos, Texas, we will build a new datacenter campus, expanding our global datacenter capacity by approximately 2 gigawatts…",
+   "published": "2026-06-22T12:06:39.000Z",
    "dupes": 1,
    "score": 0.302,
    "tier": 3
@@ -525,7 +555,7 @@
    "tldr": "",
    "published": "2026-06-22T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.296,
+   "score": 0.295,
    "tier": 3
   },
   {
@@ -540,7 +570,7 @@
    "tldr": "Public pushback against data centers has emphasized their water and energy consumption, and now Nvidia is highlighting its claim that the Rubin generation reference design for a fully liquid-cooled data center has…",
    "published": "2026-06-22T23:24:32.000Z",
    "dupes": 1,
-   "score": 0.283,
+   "score": 0.28,
    "tier": 3
   },
   {
