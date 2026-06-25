@@ -1,6 +1,21 @@
 {
- "generated": "2026-06-25T17:14:47.589Z",
+ "generated": "2026-06-25T18:14:59.494Z",
  "items": [
+  {
+   "id": "0412a18e649b70dcec015926c3b4383b70e02262",
+   "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
+   "url": "https://hackernewstrends.com/",
+   "source": "Hacker News",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-25T14:08:55.000Z",
+   "dupes": 1,
+   "score": 0.592,
+   "tier": 1
+  },
   {
    "id": "04bd48744b58f91b4b4c38e365eef5ffe03e9092",
    "title": "Which tokens does a hybrid model predict better?",
@@ -11,8 +26,8 @@
    "tldr": "",
    "published": "2026-06-25T16:11:42.000Z",
    "dupes": 1,
-   "score": 0.599,
-   "tier": 1
+   "score": 0.586,
+   "tier": 2
   },
   {
    "id": "68af68aaff7a99f624be7dfbba8b03763d9814b2",
@@ -26,22 +41,7 @@
    "tldr": "Researchers introduce generative causal testing, which translates black box models into clear hypotheses and verifies them in the scanner, revealing what specific brain regions respond to in language.  The post…",
    "published": "2026-06-25T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.596,
-   "tier": 2
-  },
-  {
-   "id": "0412a18e649b70dcec015926c3b4383b70e02262",
-   "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
-   "url": "https://hackernewstrends.com/",
-   "source": "Hacker News",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-25T14:08:55.000Z",
-   "dupes": 1,
-   "score": 0.582,
+   "score": 0.583,
    "tier": 2
   },
   {
@@ -56,12 +56,12 @@
    "tldr": "Summer savings are heating up.  From the Steam Summer Sale to GeForce NOW membership discounts, this week’s GFN Thursday delivers double the deals and more ways to get the most value from cloud gaming.",
    "published": "2026-06-25T13:00:34.000Z",
    "dupes": 1,
-   "score": 0.572,
+   "score": 0.561,
    "tier": 2
   },
   {
    "id": "801476e6fa112be1c1fecc3c483e62b53ebdcc1c",
-   "title": "IBM Debuts First Sub-1 Nanometer Chip Technology",
+   "title": "IBM debuts sub-1 nanometer chip technology",
    "url": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology",
    "source": "Hacker News",
    "org": [],
@@ -69,37 +69,37 @@
    "tldr": "",
    "published": "2026-06-25T15:33:37.000Z",
    "dupes": 1,
-   "score": 0.53,
+   "score": 0.532,
    "tier": 2
   },
   {
-   "id": "2b6976f96bb5f02f36377dd0116bc3386395b79e",
-   "title": "How agents are transforming work",
-   "url": "https://openai.com/index/how-agents-are-transforming-work",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
-   "published": "2026-06-25T02:00:00.000Z",
-   "dupes": 1,
-   "score": 0.495,
-   "tier": 2
-  },
-  {
-   "id": "7ca41dfbdac8a894c4e447ddb7296f043047a1c3",
-   "title": "OpenAI unveils its first custom chip, built by Broadcom",
-   "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom",
+   "id": "4bb446889bd3e1499b6de8b44719d5db3aa5b796",
+   "title": "European Commission lines up Amazon and Microsoft for cloud gatekeeper status",
+   "url": "https://www.theregister.com/legal/2026/06/25/european-commission-lines-up-amazon-and-microsoft-for-cloud-gatekeeper-status/5262127",
    "source": "Hacker News",
    "org": [
-    "openai"
+    "microsoft"
    ],
-   "topic": "compute",
+   "topic": "ai",
    "tldr": "",
-   "published": "2026-06-24T17:47:00.000Z",
+   "published": "2026-06-25T16:22:45.000Z",
    "dupes": 1,
-   "score": 0.492,
+   "score": 0.532,
+   "tier": 2
+  },
+  {
+   "id": "e2b02214838029047e463b5b4cb757e628818a5b",
+   "title": "Optimizing cloud economics with linear elastic caching",
+   "url": "https://research.google/blog/optimizing-cloud-economics-with-linear-elastic-caching",
+   "source": "Google Research",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Algorithms & Theory",
+   "published": "2026-06-25T10:03:00.000Z",
+   "dupes": 1,
+   "score": 0.53,
    "tier": 2
   },
   {
@@ -115,7 +115,22 @@
    "tldr": "",
    "published": "2026-06-24T19:48:01.000Z",
    "dupes": 1,
-   "score": 0.484,
+   "score": 0.497,
+   "tier": 2
+  },
+  {
+   "id": "2b6976f96bb5f02f36377dd0116bc3386395b79e",
+   "title": "How agents are transforming work",
+   "url": "https://openai.com/index/how-agents-are-transforming-work",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
+   "published": "2026-06-25T02:00:00.000Z",
+   "dupes": 1,
+   "score": 0.487,
    "tier": 2
   },
   {
@@ -130,7 +145,7 @@
    "tldr": "",
    "published": "2026-06-24T16:30:01.000Z",
    "dupes": 1,
-   "score": 0.435,
+   "score": 0.43,
    "tier": 2
   },
   {
@@ -145,22 +160,7 @@
    "tldr": "Generative AI",
    "published": "2026-06-24T16:51:52.000Z",
    "dupes": 1,
-   "score": 0.412,
-   "tier": 2
-  },
-  {
-   "id": "9662972e681ea5f106bc385b1a0945ae79c26803",
-   "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
-   "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
-   "source": "Hugging Face Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-24T16:00:13.000Z",
-   "dupes": 1,
-   "score": 0.395,
+   "score": 0.407,
    "tier": 2
   },
   {
@@ -175,7 +175,22 @@
    "tldr": "Claude Tag is a new way for teams to work with Claude.",
    "published": "2026-06-23T00:00:00.000Z",
    "dupes": 2,
-   "score": 0.391,
+   "score": 0.39,
+   "tier": 2
+  },
+  {
+   "id": "9662972e681ea5f106bc385b1a0945ae79c26803",
+   "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+   "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+   "source": "Hugging Face Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-24T16:00:13.000Z",
+   "dupes": 1,
+   "score": 0.39,
    "tier": 2
   },
   {
@@ -190,8 +205,8 @@
    "tldr": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
    "published": "2026-06-24T06:00:00.000Z",
    "dupes": 1,
-   "score": 0.39,
-   "tier": 2
+   "score": 0.387,
+   "tier": 3
   },
   {
    "id": "5a4339fe0f44f99c0f392dab3702e278a35682a8",
@@ -205,7 +220,7 @@
    "tldr": "Talos was built to help resolve a major bottleneck in genomic medicine: human review time.  3 candidate variants per patient for expert review.",
    "published": "2026-06-24T14:00:14.000Z",
    "dupes": 1,
-   "score": 0.385,
+   "score": 0.38,
    "tier": 3
   },
   {
@@ -220,7 +235,7 @@
    "tldr": "As demand for cloud and AI services continues to grow, datacenters are becoming more essential than ever.  Communities also want to better understand how this infrastructure affects local resources, particularly water.",
    "published": "2026-06-24T12:01:13.000Z",
    "dupes": 1,
-   "score": 0.364,
+   "score": 0.359,
    "tier": 3
   },
   {
@@ -235,7 +250,7 @@
    "tldr": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior.  The breakthrough could support cancer and autoimmune research.",
    "published": "2026-06-23T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.355,
+   "score": 0.353,
    "tier": 3
   },
   {
@@ -250,7 +265,7 @@
    "tldr": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
    "published": "2026-06-23T13:00:00.000Z",
    "dupes": 1,
-   "score": 0.347,
+   "score": 0.345,
    "tier": 3
   },
   {
@@ -265,7 +280,7 @@
    "tldr": "Building AI systems at scale is demanding, requiring low-latency inference, fast vector search, strong GPU price-performance and infrastructure that can grow without multiplying operational complexity.  NVIDIA’s latest…",
    "published": "2026-06-24T00:05:37.000Z",
    "dupes": 1,
-   "score": 0.347,
+   "score": 0.344,
    "tier": 3
   },
   {
@@ -278,7 +293,7 @@
    "tldr": "",
    "published": "2026-06-24T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.334,
+   "score": 0.331,
    "tier": 3
   },
   {
@@ -293,7 +308,7 @@
    "tldr": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
    "published": "2026-06-23T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.328,
+   "score": 0.327,
    "tier": 3
   },
   {
@@ -308,7 +323,7 @@
    "tldr": "OpenAI has just revealed a new \"intelligence processor\" chip for AI servers made in partnership with Broadcom.  The chip, called Jalapeño, is designed to power current and future large language models, according to an…",
    "published": "2026-06-24T14:36:47.000Z",
    "dupes": 1,
-   "score": 0.326,
+   "score": 0.321,
    "tier": 3
   },
   {
@@ -323,22 +338,7 @@
    "tldr": "Companies are asking how to build specialized AI that fits with the way their workflows actually run.  The first wave of enterprise AI was about access.",
    "published": "2026-06-23T13:00:07.000Z",
    "dupes": 1,
-   "score": 0.322,
-   "tier": 3
-  },
-  {
-   "id": "58688c5c0bd6dc9122cb53261843664f114b9e49",
-   "title": "The Google Home Speaker sounds good and looks great — but it’s finicky",
-   "url": "https://www.theverge.com/gadgets/955537/google-home-smart-speaker-hands-on",
-   "source": "The Verge AI",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Right out of the box, the new Google Home Speaker passed a couple of important tests.",
-   "published": "2026-06-24T13:00:00.000Z",
-   "dupes": 1,
-   "score": 0.318,
+   "score": 0.32,
    "tier": 3
   },
   {
@@ -356,7 +356,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.317,
+   "score": 0.316,
    "tier": 3
   },
   {
@@ -371,7 +371,7 @@
    "tldr": "5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
    "published": "2026-06-22T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.317,
+   "score": 0.316,
    "tier": 3
   },
   {
@@ -386,7 +386,22 @@
    "tldr": "NVIDIA technologies power more than 400 of the world’s 500 fastest supercomputers — 81% of the TOP500 — according to the latest rankings released this week at the ISC High Performance conference in Hamburg, Germany.",
    "published": "2026-06-23T09:00:38.000Z",
    "dupes": 1,
-   "score": 0.315,
+   "score": 0.314,
+   "tier": 3
+  },
+  {
+   "id": "58688c5c0bd6dc9122cb53261843664f114b9e49",
+   "title": "The Google Home Speaker sounds good and looks great — but it’s finicky",
+   "url": "https://www.theverge.com/gadgets/955537/google-home-smart-speaker-hands-on",
+   "source": "The Verge AI",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Right out of the box, the new Google Home Speaker passed a couple of important tests.",
+   "published": "2026-06-24T13:00:00.000Z",
+   "dupes": 1,
+   "score": 0.313,
    "tier": 3
   },
   {
@@ -416,7 +431,7 @@
    "tldr": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
    "published": "2026-06-21T23:00:00.000Z",
    "dupes": 1,
-   "score": 0.311,
+   "score": 0.31,
    "tier": 3
   },
   {
@@ -431,7 +446,7 @@
    "tldr": "Telecom operators have seen remarkable returns from using generative AI to automate network management, customer care and back-office operations.  Most of that impact has been task‑based: automation that speeds up…",
    "published": "2026-06-23T06:00:09.000Z",
    "dupes": 1,
-   "score": 0.311,
+   "score": 0.309,
    "tier": 3
   },
   {
@@ -444,7 +459,7 @@
    "tldr": "",
    "published": "2026-06-23T12:51:55.000Z",
    "dupes": 1,
-   "score": 0.309,
+   "score": 0.307,
    "tier": 3
   },
   {
@@ -459,22 +474,7 @@
    "tldr": "Meta's Small Business Growth Academy will provide practical AI tools, advertising, and cross-border growth training to help small businesses scale across Asia-Pacific.  The post Launch of Meta’s Small Business Growth…",
    "published": "2026-06-23T13:00:09.000Z",
    "dupes": 1,
-   "score": 0.297,
-   "tier": 3
-  },
-  {
-   "id": "b291141d2bb416fa4bb0bcd27484f8af3eec0b3d",
-   "title": "GLM-5.2 is a step change for open agents",
-   "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
-   "source": "Hacker News",
-   "org": [
-    "zhipu"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-23T03:23:28.000Z",
-   "dupes": 1,
-   "score": 0.297,
+   "score": 0.295,
    "tier": 3
   },
   {
@@ -489,7 +489,7 @@
    "tldr": "JUPITER, Europe’s first exascale supercomputer at Germany’s Forschungszentrum Jülich, runs on NVIDIA Grace Hopper Superchips and NVIDIA Quantum-X800 InfiniBand networking — and it’s had a busy year.",
    "published": "2026-06-22T13:00:48.000Z",
    "dupes": 1,
-   "score": 0.294,
+   "score": 0.293,
    "tier": 3
   },
   {
@@ -507,7 +507,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.294,
+   "score": 0.293,
    "tier": 3
   },
   {
@@ -522,7 +522,7 @@
    "tldr": "At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter.",
    "published": "2026-06-22T13:00:20.000Z",
    "dupes": 1,
-   "score": 0.294,
+   "score": 0.293,
    "tier": 3
   },
   {
@@ -537,7 +537,7 @@
    "tldr": "Mission, Vision and Veritas — new Los Alamos National Laboratory (LANL) supercomputers to be built with HPE and NVIDIA — are tapping NVIDIA Vera CPUs to accelerate scientific discovery, unlocking agentic AI for science.",
    "published": "2026-06-22T13:00:20.000Z",
    "dupes": 1,
-   "score": 0.294,
+   "score": 0.293,
    "tier": 3
   },
   {
@@ -552,7 +552,7 @@
    "tldr": "The next era of AI will not be defined by compute alone.  Its growth will be determined by energy.",
    "published": "2026-06-22T13:00:13.000Z",
    "dupes": 1,
-   "score": 0.294,
+   "score": 0.293,
    "tier": 3
   },
   {
@@ -565,7 +565,7 @@
    "tldr": "",
    "published": "2026-06-23T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.291,
+   "score": 0.29,
    "tier": 3
   },
   {
@@ -577,21 +577,6 @@
    "topic": "ai",
    "tldr": "",
    "published": "2026-06-23T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.291,
-   "tier": 3
-  },
-  {
-   "id": "97977ad54a0798cdc758d24f066278af5153d138",
-   "title": "Grok Build 0.1: Intelligence, Performance and Price Analysis",
-   "url": "https://artificialanalysis.ai/models/grok-build-0-1-06-16",
-   "source": "HN · xAI",
-   "org": [
-    "xai"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-24T08:41:07.000Z",
    "dupes": 1,
    "score": 0.29,
    "tier": 3
@@ -608,7 +593,22 @@
    "tldr": "Hot tubs sit at about 38 to 40 degrees Celsius, warm enough that most people can only soak for about 15 minutes.  NVIDIA’s newest AI servers can run their cooling liquid even hotter — up to 45 degrees Celsius, or 113…",
    "published": "2026-06-22T05:00:22.000Z",
    "dupes": 1,
-   "score": 0.289,
+   "score": 0.288,
+   "tier": 3
+  },
+  {
+   "id": "97977ad54a0798cdc758d24f066278af5153d138",
+   "title": "Grok Build 0.1: Intelligence, Performance and Price Analysis",
+   "url": "https://artificialanalysis.ai/models/grok-build-0-1-06-16",
+   "source": "HN · xAI",
+   "org": [
+    "xai"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-24T08:41:07.000Z",
+   "dupes": 1,
+   "score": 0.287,
    "tier": 3
   },
   {
@@ -649,7 +649,7 @@
    "tldr": "",
    "published": "2026-06-22T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.274,
+   "score": 0.273,
    "tier": 3
   },
   {
@@ -667,7 +667,7 @@
     "model"
    ],
    "dupes": 1,
-   "score": 0.27,
+   "score": 0.269,
    "tier": 3
   },
   {
@@ -682,7 +682,7 @@
    "tldr": "Today, Microsoft is announcing one of the largest single capacity additions in our history.  In Pecos, Texas, we will build a new datacenter campus, expanding our global datacenter capacity by approximately 2 gigawatts…",
    "published": "2026-06-22T12:06:39.000Z",
    "dupes": 1,
-   "score": 0.268,
+   "score": 0.267,
    "tier": 3
   },
   {
@@ -697,7 +697,7 @@
    "tldr": "A new update for Google Home could make it less likely your smart home cameras mistake you for someone else, just because you're facing away from the camera.",
    "published": "2026-06-23T22:28:19.000Z",
    "dupes": 1,
-   "score": 0.267,
+   "score": 0.265,
    "tier": 3
   },
   {
@@ -712,23 +712,20 @@
    "tldr": "' Clockwork have all reportedly decided to pass on picking up Artificial - director Luca Guadagnino's new biographical drama about OpenAI cofounder / CEO Sam Altman - for distribution deals.",
    "published": "2026-06-23T22:03:18.000Z",
    "dupes": 1,
-   "score": 0.266,
+   "score": 0.264,
    "tier": 3
   },
   {
-   "id": "e9b8182dcfcc0d626537d0888806b00d8b892c1c",
-   "title": "MosaicLeaks: Can your research agent keep a secret?",
-   "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
-   "source": "Hugging Face Blog",
+   "id": "3de4f92c9e9ef934f2848d902abcb187de8434cf",
+   "title": "I built a GPU back end for Emacs",
+   "url": "https://en.andros.dev/blog/4b707a03/how-i-built-a-gpu-backend-for-emacs",
+   "source": "Hacker News",
    "org": [],
-   "topic": "ai",
+   "topic": "compute",
    "tldr": "",
-   "published": "2026-06-18T18:13:13.000Z",
-   "badges": [
-    "research"
-   ],
+   "published": "2026-06-23T09:38:45.000Z",
    "dupes": 1,
-   "score": 0.263,
+   "score": 0.249,
    "tier": 3
   }
  ]
