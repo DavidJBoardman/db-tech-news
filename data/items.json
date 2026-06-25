@@ -1,6 +1,19 @@
 {
- "generated": "2026-06-25T22:58:42.941Z",
+ "generated": "2026-06-25T23:36:54.791Z",
  "items": [
+  {
+   "id": "7f1a19cb84580aa11636c9a996cad4fb5bffdb50",
+   "title": "Run a vLLM Server on HF Jobs in One Command",
+   "url": "https://huggingface.co/blog/vllm-jobs",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-26T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.613,
+   "tier": 1
+  },
   {
    "id": "0412a18e649b70dcec015926c3b4383b70e02262",
    "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
@@ -13,8 +26,8 @@
    "tldr": "",
    "published": "2026-06-25T14:08:55.000Z",
    "dupes": 1,
-   "score": 0.599,
-   "tier": 1
+   "score": 0.593,
+   "tier": 2
   },
   {
    "id": "ad72aa005c8eb4ae9a2adf64cfb359a1afe37384",
@@ -28,7 +41,22 @@
    "tldr": "",
    "published": "2026-06-25T20:36:05.000Z",
    "dupes": 1,
-   "score": 0.533,
+   "score": 0.53,
+   "tier": 2
+  },
+  {
+   "id": "efaf3577e980524fcb2f05d87e5410a55308290c",
+   "title": "OpenAI will delay GPT-5.6 after Trump administration request",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
+   "source": "The Verge AI",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "6.",
+   "published": "2026-06-25T21:57:06.000Z",
+   "dupes": 1,
+   "score": 0.528,
    "tier": 2
   },
   {
@@ -41,7 +69,7 @@
    "tldr": "",
    "published": "2026-06-25T16:11:42.000Z",
    "dupes": 1,
-   "score": 0.532,
+   "score": 0.526,
    "tier": 2
   },
   {
@@ -56,7 +84,7 @@
    "tldr": "Researchers introduce generative causal testing, which translates black box models into clear hypotheses and verifies them in the scanner, revealing what specific brain regions respond to in language.  The post…",
    "published": "2026-06-25T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.53,
+   "score": 0.524,
    "tier": 2
   },
   {
@@ -69,7 +97,7 @@
    "tldr": "",
    "published": "2026-06-25T15:33:37.000Z",
    "dupes": 1,
-   "score": 0.52,
+   "score": 0.515,
    "tier": 2
   },
   {
@@ -84,7 +112,7 @@
    "tldr": "Summer savings are heating up.  From the Steam Summer Sale to GeForce NOW membership discounts, this week’s GFN Thursday delivers double the deals and more ways to get the most value from cloud gaming.",
    "published": "2026-06-25T13:00:34.000Z",
    "dupes": 1,
-   "score": 0.513,
+   "score": 0.508,
    "tier": 2
   },
   {
@@ -99,7 +127,7 @@
    "tldr": "Algorithms & Theory",
    "published": "2026-06-25T10:03:00.000Z",
    "dupes": 1,
-   "score": 0.488,
+   "score": 0.483,
    "tier": 2
   },
   {
@@ -114,7 +142,7 @@
    "tldr": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
    "published": "2026-06-25T02:00:00.000Z",
    "dupes": 1,
-   "score": 0.456,
+   "score": 0.452,
    "tier": 2
   },
   {
@@ -129,7 +157,7 @@
    "tldr": "",
    "published": "2026-06-24T16:30:01.000Z",
    "dupes": 1,
-   "score": 0.408,
+   "score": 0.406,
    "tier": 2
   },
   {
@@ -159,7 +187,7 @@
    "tldr": "Generative AI",
    "published": "2026-06-24T16:51:52.000Z",
    "dupes": 1,
-   "score": 0.385,
+   "score": 0.382,
    "tier": 2
   },
   {
@@ -174,8 +202,8 @@
    "tldr": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
    "published": "2026-06-24T06:00:00.000Z",
    "dupes": 1,
-   "score": 0.372,
-   "tier": 2
+   "score": 0.37,
+   "tier": 3
   },
   {
    "id": "9662972e681ea5f106bc385b1a0945ae79c26803",
@@ -189,8 +217,8 @@
    "tldr": "",
    "published": "2026-06-24T16:00:13.000Z",
    "dupes": 1,
-   "score": 0.369,
-   "tier": 2
+   "score": 0.366,
+   "tier": 3
   },
   {
    "id": "5a4339fe0f44f99c0f392dab3702e278a35682a8",
@@ -204,7 +232,7 @@
    "tldr": "Talos was built to help resolve a major bottleneck in genomic medicine: human review time.  3 candidate variants per patient for expert review.",
    "published": "2026-06-24T14:00:14.000Z",
    "dupes": 1,
-   "score": 0.361,
+   "score": 0.358,
    "tier": 3
   },
   {
@@ -219,7 +247,7 @@
    "tldr": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior.  The breakthrough could support cancer and autoimmune research.",
    "published": "2026-06-23T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.344,
+   "score": 0.343,
    "tier": 3
   },
   {
@@ -234,7 +262,7 @@
    "tldr": "As demand for cloud and AI services continues to grow, datacenters are becoming more essential than ever.  Communities also want to better understand how this infrastructure affects local resources, particularly water.",
    "published": "2026-06-24T12:01:13.000Z",
    "dupes": 1,
-   "score": 0.341,
+   "score": 0.339,
    "tier": 3
   },
   {
@@ -249,7 +277,7 @@
    "tldr": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
    "published": "2026-06-23T13:00:00.000Z",
    "dupes": 1,
-   "score": 0.338,
+   "score": 0.337,
    "tier": 3
   },
   {
@@ -264,7 +292,7 @@
    "tldr": "Building AI systems at scale is demanding, requiring low-latency inference, fast vector search, strong GPU price-performance and infrastructure that can grow without multiplying operational complexity.  NVIDIA’s latest…",
    "published": "2026-06-24T00:05:37.000Z",
    "dupes": 1,
-   "score": 0.333,
+   "score": 0.331,
    "tier": 3
   },
   {
@@ -279,7 +307,7 @@
    "tldr": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
    "published": "2026-06-23T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.323,
+   "score": 0.322,
    "tier": 3
   },
   {
@@ -292,7 +320,7 @@
    "tldr": "",
    "published": "2026-06-24T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.32,
+   "score": 0.318,
    "tier": 3
   },
   {
@@ -340,7 +368,7 @@
    "tldr": "Editor’s note: This post is part of the Nemotron Labs blog series, which explores how the latest open models, datasets and training techniques help businesses build specialized AI systems and applications on NVIDIA…",
    "published": "2026-06-23T13:00:07.000Z",
    "dupes": 1,
-   "score": 0.313,
+   "score": 0.312,
    "tier": 3
   },
   {
@@ -370,7 +398,7 @@
    "tldr": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
    "published": "2026-06-21T23:00:00.000Z",
    "dupes": 1,
-   "score": 0.309,
+   "score": 0.308,
    "tier": 3
   },
   {
@@ -385,7 +413,7 @@
    "tldr": "NVIDIA technologies power more than 400 of the world’s 500 fastest supercomputers — 81% of the TOP500 — according to the latest rankings released this week at the ISC High Performance conference in Hamburg, Germany.",
    "published": "2026-06-23T09:00:38.000Z",
    "dupes": 1,
-   "score": 0.307,
+   "score": 0.306,
    "tier": 3
   },
   {
@@ -400,7 +428,20 @@
    "tldr": "Telecom operators have seen remarkable returns from using generative AI to automate network management, customer care and back-office operations.  Most of that impact has been task‑based: automation that speeds up…",
    "published": "2026-06-23T06:00:09.000Z",
    "dupes": 1,
-   "score": 0.304,
+   "score": 0.303,
+   "tier": 3
+  },
+  {
+   "id": "f0c4ab4675063190d80d9c7b42197c8f73faedb5",
+   "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+   "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-23T12:51:55.000Z",
+   "dupes": 1,
+   "score": 0.299,
    "tier": 3
   },
   {
@@ -415,20 +456,7 @@
    "tldr": "OpenAI has just revealed a new \"intelligence processor\" chip for AI servers made in partnership with Broadcom.  The chip, called Jalapeño, is designed to power current and future large language models, according to an…",
    "published": "2026-06-24T14:36:47.000Z",
    "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
-   "id": "f0c4ab4675063190d80d9c7b42197c8f73faedb5",
-   "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
-   "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-23T12:51:55.000Z",
-   "dupes": 1,
-   "score": 0.3,
+   "score": 0.298,
    "tier": 3
   },
   {
@@ -443,7 +471,7 @@
    "tldr": "Right out of the box, the new Google Home Speaker passed a couple of important tests.",
    "published": "2026-06-24T13:00:00.000Z",
    "dupes": 1,
-   "score": 0.295,
+   "score": 0.292,
    "tier": 3
   },
   {
@@ -536,7 +564,7 @@
    "tldr": "Meta's Small Business Growth Academy will provide practical AI tools, advertising, and cross-border growth training to help small businesses scale across Asia-Pacific.  The post Launch of Meta’s Small Business Growth…",
    "published": "2026-06-23T13:00:09.000Z",
    "dupes": 1,
-   "score": 0.288,
+   "score": 0.287,
    "tier": 3
   },
   {
@@ -590,7 +618,7 @@
    "tldr": "",
    "published": "2026-06-22T13:18:56.000Z",
    "dupes": 1,
-   "score": 0.278,
+   "score": 0.277,
    "tier": 3
   },
   {
@@ -603,7 +631,7 @@
    "tldr": "",
    "published": "2026-06-23T09:38:45.000Z",
    "dupes": 1,
-   "score": 0.273,
+   "score": 0.272,
    "tier": 3
   },
   {
@@ -616,7 +644,7 @@
    "tldr": "",
    "published": "2026-06-22T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.272,
+   "score": 0.271,
    "tier": 3
   },
   {
@@ -631,7 +659,7 @@
    "tldr": "",
    "published": "2026-06-24T08:41:07.000Z",
    "dupes": 1,
-   "score": 0.272,
+   "score": 0.269,
    "tier": 3
   },
   {
@@ -679,7 +707,7 @@
    "tldr": "A new update for Google Home could make it less likely your smart home cameras mistake you for someone else, just because you're facing away from the camera.",
    "published": "2026-06-23T22:28:19.000Z",
    "dupes": 1,
-   "score": 0.254,
+   "score": 0.253,
    "tier": 3
   },
   {
@@ -694,7 +722,7 @@
    "tldr": "' Clockwork have all reportedly decided to pass on picking up Artificial - director Luca Guadagnino's new biographical drama about OpenAI cofounder / CEO Sam Altman - for distribution deals.",
    "published": "2026-06-23T22:03:18.000Z",
    "dupes": 1,
-   "score": 0.253,
+   "score": 0.252,
    "tier": 3
   }
  ]
