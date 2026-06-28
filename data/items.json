@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-28T13:01:25.816Z",
+ "generated": "2026-06-28T14:11:28.095Z",
  "items": [
   {
    "id": "8f1810cffc843241dbbd77f512ad37be06f61521",
@@ -16,8 +16,38 @@
     "model"
    ],
    "dupes": 5,
-   "score": 0.782,
+   "score": 0.767,
    "tier": 1
+  },
+  {
+   "id": "6154952d129514b4365e76b2b240ddd8484f9eea",
+   "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
+   "url": "https://github.com/openai/codex/issues/2847",
+   "source": "Hacker News",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-28T12:27:33.000Z",
+   "dupes": 1,
+   "score": 0.677,
+   "tier": 2
+  },
+  {
+   "id": "7be0be9f8f64969173b5a7a171799339f73658ae",
+   "title": "Austria Lobbies EU to Host Anthropic After US Access Curbs",
+   "url": "https://www.bloomberg.com/news/articles/2026-06-28/austria-lobbies-eu-to-host-anthropic-after-us-access-curbs",
+   "source": "Hacker News",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-28T13:34:14.000Z",
+   "dupes": 1,
+   "score": 0.579,
+   "tier": 2
   },
   {
    "id": "7e4f4c7efc6aad046afc191622fe21ed0c6335aa",
@@ -34,7 +64,7 @@
     "model"
    ],
    "dupes": 3,
-   "score": 0.422,
+   "score": 0.42,
    "tier": 2
   },
   {
@@ -49,7 +79,7 @@
    "tldr": "Claude Tag is a new way for teams to work with Claude.",
    "published": "2026-06-23T00:00:00.000Z",
    "dupes": 2,
-   "score": 0.365,
+   "score": 0.364,
    "tier": 2
   },
   {
@@ -64,22 +94,7 @@
    "tldr": "6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
    "published": "2026-06-26T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.349,
-   "tier": 2
-  },
-  {
-   "id": "97977ad54a0798cdc758d24f066278af5153d138",
-   "title": "Grok Build 0.1: Intelligence, Performance and Price Analysis",
-   "url": "https://artificialanalysis.ai/models/grok-build-0-1-06-16",
-   "source": "HN · xAI",
-   "org": [
-    "xai"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-24T08:41:07.000Z",
-   "dupes": 1,
-   "score": 0.345,
+   "score": 0.347,
    "tier": 2
   },
   {
@@ -94,7 +109,7 @@
    "tldr": "Machine Intelligence",
    "published": "2026-06-26T18:30:00.000Z",
    "dupes": 1,
-   "score": 0.343,
+   "score": 0.34,
    "tier": 2
   },
   {
@@ -109,7 +124,7 @@
    "tldr": "See Tom Shaw's perspective on the infrastructure and technology inside one of Meta's data centers.  The post Inside One of Meta’s Data Centers appeared first on Meta Newsroom .",
    "published": "2026-06-26T18:28:26.000Z",
    "dupes": 1,
-   "score": 0.318,
+   "score": 0.315,
    "tier": 2
   },
   {
@@ -139,7 +154,7 @@
    "tldr": "",
    "published": "2026-06-24T16:30:01.000Z",
    "dupes": 1,
-   "score": 0.31,
+   "score": 0.309,
    "tier": 2
   },
   {
@@ -154,7 +169,7 @@
    "tldr": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
    "published": "2026-06-24T06:00:00.000Z",
    "dupes": 1,
-   "score": 0.307,
+   "score": 0.306,
    "tier": 2
   },
   {
@@ -200,7 +215,7 @@
    "published": "2026-06-23T00:00:00.000Z",
    "dupes": 1,
    "score": 0.302,
-   "tier": 2
+   "tier": 3
   },
   {
    "id": "f0ab1740b8b7f5b3f7439029864e8548fd6819be",
@@ -277,19 +292,6 @@
    "tldr": "Summer savings are heating up.  From the Steam Summer Sale to GeForce NOW membership discounts, this week’s GFN Thursday delivers double the deals and more ways to get the most value from cloud gaming.",
    "published": "2026-06-25T13:00:34.000Z",
    "dupes": 1,
-   "score": 0.297,
-   "tier": 3
-  },
-  {
-   "id": "7f1a19cb84580aa11636c9a996cad4fb5bffdb50",
-   "title": "Run a vLLM Server on HF Jobs in One Command",
-   "url": "https://huggingface.co/blog/vllm-jobs",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-26T00:00:00.000Z",
-   "dupes": 1,
    "score": 0.296,
    "tier": 3
   },
@@ -305,7 +307,20 @@
    "tldr": "Algorithms & Theory",
    "published": "2026-06-25T10:03:00.000Z",
    "dupes": 1,
-   "score": 0.295,
+   "score": 0.294,
+   "tier": 3
+  },
+  {
+   "id": "7f1a19cb84580aa11636c9a996cad4fb5bffdb50",
+   "title": "Run a vLLM Server on HF Jobs in One Command",
+   "url": "https://huggingface.co/blog/vllm-jobs",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-26T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.294,
    "tier": 3
   },
   {
@@ -320,7 +335,7 @@
    "tldr": "Researchers introduce generative causal testing, which translates black box models into clear hypotheses and verifies them in the scanner, revealing what specific brain regions respond to in language.  The post…",
    "published": "2026-06-25T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.287,
+   "score": 0.286,
    "tier": 3
   },
   {
@@ -332,21 +347,6 @@
    "topic": "ai",
    "tldr": "",
    "published": "2026-06-25T16:11:42.000Z",
-   "dupes": 1,
-   "score": 0.287,
-   "tier": 3
-  },
-  {
-   "id": "9553ff58439c6bd6c079a4f59ac7a2091cfabc7f",
-   "title": "Anthropic’s Mythos 5 is back",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
-   "source": "The Verge AI",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organizations, according…",
-   "published": "2026-06-27T00:33:44.000Z",
    "dupes": 1,
    "score": 0.286,
    "tier": 3
@@ -364,6 +364,21 @@
    "published": "2026-06-24T16:51:52.000Z",
    "dupes": 1,
    "score": 0.285,
+   "tier": 3
+  },
+  {
+   "id": "9553ff58439c6bd6c079a4f59ac7a2091cfabc7f",
+   "title": "Anthropic’s Mythos 5 is back",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
+   "source": "The Verge AI",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organizations, according…",
+   "published": "2026-06-27T00:33:44.000Z",
+   "dupes": 1,
+   "score": 0.282,
    "tier": 3
   },
   {
@@ -520,21 +535,6 @@
    "tier": 3
   },
   {
-   "id": "5a4339fe0f44f99c0f392dab3702e278a35682a8",
-   "title": "Talos: Scaling rare disease diagnosis with automated, iterative genomic reanalysis",
-   "url": "https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis",
-   "source": "Microsoft Research",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "Talos was built to help resolve a major bottleneck in genomic medicine: human review time.  3 candidate variants per patient for expert review.",
-   "published": "2026-06-24T14:00:14.000Z",
-   "dupes": 1,
-   "score": 0.272,
-   "tier": 3
-  },
-  {
    "id": "9662972e681ea5f106bc385b1a0945ae79c26803",
    "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
    "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
@@ -547,6 +547,21 @@
    "published": "2026-06-24T16:00:13.000Z",
    "dupes": 1,
    "score": 0.272,
+   "tier": 3
+  },
+  {
+   "id": "5a4339fe0f44f99c0f392dab3702e278a35682a8",
+   "title": "Talos: Scaling rare disease diagnosis with automated, iterative genomic reanalysis",
+   "url": "https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis",
+   "source": "Microsoft Research",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "Talos was built to help resolve a major bottleneck in genomic medicine: human review time.  3 candidate variants per patient for expert review.",
+   "published": "2026-06-24T14:00:14.000Z",
+   "dupes": 1,
+   "score": 0.271,
    "tier": 3
   },
   {
@@ -585,7 +600,7 @@
    "tldr": "",
    "published": "2026-06-23T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.265,
+   "score": 0.264,
    "tier": 3
   },
   {
@@ -598,7 +613,7 @@
    "tldr": "",
    "published": "2026-06-23T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.265,
+   "score": 0.264,
    "tier": 3
   },
   {
@@ -615,6 +630,19 @@
    "tier": 3
   },
   {
+   "id": "d1c7fe87ce16567d226c5de1ae7a74704ed432c0",
+   "title": "We got local models to triage the OpenClaw repo for FREE!*",
+   "url": "https://huggingface.co/blog/local-models-pr-triage",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-22T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.263,
+   "tier": 3
+  },
+  {
    "id": "6f9ce57996978d715e7c2f5bb53eb5e059f5d3ca",
    "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
    "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
@@ -626,20 +654,7 @@
    "tldr": "6, is here.",
    "published": "2026-06-26T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.264,
-   "tier": 3
-  },
-  {
-   "id": "d1c7fe87ce16567d226c5de1ae7a74704ed432c0",
-   "title": "We got local models to triage the OpenClaw repo for FREE!*",
-   "url": "https://huggingface.co/blog/local-models-pr-triage",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-22T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.263,
+   "score": 0.261,
    "tier": 3
   },
   {
@@ -669,7 +684,7 @@
    "tldr": "It's been two weeks since Anthropic took its Mythos-class models offline after a Friday evening ultimatum from the Trump administration.  The company sprang into action immediately, sending a barrage of executives to…",
    "published": "2026-06-26T14:07:03.000Z",
    "dupes": 1,
-   "score": 0.257,
+   "score": 0.255,
    "tier": 3
   },
   {
@@ -721,6 +736,21 @@
    "tier": 3
   },
   {
+   "id": "97977ad54a0798cdc758d24f066278af5153d138",
+   "title": "Grok Build 0.1: Intelligence, Performance and Price Analysis",
+   "url": "https://artificialanalysis.ai/models/grok-build-0-1-06-16",
+   "source": "HN · xAI",
+   "org": [
+    "xai"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-24T08:41:07.000Z",
+   "dupes": 1,
+   "score": 0.24,
+   "tier": 3
+  },
+  {
    "id": "efaf3577e980524fcb2f05d87e5410a55308290c",
    "title": "OpenAI will delay GPT-5.6 after Trump administration request",
    "url": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
@@ -732,7 +762,7 @@
    "tldr": "6.",
    "published": "2026-06-25T21:57:06.000Z",
    "dupes": 1,
-   "score": 0.231,
+   "score": 0.229,
    "tier": 3
   }
  ]
