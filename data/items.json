@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-27T23:48:01.525Z",
+ "generated": "2026-06-28T00:37:04.410Z",
  "items": [
   {
    "id": "c1ef88dc873cb883be28f24452f6e5c072f0d16e",
@@ -16,7 +16,7 @@
     "model"
    ],
    "dupes": 2,
-   "score": 0.47,
+   "score": 0.465,
    "tier": 1
   },
   {
@@ -34,7 +34,7 @@
     "model"
    ],
    "dupes": 3,
-   "score": 0.453,
+   "score": 0.45,
    "tier": 2
   },
   {
@@ -49,7 +49,7 @@
    "tldr": "Machine Intelligence",
    "published": "2026-06-26T18:30:00.000Z",
    "dupes": 1,
-   "score": 0.388,
+   "score": 0.385,
    "tier": 2
   },
   {
@@ -64,7 +64,7 @@
    "tldr": "6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
    "published": "2026-06-26T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.382,
+   "score": 0.379,
    "tier": 2
   },
   {
@@ -94,7 +94,7 @@
    "tldr": "See Tom Shaw's perspective on the infrastructure and technology inside one of Meta's data centers.  The post Inside One of Meta’s Data Centers appeared first on Meta Newsroom .",
    "published": "2026-06-26T18:28:26.000Z",
    "dupes": 1,
-   "score": 0.363,
+   "score": 0.36,
    "tier": 2
   },
   {
@@ -109,7 +109,7 @@
    "tldr": "",
    "published": "2026-06-24T08:41:07.000Z",
    "dupes": 1,
-   "score": 0.35,
+   "score": 0.349,
    "tier": 2
   },
   {
@@ -124,7 +124,7 @@
    "tldr": "After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organizations, according…",
    "published": "2026-06-27T00:33:44.000Z",
    "dupes": 1,
-   "score": 0.343,
+   "score": 0.339,
    "tier": 2
   },
   {
@@ -139,20 +139,7 @@
    "tldr": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
    "published": "2026-06-25T02:00:00.000Z",
    "dupes": 1,
-   "score": 0.324,
-   "tier": 2
-  },
-  {
-   "id": "7f1a19cb84580aa11636c9a996cad4fb5bffdb50",
-   "title": "Run a vLLM Server on HF Jobs in One Command",
-   "url": "https://huggingface.co/blog/vllm-jobs",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-26T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.318,
+   "score": 0.323,
    "tier": 2
   },
   {
@@ -167,7 +154,20 @@
    "tldr": "",
    "published": "2026-06-24T16:30:01.000Z",
    "dupes": 1,
-   "score": 0.317,
+   "score": 0.316,
+   "tier": 2
+  },
+  {
+   "id": "7f1a19cb84580aa11636c9a996cad4fb5bffdb50",
+   "title": "Run a vLLM Server on HF Jobs in One Command",
+   "url": "https://huggingface.co/blog/vllm-jobs",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-26T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.316,
    "tier": 2
   },
   {
@@ -197,53 +197,8 @@
    "tldr": "Summer savings are heating up.  From the Steam Summer Sale to GeForce NOW membership discounts, this week’s GFN Thursday delivers double the deals and more ways to get the most value from cloud gaming.",
    "published": "2026-06-25T13:00:34.000Z",
    "dupes": 1,
-   "score": 0.311,
+   "score": 0.31,
    "tier": 2
-  },
-  {
-   "id": "7c36fb32c6285fc2a72a693371c03b5a52f25c8f",
-   "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
-   "url": "https://openai.com/index/gpt-5-immunology-mystery",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior.  The breakthrough could support cancer and autoimmune research.",
-   "published": "2026-06-23T17:00:00.000Z",
-   "dupes": 1,
-   "score": 0.307,
-   "tier": 3
-  },
-  {
-   "id": "e2b02214838029047e463b5b4cb757e628818a5b",
-   "title": "Optimizing cloud economics with linear elastic caching",
-   "url": "https://research.google/blog/optimizing-cloud-economics-with-linear-elastic-caching",
-   "source": "Google Research",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Algorithms & Theory",
-   "published": "2026-06-25T10:03:00.000Z",
-   "dupes": 1,
-   "score": 0.307,
-   "tier": 3
-  },
-  {
-   "id": "6f9ce57996978d715e7c2f5bb53eb5e059f5d3ca",
-   "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "6, is here.",
-   "published": "2026-06-26T17:00:00.000Z",
-   "dupes": 1,
-   "score": 0.307,
-   "tier": 3
   },
   {
    "id": "6507bbb3977767d18fbdd1e2dbdfa5d1eded2ec6",
@@ -261,14 +216,46 @@
    "tier": 3
   },
   {
-   "id": "04bd48744b58f91b4b4c38e365eef5ffe03e9092",
-   "title": "Which tokens does a hybrid model predict better?",
-   "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
-   "source": "Hugging Face Blog",
-   "org": [],
+   "id": "7c36fb32c6285fc2a72a693371c03b5a52f25c8f",
+   "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+   "url": "https://openai.com/index/gpt-5-immunology-mystery",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
    "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-25T16:11:42.000Z",
+   "tldr": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior.  The breakthrough could support cancer and autoimmune research.",
+   "published": "2026-06-23T17:00:00.000Z",
+   "dupes": 1,
+   "score": 0.306,
+   "tier": 3
+  },
+  {
+   "id": "e2b02214838029047e463b5b4cb757e628818a5b",
+   "title": "Optimizing cloud economics with linear elastic caching",
+   "url": "https://research.google/blog/optimizing-cloud-economics-with-linear-elastic-caching",
+   "source": "Google Research",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Algorithms & Theory",
+   "published": "2026-06-25T10:03:00.000Z",
+   "dupes": 1,
+   "score": 0.306,
+   "tier": 3
+  },
+  {
+   "id": "6f9ce57996978d715e7c2f5bb53eb5e059f5d3ca",
+   "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
+   "source": "The Verge AI",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "6, is here.",
+   "published": "2026-06-26T17:00:00.000Z",
    "dupes": 1,
    "score": 0.304,
    "tier": 3
@@ -284,21 +271,6 @@
    "topic": "ai",
    "tldr": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
    "published": "2026-06-23T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.303,
-   "tier": 3
-  },
-  {
-   "id": "68af68aaff7a99f624be7dfbba8b03763d9814b2",
-   "title": "Understanding the brain with AI-driven explanations and experiments",
-   "url": "https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments",
-   "source": "Microsoft Research",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "Researchers introduce generative causal testing, which translates black box models into clear hypotheses and verifies them in the scanner, revealing what specific brain regions respond to in language.  The post…",
-   "published": "2026-06-25T16:00:00.000Z",
    "dupes": 1,
    "score": 0.303,
    "tier": 3
@@ -332,6 +304,34 @@
    "topic": "ai",
    "tldr": "5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
    "published": "2026-06-22T10:00:00.000Z",
+   "dupes": 1,
+   "score": 0.302,
+   "tier": 3
+  },
+  {
+   "id": "68af68aaff7a99f624be7dfbba8b03763d9814b2",
+   "title": "Understanding the brain with AI-driven explanations and experiments",
+   "url": "https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments",
+   "source": "Microsoft Research",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "Researchers introduce generative causal testing, which translates black box models into clear hypotheses and verifies them in the scanner, revealing what specific brain regions respond to in language.  The post…",
+   "published": "2026-06-25T16:00:00.000Z",
+   "dupes": 1,
+   "score": 0.302,
+   "tier": 3
+  },
+  {
+   "id": "04bd48744b58f91b4b4c38e365eef5ffe03e9092",
+   "title": "Which tokens does a hybrid model predict better?",
+   "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-25T16:11:42.000Z",
    "dupes": 1,
    "score": 0.302,
    "tier": 3
@@ -378,7 +378,7 @@
    "tldr": "It's been two weeks since Anthropic took its Mythos-class models offline after a Friday evening ultimatum from the Trump administration.  The company sprang into action immediately, sending a barrage of executives to…",
    "published": "2026-06-26T14:07:03.000Z",
    "dupes": 1,
-   "score": 0.296,
+   "score": 0.293,
    "tier": 3
   },
   {
@@ -393,7 +393,7 @@
    "tldr": "Generative AI",
    "published": "2026-06-24T16:51:52.000Z",
    "dupes": 1,
-   "score": 0.292,
+   "score": 0.291,
    "tier": 3
   },
   {
@@ -467,21 +467,6 @@
    "topic": "ai",
    "tldr": "",
    "published": "2026-06-24T16:00:13.000Z",
-   "dupes": 1,
-   "score": 0.279,
-   "tier": 3
-  },
-  {
-   "id": "5a4339fe0f44f99c0f392dab3702e278a35682a8",
-   "title": "Talos: Scaling rare disease diagnosis with automated, iterative genomic reanalysis",
-   "url": "https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis",
-   "source": "Microsoft Research",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "Talos was built to help resolve a major bottleneck in genomic medicine: human review time.  3 candidate variants per patient for expert review.",
-   "published": "2026-06-24T14:00:14.000Z",
    "dupes": 1,
    "score": 0.278,
    "tier": 3
@@ -580,6 +565,21 @@
    "tier": 3
   },
   {
+   "id": "5a4339fe0f44f99c0f392dab3702e278a35682a8",
+   "title": "Talos: Scaling rare disease diagnosis with automated, iterative genomic reanalysis",
+   "url": "https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis",
+   "source": "Microsoft Research",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "Talos was built to help resolve a major bottleneck in genomic medicine: human review time.  3 candidate variants per patient for expert review.",
+   "published": "2026-06-24T14:00:14.000Z",
+   "dupes": 1,
+   "score": 0.277,
+   "tier": 3
+  },
+  {
    "id": "c8f3104266f9489e3a98d368e721364b1cd2fc68",
    "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
    "url": "https://huggingface.co/blog/ffasr-leaderboard",
@@ -645,6 +645,19 @@
    "tier": 3
   },
   {
+   "id": "d1c7fe87ce16567d226c5de1ae7a74704ed432c0",
+   "title": "We got local models to triage the OpenClaw repo for FREE!*",
+   "url": "https://huggingface.co/blog/local-models-pr-triage",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-22T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.264,
+   "tier": 3
+  },
+  {
    "id": "505e854e5fbb46bef37602251a58e435f9a695b9",
    "title": "Inside Microsoft’s two-decade push to cut water intensity while scaling for growth",
    "url": "https://blogs.microsoft.com/blog/2026/06/24/inside-microsofts-two-decade-push-to-cut-water-intensity-while-scaling-for-growth",
@@ -656,20 +669,7 @@
    "tldr": "As demand for cloud and AI services continues to grow, datacenters are becoming more essential than ever.  Communities also want to better understand how this infrastructure affects local resources, particularly water.",
    "published": "2026-06-24T12:01:13.000Z",
    "dupes": 1,
-   "score": 0.264,
-   "tier": 3
-  },
-  {
-   "id": "d1c7fe87ce16567d226c5de1ae7a74704ed432c0",
-   "title": "We got local models to triage the OpenClaw repo for FREE!*",
-   "url": "https://huggingface.co/blog/local-models-pr-triage",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-22T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.264,
+   "score": 0.263,
    "tier": 3
   },
   {
@@ -732,7 +732,7 @@
    "tldr": "6.",
    "published": "2026-06-25T21:57:06.000Z",
    "dupes": 1,
-   "score": 0.251,
+   "score": 0.25,
    "tier": 3
   }
  ]
