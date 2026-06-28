@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-28T22:21:48.798Z",
+ "generated": "2026-06-28T22:48:04.314Z",
  "items": [
   {
    "id": "8f1810cffc843241dbbd77f512ad37be06f61521",
@@ -16,7 +16,7 @@
     "model"
    ],
    "dupes": 5,
-   "score": 0.678,
+   "score": 0.674,
    "tier": 1
   },
   {
@@ -31,7 +31,7 @@
    "tldr": "",
    "published": "2026-06-28T16:35:19.000Z",
    "dupes": 1,
-   "score": 0.63,
+   "score": 0.626,
    "tier": 2
   },
   {
@@ -46,7 +46,7 @@
    "tldr": "",
    "published": "2026-06-28T17:50:47.000Z",
    "dupes": 1,
-   "score": 0.609,
+   "score": 0.616,
    "tier": 2
   },
   {
@@ -61,7 +61,7 @@
    "tldr": "2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios.",
    "published": "2026-06-28T21:42:51.000Z",
    "dupes": 1,
-   "score": 0.541,
+   "score": 0.536,
    "tier": 2
   },
   {
@@ -76,7 +76,7 @@
    "tldr": "",
    "published": "2026-06-28T12:27:33.000Z",
    "dupes": 1,
-   "score": 0.532,
+   "score": 0.525,
    "tier": 2
   },
   {
@@ -92,7 +92,7 @@
    "tldr": "",
    "published": "2026-06-28T19:38:14.000Z",
    "dupes": 1,
-   "score": 0.529,
+   "score": 0.524,
    "tier": 2
   },
   {
@@ -107,7 +107,7 @@
    "tldr": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history.  To make their case, prosecutors turned to location data from his…",
    "published": "2026-06-28T14:12:06.000Z",
    "dupes": 1,
-   "score": 0.456,
+   "score": 0.451,
    "tier": 2
   },
   {
@@ -125,7 +125,7 @@
     "model"
    ],
    "dupes": 3,
-   "score": 0.408,
+   "score": 0.407,
    "tier": 2
   },
   {
@@ -140,7 +140,7 @@
    "tldr": "",
    "published": "2026-06-28T09:19:07.000Z",
    "dupes": 1,
-   "score": 0.406,
+   "score": 0.402,
    "tier": 2
   },
   {
@@ -185,7 +185,7 @@
    "tldr": "Machine Intelligence",
    "published": "2026-06-26T18:30:00.000Z",
    "dupes": 1,
-   "score": 0.323,
+   "score": 0.322,
    "tier": 2
   },
   {
@@ -383,7 +383,7 @@
    "tldr": "Algorithms & Theory",
    "published": "2026-06-25T10:03:00.000Z",
    "dupes": 1,
-   "score": 0.289,
+   "score": 0.288,
    "tier": 3
   },
   {
@@ -396,7 +396,7 @@
    "tldr": "",
    "published": "2026-06-26T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.286,
+   "score": 0.285,
    "tier": 3
   },
   {
@@ -415,6 +415,21 @@
    "tier": 3
   },
   {
+   "id": "e45b48c74146d427babe9d193111560ceea07466",
+   "title": "NVIDIA and AWS Collaborate to Bring AI to Production at Scale",
+   "url": "https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Building AI systems at scale is demanding, requiring low-latency inference, fast vector search, strong GPU price-performance and infrastructure that can grow without multiplying operational complexity.  NVIDIA’s latest…",
+   "published": "2026-06-24T00:05:37.000Z",
+   "dupes": 1,
+   "score": 0.279,
+   "tier": 3
+  },
+  {
    "id": "68af68aaff7a99f624be7dfbba8b03763d9814b2",
    "title": "Understanding the brain with AI-driven explanations and experiments",
    "url": "https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments",
@@ -426,7 +441,7 @@
    "tldr": "Researchers introduce generative causal testing, which translates black box models into clear hypotheses and verifies them in the scanner, revealing what specific brain regions respond to in language.  The post…",
    "published": "2026-06-25T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.28,
+   "score": 0.279,
    "tier": 3
   },
   {
@@ -438,21 +453,6 @@
    "topic": "ai",
    "tldr": "",
    "published": "2026-06-25T16:11:42.000Z",
-   "dupes": 1,
-   "score": 0.28,
-   "tier": 3
-  },
-  {
-   "id": "e45b48c74146d427babe9d193111560ceea07466",
-   "title": "NVIDIA and AWS Collaborate to Bring AI to Production at Scale",
-   "url": "https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Building AI systems at scale is demanding, requiring low-latency inference, fast vector search, strong GPU price-performance and infrastructure that can grow without multiplying operational complexity.  NVIDIA’s latest…",
-   "published": "2026-06-24T00:05:37.000Z",
    "dupes": 1,
    "score": 0.279,
    "tier": 3
@@ -536,21 +536,6 @@
    "tier": 3
   },
   {
-   "id": "3b7b3174538915c6e07ec7ffa0756030025cf599",
-   "title": "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
-   "url": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Mission, Vision and Veritas — new Los Alamos National Laboratory (LANL) supercomputers to be built with HPE and NVIDIA — are tapping NVIDIA Vera CPUs to accelerate scientific discovery, unlocking agentic AI for science.",
-   "published": "2026-06-22T13:00:20.000Z",
-   "dupes": 1,
-   "score": 0.276,
-   "tier": 3
-  },
-  {
    "id": "71966ba95af1445456b8bd5a973338b7a6c21e72",
    "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries",
    "url": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda",
@@ -560,6 +545,21 @@
    ],
    "topic": "compute",
    "tldr": "At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter.",
+   "published": "2026-06-22T13:00:20.000Z",
+   "dupes": 1,
+   "score": 0.276,
+   "tier": 3
+  },
+  {
+   "id": "3b7b3174538915c6e07ec7ffa0756030025cf599",
+   "title": "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
+   "url": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Mission, Vision and Veritas — new Los Alamos National Laboratory (LANL) supercomputers to be built with HPE and NVIDIA — are tapping NVIDIA Vera CPUs to accelerate scientific discovery, unlocking agentic AI for science.",
    "published": "2026-06-22T13:00:20.000Z",
    "dupes": 1,
    "score": 0.276,
@@ -715,7 +715,7 @@
    "tldr": "After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organizations, according…",
    "published": "2026-06-27T00:33:44.000Z",
    "dupes": 1,
-   "score": 0.26,
+   "score": 0.259,
    "tier": 3
   },
   {
@@ -793,7 +793,7 @@
    "tldr": "6, is here.",
    "published": "2026-06-26T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.245,
+   "score": 0.244,
    "tier": 3
   },
   {
@@ -808,7 +808,7 @@
    "tldr": "It's been two weeks since Anthropic took its Mythos-class models offline after a Friday evening ultimatum from the Trump administration.  The company sprang into action immediately, sending a barrage of executives to…",
    "published": "2026-06-26T14:07:03.000Z",
    "dupes": 1,
-   "score": 0.24,
+   "score": 0.239,
    "tier": 3
   },
   {
@@ -823,7 +823,7 @@
    "tldr": "6.",
    "published": "2026-06-25T21:57:06.000Z",
    "dupes": 1,
-   "score": 0.222,
+   "score": 0.221,
    "tier": 3
   },
   {
@@ -838,7 +838,7 @@
    "tldr": "",
    "published": "2026-06-24T08:41:07.000Z",
    "dupes": 1,
-   "score": 0.202,
+   "score": 0.201,
    "tier": 3
   }
  ]
