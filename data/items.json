@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-28T20:49:09.625Z",
+ "generated": "2026-06-28T21:23:26.163Z",
  "items": [
   {
    "id": "8f1810cffc843241dbbd77f512ad37be06f61521",
@@ -16,7 +16,7 @@
     "model"
    ],
    "dupes": 5,
-   "score": 0.693,
+   "score": 0.687,
    "tier": 1
   },
   {
@@ -31,7 +31,22 @@
    "tldr": "",
    "published": "2026-06-28T16:35:19.000Z",
    "dupes": 1,
-   "score": 0.647,
+   "score": 0.641,
+   "tier": 2
+  },
+  {
+   "id": "6c80d7901ac0b421e439aee1b13699b6ee4bcc16",
+   "title": "GLM 5.2 beats Claude in our benchmarks",
+   "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks",
+   "source": "Hacker News",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-28T17:50:47.000Z",
+   "dupes": 1,
+   "score": 0.575,
    "tier": 2
   },
   {
@@ -46,22 +61,7 @@
    "tldr": "",
    "published": "2026-06-28T12:27:33.000Z",
    "dupes": 1,
-   "score": 0.574,
-   "tier": 2
-  },
-  {
-   "id": "6c80d7901ac0b421e439aee1b13699b6ee4bcc16",
-   "title": "Semgrep: GLM 5.2 beats Claude in our Cyber Benchmarks",
-   "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks",
-   "source": "Hacker News",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-28T17:50:47.000Z",
-   "dupes": 1,
-   "score": 0.554,
+   "score": 0.553,
    "tier": 2
   },
   {
@@ -77,7 +77,7 @@
    "tldr": "",
    "published": "2026-06-28T19:38:14.000Z",
    "dupes": 1,
-   "score": 0.543,
+   "score": 0.539,
    "tier": 2
   },
   {
@@ -92,7 +92,7 @@
    "tldr": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history.  To make their case, prosecutors turned to location data from his…",
    "published": "2026-06-28T14:12:06.000Z",
    "dupes": 1,
-   "score": 0.471,
+   "score": 0.465,
    "tier": 2
   },
   {
@@ -107,7 +107,7 @@
    "tldr": "",
    "published": "2026-06-28T09:19:07.000Z",
    "dupes": 1,
-   "score": 0.421,
+   "score": 0.415,
    "tier": 2
   },
   {
@@ -125,7 +125,7 @@
     "model"
    ],
    "dupes": 3,
-   "score": 0.41,
+   "score": 0.409,
    "tier": 2
   },
   {
@@ -170,7 +170,7 @@
    "tldr": "Machine Intelligence",
    "published": "2026-06-26T18:30:00.000Z",
    "dupes": 1,
-   "score": 0.325,
+   "score": 0.324,
    "tier": 2
   },
   {
@@ -185,7 +185,7 @@
    "tldr": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
    "published": "2026-06-25T02:00:00.000Z",
    "dupes": 1,
-   "score": 0.311,
+   "score": 0.31,
    "tier": 2
   },
   {
@@ -219,21 +219,6 @@
    "tier": 3
   },
   {
-   "id": "6507bbb3977767d18fbdd1e2dbdfa5d1eded2ec6",
-   "title": "Helping build shared standards for advanced AI",
-   "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
-   "published": "2026-06-23T13:00:00.000Z",
-   "dupes": 1,
-   "score": 0.303,
-   "tier": 3
-  },
-  {
    "id": "7c36fb32c6285fc2a72a693371c03b5a52f25c8f",
    "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
    "url": "https://openai.com/index/gpt-5-immunology-mystery",
@@ -246,6 +231,21 @@
    "published": "2026-06-23T17:00:00.000Z",
    "dupes": 1,
    "score": 0.303,
+   "tier": 3
+  },
+  {
+   "id": "6507bbb3977767d18fbdd1e2dbdfa5d1eded2ec6",
+   "title": "Helping build shared standards for advanced AI",
+   "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+   "published": "2026-06-23T13:00:00.000Z",
+   "dupes": 1,
+   "score": 0.302,
    "tier": 3
   },
   {
@@ -338,7 +338,7 @@
    "tldr": "See Tom Shaw's perspective on the infrastructure and technology inside one of Meta's data centers.  The post Inside One of Meta’s Data Centers appeared first on Meta Newsroom .",
    "published": "2026-06-26T18:28:26.000Z",
    "dupes": 1,
-   "score": 0.3,
+   "score": 0.299,
    "tier": 3
   },
   {
@@ -411,7 +411,7 @@
    "tldr": "Researchers introduce generative causal testing, which translates black box models into clear hypotheses and verifies them in the scanner, revealing what specific brain regions respond to in language.  The post…",
    "published": "2026-06-25T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.281,
+   "score": 0.28,
    "tier": 3
   },
   {
@@ -424,7 +424,7 @@
    "tldr": "",
    "published": "2026-06-25T16:11:42.000Z",
    "dupes": 1,
-   "score": 0.281,
+   "score": 0.28,
    "tier": 3
   },
   {
@@ -454,7 +454,7 @@
    "tldr": "Editor’s note: This post is part of the Nemotron Labs blog series, which explores how the latest open models, datasets and training techniques help businesses build specialized AI systems and applications on NVIDIA…",
    "published": "2026-06-23T13:00:07.000Z",
    "dupes": 1,
-   "score": 0.278,
+   "score": 0.277,
    "tier": 3
   },
   {
@@ -676,6 +676,19 @@
    "tier": 3
   },
   {
+   "id": "d1c7fe87ce16567d226c5de1ae7a74704ed432c0",
+   "title": "We got local models to triage the OpenClaw repo for FREE!*",
+   "url": "https://huggingface.co/blog/local-models-pr-triage",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-22T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.263,
+   "tier": 3
+  },
+  {
    "id": "9553ff58439c6bd6c079a4f59ac7a2091cfabc7f",
    "title": "Anthropic’s Mythos 5 is back",
    "url": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
@@ -687,20 +700,7 @@
    "tldr": "After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organizations, according…",
    "published": "2026-06-27T00:33:44.000Z",
    "dupes": 1,
-   "score": 0.264,
-   "tier": 3
-  },
-  {
-   "id": "d1c7fe87ce16567d226c5de1ae7a74704ed432c0",
-   "title": "We got local models to triage the OpenClaw repo for FREE!*",
-   "url": "https://huggingface.co/blog/local-models-pr-triage",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-22T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.263,
+   "score": 0.262,
    "tier": 3
   },
   {
@@ -730,7 +730,7 @@
    "tldr": "Meta's Small Business Growth Academy will provide practical AI tools, advertising, and cross-border growth training to help small businesses scale across Asia-Pacific.  The post Launch of Meta’s Small Business Growth…",
    "published": "2026-06-23T13:00:09.000Z",
    "dupes": 1,
-   "score": 0.253,
+   "score": 0.252,
    "tier": 3
   },
   {
@@ -778,7 +778,7 @@
    "tldr": "6, is here.",
    "published": "2026-06-26T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.248,
+   "score": 0.247,
    "tier": 3
   },
   {
@@ -793,7 +793,7 @@
    "tldr": "It's been two weeks since Anthropic took its Mythos-class models offline after a Friday evening ultimatum from the Trump administration.  The company sprang into action immediately, sending a barrage of executives to…",
    "published": "2026-06-26T14:07:03.000Z",
    "dupes": 1,
-   "score": 0.243,
+   "score": 0.242,
    "tier": 3
   },
   {
@@ -808,7 +808,7 @@
    "tldr": "6.",
    "published": "2026-06-25T21:57:06.000Z",
    "dupes": 1,
-   "score": 0.223,
+   "score": 0.222,
    "tier": 3
   },
   {
@@ -823,7 +823,7 @@
    "tldr": "",
    "published": "2026-06-24T08:41:07.000Z",
    "dupes": 1,
-   "score": 0.205,
+   "score": 0.203,
    "tier": 3
   }
  ]
