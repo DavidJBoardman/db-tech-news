@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-28T17:52:34.019Z",
+ "generated": "2026-06-28T18:24:21.362Z",
  "items": [
   {
    "id": "8f1810cffc843241dbbd77f512ad37be06f61521",
@@ -16,8 +16,23 @@
     "model"
    ],
    "dupes": 5,
-   "score": 0.723,
+   "score": 0.718,
    "tier": 1
+  },
+  {
+   "id": "064435cfcb3bff354ddb447d811396ce07713668",
+   "title": "I used Claude Code to get a second opinion on my MRI",
+   "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+   "source": "Hacker News",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-28T16:35:19.000Z",
+   "dupes": 1,
+   "score": 0.637,
+   "tier": 2
   },
   {
    "id": "6154952d129514b4365e76b2b240ddd8484f9eea",
@@ -31,7 +46,7 @@
    "tldr": "",
    "published": "2026-06-28T12:27:33.000Z",
    "dupes": 1,
-   "score": 0.634,
+   "score": 0.628,
    "tier": 2
   },
   {
@@ -47,22 +62,7 @@
    "tldr": "",
    "published": "2026-06-28T13:30:06.000Z",
    "dupes": 1,
-   "score": 0.624,
-   "tier": 2
-  },
-  {
-   "id": "064435cfcb3bff354ddb447d811396ce07713668",
-   "title": "I used Claude Code to get a second opinion on my MRI",
-   "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
-   "source": "Hacker News",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-28T16:35:19.000Z",
-   "dupes": 1,
-   "score": 0.591,
+   "score": 0.62,
    "tier": 2
   },
   {
@@ -77,7 +77,7 @@
    "tldr": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history.  To make their case, prosecutors turned to location data from his…",
    "published": "2026-06-28T14:12:06.000Z",
    "dupes": 1,
-   "score": 0.504,
+   "score": 0.498,
    "tier": 2
   },
   {
@@ -92,7 +92,7 @@
    "tldr": "",
    "published": "2026-06-28T09:19:07.000Z",
    "dupes": 1,
-   "score": 0.452,
+   "score": 0.446,
    "tier": 2
   },
   {
@@ -110,7 +110,7 @@
     "model"
    ],
    "dupes": 3,
-   "score": 0.414,
+   "score": 0.413,
    "tier": 2
   },
   {
@@ -140,7 +140,7 @@
    "tldr": "6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
    "published": "2026-06-26T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.341,
+   "score": 0.34,
    "tier": 2
   },
   {
@@ -155,7 +155,7 @@
    "tldr": "Machine Intelligence",
    "published": "2026-06-26T18:30:00.000Z",
    "dupes": 1,
-   "score": 0.331,
+   "score": 0.33,
    "tier": 2
   },
   {
@@ -189,21 +189,6 @@
    "tier": 2
   },
   {
-   "id": "2a7847de28601b737a79a8223ac9de5871394ee9",
-   "title": "Inside One of Meta’s Data Centers",
-   "url": "https://about.fb.com/news/2026/06/inside-meta-data-center",
-   "source": "Meta Newsroom",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "See Tom Shaw's perspective on the infrastructure and technology inside one of Meta's data centers.  The post Inside One of Meta’s Data Centers appeared first on Meta Newsroom .",
-   "published": "2026-06-26T18:28:26.000Z",
-   "dupes": 1,
-   "score": 0.306,
-   "tier": 2
-  },
-  {
    "id": "1a015f5dfa42958d5d31376f9d87f1e17d54017f",
    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
    "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
@@ -214,6 +199,21 @@
    "topic": "compute",
    "tldr": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
    "published": "2026-06-24T06:00:00.000Z",
+   "dupes": 1,
+   "score": 0.305,
+   "tier": 2
+  },
+  {
+   "id": "2a7847de28601b737a79a8223ac9de5871394ee9",
+   "title": "Inside One of Meta’s Data Centers",
+   "url": "https://about.fb.com/news/2026/06/inside-meta-data-center",
+   "source": "Meta Newsroom",
+   "org": [
+    "meta"
+   ],
+   "topic": "ai",
+   "tldr": "See Tom Shaw's perspective on the infrastructure and technology inside one of Meta's data centers.  The post Inside One of Meta’s Data Centers appeared first on Meta Newsroom .",
+   "published": "2026-06-26T18:28:26.000Z",
    "dupes": 1,
    "score": 0.305,
    "tier": 3
@@ -385,6 +385,19 @@
    "tier": 3
   },
   {
+   "id": "04bd48744b58f91b4b4c38e365eef5ffe03e9092",
+   "title": "Which tokens does a hybrid model predict better?",
+   "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-25T16:11:42.000Z",
+   "dupes": 1,
+   "score": 0.283,
+   "tier": 3
+  },
+  {
    "id": "68af68aaff7a99f624be7dfbba8b03763d9814b2",
    "title": "Understanding the brain with AI-driven explanations and experiments",
    "url": "https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments",
@@ -396,20 +409,7 @@
    "tldr": "Researchers introduce generative causal testing, which translates black box models into clear hypotheses and verifies them in the scanner, revealing what specific brain regions respond to in language.  The post…",
    "published": "2026-06-25T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.283,
-   "tier": 3
-  },
-  {
-   "id": "04bd48744b58f91b4b4c38e365eef5ffe03e9092",
-   "title": "Which tokens does a hybrid model predict better?",
-   "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-25T16:11:42.000Z",
-   "dupes": 1,
-   "score": 0.283,
+   "score": 0.282,
    "tier": 3
   },
   {
@@ -506,21 +506,6 @@
    "tier": 3
   },
   {
-   "id": "3b7b3174538915c6e07ec7ffa0756030025cf599",
-   "title": "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
-   "url": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Mission, Vision and Veritas — new Los Alamos National Laboratory (LANL) supercomputers to be built with HPE and NVIDIA — are tapping NVIDIA Vera CPUs to accelerate scientific discovery, unlocking agentic AI for science.",
-   "published": "2026-06-22T13:00:20.000Z",
-   "dupes": 1,
-   "score": 0.276,
-   "tier": 3
-  },
-  {
    "id": "71966ba95af1445456b8bd5a973338b7a6c21e72",
    "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries",
    "url": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda",
@@ -530,6 +515,21 @@
    ],
    "topic": "compute",
    "tldr": "At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter.",
+   "published": "2026-06-22T13:00:20.000Z",
+   "dupes": 1,
+   "score": 0.276,
+   "tier": 3
+  },
+  {
+   "id": "3b7b3174538915c6e07ec7ffa0756030025cf599",
+   "title": "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
+   "url": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Mission, Vision and Veritas — new Los Alamos National Laboratory (LANL) supercomputers to be built with HPE and NVIDIA — are tapping NVIDIA Vera CPUs to accelerate scientific discovery, unlocking agentic AI for science.",
    "published": "2026-06-22T13:00:20.000Z",
    "dupes": 1,
    "score": 0.276,
@@ -566,6 +566,21 @@
    "tier": 3
   },
   {
+   "id": "5a4339fe0f44f99c0f392dab3702e278a35682a8",
+   "title": "Talos: Scaling rare disease diagnosis with automated, iterative genomic reanalysis",
+   "url": "https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis",
+   "source": "Microsoft Research",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "Talos was built to help resolve a major bottleneck in genomic medicine: human review time.  3 candidate variants per patient for expert review.",
+   "published": "2026-06-24T14:00:14.000Z",
+   "dupes": 1,
+   "score": 0.27,
+   "tier": 3
+  },
+  {
    "id": "9662972e681ea5f106bc385b1a0945ae79c26803",
    "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
    "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
@@ -577,7 +592,7 @@
    "tldr": "",
    "published": "2026-06-24T16:00:13.000Z",
    "dupes": 1,
-   "score": 0.271,
+   "score": 0.27,
    "tier": 3
   },
   {
@@ -591,21 +606,6 @@
    "topic": "ai",
    "tldr": "After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organizations, according…",
    "published": "2026-06-27T00:33:44.000Z",
-   "dupes": 1,
-   "score": 0.271,
-   "tier": 3
-  },
-  {
-   "id": "5a4339fe0f44f99c0f392dab3702e278a35682a8",
-   "title": "Talos: Scaling rare disease diagnosis with automated, iterative genomic reanalysis",
-   "url": "https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis",
-   "source": "Microsoft Research",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "Talos was built to help resolve a major bottleneck in genomic medicine: human review time.  3 candidate variants per patient for expert review.",
-   "published": "2026-06-24T14:00:14.000Z",
    "dupes": 1,
    "score": 0.27,
    "tier": 3
@@ -730,7 +730,7 @@
    "tldr": "6, is here.",
    "published": "2026-06-26T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.253,
+   "score": 0.252,
    "tier": 3
   },
   {
@@ -778,7 +778,7 @@
    "tldr": "It's been two weeks since Anthropic took its Mythos-class models offline after a Friday evening ultimatum from the Trump administration.  The company sprang into action immediately, sending a barrage of executives to…",
    "published": "2026-06-26T14:07:03.000Z",
    "dupes": 1,
-   "score": 0.248,
+   "score": 0.247,
    "tier": 3
   },
   {
@@ -793,7 +793,7 @@
    "tldr": "6.",
    "published": "2026-06-25T21:57:06.000Z",
    "dupes": 1,
-   "score": 0.226,
+   "score": 0.225,
    "tier": 3
   },
   {
@@ -808,7 +808,7 @@
    "tldr": "",
    "published": "2026-06-24T08:41:07.000Z",
    "dupes": 1,
-   "score": 0.212,
+   "score": 0.211,
    "tier": 3
   }
  ]
