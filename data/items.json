@@ -1,6 +1,36 @@
 {
- "generated": "2026-06-29T09:08:19.077Z",
+ "generated": "2026-06-29T11:14:38.472Z",
  "items": [
+  {
+   "id": "6d6cc79988d3a92289496e21797add8a8f900f5b",
+   "title": "Open Models, Closed Environments: Palantir Brings Secure AI to US Agencies With NVIDIA Nemotron",
+   "url": "https://blogs.nvidia.com/blog/palantir-secure-ai-us-agencies-nemotron-open-models",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "S.  government agencies.",
+   "published": "2026-06-29T10:59:38.000Z",
+   "dupes": 1,
+   "score": 0.622,
+   "tier": 1
+  },
+  {
+   "id": "5b79476b114204dfe57ef8bf97ddea09c2e8f24d",
+   "title": "Mapping Europe’s AI Workforce Opportunity",
+   "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+   "published": "2026-06-29T07:00:00.000Z",
+   "dupes": 1,
+   "score": 0.597,
+   "tier": 2
+  },
   {
    "id": "8f1810cffc843241dbbd77f512ad37be06f61521",
    "title": "New model on Hugging Face: deepseek-ai/eagle3_gemma4_12b_ttt7",
@@ -16,8 +46,23 @@
     "model"
    ],
    "dupes": 5,
-   "score": 0.596,
-   "tier": 1
+   "score": 0.584,
+   "tier": 2
+  },
+  {
+   "id": "58d42ed96cb0b198d239a7690d649563a1754e54",
+   "title": "Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped",
+   "url": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it",
+   "source": "Hacker News",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-29T09:28:08.000Z",
+   "dupes": 1,
+   "score": 0.558,
+   "tier": 2
   },
   {
    "id": "6c80d7901ac0b421e439aee1b13699b6ee4bcc16",
@@ -31,20 +76,7 @@
    "tldr": "",
    "published": "2026-06-28T17:50:47.000Z",
    "dupes": 1,
-   "score": 0.544,
-   "tier": 2
-  },
-  {
-   "id": "2cd42b0012fd683a90fd4b35d777719d0df79e07",
-   "title": "US Grid Constraints: Towards 40GW+ of Behind-the-Meter Datacenter by 2028?",
-   "url": "https://newsletter.semianalysis.com/p/us-grid-constraints-towards-40gw",
-   "source": "Hacker News",
-   "org": [],
-   "topic": "compute",
-   "tldr": "",
-   "published": "2026-06-29T07:36:08.000Z",
-   "dupes": 1,
-   "score": 0.533,
+   "score": 0.529,
    "tier": 2
   },
   {
@@ -59,7 +91,7 @@
    "tldr": "HP Inc.  scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
    "published": "2026-06-28T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.488,
+   "score": 0.473,
    "tier": 2
   },
   {
@@ -74,7 +106,7 @@
    "tldr": "",
    "published": "2026-06-28T16:35:19.000Z",
    "dupes": 1,
-   "score": 0.463,
+   "score": 0.447,
    "tier": 2
   },
   {
@@ -89,7 +121,7 @@
    "tldr": "2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios.",
    "published": "2026-06-28T21:42:51.000Z",
    "dupes": 1,
-   "score": 0.425,
+   "score": 0.408,
    "tier": 2
   },
   {
@@ -107,7 +139,7 @@
     "model"
    ],
    "dupes": 3,
-   "score": 0.397,
+   "score": 0.395,
    "tier": 2
   },
   {
@@ -122,22 +154,7 @@
    "tldr": "",
    "published": "2026-06-28T12:27:33.000Z",
    "dupes": 1,
-   "score": 0.395,
-   "tier": 2
-  },
-  {
-   "id": "73d77834b60f643588bc7b6ee8227177f32b895f",
-   "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history.  To make their case, prosecutors turned to location data from his…",
-   "published": "2026-06-28T14:12:06.000Z",
-   "dupes": 1,
-   "score": 0.369,
+   "score": 0.381,
    "tier": 2
   },
   {
@@ -156,18 +173,18 @@
    "tier": 2
   },
   {
-   "id": "8bb8628ac41761912a96bccffd4de247b6587b9d",
-   "title": "Grok Is More Important Than Clean Air, DOJ Says",
-   "url": "https://www.motherjones.com/environment/2026/06/grok-doj-justice-naacp-clean-air-act-gas-turbine-pollution-national-security-ai",
-   "source": "HN · xAI",
+   "id": "73d77834b60f643588bc7b6ee8227177f32b895f",
+   "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
+   "source": "The Verge AI",
    "org": [
-    "xai"
+    "openai"
    ],
    "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-28T09:19:07.000Z",
+   "tldr": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history.  To make their case, prosecutors turned to location data from his…",
+   "published": "2026-06-28T14:12:06.000Z",
    "dupes": 1,
-   "score": 0.33,
+   "score": 0.356,
    "tier": 2
   },
   {
@@ -182,8 +199,23 @@
    "tldr": "6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
    "published": "2026-06-26T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.323,
+   "score": 0.321,
    "tier": 2
+  },
+  {
+   "id": "8bb8628ac41761912a96bccffd4de247b6587b9d",
+   "title": "Grok Is More Important Than Clean Air, DOJ Says",
+   "url": "https://www.motherjones.com/environment/2026/06/grok-doj-justice-naacp-clean-air-act-gas-turbine-pollution-national-security-ai",
+   "source": "HN · xAI",
+   "org": [
+    "xai"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-28T09:19:07.000Z",
+   "dupes": 1,
+   "score": 0.319,
+   "tier": 3
   },
   {
    "id": "2b6976f96bb5f02f36377dd0116bc3386395b79e",
@@ -196,21 +228,6 @@
    "topic": "ai",
    "tldr": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
    "published": "2026-06-25T02:00:00.000Z",
-   "dupes": 1,
-   "score": 0.307,
-   "tier": 2
-  },
-  {
-   "id": "2df25c7e91d9527a9c2244c1d0ec21ba9d28743f",
-   "title": "Accelerating Gemini Nano models on Pixel with frozen Multi-Token Prediction",
-   "url": "https://research.google/blog/accelerating-gemini-nano-models-on-pixel-with-frozen-multi-token-prediction",
-   "source": "Google Research",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Machine Intelligence",
-   "published": "2026-06-26T18:30:00.000Z",
    "dupes": 1,
    "score": 0.306,
    "tier": 3
@@ -227,7 +244,22 @@
    "tldr": "",
    "published": "2026-06-24T16:30:01.000Z",
    "dupes": 1,
-   "score": 0.305,
+   "score": 0.304,
+   "tier": 3
+  },
+  {
+   "id": "2df25c7e91d9527a9c2244c1d0ec21ba9d28743f",
+   "title": "Accelerating Gemini Nano models on Pixel with frozen Multi-Token Prediction",
+   "url": "https://research.google/blog/accelerating-gemini-nano-models-on-pixel-with-frozen-multi-token-prediction",
+   "source": "Google Research",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Machine Intelligence",
+   "published": "2026-06-26T18:30:00.000Z",
+   "dupes": 1,
+   "score": 0.304,
    "tier": 3
   },
   {
@@ -246,21 +278,6 @@
    "tier": 3
   },
   {
-   "id": "6507bbb3977767d18fbdd1e2dbdfa5d1eded2ec6",
-   "title": "Helping build shared standards for advanced AI",
-   "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
-   "published": "2026-06-23T13:00:00.000Z",
-   "dupes": 1,
-   "score": 0.302,
-   "tier": 3
-  },
-  {
    "id": "7c36fb32c6285fc2a72a693371c03b5a52f25c8f",
    "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
    "url": "https://openai.com/index/gpt-5-immunology-mystery",
@@ -273,6 +290,21 @@
    "published": "2026-06-23T17:00:00.000Z",
    "dupes": 1,
    "score": 0.302,
+   "tier": 3
+  },
+  {
+   "id": "6507bbb3977767d18fbdd1e2dbdfa5d1eded2ec6",
+   "title": "Helping build shared standards for advanced AI",
+   "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+   "published": "2026-06-23T13:00:00.000Z",
+   "dupes": 1,
+   "score": 0.301,
    "tier": 3
   },
   {
@@ -291,39 +323,6 @@
    "tier": 3
   },
   {
-   "id": "f0ab1740b8b7f5b3f7439029864e8548fd6819be",
-   "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-   "url": "https://openai.com/index/patch-the-planet",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
-   "published": "2026-06-22T10:00:00.000Z",
-   "badges": [
-    "oss"
-   ],
-   "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
-   "id": "f7e9d38ae7326e724cd3dd4ce89afcce1e11f14f",
-   "title": "Daybreak: Tools for securing every organization in the world",
-   "url": "https://openai.com/index/daybreak-securing-the-world",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
-   "published": "2026-06-22T10:00:00.000Z",
-   "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
    "id": "ebf15ba28e0a317673289ad8f93cca38b8e30be7",
    "title": "The Ultimate Summer Sale Pairing: Steam Sale Meets GeForce NOW Discounts",
    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-steam-summer-sale-2026",
@@ -335,7 +334,7 @@
    "tldr": "Summer savings are heating up.  From the Steam Summer Sale to GeForce NOW membership discounts, this week’s GFN Thursday delivers double the deals and more ways to get the most value from cloud gaming.",
    "published": "2026-06-25T13:00:34.000Z",
    "dupes": 1,
-   "score": 0.285,
+   "score": 0.284,
    "tier": 3
   },
   {
@@ -350,22 +349,7 @@
    "tldr": "Algorithms & Theory",
    "published": "2026-06-25T10:03:00.000Z",
    "dupes": 1,
-   "score": 0.284,
-   "tier": 3
-  },
-  {
-   "id": "2a7847de28601b737a79a8223ac9de5871394ee9",
-   "title": "Inside One of Meta’s Data Centers",
-   "url": "https://about.fb.com/news/2026/06/inside-meta-data-center",
-   "source": "Meta Newsroom",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "See Tom Shaw's perspective on the infrastructure and technology inside one of Meta's data centers.  The post Inside One of Meta’s Data Centers appeared first on Meta Newsroom .",
-   "published": "2026-06-26T18:28:26.000Z",
-   "dupes": 1,
-   "score": 0.281,
+   "score": 0.283,
    "tier": 3
   },
   {
@@ -380,20 +364,22 @@
    "tldr": "Generative AI",
    "published": "2026-06-24T16:51:52.000Z",
    "dupes": 1,
-   "score": 0.28,
+   "score": 0.279,
    "tier": 3
   },
   {
-   "id": "7f1a19cb84580aa11636c9a996cad4fb5bffdb50",
-   "title": "Run a vLLM Server on HF Jobs in One Command",
-   "url": "https://huggingface.co/blog/vllm-jobs",
-   "source": "Hugging Face Blog",
-   "org": [],
+   "id": "2a7847de28601b737a79a8223ac9de5871394ee9",
+   "title": "Inside One of Meta’s Data Centers",
+   "url": "https://about.fb.com/news/2026/06/inside-meta-data-center",
+   "source": "Meta Newsroom",
+   "org": [
+    "meta"
+   ],
    "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-26T00:00:00.000Z",
+   "tldr": "See Tom Shaw's perspective on the infrastructure and technology inside one of Meta's data centers.  The post Inside One of Meta’s Data Centers appeared first on Meta Newsroom .",
+   "published": "2026-06-26T18:28:26.000Z",
    "dupes": 1,
-   "score": 0.278,
+   "score": 0.279,
    "tier": 3
   },
   {
@@ -412,6 +398,19 @@
    "tier": 3
   },
   {
+   "id": "7f1a19cb84580aa11636c9a996cad4fb5bffdb50",
+   "title": "Run a vLLM Server on HF Jobs in One Command",
+   "url": "https://huggingface.co/blog/vllm-jobs",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-26T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.277,
+   "tier": 3
+  },
+  {
    "id": "fb695c7649535e91ffec89c570d58a31bf4fceb5",
    "title": "How Businesses Are Building Specialized AI They Can Trust",
    "url": "https://blogs.nvidia.com/blog/nvidia-agent-toolkit-open-models-tools-skills-secure-runtime-ai-agents",
@@ -423,7 +422,7 @@
    "tldr": "Editor’s note: This post is part of the Nemotron Labs blog series, which explores how the latest open models, datasets and training techniques help businesses build specialized AI systems and applications on NVIDIA…",
    "published": "2026-06-23T13:00:07.000Z",
    "dupes": 1,
-   "score": 0.277,
+   "score": 0.276,
    "tier": 3
   },
   {
@@ -546,7 +545,7 @@
    "tldr": "Researchers introduce generative causal testing, which translates black box models into clear hypotheses and verifies them in the scanner, revealing what specific brain regions respond to in language.  The post…",
    "published": "2026-06-25T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.274,
+   "score": 0.273,
    "tier": 3
   },
   {
@@ -559,22 +558,7 @@
    "tldr": "",
    "published": "2026-06-25T16:11:42.000Z",
    "dupes": 1,
-   "score": 0.274,
-   "tier": 3
-  },
-  {
-   "id": "5a4339fe0f44f99c0f392dab3702e278a35682a8",
-   "title": "Talos: Scaling rare disease diagnosis with automated, iterative genomic reanalysis",
-   "url": "https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis",
-   "source": "Microsoft Research",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "Talos was built to help resolve a major bottleneck in genomic medicine: human review time.  3 candidate variants per patient for expert review.",
-   "published": "2026-06-24T14:00:14.000Z",
-   "dupes": 1,
-   "score": 0.267,
+   "score": 0.273,
    "tier": 3
   },
   {
@@ -590,6 +574,21 @@
    "published": "2026-06-24T16:00:13.000Z",
    "dupes": 1,
    "score": 0.267,
+   "tier": 3
+  },
+  {
+   "id": "5a4339fe0f44f99c0f392dab3702e278a35682a8",
+   "title": "Talos: Scaling rare disease diagnosis with automated, iterative genomic reanalysis",
+   "url": "https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis",
+   "source": "Microsoft Research",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "Talos was built to help resolve a major bottleneck in genomic medicine: human review time.  3 candidate variants per patient for expert review.",
+   "published": "2026-06-24T14:00:14.000Z",
+   "dupes": 1,
+   "score": 0.266,
    "tier": 3
   },
   {
@@ -673,21 +672,6 @@
    "tier": 3
   },
   {
-   "id": "5d8404803c390543c5c506c23ed212236d05dfa9",
-   "title": "Launch of Meta’s Small Business Growth Academy Across Asia-Pacific to Boost AI Adoption and Digital Skills",
-   "url": "https://about.fb.com/news/2026/06/launch-of-metas-small-business-growth-academy-across-asia-pacific",
-   "source": "Meta Newsroom",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "Meta's Small Business Growth Academy will provide practical AI tools, advertising, and cross-border growth training to help small businesses scale across Asia-Pacific.  The post Launch of Meta’s Small Business Growth…",
-   "published": "2026-06-23T13:00:09.000Z",
-   "dupes": 1,
-   "score": 0.252,
-   "tier": 3
-  },
-  {
    "id": "356b4a85a4c2aab6073eaaa2350649eb27e43b35",
    "title": "Powering the next wave of AI: Expanding capacity with our new datacenter in Pecos",
    "url": "https://blogs.microsoft.com/blog/2026/06/22/powering-the-next-wave-of-ai-expanding-capacity-with-our-new-datacenter-in-pecos",
@@ -698,6 +682,21 @@
    "topic": "compute",
    "tldr": "Today, Microsoft is announcing one of the largest single capacity additions in our history.  In Pecos, Texas, we will build a new datacenter campus, expanding our global datacenter capacity by approximately 2 gigawatts…",
    "published": "2026-06-22T12:06:39.000Z",
+   "dupes": 1,
+   "score": 0.251,
+   "tier": 3
+  },
+  {
+   "id": "5d8404803c390543c5c506c23ed212236d05dfa9",
+   "title": "Launch of Meta’s Small Business Growth Academy Across Asia-Pacific to Boost AI Adoption and Digital Skills",
+   "url": "https://about.fb.com/news/2026/06/launch-of-metas-small-business-growth-academy-across-asia-pacific",
+   "source": "Meta Newsroom",
+   "org": [
+    "meta"
+   ],
+   "topic": "ai",
+   "tldr": "Meta's Small Business Growth Academy will provide practical AI tools, advertising, and cross-border growth training to help small businesses scale across Asia-Pacific.  The post Launch of Meta’s Small Business Growth…",
+   "published": "2026-06-23T13:00:09.000Z",
    "dupes": 1,
    "score": 0.251,
    "tier": 3
@@ -732,7 +731,7 @@
    "tldr": "After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organizations, according…",
    "published": "2026-06-27T00:33:44.000Z",
    "dupes": 1,
-   "score": 0.24,
+   "score": 0.237,
    "tier": 3
   },
   {
@@ -747,7 +746,7 @@
    "tldr": "6, is here.",
    "published": "2026-06-26T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.23,
+   "score": 0.227,
    "tier": 3
   },
   {
@@ -762,7 +761,7 @@
    "tldr": "It's been two weeks since Anthropic took its Mythos-class models offline after a Friday evening ultimatum from the Trump administration.  The company sprang into action immediately, sending a barrage of executives to…",
    "published": "2026-06-26T14:07:03.000Z",
    "dupes": 1,
-   "score": 0.226,
+   "score": 0.224,
    "tier": 3
   },
   {
@@ -777,7 +776,7 @@
    "tldr": "6.",
    "published": "2026-06-25T21:57:06.000Z",
    "dupes": 1,
-   "score": 0.214,
+   "score": 0.213,
    "tier": 3
   }
  ]
