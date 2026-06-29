@@ -1,19 +1,6 @@
 {
- "generated": "2026-06-29T18:14:14.327Z",
+ "generated": "2026-06-29T19:11:40.734Z",
  "items": [
-  {
-   "id": "91d16542fa1f3b29004be7a620e044f108cb8232",
-   "title": "DiScoFormer: One transformer for density and score, across distributions",
-   "url": "https://huggingface.co/blog/allenai/discoformer",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-29T18:02:48.000Z",
-   "dupes": 1,
-   "score": 0.61,
-   "tier": 1
-  },
   {
    "id": "f2ff417016790f1657c073e93fea4b61163cd3aa",
    "title": "Claude Meets Blackwell Ultra: Anthropic’s Models Now Run on NVIDIA GB300 in Azure",
@@ -28,7 +15,20 @@
    "tldr": "Anthropic’s Claude models in Microsoft Foundry — hosted on Microsoft Azure and running on NVIDIA GB300 Blackwell Ultra GPUs — are now generally available, giving Azure-native enterprises a powerful new way to build…",
    "published": "2026-06-29T17:00:19.000Z",
    "dupes": 1,
-   "score": 0.609,
+   "score": 0.597,
+   "tier": 1
+  },
+  {
+   "id": "91d16542fa1f3b29004be7a620e044f108cb8232",
+   "title": "DiScoFormer: One transformer for density and score, across distributions",
+   "url": "https://huggingface.co/blog/allenai/discoformer",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-29T18:02:48.000Z",
+   "dupes": 1,
+   "score": 0.597,
    "tier": 2
   },
   {
@@ -43,7 +43,7 @@
    "tldr": "",
    "published": "2026-06-29T09:28:08.000Z",
    "dupes": 1,
-   "score": 0.6,
+   "score": 0.591,
    "tier": 2
   },
   {
@@ -58,7 +58,7 @@
    "tldr": "",
    "published": "2026-06-29T15:00:04.000Z",
    "dupes": 1,
-   "score": 0.584,
+   "score": 0.573,
    "tier": 2
   },
   {
@@ -73,7 +73,22 @@
    "tldr": "",
    "published": "2026-06-29T17:05:16.000Z",
    "dupes": 1,
-   "score": 0.561,
+   "score": 0.567,
+   "tier": 2
+  },
+  {
+   "id": "811accb0367acfcabacfd5dc8483b8f9a8c25d0b",
+   "title": "OpenAI is teasing new hardware… for Codex",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
+   "source": "The Verge AI",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI is releasing some sort of device related to its AI-powered coding tool, Codex, on July 15th.",
+   "published": "2026-06-29T18:52:03.000Z",
+   "dupes": 1,
+   "score": 0.546,
    "tier": 2
   },
   {
@@ -91,7 +106,7 @@
     "model"
    ],
    "dupes": 5,
-   "score": 0.549,
+   "score": 0.545,
    "tier": 2
   },
   {
@@ -106,7 +121,7 @@
    "tldr": "S.  government agencies.",
    "published": "2026-06-29T10:59:38.000Z",
    "dupes": 1,
-   "score": 0.54,
+   "score": 0.53,
    "tier": 2
   },
   {
@@ -121,7 +136,7 @@
    "tldr": "",
    "published": "2026-06-29T13:26:35.000Z",
    "dupes": 1,
-   "score": 0.534,
+   "score": 0.526,
    "tier": 2
   },
   {
@@ -136,7 +151,7 @@
    "tldr": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
    "published": "2026-06-29T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.527,
+   "score": 0.519,
    "tier": 2
   },
   {
@@ -151,7 +166,7 @@
    "tldr": "",
    "published": "2026-06-29T13:11:08.000Z",
    "dupes": 1,
-   "score": 0.514,
+   "score": 0.507,
    "tier": 2
   },
   {
@@ -166,7 +181,7 @@
    "tldr": "",
    "published": "2026-06-29T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.473,
+   "score": 0.467,
    "tier": 2
   },
   {
@@ -181,7 +196,7 @@
    "tldr": "",
    "published": "2026-06-29T11:29:14.000Z",
    "dupes": 1,
-   "score": 0.464,
+   "score": 0.455,
    "tier": 2
   },
   {
@@ -196,8 +211,8 @@
    "tldr": "HP Inc.  scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
    "published": "2026-06-28T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.432,
-   "tier": 2
+   "score": 0.428,
+   "tier": 3
   },
   {
    "id": "7e4f4c7efc6aad046afc191622fe21ed0c6335aa",
@@ -244,22 +259,7 @@
    "tldr": "2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios.",
    "published": "2026-06-28T21:42:51.000Z",
    "dupes": 1,
-   "score": 0.359,
-   "tier": 3
-  },
-  {
-   "id": "73d77834b60f643588bc7b6ee8227177f32b895f",
-   "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history.  To make their case, prosecutors turned to location data from his…",
-   "published": "2026-06-28T14:12:06.000Z",
-   "dupes": 1,
-   "score": 0.319,
+   "score": 0.353,
    "tier": 3
   },
   {
@@ -274,7 +274,22 @@
    "tldr": "6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
    "published": "2026-06-26T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.316,
+   "score": 0.315,
+   "tier": 3
+  },
+  {
+   "id": "73d77834b60f643588bc7b6ee8227177f32b895f",
+   "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
+   "source": "The Verge AI",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history.  To make their case, prosecutors turned to location data from his…",
+   "published": "2026-06-28T14:12:06.000Z",
+   "dupes": 1,
+   "score": 0.315,
    "tier": 3
   },
   {
@@ -289,7 +304,7 @@
    "tldr": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
    "published": "2026-06-25T02:00:00.000Z",
    "dupes": 1,
-   "score": 0.305,
+   "score": 0.304,
    "tier": 3
   },
   {
@@ -379,7 +394,7 @@
    "tldr": "Machine Intelligence",
    "published": "2026-06-26T18:30:00.000Z",
    "dupes": 1,
-   "score": 0.297,
+   "score": 0.296,
    "tier": 3
   },
   {
@@ -394,7 +409,7 @@
    "tldr": "",
    "published": "2026-06-28T09:19:07.000Z",
    "dupes": 1,
-   "score": 0.288,
+   "score": 0.285,
    "tier": 3
   },
   {
@@ -527,7 +542,7 @@
    "tldr": "See Tom Shaw's perspective on the infrastructure and technology inside one of Meta's data centers.  The post Inside One of Meta’s Data Centers appeared first on Meta Newsroom .",
    "published": "2026-06-26T18:28:26.000Z",
    "dupes": 1,
-   "score": 0.272,
+   "score": 0.271,
    "tier": 3
   },
   {
@@ -669,7 +684,7 @@
    "tldr": "After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organizations, according…",
    "published": "2026-06-27T00:33:44.000Z",
    "dupes": 1,
-   "score": 0.228,
+   "score": 0.227,
    "tier": 3
   },
   {
@@ -684,7 +699,7 @@
    "tldr": "6, is here.",
    "published": "2026-06-26T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.221,
+   "score": 0.22,
    "tier": 3
   },
   {
@@ -699,22 +714,7 @@
    "tldr": "It's been two weeks since Anthropic took its Mythos-class models offline after a Friday evening ultimatum from the Trump administration.  The company sprang into action immediately, sending a barrage of executives to…",
    "published": "2026-06-26T14:07:03.000Z",
    "dupes": 1,
-   "score": 0.219,
-   "tier": 3
-  },
-  {
-   "id": "efaf3577e980524fcb2f05d87e5410a55308290c",
-   "title": "OpenAI will delay GPT-5.6 after Trump administration request",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "6.",
-   "published": "2026-06-25T21:57:06.000Z",
-   "dupes": 1,
-   "score": 0.21,
+   "score": 0.218,
    "tier": 3
   }
  ]
