@@ -1,6 +1,19 @@
 {
- "generated": "2026-06-29T17:03:44.785Z",
+ "generated": "2026-06-29T18:14:14.327Z",
  "items": [
+  {
+   "id": "91d16542fa1f3b29004be7a620e044f108cb8232",
+   "title": "DiScoFormer: One transformer for density and score, across distributions",
+   "url": "https://huggingface.co/blog/allenai/discoformer",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-29T18:02:48.000Z",
+   "dupes": 1,
+   "score": 0.61,
+   "tier": 1
+  },
   {
    "id": "f2ff417016790f1657c073e93fea4b61163cd3aa",
    "title": "Claude Meets Blackwell Ultra: Anthropic’s Models Now Run on NVIDIA GB300 in Azure",
@@ -15,22 +28,7 @@
    "tldr": "Anthropic’s Claude models in Microsoft Foundry — hosted on Microsoft Azure and running on NVIDIA GB300 Blackwell Ultra GPUs — are now generally available, giving Azure-native enterprises a powerful new way to build…",
    "published": "2026-06-29T17:00:19.000Z",
    "dupes": 1,
-   "score": 0.624,
-   "tier": 1
-  },
-  {
-   "id": "f3de32641fc5a2ce656faf98e5962ee23e6ec009",
-   "title": "Firefly Aerospace Operates NVIDIA Jetson in Lunar Orbit for the First Time",
-   "url": "https://blogs.nvidia.com/blog/firefly-aerospace-nvidia-jetson-lunar-orbit",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "",
-   "published": "2026-06-29T15:00:04.000Z",
-   "dupes": 1,
-   "score": 0.598,
+   "score": 0.609,
    "tier": 2
   },
   {
@@ -45,7 +43,37 @@
    "tldr": "",
    "published": "2026-06-29T09:28:08.000Z",
    "dupes": 1,
-   "score": 0.562,
+   "score": 0.6,
+   "tier": 2
+  },
+  {
+   "id": "f3de32641fc5a2ce656faf98e5962ee23e6ec009",
+   "title": "Firefly Aerospace Operates NVIDIA Jetson in Lunar Orbit for the First Time",
+   "url": "https://blogs.nvidia.com/blog/firefly-aerospace-nvidia-jetson-lunar-orbit",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "",
+   "published": "2026-06-29T15:00:04.000Z",
+   "dupes": 1,
+   "score": 0.584,
+   "tier": 2
+  },
+  {
+   "id": "279d788d0c635bff09c46c77334e63c2eae3777c",
+   "title": "Qwen 3.6 27B is the sweet spot for local development",
+   "url": "https://quesma.com/blog/qwen-36-is-awesome",
+   "source": "Hacker News",
+   "org": [
+    "qwen"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-29T17:05:16.000Z",
+   "dupes": 1,
+   "score": 0.561,
    "tier": 2
   },
   {
@@ -63,7 +91,7 @@
     "model"
    ],
    "dupes": 5,
-   "score": 0.555,
+   "score": 0.549,
    "tier": 2
   },
   {
@@ -78,37 +106,7 @@
    "tldr": "S.  government agencies.",
    "published": "2026-06-29T10:59:38.000Z",
    "dupes": 1,
-   "score": 0.552,
-   "tier": 2
-  },
-  {
-   "id": "5b79476b114204dfe57ef8bf97ddea09c2e8f24d",
-   "title": "Mapping Europe’s AI Workforce Opportunity",
-   "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
-   "published": "2026-06-29T07:00:00.000Z",
-   "dupes": 1,
-   "score": 0.538,
-   "tier": 2
-  },
-  {
-   "id": "7d5d6a27a3428766fdabd865107e154c259ddaa3",
-   "title": "Microsoft Needs Windows Lite",
-   "url": "https://philipbohun.com/blog/0011.html",
-   "source": "Hacker News",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-29T15:30:37.000Z",
-   "dupes": 1,
-   "score": 0.537,
+   "score": 0.54,
    "tier": 2
   },
   {
@@ -123,7 +121,22 @@
    "tldr": "",
    "published": "2026-06-29T13:26:35.000Z",
    "dupes": 1,
-   "score": 0.53,
+   "score": 0.534,
+   "tier": 2
+  },
+  {
+   "id": "5b79476b114204dfe57ef8bf97ddea09c2e8f24d",
+   "title": "Mapping Europe’s AI Workforce Opportunity",
+   "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+   "published": "2026-06-29T07:00:00.000Z",
+   "dupes": 1,
+   "score": 0.527,
    "tier": 2
   },
   {
@@ -138,22 +151,7 @@
    "tldr": "",
    "published": "2026-06-29T13:11:08.000Z",
    "dupes": 1,
-   "score": 0.516,
-   "tier": 2
-  },
-  {
-   "id": "6c80d7901ac0b421e439aee1b13699b6ee4bcc16",
-   "title": "GLM 5.2 beats Claude in our benchmarks",
-   "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks",
-   "source": "Hacker News",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-28T17:50:47.000Z",
-   "dupes": 1,
-   "score": 0.493,
+   "score": 0.514,
    "tier": 2
   },
   {
@@ -168,7 +166,7 @@
    "tldr": "",
    "published": "2026-06-29T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.481,
+   "score": 0.473,
    "tier": 2
   },
   {
@@ -183,7 +181,7 @@
    "tldr": "",
    "published": "2026-06-29T11:29:14.000Z",
    "dupes": 1,
-   "score": 0.474,
+   "score": 0.464,
    "tier": 2
   },
   {
@@ -198,7 +196,7 @@
    "tldr": "HP Inc.  scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
    "published": "2026-06-28T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.439,
+   "score": 0.432,
    "tier": 2
   },
   {
@@ -216,22 +214,7 @@
     "model"
    ],
    "dupes": 3,
-   "score": 0.391,
-   "tier": 3
-  },
-  {
-   "id": "5d43e7e568e30b45e5842c5a2957b0aed62edf71",
-   "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
-   "source": "The Verge AI",
-   "org": [
-    "zhipu"
-   ],
-   "topic": "ai",
-   "tldr": "2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios.",
-   "published": "2026-06-28T21:42:51.000Z",
-   "dupes": 1,
-   "score": 0.366,
+   "score": 0.39,
    "tier": 3
   },
   {
@@ -250,6 +233,21 @@
    "tier": 3
   },
   {
+   "id": "5d43e7e568e30b45e5842c5a2957b0aed62edf71",
+   "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+   "source": "The Verge AI",
+   "org": [
+    "zhipu"
+   ],
+   "topic": "ai",
+   "tldr": "2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios.",
+   "published": "2026-06-28T21:42:51.000Z",
+   "dupes": 1,
+   "score": 0.359,
+   "tier": 3
+  },
+  {
    "id": "73d77834b60f643588bc7b6ee8227177f32b895f",
    "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
    "url": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
@@ -261,7 +259,7 @@
    "tldr": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history.  To make their case, prosecutors turned to location data from his…",
    "published": "2026-06-28T14:12:06.000Z",
    "dupes": 1,
-   "score": 0.324,
+   "score": 0.319,
    "tier": 3
   },
   {
@@ -276,7 +274,7 @@
    "tldr": "6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
    "published": "2026-06-26T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.317,
+   "score": 0.316,
    "tier": 3
   },
   {
@@ -381,7 +379,7 @@
    "tldr": "Machine Intelligence",
    "published": "2026-06-26T18:30:00.000Z",
    "dupes": 1,
-   "score": 0.298,
+   "score": 0.297,
    "tier": 3
   },
   {
@@ -396,22 +394,7 @@
    "tldr": "",
    "published": "2026-06-28T09:19:07.000Z",
    "dupes": 1,
-   "score": 0.292,
-   "tier": 3
-  },
-  {
-   "id": "e2b02214838029047e463b5b4cb757e628818a5b",
-   "title": "Optimizing cloud economics with linear elastic caching",
-   "url": "https://research.google/blog/optimizing-cloud-economics-with-linear-elastic-caching",
-   "source": "Google Research",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Algorithms & Theory",
-   "published": "2026-06-25T10:03:00.000Z",
-   "dupes": 1,
-   "score": 0.282,
+   "score": 0.288,
    "tier": 3
   },
   {
@@ -427,6 +410,21 @@
    "published": "2026-06-25T13:00:34.000Z",
    "dupes": 1,
    "score": 0.282,
+   "tier": 3
+  },
+  {
+   "id": "e2b02214838029047e463b5b4cb757e628818a5b",
+   "title": "Optimizing cloud economics with linear elastic caching",
+   "url": "https://research.google/blog/optimizing-cloud-economics-with-linear-elastic-caching",
+   "source": "Google Research",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Algorithms & Theory",
+   "published": "2026-06-25T10:03:00.000Z",
+   "dupes": 1,
+   "score": 0.281,
    "tier": 3
   },
   {
@@ -514,7 +512,7 @@
    "tldr": "",
    "published": "2026-06-26T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.274,
+   "score": 0.273,
    "tier": 3
   },
   {
@@ -529,7 +527,7 @@
    "tldr": "See Tom Shaw's perspective on the infrastructure and technology inside one of Meta's data centers.  The post Inside One of Meta’s Data Centers appeared first on Meta Newsroom .",
    "published": "2026-06-26T18:28:26.000Z",
    "dupes": 1,
-   "score": 0.273,
+   "score": 0.272,
    "tier": 3
   },
   {
@@ -544,35 +542,7 @@
    "tldr": "Researchers introduce generative causal testing, which translates black box models into clear hypotheses and verifies them in the scanner, revealing what specific brain regions respond to in language.  The post…",
    "published": "2026-06-25T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.271,
-   "tier": 3
-  },
-  {
-   "id": "04bd48744b58f91b4b4c38e365eef5ffe03e9092",
-   "title": "Which tokens does a hybrid model predict better?",
-   "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-25T16:11:42.000Z",
-   "dupes": 1,
-   "score": 0.271,
-   "tier": 3
-  },
-  {
-   "id": "5a4339fe0f44f99c0f392dab3702e278a35682a8",
-   "title": "Talos: Scaling rare disease diagnosis with automated, iterative genomic reanalysis",
-   "url": "https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis",
-   "source": "Microsoft Research",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "Talos was built to help resolve a major bottleneck in genomic medicine: human review time.  3 candidate variants per patient for expert review.",
-   "published": "2026-06-24T14:00:14.000Z",
-   "dupes": 1,
-   "score": 0.266,
+   "score": 0.27,
    "tier": 3
   },
   {
@@ -588,6 +558,21 @@
    "published": "2026-06-24T16:00:13.000Z",
    "dupes": 1,
    "score": 0.266,
+   "tier": 3
+  },
+  {
+   "id": "5a4339fe0f44f99c0f392dab3702e278a35682a8",
+   "title": "Talos: Scaling rare disease diagnosis with automated, iterative genomic reanalysis",
+   "url": "https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis",
+   "source": "Microsoft Research",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "Talos was built to help resolve a major bottleneck in genomic medicine: human review time.  3 candidate variants per patient for expert review.",
+   "published": "2026-06-24T14:00:14.000Z",
+   "dupes": 1,
+   "score": 0.265,
    "tier": 3
   },
   {
@@ -684,7 +669,7 @@
    "tldr": "After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organizations, according…",
    "published": "2026-06-27T00:33:44.000Z",
    "dupes": 1,
-   "score": 0.229,
+   "score": 0.228,
    "tier": 3
   },
   {
@@ -699,7 +684,7 @@
    "tldr": "6, is here.",
    "published": "2026-06-26T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.222,
+   "score": 0.221,
    "tier": 3
   },
   {
@@ -714,7 +699,7 @@
    "tldr": "It's been two weeks since Anthropic took its Mythos-class models offline after a Friday evening ultimatum from the Trump administration.  The company sprang into action immediately, sending a barrage of executives to…",
    "published": "2026-06-26T14:07:03.000Z",
    "dupes": 1,
-   "score": 0.22,
+   "score": 0.219,
    "tier": 3
   },
   {
