@@ -1,6 +1,19 @@
 {
- "generated": "2026-06-30T13:35:26.260Z",
+ "generated": "2026-06-30T14:52:28.977Z",
  "items": [
+  {
+   "id": "d7f8db1c666b51cebef1c5d5c91115472bc33316",
+   "title": "Why Specialization Is Inevitable",
+   "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-30T14:39:11.000Z",
+   "dupes": 1,
+   "score": 0.61,
+   "tier": 1
+  },
   {
    "id": "c2fa02f31fd287f597e88fb5f519d8c47de54f57",
    "title": "Into the Omniverse: Three Workflows for Improving Vision AI Agent Accuracy With Synthetic Data and Fine-Tuning",
@@ -13,8 +26,8 @@
    "tldr": "Editor’s note: This post is part of Into the Omniverse, a series focused on how developers, 3D practitioners, and enterprises can transform their workflows using the latest advances in OpenUSD and NVIDIA Omniverse.",
    "published": "2026-06-30T13:00:27.000Z",
    "dupes": 1,
-   "score": 0.617,
-   "tier": 1
+   "score": 0.601,
+   "tier": 2
   },
   {
    "id": "6842d7043c3b77f349d5d383dc9b84d496deab2e",
@@ -28,7 +41,7 @@
    "tldr": "",
    "published": "2026-06-30T10:36:23.000Z",
    "dupes": 1,
-   "score": 0.568,
+   "score": 0.566,
    "tier": 2
   },
   {
@@ -43,7 +56,7 @@
    "tldr": "",
    "published": "2026-06-30T10:34:25.000Z",
    "dupes": 1,
-   "score": 0.514,
+   "score": 0.504,
    "tier": 2
   },
   {
@@ -58,7 +71,7 @@
    "tldr": "",
    "published": "2026-06-29T17:05:16.000Z",
    "dupes": 1,
-   "score": 0.509,
+   "score": 0.501,
    "tier": 2
   },
   {
@@ -76,7 +89,7 @@
     "model"
    ],
    "dupes": 5,
-   "score": 0.491,
+   "score": 0.488,
    "tier": 2
   },
   {
@@ -89,7 +102,7 @@
    "tldr": "",
    "published": "2026-06-30T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.47,
+   "score": 0.46,
    "tier": 2
   },
   {
@@ -104,7 +117,7 @@
    "tldr": "AI agents can't remember past conversations.  They must constantly reload or retrieve context, which grows less efficient as tasks get longer and more complex.",
    "published": "2026-06-29T21:14:22.000Z",
    "dupes": 1,
-   "score": 0.449,
+   "score": 0.44,
    "tier": 2
   },
   {
@@ -121,7 +134,7 @@
    "tldr": "Anthropic’s Claude models in Microsoft Foundry — hosted on Microsoft Azure and running on NVIDIA GB300 Blackwell Ultra GPUs — are now generally available, giving Azure-native enterprises a powerful new way to build…",
    "published": "2026-06-29T17:00:19.000Z",
    "dupes": 1,
-   "score": 0.433,
+   "score": 0.426,
    "tier": 2
   },
   {
@@ -134,7 +147,7 @@
    "tldr": "",
    "published": "2026-06-29T18:02:48.000Z",
    "dupes": 1,
-   "score": 0.427,
+   "score": 0.419,
    "tier": 2
   },
   {
@@ -149,7 +162,7 @@
    "tldr": "",
    "published": "2026-06-29T15:00:04.000Z",
    "dupes": 1,
-   "score": 0.422,
+   "score": 0.415,
    "tier": 2
   },
   {
@@ -164,7 +177,7 @@
    "tldr": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
    "published": "2026-06-29T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.408,
+   "score": 0.403,
    "tier": 2
   },
   {
@@ -179,22 +192,7 @@
    "tldr": "S.  government agencies.",
    "published": "2026-06-29T10:59:38.000Z",
    "dupes": 1,
-   "score": 0.401,
-   "tier": 2
-  },
-  {
-   "id": "86bc9e2813795f0f4351782f6918790ecbd83d0e",
-   "title": "From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery",
-   "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication",
-   "source": "Meta AI Blog",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-29T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.382,
+   "score": 0.395,
    "tier": 2
   },
   {
@@ -216,6 +214,21 @@
    "tier": 3
   },
   {
+   "id": "86bc9e2813795f0f4351782f6918790ecbd83d0e",
+   "title": "From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery",
+   "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication",
+   "source": "Meta AI Blog",
+   "org": [
+    "meta"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-29T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.378,
+   "tier": 3
+  },
+  {
    "id": "811accb0367acfcabacfd5dc8483b8f9a8c25d0b",
    "title": "OpenAI is teasing new hardware… for Codex",
    "url": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
@@ -227,7 +240,7 @@
    "tldr": "OpenAI is releasing some sort of device related to its AI-powered coding tool, Codex, on July 15th.",
    "published": "2026-06-29T18:52:03.000Z",
    "dupes": 1,
-   "score": 0.37,
+   "score": 0.362,
    "tier": 3
   },
   {
@@ -242,7 +255,7 @@
    "tldr": "HP Inc.  scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
    "published": "2026-06-28T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.363,
+   "score": 0.36,
    "tier": 3
   },
   {
@@ -257,7 +270,7 @@
    "tldr": "",
    "published": "2026-06-29T11:29:14.000Z",
    "dupes": 1,
-   "score": 0.323,
+   "score": 0.317,
    "tier": 3
   },
   {
@@ -272,7 +285,7 @@
    "tldr": "6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
    "published": "2026-06-26T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.308,
+   "score": 0.307,
    "tier": 3
   },
   {
@@ -286,21 +299,6 @@
    "topic": "ai",
    "tldr": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
    "published": "2026-06-25T02:00:00.000Z",
-   "dupes": 1,
-   "score": 0.302,
-   "tier": 3
-  },
-  {
-   "id": "4eff6133e8389c3b2ca86e0e91c9b0759a767f79",
-   "title": "Introducing computer use in Gemini 3.5 Flash",
-   "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash",
-   "source": "Google DeepMind",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-24T16:30:01.000Z",
    "dupes": 1,
    "score": 0.302,
    "tier": 3
@@ -331,6 +329,21 @@
    "topic": "ai",
    "tldr": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior.  The breakthrough could support cancer and autoimmune research.",
    "published": "2026-06-23T17:00:00.000Z",
+   "dupes": 1,
+   "score": 0.301,
+   "tier": 3
+  },
+  {
+   "id": "4eff6133e8389c3b2ca86e0e91c9b0759a767f79",
+   "title": "Introducing computer use in Gemini 3.5 Flash",
+   "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash",
+   "source": "Google DeepMind",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-24T16:30:01.000Z",
    "dupes": 1,
    "score": 0.301,
    "tier": 3
@@ -392,7 +405,7 @@
    "tldr": "Generative AI",
    "published": "2026-06-24T16:51:52.000Z",
    "dupes": 1,
-   "score": 0.277,
+   "score": 0.276,
    "tier": 3
   },
   {
@@ -422,7 +435,7 @@
    "tldr": "2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios.",
    "published": "2026-06-28T21:42:51.000Z",
    "dupes": 1,
-   "score": 0.275,
+   "score": 0.272,
    "tier": 3
   },
   {
@@ -435,7 +448,7 @@
    "tldr": "",
    "published": "2026-06-26T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.268,
+   "score": 0.267,
    "tier": 3
   },
   {
@@ -523,7 +536,7 @@
    "tldr": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history.  To make their case, prosecutors turned to location data from his…",
    "published": "2026-06-28T14:12:06.000Z",
    "dupes": 1,
-   "score": 0.256,
+   "score": 0.254,
    "tier": 3
   },
   {
@@ -553,7 +566,7 @@
    "tldr": "",
    "published": "2026-06-28T09:19:07.000Z",
    "dupes": 1,
-   "score": 0.236,
+   "score": 0.234,
    "tier": 3
   },
   {
