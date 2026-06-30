@@ -1,9 +1,24 @@
 {
- "generated": "2026-06-30T12:39:37.151Z",
+ "generated": "2026-06-30T13:35:26.260Z",
  "items": [
   {
+   "id": "c2fa02f31fd287f597e88fb5f519d8c47de54f57",
+   "title": "Into the Omniverse: Three Workflows for Improving Vision AI Agent Accuracy With Synthetic Data and Fine-Tuning",
+   "url": "https://blogs.nvidia.com/blog/vision-ai-agent-skills-omniverse-metropolis",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Editor’s note: This post is part of Into the Omniverse, a series focused on how developers, 3D practitioners, and enterprises can transform their workflows using the latest advances in OpenUSD and NVIDIA Omniverse.",
+   "published": "2026-06-30T13:00:27.000Z",
+   "dupes": 1,
+   "score": 0.617,
+   "tier": 1
+  },
+  {
    "id": "6842d7043c3b77f349d5d383dc9b84d496deab2e",
-   "title": "European digital ID wallets are a gift to Google and Apple",
+   "title": "European digital ID wallets rely on safety services of Google and Apple",
    "url": "https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple",
    "source": "Hacker News",
    "org": [
@@ -13,8 +28,23 @@
    "tldr": "",
    "published": "2026-06-30T10:36:23.000Z",
    "dupes": 1,
-   "score": 0.563,
-   "tier": 1
+   "score": 0.568,
+   "tier": 2
+  },
+  {
+   "id": "35ae3621d4c5ef4f39ec6244f6a9ee34513c23ba",
+   "title": "Zluda 6 release (run unmodified CUDA applications on non-Nvidia GPUs)",
+   "url": "https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026",
+   "source": "Hacker News",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "",
+   "published": "2026-06-30T10:34:25.000Z",
+   "dupes": 1,
+   "score": 0.514,
+   "tier": 2
   },
   {
    "id": "279d788d0c635bff09c46c77334e63c2eae3777c",
@@ -28,7 +58,7 @@
    "tldr": "",
    "published": "2026-06-29T17:05:16.000Z",
    "dupes": 1,
-   "score": 0.515,
+   "score": 0.509,
    "tier": 2
   },
   {
@@ -46,7 +76,20 @@
     "model"
    ],
    "dupes": 5,
-   "score": 0.493,
+   "score": 0.491,
+   "tier": 2
+  },
+  {
+   "id": "3f0a56fa70110027403b008388e78ef3cb8a446e",
+   "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+   "url": "https://huggingface.co/blog/eee-community-evals",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-30T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.47,
    "tier": 2
   },
   {
@@ -61,7 +104,7 @@
    "tldr": "AI agents can't remember past conversations.  They must constantly reload or retrieve context, which grows less efficient as tasks get longer and more complex.",
    "published": "2026-06-29T21:14:22.000Z",
    "dupes": 1,
-   "score": 0.456,
+   "score": 0.449,
    "tier": 2
   },
   {
@@ -78,7 +121,7 @@
    "tldr": "Anthropic’s Claude models in Microsoft Foundry — hosted on Microsoft Azure and running on NVIDIA GB300 Blackwell Ultra GPUs — are now generally available, giving Azure-native enterprises a powerful new way to build…",
    "published": "2026-06-29T17:00:19.000Z",
    "dupes": 1,
-   "score": 0.439,
+   "score": 0.433,
    "tier": 2
   },
   {
@@ -91,7 +134,7 @@
    "tldr": "",
    "published": "2026-06-29T18:02:48.000Z",
    "dupes": 1,
-   "score": 0.433,
+   "score": 0.427,
    "tier": 2
   },
   {
@@ -106,7 +149,7 @@
    "tldr": "",
    "published": "2026-06-29T15:00:04.000Z",
    "dupes": 1,
-   "score": 0.427,
+   "score": 0.422,
    "tier": 2
   },
   {
@@ -121,7 +164,7 @@
    "tldr": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
    "published": "2026-06-29T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.412,
+   "score": 0.408,
    "tier": 2
   },
   {
@@ -136,7 +179,7 @@
    "tldr": "S.  government agencies.",
    "published": "2026-06-29T10:59:38.000Z",
    "dupes": 1,
-   "score": 0.405,
+   "score": 0.401,
    "tier": 2
   },
   {
@@ -151,7 +194,7 @@
    "tldr": "",
    "published": "2026-06-29T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.385,
+   "score": 0.382,
    "tier": 2
   },
   {
@@ -170,22 +213,7 @@
    ],
    "dupes": 3,
    "score": 0.382,
-   "tier": 2
-  },
-  {
-   "id": "31d81f8197ef219b376dc84fcc1f1b4c5ca02ce9",
-   "title": "What happens when you run a CUDA kernel?",
-   "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel",
-   "source": "Hacker News",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "",
-   "published": "2026-06-29T13:11:08.000Z",
-   "dupes": 1,
-   "score": 0.382,
-   "tier": 2
+   "tier": 3
   },
   {
    "id": "811accb0367acfcabacfd5dc8483b8f9a8c25d0b",
@@ -199,8 +227,8 @@
    "tldr": "OpenAI is releasing some sort of device related to its AI-powered coding tool, Codex, on July 15th.",
    "published": "2026-06-29T18:52:03.000Z",
    "dupes": 1,
-   "score": 0.376,
-   "tier": 2
+   "score": 0.37,
+   "tier": 3
   },
   {
    "id": "1ae317c00ced77b0a26456fe8c2f1072709cf678",
@@ -214,7 +242,7 @@
    "tldr": "HP Inc.  scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
    "published": "2026-06-28T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.365,
+   "score": 0.363,
    "tier": 3
   },
   {
@@ -229,7 +257,7 @@
    "tldr": "",
    "published": "2026-06-29T11:29:14.000Z",
    "dupes": 1,
-   "score": 0.328,
+   "score": 0.323,
    "tier": 3
   },
   {
@@ -293,21 +321,6 @@
    "tier": 3
   },
   {
-   "id": "6507bbb3977767d18fbdd1e2dbdfa5d1eded2ec6",
-   "title": "Helping build shared standards for advanced AI",
-   "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
-   "published": "2026-06-23T13:00:00.000Z",
-   "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
    "id": "7c36fb32c6285fc2a72a693371c03b5a52f25c8f",
    "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
    "url": "https://openai.com/index/gpt-5-immunology-mystery",
@@ -334,7 +347,7 @@
    "tldr": "Machine Intelligence",
    "published": "2026-06-26T18:30:00.000Z",
    "dupes": 1,
-   "score": 0.286,
+   "score": 0.285,
    "tier": 3
   },
   {
@@ -363,21 +376,6 @@
    "topic": "compute",
    "tldr": "Summer savings are heating up.  From the Steam Summer Sale to GeForce NOW membership discounts, this week’s GFN Thursday delivers double the deals and more ways to get the most value from cloud gaming.",
    "published": "2026-06-25T13:00:34.000Z",
-   "dupes": 1,
-   "score": 0.278,
-   "tier": 3
-  },
-  {
-   "id": "5d43e7e568e30b45e5842c5a2957b0aed62edf71",
-   "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
-   "source": "The Verge AI",
-   "org": [
-    "zhipu"
-   ],
-   "topic": "ai",
-   "tldr": "2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios.",
-   "published": "2026-06-28T21:42:51.000Z",
    "dupes": 1,
    "score": 0.278,
    "tier": 3
@@ -413,18 +411,18 @@
    "tier": 3
   },
   {
-   "id": "fb695c7649535e91ffec89c570d58a31bf4fceb5",
-   "title": "How Businesses Are Building Specialized AI They Can Trust",
-   "url": "https://blogs.nvidia.com/blog/nvidia-agent-toolkit-open-models-tools-skills-secure-runtime-ai-agents",
-   "source": "NVIDIA Blog",
+   "id": "5d43e7e568e30b45e5842c5a2957b0aed62edf71",
+   "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+   "source": "The Verge AI",
    "org": [
-    "nvidia"
+    "zhipu"
    ],
-   "topic": "compute",
-   "tldr": "Editor’s note: This post is part of the Nemotron Labs blog series, which explores how the latest open models, datasets and training techniques help businesses build specialized AI systems and applications on NVIDIA…",
-   "published": "2026-06-23T13:00:07.000Z",
+   "topic": "ai",
+   "tldr": "2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios.",
+   "published": "2026-06-28T21:42:51.000Z",
    "dupes": 1,
-   "score": 0.276,
+   "score": 0.275,
    "tier": 3
   },
   {
@@ -499,19 +497,6 @@
    "tier": 3
   },
   {
-   "id": "f0c4ab4675063190d80d9c7b42197c8f73faedb5",
-   "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
-   "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-23T12:51:55.000Z",
-   "dupes": 1,
-   "score": 0.263,
-   "tier": 3
-  },
-  {
    "id": "2a7847de28601b737a79a8223ac9de5871394ee9",
    "title": "Inside One of Meta’s Data Centers",
    "url": "https://about.fb.com/news/2026/06/inside-meta-data-center",
@@ -523,7 +508,7 @@
    "tldr": "See Tom Shaw's perspective on the infrastructure and technology inside one of Meta's data centers.  The post Inside One of Meta’s Data Centers appeared first on Meta Newsroom .",
    "published": "2026-06-26T18:28:26.000Z",
    "dupes": 1,
-   "score": 0.261,
+   "score": 0.26,
    "tier": 3
   },
   {
@@ -538,7 +523,7 @@
    "tldr": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history.  To make their case, prosecutors turned to location data from his…",
    "published": "2026-06-28T14:12:06.000Z",
    "dupes": 1,
-   "score": 0.258,
+   "score": 0.256,
    "tier": 3
   },
   {
@@ -557,21 +542,6 @@
    "tier": 3
   },
   {
-   "id": "5d8404803c390543c5c506c23ed212236d05dfa9",
-   "title": "Launch of Meta’s Small Business Growth Academy Across Asia-Pacific to Boost AI Adoption and Digital Skills",
-   "url": "https://about.fb.com/news/2026/06/launch-of-metas-small-business-growth-academy-across-asia-pacific",
-   "source": "Meta Newsroom",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "Meta's Small Business Growth Academy will provide practical AI tools, advertising, and cross-border growth training to help small businesses scale across Asia-Pacific.  The post Launch of Meta’s Small Business Growth…",
-   "published": "2026-06-23T13:00:09.000Z",
-   "dupes": 1,
-   "score": 0.251,
-   "tier": 3
-  },
-  {
    "id": "8bb8628ac41761912a96bccffd4de247b6587b9d",
    "title": "Grok Is More Important Than Clean Air, DOJ Says",
    "url": "https://www.motherjones.com/environment/2026/06/grok-doj-justice-naacp-clean-air-act-gas-turbine-pollution-national-security-ai",
@@ -583,7 +553,7 @@
    "tldr": "",
    "published": "2026-06-28T09:19:07.000Z",
    "dupes": 1,
-   "score": 0.238,
+   "score": 0.236,
    "tier": 3
   },
   {
@@ -598,7 +568,7 @@
    "tldr": "After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organizations, according…",
    "published": "2026-06-27T00:33:44.000Z",
    "dupes": 1,
-   "score": 0.214,
+   "score": 0.213,
    "tier": 3
   }
  ]
