@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-01T05:02:05.287Z",
+ "generated": "2026-07-01T06:55:27.805Z",
  "items": [
   {
    "id": "0f764e9bc764237aa415cc5acbf0b21b545124b8",
@@ -13,7 +13,7 @@
    "tldr": "Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",
    "published": "2026-06-30T00:00:00.000Z",
    "dupes": 3,
-   "score": 0.632,
+   "score": 0.622,
    "tier": 1
   },
   {
@@ -28,7 +28,7 @@
    "tldr": "",
    "published": "2026-06-30T15:44:24.000Z",
    "dupes": 1,
-   "score": 0.56,
+   "score": 0.545,
    "tier": 2
   },
   {
@@ -43,7 +43,7 @@
    "tldr": "",
    "published": "2026-06-30T23:55:12.000Z",
    "dupes": 1,
-   "score": 0.529,
+   "score": 0.516,
    "tier": 2
   },
   {
@@ -57,21 +57,6 @@
    "topic": "ai",
    "tldr": "",
    "published": "2026-06-30T16:02:40.000Z",
-   "dupes": 1,
-   "score": 0.512,
-   "tier": 2
-  },
-  {
-   "id": "6ae24dea82c4938f2ff0552410aed26dbbb08aec",
-   "title": "Google copybara: moving code between repositories",
-   "url": "https://github.com/google/copybara",
-   "source": "Hacker News",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-30T23:45:39.000Z",
    "dupes": 1,
    "score": 0.497,
    "tier": 2
@@ -88,20 +73,7 @@
    "tldr": "Climate & Sustainability",
    "published": "2026-06-30T17:03:10.000Z",
    "dupes": 1,
-   "score": 0.496,
-   "tier": 2
-  },
-  {
-   "id": "8654826289ec75765d33aa78a628bcae9814015f",
-   "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-   "url": "https://huggingface.co/blog/ibm-research/scarfbench",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-30T18:32:50.000Z",
-   "dupes": 1,
-   "score": 0.496,
+   "score": 0.48,
    "tier": 2
   },
   {
@@ -117,67 +89,35 @@
    "tldr": "Life sciences has entered an era of computational scale, and for more than a decade, NVIDIA has built the full GPU-accelerated computing stack — spanning hardware, frameworks, libraries, models, microservices and…",
    "published": "2026-06-30T17:00:38.000Z",
    "dupes": 1,
-   "score": 0.495,
+   "score": 0.48,
    "tier": 2
   },
   {
-   "id": "c5e612bf83f7d2e2e47b9e0b9278649d94772156",
-   "title": "Anthropic’s long-sidelined Fable 5 is greenlit to return",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
-   "source": "The Verge AI",
+   "id": "8654826289ec75765d33aa78a628bcae9814015f",
+   "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+   "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-30T18:32:50.000Z",
+   "dupes": 1,
+   "score": 0.48,
+   "tier": 2
+  },
+  {
+   "id": "6ae24dea82c4938f2ff0552410aed26dbbb08aec",
+   "title": "Google copybara: moving code between repositories",
+   "url": "https://github.com/google/copybara",
+   "source": "Hacker News",
    "org": [
-    "anthropic"
+    "google"
    ],
    "topic": "ai",
-   "tldr": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online.",
-   "published": "2026-07-01T00:03:55.000Z",
+   "tldr": "",
+   "published": "2026-06-30T23:45:39.000Z",
    "dupes": 1,
-   "score": 0.489,
-   "tier": 2
-  },
-  {
-   "id": "503490bee9e449528df6445bf056f0c76a84ff2a",
-   "title": "SkillOpt: Agent skills as trainable parameters",
-   "url": "https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters",
-   "source": "Microsoft Research",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "AI agents often fail because their instructions, or skills, are manually modified with no guarantee of improvement.  Learn how SkillOpt turns skill editing into a training process, making agent behavior more reliable…",
-   "published": "2026-06-30T16:50:02.000Z",
-   "dupes": 1,
-   "score": 0.481,
-   "tier": 2
-  },
-  {
-   "id": "4c6e55f3a1dced7dc9bc1a4522890c2cb80ee000",
-   "title": "How NVIDIA’s Inference Software Stack Powers the Lowest Token Cost",
-   "url": "https://blogs.nvidia.com/blog/inference-software-lowest-token-cost",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "As organizations move from AI pilots to production AI factories, infrastructure decisions have shifted from peak chip specifications to cost per token: how many useful tokens they can deliver per dollar, per watt and…",
-   "published": "2026-06-30T15:00:57.000Z",
-   "dupes": 1,
-   "score": 0.479,
-   "tier": 2
-  },
-  {
-   "id": "c6cc386cd6ecd82c3a1e67fad5fa9c8366f7c60e",
-   "title": "How Jaiveer Singh Is Helping Robots — and Developers — Move Faster",
-   "url": "https://blogs.nvidia.com/blog/nvidia-life-jaiveer-singh",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "When Jaiveer Singh talks about robots, he doesn’t begin with spectacle.  He begins with infrastructure: the boards inside machines, the software that lets developers see through a robot’s cameras and the engineering…",
-   "published": "2026-06-30T15:00:49.000Z",
-   "dupes": 1,
-   "score": 0.479,
+   "score": 0.48,
    "tier": 2
   },
   {
@@ -192,7 +132,67 @@
    "tldr": "Claude Science is a customizable app that integrates the tools and packages researchers most often use, produces auditable artifacts, and provides flexible access to computing resources.",
    "published": "2026-06-30T00:00:00.000Z",
    "dupes": 2,
-   "score": 0.477,
+   "score": 0.469,
+   "tier": 2
+  },
+  {
+   "id": "c5e612bf83f7d2e2e47b9e0b9278649d94772156",
+   "title": "Anthropic’s long-sidelined Fable 5 is greenlit to return",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+   "source": "The Verge AI",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online.",
+   "published": "2026-07-01T00:03:55.000Z",
+   "dupes": 1,
+   "score": 0.469,
+   "tier": 2
+  },
+  {
+   "id": "503490bee9e449528df6445bf056f0c76a84ff2a",
+   "title": "SkillOpt: Agent skills as trainable parameters",
+   "url": "https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters",
+   "source": "Microsoft Research",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "AI agents often fail because their instructions, or skills, are manually modified with no guarantee of improvement.  Learn how SkillOpt turns skill editing into a training process, making agent behavior more reliable…",
+   "published": "2026-06-30T16:50:02.000Z",
+   "dupes": 1,
+   "score": 0.466,
+   "tier": 2
+  },
+  {
+   "id": "4c6e55f3a1dced7dc9bc1a4522890c2cb80ee000",
+   "title": "How NVIDIA’s Inference Software Stack Powers the Lowest Token Cost",
+   "url": "https://blogs.nvidia.com/blog/inference-software-lowest-token-cost",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "As organizations move from AI pilots to production AI factories, infrastructure decisions have shifted from peak chip specifications to cost per token: how many useful tokens they can deliver per dollar, per watt and…",
+   "published": "2026-06-30T15:00:57.000Z",
+   "dupes": 1,
+   "score": 0.465,
+   "tier": 2
+  },
+  {
+   "id": "c6cc386cd6ecd82c3a1e67fad5fa9c8366f7c60e",
+   "title": "How Jaiveer Singh Is Helping Robots — and Developers — Move Faster",
+   "url": "https://blogs.nvidia.com/blog/nvidia-life-jaiveer-singh",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "When Jaiveer Singh talks about robots, he doesn’t begin with spectacle.  He begins with infrastructure: the boards inside machines, the software that lets developers see through a robot’s cameras and the engineering…",
+   "published": "2026-06-30T15:00:49.000Z",
+   "dupes": 1,
+   "score": 0.465,
    "tier": 2
   },
   {
@@ -210,7 +210,7 @@
     "model"
    ],
    "dupes": 5,
-   "score": 0.467,
+   "score": 0.465,
    "tier": 3
   },
   {
@@ -225,20 +225,7 @@
    "tldr": "Editor’s note: This post is part of Into the Omniverse, a series focused on how developers, 3D practitioners, and enterprises can transform their workflows using the latest advances in OpenUSD and NVIDIA Omniverse.",
    "published": "2026-06-30T13:00:27.000Z",
    "dupes": 1,
-   "score": 0.464,
-   "tier": 3
-  },
-  {
-   "id": "d7f8db1c666b51cebef1c5d5c91115472bc33316",
-   "title": "Why Specialization Is Inevitable",
-   "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-30T14:39:11.000Z",
-   "dupes": 1,
-   "score": 0.464,
+   "score": 0.451,
    "tier": 3
   },
   {
@@ -253,7 +240,20 @@
    "tldr": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
    "published": "2026-06-30T09:00:00.000Z",
    "dupes": 1,
-   "score": 0.462,
+   "score": 0.45,
+   "tier": 3
+  },
+  {
+   "id": "d7f8db1c666b51cebef1c5d5c91115472bc33316",
+   "title": "Why Specialization Is Inevitable",
+   "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-30T14:39:11.000Z",
+   "dupes": 1,
+   "score": 0.45,
    "tier": 3
   },
   {
@@ -268,7 +268,7 @@
    "tldr": "",
    "published": "2026-06-30T17:07:41.000Z",
    "dupes": 1,
-   "score": 0.46,
+   "score": 0.445,
    "tier": 3
   },
   {
@@ -283,7 +283,7 @@
    "tldr": "Data Management",
    "published": "2026-06-30T10:26:00.000Z",
    "dupes": 1,
-   "score": 0.446,
+   "score": 0.434,
    "tier": 3
   },
   {
@@ -301,7 +301,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.442,
+   "score": 0.425,
    "tier": 3
   },
   {
@@ -316,7 +316,7 @@
    "tldr": "",
    "published": "2026-06-30T20:21:28.000Z",
    "dupes": 1,
-   "score": 0.44,
+   "score": 0.423,
    "tier": 3
   },
   {
@@ -334,7 +334,7 @@
     "model"
    ],
    "dupes": 2,
-   "score": 0.423,
+   "score": 0.415,
    "tier": 3
   },
   {
@@ -349,7 +349,7 @@
    "tldr": "",
    "published": "2026-06-30T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.414,
+   "score": 0.406,
    "tier": 3
   },
   {
@@ -364,7 +364,7 @@
    "tldr": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
    "published": "2026-06-30T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.414,
+   "score": 0.406,
    "tier": 3
   },
   {
@@ -379,7 +379,7 @@
    "tldr": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
    "published": "2026-06-30T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.414,
+   "score": 0.406,
    "tier": 3
   },
   {
@@ -394,7 +394,7 @@
    "tldr": "",
    "published": "2026-06-30T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.414,
+   "score": 0.406,
    "tier": 3
   },
   {
@@ -425,7 +425,7 @@
    "tldr": "",
    "published": "2026-06-30T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.377,
+   "score": 0.369,
    "tier": 3
   },
   {
@@ -440,7 +440,7 @@
    "tldr": "AI agents can't remember past conversations.  They must constantly reload or retrieve context, which grows less efficient as tasks get longer and more complex.",
    "published": "2026-06-29T21:14:22.000Z",
    "dupes": 1,
-   "score": 0.365,
+   "score": 0.358,
    "tier": 3
   },
   {
@@ -457,7 +457,7 @@
    "tldr": "Anthropic’s Claude models in Microsoft Foundry — hosted on Microsoft Azure and running on NVIDIA GB300 Blackwell Ultra GPUs — are now generally available, giving Azure-native enterprises a powerful new way to build…",
    "published": "2026-06-29T17:00:19.000Z",
    "dupes": 1,
-   "score": 0.362,
+   "score": 0.356,
    "tier": 3
   },
   {
@@ -472,7 +472,7 @@
    "tldr": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
    "published": "2026-06-29T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.359,
+   "score": 0.355,
    "tier": 3
   },
   {
@@ -487,7 +487,7 @@
    "tldr": "",
    "published": "2026-06-29T15:00:04.000Z",
    "dupes": 1,
-   "score": 0.356,
+   "score": 0.35,
    "tier": 3
   },
   {
@@ -500,7 +500,7 @@
    "tldr": "",
    "published": "2026-06-29T18:02:48.000Z",
    "dupes": 1,
-   "score": 0.353,
+   "score": 0.347,
    "tier": 3
   },
   {
@@ -515,7 +515,7 @@
    "tldr": "",
    "published": "2026-06-29T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.345,
+   "score": 0.342,
    "tier": 3
   },
   {
@@ -530,7 +530,7 @@
    "tldr": "S.  government agencies.",
    "published": "2026-06-29T10:59:38.000Z",
    "dupes": 1,
-   "score": 0.344,
+   "score": 0.339,
    "tier": 3
   },
   {
@@ -545,7 +545,7 @@
    "tldr": "HP Inc.  scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
    "published": "2026-06-28T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.335,
+   "score": 0.332,
    "tier": 3
   },
   {
@@ -579,21 +579,6 @@
    "tier": 3
   },
   {
-   "id": "1a015f5dfa42958d5d31376f9d87f1e17d54017f",
-   "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-   "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "compute",
-   "tldr": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
-   "published": "2026-06-24T06:00:00.000Z",
-   "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
    "id": "4eff6133e8389c3b2ca86e0e91c9b0759a767f79",
    "title": "Introducing computer use in Gemini 3.5 Flash",
    "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash",
@@ -620,7 +605,7 @@
    "tldr": "OpenAI is releasing some sort of device related to its AI-powered coding tool, Codex, on July 15th.",
    "published": "2026-06-29T18:52:03.000Z",
    "dupes": 1,
-   "score": 0.294,
+   "score": 0.287,
    "tier": 3
   },
   {
@@ -635,7 +620,7 @@
    "tldr": "Machine Intelligence",
    "published": "2026-06-26T18:30:00.000Z",
    "dupes": 1,
-   "score": 0.281,
+   "score": 0.28,
    "tier": 3
   },
   {
@@ -684,6 +669,19 @@
    "tier": 3
   },
   {
+   "id": "7f1a19cb84580aa11636c9a996cad4fb5bffdb50",
+   "title": "Run a vLLM Server on HF Jobs in One Command",
+   "url": "https://huggingface.co/blog/vllm-jobs",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-26T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.265,
+   "tier": 3
+  },
+  {
    "id": "68af68aaff7a99f624be7dfbba8b03763d9814b2",
    "title": "Understanding the brain with AI-driven explanations and experiments",
    "url": "https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments",
@@ -695,20 +693,7 @@
    "tldr": "Researchers introduce generative causal testing, which translates black box models into clear hypotheses and verifies them in the scanner, revealing what specific brain regions respond to in language.  The post…",
    "published": "2026-06-25T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.265,
-   "tier": 3
-  },
-  {
-   "id": "7f1a19cb84580aa11636c9a996cad4fb5bffdb50",
-   "title": "Run a vLLM Server on HF Jobs in One Command",
-   "url": "https://huggingface.co/blog/vllm-jobs",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-26T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.265,
+   "score": 0.264,
    "tier": 3
   },
   {
@@ -753,7 +738,7 @@
    "tldr": "",
    "published": "2026-06-29T11:29:14.000Z",
    "dupes": 1,
-   "score": 0.263,
+   "score": 0.258,
    "tier": 3
   },
   {
@@ -768,7 +753,7 @@
    "tldr": "See Tom Shaw's perspective on the infrastructure and technology inside one of Meta's data centers.  The post Inside One of Meta’s Data Centers appeared first on Meta Newsroom .",
    "published": "2026-06-26T18:28:26.000Z",
    "dupes": 1,
-   "score": 0.256,
+   "score": 0.255,
    "tier": 3
   },
   {
@@ -798,7 +783,7 @@
    "tldr": "2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios.",
    "published": "2026-06-28T21:42:51.000Z",
    "dupes": 1,
-   "score": 0.242,
+   "score": 0.239,
    "tier": 3
   },
   {
@@ -813,7 +798,7 @@
    "tldr": "",
    "published": "2026-06-28T15:08:03.000Z",
    "dupes": 1,
-   "score": 0.221,
+   "score": 0.218,
    "tier": 3
   },
   {
@@ -828,7 +813,7 @@
    "tldr": "",
    "published": "2026-06-28T09:19:07.000Z",
    "dupes": 1,
-   "score": 0.214,
+   "score": 0.213,
    "tier": 3
   }
  ]
