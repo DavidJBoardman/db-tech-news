@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-03T23:11:32.719Z",
+ "generated": "2026-07-04T01:06:17.676Z",
  "items": [
   {
    "id": "1cc388fb9b6750c5b5ff1be4a5d8974ea3dd0e70",
@@ -16,8 +16,23 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.55,
+   "score": 0.532,
    "tier": 1
+  },
+  {
+   "id": "b7e86ff92336a1f740475cc25476603bfa06bdbc",
+   "title": "GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell",
+   "url": "https://www.wafer.ai/blog/glm52-amd",
+   "source": "Hacker News",
+   "org": [
+    "zhipu"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-03T21:49:06.000Z",
+   "dupes": 1,
+   "score": 0.531,
+   "tier": 2
   },
   {
    "id": "616f8e70b9f85b5697b9163a1df14b75cc30b452",
@@ -31,22 +46,7 @@
    "tldr": "",
    "published": "2026-07-03T21:16:16.000Z",
    "dupes": 1,
-   "score": 0.529,
-   "tier": 2
-  },
-  {
-   "id": "b4fd6ded1793a8f4eb430311226317f30dba5c78",
-   "title": "Anthropic wants to develop its own drugs",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
-   "source": "The Verge AI",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, and generates figures…",
-   "published": "2026-07-03T13:56:52.000Z",
-   "dupes": 1,
-   "score": 0.445,
+   "score": 0.514,
    "tier": 2
   },
   {
@@ -68,6 +68,21 @@
    "tier": 2
   },
   {
+   "id": "b4fd6ded1793a8f4eb430311226317f30dba5c78",
+   "title": "Anthropic wants to develop its own drugs",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+   "source": "The Verge AI",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, and generates figures…",
+   "published": "2026-07-03T13:56:52.000Z",
+   "dupes": 1,
+   "score": 0.428,
+   "tier": 2
+  },
+  {
    "id": "f7b1eaa8826e4482d96e1be741ba6bf62152713c",
    "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
    "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
@@ -83,7 +98,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.405,
+   "score": 0.4,
    "tier": 2
   },
   {
@@ -143,7 +158,7 @@
    "tldr": "Summer is heating up — and GeForce NOW is taking players along for the ride.  Start the month with Monopoly: Star Wars Heroes vs.",
    "published": "2026-07-02T13:00:23.000Z",
    "dupes": 1,
-   "score": 0.369,
+   "score": 0.362,
    "tier": 2
   },
   {
@@ -158,7 +173,7 @@
    "tldr": "",
    "published": "2026-07-02T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.357,
+   "score": 0.353,
    "tier": 2
   },
   {
@@ -173,7 +188,7 @@
    "tldr": "The pace of AI adoption is moving incredibly fast.  Customers have moved well beyond experimentation and understand the importance of adopting AI to transform their business.",
    "published": "2026-07-02T12:59:05.000Z",
    "dupes": 1,
-   "score": 0.344,
+   "score": 0.337,
    "tier": 2
   },
   {
@@ -188,7 +203,7 @@
    "tldr": "As AI moves from model development to production inference, compute demand is accelerating and shifting toward continuously operating AI factories that generate tokens at scale.  This shift requires access to…",
    "published": "2026-07-02T03:34:48.000Z",
    "dupes": 1,
-   "score": 0.34,
+   "score": 0.336,
    "tier": 2
   },
   {
@@ -207,7 +222,7 @@
    ],
    "dupes": 2,
    "score": 0.321,
-   "tier": 2
+   "tier": 3
   },
   {
    "id": "f8c0cbef5e2e5bd2ee5954185f0479cd7f51b517",
@@ -221,7 +236,7 @@
    "tldr": "",
    "published": "2026-06-30T16:02:40.000Z",
    "dupes": 1,
-   "score": 0.317,
+   "score": 0.315,
    "tier": 3
   },
   {
@@ -236,7 +251,7 @@
    "tldr": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
    "published": "2026-06-30T09:00:00.000Z",
    "dupes": 1,
-   "score": 0.313,
+   "score": 0.312,
    "tier": 3
   },
   {
@@ -251,7 +266,7 @@
    "tldr": "S.  can produce the infrastructure needed for better healthcare, breakthrough scientific discovery, stronger industrial productivity and global technology leadership.",
    "published": "2026-07-01T13:00:47.000Z",
    "dupes": 1,
-   "score": 0.312,
+   "score": 0.31,
    "tier": 3
   },
   {
@@ -266,7 +281,7 @@
    "tldr": "",
    "published": "2026-06-30T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.309,
+   "score": 0.308,
    "tier": 3
   },
   {
@@ -281,7 +296,7 @@
    "tldr": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
    "published": "2026-06-30T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.309,
+   "score": 0.308,
    "tier": 3
   },
   {
@@ -296,7 +311,7 @@
    "tldr": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
    "published": "2026-06-30T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.309,
+   "score": 0.308,
    "tier": 3
   },
   {
@@ -310,21 +325,6 @@
    "topic": "ai",
    "tldr": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
    "published": "2026-06-29T07:00:00.000Z",
-   "dupes": 1,
-   "score": 0.305,
-   "tier": 3
-  },
-  {
-   "id": "86bc9e2813795f0f4351782f6918790ecbd83d0e",
-   "title": "From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery",
-   "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication",
-   "source": "Meta AI Blog",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-29T00:00:00.000Z",
    "dupes": 1,
    "score": 0.304,
    "tier": 3
@@ -345,6 +345,21 @@
    "tier": 3
   },
   {
+   "id": "86bc9e2813795f0f4351782f6918790ecbd83d0e",
+   "title": "From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery",
+   "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication",
+   "source": "Meta AI Blog",
+   "org": [
+    "meta"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-29T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.303,
+   "tier": 3
+  },
+  {
    "id": "f04fb5d1978c8c379aba9fe50277972b738b67df",
    "title": "Expanding our Heat Resilience data to 50+ global cities",
    "url": "https://research.google/blog/expanding-our-heat-resilience-data-to-50-global-cities",
@@ -356,7 +371,7 @@
    "tldr": "Climate & Sustainability",
    "published": "2026-06-30T17:03:00.000Z",
    "dupes": 1,
-   "score": 0.292,
+   "score": 0.291,
    "tier": 3
   },
   {
@@ -372,7 +387,7 @@
    "tldr": "Life sciences has entered an era of computational scale, and for more than a decade, NVIDIA has built the full GPU-accelerated computing stack — spanning hardware, frameworks, libraries, models, microservices and…",
    "published": "2026-06-30T17:00:38.000Z",
    "dupes": 1,
-   "score": 0.292,
+   "score": 0.291,
    "tier": 3
   },
   {
@@ -387,7 +402,7 @@
    "tldr": "As organizations move from AI pilots to production AI factories, infrastructure decisions have shifted from peak chip specifications to cost per token: how many useful tokens they can deliver per dollar, per watt and…",
    "published": "2026-06-30T15:00:57.000Z",
    "dupes": 1,
-   "score": 0.291,
+   "score": 0.29,
    "tier": 3
   },
   {
@@ -402,7 +417,7 @@
    "tldr": "When Jaiveer Singh talks about robots, he doesn’t begin with spectacle.  He begins with infrastructure: the boards inside machines, the software that lets developers see through a robot’s cameras and the engineering…",
    "published": "2026-06-30T15:00:49.000Z",
    "dupes": 1,
-   "score": 0.291,
+   "score": 0.29,
    "tier": 3
   },
   {
@@ -417,7 +432,7 @@
    "tldr": "Editor’s note: This post is part of Into the Omniverse, a series focused on how developers, 3D practitioners, and enterprises can transform their workflows using the latest advances in OpenUSD and NVIDIA Omniverse.",
    "published": "2026-06-30T13:00:27.000Z",
    "dupes": 1,
-   "score": 0.29,
+   "score": 0.289,
    "tier": 3
   },
   {
@@ -432,7 +447,7 @@
    "tldr": "Data Management",
    "published": "2026-06-30T10:26:00.000Z",
    "dupes": 1,
-   "score": 0.288,
+   "score": 0.287,
    "tier": 3
   },
   {
@@ -447,22 +462,7 @@
    "tldr": "",
    "published": "2026-07-01T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.285,
-   "tier": 3
-  },
-  {
-   "id": "633b279530ad9a435af7b719b40dfb012ac5c5ba",
-   "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI, according to the Financial Times.",
-   "published": "2026-07-02T10:23:27.000Z",
-   "dupes": 1,
-   "score": 0.285,
+   "score": 0.283,
    "tier": 3
   },
   {
@@ -479,7 +479,7 @@
    "tldr": "Anthropic’s Claude models in Microsoft Foundry — hosted on Microsoft Azure and running on NVIDIA GB300 Blackwell Ultra GPUs — are now generally available, giving Azure-native enterprises a powerful new way to build…",
    "published": "2026-06-29T17:00:19.000Z",
    "dupes": 1,
-   "score": 0.282,
+   "score": 0.281,
    "tier": 3
   },
   {
@@ -493,19 +493,6 @@
    "topic": "compute",
    "tldr": "",
    "published": "2026-06-29T15:00:04.000Z",
-   "dupes": 1,
-   "score": 0.281,
-   "tier": 3
-  },
-  {
-   "id": "8654826289ec75765d33aa78a628bcae9814015f",
-   "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-   "url": "https://huggingface.co/blog/ibm-research/scarfbench",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-30T18:32:50.000Z",
    "dupes": 1,
    "score": 0.281,
    "tier": 3
@@ -526,6 +513,34 @@
    "tier": 3
   },
   {
+   "id": "8654826289ec75765d33aa78a628bcae9814015f",
+   "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+   "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-30T18:32:50.000Z",
+   "dupes": 1,
+   "score": 0.279,
+   "tier": 3
+  },
+  {
+   "id": "633b279530ad9a435af7b719b40dfb012ac5c5ba",
+   "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
+   "source": "The Verge AI",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI, according to the Financial Times.",
+   "published": "2026-07-02T10:23:27.000Z",
+   "dupes": 1,
+   "score": 0.279,
+   "tier": 3
+  },
+  {
    "id": "503490bee9e449528df6445bf056f0c76a84ff2a",
    "title": "SkillOpt: Agent skills as trainable parameters",
    "url": "https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters",
@@ -537,7 +552,7 @@
    "tldr": "AI agents often fail because their instructions, or skills, are manually modified with no guarantee of improvement.  Learn how SkillOpt turns skill editing into a training process, making agent behavior more reliable…",
    "published": "2026-06-30T16:50:02.000Z",
    "dupes": 1,
-   "score": 0.28,
+   "score": 0.278,
    "tier": 3
   },
   {
@@ -550,22 +565,7 @@
    "tldr": "",
    "published": "2026-06-30T14:39:11.000Z",
    "dupes": 1,
-   "score": 0.278,
-   "tier": 3
-  },
-  {
-   "id": "05c30363cdc170537958f2e863fcee5c38e2d6ab",
-   "title": "Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity",
-   "url": "https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity",
-   "source": "Microsoft Research",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "AI agents can't remember past conversations.  They must constantly reload or retrieve context, which grows less efficient as tasks get longer and more complex.",
-   "published": "2026-06-29T21:14:22.000Z",
-   "dupes": 1,
-   "score": 0.271,
+   "score": 0.277,
    "tier": 3
   },
   {
@@ -582,6 +582,21 @@
    "tier": 3
   },
   {
+   "id": "05c30363cdc170537958f2e863fcee5c38e2d6ab",
+   "title": "Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity",
+   "url": "https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity",
+   "source": "Microsoft Research",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "AI agents can't remember past conversations.  They must constantly reload or retrieve context, which grows less efficient as tasks get longer and more complex.",
+   "published": "2026-06-29T21:14:22.000Z",
+   "dupes": 1,
+   "score": 0.27,
+   "tier": 3
+  },
+  {
    "id": "91d16542fa1f3b29004be7a620e044f108cb8232",
    "title": "DiScoFormer: One transformer for density and score, across distributions",
    "url": "https://huggingface.co/blog/allenai/discoformer",
@@ -591,7 +606,7 @@
    "tldr": "",
    "published": "2026-06-29T18:02:48.000Z",
    "dupes": 1,
-   "score": 0.27,
+   "score": 0.269,
    "tier": 3
   },
   {
@@ -606,7 +621,7 @@
    "tldr": "Smart speakers have spent the past few years searching for a compelling second act.  Beyond music, timers, and controlling your lights, they've struggled to justify taking up space on the kitchen counter.",
    "published": "2026-07-01T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.236,
+   "score": 0.233,
    "tier": 3
   },
   {
@@ -621,7 +636,7 @@
    "tldr": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online.",
    "published": "2026-07-01T00:03:55.000Z",
    "dupes": 1,
-   "score": 0.223,
+   "score": 0.221,
    "tier": 3
   },
   {
@@ -639,7 +654,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.219,
+   "score": 0.218,
    "tier": 3
   },
   {
@@ -654,7 +669,7 @@
    "tldr": "",
    "published": "2026-06-29T11:29:14.000Z",
    "dupes": 1,
-   "score": 0.213,
+   "score": 0.212,
    "tier": 3
   }
  ]
