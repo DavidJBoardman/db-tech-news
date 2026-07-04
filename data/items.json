@@ -1,6 +1,36 @@
 {
- "generated": "2026-07-04T16:56:28.865Z",
+ "generated": "2026-07-04T18:00:22.443Z",
  "items": [
+  {
+   "id": "6c0cb1e74c799b11351b27ef703957a9c24b6fef",
+   "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
+   "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
+   "source": "Hacker News",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-04T16:51:26.000Z",
+   "dupes": 1,
+   "score": 0.554,
+   "tier": 1
+  },
+  {
+   "id": "b0c5a02c459d7cccafd91c2d6e03b6382a01a88e",
+   "title": "Meta data center water discharges suspended for contaminating water supply",
+   "url": "https://www.tomshardware.com/tech-industry/data-centers/cheyenne-suspends-data-center-fill-and-flush-and-closed-loop-discharges-after-meta-contractor-contaminated-its-reuse-water-system",
+   "source": "Hacker News",
+   "org": [
+    "meta"
+   ],
+   "topic": "compute",
+   "tldr": "",
+   "published": "2026-07-04T16:45:23.000Z",
+   "dupes": 1,
+   "score": 0.543,
+   "tier": 2
+  },
   {
    "id": "8f1810cffc843241dbbd77f512ad37be06f61521",
    "title": "New model on Hugging Face: deepseek-ai/eagle3_gemma4_12b_ttt7",
@@ -17,7 +47,7 @@
    ],
    "dupes": 5,
    "score": 0.439,
-   "tier": 1
+   "tier": 2
   },
   {
    "id": "1cc388fb9b6750c5b5ff1be4a5d8974ea3dd0e70",
@@ -34,7 +64,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.426,
+   "score": 0.421,
    "tier": 2
   },
   {
@@ -53,7 +83,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.372,
+   "score": 0.37,
    "tier": 2
   },
   {
@@ -113,22 +143,7 @@
    "tldr": "",
    "published": "2026-07-02T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.329,
-   "tier": 2
-  },
-  {
-   "id": "b4fd6ded1793a8f4eb430311226317f30dba5c78",
-   "title": "Anthropic wants to develop its own drugs",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
-   "source": "The Verge AI",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, and generates figures…",
-   "published": "2026-07-03T13:56:52.000Z",
-   "dupes": 1,
-   "score": 0.324,
+   "score": 0.328,
    "tier": 2
   },
   {
@@ -143,7 +158,22 @@
    "tldr": "Summer is heating up — and GeForce NOW is taking players along for the ride.  Start the month with Monopoly: Star Wars Heroes vs.",
    "published": "2026-07-02T13:00:23.000Z",
    "dupes": 1,
-   "score": 0.322,
+   "score": 0.32,
+   "tier": 2
+  },
+  {
+   "id": "b4fd6ded1793a8f4eb430311226317f30dba5c78",
+   "title": "Anthropic wants to develop its own drugs",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+   "source": "The Verge AI",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, and generates figures…",
+   "published": "2026-07-03T13:56:52.000Z",
+   "dupes": 1,
+   "score": 0.319,
    "tier": 2
   },
   {
@@ -191,8 +221,8 @@
    "tldr": "As AI moves from model development to production inference, compute demand is accelerating and shifting toward continuously operating AI factories that generate tokens at scale.  This shift requires access to…",
    "published": "2026-07-02T03:34:48.000Z",
    "dupes": 1,
-   "score": 0.308,
-   "tier": 2
+   "score": 0.307,
+   "tier": 3
   },
   {
    "id": "fb435a036a32d4b887831901912e1f14db00b2cd",
@@ -207,7 +237,7 @@
    "published": "2026-06-30T09:00:00.000Z",
    "dupes": 1,
    "score": 0.306,
-   "tier": 2
+   "tier": 3
   },
   {
    "id": "200e6c5f82a034d1e5865995aafcfa3fe91654b3",
@@ -221,7 +251,7 @@
    "tldr": "",
    "published": "2026-06-30T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.305,
+   "score": 0.304,
    "tier": 3
   },
   {
@@ -236,7 +266,7 @@
    "tldr": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
    "published": "2026-06-30T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.305,
+   "score": 0.304,
    "tier": 3
   },
   {
@@ -251,7 +281,7 @@
    "tldr": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
    "published": "2026-06-30T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.305,
+   "score": 0.304,
    "tier": 3
   },
   {
@@ -311,7 +341,7 @@
    "tldr": "The pace of AI adoption is moving incredibly fast.  Customers have moved well beyond experimentation and understand the importance of adopting AI to transform their business.",
    "published": "2026-07-02T12:59:05.000Z",
    "dupes": 1,
-   "score": 0.297,
+   "score": 0.295,
    "tier": 3
   },
   {
@@ -326,7 +356,7 @@
    "tldr": "S.  can produce the infrastructure needed for better healthcare, breakthrough scientific discovery, stronger industrial productivity and global technology leadership.",
    "published": "2026-07-01T13:00:47.000Z",
    "dupes": 1,
-   "score": 0.294,
+   "score": 0.293,
    "tier": 3
   },
   {
@@ -341,7 +371,7 @@
    "tldr": "Climate & Sustainability",
    "published": "2026-06-30T17:03:00.000Z",
    "dupes": 1,
-   "score": 0.284,
+   "score": 0.283,
    "tier": 3
   },
   {
@@ -357,7 +387,7 @@
    "tldr": "Life sciences has entered an era of computational scale, and for more than a decade, NVIDIA has built the full GPU-accelerated computing stack — spanning hardware, frameworks, libraries, models, microservices and…",
    "published": "2026-06-30T17:00:38.000Z",
    "dupes": 1,
-   "score": 0.284,
+   "score": 0.283,
    "tier": 3
   },
   {
@@ -391,21 +421,6 @@
    "tier": 3
   },
   {
-   "id": "85db14fb2b0c557062f5435bde9cfdea14c71c77",
-   "title": "Introducing TabFM: A zero-shot foundation model for tabular data",
-   "url": "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data",
-   "source": "Google Research",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Data Management",
-   "published": "2026-06-30T10:26:00.000Z",
-   "dupes": 1,
-   "score": 0.282,
-   "tier": 3
-  },
-  {
    "id": "c2fa02f31fd287f597e88fb5f519d8c47de54f57",
    "title": "Into the Omniverse: Three Workflows for Improving Vision AI Agent Accuracy With Synthetic Data and Fine-Tuning",
    "url": "https://blogs.nvidia.com/blog/vision-ai-agent-skills-omniverse-metropolis",
@@ -418,6 +433,21 @@
    "published": "2026-06-30T13:00:27.000Z",
    "dupes": 1,
    "score": 0.282,
+   "tier": 3
+  },
+  {
+   "id": "85db14fb2b0c557062f5435bde9cfdea14c71c77",
+   "title": "Introducing TabFM: A zero-shot foundation model for tabular data",
+   "url": "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data",
+   "source": "Google Research",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Data Management",
+   "published": "2026-06-30T10:26:00.000Z",
+   "dupes": 1,
+   "score": 0.281,
    "tier": 3
   },
   {
@@ -479,20 +509,7 @@
    "tldr": "",
    "published": "2026-07-01T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.274,
-   "tier": 3
-  },
-  {
-   "id": "8654826289ec75765d33aa78a628bcae9814015f",
-   "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-   "url": "https://huggingface.co/blog/ibm-research/scarfbench",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-30T18:32:50.000Z",
-   "dupes": 1,
-   "score": 0.272,
+   "score": 0.273,
    "tier": 3
   },
   {
@@ -511,6 +528,19 @@
    "tier": 3
   },
   {
+   "id": "8654826289ec75765d33aa78a628bcae9814015f",
+   "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+   "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-30T18:32:50.000Z",
+   "dupes": 1,
+   "score": 0.271,
+   "tier": 3
+  },
+  {
    "id": "d7f8db1c666b51cebef1c5d5c91115472bc33316",
    "title": "Why Specialization Is Inevitable",
    "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
@@ -521,6 +551,19 @@
    "published": "2026-06-30T14:39:11.000Z",
    "dupes": 1,
    "score": 0.27,
+   "tier": 3
+  },
+  {
+   "id": "3f0a56fa70110027403b008388e78ef3cb8a446e",
+   "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+   "url": "https://huggingface.co/blog/eee-community-evals",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-30T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.267,
    "tier": 3
   },
   {
@@ -535,20 +578,7 @@
    "tldr": "AI agents can't remember past conversations.  They must constantly reload or retrieve context, which grows less efficient as tasks get longer and more complex.",
    "published": "2026-06-29T21:14:22.000Z",
    "dupes": 1,
-   "score": 0.267,
-   "tier": 3
-  },
-  {
-   "id": "3f0a56fa70110027403b008388e78ef3cb8a446e",
-   "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
-   "url": "https://huggingface.co/blog/eee-community-evals",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-30T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.267,
+   "score": 0.266,
    "tier": 3
   },
   {
@@ -576,7 +606,7 @@
    "tldr": "OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI, according to the Financial Times.",
    "published": "2026-07-02T10:23:27.000Z",
    "dupes": 1,
-   "score": 0.243,
+   "score": 0.241,
    "tier": 3
   },
   {
@@ -591,7 +621,7 @@
    "tldr": "Smart speakers have spent the past few years searching for a compelling second act.  Beyond music, timers, and controlling your lights, they've struggled to justify taking up space on the kitchen counter.",
    "published": "2026-07-01T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.218,
+   "score": 0.217,
    "tier": 3
   },
   {
@@ -639,7 +669,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.21,
+   "score": 0.209,
    "tier": 3
   }
  ]
