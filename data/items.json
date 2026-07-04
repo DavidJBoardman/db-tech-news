@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-04T21:28:42.951Z",
+ "generated": "2026-07-04T22:28:26.878Z",
  "items": [
   {
    "id": "6c0cb1e74c799b11351b27ef703957a9c24b6fef",
@@ -13,8 +13,23 @@
    "tldr": "",
    "published": "2026-07-04T16:51:26.000Z",
    "dupes": 1,
-   "score": 0.574,
+   "score": 0.575,
    "tier": 1
+  },
+  {
+   "id": "7e9ffc3a6038f105de42c2ba1769141bc4a4c31c",
+   "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+   "url": "https://github.com/openai/codex/issues/30364",
+   "source": "Hacker News",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-04T21:51:09.000Z",
+   "dupes": 1,
+   "score": 0.553,
+   "tier": 2
   },
   {
    "id": "b0c5a02c459d7cccafd91c2d6e03b6382a01a88e",
@@ -64,7 +79,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.406,
+   "score": 0.402,
    "tier": 2
   },
   {
@@ -128,7 +143,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.366,
+   "score": 0.365,
    "tier": 2
   },
   {
@@ -143,7 +158,7 @@
    "tldr": "",
    "published": "2026-07-02T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.324,
+   "score": 0.323,
    "tier": 2
   },
   {
@@ -176,7 +191,7 @@
    "tldr": "Summer is heating up — and GeForce NOW is taking players along for the ride.  Start the month with Monopoly: Star Wars Heroes vs.",
    "published": "2026-07-02T13:00:23.000Z",
    "dupes": 1,
-   "score": 0.315,
+   "score": 0.313,
    "tier": 2
   },
   {
@@ -207,7 +222,7 @@
    "published": "2026-06-30T09:00:00.000Z",
    "dupes": 1,
    "score": 0.305,
-   "tier": 2
+   "tier": 3
   },
   {
    "id": "200e6c5f82a034d1e5865995aafcfa3fe91654b3",
@@ -255,36 +270,6 @@
    "tier": 3
   },
   {
-   "id": "b4fd6ded1793a8f4eb430311226317f30dba5c78",
-   "title": "Anthropic wants to develop its own drugs",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
-   "source": "The Verge AI",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, and generates figures…",
-   "published": "2026-07-03T13:56:52.000Z",
-   "dupes": 1,
-   "score": 0.304,
-   "tier": 3
-  },
-  {
-   "id": "18812a0ea3c5fa904480c23e5dc3f08b6ebc22c8",
-   "title": "NVIDIA Unlocks AI Compute at Scale, Inviting Partners to Power the AI Infrastructure Buildout",
-   "url": "https://blogs.nvidia.com/blog/nvidia-unlocks-ai-compute-at-scale-capital-partners-to-power-ai-infrastructure-buildout",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "As AI moves from model development to production inference, compute demand is accelerating and shifting toward continuously operating AI factories that generate tokens at scale.  This shift requires access to…",
-   "published": "2026-07-02T03:34:48.000Z",
-   "dupes": 1,
-   "score": 0.303,
-   "tier": 3
-  },
-  {
    "id": "5b79476b114204dfe57ef8bf97ddea09c2e8f24d",
    "title": "Mapping Europe’s AI Workforce Opportunity",
    "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
@@ -300,16 +285,16 @@
    "tier": 3
   },
   {
-   "id": "86bc9e2813795f0f4351782f6918790ecbd83d0e",
-   "title": "From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery",
-   "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication",
-   "source": "Meta AI Blog",
+   "id": "18812a0ea3c5fa904480c23e5dc3f08b6ebc22c8",
+   "title": "NVIDIA Unlocks AI Compute at Scale, Inviting Partners to Power the AI Infrastructure Buildout",
+   "url": "https://blogs.nvidia.com/blog/nvidia-unlocks-ai-compute-at-scale-capital-partners-to-power-ai-infrastructure-buildout",
+   "source": "NVIDIA Blog",
    "org": [
-    "meta"
+    "nvidia"
    ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-29T00:00:00.000Z",
+   "topic": "compute",
+   "tldr": "As AI moves from model development to production inference, compute demand is accelerating and shifting toward continuously operating AI factories that generate tokens at scale.  This shift requires access to…",
+   "published": "2026-07-02T03:34:48.000Z",
    "dupes": 1,
    "score": 0.302,
    "tier": 3
@@ -330,6 +315,36 @@
    "tier": 3
   },
   {
+   "id": "86bc9e2813795f0f4351782f6918790ecbd83d0e",
+   "title": "From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery",
+   "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication",
+   "source": "Meta AI Blog",
+   "org": [
+    "meta"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-29T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.301,
+   "tier": 3
+  },
+  {
+   "id": "b4fd6ded1793a8f4eb430311226317f30dba5c78",
+   "title": "Anthropic wants to develop its own drugs",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+   "source": "The Verge AI",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, and generates figures…",
+   "published": "2026-07-03T13:56:52.000Z",
+   "dupes": 1,
+   "score": 0.3,
+   "tier": 3
+  },
+  {
    "id": "d067532f40f307cf2fb64918651e3fb9e901a45d",
    "title": "NVIDIA and Partners Build in America, for America",
    "url": "https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america",
@@ -341,7 +356,7 @@
    "tldr": "S.  can produce the infrastructure needed for better healthcare, breakthrough scientific discovery, stronger industrial productivity and global technology leadership.",
    "published": "2026-07-01T13:00:47.000Z",
    "dupes": 1,
-   "score": 0.291,
+   "score": 0.29,
    "tier": 3
   },
   {
@@ -356,7 +371,7 @@
    "tldr": "The pace of AI adoption is moving incredibly fast.  Customers have moved well beyond experimentation and understand the importance of adopting AI to transform their business.",
    "published": "2026-07-02T12:59:05.000Z",
    "dupes": 1,
-   "score": 0.29,
+   "score": 0.288,
    "tier": 3
   },
   {
@@ -421,21 +436,6 @@
    "tier": 3
   },
   {
-   "id": "85db14fb2b0c557062f5435bde9cfdea14c71c77",
-   "title": "Introducing TabFM: A zero-shot foundation model for tabular data",
-   "url": "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data",
-   "source": "Google Research",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Data Management",
-   "published": "2026-06-30T10:26:00.000Z",
-   "dupes": 1,
-   "score": 0.281,
-   "tier": 3
-  },
-  {
    "id": "c2fa02f31fd287f597e88fb5f519d8c47de54f57",
    "title": "Into the Omniverse: Three Workflows for Improving Vision AI Agent Accuracy With Synthetic Data and Fine-Tuning",
    "url": "https://blogs.nvidia.com/blog/vision-ai-agent-skills-omniverse-metropolis",
@@ -448,6 +448,21 @@
    "published": "2026-06-30T13:00:27.000Z",
    "dupes": 1,
    "score": 0.281,
+   "tier": 3
+  },
+  {
+   "id": "85db14fb2b0c557062f5435bde9cfdea14c71c77",
+   "title": "Introducing TabFM: A zero-shot foundation model for tabular data",
+   "url": "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data",
+   "source": "Google Research",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Data Management",
+   "published": "2026-06-30T10:26:00.000Z",
+   "dupes": 1,
+   "score": 0.28,
    "tier": 3
   },
   {
@@ -513,6 +528,19 @@
    "tier": 3
   },
   {
+   "id": "8654826289ec75765d33aa78a628bcae9814015f",
+   "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+   "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-30T18:32:50.000Z",
+   "dupes": 1,
+   "score": 0.27,
+   "tier": 3
+  },
+  {
    "id": "503490bee9e449528df6445bf056f0c76a84ff2a",
    "title": "SkillOpt: Agent skills as trainable parameters",
    "url": "https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters",
@@ -524,20 +552,7 @@
    "tldr": "AI agents often fail because their instructions, or skills, are manually modified with no guarantee of improvement.  Learn how SkillOpt turns skill editing into a training process, making agent behavior more reliable…",
    "published": "2026-06-30T16:50:02.000Z",
    "dupes": 1,
-   "score": 0.27,
-   "tier": 3
-  },
-  {
-   "id": "8654826289ec75765d33aa78a628bcae9814015f",
-   "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-   "url": "https://huggingface.co/blog/ibm-research/scarfbench",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-30T18:32:50.000Z",
-   "dupes": 1,
-   "score": 0.27,
+   "score": 0.269,
    "tier": 3
   },
   {
@@ -591,7 +606,7 @@
    "tldr": "",
    "published": "2026-06-29T18:02:48.000Z",
    "dupes": 1,
-   "score": 0.266,
+   "score": 0.265,
    "tier": 3
   },
   {
@@ -606,7 +621,7 @@
    "tldr": "OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI, according to the Financial Times.",
    "published": "2026-07-02T10:23:27.000Z",
    "dupes": 1,
-   "score": 0.236,
+   "score": 0.235,
    "tier": 3
   },
   {
@@ -625,21 +640,6 @@
    "tier": 3
   },
   {
-   "id": "c5e612bf83f7d2e2e47b9e0b9278649d94772156",
-   "title": "Anthropic’s long-sidelined Fable 5 is greenlit to return",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
-   "source": "The Verge AI",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online.",
-   "published": "2026-07-01T00:03:55.000Z",
-   "dupes": 1,
-   "score": 0.21,
-   "tier": 3
-  },
-  {
    "id": "d373690366e430949afb9b4bde846ca4700ec198",
    "title": "DeepSeek V4 Peak Valley Pricing Change",
    "url": "https://www.kucoin.com/news/flash/deepseek-v4-launches-in-mid-july-with-peak-valley-pricing",
@@ -650,6 +650,21 @@
    "topic": "ai",
    "tldr": "",
    "published": "2026-06-29T11:29:14.000Z",
+   "dupes": 1,
+   "score": 0.209,
+   "tier": 3
+  },
+  {
+   "id": "c5e612bf83f7d2e2e47b9e0b9278649d94772156",
+   "title": "Anthropic’s long-sidelined Fable 5 is greenlit to return",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+   "source": "The Verge AI",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online.",
+   "published": "2026-07-01T00:03:55.000Z",
    "dupes": 1,
    "score": 0.209,
    "tier": 3
