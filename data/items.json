@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-04T18:00:22.443Z",
+ "generated": "2026-07-04T19:24:08.225Z",
  "items": [
   {
    "id": "6c0cb1e74c799b11351b27ef703957a9c24b6fef",
@@ -13,7 +13,7 @@
    "tldr": "",
    "published": "2026-07-04T16:51:26.000Z",
    "dupes": 1,
-   "score": 0.554,
+   "score": 0.567,
    "tier": 1
   },
   {
@@ -28,7 +28,7 @@
    "tldr": "",
    "published": "2026-07-04T16:45:23.000Z",
    "dupes": 1,
-   "score": 0.543,
+   "score": 0.549,
    "tier": 2
   },
   {
@@ -64,7 +64,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.421,
+   "score": 0.415,
    "tier": 2
   },
   {
@@ -83,7 +83,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.37,
+   "score": 0.369,
    "tier": 2
   },
   {
@@ -143,7 +143,7 @@
    "tldr": "",
    "published": "2026-07-02T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.328,
+   "score": 0.326,
    "tier": 2
   },
   {
@@ -158,22 +158,7 @@
    "tldr": "Summer is heating up — and GeForce NOW is taking players along for the ride.  Start the month with Monopoly: Star Wars Heroes vs.",
    "published": "2026-07-02T13:00:23.000Z",
    "dupes": 1,
-   "score": 0.32,
-   "tier": 2
-  },
-  {
-   "id": "b4fd6ded1793a8f4eb430311226317f30dba5c78",
-   "title": "Anthropic wants to develop its own drugs",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
-   "source": "The Verge AI",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, and generates figures…",
-   "published": "2026-07-03T13:56:52.000Z",
-   "dupes": 1,
-   "score": 0.319,
+   "score": 0.318,
    "tier": 2
   },
   {
@@ -191,7 +176,22 @@
     "model"
    ],
    "dupes": 2,
-   "score": 0.317,
+   "score": 0.316,
+   "tier": 2
+  },
+  {
+   "id": "b4fd6ded1793a8f4eb430311226317f30dba5c78",
+   "title": "Anthropic wants to develop its own drugs",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+   "source": "The Verge AI",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, and generates figures…",
+   "published": "2026-07-03T13:56:52.000Z",
+   "dupes": 1,
+   "score": 0.313,
    "tier": 2
   },
   {
@@ -210,21 +210,6 @@
    "tier": 2
   },
   {
-   "id": "18812a0ea3c5fa904480c23e5dc3f08b6ebc22c8",
-   "title": "NVIDIA Unlocks AI Compute at Scale, Inviting Partners to Power the AI Infrastructure Buildout",
-   "url": "https://blogs.nvidia.com/blog/nvidia-unlocks-ai-compute-at-scale-capital-partners-to-power-ai-infrastructure-buildout",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "As AI moves from model development to production inference, compute demand is accelerating and shifting toward continuously operating AI factories that generate tokens at scale.  This shift requires access to…",
-   "published": "2026-07-02T03:34:48.000Z",
-   "dupes": 1,
-   "score": 0.307,
-   "tier": 3
-  },
-  {
    "id": "fb435a036a32d4b887831901912e1f14db00b2cd",
    "title": "How ChatGPT adoption has expanded",
    "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
@@ -237,6 +222,21 @@
    "published": "2026-06-30T09:00:00.000Z",
    "dupes": 1,
    "score": 0.306,
+   "tier": 3
+  },
+  {
+   "id": "18812a0ea3c5fa904480c23e5dc3f08b6ebc22c8",
+   "title": "NVIDIA Unlocks AI Compute at Scale, Inviting Partners to Power the AI Infrastructure Buildout",
+   "url": "https://blogs.nvidia.com/blog/nvidia-unlocks-ai-compute-at-scale-capital-partners-to-power-ai-infrastructure-buildout",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "As AI moves from model development to production inference, compute demand is accelerating and shifting toward continuously operating AI factories that generate tokens at scale.  This shift requires access to…",
+   "published": "2026-07-02T03:34:48.000Z",
+   "dupes": 1,
+   "score": 0.305,
    "tier": 3
   },
   {
@@ -341,7 +341,7 @@
    "tldr": "The pace of AI adoption is moving incredibly fast.  Customers have moved well beyond experimentation and understand the importance of adopting AI to transform their business.",
    "published": "2026-07-02T12:59:05.000Z",
    "dupes": 1,
-   "score": 0.295,
+   "score": 0.293,
    "tier": 3
   },
   {
@@ -356,7 +356,7 @@
    "tldr": "S.  can produce the infrastructure needed for better healthcare, breakthrough scientific discovery, stronger industrial productivity and global technology leadership.",
    "published": "2026-07-01T13:00:47.000Z",
    "dupes": 1,
-   "score": 0.293,
+   "score": 0.292,
    "tier": 3
   },
   {
@@ -402,7 +402,7 @@
    "tldr": "As organizations move from AI pilots to production AI factories, infrastructure decisions have shifted from peak chip specifications to cost per token: how many useful tokens they can deliver per dollar, per watt and…",
    "published": "2026-06-30T15:00:57.000Z",
    "dupes": 1,
-   "score": 0.283,
+   "score": 0.282,
    "tier": 3
   },
   {
@@ -417,7 +417,7 @@
    "tldr": "When Jaiveer Singh talks about robots, he doesn’t begin with spectacle.  He begins with infrastructure: the boards inside machines, the software that lets developers see through a robot’s cameras and the engineering…",
    "published": "2026-06-30T15:00:49.000Z",
    "dupes": 1,
-   "score": 0.283,
+   "score": 0.282,
    "tier": 3
   },
   {
@@ -494,7 +494,7 @@
    "tldr": "S.  government agencies.",
    "published": "2026-06-29T10:59:38.000Z",
    "dupes": 1,
-   "score": 0.278,
+   "score": 0.277,
    "tier": 3
   },
   {
@@ -513,6 +513,19 @@
    "tier": 3
   },
   {
+   "id": "8654826289ec75765d33aa78a628bcae9814015f",
+   "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+   "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-30T18:32:50.000Z",
+   "dupes": 1,
+   "score": 0.271,
+   "tier": 3
+  },
+  {
    "id": "503490bee9e449528df6445bf056f0c76a84ff2a",
    "title": "SkillOpt: Agent skills as trainable parameters",
    "url": "https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters",
@@ -524,20 +537,7 @@
    "tldr": "AI agents often fail because their instructions, or skills, are manually modified with no guarantee of improvement.  Learn how SkillOpt turns skill editing into a training process, making agent behavior more reliable…",
    "published": "2026-06-30T16:50:02.000Z",
    "dupes": 1,
-   "score": 0.271,
-   "tier": 3
-  },
-  {
-   "id": "8654826289ec75765d33aa78a628bcae9814015f",
-   "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-   "url": "https://huggingface.co/blog/ibm-research/scarfbench",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-30T18:32:50.000Z",
-   "dupes": 1,
-   "score": 0.271,
+   "score": 0.27,
    "tier": 3
   },
   {
@@ -606,7 +606,7 @@
    "tldr": "OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI, according to the Financial Times.",
    "published": "2026-07-02T10:23:27.000Z",
    "dupes": 1,
-   "score": 0.241,
+   "score": 0.239,
    "tier": 3
   },
   {
@@ -621,22 +621,7 @@
    "tldr": "Smart speakers have spent the past few years searching for a compelling second act.  Beyond music, timers, and controlling your lights, they've struggled to justify taking up space on the kitchen counter.",
    "published": "2026-07-01T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.217,
-   "tier": 3
-  },
-  {
-   "id": "c5e612bf83f7d2e2e47b9e0b9278649d94772156",
-   "title": "Anthropic’s long-sidelined Fable 5 is greenlit to return",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
-   "source": "The Verge AI",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online.",
-   "published": "2026-07-01T00:03:55.000Z",
-   "dupes": 1,
-   "score": 0.211,
+   "score": 0.216,
    "tier": 3
   },
   {
@@ -650,6 +635,21 @@
    "topic": "ai",
    "tldr": "",
    "published": "2026-06-29T11:29:14.000Z",
+   "dupes": 1,
+   "score": 0.21,
+   "tier": 3
+  },
+  {
+   "id": "c5e612bf83f7d2e2e47b9e0b9278649d94772156",
+   "title": "Anthropic’s long-sidelined Fable 5 is greenlit to return",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+   "source": "The Verge AI",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online.",
+   "published": "2026-07-01T00:03:55.000Z",
    "dupes": 1,
    "score": 0.21,
    "tier": 3
