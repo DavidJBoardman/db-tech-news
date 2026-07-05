@@ -1,6 +1,19 @@
 {
- "generated": "2026-07-05T18:35:03.215Z",
+ "generated": "2026-07-05T20:09:05.042Z",
  "items": [
+  {
+   "id": "e8ecf02769768011e878276ae20463513085652f",
+   "title": "Jim Keller's startup is building a factory to mass-produce small chip fabs",
+   "url": "https://www.tomshardware.com/tech-industry/atomic-semi-rebrands-as-fab2-and-shifts-operations-to-texas",
+   "source": "Hacker News",
+   "org": [],
+   "topic": "compute",
+   "tldr": "",
+   "published": "2026-07-05T18:45:52.000Z",
+   "dupes": 1,
+   "score": 0.539,
+   "tier": 1
+  },
   {
    "id": "27710906dff6aade7ada68a493f736d76eeaa8c2",
    "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
@@ -13,8 +26,8 @@
    "tldr": "\" That's how a new commercial for Google Workspace opens.  And things only get cringier from there.",
    "published": "2026-07-05T14:23:11.000Z",
    "dupes": 1,
-   "score": 0.498,
-   "tier": 1
+   "score": 0.48,
+   "tier": 2
   },
   {
    "id": "ff1300aa6ccec48d7d7f5b02492a03866b415b13",
@@ -77,7 +90,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.35,
+   "score": 0.349,
    "tier": 2
   },
   {
@@ -95,7 +108,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.347,
+   "score": 0.344,
    "tier": 2
   },
   {
@@ -128,7 +141,7 @@
    "tldr": "",
    "published": "2026-07-02T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.311,
+   "score": 0.31,
    "tier": 2
   },
   {
@@ -204,7 +217,7 @@
    "published": "2026-06-30T00:00:00.000Z",
    "dupes": 1,
    "score": 0.302,
-   "tier": 2
+   "tier": 3
   },
   {
    "id": "5b79476b114204dfe57ef8bf97ddea09c2e8f24d",
@@ -248,7 +261,7 @@
    "tldr": "Summer is heating up — and GeForce NOW is taking players along for the ride.  Start the month with Monopoly: Star Wars Heroes vs.",
    "published": "2026-07-02T13:00:23.000Z",
    "dupes": 1,
-   "score": 0.293,
+   "score": 0.292,
    "tier": 3
   },
   {
@@ -292,21 +305,6 @@
    "topic": "ai",
    "tldr": "Climate & Sustainability",
    "published": "2026-06-30T17:03:00.000Z",
-   "dupes": 1,
-   "score": 0.278,
-   "tier": 3
-  },
-  {
-   "id": "85db14fb2b0c557062f5435bde9cfdea14c71c77",
-   "title": "Introducing TabFM: A zero-shot foundation model for tabular data",
-   "url": "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data",
-   "source": "Google Research",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Data Management",
-   "published": "2026-06-30T10:26:00.000Z",
    "dupes": 1,
    "score": 0.278,
    "tier": 3
@@ -373,6 +371,21 @@
    "tier": 3
   },
   {
+   "id": "85db14fb2b0c557062f5435bde9cfdea14c71c77",
+   "title": "Introducing TabFM: A zero-shot foundation model for tabular data",
+   "url": "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data",
+   "source": "Google Research",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Data Management",
+   "published": "2026-06-30T10:26:00.000Z",
+   "dupes": 1,
+   "score": 0.277,
+   "tier": 3
+  },
+  {
    "id": "f2ff417016790f1657c073e93fea4b61163cd3aa",
    "title": "Claude Meets Blackwell Ultra: Anthropic’s Models Now Run on NVIDIA GB300 in Azure",
    "url": "https://blogs.nvidia.com/blog/anthropic-nvidia-gb300-blackwell-ultra-microsoft-azure",
@@ -431,21 +444,6 @@
    "tldr": "The pace of AI adoption is moving incredibly fast.  Customers have moved well beyond experimentation and understand the importance of adopting AI to transform their business.",
    "published": "2026-07-02T12:59:05.000Z",
    "dupes": 1,
-   "score": 0.268,
-   "tier": 3
-  },
-  {
-   "id": "b7f49b2bc1486b470db58f718245731aab7c90f5",
-   "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
-   "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
-   "source": "Hugging Face Blog",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-01T00:00:00.000Z",
-   "dupes": 1,
    "score": 0.267,
    "tier": 3
   },
@@ -460,6 +458,21 @@
    "topic": "ai",
    "tldr": "AI agents often fail because their instructions, or skills, are manually modified with no guarantee of improvement.  Learn how SkillOpt turns skill editing into a training process, making agent behavior more reliable…",
    "published": "2026-06-30T16:50:02.000Z",
+   "dupes": 1,
+   "score": 0.266,
+   "tier": 3
+  },
+  {
+   "id": "b7f49b2bc1486b470db58f718245731aab7c90f5",
+   "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+   "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+   "source": "Hugging Face Blog",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-01T00:00:00.000Z",
    "dupes": 1,
    "score": 0.266,
    "tier": 3
@@ -543,7 +556,7 @@
    "tldr": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, and generates figures…",
    "published": "2026-07-03T13:56:52.000Z",
    "dupes": 1,
-   "score": 0.246,
+   "score": 0.243,
    "tier": 3
   },
   {
@@ -558,7 +571,7 @@
    "tldr": "OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI, according to the Financial Times.",
    "published": "2026-07-02T10:23:27.000Z",
    "dupes": 1,
-   "score": 0.216,
+   "score": 0.215,
    "tier": 3
   },
   {
@@ -588,7 +601,7 @@
    "tldr": "Smart speakers have spent the past few years searching for a compelling second act.  Beyond music, timers, and controlling your lights, they've struggled to justify taking up space on the kitchen counter.",
    "published": "2026-07-01T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.207,
+   "score": 0.206,
    "tier": 3
   },
   {
@@ -621,7 +634,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.204,
+   "score": 0.203,
    "tier": 3
   }
  ]
