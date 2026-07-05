@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-05T20:09:05.042Z",
+ "generated": "2026-07-05T21:32:20.222Z",
  "items": [
   {
    "id": "e8ecf02769768011e878276ae20463513085652f",
@@ -11,7 +11,7 @@
    "tldr": "",
    "published": "2026-07-05T18:45:52.000Z",
    "dupes": 1,
-   "score": 0.539,
+   "score": 0.534,
    "tier": 1
   },
   {
@@ -26,7 +26,7 @@
    "tldr": "\" That's how a new commercial for Google Workspace opens.  And things only get cringier from there.",
    "published": "2026-07-05T14:23:11.000Z",
    "dupes": 1,
-   "score": 0.48,
+   "score": 0.466,
    "tier": 2
   },
   {
@@ -108,7 +108,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.344,
+   "score": 0.342,
    "tier": 2
   },
   {
@@ -261,7 +261,7 @@
    "tldr": "Summer is heating up — and GeForce NOW is taking players along for the ride.  Start the month with Monopoly: Star Wars Heroes vs.",
    "published": "2026-07-02T13:00:23.000Z",
    "dupes": 1,
-   "score": 0.292,
+   "score": 0.291,
    "tier": 3
   },
   {
@@ -276,7 +276,7 @@
    "tldr": "As AI moves from model development to production inference, compute demand is accelerating and shifting toward continuously operating AI factories that generate tokens at scale.  This shift requires access to…",
    "published": "2026-07-02T03:34:48.000Z",
    "dupes": 1,
-   "score": 0.287,
+   "score": 0.286,
    "tier": 3
   },
   {
@@ -291,7 +291,7 @@
    "tldr": "S.  can produce the infrastructure needed for better healthcare, breakthrough scientific discovery, stronger industrial productivity and global technology leadership.",
    "published": "2026-07-01T13:00:47.000Z",
    "dupes": 1,
-   "score": 0.282,
+   "score": 0.281,
    "tier": 3
   },
   {
@@ -356,21 +356,6 @@
    "tier": 3
   },
   {
-   "id": "c2fa02f31fd287f597e88fb5f519d8c47de54f57",
-   "title": "Into the Omniverse: Three Workflows for Improving Vision AI Agent Accuracy With Synthetic Data and Fine-Tuning",
-   "url": "https://blogs.nvidia.com/blog/vision-ai-agent-skills-omniverse-metropolis",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Editor’s note: This post is part of Into the Omniverse, a series focused on how developers, 3D practitioners, and enterprises can transform their workflows using the latest advances in OpenUSD and NVIDIA Omniverse.",
-   "published": "2026-06-30T13:00:27.000Z",
-   "dupes": 1,
-   "score": 0.278,
-   "tier": 3
-  },
-  {
    "id": "85db14fb2b0c557062f5435bde9cfdea14c71c77",
    "title": "Introducing TabFM: A zero-shot foundation model for tabular data",
    "url": "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data",
@@ -381,6 +366,21 @@
    "topic": "ai",
    "tldr": "Data Management",
    "published": "2026-06-30T10:26:00.000Z",
+   "dupes": 1,
+   "score": 0.277,
+   "tier": 3
+  },
+  {
+   "id": "c2fa02f31fd287f597e88fb5f519d8c47de54f57",
+   "title": "Into the Omniverse: Three Workflows for Improving Vision AI Agent Accuracy With Synthetic Data and Fine-Tuning",
+   "url": "https://blogs.nvidia.com/blog/vision-ai-agent-skills-omniverse-metropolis",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Editor’s note: This post is part of Into the Omniverse, a series focused on how developers, 3D practitioners, and enterprises can transform their workflows using the latest advances in OpenUSD and NVIDIA Omniverse.",
+   "published": "2026-06-30T13:00:27.000Z",
    "dupes": 1,
    "score": 0.277,
    "tier": 3
@@ -444,21 +444,6 @@
    "tldr": "The pace of AI adoption is moving incredibly fast.  Customers have moved well beyond experimentation and understand the importance of adopting AI to transform their business.",
    "published": "2026-07-02T12:59:05.000Z",
    "dupes": 1,
-   "score": 0.267,
-   "tier": 3
-  },
-  {
-   "id": "503490bee9e449528df6445bf056f0c76a84ff2a",
-   "title": "SkillOpt: Agent skills as trainable parameters",
-   "url": "https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters",
-   "source": "Microsoft Research",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "AI agents often fail because their instructions, or skills, are manually modified with no guarantee of improvement.  Learn how SkillOpt turns skill editing into a training process, making agent behavior more reliable…",
-   "published": "2026-06-30T16:50:02.000Z",
-   "dupes": 1,
    "score": 0.266,
    "tier": 3
   },
@@ -488,6 +473,21 @@
    "published": "2026-06-30T18:32:50.000Z",
    "dupes": 1,
    "score": 0.266,
+   "tier": 3
+  },
+  {
+   "id": "503490bee9e449528df6445bf056f0c76a84ff2a",
+   "title": "SkillOpt: Agent skills as trainable parameters",
+   "url": "https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters",
+   "source": "Microsoft Research",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "AI agents often fail because their instructions, or skills, are manually modified with no guarantee of improvement.  Learn how SkillOpt turns skill editing into a training process, making agent behavior more reliable…",
+   "published": "2026-06-30T16:50:02.000Z",
+   "dupes": 1,
+   "score": 0.265,
    "tier": 3
   },
   {
@@ -556,7 +556,7 @@
    "tldr": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, and generates figures…",
    "published": "2026-07-03T13:56:52.000Z",
    "dupes": 1,
-   "score": 0.243,
+   "score": 0.241,
    "tier": 3
   },
   {
@@ -571,7 +571,7 @@
    "tldr": "OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI, according to the Financial Times.",
    "published": "2026-07-02T10:23:27.000Z",
    "dupes": 1,
-   "score": 0.215,
+   "score": 0.214,
    "tier": 3
   },
   {
