@@ -1,35 +1,20 @@
 {
- "generated": "2026-07-05T11:16:57.239Z",
+ "generated": "2026-07-05T12:46:45.461Z",
  "items": [
   {
-   "id": "6c0cb1e74c799b11351b27ef703957a9c24b6fef",
-   "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
-   "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
-   "source": "Hacker News",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-04T16:51:26.000Z",
-   "dupes": 1,
-   "score": 0.522,
-   "tier": 1
-  },
-  {
-   "id": "f2aca3c59c5e3a3f9fcd4da355ba04ae3e925312",
-   "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
-   "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable",
+   "id": "44de5f528adc64d5e5dd724e1ed22e74792d0d09",
+   "title": "Claude Design System Prompt",
+   "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
    "source": "Hacker News",
    "org": [
     "anthropic"
    ],
    "topic": "ai",
    "tldr": "",
-   "published": "2026-07-05T06:19:34.000Z",
+   "published": "2026-07-05T08:43:37.000Z",
    "dupes": 1,
-   "score": 0.505,
-   "tier": 2
+   "score": 0.514,
+   "tier": 1
   },
   {
    "id": "7e9ffc3a6038f105de42c2ba1769141bc4a4c31c",
@@ -43,25 +28,7 @@
    "tldr": "",
    "published": "2026-07-04T21:51:09.000Z",
    "dupes": 1,
-   "score": 0.499,
-   "tier": 2
-  },
-  {
-   "id": "8f1810cffc843241dbbd77f512ad37be06f61521",
-   "title": "New model on Hugging Face: deepseek-ai/eagle3_gemma4_12b_ttt7",
-   "url": "https://huggingface.co/deepseek-ai/eagle3_gemma4_12b_ttt7",
-   "source": "HF · DeepSeek",
-   "org": [
-    "deepseek"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-28T12:37:17.000Z",
-   "badges": [
-    "model"
-   ],
-   "dupes": 5,
-   "score": 0.438,
+   "score": 0.51,
    "tier": 2
   },
   {
@@ -124,7 +91,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.362,
+   "score": 0.359,
    "tier": 2
   },
   {
@@ -143,7 +110,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.335,
+   "score": 0.353,
    "tier": 2
   },
   {
@@ -176,7 +143,7 @@
    "tldr": "",
    "published": "2026-07-02T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.314,
+   "score": 0.313,
    "tier": 2
   },
   {
@@ -222,7 +189,7 @@
    "published": "2026-06-30T00:00:00.000Z",
    "dupes": 1,
    "score": 0.302,
-   "tier": 3
+   "tier": 2
   },
   {
    "id": "3c923494434c3145e3652bc3016b6471395d2aa0",
@@ -237,7 +204,7 @@
    "published": "2026-06-30T00:00:00.000Z",
    "dupes": 1,
    "score": 0.302,
-   "tier": 3
+   "tier": 2
   },
   {
    "id": "4c4d91d3ce63907b68d16b4af8b23825b8ac8986",
@@ -311,7 +278,7 @@
    "tldr": "Summer is heating up — and GeForce NOW is taking players along for the ride.  Start the month with Monopoly: Star Wars Heroes vs.",
    "published": "2026-07-02T13:00:23.000Z",
    "dupes": 1,
-   "score": 0.298,
+   "score": 0.297,
    "tier": 3
   },
   {
@@ -326,7 +293,7 @@
    "tldr": "As AI moves from model development to production inference, compute demand is accelerating and shifting toward continuously operating AI factories that generate tokens at scale.  This shift requires access to…",
    "published": "2026-07-02T03:34:48.000Z",
    "dupes": 1,
-   "score": 0.291,
+   "score": 0.29,
    "tier": 3
   },
   {
@@ -406,21 +373,6 @@
    "tier": 3
   },
   {
-   "id": "c2fa02f31fd287f597e88fb5f519d8c47de54f57",
-   "title": "Into the Omniverse: Three Workflows for Improving Vision AI Agent Accuracy With Synthetic Data and Fine-Tuning",
-   "url": "https://blogs.nvidia.com/blog/vision-ai-agent-skills-omniverse-metropolis",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Editor’s note: This post is part of Into the Omniverse, a series focused on how developers, 3D practitioners, and enterprises can transform their workflows using the latest advances in OpenUSD and NVIDIA Omniverse.",
-   "published": "2026-06-30T13:00:27.000Z",
-   "dupes": 1,
-   "score": 0.279,
-   "tier": 3
-  },
-  {
    "id": "85db14fb2b0c557062f5435bde9cfdea14c71c77",
    "title": "Introducing TabFM: A zero-shot foundation model for tabular data",
    "url": "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data",
@@ -431,6 +383,21 @@
    "topic": "ai",
    "tldr": "Data Management",
    "published": "2026-06-30T10:26:00.000Z",
+   "dupes": 1,
+   "score": 0.278,
+   "tier": 3
+  },
+  {
+   "id": "c2fa02f31fd287f597e88fb5f519d8c47de54f57",
+   "title": "Into the Omniverse: Three Workflows for Improving Vision AI Agent Accuracy With Synthetic Data and Fine-Tuning",
+   "url": "https://blogs.nvidia.com/blog/vision-ai-agent-skills-omniverse-metropolis",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Editor’s note: This post is part of Into the Omniverse, a series focused on how developers, 3D practitioners, and enterprises can transform their workflows using the latest advances in OpenUSD and NVIDIA Omniverse.",
+   "published": "2026-06-30T13:00:27.000Z",
    "dupes": 1,
    "score": 0.278,
    "tier": 3
@@ -464,7 +431,7 @@
    "tldr": "",
    "published": "2026-06-29T15:00:04.000Z",
    "dupes": 1,
-   "score": 0.277,
+   "score": 0.276,
    "tier": 3
   },
   {
@@ -494,7 +461,7 @@
    "tldr": "The pace of AI adoption is moving incredibly fast.  Customers have moved well beyond experimentation and understand the importance of adopting AI to transform their business.",
    "published": "2026-07-02T12:59:05.000Z",
    "dupes": 1,
-   "score": 0.273,
+   "score": 0.272,
    "tier": 3
   },
   {
@@ -554,6 +521,19 @@
    "tier": 3
   },
   {
+   "id": "3f0a56fa70110027403b008388e78ef3cb8a446e",
+   "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+   "url": "https://huggingface.co/blog/eee-community-evals",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-30T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.265,
+   "tier": 3
+  },
+  {
    "id": "05c30363cdc170537958f2e863fcee5c38e2d6ab",
    "title": "Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity",
    "url": "https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity",
@@ -565,20 +545,7 @@
    "tldr": "AI agents can't remember past conversations.  They must constantly reload or retrieve context, which grows less efficient as tasks get longer and more complex.",
    "published": "2026-06-29T21:14:22.000Z",
    "dupes": 1,
-   "score": 0.265,
-   "tier": 3
-  },
-  {
-   "id": "3f0a56fa70110027403b008388e78ef3cb8a446e",
-   "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
-   "url": "https://huggingface.co/blog/eee-community-evals",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-30T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.265,
+   "score": 0.264,
    "tier": 3
   },
   {
@@ -606,7 +573,7 @@
    "tldr": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, and generates figures…",
    "published": "2026-07-03T13:56:52.000Z",
    "dupes": 1,
-   "score": 0.261,
+   "score": 0.258,
    "tier": 3
   },
   {
@@ -621,7 +588,7 @@
    "tldr": "",
    "published": "2026-07-01T17:30:58.000Z",
    "dupes": 1,
-   "score": 0.241,
+   "score": 0.247,
    "tier": 3
   },
   {
@@ -636,22 +603,7 @@
    "tldr": "OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI, according to the Financial Times.",
    "published": "2026-07-02T10:23:27.000Z",
    "dupes": 1,
-   "score": 0.221,
-   "tier": 3
-  },
-  {
-   "id": "4dd862da9aba3a5356aa41650e6becec3a3adc0f",
-   "title": "Google built a great smart speaker, but Gemini isn’t ready for it",
-   "url": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
-   "source": "The Verge AI",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Smart speakers have spent the past few years searching for a compelling second act.  Beyond music, timers, and controlling your lights, they've struggled to justify taking up space on the kitchen counter.",
-   "published": "2026-07-01T12:00:00.000Z",
-   "dupes": 1,
-   "score": 0.209,
+   "score": 0.22,
    "tier": 3
   },
   {
@@ -666,7 +618,22 @@
    "tldr": "",
    "published": "2026-06-29T11:29:14.000Z",
    "dupes": 1,
-   "score": 0.206,
+   "score": 0.208,
+   "tier": 3
+  },
+  {
+   "id": "4dd862da9aba3a5356aa41650e6becec3a3adc0f",
+   "title": "Google built a great smart speaker, but Gemini isn’t ready for it",
+   "url": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
+   "source": "The Verge AI",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Smart speakers have spent the past few years searching for a compelling second act.  Beyond music, timers, and controlling your lights, they've struggled to justify taking up space on the kitchen counter.",
+   "published": "2026-07-01T12:00:00.000Z",
+   "dupes": 1,
+   "score": 0.208,
    "tier": 3
   },
   {
@@ -681,7 +648,7 @@
    "tldr": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online.",
    "published": "2026-07-01T00:03:55.000Z",
    "dupes": 1,
-   "score": 0.206,
+   "score": 0.205,
    "tier": 3
   },
   {
@@ -699,22 +666,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.205,
-   "tier": 3
-  },
-  {
-   "id": "5e99ee13430e578efc75da518be53981e55edc48",
-   "title": "Grok's Traffic Is Mostly Driven by Adult Content",
-   "url": "https://www.forbes.com/sites/maryroeloffs/2026/06/24/groks-traffic-is-mostly-driven-by-adult-content-report-says",
-   "source": "HN · xAI",
-   "org": [
-    "xai"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-30T20:21:28.000Z",
-   "dupes": 1,
-   "score": 0.2,
+   "score": 0.204,
    "tier": 3
   }
  ]
