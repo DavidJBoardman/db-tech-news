@@ -1,19 +1,6 @@
 {
- "generated": "2026-07-05T21:32:20.222Z",
+ "generated": "2026-07-05T22:56:14.211Z",
  "items": [
-  {
-   "id": "e8ecf02769768011e878276ae20463513085652f",
-   "title": "Jim Keller's startup is building a factory to mass-produce small chip fabs",
-   "url": "https://www.tomshardware.com/tech-industry/atomic-semi-rebrands-as-fab2-and-shifts-operations-to-texas",
-   "source": "Hacker News",
-   "org": [],
-   "topic": "compute",
-   "tldr": "",
-   "published": "2026-07-05T18:45:52.000Z",
-   "dupes": 1,
-   "score": 0.534,
-   "tier": 1
-  },
   {
    "id": "27710906dff6aade7ada68a493f736d76eeaa8c2",
    "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
@@ -26,8 +13,8 @@
    "tldr": "\" That's how a new commercial for Google Workspace opens.  And things only get cringier from there.",
    "published": "2026-07-05T14:23:11.000Z",
    "dupes": 1,
-   "score": 0.466,
-   "tier": 2
+   "score": 0.452,
+   "tier": 1
   },
   {
    "id": "ff1300aa6ccec48d7d7f5b02492a03866b415b13",
@@ -90,7 +77,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.349,
+   "score": 0.348,
    "tier": 2
   },
   {
@@ -108,7 +95,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.342,
+   "score": 0.34,
    "tier": 2
   },
   {
@@ -141,7 +128,7 @@
    "tldr": "",
    "published": "2026-07-02T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.31,
+   "score": 0.309,
    "tier": 2
   },
   {
@@ -186,7 +173,7 @@
    "tldr": "",
    "published": "2026-06-30T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.302,
+   "score": 0.301,
    "tier": 2
   },
   {
@@ -201,7 +188,7 @@
    "tldr": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
    "published": "2026-06-30T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.302,
+   "score": 0.301,
    "tier": 2
   },
   {
@@ -216,8 +203,8 @@
    "tldr": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
    "published": "2026-06-30T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.302,
-   "tier": 3
+   "score": 0.301,
+   "tier": 2
   },
   {
    "id": "5b79476b114204dfe57ef8bf97ddea09c2e8f24d",
@@ -261,7 +248,7 @@
    "tldr": "Summer is heating up — and GeForce NOW is taking players along for the ride.  Start the month with Monopoly: Star Wars Heroes vs.",
    "published": "2026-07-02T13:00:23.000Z",
    "dupes": 1,
-   "score": 0.291,
+   "score": 0.29,
    "tier": 3
   },
   {
@@ -276,7 +263,7 @@
    "tldr": "As AI moves from model development to production inference, compute demand is accelerating and shifting toward continuously operating AI factories that generate tokens at scale.  This shift requires access to…",
    "published": "2026-07-02T03:34:48.000Z",
    "dupes": 1,
-   "score": 0.286,
+   "score": 0.285,
    "tier": 3
   },
   {
@@ -433,21 +420,6 @@
    "tier": 3
   },
   {
-   "id": "f2754d39be961820dc07372cf0ef3ae193a648a5",
-   "title": "Microsoft Frontier Company: AI engineering that amplifies and protects your intelligence",
-   "url": "https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplifies-and-protects-your-intelligence",
-   "source": "Microsoft Blog",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "The pace of AI adoption is moving incredibly fast.  Customers have moved well beyond experimentation and understand the importance of adopting AI to transform their business.",
-   "published": "2026-07-02T12:59:05.000Z",
-   "dupes": 1,
-   "score": 0.266,
-   "tier": 3
-  },
-  {
    "id": "b7f49b2bc1486b470db58f718245731aab7c90f5",
    "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
    "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
@@ -463,19 +435,6 @@
    "tier": 3
   },
   {
-   "id": "8654826289ec75765d33aa78a628bcae9814015f",
-   "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-   "url": "https://huggingface.co/blog/ibm-research/scarfbench",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-30T18:32:50.000Z",
-   "dupes": 1,
-   "score": 0.266,
-   "tier": 3
-  },
-  {
    "id": "503490bee9e449528df6445bf056f0c76a84ff2a",
    "title": "SkillOpt: Agent skills as trainable parameters",
    "url": "https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters",
@@ -486,6 +445,34 @@
    "topic": "ai",
    "tldr": "AI agents often fail because their instructions, or skills, are manually modified with no guarantee of improvement.  Learn how SkillOpt turns skill editing into a training process, making agent behavior more reliable…",
    "published": "2026-06-30T16:50:02.000Z",
+   "dupes": 1,
+   "score": 0.265,
+   "tier": 3
+  },
+  {
+   "id": "f2754d39be961820dc07372cf0ef3ae193a648a5",
+   "title": "Microsoft Frontier Company: AI engineering that amplifies and protects your intelligence",
+   "url": "https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplifies-and-protects-your-intelligence",
+   "source": "Microsoft Blog",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "The pace of AI adoption is moving incredibly fast.  Customers have moved well beyond experimentation and understand the importance of adopting AI to transform their business.",
+   "published": "2026-07-02T12:59:05.000Z",
+   "dupes": 1,
+   "score": 0.265,
+   "tier": 3
+  },
+  {
+   "id": "8654826289ec75765d33aa78a628bcae9814015f",
+   "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+   "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-30T18:32:50.000Z",
    "dupes": 1,
    "score": 0.265,
    "tier": 3
@@ -556,7 +543,7 @@
    "tldr": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, and generates figures…",
    "published": "2026-07-03T13:56:52.000Z",
    "dupes": 1,
-   "score": 0.241,
+   "score": 0.239,
    "tier": 3
   },
   {
@@ -571,7 +558,7 @@
    "tldr": "OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI, according to the Financial Times.",
    "published": "2026-07-02T10:23:27.000Z",
    "dupes": 1,
-   "score": 0.214,
+   "score": 0.213,
    "tier": 3
   },
   {
