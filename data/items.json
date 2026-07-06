@@ -1,6 +1,52 @@
 {
- "generated": "2026-07-06T12:42:07.402Z",
+ "generated": "2026-07-06T16:14:56.318Z",
  "items": [
+  {
+   "id": "8ea5a9420f94f85c6ec6012e802f2d25b69b6ab6",
+   "title": "How Open Models Are Driving AI Research",
+   "url": "https://blogs.nvidia.com/blog/open-models-icml-2026",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Every year, the International Conference on Machine Learning (ICML) reveals where thousands of AI researchers have decided to put their work.  This year’s accepted papers reveal a clear direction: open frontier models…",
+   "published": "2026-07-06T16:00:00.000Z",
+   "badges": [
+    "research"
+   ],
+   "dupes": 1,
+   "score": 0.622,
+   "tier": 1
+  },
+  {
+   "id": "ba9eed298f707f450f3e01bd40b96e0d6cd53df6",
+   "title": "How Nations Are Deploying AI for Strategic Priorities",
+   "url": "https://blogs.nvidia.com/blog/nations-deploy-ai-strategic-priorities",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Nations have long invested in domestic infrastructure to advance their economies, protect and use their data, and take advantage of technology opportunities in areas such as transportation, communications, commerce,…",
+   "published": "2026-07-06T15:00:25.000Z",
+   "dupes": 1,
+   "score": 0.609,
+   "tier": 2
+  },
+  {
+   "id": "088a18b234ed800d8a355a36f932d5a7b5ce4478",
+   "title": "PRX Part 4: Our Data Strategy",
+   "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-06T15:30:55.000Z",
+   "dupes": 1,
+   "score": 0.603,
+   "tier": 2
+  },
   {
    "id": "df10d95f0b7718665af1429abea580a54086fff5",
    "title": "GPT-5.6 Sol Ultra will be in Codex",
@@ -13,8 +59,23 @@
    "tldr": "",
    "published": "2026-07-06T01:04:03.000Z",
    "dupes": 1,
-   "score": 0.542,
-   "tier": 1
+   "score": 0.532,
+   "tier": 2
+  },
+  {
+   "id": "6f442d4e59ecf2ba730d173902e8bc49714f443c",
+   "title": "Microsoft is laying off 4,800 employees",
+   "url": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
+   "source": "The Verge AI",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "A year after cutting around 9,100 employees, Microsoft is making further layoffs today as it begins its new financial year.  1 percent of its workforce.",
+   "published": "2026-07-06T13:30:00.000Z",
+   "dupes": 1,
+   "score": 0.515,
+   "tier": 2
   },
   {
    "id": "c57690ad336e7f8b9a8e0ddbb49d59685fa98303",
@@ -26,7 +87,7 @@
    "tldr": "",
    "published": "2026-07-06T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.477,
+   "score": 0.45,
    "tier": 2
   },
   {
@@ -75,21 +136,6 @@
    "tier": 2
   },
   {
-   "id": "27710906dff6aade7ada68a493f736d76eeaa8c2",
-   "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
-   "source": "The Verge AI",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "\" That's how a new commercial for Google Workspace opens.  And things only get cringier from there.",
-   "published": "2026-07-05T14:23:11.000Z",
-   "dupes": 1,
-   "score": 0.348,
-   "tier": 2
-  },
-  {
    "id": "f7b1eaa8826e4482d96e1be741ba6bf62152713c",
    "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
    "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
@@ -105,7 +151,22 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.344,
+   "score": 0.343,
+   "tier": 2
+  },
+  {
+   "id": "27710906dff6aade7ada68a493f736d76eeaa8c2",
+   "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
+   "source": "The Verge AI",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "\" That's how a new commercial for Google Workspace opens.  And things only get cringier from there.",
+   "published": "2026-07-05T14:23:11.000Z",
+   "dupes": 1,
+   "score": 0.329,
    "tier": 2
   },
   {
@@ -123,7 +184,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.323,
+   "score": 0.32,
    "tier": 2
   },
   {
@@ -157,22 +218,7 @@
    "published": "2026-07-02T00:00:00.000Z",
    "dupes": 1,
    "score": 0.305,
-   "tier": 2
-  },
-  {
-   "id": "f8c0cbef5e2e5bd2ee5954185f0479cd7f51b517",
-   "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
-   "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash",
-   "source": "Google DeepMind",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-30T16:02:40.000Z",
-   "dupes": 1,
-   "score": 0.302,
-   "tier": 2
+   "tier": 3
   },
   {
    "id": "fb435a036a32d4b887831901912e1f14db00b2cd",
@@ -187,7 +233,7 @@
    "published": "2026-06-30T09:00:00.000Z",
    "dupes": 1,
    "score": 0.301,
-   "tier": 2
+   "tier": 3
   },
   {
    "id": "200e6c5f82a034d1e5865995aafcfa3fe91654b3",
@@ -202,7 +248,7 @@
    "published": "2026-06-30T00:00:00.000Z",
    "dupes": 1,
    "score": 0.301,
-   "tier": 2
+   "tier": 3
   },
   {
    "id": "3c923494434c3145e3652bc3016b6471395d2aa0",
@@ -235,6 +281,21 @@
    "tier": 3
   },
   {
+   "id": "f8c0cbef5e2e5bd2ee5954185f0479cd7f51b517",
+   "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+   "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash",
+   "source": "Google DeepMind",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-06-30T16:02:40.000Z",
+   "dupes": 1,
+   "score": 0.301,
+   "tier": 3
+  },
+  {
    "id": "c08cce89bb08534d5d589ae5d3f928a52c501b7e",
    "title": "Joyride Through July With 12 Games Coming to GeForce NOW",
    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-july-2026-games-list",
@@ -246,7 +307,7 @@
    "tldr": "Summer is heating up — and GeForce NOW is taking players along for the ride.  Start the month with Monopoly: Star Wars Heroes vs.",
    "published": "2026-07-02T13:00:23.000Z",
    "dupes": 1,
-   "score": 0.284,
+   "score": 0.283,
    "tier": 3
   },
   {
@@ -261,7 +322,7 @@
    "tldr": "As AI moves from model development to production inference, compute demand is accelerating and shifting toward continuously operating AI factories that generate tokens at scale.  This shift requires access to…",
    "published": "2026-07-02T03:34:48.000Z",
    "dupes": 1,
-   "score": 0.281,
+   "score": 0.28,
    "tier": 3
   },
   {
@@ -291,7 +352,22 @@
    "tldr": "Climate & Sustainability",
    "published": "2026-06-30T17:03:00.000Z",
    "dupes": 1,
-   "score": 0.277,
+   "score": 0.276,
+   "tier": 3
+  },
+  {
+   "id": "85db14fb2b0c557062f5435bde9cfdea14c71c77",
+   "title": "Introducing TabFM: A zero-shot foundation model for tabular data",
+   "url": "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data",
+   "source": "Google Research",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Data Management",
+   "published": "2026-06-30T10:26:00.000Z",
+   "dupes": 1,
+   "score": 0.276,
    "tier": 3
   },
   {
@@ -306,21 +382,6 @@
    "topic": "compute",
    "tldr": "Life sciences has entered an era of computational scale, and for more than a decade, NVIDIA has built the full GPU-accelerated computing stack — spanning hardware, frameworks, libraries, models, microservices and…",
    "published": "2026-06-30T17:00:38.000Z",
-   "dupes": 1,
-   "score": 0.277,
-   "tier": 3
-  },
-  {
-   "id": "85db14fb2b0c557062f5435bde9cfdea14c71c77",
-   "title": "Introducing TabFM: A zero-shot foundation model for tabular data",
-   "url": "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data",
-   "source": "Google Research",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Data Management",
-   "published": "2026-06-30T10:26:00.000Z",
    "dupes": 1,
    "score": 0.276,
    "tier": 3
@@ -388,18 +449,18 @@
    "tier": 3
   },
   {
-   "id": "f3de32641fc5a2ce656faf98e5962ee23e6ec009",
-   "title": "Firefly Aerospace Operates NVIDIA Jetson in Lunar Orbit for the First Time",
-   "url": "https://blogs.nvidia.com/blog/firefly-aerospace-nvidia-jetson-lunar-orbit",
-   "source": "NVIDIA Blog",
+   "id": "503490bee9e449528df6445bf056f0c76a84ff2a",
+   "title": "SkillOpt: Agent skills as trainable parameters",
+   "url": "https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters",
+   "source": "Microsoft Research",
    "org": [
-    "nvidia"
+    "microsoft"
    ],
-   "topic": "compute",
-   "tldr": "",
-   "published": "2026-06-29T15:00:04.000Z",
+   "topic": "ai",
+   "tldr": "AI agents often fail because their instructions, or skills, are manually modified with no guarantee of improvement.  Learn how SkillOpt turns skill editing into a training process, making agent behavior more reliable…",
+   "published": "2026-06-30T16:50:02.000Z",
    "dupes": 1,
-   "score": 0.276,
+   "score": 0.264,
    "tier": 3
   },
   {
@@ -413,21 +474,6 @@
    "topic": "ai",
    "tldr": "",
    "published": "2026-07-01T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.265,
-   "tier": 3
-  },
-  {
-   "id": "503490bee9e449528df6445bf056f0c76a84ff2a",
-   "title": "SkillOpt: Agent skills as trainable parameters",
-   "url": "https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters",
-   "source": "Microsoft Research",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "AI agents often fail because their instructions, or skills, are manually modified with no guarantee of improvement.  Learn how SkillOpt turns skill editing into a training process, making agent behavior more reliable…",
-   "published": "2026-06-30T16:50:02.000Z",
    "dupes": 1,
    "score": 0.264,
    "tier": 3
@@ -511,7 +557,7 @@
    "tldr": "The pace of AI adoption is moving incredibly fast.  Customers have moved well beyond experimentation and understand the importance of adopting AI to transform their business.",
    "published": "2026-07-02T12:59:05.000Z",
    "dupes": 1,
-   "score": 0.259,
+   "score": 0.258,
    "tier": 3
   },
   {
@@ -526,7 +572,7 @@
    "tldr": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, and generates figures…",
    "published": "2026-07-03T13:56:52.000Z",
    "dupes": 1,
-   "score": 0.223,
+   "score": 0.22,
    "tier": 3
   },
   {
@@ -541,7 +587,7 @@
    "tldr": "OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI, according to the Financial Times.",
    "published": "2026-07-02T10:23:27.000Z",
    "dupes": 1,
-   "score": 0.208,
+   "score": 0.207,
    "tier": 3
   },
   {
@@ -570,24 +616,6 @@
    "topic": "ai",
    "tldr": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online.",
    "published": "2026-07-01T00:03:55.000Z",
-   "dupes": 1,
-   "score": 0.202,
-   "tier": 3
-  },
-  {
-   "id": "31d023a3663dfe5c0cf88113d5216eb59d47dcd7",
-   "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
-   "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
-   "source": "The Verge AI",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Google's NotebookLM is adding a new way to catch up on your notes: TikTok-style AI videos.  The new feature is rolling out to Google AI Ultra and Pro subscribers, allowing NotebookLM to generate 60-second vertical AI…",
-   "published": "2026-06-30T19:24:51.000Z",
-   "badges": [
-    "research"
-   ],
    "dupes": 1,
    "score": 0.202,
    "tier": 3
