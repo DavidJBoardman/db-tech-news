@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-06T20:20:45.785Z",
+ "generated": "2026-07-06T21:53:46.474Z",
  "items": [
   {
    "id": "8ea5a9420f94f85c6ec6012e802f2d25b69b6ab6",
@@ -16,7 +16,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.571,
+   "score": 0.554,
    "tier": 1
   },
   {
@@ -31,7 +31,7 @@
    "tldr": "Nations have long invested in domestic infrastructure to advance their economies, protect and use their data, and take advantage of technology opportunities in areas such as transportation, communications, commerce,…",
    "published": "2026-07-06T15:00:25.000Z",
    "dupes": 1,
-   "score": 0.56,
+   "score": 0.543,
    "tier": 2
   },
   {
@@ -44,7 +44,7 @@
    "tldr": "",
    "published": "2026-07-06T15:30:55.000Z",
    "dupes": 1,
-   "score": 0.553,
+   "score": 0.536,
    "tier": 2
   },
   {
@@ -59,7 +59,7 @@
    "tldr": "",
    "published": "2026-07-06T16:47:44.000Z",
    "dupes": 1,
-   "score": 0.528,
+   "score": 0.516,
    "tier": 2
   },
   {
@@ -74,7 +74,7 @@
    "tldr": "A year after cutting around 9,100 employees, Microsoft is making further layoffs today as it begins its new financial year.  1 percent of its workforce.",
    "published": "2026-07-06T13:30:00.000Z",
    "dupes": 1,
-   "score": 0.469,
+   "score": 0.453,
    "tier": 2
   },
   {
@@ -89,7 +89,7 @@
    "tldr": "",
    "published": "2026-07-06T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.46,
+   "score": 0.451,
    "tier": 2
   },
   {
@@ -102,7 +102,7 @@
    "tldr": "",
    "published": "2026-07-06T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.422,
+   "score": 0.413,
    "tier": 2
   },
   {
@@ -184,7 +184,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.317,
+   "score": 0.316,
    "tier": 2
   },
   {
@@ -206,21 +206,6 @@
    "tier": 2
   },
   {
-   "id": "27710906dff6aade7ada68a493f736d76eeaa8c2",
-   "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
-   "source": "The Verge AI",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "\" That's how a new commercial for Google Workspace opens.  And things only get cringier from there.",
-   "published": "2026-07-05T14:23:11.000Z",
-   "dupes": 1,
-   "score": 0.31,
-   "tier": 3
-  },
-  {
    "id": "50819ea9c0ae9cb02e09737af83fd4eda7020e67",
    "title": "More details on Fable 5’s cyber safeguards and our jailbreak framework",
    "url": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
@@ -231,6 +216,21 @@
    "topic": "ai",
    "tldr": "",
    "published": "2026-07-02T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.304,
+   "tier": 3
+  },
+  {
+   "id": "27710906dff6aade7ada68a493f736d76eeaa8c2",
+   "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
+   "source": "The Verge AI",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "\" That's how a new commercial for Google Workspace opens.  And things only get cringier from there.",
+   "published": "2026-07-05T14:23:11.000Z",
    "dupes": 1,
    "score": 0.304,
    "tier": 3
@@ -322,7 +322,7 @@
    "tldr": "Summer is heating up — and GeForce NOW is taking players along for the ride.  Start the month with Monopoly: Star Wars Heroes vs.",
    "published": "2026-07-02T13:00:23.000Z",
    "dupes": 1,
-   "score": 0.282,
+   "score": 0.281,
    "tier": 3
   },
   {
@@ -337,7 +337,7 @@
    "tldr": "As AI moves from model development to production inference, compute demand is accelerating and shifting toward continuously operating AI factories that generate tokens at scale.  This shift requires access to…",
    "published": "2026-07-02T03:34:48.000Z",
    "dupes": 1,
-   "score": 0.28,
+   "score": 0.279,
    "tier": 3
   },
   {
@@ -352,7 +352,7 @@
    "tldr": "S.  can produce the infrastructure needed for better healthcare, breakthrough scientific discovery, stronger industrial productivity and global technology leadership.",
    "published": "2026-07-01T13:00:47.000Z",
    "dupes": 1,
-   "score": 0.278,
+   "score": 0.277,
    "tier": 3
   },
   {
@@ -503,21 +503,6 @@
    "tier": 3
   },
   {
-   "id": "05c30363cdc170537958f2e863fcee5c38e2d6ab",
-   "title": "Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity",
-   "url": "https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity",
-   "source": "Microsoft Research",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "AI agents can't remember past conversations.  They must constantly reload or retrieve context, which grows less efficient as tasks get longer and more complex.",
-   "published": "2026-06-29T21:14:22.000Z",
-   "dupes": 1,
-   "score": 0.263,
-   "tier": 3
-  },
-  {
    "id": "3f0a56fa70110027403b008388e78ef3cb8a446e",
    "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
    "url": "https://huggingface.co/blog/eee-community-evals",
@@ -542,7 +527,7 @@
    "tldr": "The pace of AI adoption is moving incredibly fast.  Customers have moved well beyond experimentation and understand the importance of adopting AI to transform their business.",
    "published": "2026-07-02T12:59:05.000Z",
    "dupes": 1,
-   "score": 0.257,
+   "score": 0.256,
    "tier": 3
   },
   {
@@ -557,7 +542,7 @@
    "tldr": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, and generates figures…",
    "published": "2026-07-03T13:56:52.000Z",
    "dupes": 1,
-   "score": 0.217,
+   "score": 0.216,
    "tier": 3
   },
   {
@@ -602,7 +587,7 @@
    "tldr": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online.",
    "published": "2026-07-01T00:03:55.000Z",
    "dupes": 1,
-   "score": 0.202,
+   "score": 0.201,
    "tier": 3
   },
   {
