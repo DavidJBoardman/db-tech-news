@@ -1,20 +1,63 @@
 {
- "generated": "2026-07-07T14:13:29.600Z",
+ "generated": "2026-07-07T16:43:51.741Z",
  "items": [
   {
-   "id": "62b34af1e6eeaef2011eaf3bc65b2d104a998d81",
-   "title": "Mark Zuckerberg's biggest legal nightmare yet could cost Meta $1.4T",
-   "url": "https://www.the-independent.com/tech/mark-zuckerberg-meta-fine-trillion-b3010281.html",
+   "id": "b3f9f0ab138fafaa9e42ac0ce8de702d5a487d7d",
+   "title": "The power of collaboration: How we can reduce traffic congestion",
+   "url": "https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion",
+   "source": "Google Research",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Algorithms & Theory",
+   "published": "2026-07-07T16:42:08.000Z",
+   "dupes": 1,
+   "score": 0.625,
+   "tier": 1
+  },
+  {
+   "id": "c1b25fccf05a636303b8673b352231bfa040423b",
+   "title": "AI Innovators Adopt NVIDIA Vera — Why Max Single-Threaded CPU at Scale Matters",
+   "url": "https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Max single-threaded CPUs at scale are a new category of CPUs built for the agentic AI era.  Across the creation and deployment of an agentic system, the CPU is on the critical path for reasoning, response time and…",
+   "published": "2026-07-07T15:00:52.000Z",
+   "dupes": 1,
+   "score": 0.603,
+   "tier": 2
+  },
+  {
+   "id": "19e699f3402c118ffbb02f97aabb49558d512030",
+   "title": "Microsoft Fire IdTech Team at Id Software",
+   "url": "https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software",
    "source": "Hacker News",
    "org": [
-    "meta"
+    "microsoft"
    ],
    "topic": "ai",
    "tldr": "",
-   "published": "2026-07-07T13:03:31.000Z",
+   "published": "2026-07-07T15:33:20.000Z",
    "dupes": 1,
-   "score": 0.557,
-   "tier": 1
+   "score": 0.597,
+   "tier": 2
+  },
+  {
+   "id": "024a3808c07a0ff4537346298fcc49e95cd7b82c",
+   "title": "Hugging Face Models on Foundry Managed Compute",
+   "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-07T15:20:06.000Z",
+   "dupes": 1,
+   "score": 0.594,
+   "tier": 2
   },
   {
    "id": "258907bfd4769c866b8aef5e3fafe3ddf4b15626",
@@ -28,7 +71,7 @@
    "tldr": "",
    "published": "2026-07-07T08:54:03.000Z",
    "dupes": 1,
-   "score": 0.554,
+   "score": 0.557,
    "tier": 2
   },
   {
@@ -43,7 +86,22 @@
    "tldr": "Open source AI has shown how quickly developers can innovate when models, data and tools are shared.  Robotics has the same opportunity, but advancements in physical AI development can still be gated by costly and…",
    "published": "2026-07-07T06:00:26.000Z",
    "dupes": 1,
-   "score": 0.53,
+   "score": 0.507,
+   "tier": 2
+  },
+  {
+   "id": "420f27acd6cee1894486db1945a76fcd0a46a665",
+   "title": "A verification loop 4x'd DeepSeek's intelligence, matching Opus at 1/7 the cost",
+   "url": "https://ironbee.medium.com/what-a-verification-loop-adds-to-a-coding-agent-a-first-look-5049017e636e",
+   "source": "HN · DeepSeek",
+   "org": [
+    "deepseek"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-07T13:28:25.000Z",
+   "dupes": 1,
+   "score": 0.503,
    "tier": 2
   },
   {
@@ -56,7 +114,7 @@
    "tldr": "",
    "published": "2026-07-07T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.465,
+   "score": 0.446,
    "tier": 2
   },
   {
@@ -74,7 +132,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.424,
+   "score": 0.41,
    "tier": 2
   },
   {
@@ -89,7 +147,7 @@
    "tldr": "Nations have long invested in domestic infrastructure to advance their economies, protect and use their data, and take advantage of technology opportunities in areas such as transportation, communications, commerce,…",
    "published": "2026-07-06T15:00:25.000Z",
    "dupes": 1,
-   "score": 0.418,
+   "score": 0.405,
    "tier": 2
   },
   {
@@ -102,7 +160,7 @@
    "tldr": "",
    "published": "2026-07-06T15:30:55.000Z",
    "dupes": 1,
-   "score": 0.408,
+   "score": 0.395,
    "tier": 2
   },
   {
@@ -117,20 +175,7 @@
    "tldr": "",
    "published": "2026-07-06T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.38,
-   "tier": 2
-  },
-  {
-   "id": "c57690ad336e7f8b9a8e0ddbb49d59685fa98303",
-   "title": "🤗 Kernels: Major Updates",
-   "url": "https://huggingface.co/blog/revamped-kernels",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-06T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.343,
+   "score": 0.373,
    "tier": 2
   },
   {
@@ -153,6 +198,19 @@
    "tier": 2
   },
   {
+   "id": "c57690ad336e7f8b9a8e0ddbb49d59685fa98303",
+   "title": "🤗 Kernels: Major Updates",
+   "url": "https://huggingface.co/blog/revamped-kernels",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-06T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.335,
+   "tier": 3
+  },
+  {
    "id": "6f442d4e59ecf2ba730d173902e8bc49714f443c",
    "title": "Microsoft is laying off 4,800 employees",
    "url": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
@@ -164,8 +222,8 @@
    "tldr": "A year after cutting around 9,100 employees, Microsoft is making further layoffs today as it begins its new financial year.  1 percent of its workforce.",
    "published": "2026-07-06T13:30:00.000Z",
    "dupes": 1,
-   "score": 0.335,
-   "tier": 2
+   "score": 0.323,
+   "tier": 3
   },
   {
    "id": "1cc388fb9b6750c5b5ff1be4a5d8974ea3dd0e70",
@@ -182,8 +240,8 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.309,
-   "tier": 2
+   "score": 0.308,
+   "tier": 3
   },
   {
    "id": "50819ea9c0ae9cb02e09737af83fd4eda7020e67",
@@ -198,21 +256,6 @@
    "published": "2026-07-02T00:00:00.000Z",
    "dupes": 1,
    "score": 0.302,
-   "tier": 2
-  },
-  {
-   "id": "f8c0cbef5e2e5bd2ee5954185f0479cd7f51b517",
-   "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
-   "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash",
-   "source": "Google DeepMind",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-30T16:02:40.000Z",
-   "dupes": 1,
-   "score": 0.301,
    "tier": 3
   },
   {
@@ -292,36 +335,6 @@
    "tier": 3
   },
   {
-   "id": "4c6e55f3a1dced7dc9bc1a4522890c2cb80ee000",
-   "title": "How NVIDIA’s Inference Software Stack Powers the Lowest Token Cost",
-   "url": "https://blogs.nvidia.com/blog/inference-software-lowest-token-cost",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "As organizations move from AI pilots to production AI factories, infrastructure decisions have shifted from peak chip specifications to cost per token: how many useful tokens they can deliver per dollar, per watt and…",
-   "published": "2026-06-30T15:00:57.000Z",
-   "dupes": 1,
-   "score": 0.276,
-   "tier": 3
-  },
-  {
-   "id": "c6cc386cd6ecd82c3a1e67fad5fa9c8366f7c60e",
-   "title": "How Jaiveer Singh Is Helping Robots — and Developers — Move Faster",
-   "url": "https://blogs.nvidia.com/blog/nvidia-life-jaiveer-singh",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "When Jaiveer Singh talks about robots, he doesn’t begin with spectacle.  He begins with infrastructure: the boards inside machines, the software that lets developers see through a robot’s cameras and the engineering…",
-   "published": "2026-06-30T15:00:49.000Z",
-   "dupes": 1,
-   "score": 0.276,
-   "tier": 3
-  },
-  {
    "id": "503490bee9e449528df6445bf056f0c76a84ff2a",
    "title": "SkillOpt: Agent skills as trainable parameters",
    "url": "https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters",
@@ -365,34 +378,6 @@
    "tier": 3
   },
   {
-   "id": "d7f8db1c666b51cebef1c5d5c91115472bc33316",
-   "title": "Why Specialization Is Inevitable",
-   "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-06-30T14:39:11.000Z",
-   "dupes": 1,
-   "score": 0.263,
-   "tier": 3
-  },
-  {
-   "id": "27710906dff6aade7ada68a493f736d76eeaa8c2",
-   "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
-   "source": "The Verge AI",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "\" That's how a new commercial for Google Workspace opens.  And things only get cringier from there.",
-   "published": "2026-07-05T14:23:11.000Z",
-   "dupes": 1,
-   "score": 0.255,
-   "tier": 3
-  },
-  {
    "id": "f2754d39be961820dc07372cf0ef3ae193a648a5",
    "title": "Microsoft Frontier Company: AI engineering that amplifies and protects your intelligence",
    "url": "https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplifies-and-protects-your-intelligence",
@@ -408,6 +393,21 @@
    "tier": 3
   },
   {
+   "id": "27710906dff6aade7ada68a493f736d76eeaa8c2",
+   "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
+   "source": "The Verge AI",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "\" That's how a new commercial for Google Workspace opens.  And things only get cringier from there.",
+   "published": "2026-07-05T14:23:11.000Z",
+   "dupes": 1,
+   "score": 0.25,
+   "tier": 3
+  },
+  {
    "id": "b4fd6ded1793a8f4eb430311226317f30dba5c78",
    "title": "Anthropic wants to develop its own drugs",
    "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
@@ -419,7 +419,7 @@
    "tldr": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, and generates figures…",
    "published": "2026-07-03T13:56:52.000Z",
    "dupes": 1,
-   "score": 0.209,
+   "score": 0.208,
    "tier": 3
   },
   {
