@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-07T20:47:42.978Z",
+ "generated": "2026-07-07T22:06:47.454Z",
  "items": [
   {
    "id": "19e699f3402c118ffbb02f97aabb49558d512030",
@@ -13,8 +13,21 @@
    "tldr": "",
    "published": "2026-07-07T15:33:20.000Z",
    "dupes": 1,
-   "score": 0.632,
+   "score": 0.622,
    "tier": 1
+  },
+  {
+   "id": "ca9a2a21da074b1826986835c8247c4c7ed792ab",
+   "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+   "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-07T21:15:33.000Z",
+   "dupes": 1,
+   "score": 0.601,
+   "tier": 2
   },
   {
    "id": "b3f9f0ab138fafaa9e42ac0ce8de702d5a487d7d",
@@ -28,7 +41,7 @@
    "tldr": "Algorithms & Theory",
    "published": "2026-07-07T16:42:08.000Z",
    "dupes": 1,
-   "score": 0.574,
+   "score": 0.559,
    "tier": 2
   },
   {
@@ -43,7 +56,7 @@
    "tldr": "Max single-threaded CPUs at scale are a new category of CPUs built for the agentic AI era.  Across the creation and deployment of an agentic system, the CPU is on the critical path for reasoning, response time and…",
    "published": "2026-07-07T15:00:52.000Z",
    "dupes": 1,
-   "score": 0.555,
+   "score": 0.541,
    "tier": 2
   },
   {
@@ -56,7 +69,7 @@
    "tldr": "",
    "published": "2026-07-07T15:20:06.000Z",
    "dupes": 1,
-   "score": 0.546,
+   "score": 0.532,
    "tier": 2
   },
   {
@@ -71,7 +84,7 @@
    "tldr": "Meta is launching the first AI image generation model made by its Superintelligence Labs division.  The Muse Image model now powers the image-making tools across the Meta AI app, Instagram, and WhatsApp, and it's coming…",
    "published": "2026-07-07T20:31:58.000Z",
    "dupes": 1,
-   "score": 0.546,
+   "score": 0.529,
    "tier": 2
   },
   {
@@ -86,7 +99,7 @@
    "tldr": "Starting Tuesday, Anthropic's Claude Cowork AI platform will be available on mobile and web for the first time.",
    "published": "2026-07-07T17:46:59.000Z",
    "dupes": 1,
-   "score": 0.512,
+   "score": 0.496,
    "tier": 2
   },
   {
@@ -104,7 +117,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.502,
+   "score": 0.494,
    "tier": 2
   },
   {
@@ -119,7 +132,7 @@
    "tldr": "",
    "published": "2026-07-07T16:35:24.000Z",
    "dupes": 1,
-   "score": 0.492,
+   "score": 0.478,
    "tier": 2
   },
   {
@@ -133,21 +146,6 @@
    "topic": "compute",
    "tldr": "Open source AI has shown how quickly developers can innovate when models, data and tools are shared.  Robotics has the same opportunity, but advancements in physical AI development can still be gated by costly and…",
    "published": "2026-07-07T06:00:26.000Z",
-   "dupes": 1,
-   "score": 0.473,
-   "tier": 2
-  },
-  {
-   "id": "420f27acd6cee1894486db1945a76fcd0a46a665",
-   "title": "A verification loop 4x'd DeepSeek's intelligence, matching Opus at 1/7 the cost",
-   "url": "https://ironbee.medium.com/what-a-verification-loop-adds-to-a-coding-agent-a-first-look-5049017e636e",
-   "source": "HN · DeepSeek",
-   "org": [
-    "deepseek"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-07T13:28:25.000Z",
    "dupes": 1,
    "score": 0.463,
    "tier": 2
@@ -164,7 +162,7 @@
    "tldr": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity.  AP+ saves time, improves quality, and keeps human judgment central.",
    "published": "2026-07-07T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.457,
+   "score": 0.449,
    "tier": 2
   },
   {
@@ -179,7 +177,22 @@
    "tldr": "Muse Image follows instructions faithfully, edits with precision, composes from multiple references, and draws on Instagram for social context.  Muse Video delivers exceptional visual fidelity with native audio support.",
    "published": "2026-07-07T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.457,
+   "score": 0.449,
+   "tier": 2
+  },
+  {
+   "id": "420f27acd6cee1894486db1945a76fcd0a46a665",
+   "title": "A verification loop 4x'd DeepSeek's intelligence, matching Opus at 1/7 the cost",
+   "url": "https://ironbee.medium.com/what-a-verification-loop-adds-to-a-coding-agent-a-first-look-5049017e636e",
+   "source": "HN · DeepSeek",
+   "org": [
+    "deepseek"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-07T13:28:25.000Z",
+   "dupes": 1,
+   "score": 0.449,
    "tier": 2
   },
   {
@@ -192,8 +205,8 @@
    "tldr": "",
    "published": "2026-07-07T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.42,
-   "tier": 2
+   "score": 0.412,
+   "tier": 3
   },
   {
    "id": "0a1d2bd6cc12857ba06f7d53830bdb35110d1497",
@@ -205,7 +218,7 @@
    "tldr": "",
    "published": "2026-07-07T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.42,
+   "score": 0.412,
    "tier": 3
   },
   {
@@ -223,7 +236,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.39,
+   "score": 0.385,
    "tier": 3
   },
   {
@@ -238,7 +251,7 @@
    "tldr": "Nations have long invested in domestic infrastructure to advance their economies, protect and use their data, and take advantage of technology opportunities in areas such as transportation, communications, commerce,…",
    "published": "2026-07-06T15:00:25.000Z",
    "dupes": 1,
-   "score": 0.386,
+   "score": 0.381,
    "tier": 3
   },
   {
@@ -251,7 +264,7 @@
    "tldr": "",
    "published": "2026-07-06T15:30:55.000Z",
    "dupes": 1,
-   "score": 0.376,
+   "score": 0.37,
    "tier": 3
   },
   {
@@ -266,7 +279,7 @@
    "tldr": "",
    "published": "2026-07-06T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.362,
+   "score": 0.359,
    "tier": 3
   },
   {
@@ -285,7 +298,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.339,
+   "score": 0.328,
    "tier": 3
   },
   {
@@ -298,7 +311,7 @@
    "tldr": "",
    "published": "2026-07-06T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.325,
+   "score": 0.322,
    "tier": 3
   },
   {
@@ -316,22 +329,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.307,
-   "tier": 3
-  },
-  {
-   "id": "6f442d4e59ecf2ba730d173902e8bc49714f443c",
-   "title": "Microsoft is laying off 4,800 employees",
-   "url": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
-   "source": "The Verge AI",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "A year after cutting around 9,100 employees, Microsoft is making further layoffs today as it begins its new financial year.  1 percent of its workforce.",
-   "published": "2026-07-06T13:30:00.000Z",
-   "dupes": 1,
-   "score": 0.305,
+   "score": 0.306,
    "tier": 3
   },
   {
@@ -346,7 +344,22 @@
    "tldr": "",
    "published": "2026-07-02T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.302,
+   "score": 0.301,
+   "tier": 3
+  },
+  {
+   "id": "6f442d4e59ecf2ba730d173902e8bc49714f443c",
+   "title": "Microsoft is laying off 4,800 employees",
+   "url": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
+   "source": "The Verge AI",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "A year after cutting around 9,100 employees, Microsoft is making further layoffs today as it begins its new financial year.  1 percent of its workforce.",
+   "published": "2026-07-06T13:30:00.000Z",
+   "dupes": 1,
+   "score": 0.3,
    "tier": 3
   },
   {
@@ -361,7 +374,7 @@
    "tldr": "Summer is heating up — and GeForce NOW is taking players along for the ride.  Start the month with Monopoly: Star Wars Heroes vs.",
    "published": "2026-07-02T13:00:23.000Z",
    "dupes": 1,
-   "score": 0.278,
+   "score": 0.277,
    "tier": 3
   },
   {
@@ -421,7 +434,7 @@
    "tldr": "The pace of AI adoption is moving incredibly fast.  Customers have moved well beyond experimentation and understand the importance of adopting AI to transform their business.",
    "published": "2026-07-02T12:59:05.000Z",
    "dupes": 1,
-   "score": 0.253,
+   "score": 0.252,
    "tier": 3
   },
   {
@@ -436,7 +449,7 @@
    "tldr": "\" That's how a new commercial for Google Workspace opens.  And things only get cringier from there.",
    "published": "2026-07-05T14:23:11.000Z",
    "dupes": 1,
-   "score": 0.243,
+   "score": 0.241,
    "tier": 3
   },
   {
@@ -451,7 +464,7 @@
    "tldr": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, and generates figures…",
    "published": "2026-07-03T13:56:52.000Z",
    "dupes": 1,
-   "score": 0.207,
+   "score": 0.206,
    "tier": 3
   }
  ]
