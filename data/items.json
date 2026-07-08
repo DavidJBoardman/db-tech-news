@@ -1,32 +1,34 @@
 {
- "generated": "2026-07-08T20:01:00.703Z",
+ "generated": "2026-07-08T21:38:42.701Z",
  "items": [
   {
-   "id": "6258cf13f3d5f19bc6e2a155180744f075bf65cf",
-   "title": "Grok 4.5",
-   "url": "https://x.ai/news/grok-4-5",
-   "source": "Hacker News",
+   "id": "eaad4cbcfa7f5327a2cc22a617c04a1d32c8eb96",
+   "title": "Separating signal from noise in coding evaluations",
+   "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+   "source": "OpenAI Blog",
    "org": [
-    "xai"
+    "openai"
    ],
    "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-08T18:00:32.000Z",
-   "dupes": 1,
-   "score": 0.674,
+   "tldr": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
+   "published": "2026-07-08T13:00:00.000Z",
+   "dupes": 2,
+   "score": 0.676,
    "tier": 1
   },
   {
-   "id": "87af2b58278ea79ea45b2370b51c6b325716c75f",
-   "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
-   "url": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips",
+   "id": "25475716ab2512a7fdea17bb9b7f8e95e6dba8c4",
+   "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+   "url": "https://microsoft.github.io/flint-chart",
    "source": "Hacker News",
-   "org": [],
-   "topic": "compute",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
    "tldr": "",
-   "published": "2026-07-08T11:30:56.000Z",
+   "published": "2026-07-08T17:46:12.000Z",
    "dupes": 1,
-   "score": 0.602,
+   "score": 0.651,
    "tier": 2
   },
   {
@@ -41,7 +43,7 @@
    "tldr": "We’re breaking ground on a new 1GW, AI-optimized data center in Sturgeon County, Alberta — our first data center in Canada and 33rd in our global fleet.  The post Breaking Ground on Meta’s First Data Center in Canada…",
    "published": "2026-07-08T19:30:30.000Z",
    "dupes": 1,
-   "score": 0.593,
+   "score": 0.572,
    "tier": 2
   },
   {
@@ -54,22 +56,22 @@
    "tldr": "",
    "published": "2026-07-08T17:16:05.000Z",
    "dupes": 1,
-   "score": 0.577,
+   "score": 0.558,
    "tier": 2
   },
   {
-   "id": "25475716ab2512a7fdea17bb9b7f8e95e6dba8c4",
-   "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
-   "url": "https://microsoft.github.io/flint-chart",
-   "source": "Hacker News",
+   "id": "41b85c9cdb7a0122f22d6b2e39aed7b59f41059a",
+   "title": "Our approach to government and national security partnerships",
+   "url": "https://openai.com/index/government-national-security-partnerships",
+   "source": "OpenAI Blog",
    "org": [
-    "microsoft"
+    "openai"
    ],
    "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-08T17:46:12.000Z",
+   "tldr": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
+   "published": "2026-07-08T13:30:00.000Z",
    "dupes": 1,
-   "score": 0.571,
+   "score": 0.556,
    "tier": 2
   },
   {
@@ -84,7 +86,7 @@
    "tldr": "NVIDIA Nemotron 3 Ultra is offering leading performance at lower cost than top closed models with the largest and most widely adopted AI agent orchestration platform.",
    "published": "2026-07-08T15:00:27.000Z",
    "dupes": 1,
-   "score": 0.564,
+   "score": 0.546,
    "tier": 2
   },
   {
@@ -99,7 +101,7 @@
    "tldr": "Short chart specifications are easy to write, but often produce uninspiring results.  Flint is an open-source visualization language that offers a middle path, letting AI agents create expressive charts from compact,…",
    "published": "2026-07-08T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.562,
+   "score": 0.544,
    "tier": 2
   },
   {
@@ -114,37 +116,7 @@
    "tldr": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.",
    "published": "2026-07-08T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.538,
-   "tier": 2
-  },
-  {
-   "id": "963a6870c5aab5cae64df69a429ce0f3ce912044",
-   "title": "ChatGPT’s upgraded voice mode is better at shutting up",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "\" The new GPT-Live-1 is designed to interrupt you less and will also wait for you to continue speaking if you pause mid-conversation.",
-   "published": "2026-07-08T17:00:00.000Z",
-   "dupes": 1,
-   "score": 0.512,
-   "tier": 2
-  },
-  {
-   "id": "65dcc592608fb9a56d5f83e2f5804578a5ca2156",
-   "title": "Geosql: A Claude/Codex skill for geospatial data",
-   "url": "https://github.com/dekart-xyz/geosql",
-   "source": "Hacker News",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-08T08:37:26.000Z",
-   "dupes": 1,
-   "score": 0.491,
+   "score": 0.524,
    "tier": 2
   },
   {
@@ -159,7 +131,7 @@
    "tldr": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
    "published": "2026-07-08T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.462,
+   "score": 0.452,
    "tier": 2
   },
   {
@@ -172,7 +144,7 @@
    "tldr": "",
    "published": "2026-07-08T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.424,
+   "score": 0.415,
    "tier": 2
   },
   {
@@ -187,7 +159,7 @@
    "tldr": "We’re answering frequently asked questions about our AI glasses and sharing the features we’ve built to help both the wearers of our glasses and the people around them feel comfortable.  The post Meta’s AI Glasses: Your…",
    "published": "2026-07-07T23:35:43.000Z",
    "dupes": 1,
-   "score": 0.409,
+   "score": 0.4,
    "tier": 2
   },
   {
@@ -200,8 +172,8 @@
    "tldr": "",
    "published": "2026-07-07T21:15:33.000Z",
    "dupes": 1,
-   "score": 0.408,
-   "tier": 3
+   "score": 0.399,
+   "tier": 2
   },
   {
    "id": "b3f9f0ab138fafaa9e42ac0ce8de702d5a487d7d",
@@ -215,8 +187,8 @@
    "tldr": "Algorithms & Theory",
    "published": "2026-07-07T16:42:08.000Z",
    "dupes": 1,
-   "score": 0.397,
-   "tier": 3
+   "score": 0.39,
+   "tier": 2
   },
   {
    "id": "c1b25fccf05a636303b8673b352231bfa040423b",
@@ -230,7 +202,7 @@
    "tldr": "Max single-threaded CPUs at scale are a new category of CPUs built for the agentic AI era.  Across the creation and deployment of an agentic system, the CPU is on the critical path for reasoning, response time and…",
    "published": "2026-07-07T15:00:52.000Z",
    "dupes": 1,
-   "score": 0.39,
+   "score": 0.383,
    "tier": 3
   },
   {
@@ -243,7 +215,7 @@
    "tldr": "",
    "published": "2026-07-07T15:20:06.000Z",
    "dupes": 1,
-   "score": 0.378,
+   "score": 0.371,
    "tier": 3
   },
   {
@@ -258,7 +230,7 @@
    "tldr": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity.  AP+ saves time, improves quality, and keeps human judgment central.",
    "published": "2026-07-07T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.364,
+   "score": 0.36,
    "tier": 3
   },
   {
@@ -273,7 +245,7 @@
    "tldr": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
    "published": "2026-07-07T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.364,
+   "score": 0.36,
    "tier": 3
   },
   {
@@ -288,7 +260,7 @@
    "tldr": "Muse Image follows instructions faithfully, edits with precision, composes from multiple references, and draws on Instagram for social context.  Muse Video delivers exceptional visual fidelity with native audio support.",
    "published": "2026-07-07T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.364,
+   "score": 0.36,
    "tier": 3
   },
   {
@@ -303,7 +275,7 @@
    "tldr": "Open source AI has shown how quickly developers can innovate when models, data and tools are shared.  Robotics has the same opportunity, but advancements in physical AI development can still be gated by costly and…",
    "published": "2026-07-07T06:00:26.000Z",
    "dupes": 1,
-   "score": 0.356,
+   "score": 0.351,
    "tier": 3
   },
   {
@@ -318,48 +290,7 @@
    "tldr": "Meta is launching the first AI image generation model made by its Superintelligence Labs division.  The Muse Image model now powers the image-making tools across the Meta AI app, Instagram, and WhatsApp, and it's coming…",
    "published": "2026-07-07T20:31:58.000Z",
    "dupes": 1,
-   "score": 0.342,
-   "tier": 3
-  },
-  {
-   "id": "b29a21395768cd97a181799d4d884d389985322a",
-   "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
-   "url": "https://huggingface.co/blog/skypilot-hf-storage",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-07T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.327,
-   "tier": 3
-  },
-  {
-   "id": "0a1d2bd6cc12857ba06f7d53830bdb35110d1497",
-   "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
-   "url": "https://huggingface.co/blog/lerobot-release-v060",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-07T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.327,
-   "tier": 3
-  },
-  {
-   "id": "6430cc7f42fab53c38c179763ba4537768212df2",
-   "title": "Anthropic is launching Claude Cowork on mobile and web",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
-   "source": "The Verge AI",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "Starting Tuesday, Anthropic's Claude Cowork AI platform will be available on mobile and web for the first time.",
-   "published": "2026-07-07T17:46:59.000Z",
-   "dupes": 1,
-   "score": 0.327,
+   "score": 0.333,
    "tier": 3
   },
   {
@@ -374,7 +305,48 @@
    "tldr": "",
    "published": "2026-07-06T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.326,
+   "score": 0.324,
+   "tier": 3
+  },
+  {
+   "id": "b29a21395768cd97a181799d4d884d389985322a",
+   "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+   "url": "https://huggingface.co/blog/skypilot-hf-storage",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-07T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.323,
+   "tier": 3
+  },
+  {
+   "id": "0a1d2bd6cc12857ba06f7d53830bdb35110d1497",
+   "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+   "url": "https://huggingface.co/blog/lerobot-release-v060",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-07T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.323,
+   "tier": 3
+  },
+  {
+   "id": "6430cc7f42fab53c38c179763ba4537768212df2",
+   "title": "Anthropic is launching Claude Cowork on mobile and web",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
+   "source": "The Verge AI",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "Starting Tuesday, Anthropic's Claude Cowork AI platform will be available on mobile and web for the first time.",
+   "published": "2026-07-07T17:46:59.000Z",
+   "dupes": 1,
+   "score": 0.32,
    "tier": 3
   },
   {
@@ -392,7 +364,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.322,
+   "score": 0.319,
    "tier": 3
   },
   {
@@ -407,7 +379,7 @@
    "tldr": "Nations have long invested in domestic infrastructure to advance their economies, protect and use their data, and take advantage of technology opportunities in areas such as transportation, communications, commerce,…",
    "published": "2026-07-06T15:00:25.000Z",
    "dupes": 1,
-   "score": 0.32,
+   "score": 0.318,
    "tier": 3
   },
   {
@@ -420,7 +392,7 @@
    "tldr": "",
    "published": "2026-07-06T15:30:55.000Z",
    "dupes": 1,
-   "score": 0.309,
+   "score": 0.306,
    "tier": 3
   },
   {
@@ -466,7 +438,7 @@
    "tldr": "",
    "published": "2026-07-06T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.288,
+   "score": 0.286,
    "tier": 3
   },
   {
@@ -526,7 +498,7 @@
    "tldr": "A year after cutting around 9,100 employees, Microsoft is making further layoffs today as it begins its new financial year.  1 percent of its workforce.",
    "published": "2026-07-06T13:30:00.000Z",
    "dupes": 1,
-   "score": 0.243,
+   "score": 0.24,
    "tier": 3
   },
   {
@@ -541,7 +513,7 @@
    "tldr": "\" That's how a new commercial for Google Workspace opens.  And things only get cringier from there.",
    "published": "2026-07-05T14:23:11.000Z",
    "dupes": 1,
-   "score": 0.218,
+   "score": 0.217,
    "tier": 3
   },
   {
