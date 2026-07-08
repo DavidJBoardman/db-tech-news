@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-08T12:58:21.674Z",
+ "generated": "2026-07-08T15:23:08.069Z",
  "items": [
   {
    "id": "87af2b58278ea79ea45b2370b51c6b325716c75f",
@@ -11,8 +11,23 @@
    "tldr": "",
    "published": "2026-07-08T11:30:56.000Z",
    "dupes": 1,
-   "score": 0.555,
+   "score": 0.631,
    "tier": 1
+  },
+  {
+   "id": "01fe34145aaf17d372c76aa51673212ccb313432",
+   "title": "NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness",
+   "url": "https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "NVIDIA Nemotron 3 Ultra is offering leading performance at lower cost than top closed models with the largest and most widely adopted AI agent orchestration platform.",
+   "published": "2026-07-08T15:00:27.000Z",
+   "dupes": 1,
+   "score": 0.62,
+   "tier": 2
   },
   {
    "id": "65dcc592608fb9a56d5f83e2f5804578a5ca2156",
@@ -26,65 +41,7 @@
    "tldr": "",
    "published": "2026-07-08T08:37:26.000Z",
    "dupes": 1,
-   "score": 0.513,
-   "tier": 2
-  },
-  {
-   "id": "6753178232411b686912c7e7f8909ed27dae45dc",
-   "title": "Meta’s AI Glasses: Your Questions Answered",
-   "url": "https://about.fb.com/news/2026/07/metas-ai-glasses-your-questions-answered",
-   "source": "Meta Newsroom",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "We’re answering frequently asked questions about our AI glasses and sharing the features we’ve built to help both the wearers of our glasses and the people around them feel comfortable.  The post Meta’s AI Glasses: Your…",
-   "published": "2026-07-07T23:35:43.000Z",
-   "dupes": 1,
-   "score": 0.459,
-   "tier": 2
-  },
-  {
-   "id": "ca9a2a21da074b1826986835c8247c4c7ed792ab",
-   "title": "From Hugging Face to Amazon SageMaker Studio in one click",
-   "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-07T21:15:33.000Z",
-   "dupes": 1,
-   "score": 0.454,
-   "tier": 2
-  },
-  {
-   "id": "b3f9f0ab138fafaa9e42ac0ce8de702d5a487d7d",
-   "title": "The power of collaboration: How we can reduce traffic congestion",
-   "url": "https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion",
-   "source": "Google Research",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Algorithms & Theory",
-   "published": "2026-07-07T16:42:08.000Z",
-   "dupes": 1,
-   "score": 0.435,
-   "tier": 2
-  },
-  {
-   "id": "c1b25fccf05a636303b8673b352231bfa040423b",
-   "title": "AI Innovators Adopt NVIDIA Vera — Why Max Single-Threaded CPU at Scale Matters",
-   "url": "https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Max single-threaded CPUs at scale are a new category of CPUs built for the agentic AI era.  Across the creation and deployment of an agentic system, the CPU is on the critical path for reasoning, response time and…",
-   "published": "2026-07-07T15:00:52.000Z",
-   "dupes": 1,
-   "score": 0.425,
+   "score": 0.528,
    "tier": 2
   },
   {
@@ -102,7 +59,65 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.422,
+   "score": 0.493,
+   "tier": 2
+  },
+  {
+   "id": "6753178232411b686912c7e7f8909ed27dae45dc",
+   "title": "Meta’s AI Glasses: Your Questions Answered",
+   "url": "https://about.fb.com/news/2026/07/metas-ai-glasses-your-questions-answered",
+   "source": "Meta Newsroom",
+   "org": [
+    "meta"
+   ],
+   "topic": "ai",
+   "tldr": "We’re answering frequently asked questions about our AI glasses and sharing the features we’ve built to help both the wearers of our glasses and the people around them feel comfortable.  The post Meta’s AI Glasses: Your…",
+   "published": "2026-07-07T23:35:43.000Z",
+   "dupes": 1,
+   "score": 0.441,
+   "tier": 2
+  },
+  {
+   "id": "ca9a2a21da074b1826986835c8247c4c7ed792ab",
+   "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+   "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-07T21:15:33.000Z",
+   "dupes": 1,
+   "score": 0.437,
+   "tier": 2
+  },
+  {
+   "id": "b3f9f0ab138fafaa9e42ac0ce8de702d5a487d7d",
+   "title": "The power of collaboration: How we can reduce traffic congestion",
+   "url": "https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion",
+   "source": "Google Research",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Algorithms & Theory",
+   "published": "2026-07-07T16:42:08.000Z",
+   "dupes": 1,
+   "score": 0.421,
+   "tier": 2
+  },
+  {
+   "id": "c1b25fccf05a636303b8673b352231bfa040423b",
+   "title": "AI Innovators Adopt NVIDIA Vera — Why Max Single-Threaded CPU at Scale Matters",
+   "url": "https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Max single-threaded CPUs at scale are a new category of CPUs built for the agentic AI era.  Across the creation and deployment of an agentic system, the CPU is on the critical path for reasoning, response time and…",
+   "published": "2026-07-07T15:00:52.000Z",
+   "dupes": 1,
+   "score": 0.412,
    "tier": 2
   },
   {
@@ -115,22 +130,7 @@
    "tldr": "",
    "published": "2026-07-07T15:20:06.000Z",
    "dupes": 1,
-   "score": 0.415,
-   "tier": 2
-  },
-  {
-   "id": "b8ee25d2f931dc065b06000aa1159a1fa427c906",
-   "title": "Meta’s new Muse Image model can pull other Instagram users into AI photos",
-   "url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
-   "source": "The Verge AI",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "Meta is launching the first AI image generation model made by its Superintelligence Labs division.  The Muse Image model now powers the image-making tools across the Meta AI app, Instagram, and WhatsApp, and it's coming…",
-   "published": "2026-07-07T20:31:58.000Z",
-   "dupes": 1,
-   "score": 0.386,
+   "score": 0.401,
    "tier": 2
   },
   {
@@ -145,7 +145,7 @@
    "tldr": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity.  AP+ saves time, improves quality, and keeps human judgment central.",
    "published": "2026-07-07T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.384,
+   "score": 0.377,
    "tier": 2
   },
   {
@@ -160,7 +160,7 @@
    "tldr": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
    "published": "2026-07-07T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.384,
+   "score": 0.377,
    "tier": 2
   },
   {
@@ -175,7 +175,7 @@
    "tldr": "Muse Image follows instructions faithfully, edits with precision, composes from multiple references, and draws on Instagram for social context.  Muse Video delivers exceptional visual fidelity with native audio support.",
    "published": "2026-07-07T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.384,
+   "score": 0.377,
    "tier": 2
   },
   {
@@ -190,22 +190,22 @@
    "tldr": "Open source AI has shown how quickly developers can innovate when models, data and tools are shared.  Robotics has the same opportunity, but advancements in physical AI development can still be gated by costly and…",
    "published": "2026-07-07T06:00:26.000Z",
    "dupes": 1,
-   "score": 0.381,
+   "score": 0.372,
    "tier": 2
   },
   {
-   "id": "6430cc7f42fab53c38c179763ba4537768212df2",
-   "title": "Anthropic is launching Claude Cowork on mobile and web",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
+   "id": "b8ee25d2f931dc065b06000aa1159a1fa427c906",
+   "title": "Meta’s new Muse Image model can pull other Instagram users into AI photos",
+   "url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
    "source": "The Verge AI",
    "org": [
-    "anthropic"
+    "meta"
    ],
    "topic": "ai",
-   "tldr": "Starting Tuesday, Anthropic's Claude Cowork AI platform will be available on mobile and web for the first time.",
-   "published": "2026-07-07T17:46:59.000Z",
+   "tldr": "Meta is launching the first AI image generation model made by its Superintelligence Labs division.  The Muse Image model now powers the image-making tools across the Meta AI app, Instagram, and WhatsApp, and it's coming…",
+   "published": "2026-07-07T20:31:58.000Z",
    "dupes": 1,
-   "score": 0.367,
+   "score": 0.369,
    "tier": 3
   },
   {
@@ -220,33 +220,22 @@
    "tldr": "",
    "published": "2026-07-07T16:35:24.000Z",
    "dupes": 1,
-   "score": 0.358,
+   "score": 0.356,
    "tier": 3
   },
   {
-   "id": "b29a21395768cd97a181799d4d884d389985322a",
-   "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
-   "url": "https://huggingface.co/blog/skypilot-hf-storage",
-   "source": "Hugging Face Blog",
-   "org": [],
+   "id": "6430cc7f42fab53c38c179763ba4537768212df2",
+   "title": "Anthropic is launching Claude Cowork on mobile and web",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
+   "source": "The Verge AI",
+   "org": [
+    "anthropic"
+   ],
    "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-07T00:00:00.000Z",
+   "tldr": "Starting Tuesday, Anthropic's Claude Cowork AI platform will be available on mobile and web for the first time.",
+   "published": "2026-07-07T17:46:59.000Z",
    "dupes": 1,
-   "score": 0.347,
-   "tier": 3
-  },
-  {
-   "id": "0a1d2bd6cc12857ba06f7d53830bdb35110d1497",
-   "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
-   "url": "https://huggingface.co/blog/lerobot-release-v060",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-07T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.347,
+   "score": 0.352,
    "tier": 3
   },
   {
@@ -261,26 +250,33 @@
    "tldr": "",
    "published": "2026-07-07T13:28:25.000Z",
    "dupes": 1,
-   "score": 0.342,
+   "score": 0.345,
    "tier": 3
   },
   {
-   "id": "f7b1eaa8826e4482d96e1be741ba6bf62152713c",
-   "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
-   "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
-   "source": "HN · Kimi",
-   "org": [
-    "moonshot",
-    "microsoft"
-   ],
+   "id": "b29a21395768cd97a181799d4d884d389985322a",
+   "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+   "url": "https://huggingface.co/blog/skypilot-hf-storage",
+   "source": "Hugging Face Blog",
+   "org": [],
    "topic": "ai",
    "tldr": "",
-   "published": "2026-07-02T04:32:41.000Z",
-   "badges": [
-    "oss"
-   ],
+   "published": "2026-07-07T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.338,
+   "score": 0.339,
+   "tier": 3
+  },
+  {
+   "id": "0a1d2bd6cc12857ba06f7d53830bdb35110d1497",
+   "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+   "url": "https://huggingface.co/blog/lerobot-release-v060",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-07T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.339,
    "tier": 3
   },
   {
@@ -298,22 +294,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.337,
-   "tier": 3
-  },
-  {
-   "id": "ba9eed298f707f450f3e01bd40b96e0d6cd53df6",
-   "title": "How Nations Are Deploying AI for Strategic Priorities",
-   "url": "https://blogs.nvidia.com/blog/nations-deploy-ai-strategic-priorities",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Nations have long invested in domestic infrastructure to advance their economies, protect and use their data, and take advantage of technology opportunities in areas such as transportation, communications, commerce,…",
-   "published": "2026-07-06T15:00:25.000Z",
-   "dupes": 1,
-   "score": 0.335,
+   "score": 0.331,
    "tier": 3
   },
   {
@@ -328,7 +309,22 @@
    "tldr": "",
    "published": "2026-07-06T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.333,
+   "score": 0.33,
+   "tier": 3
+  },
+  {
+   "id": "ba9eed298f707f450f3e01bd40b96e0d6cd53df6",
+   "title": "How Nations Are Deploying AI for Strategic Priorities",
+   "url": "https://blogs.nvidia.com/blog/nations-deploy-ai-strategic-priorities",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Nations have long invested in domestic infrastructure to advance their economies, protect and use their data, and take advantage of technology opportunities in areas such as transportation, communications, commerce,…",
+   "published": "2026-07-06T15:00:25.000Z",
+   "dupes": 1,
+   "score": 0.329,
    "tier": 3
   },
   {
@@ -341,7 +337,20 @@
    "tldr": "",
    "published": "2026-07-06T15:30:55.000Z",
    "dupes": 1,
-   "score": 0.323,
+   "score": 0.318,
+   "tier": 3
+  },
+  {
+   "id": "afbffbbe831cf315191dba78ffc16790fda0a894",
+   "title": "Home made GPU escalated quickly [video]",
+   "url": "https://www.youtube.com/watch?v=qMR3IXF2sWw",
+   "source": "Hacker News",
+   "org": [],
+   "topic": "compute",
+   "tldr": "",
+   "published": "2026-07-05T12:39:08.000Z",
+   "dupes": 1,
+   "score": 0.306,
    "tier": 3
   },
   {
@@ -359,7 +368,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.304,
+   "score": 0.303,
    "tier": 3
   },
   {
@@ -387,7 +396,7 @@
    "tldr": "",
    "published": "2026-07-06T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.296,
+   "score": 0.293,
    "tier": 3
   },
   {
@@ -421,36 +430,6 @@
    "tier": 3
   },
   {
-   "id": "d067532f40f307cf2fb64918651e3fb9e901a45d",
-   "title": "NVIDIA and Partners Build in America, for America",
-   "url": "https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "S.  can produce the infrastructure needed for better healthcare, breakthrough scientific discovery, stronger industrial productivity and global technology leadership.",
-   "published": "2026-07-01T13:00:47.000Z",
-   "dupes": 1,
-   "score": 0.276,
-   "tier": 3
-  },
-  {
-   "id": "6f442d4e59ecf2ba730d173902e8bc49714f443c",
-   "title": "Microsoft is laying off 4,800 employees",
-   "url": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
-   "source": "The Verge AI",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "A year after cutting around 9,100 employees, Microsoft is making further layoffs today as it begins its new financial year.  1 percent of its workforce.",
-   "published": "2026-07-06T13:30:00.000Z",
-   "dupes": 1,
-   "score": 0.256,
-   "tier": 3
-  },
-  {
    "id": "f2754d39be961820dc07372cf0ef3ae193a648a5",
    "title": "Microsoft Frontier Company: AI engineering that amplifies and protects your intelligence",
    "url": "https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplifies-and-protects-your-intelligence",
@@ -466,14 +445,16 @@
    "tier": 3
   },
   {
-   "id": "afbffbbe831cf315191dba78ffc16790fda0a894",
-   "title": "Home made GPU escalated quickly [video]",
-   "url": "https://www.youtube.com/watch?v=qMR3IXF2sWw",
-   "source": "Hacker News",
-   "org": [],
-   "topic": "compute",
-   "tldr": "",
-   "published": "2026-07-05T12:39:08.000Z",
+   "id": "6f442d4e59ecf2ba730d173902e8bc49714f443c",
+   "title": "Microsoft is laying off 4,800 employees",
+   "url": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
+   "source": "The Verge AI",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "A year after cutting around 9,100 employees, Microsoft is making further layoffs today as it begins its new financial year.  1 percent of its workforce.",
+   "published": "2026-07-06T13:30:00.000Z",
    "dupes": 1,
    "score": 0.251,
    "tier": 3
@@ -490,7 +471,7 @@
    "tldr": "\" That's how a new commercial for Google Workspace opens.  And things only get cringier from there.",
    "published": "2026-07-05T14:23:11.000Z",
    "dupes": 1,
-   "score": 0.223,
+   "score": 0.221,
    "tier": 3
   },
   {
@@ -505,7 +486,7 @@
    "tldr": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, and generates figures…",
    "published": "2026-07-03T13:56:52.000Z",
    "dupes": 1,
-   "score": 0.204,
+   "score": 0.203,
    "tier": 3
   }
  ]
