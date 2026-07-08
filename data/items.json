@@ -1,19 +1,6 @@
 {
- "generated": "2026-07-08T15:23:08.069Z",
+ "generated": "2026-07-08T16:55:15.841Z",
  "items": [
-  {
-   "id": "87af2b58278ea79ea45b2370b51c6b325716c75f",
-   "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
-   "url": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips",
-   "source": "Hacker News",
-   "org": [],
-   "topic": "compute",
-   "tldr": "",
-   "published": "2026-07-08T11:30:56.000Z",
-   "dupes": 1,
-   "score": 0.631,
-   "tier": 1
-  },
   {
    "id": "01fe34145aaf17d372c76aa51673212ccb313432",
    "title": "NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness",
@@ -26,7 +13,35 @@
    "tldr": "NVIDIA Nemotron 3 Ultra is offering leading performance at lower cost than top closed models with the largest and most widely adopted AI agent orchestration platform.",
    "published": "2026-07-08T15:00:27.000Z",
    "dupes": 1,
-   "score": 0.62,
+   "score": 0.6,
+   "tier": 1
+  },
+  {
+   "id": "b47d35712994a9180cee8927ca7e3acaa2465550",
+   "title": "Flint: A visualization language for the AI era",
+   "url": "https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era",
+   "source": "Microsoft Research",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "Short chart specifications are easy to write, but often produce uninspiring results.  Flint is an open-source visualization language that offers a middle path, letting AI agents create expressive charts from compact,…",
+   "published": "2026-07-08T16:00:00.000Z",
+   "dupes": 1,
+   "score": 0.6,
+   "tier": 2
+  },
+  {
+   "id": "87af2b58278ea79ea45b2370b51c6b325716c75f",
+   "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
+   "url": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips",
+   "source": "Hacker News",
+   "org": [],
+   "topic": "compute",
+   "tldr": "",
+   "published": "2026-07-08T11:30:56.000Z",
+   "dupes": 1,
+   "score": 0.557,
    "tier": 2
   },
   {
@@ -41,25 +56,20 @@
    "tldr": "",
    "published": "2026-07-08T08:37:26.000Z",
    "dupes": 1,
-   "score": 0.528,
+   "score": 0.484,
    "tier": 2
   },
   {
-   "id": "e2be3363623027ac5e66b4a76a3f8817d397c4a5",
-   "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
-   "url": "https://github.com/rowboatlabs/rowboat",
-   "source": "Hacker News",
-   "org": [
-    "anthropic"
-   ],
+   "id": "f2a3364a10eb9acc95cebb72e580c38287a93cea",
+   "title": "Native-speed vLLM transformers modeling backend",
+   "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+   "source": "Hugging Face Blog",
+   "org": [],
    "topic": "ai",
    "tldr": "",
-   "published": "2026-07-07T16:10:44.000Z",
-   "badges": [
-    "oss"
-   ],
+   "published": "2026-07-08T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.493,
+   "score": 0.445,
    "tier": 2
   },
   {
@@ -74,7 +84,7 @@
    "tldr": "We’re answering frequently asked questions about our AI glasses and sharing the features we’ve built to help both the wearers of our glasses and the people around them feel comfortable.  The post Meta’s AI Glasses: Your…",
    "published": "2026-07-07T23:35:43.000Z",
    "dupes": 1,
-   "score": 0.441,
+   "score": 0.43,
    "tier": 2
   },
   {
@@ -87,7 +97,7 @@
    "tldr": "",
    "published": "2026-07-07T21:15:33.000Z",
    "dupes": 1,
-   "score": 0.437,
+   "score": 0.427,
    "tier": 2
   },
   {
@@ -102,7 +112,7 @@
    "tldr": "Algorithms & Theory",
    "published": "2026-07-07T16:42:08.000Z",
    "dupes": 1,
-   "score": 0.421,
+   "score": 0.413,
    "tier": 2
   },
   {
@@ -117,7 +127,7 @@
    "tldr": "Max single-threaded CPUs at scale are a new category of CPUs built for the agentic AI era.  Across the creation and deployment of an agentic system, the CPU is on the critical path for reasoning, response time and…",
    "published": "2026-07-07T15:00:52.000Z",
    "dupes": 1,
-   "score": 0.412,
+   "score": 0.404,
    "tier": 2
   },
   {
@@ -130,7 +140,7 @@
    "tldr": "",
    "published": "2026-07-07T15:20:06.000Z",
    "dupes": 1,
-   "score": 0.401,
+   "score": 0.393,
    "tier": 2
   },
   {
@@ -145,7 +155,7 @@
    "tldr": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity.  AP+ saves time, improves quality, and keeps human judgment central.",
    "published": "2026-07-07T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.377,
+   "score": 0.372,
    "tier": 2
   },
   {
@@ -160,7 +170,7 @@
    "tldr": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
    "published": "2026-07-07T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.377,
+   "score": 0.372,
    "tier": 2
   },
   {
@@ -175,7 +185,7 @@
    "tldr": "Muse Image follows instructions faithfully, edits with precision, composes from multiple references, and draws on Instagram for social context.  Muse Video delivers exceptional visual fidelity with native audio support.",
    "published": "2026-07-07T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.377,
+   "score": 0.372,
    "tier": 2
   },
   {
@@ -190,8 +200,8 @@
    "tldr": "Open source AI has shown how quickly developers can innovate when models, data and tools are shared.  Robotics has the same opportunity, but advancements in physical AI development can still be gated by costly and…",
    "published": "2026-07-07T06:00:26.000Z",
    "dupes": 1,
-   "score": 0.372,
-   "tier": 2
+   "score": 0.366,
+   "tier": 3
   },
   {
    "id": "b8ee25d2f931dc065b06000aa1159a1fa427c906",
@@ -205,22 +215,7 @@
    "tldr": "Meta is launching the first AI image generation model made by its Superintelligence Labs division.  The Muse Image model now powers the image-making tools across the Meta AI app, Instagram, and WhatsApp, and it's coming…",
    "published": "2026-07-07T20:31:58.000Z",
    "dupes": 1,
-   "score": 0.369,
-   "tier": 3
-  },
-  {
-   "id": "fce7debfb8a1533568a22172405e192674c1e087",
-   "title": "How did we make DeepSeek outperform Opus",
-   "url": "https://twitter.com/MrAhmadAwais/status/2050956678502420612",
-   "source": "HN · DeepSeek",
-   "org": [
-    "deepseek"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-07T16:35:24.000Z",
-   "dupes": 1,
-   "score": 0.356,
+   "score": 0.36,
    "tier": 3
   },
   {
@@ -235,22 +230,41 @@
    "tldr": "Starting Tuesday, Anthropic's Claude Cowork AI platform will be available on mobile and web for the first time.",
    "published": "2026-07-07T17:46:59.000Z",
    "dupes": 1,
-   "score": 0.352,
+   "score": 0.344,
    "tier": 3
   },
   {
-   "id": "420f27acd6cee1894486db1945a76fcd0a46a665",
-   "title": "A verification loop 4x'd DeepSeek's intelligence, matching Opus at 1/7 the cost",
-   "url": "https://ironbee.medium.com/what-a-verification-loop-adds-to-a-coding-agent-a-first-look-5049017e636e",
+   "id": "f7b1eaa8826e4482d96e1be741ba6bf62152713c",
+   "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
+   "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
+   "source": "HN · Kimi",
+   "org": [
+    "moonshot",
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-02T04:32:41.000Z",
+   "badges": [
+    "oss"
+   ],
+   "dupes": 1,
+   "score": 0.338,
+   "tier": 3
+  },
+  {
+   "id": "fce7debfb8a1533568a22172405e192674c1e087",
+   "title": "How did we make DeepSeek outperform Opus",
+   "url": "https://twitter.com/MrAhmadAwais/status/2050956678502420612",
    "source": "HN · DeepSeek",
    "org": [
     "deepseek"
    ],
    "topic": "ai",
    "tldr": "",
-   "published": "2026-07-07T13:28:25.000Z",
+   "published": "2026-07-07T16:35:24.000Z",
    "dupes": 1,
-   "score": 0.345,
+   "score": 0.336,
    "tier": 3
   },
   {
@@ -263,7 +277,7 @@
    "tldr": "",
    "published": "2026-07-07T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.339,
+   "score": 0.335,
    "tier": 3
   },
   {
@@ -276,7 +290,22 @@
    "tldr": "",
    "published": "2026-07-07T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.339,
+   "score": 0.335,
+   "tier": 3
+  },
+  {
+   "id": "2902cfd98ebb4fc0aed0bfd7949ebc7cbbd17c8e",
+   "title": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
+   "url": "https://www.anthropic.com/news/alberta-government-claude-cybersecurity",
+   "source": "Anthropic News",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-06T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.329,
    "tier": 3
   },
   {
@@ -294,22 +323,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.331,
-   "tier": 3
-  },
-  {
-   "id": "2902cfd98ebb4fc0aed0bfd7949ebc7cbbd17c8e",
-   "title": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
-   "url": "https://www.anthropic.com/news/alberta-government-claude-cybersecurity",
-   "source": "Anthropic News",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-06T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.33,
+   "score": 0.328,
    "tier": 3
   },
   {
@@ -324,7 +338,22 @@
    "tldr": "Nations have long invested in domestic infrastructure to advance their economies, protect and use their data, and take advantage of technology opportunities in areas such as transportation, communications, commerce,…",
    "published": "2026-07-06T15:00:25.000Z",
    "dupes": 1,
-   "score": 0.329,
+   "score": 0.326,
+   "tier": 3
+  },
+  {
+   "id": "420f27acd6cee1894486db1945a76fcd0a46a665",
+   "title": "A verification loop 4x'd DeepSeek's intelligence, matching Opus at 1/7 the cost",
+   "url": "https://ironbee.medium.com/what-a-verification-loop-adds-to-a-coding-agent-a-first-look-5049017e636e",
+   "source": "HN · DeepSeek",
+   "org": [
+    "deepseek"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-07T13:28:25.000Z",
+   "dupes": 1,
+   "score": 0.323,
    "tier": 3
   },
   {
@@ -337,20 +366,7 @@
    "tldr": "",
    "published": "2026-07-06T15:30:55.000Z",
    "dupes": 1,
-   "score": 0.318,
-   "tier": 3
-  },
-  {
-   "id": "afbffbbe831cf315191dba78ffc16790fda0a894",
-   "title": "Home made GPU escalated quickly [video]",
-   "url": "https://www.youtube.com/watch?v=qMR3IXF2sWw",
-   "source": "Hacker News",
-   "org": [],
-   "topic": "compute",
-   "tldr": "",
-   "published": "2026-07-05T12:39:08.000Z",
-   "dupes": 1,
-   "score": 0.306,
+   "score": 0.315,
    "tier": 3
   },
   {
@@ -396,7 +412,7 @@
    "tldr": "",
    "published": "2026-07-06T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.293,
+   "score": 0.291,
    "tier": 3
   },
   {
@@ -430,6 +446,19 @@
    "tier": 3
   },
   {
+   "id": "afbffbbe831cf315191dba78ffc16790fda0a894",
+   "title": "Home made GPU escalated quickly [video]",
+   "url": "https://www.youtube.com/watch?v=qMR3IXF2sWw",
+   "source": "Hacker News",
+   "org": [],
+   "topic": "compute",
+   "tldr": "",
+   "published": "2026-07-05T12:39:08.000Z",
+   "dupes": 1,
+   "score": 0.267,
+   "tier": 3
+  },
+  {
    "id": "f2754d39be961820dc07372cf0ef3ae193a648a5",
    "title": "Microsoft Frontier Company: AI engineering that amplifies and protects your intelligence",
    "url": "https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplifies-and-protects-your-intelligence",
@@ -456,7 +485,7 @@
    "tldr": "A year after cutting around 9,100 employees, Microsoft is making further layoffs today as it begins its new financial year.  1 percent of its workforce.",
    "published": "2026-07-06T13:30:00.000Z",
    "dupes": 1,
-   "score": 0.251,
+   "score": 0.248,
    "tier": 3
   },
   {
@@ -471,7 +500,7 @@
    "tldr": "\" That's how a new commercial for Google Workspace opens.  And things only get cringier from there.",
    "published": "2026-07-05T14:23:11.000Z",
    "dupes": 1,
-   "score": 0.221,
+   "score": 0.22,
    "tier": 3
   },
   {
