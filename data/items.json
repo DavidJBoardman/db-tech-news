@@ -1,21 +1,6 @@
 {
- "generated": "2026-07-13T14:14:27.657Z",
+ "generated": "2026-07-13T16:53:55.124Z",
  "items": [
-  {
-   "id": "bd87c1bd9f8f865403fbf7833b65edf91df5b581",
-   "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-   "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade",
-   "source": "Hacker News",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-13T08:39:39.000Z",
-   "dupes": 1,
-   "score": 0.632,
-   "tier": 1
-  },
   {
    "id": "817ee0972d02565424e5e2ff98d48b681c73b51b",
    "title": "Grok uploaded my user directory to xAI's servers",
@@ -28,7 +13,22 @@
    "tldr": "",
    "published": "2026-07-13T13:39:59.000Z",
    "dupes": 2,
-   "score": 0.617,
+   "score": 0.626,
+   "tier": 1
+  },
+  {
+   "id": "bd87c1bd9f8f865403fbf7833b65edf91df5b581",
+   "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+   "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade",
+   "source": "Hacker News",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-13T08:39:39.000Z",
+   "dupes": 1,
+   "score": 0.605,
    "tier": 2
   },
   {
@@ -43,7 +43,22 @@
    "tldr": "",
    "published": "2026-07-13T13:35:32.000Z",
    "dupes": 2,
-   "score": 0.612,
+   "score": 0.604,
+   "tier": 2
+  },
+  {
+   "id": "35de7256d0278847f165c9a32d6900eeaec80df8",
+   "title": "Verifying Rust cryptography in SymCrypt, from standards to code",
+   "url": "https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code",
+   "source": "Microsoft Research",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "Cryptographic code supports vital protections in modern computing systems.  Learn how a new method helps verify code as developers write it while preserving speed and adaptability as it gets implemented and evolves.",
+   "published": "2026-07-13T16:00:00.000Z",
+   "dupes": 1,
+   "score": 0.601,
    "tier": 2
   },
   {
@@ -58,52 +73,7 @@
    "tldr": "We're expanding our Richland Parish, Louisiana data center to 5GW of compute capacity in a town that’s already seeing life-changing returns for teachers, local businesses, and students.  The post Teachers and Local…",
    "published": "2026-07-13T09:30:24.000Z",
    "dupes": 1,
-   "score": 0.542,
-   "tier": 2
-  },
-  {
-   "id": "065047e21dc358331dc431a2d80e7db6e64fc8ad",
-   "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-   "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-   "source": "Hacker News",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-12T18:25:51.000Z",
-   "dupes": 1,
-   "score": 0.479,
-   "tier": 2
-  },
-  {
-   "id": "4f4c2bd39a3c173f3ebf08ba41f3fffde24a84a4",
-   "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
-   "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
-   "source": "Hacker News",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-12T17:13:07.000Z",
-   "dupes": 1,
-   "score": 0.396,
-   "tier": 2
-  },
-  {
-   "id": "795fd22cc6f50ca9c96657d26c500c98ce8b1063",
-   "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
-   "source": "The Verge AI",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "Lorde was performing at the Real Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses.  While she didn't specify any brands in particular, it's likely she was taking a…",
-   "published": "2026-07-12T20:10:19.000Z",
-   "dupes": 1,
-   "score": 0.375,
+   "score": 0.513,
    "tier": 2
   },
   {
@@ -118,7 +88,35 @@
    "tldr": "We’re asking the public for their hardest questions about AI, and committing to show our work as we address them.",
    "published": "2026-07-09T00:00:00.000Z",
    "dupes": 2,
-   "score": 0.368,
+   "score": 0.367,
+   "tier": 2
+  },
+  {
+   "id": "795fd22cc6f50ca9c96657d26c500c98ce8b1063",
+   "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
+   "source": "The Verge AI",
+   "org": [
+    "meta"
+   ],
+   "topic": "ai",
+   "tldr": "Lorde was performing at the Real Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses.  While she didn't specify any brands in particular, it's likely she was taking a…",
+   "published": "2026-07-12T20:10:19.000Z",
+   "dupes": 1,
+   "score": 0.358,
+   "tier": 2
+  },
+  {
+   "id": "5bbc3a5ef63f4579d233583b46684cec82913328",
+   "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
+   "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+   "source": "The Verge AI",
+   "org": [],
+   "topic": "compute",
+   "tldr": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are.  Early in the development of the self-driving platform, Apple…",
+   "published": "2026-07-12T16:27:06.000Z",
+   "dupes": 1,
+   "score": 0.337,
    "tier": 2
   },
   {
@@ -133,20 +131,7 @@
    "tldr": "",
    "published": "2026-07-12T01:09:50.000Z",
    "dupes": 1,
-   "score": 0.36,
-   "tier": 2
-  },
-  {
-   "id": "5bbc3a5ef63f4579d233583b46684cec82913328",
-   "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
-   "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
-   "source": "The Verge AI",
-   "org": [],
-   "topic": "compute",
-   "tldr": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are.  Early in the development of the self-driving platform, Apple…",
-   "published": "2026-07-12T16:27:06.000Z",
-   "dupes": 1,
-   "score": 0.351,
+   "score": 0.329,
    "tier": 2
   },
   {
@@ -161,7 +146,7 @@
    "tldr": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
    "published": "2026-07-10T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.317,
+   "score": 0.315,
    "tier": 2
   },
   {
@@ -176,7 +161,7 @@
    "tldr": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
    "published": "2026-07-10T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.313,
+   "score": 0.311,
    "tier": 2
   },
   {
@@ -192,7 +177,7 @@
    "tldr": "6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
    "published": "2026-07-09T13:00:00.000Z",
    "dupes": 1,
-   "score": 0.308,
+   "score": 0.307,
    "tier": 2
   },
   {
@@ -208,7 +193,7 @@
    "published": "2026-07-09T10:00:00.000Z",
    "dupes": 1,
    "score": 0.307,
-   "tier": 3
+   "tier": 2
   },
   {
    "id": "54ee76ae9206d639c0800316ef4ab1a52b70d689",
@@ -406,21 +391,6 @@
    "tier": 3
   },
   {
-   "id": "d0f13ce9dd2e5b7dd104fab67083641905b4f0cb",
-   "title": "GeForce NOW Turns Up the Heat With New GeForce RTX 5080-Powered Toronto Server",
-   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "This GFN Thursday brings more games, more power and more ways to play on GeForce NOW.  The cloud gaming service is expanding with a new GeForce RTX 5080-powered server in Toronto, bringing dedicated high performance in…",
-   "published": "2026-07-09T13:00:55.000Z",
-   "dupes": 1,
-   "score": 0.283,
-   "tier": 3
-  },
-  {
    "id": "ff9f8581ffa8dc4471070d07e5362a166d948b25",
    "title": "SensorFM: Towards a general intelligence and interface for wearable health data",
    "url": "https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data",
@@ -431,6 +401,21 @@
    "topic": "ai",
    "tldr": "Generative AI",
    "published": "2026-07-09T09:56:00.000Z",
+   "dupes": 1,
+   "score": 0.282,
+   "tier": 3
+  },
+  {
+   "id": "d0f13ce9dd2e5b7dd104fab67083641905b4f0cb",
+   "title": "GeForce NOW Turns Up the Heat With New GeForce RTX 5080-Powered Toronto Server",
+   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "This GFN Thursday brings more games, more power and more ways to play on GeForce NOW.  The cloud gaming service is expanding with a new GeForce RTX 5080-powered server in Toronto, bringing dedicated high performance in…",
+   "published": "2026-07-09T13:00:55.000Z",
    "dupes": 1,
    "score": 0.282,
    "tier": 3
@@ -447,7 +432,7 @@
    "tldr": "NVIDIA Nemotron 3 Ultra is offering leading performance at lower cost than top closed models with the largest and most widely adopted AI agent orchestration platform.",
    "published": "2026-07-08T15:00:27.000Z",
    "dupes": 1,
-   "score": 0.279,
+   "score": 0.278,
    "tier": 3
   },
   {
@@ -462,7 +447,7 @@
    "tldr": "Algorithms & Theory",
    "published": "2026-07-07T16:42:08.000Z",
    "dupes": 1,
-   "score": 0.277,
+   "score": 0.276,
    "tier": 3
   },
   {
@@ -496,39 +481,6 @@
    "tier": 3
   },
   {
-   "id": "8ea5a9420f94f85c6ec6012e802f2d25b69b6ab6",
-   "title": "How Open Models Are Driving AI Research",
-   "url": "https://blogs.nvidia.com/blog/open-models-icml-2026",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Every year, the International Conference on Machine Learning (ICML) reveals where thousands of AI researchers have decided to put their work.  This year’s accepted papers reveal a clear direction: open frontier models…",
-   "published": "2026-07-06T16:00:00.000Z",
-   "badges": [
-    "research"
-   ],
-   "dupes": 1,
-   "score": 0.276,
-   "tier": 3
-  },
-  {
-   "id": "ba9eed298f707f450f3e01bd40b96e0d6cd53df6",
-   "title": "How Nations Are Deploying AI for Strategic Priorities",
-   "url": "https://blogs.nvidia.com/blog/nations-deploy-ai-strategic-priorities",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Nations have long invested in domestic infrastructure to advance their economies, protect and use their data, and take advantage of technology opportunities in areas such as transportation, communications, commerce,…",
-   "published": "2026-07-06T15:00:25.000Z",
-   "dupes": 1,
-   "score": 0.276,
-   "tier": 3
-  },
-  {
    "id": "145fbd552c7570091ad5e1a261a1719c4bffd75e",
    "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
    "url": "https://huggingface.co/blog/torch-attention-profile",
@@ -538,7 +490,7 @@
    "tldr": "",
    "published": "2026-07-10T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.275,
+   "score": 0.274,
    "tier": 3
   },
   {
@@ -553,7 +505,7 @@
    "tldr": "5 adds 22 more variables, hourly temporal resolution, and probabilistic ensemble forecasting to the Aurora foundation model, making it more useful for real-world weather, climate, and energy applications.  5: Extending…",
    "published": "2026-07-09T16:46:22.000Z",
    "dupes": 1,
-   "score": 0.272,
+   "score": 0.271,
    "tier": 3
   },
   {
@@ -650,19 +602,6 @@
    "tier": 3
   },
   {
-   "id": "088a18b234ed800d8a355a36f932d5a7b5ce4478",
-   "title": "PRX Part 4: Our Data Strategy",
-   "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-06T15:30:55.000Z",
-   "dupes": 1,
-   "score": 0.263,
-   "tier": 3
-  },
-  {
    "id": "74dc15720d8377edbe420befae12eee40cc7e14a",
    "title": "Breaking Ground on Meta’s First Data Center in Canada",
    "url": "https://about.fb.com/news/2026/07/breaking-ground-on-metas-first-data-center-in-canada",
@@ -706,7 +645,7 @@
    "tldr": "",
    "published": "2026-07-10T20:52:28.000Z",
    "dupes": 1,
-   "score": 0.244,
+   "score": 0.233,
    "tier": 3
   },
   {
@@ -721,7 +660,7 @@
    "tldr": "Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram accounts just by tagging them.  The feature, as originally…",
    "published": "2026-07-10T23:49:50.000Z",
    "dupes": 1,
-   "score": 0.232,
+   "score": 0.229,
    "tier": 3
   },
   {
@@ -736,7 +675,7 @@
    "tldr": "Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans.",
    "published": "2026-07-10T21:36:51.000Z",
    "dupes": 1,
-   "score": 0.229,
+   "score": 0.226,
    "tier": 3
   },
   {
@@ -749,7 +688,7 @@
    "tldr": "A solar and home energy storage company is expanding into AI data centers, but not by building one - instead, it's offering to pay its customers to put its compute units in their homes.",
    "published": "2026-07-10T13:20:25.000Z",
    "dupes": 1,
-   "score": 0.221,
+   "score": 0.219,
    "tier": 3
   },
   {
@@ -764,7 +703,7 @@
    "tldr": "Microsoft may once again be struggling to keep up with its own climate goals, according to its 2026 sustainability report.",
    "published": "2026-07-10T00:04:13.000Z",
    "dupes": 1,
-   "score": 0.213,
+   "score": 0.211,
    "tier": 3
   },
   {
@@ -779,7 +718,7 @@
    "tldr": "OpenAI's Fidji Simo is departing her full-time role as the company's AGI chief and is transitioning to being a \"part-time advisor,\" she said on X.",
    "published": "2026-07-09T23:24:04.000Z",
    "dupes": 1,
-   "score": 0.212,
+   "score": 0.211,
    "tier": 3
   },
   {
@@ -794,7 +733,7 @@
    "tldr": "",
    "published": "2026-07-09T14:42:21.000Z",
    "dupes": 1,
-   "score": 0.209,
+   "score": 0.205,
    "tier": 3
   },
   {
@@ -809,7 +748,7 @@
    "tldr": "",
    "published": "2026-07-07T13:28:25.000Z",
    "dupes": 1,
-   "score": 0.196,
+   "score": 0.194,
    "tier": 3
   },
   {
@@ -824,7 +763,7 @@
    "tldr": "",
    "published": "2026-07-07T16:35:24.000Z",
    "dupes": 1,
-   "score": 0.195,
+   "score": 0.193,
    "tier": 3
   },
   {
@@ -839,7 +778,7 @@
    "tldr": "",
    "published": "2026-07-07T13:19:56.000Z",
    "dupes": 1,
-   "score": 0.191,
+   "score": 0.19,
    "tier": 3
   }
  ]
