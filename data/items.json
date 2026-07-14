@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-13T23:47:00.434Z",
+ "generated": "2026-07-14T01:50:37.474Z",
  "items": [
   {
    "id": "817ee0972d02565424e5e2ff98d48b681c73b51b",
@@ -13,22 +13,28 @@
    "tldr": "",
    "published": "2026-07-13T13:39:59.000Z",
    "dupes": 2,
-   "score": 0.629,
+   "score": 0.611,
    "tier": 1
   },
   {
-   "id": "be3acb7db699362359bff1417c468126da87c057",
-   "title": "Claude is just Mr. Meeseeks",
-   "url": "https://github.com/thephw/claude-meseeks",
+   "id": "b03c5d45d440211811ce3dba84fbc6f6b89d7ff2",
+   "title": "A Study of Microsoft's Early 2026 Rollout of Claude Code and GitHub Copilot CLI",
+   "url": "https://arxiv.org/abs/2607.01418",
    "source": "Hacker News",
    "org": [
-    "anthropic"
+    "anthropic",
+    "microsoft"
    ],
    "topic": "ai",
    "tldr": "",
-   "published": "2026-07-13T22:03:54.000Z",
+   "published": "2026-07-13T21:43:51.000Z",
+   "badges": [
+    "paper",
+    "oss",
+    "research"
+   ],
    "dupes": 1,
-   "score": 0.547,
+   "score": 0.506,
    "tier": 2
   },
   {
@@ -43,7 +49,7 @@
    "tldr": "Cryptographic code supports vital protections in modern computing systems.  Learn how a new method helps verify code as developers write it while preserving speed and adaptability as it gets implemented and evolves.",
    "published": "2026-07-13T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.522,
+   "score": 0.502,
    "tier": 2
   },
   {
@@ -59,7 +65,7 @@
    "tldr": "",
    "published": "2026-07-13T18:10:23.000Z",
    "dupes": 1,
-   "score": 0.497,
+   "score": 0.476,
    "tier": 2
   },
   {
@@ -74,7 +80,7 @@
    "tldr": "",
    "published": "2026-07-13T18:28:13.000Z",
    "dupes": 1,
-   "score": 0.479,
+   "score": 0.457,
    "tier": 2
   },
   {
@@ -89,7 +95,7 @@
    "tldr": "When Apple employees interviewed for jobs at OpenAI, the AI startup's hardware head allegedly asked them to show up with something unusual: components they were working on and unreleased product samples.",
    "published": "2026-07-13T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.47,
+   "score": 0.449,
    "tier": 2
   },
   {
@@ -104,7 +110,7 @@
    "tldr": "We're expanding our Richland Parish, Louisiana data center to 5GW of compute capacity in a town that’s already seeing life-changing returns for teachers, local businesses, and students.  The post Teachers and Local…",
    "published": "2026-07-13T09:30:24.000Z",
    "dupes": 1,
-   "score": 0.452,
+   "score": 0.437,
    "tier": 2
   },
   {
@@ -119,7 +125,7 @@
    "tldr": "",
    "published": "2026-07-12T01:09:50.000Z",
    "dupes": 1,
-   "score": 0.396,
+   "score": 0.391,
    "tier": 2
   },
   {
@@ -149,7 +155,7 @@
    "tldr": "Lorde was performing at the Mad Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses.",
    "published": "2026-07-12T20:10:19.000Z",
    "dupes": 1,
-   "score": 0.321,
+   "score": 0.312,
    "tier": 2
   },
   {
@@ -179,7 +185,7 @@
    "tldr": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
    "published": "2026-07-10T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.309,
+   "score": 0.308,
    "tier": 2
   },
   {
@@ -195,7 +201,7 @@
    "tldr": "6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
    "published": "2026-07-09T13:00:00.000Z",
    "dupes": 1,
-   "score": 0.306,
+   "score": 0.305,
    "tier": 2
   },
   {
@@ -239,19 +245,6 @@
    "topic": "ai",
    "tldr": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
    "published": "2026-07-09T10:00:00.000Z",
-   "dupes": 1,
-   "score": 0.305,
-   "tier": 3
-  },
-  {
-   "id": "5bbc3a5ef63f4579d233583b46684cec82913328",
-   "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
-   "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
-   "source": "The Verge AI",
-   "org": [],
-   "topic": "compute",
-   "tldr": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are.  Early in the development of the self-driving platform, Apple…",
-   "published": "2026-07-12T16:27:06.000Z",
    "dupes": 1,
    "score": 0.305,
    "tier": 3
@@ -377,63 +370,16 @@
    "tier": 3
   },
   {
-   "id": "cb031b5cf3e3be67bd75b342038e38b6dcd578b5",
-   "title": "MUFG aims to become AI-native with OpenAI",
-   "url": "https://openai.com/index/mufg",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-   "published": "2026-07-07T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
-   "id": "60d1b56766e3b67711e24aa3800129a32b92ec20",
-   "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
-   "url": "https://openai.com/index/australian-payments-plus",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity.  AP+ saves time, improves quality, and keeps human judgment central.",
-   "published": "2026-07-07T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
-   "id": "0d1a03f568f19530ebcbee4df02d0f2d6a90f4f8",
-   "title": "Introducing Muse Image and Muse Video",
-   "url": "https://ai.meta.com/blog/introducing-muse-image-muse-video-msl",
-   "source": "Meta AI Blog",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "Muse Image follows instructions faithfully, edits with precision, composes from multiple references, and draws on Instagram for social context.  Muse Video delivers exceptional visual fidelity with native audio support.",
-   "published": "2026-07-07T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
-   "id": "d0f13ce9dd2e5b7dd104fab67083641905b4f0cb",
-   "title": "GeForce NOW Turns Up the Heat With New GeForce RTX 5080-Powered Toronto Server",
-   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
+   "id": "5bbc3a5ef63f4579d233583b46684cec82913328",
+   "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
+   "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+   "source": "The Verge AI",
+   "org": [],
    "topic": "compute",
-   "tldr": "This GFN Thursday brings more games, more power and more ways to play on GeForce NOW.  The cloud gaming service is expanding with a new GeForce RTX 5080-powered server in Toronto, bringing dedicated high performance in…",
-   "published": "2026-07-09T13:00:55.000Z",
+   "tldr": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are.  Early in the development of the self-driving platform, Apple…",
+   "published": "2026-07-12T16:27:06.000Z",
    "dupes": 1,
-   "score": 0.281,
+   "score": 0.297,
    "tier": 3
   },
   {
@@ -447,6 +393,21 @@
    "topic": "ai",
    "tldr": "Generative AI",
    "published": "2026-07-09T09:56:00.000Z",
+   "dupes": 1,
+   "score": 0.28,
+   "tier": 3
+  },
+  {
+   "id": "d0f13ce9dd2e5b7dd104fab67083641905b4f0cb",
+   "title": "GeForce NOW Turns Up the Heat With New GeForce RTX 5080-Powered Toronto Server",
+   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "This GFN Thursday brings more games, more power and more ways to play on GeForce NOW.  The cloud gaming service is expanding with a new GeForce RTX 5080-powered server in Toronto, bringing dedicated high performance in…",
+   "published": "2026-07-09T13:00:55.000Z",
    "dupes": 1,
    "score": 0.28,
    "tier": 3
@@ -607,32 +568,6 @@
    "tier": 3
   },
   {
-   "id": "b29a21395768cd97a181799d4d884d389985322a",
-   "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
-   "url": "https://huggingface.co/blog/skypilot-hf-storage",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-07T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.263,
-   "tier": 3
-  },
-  {
-   "id": "0a1d2bd6cc12857ba06f7d53830bdb35110d1497",
-   "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
-   "url": "https://huggingface.co/blog/lerobot-release-v060",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-07T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.263,
-   "tier": 3
-  },
-  {
    "id": "74dc15720d8377edbe420befae12eee40cc7e14a",
    "title": "Breaking Ground on Meta’s First Data Center in Canada",
    "url": "https://about.fb.com/news/2026/07/breaking-ground-on-metas-first-data-center-in-canada",
@@ -674,7 +609,7 @@
    "tldr": "Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram accounts just by tagging them.  The feature, as originally…",
    "published": "2026-07-10T23:49:50.000Z",
    "dupes": 1,
-   "score": 0.222,
+   "score": 0.22,
    "tier": 3
   },
   {
@@ -689,7 +624,7 @@
    "tldr": "Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans.",
    "published": "2026-07-10T21:36:51.000Z",
    "dupes": 1,
-   "score": 0.22,
+   "score": 0.219,
    "tier": 3
   },
   {
@@ -704,7 +639,7 @@
    "tldr": "",
    "published": "2026-07-09T14:42:21.000Z",
    "dupes": 1,
-   "score": 0.215,
+   "score": 0.214,
    "tier": 3
   },
   {
@@ -717,22 +652,7 @@
    "tldr": "A solar and home energy storage company is expanding into AI data centers, but not by building one - instead, it's offering to pay its customers to put its compute units in their homes.",
    "published": "2026-07-10T13:20:25.000Z",
    "dupes": 1,
-   "score": 0.215,
-   "tier": 3
-  },
-  {
-   "id": "3e171b9d1ff3d14d7b570939ec1e487ae115e7dd",
-   "title": "Microsoft’s carbon emissions went up 25 percent last year",
-   "url": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
-   "source": "The Verge AI",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "Microsoft may once again be struggling to keep up with its own climate goals, according to its 2026 sustainability report.",
-   "published": "2026-07-10T00:04:13.000Z",
-   "dupes": 1,
-   "score": 0.209,
+   "score": 0.214,
    "tier": 3
   },
   {
