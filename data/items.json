@@ -1,17 +1,19 @@
 {
- "generated": "2026-07-14T16:09:50.747Z",
+ "generated": "2026-07-14T17:39:11.548Z",
  "items": [
   {
-   "id": "4e5ebc0960aaeee64c857aee90d709e0bbf223d2",
-   "title": "New York becomes the first state to impose a data center moratorium",
-   "url": "https://www.reuters.com/world/new-york-becomes-first-state-impose-data-center-moratorium-2026-07-14",
-   "source": "Hacker News",
-   "org": [],
+   "id": "a9eb2494bb7238b8ff603c9e1ce3e760fc79408d",
+   "title": "Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize",
+   "url": "https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
    "topic": "compute",
-   "tldr": "",
-   "published": "2026-07-14T14:17:54.000Z",
-   "dupes": 2,
-   "score": 0.616,
+   "tldr": "Enterprises have plenty of powerful models to choose from.  The real test is whether the AI an enterprise builds uniquely addresses the needs of the business: improving workflows, tapping into domain knowledge and…",
+   "published": "2026-07-14T16:45:13.000Z",
+   "dupes": 1,
+   "score": 0.613,
    "tier": 1
   },
   {
@@ -26,7 +28,37 @@
    "tldr": "Power is AI infrastructure’s inescapable constraint.  How many tokens an AI factory can generate within a fixed power budget determines its revenue and profitability.",
    "published": "2026-07-14T15:00:20.000Z",
    "dupes": 1,
-   "score": 0.61,
+   "score": 0.591,
+   "tier": 2
+  },
+  {
+   "id": "92ab1f77dd8ccf54b1a22b176d3dac5b102b2d7c",
+   "title": "How to manage AI investments in the agentic era",
+   "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
+   "published": "2026-07-14T10:00:00.000Z",
+   "dupes": 1,
+   "score": 0.561,
+   "tier": 2
+  },
+  {
+   "id": "a9b65061bfa7a7eb5768ecd0d0a503e3e83dcd94",
+   "title": "Meta accused of using biased AI targeting for mass layoffs",
+   "url": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
+   "source": "The Verge AI",
+   "org": [
+    "meta"
+   ],
+   "topic": "ai",
+   "tldr": "A group of 26 former Meta employees is suing the company over claims that it used AI tools to unfairly target workers on leave with layoffs, as reported earlier by Reuters.",
+   "published": "2026-07-14T17:18:11.000Z",
+   "dupes": 1,
+   "score": 0.545,
    "tier": 2
   },
   {
@@ -41,37 +73,7 @@
    "tldr": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
    "published": "2026-07-14T00:00:00.000Z",
    "dupes": 2,
-   "score": 0.55,
-   "tier": 2
-  },
-  {
-   "id": "ec43065966072242fc7ac83c76fc6485beffa9c0",
-   "title": "The Google Images homepage will recommend photos even before you search",
-   "url": "https://www.theverge.com/tech/965138/google-images-homepage-ai-overviews-search-nano-banana",
-   "source": "The Verge AI",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Google is announcing a big change to the Google Images homepage in honor of the platform's 25th anniversary this week.  Instead of a mostly blank page with a search bar, the homepage will soon show you a bunch of images…",
-   "published": "2026-07-14T16:00:00.000Z",
-   "dupes": 1,
-   "score": 0.548,
-   "tier": 2
-  },
-  {
-   "id": "817ee0972d02565424e5e2ff98d48b681c73b51b",
-   "title": "Grok uploaded my user directory to xAI's servers",
-   "url": "https://twitter.com/a_green_being/status/2076598897779020159",
-   "source": "HN · xAI",
-   "org": [
-    "xai"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-13T13:39:59.000Z",
-   "dupes": 2,
-   "score": 0.52,
+   "score": 0.54,
    "tier": 2
   },
   {
@@ -86,7 +88,37 @@
    "tldr": "",
    "published": "2026-07-14T11:46:02.000Z",
    "dupes": 1,
-   "score": 0.519,
+   "score": 0.529,
+   "tier": 2
+  },
+  {
+   "id": "ec43065966072242fc7ac83c76fc6485beffa9c0",
+   "title": "The Google Images homepage will recommend photos even before you search",
+   "url": "https://www.theverge.com/tech/965138/google-images-homepage-ai-overviews-search-nano-banana",
+   "source": "The Verge AI",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Google is announcing a big change to the Google Images homepage in honor of the platform's 25th anniversary this week.  Instead of a mostly blank page with a search bar, the homepage will soon show you a bunch of images…",
+   "published": "2026-07-14T16:00:00.000Z",
+   "dupes": 1,
+   "score": 0.528,
+   "tier": 2
+  },
+  {
+   "id": "817ee0972d02565424e5e2ff98d48b681c73b51b",
+   "title": "Grok uploaded my user directory to xAI's servers",
+   "url": "https://twitter.com/a_green_being/status/2076598897779020159",
+   "source": "HN · xAI",
+   "org": [
+    "xai"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-13T13:39:59.000Z",
+   "dupes": 2,
+   "score": 0.513,
    "tier": 2
   },
   {
@@ -101,7 +133,7 @@
    "tldr": "Demis Hassabis thinks the world needs an AI watchdog with the power to hit the brakes if frontier models become too dangerous.",
    "published": "2026-07-14T11:43:29.000Z",
    "dupes": 1,
-   "score": 0.495,
+   "score": 0.479,
    "tier": 2
   },
   {
@@ -116,7 +148,7 @@
    "tldr": "",
    "published": "2026-07-14T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.488,
+   "score": 0.477,
    "tier": 2
   },
   {
@@ -134,7 +166,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.488,
+   "score": 0.477,
    "tier": 2
   },
   {
@@ -149,7 +181,20 @@
    "tldr": "",
    "published": "2026-07-14T08:24:49.000Z",
    "dupes": 1,
-   "score": 0.488,
+   "score": 0.476,
+   "tier": 2
+  },
+  {
+   "id": "e74d29ba97202e0c5832cb698e6db0e5a997c69b",
+   "title": "New York becomes the first state to enact a data center moratorium",
+   "url": "https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium",
+   "source": "The Verge AI",
+   "org": [],
+   "topic": "compute",
+   "tldr": "New hyperscale data centers can't set up shop in New York for up to a year now that Governor Kathy Hochul (D) has signed the nation's first statewide moratorium.  But a bill passed by the state legislature that could…",
+   "published": "2026-07-14T09:00:00.000Z",
+   "dupes": 1,
+   "score": 0.451,
    "tier": 2
   },
   {
@@ -164,8 +209,8 @@
    "tldr": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
    "published": "2026-07-13T12:37:28.000Z",
    "dupes": 1,
-   "score": 0.421,
-   "tier": 2
+   "score": 0.414,
+   "tier": 3
   },
   {
    "id": "35de7256d0278847f165c9a32d6900eeaec80df8",
@@ -179,8 +224,8 @@
    "tldr": "Cryptographic code supports vital protections in modern computing systems.  Learn how a new method helps verify code as developers write it while preserving speed and adaptability as it gets implemented and evolves.",
    "published": "2026-07-13T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.401,
-   "tier": 2
+   "score": 0.393,
+   "tier": 3
   },
   {
    "id": "b21c70de14cb3e02b9cc2d2bfdb0099bcedbe7a0",
@@ -194,23 +239,7 @@
    "tldr": "",
    "published": "2026-07-12T01:09:50.000Z",
    "dupes": 1,
-   "score": 0.368,
-   "tier": 2
-  },
-  {
-   "id": "cc61285a025a1f8701645d587457d7c8b904c8bf",
-   "title": "xAI's Grok Build CLI Uploads Git Repositories to a Google Cloud Bucket",
-   "url": "https://www.internationalcyberdigest.com/xais-grok-build-cli-uploads-entire-git-repositories-to-a-google-cloud-bucket",
-   "source": "HN · xAI",
-   "org": [
-    "xai",
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-13T18:10:23.000Z",
-   "dupes": 1,
-   "score": 0.366,
+   "score": 0.367,
    "tier": 3
   },
   {
@@ -229,6 +258,22 @@
    "tier": 3
   },
   {
+   "id": "cc61285a025a1f8701645d587457d7c8b904c8bf",
+   "title": "xAI's Grok Build CLI Uploads Git Repositories to a Google Cloud Bucket",
+   "url": "https://www.internationalcyberdigest.com/xais-grok-build-cli-uploads-entire-git-repositories-to-a-google-cloud-bucket",
+   "source": "HN · xAI",
+   "org": [
+    "xai",
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-13T18:10:23.000Z",
+   "dupes": 1,
+   "score": 0.358,
+   "tier": 3
+  },
+  {
    "id": "67b0b234c48495e76edcaa2bce176201a46bd243",
    "title": "Teachers and Local Businesses Win as Meta Expands Louisiana Data Center",
    "url": "https://about.fb.com/news/2026/07/teachers-local-businesses-win-as-meta-expands-louisiana-data-center",
@@ -240,7 +285,7 @@
    "tldr": "We're expanding our Richland Parish, Louisiana data center to 5GW of compute capacity in a town that’s already seeing life-changing returns for teachers, local businesses, and students.  The post Teachers and Local…",
    "published": "2026-07-13T09:30:24.000Z",
    "dupes": 1,
-   "score": 0.357,
+   "score": 0.351,
    "tier": 3
   },
   {
@@ -255,7 +300,7 @@
    "tldr": "",
    "published": "2026-07-13T18:28:13.000Z",
    "dupes": 1,
-   "score": 0.346,
+   "score": 0.337,
    "tier": 3
   },
   {
@@ -270,7 +315,7 @@
    "tldr": "When Apple employees interviewed for jobs at OpenAI, the AI startup's hardware head allegedly asked them to show up with something unusual: components they were working on and unreleased product samples.",
    "published": "2026-07-13T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.343,
+   "score": 0.335,
    "tier": 3
   },
   {
@@ -300,7 +345,7 @@
    "tldr": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
    "published": "2026-07-10T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.305,
+   "score": 0.304,
    "tier": 3
   },
   {
@@ -515,21 +560,6 @@
    "tier": 3
   },
   {
-   "id": "b3f9f0ab138fafaa9e42ac0ce8de702d5a487d7d",
-   "title": "The power of collaboration: How we can reduce traffic congestion",
-   "url": "https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion",
-   "source": "Google Research",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Algorithms & Theory",
-   "published": "2026-07-07T16:42:08.000Z",
-   "dupes": 1,
-   "score": 0.276,
-   "tier": 3
-  },
-  {
    "id": "01fe34145aaf17d372c76aa51673212ccb313432",
    "title": "NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness",
    "url": "https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack",
@@ -601,21 +631,6 @@
    "tier": 3
   },
   {
-   "id": "795fd22cc6f50ca9c96657d26c500c98ce8b1063",
-   "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
-   "source": "The Verge AI",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "Lorde was performing at the Mad Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses.",
-   "published": "2026-07-12T20:10:19.000Z",
-   "dupes": 1,
-   "score": 0.264,
-   "tier": 3
-  },
-  {
    "id": "f2a3364a10eb9acc95cebb72e580c38287a93cea",
    "title": "Native-speed vLLM transformers modeling backend",
    "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
@@ -642,16 +657,18 @@
    "tier": 3
   },
   {
-   "id": "5bbc3a5ef63f4579d233583b46684cec82913328",
-   "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
-   "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+   "id": "795fd22cc6f50ca9c96657d26c500c98ce8b1063",
+   "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
    "source": "The Verge AI",
-   "org": [],
-   "topic": "compute",
-   "tldr": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are.  Early in the development of the self-driving platform, Apple…",
-   "published": "2026-07-12T16:27:06.000Z",
+   "org": [
+    "meta"
+   ],
+   "topic": "ai",
+   "tldr": "Lorde was performing at the Mad Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses.",
+   "published": "2026-07-12T20:10:19.000Z",
    "dupes": 1,
-   "score": 0.256,
+   "score": 0.261,
    "tier": 3
   },
   {
@@ -666,7 +683,7 @@
    "tldr": "We’re breaking ground on a new 1GW, AI-optimized data center in Sturgeon County, Alberta — our first data center in Canada and 33rd in our global fleet.  The post Breaking Ground on Meta’s First Data Center in Canada…",
    "published": "2026-07-08T19:30:30.000Z",
    "dupes": 1,
-   "score": 0.252,
+   "score": 0.251,
    "tier": 3
   },
   {
@@ -697,21 +714,6 @@
    "published": "2026-07-09T14:42:21.000Z",
    "dupes": 1,
    "score": 0.211,
-   "tier": 3
-  },
-  {
-   "id": "fce7debfb8a1533568a22172405e192674c1e087",
-   "title": "How did we make DeepSeek outperform Opus",
-   "url": "https://twitter.com/MrAhmadAwais/status/2050956678502420612",
-   "source": "HN · DeepSeek",
-   "org": [
-    "deepseek"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-07T16:35:24.000Z",
-   "dupes": 1,
-   "score": 0.197,
    "tier": 3
   }
  ]
