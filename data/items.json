@@ -1,6 +1,32 @@
 {
- "generated": "2026-07-15T16:14:49.649Z",
+ "generated": "2026-07-15T17:44:53.120Z",
  "items": [
+  {
+   "id": "53e3149d2cc17d3edc5eb4f9e6836d13e5dc9847",
+   "title": "What building Shippy taught us about building agents",
+   "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-15T17:29:41.000Z",
+   "dupes": 1,
+   "score": 0.609,
+   "tier": 1
+  },
+  {
+   "id": "5c8332d4091eee10a8cd6ad646eedbccec92e187",
+   "title": "Model Routing Is Simple. Until It Isn’t.",
+   "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-15T17:27:01.000Z",
+   "dupes": 1,
+   "score": 0.609,
+   "tier": 2
+  },
   {
    "id": "1e97faa490facd0c80775009cd29953c3036ce5c",
    "title": "The US is advancing AI safety through state and federal action",
@@ -13,8 +39,23 @@
    "tldr": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
    "published": "2026-07-15T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.597,
-   "tier": 1
+   "score": 0.581,
+   "tier": 2
+  },
+  {
+   "id": "ee230258f27f8a0de48925de53f81261735fd525",
+   "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+   "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+   "published": "2026-07-15T10:00:00.000Z",
+   "dupes": 1,
+   "score": 0.56,
+   "tier": 2
   },
   {
    "id": "73b57496c78a35c43a1971627589698e7123f5dd",
@@ -28,7 +69,7 @@
    "tldr": "Home to leading manufacturers, robotics pioneers, infrastructure builders and iconic gaming companies, of course, Japan is one of the world’s centers of AI — building across the full stack with NVIDIA technologies.…",
    "published": "2026-07-15T10:51:37.000Z",
    "dupes": 1,
-   "score": 0.559,
+   "score": 0.543,
    "tier": 2
   },
   {
@@ -43,7 +84,22 @@
    "tldr": "",
    "published": "2026-07-15T14:32:36.000Z",
    "dupes": 1,
-   "score": 0.547,
+   "score": 0.54,
+   "tier": 2
+  },
+  {
+   "id": "9ea36484addfb109890d368f65c47bdffb35ea67",
+   "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
+   "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu",
+   "source": "Hacker News",
+   "org": [
+    "google"
+   ],
+   "topic": "compute",
+   "tldr": "",
+   "published": "2026-07-15T15:34:05.000Z",
+   "dupes": 1,
+   "score": 0.539,
    "tier": 2
   },
   {
@@ -58,35 +114,7 @@
    "tldr": "OpenAI is finally releasing some hardware.  No, it isn't the mysterious AI-powered device the company is developing with former Apple designer Jony Ive, a project already tangled up in a messy lawsuit.",
    "published": "2026-07-15T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.547,
-   "tier": 2
-  },
-  {
-   "id": "472b64d0b1a6e43753d019ff118ee8e7ca4baf88",
-   "title": "Microsoft Confirms Windows GDID Device Identifier That Cannot Be Disabled",
-   "url": "https://www.ghacks.net/2026/07/12/microsoft-confirms-windows-gdid-device-identifier-that-cannot-be-disabled-documented-in-fbi-case-filing",
-   "source": "Hacker News",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-15T13:11:01.000Z",
-   "dupes": 1,
-   "score": 0.53,
-   "tier": 2
-  },
-  {
-   "id": "5d7569c2afe37a81e25967f56fc4d6776a9f22a5",
-   "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
-   "url": "https://huggingface.co/blog/real-world-voiceeq",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-15T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.45,
+   "score": 0.527,
    "tier": 2
   },
   {
@@ -101,22 +129,35 @@
    "tldr": "",
    "published": "2026-07-13T13:39:59.000Z",
    "dupes": 2,
-   "score": 0.45,
+   "score": 0.447,
    "tier": 2
   },
   {
-   "id": "248b5ff0699922b23d03bcc7a466036dd8ca62b4",
-   "title": "How sales teams use ChatGPT Work",
-   "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+   "id": "5d7569c2afe37a81e25967f56fc4d6776a9f22a5",
+   "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+   "url": "https://huggingface.co/blog/real-world-voiceeq",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-15T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.439,
+   "tier": 2
+  },
+  {
+   "id": "cca00ce687818d9ad6ab3e2102fc448804cde0b7",
+   "title": "How data science teams use ChatGPT Work",
+   "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
    "source": "OpenAI Blog",
    "org": [
     "openai"
    ],
    "topic": "ai",
-   "tldr": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+   "tldr": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
    "published": "2026-07-14T00:00:00.000Z",
    "dupes": 2,
-   "score": 0.437,
+   "score": 0.433,
    "tier": 2
   },
   {
@@ -131,7 +172,7 @@
    "tldr": "Enterprises have plenty of powerful models to choose from.  The real test is whether the AI an enterprise builds uniquely addresses the needs of the business: improving workflows, tapping into domain knowledge and…",
    "published": "2026-07-14T16:45:13.000Z",
    "dupes": 1,
-   "score": 0.417,
+   "score": 0.409,
    "tier": 2
   },
   {
@@ -146,7 +187,7 @@
    "tldr": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
    "published": "2026-07-14T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.409,
+   "score": 0.403,
    "tier": 2
   },
   {
@@ -161,8 +202,8 @@
    "tldr": "Power is AI infrastructure’s inescapable constraint.  How many tokens an AI factory can generate within a fixed power budget determines its revenue and profitability.",
    "published": "2026-07-14T15:00:20.000Z",
    "dupes": 1,
-   "score": 0.407,
-   "tier": 2
+   "score": 0.4,
+   "tier": 3
   },
   {
    "id": "d37ce11fa5e902fca276a247d99b238df2e2a2a2",
@@ -176,8 +217,8 @@
    "tldr": "",
    "published": "2026-07-14T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.374,
-   "tier": 2
+   "score": 0.37,
+   "tier": 3
   },
   {
    "id": "42ba56cb55d4ea72b46b9e1216a6ae3fb460448e",
@@ -193,21 +234,6 @@
    "badges": [
     "research"
    ],
-   "dupes": 1,
-   "score": 0.374,
-   "tier": 2
-  },
-  {
-   "id": "dc52ec30e5cc85731c6ba7f0b025dfcd6eefdd76",
-   "title": "OpenAI may announce a ChatGPT smart speaker this year",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI's first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg.  The device apparently won't have a screen, but will use a camera and additional sensors to…",
-   "published": "2026-07-14T21:26:32.000Z",
    "dupes": 1,
    "score": 0.37,
    "tier": 3
@@ -228,6 +254,21 @@
    "tier": 3
   },
   {
+   "id": "dc52ec30e5cc85731c6ba7f0b025dfcd6eefdd76",
+   "title": "OpenAI may announce a ChatGPT smart speaker this year",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
+   "source": "The Verge AI",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI's first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg.  The device apparently won't have a screen, but will use a camera and additional sensors to…",
+   "published": "2026-07-14T21:26:32.000Z",
+   "dupes": 1,
+   "score": 0.36,
+   "tier": 3
+  },
+  {
    "id": "2cc0275fcceef65262e6360e09a5c51e754854ad",
    "title": "SpaceXAI’s Grok programming tool was uploading its users’ entire codebase to cloud storage",
    "url": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
@@ -239,7 +280,7 @@
    "tldr": "SpaceXAI's Grok Build AI coding tool was spotted uploading users' entire codebases to Google Cloud before it was reported, and the company turned it off.",
    "published": "2026-07-14T19:25:00.000Z",
    "dupes": 1,
-   "score": 0.357,
+   "score": 0.348,
    "tier": 3
   },
   {
@@ -254,7 +295,7 @@
    "tldr": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
    "published": "2026-07-13T12:37:28.000Z",
    "dupes": 1,
-   "score": 0.348,
+   "score": 0.345,
    "tier": 3
   },
   {
@@ -269,7 +310,7 @@
    "tldr": "A group of 26 former Meta employees is suing the company over claims that it used AI tools to unfairly target workers on leave with layoffs, as reported earlier by Reuters.",
    "published": "2026-07-14T17:18:11.000Z",
    "dupes": 1,
-   "score": 0.345,
+   "score": 0.337,
    "tier": 3
   },
   {
@@ -284,7 +325,7 @@
    "tldr": "Google is announcing a big change to the Google Images homepage in honor of the platform's 25th anniversary this week.  Instead of a mostly blank page with a search bar, the homepage will soon show you a bunch of images…",
    "published": "2026-07-14T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.338,
+   "score": 0.33,
    "tier": 3
   },
   {
@@ -299,7 +340,7 @@
    "tldr": "Cryptographic code supports vital protections in modern computing systems.  Learn how a new method helps verify code as developers write it while preserving speed and adaptability as it gets implemented and evolves.",
    "published": "2026-07-13T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.317,
+   "score": 0.314,
    "tier": 3
   },
   {
@@ -314,20 +355,7 @@
    "tldr": "Demis Hassabis thinks the world needs an AI watchdog with the power to hit the brakes if frontier models become too dangerous.",
    "published": "2026-07-14T11:43:29.000Z",
    "dupes": 1,
-   "score": 0.317,
-   "tier": 3
-  },
-  {
-   "id": "e74d29ba97202e0c5832cb698e6db0e5a997c69b",
-   "title": "New York becomes the first state to enact a data center moratorium",
-   "url": "https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium",
-   "source": "The Verge AI",
-   "org": [],
-   "topic": "compute",
-   "tldr": "New hyperscale data centers can't set up shop in New York for up to a year now that Governor Kathy Hochul (D) has signed the nation's first statewide moratorium.  But a bill passed by the state legislature that could…",
-   "published": "2026-07-14T09:00:00.000Z",
-   "dupes": 1,
-   "score": 0.305,
+   "score": 0.31,
    "tier": 3
   },
   {
@@ -422,6 +450,21 @@
    "tier": 3
   },
   {
+   "id": "5941cef110c0f46967cf712c0f80d655dc0997fb",
+   "title": "ChatGPT is now a partner for your most ambitious work",
+   "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
+   "published": "2026-07-09T10:00:00.000Z",
+   "dupes": 1,
+   "score": 0.301,
+   "tier": 3
+  },
+  {
    "id": "54ee76ae9206d639c0800316ef4ab1a52b70d689",
    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
    "url": "https://openai.com/index/gpt-5-6",
@@ -452,21 +495,6 @@
    "tier": 3
   },
   {
-   "id": "5941cef110c0f46967cf712c0f80d655dc0997fb",
-   "title": "ChatGPT is now a partner for your most ambitious work",
-   "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
-   "published": "2026-07-09T10:00:00.000Z",
-   "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
    "id": "08e9aa519f8328638b1bd96afccd42541d2d00a8",
    "title": "Introducing Muse Spark 1.1",
    "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api",
@@ -482,6 +510,19 @@
    "tier": 3
   },
   {
+   "id": "e74d29ba97202e0c5832cb698e6db0e5a997c69b",
+   "title": "New York becomes the first state to enact a data center moratorium",
+   "url": "https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium",
+   "source": "The Verge AI",
+   "org": [],
+   "topic": "compute",
+   "tldr": "New hyperscale data centers can't set up shop in New York for up to a year now that Governor Kathy Hochul (D) has signed the nation's first statewide moratorium.  But a bill passed by the state legislature that could…",
+   "published": "2026-07-14T09:00:00.000Z",
+   "dupes": 1,
+   "score": 0.299,
+   "tier": 3
+  },
+  {
    "id": "67b0b234c48495e76edcaa2bce176201a46bd243",
    "title": "Teachers and Local Businesses Win as Meta Expands Louisiana Data Center",
    "url": "https://about.fb.com/news/2026/07/teachers-local-businesses-win-as-meta-expands-louisiana-data-center",
@@ -493,7 +534,7 @@
    "tldr": "We're expanding our Richland Parish, Louisiana data center to 5GW of compute capacity in a town that’s already seeing life-changing returns for teachers, local businesses, and students.  The post Teachers and Local…",
    "published": "2026-07-13T09:30:24.000Z",
    "dupes": 1,
-   "score": 0.293,
+   "score": 0.29,
    "tier": 3
   },
   {
@@ -539,7 +580,7 @@
    "tldr": "",
    "published": "2026-07-13T18:10:23.000Z",
    "dupes": 1,
-   "score": 0.276,
+   "score": 0.273,
    "tier": 3
   },
   {
@@ -571,16 +612,18 @@
    "tier": 3
   },
   {
-   "id": "5535aeb9eb9d5ca5e2f18868cc1d79c540821d4d",
-   "title": "Data for Agents",
-   "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-08T17:16:05.000Z",
+   "id": "74dc15720d8377edbe420befae12eee40cc7e14a",
+   "title": "Breaking Ground on Meta’s First Data Center in Canada",
+   "url": "https://about.fb.com/news/2026/07/breaking-ground-on-metas-first-data-center-in-canada",
+   "source": "Meta Newsroom",
+   "org": [
+    "meta"
+   ],
+   "topic": "compute",
+   "tldr": "We’re breaking ground on a new 1GW, AI-optimized data center in Sturgeon County, Alberta — our first data center in Canada and 33rd in our global fleet.  The post Breaking Ground on Meta’s First Data Center in Canada…",
+   "published": "2026-07-08T19:30:30.000Z",
    "dupes": 1,
-   "score": 0.263,
+   "score": 0.251,
    "tier": 3
   },
   {
@@ -594,21 +637,6 @@
    "topic": "ai",
    "tldr": "",
    "published": "2026-07-13T18:28:13.000Z",
-   "dupes": 1,
-   "score": 0.254,
-   "tier": 3
-  },
-  {
-   "id": "74dc15720d8377edbe420befae12eee40cc7e14a",
-   "title": "Breaking Ground on Meta’s First Data Center in Canada",
-   "url": "https://about.fb.com/news/2026/07/breaking-ground-on-metas-first-data-center-in-canada",
-   "source": "Meta Newsroom",
-   "org": [
-    "meta"
-   ],
-   "topic": "compute",
-   "tldr": "We’re breaking ground on a new 1GW, AI-optimized data center in Sturgeon County, Alberta — our first data center in Canada and 33rd in our global fleet.  The post Breaking Ground on Meta’s First Data Center in Canada…",
-   "published": "2026-07-08T19:30:30.000Z",
    "dupes": 1,
    "score": 0.251,
    "tier": 3
@@ -625,7 +653,7 @@
    "tldr": "",
    "published": "2026-07-09T14:42:21.000Z",
    "dupes": 1,
-   "score": 0.211,
+   "score": 0.21,
    "tier": 3
   }
  ]
