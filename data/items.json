@@ -1,6 +1,37 @@
 {
- "generated": "2026-07-15T20:14:57.048Z",
+ "generated": "2026-07-15T21:28:31.698Z",
  "items": [
+  {
+   "id": "f42bd958467e680db7eb4b2ff6504e2974414089",
+   "title": "Grok Build",
+   "url": "https://github.com/xai-org/grok-build",
+   "source": "Hacker News",
+   "org": [
+    "xai"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-15T20:24:58.000Z",
+   "dupes": 2,
+   "score": 0.616,
+   "tier": 1
+  },
+  {
+   "id": "5fee0646c751a46fc0aec409b11d7a2f40054573",
+   "title": "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
+   "url": "https://brainless.swerdlow.dev/",
+   "source": "Hacker News",
+   "org": [
+    "anthropic",
+    "xai"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-15T19:42:53.000Z",
+   "dupes": 2,
+   "score": 0.597,
+   "tier": 2
+  },
   {
    "id": "dd743dda0e19af76c6fc02b6e7f7973070dc7662",
    "title": "Towards demystifying the creativity of diffusion models",
@@ -13,8 +44,8 @@
    "tldr": "Algorithms & Theory",
    "published": "2026-07-15T18:06:27.000Z",
    "dupes": 1,
-   "score": 0.597,
-   "tier": 1
+   "score": 0.582,
+   "tier": 2
   },
   {
    "id": "53e3149d2cc17d3edc5eb4f9e6836d13e5dc9847",
@@ -26,7 +57,7 @@
    "tldr": "",
    "published": "2026-07-15T17:29:41.000Z",
    "dupes": 1,
-   "score": 0.577,
+   "score": 0.563,
    "tier": 2
   },
   {
@@ -39,7 +70,7 @@
    "tldr": "",
    "published": "2026-07-15T17:27:01.000Z",
    "dupes": 1,
-   "score": 0.577,
+   "score": 0.562,
    "tier": 2
   },
   {
@@ -54,7 +85,7 @@
    "tldr": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
    "published": "2026-07-15T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.555,
+   "score": 0.543,
    "tier": 2
   },
   {
@@ -69,7 +100,7 @@
    "tldr": "",
    "published": "2026-07-15T15:34:05.000Z",
    "dupes": 1,
-   "score": 0.54,
+   "score": 0.535,
    "tier": 2
   },
   {
@@ -84,22 +115,7 @@
    "tldr": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
    "published": "2026-07-15T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.536,
-   "tier": 2
-  },
-  {
-   "id": "ec44b263877dfb9efb83192c1f210b176a59ae5c",
-   "title": "OpenAI loses trademark dispute at EU court",
-   "url": "https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143",
-   "source": "Hacker News",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-15T14:32:36.000Z",
-   "dupes": 1,
-   "score": 0.534,
+   "score": 0.525,
    "tier": 2
   },
   {
@@ -114,7 +130,7 @@
    "tldr": "Home to leading manufacturers, robotics pioneers, infrastructure builders and iconic gaming companies, of course, Japan is one of the world’s centers of AI — building across the full stack with NVIDIA technologies.…",
    "published": "2026-07-15T10:51:37.000Z",
    "dupes": 1,
-   "score": 0.519,
+   "score": 0.508,
    "tier": 2
   },
   {
@@ -129,37 +145,22 @@
    "tldr": "OpenAI is finally releasing some hardware.  No, it isn't the mysterious AI-powered device the company is developing with former Apple designer Jony Ive, a project already tangled up in a messy lawsuit.",
    "published": "2026-07-15T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.497,
+   "score": 0.483,
    "tier": 2
   },
   {
-   "id": "817ee0972d02565424e5e2ff98d48b681c73b51b",
-   "title": "Grok uploaded my user directory to xAI's servers",
-   "url": "https://twitter.com/a_green_being/status/2076598897779020159",
-   "source": "HN · xAI",
-   "org": [
-    "xai"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-13T13:39:59.000Z",
-   "dupes": 2,
-   "score": 0.443,
-   "tier": 2
-  },
-  {
-   "id": "cca00ce687818d9ad6ab3e2102fc448804cde0b7",
-   "title": "How data science teams use ChatGPT Work",
-   "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+   "id": "248b5ff0699922b23d03bcc7a466036dd8ca62b4",
+   "title": "How sales teams use ChatGPT Work",
+   "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
    "source": "OpenAI Blog",
    "org": [
     "openai"
    ],
    "topic": "ai",
-   "tldr": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+   "tldr": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
    "published": "2026-07-14T00:00:00.000Z",
    "dupes": 2,
-   "score": 0.426,
+   "score": 0.423,
    "tier": 2
   },
   {
@@ -172,7 +173,7 @@
    "tldr": "",
    "published": "2026-07-15T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.423,
+   "score": 0.416,
    "tier": 2
   },
   {
@@ -185,7 +186,7 @@
    "tldr": "",
    "published": "2026-07-15T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.423,
+   "score": 0.416,
    "tier": 2
   },
   {
@@ -200,7 +201,7 @@
    "tldr": "Enterprises have plenty of powerful models to choose from.  The real test is whether the AI an enterprise builds uniquely addresses the needs of the business: improving workflows, tapping into domain knowledge and…",
    "published": "2026-07-14T16:45:13.000Z",
    "dupes": 1,
-   "score": 0.396,
+   "score": 0.391,
    "tier": 3
   },
   {
@@ -215,7 +216,7 @@
    "tldr": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
    "published": "2026-07-14T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.394,
+   "score": 0.389,
    "tier": 3
   },
   {
@@ -230,40 +231,22 @@
    "tldr": "Power is AI infrastructure’s inescapable constraint.  How many tokens an AI factory can generate within a fixed power budget determines its revenue and profitability.",
    "published": "2026-07-14T15:00:20.000Z",
    "dupes": 1,
-   "score": 0.389,
+   "score": 0.383,
    "tier": 3
   },
   {
-   "id": "d37ce11fa5e902fca276a247d99b238df2e2a2a2",
-   "title": "Introducing Claude for Teachers",
-   "url": "https://www.anthropic.com/news/claude-for-teachers",
-   "source": "Anthropic News",
+   "id": "817ee0972d02565424e5e2ff98d48b681c73b51b",
+   "title": "Grok uploaded my user directory to xAI's servers",
+   "url": "https://twitter.com/a_green_being/status/2076598897779020159",
+   "source": "HN · xAI",
    "org": [
-    "anthropic"
+    "xai"
    ],
    "topic": "ai",
    "tldr": "",
-   "published": "2026-07-14T00:00:00.000Z",
+   "published": "2026-07-13T13:39:59.000Z",
    "dupes": 1,
-   "score": 0.364,
-   "tier": 3
-  },
-  {
-   "id": "42ba56cb55d4ea72b46b9e1216a6ae3fb460448e",
-   "title": "Anthropic commits $10 million to Canadian AI research",
-   "url": "https://www.anthropic.com/news/canadian-ai-research",
-   "source": "Anthropic News",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-14T00:00:00.000Z",
-   "badges": [
-    "research"
-   ],
-   "dupes": 1,
-   "score": 0.364,
+   "score": 0.378,
    "tier": 3
   },
   {
@@ -282,18 +265,36 @@
    "tier": 3
   },
   {
-   "id": "dc52ec30e5cc85731c6ba7f0b025dfcd6eefdd76",
-   "title": "OpenAI may announce a ChatGPT smart speaker this year",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
-   "source": "The Verge AI",
+   "id": "d37ce11fa5e902fca276a247d99b238df2e2a2a2",
+   "title": "Introducing Claude for Teachers",
+   "url": "https://www.anthropic.com/news/claude-for-teachers",
+   "source": "Anthropic News",
    "org": [
-    "openai"
+    "anthropic"
    ],
    "topic": "ai",
-   "tldr": "OpenAI's first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg.  The device apparently won't have a screen, but will use a camera and additional sensors to…",
-   "published": "2026-07-14T21:26:32.000Z",
+   "tldr": "",
+   "published": "2026-07-14T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.345,
+   "score": 0.361,
+   "tier": 3
+  },
+  {
+   "id": "42ba56cb55d4ea72b46b9e1216a6ae3fb460448e",
+   "title": "Anthropic commits $10 million to Canadian AI research",
+   "url": "https://www.anthropic.com/news/canadian-ai-research",
+   "source": "Anthropic News",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-14T00:00:00.000Z",
+   "badges": [
+    "research"
+   ],
+   "dupes": 1,
+   "score": 0.361,
    "tier": 3
   },
   {
@@ -308,7 +309,22 @@
    "tldr": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
    "published": "2026-07-13T12:37:28.000Z",
    "dupes": 1,
-   "score": 0.341,
+   "score": 0.339,
+   "tier": 3
+  },
+  {
+   "id": "dc52ec30e5cc85731c6ba7f0b025dfcd6eefdd76",
+   "title": "OpenAI may announce a ChatGPT smart speaker this year",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
+   "source": "The Verge AI",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI's first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg.  The device apparently won't have a screen, but will use a camera and additional sensors to…",
+   "published": "2026-07-14T21:26:32.000Z",
+   "dupes": 1,
+   "score": 0.339,
    "tier": 3
   },
   {
@@ -323,7 +339,7 @@
    "tldr": "SpaceXAI's Grok Build AI coding tool was spotted uploading users' entire codebases to Google Cloud before it was reported, and the company turned it off.",
    "published": "2026-07-14T19:25:00.000Z",
    "dupes": 1,
-   "score": 0.335,
+   "score": 0.328,
    "tier": 3
   },
   {
@@ -338,7 +354,7 @@
    "tldr": "A group of 26 former Meta employees is suing the company over claims that it used AI tools to unfairly target workers on leave with layoffs, as reported earlier by Reuters.",
    "published": "2026-07-14T17:18:11.000Z",
    "dupes": 1,
-   "score": 0.324,
+   "score": 0.318,
    "tier": 3
   },
   {
@@ -353,7 +369,7 @@
    "tldr": "Google is announcing a big change to the Google Images homepage in honor of the platform's 25th anniversary this week.  Instead of a mostly blank page with a search bar, the homepage will soon show you a bunch of images…",
    "published": "2026-07-14T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.318,
+   "score": 0.312,
    "tier": 3
   },
   {
@@ -368,7 +384,7 @@
    "tldr": "Cryptographic code supports vital protections in modern computing systems.  Learn how a new method helps verify code as developers write it while preserving speed and adaptability as it gets implemented and evolves.",
    "published": "2026-07-13T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.309,
+   "score": 0.307,
    "tier": 3
   },
   {
@@ -463,15 +479,15 @@
    "tier": 3
   },
   {
-   "id": "8fd74bd3f51991b52530ef13d145e06dd43ed5e3",
-   "title": "GPT-5.5 Bio Bug Bounty",
-   "url": "https://openai.com/index/bio-bug-bounty",
+   "id": "5941cef110c0f46967cf712c0f80d655dc0997fb",
+   "title": "ChatGPT is now a partner for your most ambitious work",
+   "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
    "source": "OpenAI Blog",
    "org": [
     "openai"
    ],
    "topic": "ai",
-   "tldr": "Details about the OpenAI Bio Bounty program",
+   "tldr": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
    "published": "2026-07-09T10:00:00.000Z",
    "dupes": 1,
    "score": 0.301,
@@ -493,15 +509,15 @@
    "tier": 3
   },
   {
-   "id": "5941cef110c0f46967cf712c0f80d655dc0997fb",
-   "title": "ChatGPT is now a partner for your most ambitious work",
-   "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+   "id": "8fd74bd3f51991b52530ef13d145e06dd43ed5e3",
+   "title": "GPT-5.5 Bio Bug Bounty",
+   "url": "https://openai.com/index/bio-bug-bounty",
    "source": "OpenAI Blog",
    "org": [
     "openai"
    ],
    "topic": "ai",
-   "tldr": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
+   "tldr": "Details about the OpenAI Bio Bounty program",
    "published": "2026-07-09T10:00:00.000Z",
    "dupes": 1,
    "score": 0.301,
@@ -534,7 +550,7 @@
    "tldr": "Demis Hassabis thinks the world needs an AI watchdog with the power to hit the brakes if frontier models become too dangerous.",
    "published": "2026-07-14T11:43:29.000Z",
    "dupes": 1,
-   "score": 0.3,
+   "score": 0.295,
    "tier": 3
   },
   {
@@ -549,7 +565,7 @@
    "tldr": "We're expanding our Richland Parish, Louisiana data center to 5GW of compute capacity in a town that’s already seeing life-changing returns for teachers, local businesses, and students.  The post Teachers and Local…",
    "published": "2026-07-13T09:30:24.000Z",
    "dupes": 1,
-   "score": 0.286,
+   "score": 0.285,
    "tier": 3
   },
   {
@@ -595,7 +611,7 @@
    "tldr": "",
    "published": "2026-07-13T18:10:23.000Z",
    "dupes": 1,
-   "score": 0.268,
+   "score": 0.265,
    "tier": 3
   },
   {
@@ -638,7 +654,7 @@
    "tldr": "",
    "published": "2026-07-13T18:28:13.000Z",
    "dupes": 1,
-   "score": 0.245,
+   "score": 0.243,
    "tier": 3
   },
   {
