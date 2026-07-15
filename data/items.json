@@ -1,21 +1,6 @@
 {
- "generated": "2026-07-15T12:49:27.573Z",
+ "generated": "2026-07-15T14:43:21.045Z",
  "items": [
-  {
-   "id": "73b57496c78a35c43a1971627589698e7123f5dd",
-   "title": "NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry",
-   "url": "https://blogs.nvidia.com/blog/japan-ecosystem-2026",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Home to leading manufacturers, robotics pioneers and infrastructure builders, Japan is one of the world’s centers of AI — building across the full stack with NVIDIA technologies.  NVIDIA and its partners in Japan are…",
-   "published": "2026-07-15T10:51:37.000Z",
-   "dupes": 1,
-   "score": 0.6,
-   "tier": 1
-  },
   {
    "id": "bba9d9e949a600e26d4b94c77e44f45ae097b9c1",
    "title": "I tricked Claude into leaking your deepest, darkest secrets",
@@ -28,52 +13,50 @@
    "tldr": "",
    "published": "2026-07-15T06:28:00.000Z",
    "dupes": 1,
-   "score": 0.59,
+   "score": 0.598,
+   "tier": 1
+  },
+  {
+   "id": "73b57496c78a35c43a1971627589698e7123f5dd",
+   "title": "NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry",
+   "url": "https://blogs.nvidia.com/blog/japan-ecosystem-2026",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Home to leading manufacturers, robotics pioneers and infrastructure builders, Japan is one of the world’s centers of AI — building across the full stack with NVIDIA technologies.  NVIDIA and its partners in Japan are…",
+   "published": "2026-07-15T10:51:37.000Z",
+   "dupes": 1,
+   "score": 0.577,
    "tier": 2
   },
   {
-   "id": "2820a14fb72bace9414a31c8f287e017aee5aeb8",
-   "title": "Societal Impacts: Claude's values across models and languages",
-   "url": "https://www.anthropic.com/research/claude-values-models-languages",
+   "id": "a366fcb32fa232984f596d7d2364c89bef1135ec",
+   "title": "Show HN: Grepathy – Claude made a decision nobody approved",
+   "url": "https://github.com/evansjp/grepathy",
    "source": "Hacker News",
    "org": [
     "anthropic"
    ],
    "topic": "ai",
    "tldr": "",
-   "published": "2026-07-15T10:56:33.000Z",
+   "published": "2026-07-15T13:26:24.000Z",
    "dupes": 1,
-   "score": 0.529,
+   "score": 0.536,
    "tier": 2
   },
   {
-   "id": "fef279fe207e8c0ce089da613c2f126981e0be47",
-   "title": "How to stop Claude from saying load-bearing",
-   "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
-   "source": "Hacker News",
-   "org": [
-    "anthropic"
-   ],
+   "id": "5d7569c2afe37a81e25967f56fc4d6776a9f22a5",
+   "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+   "url": "https://huggingface.co/blog/real-world-voiceeq",
+   "source": "Hugging Face Blog",
+   "org": [],
    "topic": "ai",
    "tldr": "",
-   "published": "2026-07-14T11:46:02.000Z",
+   "published": "2026-07-15T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.483,
-   "tier": 2
-  },
-  {
-   "id": "cca00ce687818d9ad6ab3e2102fc448804cde0b7",
-   "title": "How data science teams use ChatGPT Work",
-   "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-   "published": "2026-07-14T00:00:00.000Z",
-   "dupes": 2,
-   "score": 0.447,
+   "score": 0.461,
    "tier": 2
   },
   {
@@ -88,22 +71,22 @@
    "tldr": "",
    "published": "2026-07-13T13:39:59.000Z",
    "dupes": 2,
-   "score": 0.443,
+   "score": 0.453,
    "tier": 2
   },
   {
-   "id": "a9eb2494bb7238b8ff603c9e1ce3e760fc79408d",
-   "title": "Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize",
-   "url": "https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize",
-   "source": "NVIDIA Blog",
+   "id": "cca00ce687818d9ad6ab3e2102fc448804cde0b7",
+   "title": "How data science teams use ChatGPT Work",
+   "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+   "source": "OpenAI Blog",
    "org": [
-    "nvidia"
+    "openai"
    ],
-   "topic": "compute",
-   "tldr": "Enterprises have plenty of powerful models to choose from.  The real test is whether the AI an enterprise builds uniquely addresses the needs of the business: improving workflows, tapping into domain knowledge and…",
-   "published": "2026-07-14T16:45:13.000Z",
-   "dupes": 1,
-   "score": 0.437,
+   "topic": "ai",
+   "tldr": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+   "published": "2026-07-14T00:00:00.000Z",
+   "dupes": 2,
+   "score": 0.441,
    "tier": 2
   },
   {
@@ -118,22 +101,22 @@
    "tldr": "",
    "published": "2026-07-14T21:32:22.000Z",
    "dupes": 1,
-   "score": 0.436,
+   "score": 0.431,
    "tier": 2
   },
   {
-   "id": "a730da9e2dc4842296462f19f46b64877dcba60d",
-   "title": "Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency",
-   "url": "https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency",
+   "id": "a9eb2494bb7238b8ff603c9e1ce3e760fc79408d",
+   "title": "Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize",
+   "url": "https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize",
    "source": "NVIDIA Blog",
    "org": [
     "nvidia"
    ],
    "topic": "compute",
-   "tldr": "Power is AI infrastructure’s inescapable constraint.  How many tokens an AI factory can generate within a fixed power budget determines its revenue and profitability.",
-   "published": "2026-07-14T15:00:20.000Z",
+   "tldr": "Enterprises have plenty of powerful models to choose from.  The real test is whether the AI an enterprise builds uniquely addresses the needs of the business: improving workflows, tapping into domain knowledge and…",
+   "published": "2026-07-14T16:45:13.000Z",
    "dupes": 1,
-   "score": 0.426,
+   "score": 0.425,
    "tier": 2
   },
   {
@@ -148,7 +131,22 @@
    "tldr": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
    "published": "2026-07-14T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.425,
+   "score": 0.416,
+   "tier": 2
+  },
+  {
+   "id": "a730da9e2dc4842296462f19f46b64877dcba60d",
+   "title": "Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency",
+   "url": "https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Power is AI infrastructure’s inescapable constraint.  How many tokens an AI factory can generate within a fixed power budget determines its revenue and profitability.",
+   "published": "2026-07-14T15:00:20.000Z",
+   "dupes": 1,
+   "score": 0.415,
    "tier": 2
   },
   {
@@ -163,7 +161,7 @@
    "tldr": "OpenAI's first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg.  The device apparently won't have a screen, but will use a camera and additional sensors to…",
    "published": "2026-07-14T21:26:32.000Z",
    "dupes": 1,
-   "score": 0.394,
+   "score": 0.38,
    "tier": 2
   },
   {
@@ -178,7 +176,7 @@
    "tldr": "",
    "published": "2026-07-14T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.385,
+   "score": 0.379,
    "tier": 2
   },
   {
@@ -196,7 +194,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.385,
+   "score": 0.379,
    "tier": 2
   },
   {
@@ -211,22 +209,7 @@
    "tldr": "SpaceXAI's Grok Build AI coding tool was spotted uploading users' entire codebases to Google Cloud before it was reported, and the company turned it off.",
    "published": "2026-07-14T19:25:00.000Z",
    "dupes": 1,
-   "score": 0.379,
-   "tier": 3
-  },
-  {
-   "id": "a9b65061bfa7a7eb5768ecd0d0a503e3e83dcd94",
-   "title": "Meta accused of using biased AI targeting for mass layoffs",
-   "url": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
-   "source": "The Verge AI",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "A group of 26 former Meta employees is suing the company over claims that it used AI tools to unfairly target workers on leave with layoffs, as reported earlier by Reuters.",
-   "published": "2026-07-14T17:18:11.000Z",
-   "dupes": 1,
-   "score": 0.365,
+   "score": 0.366,
    "tier": 3
   },
   {
@@ -245,18 +228,18 @@
    "tier": 3
   },
   {
-   "id": "ec43065966072242fc7ac83c76fc6485beffa9c0",
-   "title": "The Google Images homepage will recommend photos even before you search",
-   "url": "https://www.theverge.com/tech/965138/google-images-homepage-ai-overviews-search-nano-banana",
+   "id": "a9b65061bfa7a7eb5768ecd0d0a503e3e83dcd94",
+   "title": "Meta accused of using biased AI targeting for mass layoffs",
+   "url": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
    "source": "The Verge AI",
    "org": [
-    "google"
+    "meta"
    ],
    "topic": "ai",
-   "tldr": "Google is announcing a big change to the Google Images homepage in honor of the platform's 25th anniversary this week.  Instead of a mostly blank page with a search bar, the homepage will soon show you a bunch of images…",
-   "published": "2026-07-14T16:00:00.000Z",
+   "tldr": "A group of 26 former Meta employees is suing the company over claims that it used AI tools to unfairly target workers on leave with layoffs, as reported earlier by Reuters.",
+   "published": "2026-07-14T17:18:11.000Z",
    "dupes": 1,
-   "score": 0.357,
+   "score": 0.353,
    "tier": 3
   },
   {
@@ -271,7 +254,22 @@
    "tldr": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
    "published": "2026-07-13T12:37:28.000Z",
    "dupes": 1,
-   "score": 0.355,
+   "score": 0.351,
+   "tier": 3
+  },
+  {
+   "id": "ec43065966072242fc7ac83c76fc6485beffa9c0",
+   "title": "The Google Images homepage will recommend photos even before you search",
+   "url": "https://www.theverge.com/tech/965138/google-images-homepage-ai-overviews-search-nano-banana",
+   "source": "The Verge AI",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Google is announcing a big change to the Google Images homepage in honor of the platform's 25th anniversary this week.  Instead of a mostly blank page with a search bar, the homepage will soon show you a bunch of images…",
+   "published": "2026-07-14T16:00:00.000Z",
+   "dupes": 1,
+   "score": 0.346,
    "tier": 3
   },
   {
@@ -286,7 +284,7 @@
    "tldr": "Demis Hassabis thinks the world needs an AI watchdog with the power to hit the brakes if frontier models become too dangerous.",
    "published": "2026-07-14T11:43:29.000Z",
    "dupes": 1,
-   "score": 0.333,
+   "score": 0.324,
    "tier": 3
   },
   {
@@ -301,7 +299,7 @@
    "tldr": "Cryptographic code supports vital protections in modern computing systems.  Learn how a new method helps verify code as developers write it while preserving speed and adaptability as it gets implemented and evolves.",
    "published": "2026-07-13T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.325,
+   "score": 0.32,
    "tier": 3
   },
   {
@@ -314,7 +312,7 @@
    "tldr": "New hyperscale data centers can't set up shop in New York for up to a year now that Governor Kathy Hochul (D) has signed the nation's first statewide moratorium.  But a bill passed by the state legislature that could…",
    "published": "2026-07-14T09:00:00.000Z",
    "dupes": 1,
-   "score": 0.32,
+   "score": 0.311,
    "tier": 3
   },
   {
@@ -454,36 +452,6 @@
    "tier": 3
   },
   {
-   "id": "41b85c9cdb7a0122f22d6b2e39aed7b59f41059a",
-   "title": "Our approach to government and national security partnerships",
-   "url": "https://openai.com/index/government-national-security-partnerships",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
-   "published": "2026-07-08T13:30:00.000Z",
-   "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
-   "id": "eaad4cbcfa7f5327a2cc22a617c04a1d32c8eb96",
-   "title": "Separating signal from noise in coding evaluations",
-   "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
-   "published": "2026-07-08T13:00:00.000Z",
-   "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
    "id": "08e9aa519f8328638b1bd96afccd42541d2d00a8",
    "title": "Introducing Muse Spark 1.1",
    "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api",
@@ -510,7 +478,7 @@
    "tldr": "We're expanding our Richland Parish, Louisiana data center to 5GW of compute capacity in a town that’s already seeing life-changing returns for teachers, local businesses, and students.  The post Teachers and Local…",
    "published": "2026-07-13T09:30:24.000Z",
    "dupes": 1,
-   "score": 0.299,
+   "score": 0.295,
    "tier": 3
   },
   {
@@ -526,7 +494,7 @@
    "tldr": "",
    "published": "2026-07-13T18:10:23.000Z",
    "dupes": 1,
-   "score": 0.282,
+   "score": 0.28,
    "tier": 3
   },
   {
@@ -575,34 +543,6 @@
    "tier": 3
   },
   {
-   "id": "145fbd552c7570091ad5e1a261a1719c4bffd75e",
-   "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
-   "url": "https://huggingface.co/blog/torch-attention-profile",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-10T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.265,
-   "tier": 3
-  },
-  {
-   "id": "6358ddebecad305509ecfc292edf358c70626909",
-   "title": "The 6 wildest claims in Apple’s lawsuit against OpenAI",
-   "url": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "When Apple employees interviewed for jobs at OpenAI, the AI startup's hardware head allegedly asked them to show up with something unusual: components they were working on and unreleased product samples.",
-   "published": "2026-07-13T17:00:00.000Z",
-   "dupes": 1,
-   "score": 0.265,
-   "tier": 3
-  },
-  {
    "id": "7e8f553fee7588efb0f3228471d4dea7e735e7ee",
    "title": "Aurora 1.5: Extending open foundation models for weather and Earth-system applications",
    "url": "https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications",
@@ -613,6 +553,19 @@
    "topic": "ai",
    "tldr": "5 adds 22 more variables, hourly temporal resolution, and probabilistic ensemble forecasting to the Aurora foundation model, making it more useful for real-world weather, climate, and energy applications.  5: Extending…",
    "published": "2026-07-09T16:46:22.000Z",
+   "dupes": 1,
+   "score": 0.264,
+   "tier": 3
+  },
+  {
+   "id": "145fbd552c7570091ad5e1a261a1719c4bffd75e",
+   "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+   "url": "https://huggingface.co/blog/torch-attention-profile",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-10T00:00:00.000Z",
    "dupes": 1,
    "score": 0.264,
    "tier": 3
@@ -646,6 +599,21 @@
    "tier": 3
   },
   {
+   "id": "6358ddebecad305509ecfc292edf358c70626909",
+   "title": "The 6 wildest claims in Apple’s lawsuit against OpenAI",
+   "url": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
+   "source": "The Verge AI",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "When Apple employees interviewed for jobs at OpenAI, the AI startup's hardware head allegedly asked them to show up with something unusual: components they were working on and unreleased product samples.",
+   "published": "2026-07-13T17:00:00.000Z",
+   "dupes": 1,
+   "score": 0.26,
+   "tier": 3
+  },
+  {
    "id": "bf7ecf7e78c0f2cd7d17e41333d488018858f968",
    "title": "New Flagship Grok Voices",
    "url": "https://x.ai/news/new-flagship-voices",
@@ -657,7 +625,7 @@
    "tldr": "",
    "published": "2026-07-13T18:28:13.000Z",
    "dupes": 1,
-   "score": 0.262,
+   "score": 0.258,
    "tier": 3
   },
   {
@@ -687,7 +655,7 @@
    "tldr": "",
    "published": "2026-07-09T14:42:21.000Z",
    "dupes": 1,
-   "score": 0.209,
+   "score": 0.211,
    "tier": 3
   }
  ]
