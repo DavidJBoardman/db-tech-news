@@ -1,19 +1,19 @@
 {
- "generated": "2026-07-15T14:43:21.045Z",
+ "generated": "2026-07-15T16:14:49.649Z",
  "items": [
   {
-   "id": "bba9d9e949a600e26d4b94c77e44f45ae097b9c1",
-   "title": "I tricked Claude into leaking your deepest, darkest secrets",
-   "url": "https://www.ayush.digital/blog/the-memory-heist",
-   "source": "Hacker News",
+   "id": "1e97faa490facd0c80775009cd29953c3036ce5c",
+   "title": "The US is advancing AI safety through state and federal action",
+   "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+   "source": "OpenAI Blog",
    "org": [
-    "anthropic"
+    "openai"
    ],
    "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-15T06:28:00.000Z",
+   "tldr": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
+   "published": "2026-07-15T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.598,
+   "score": 0.597,
    "tier": 1
   },
   {
@@ -25,25 +25,55 @@
     "nvidia"
    ],
    "topic": "compute",
-   "tldr": "Home to leading manufacturers, robotics pioneers and infrastructure builders, Japan is one of the world’s centers of AI — building across the full stack with NVIDIA technologies.  NVIDIA and its partners in Japan are…",
+   "tldr": "Home to leading manufacturers, robotics pioneers, infrastructure builders and iconic gaming companies, of course, Japan is one of the world’s centers of AI — building across the full stack with NVIDIA technologies.…",
    "published": "2026-07-15T10:51:37.000Z",
    "dupes": 1,
-   "score": 0.577,
+   "score": 0.559,
    "tier": 2
   },
   {
-   "id": "a366fcb32fa232984f596d7d2364c89bef1135ec",
-   "title": "Show HN: Grepathy – Claude made a decision nobody approved",
-   "url": "https://github.com/evansjp/grepathy",
+   "id": "ec44b263877dfb9efb83192c1f210b176a59ae5c",
+   "title": "OpenAI loses trademark dispute at EU court",
+   "url": "https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143",
    "source": "Hacker News",
    "org": [
-    "anthropic"
+    "openai"
    ],
    "topic": "ai",
    "tldr": "",
-   "published": "2026-07-15T13:26:24.000Z",
+   "published": "2026-07-15T14:32:36.000Z",
    "dupes": 1,
-   "score": 0.536,
+   "score": 0.547,
+   "tier": 2
+  },
+  {
+   "id": "84777b05d9b259377bc39907b66ce6901c6fa24b",
+   "title": "OpenAI finally launches hardware… for Codex",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
+   "source": "The Verge AI",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI is finally releasing some hardware.  No, it isn't the mysterious AI-powered device the company is developing with former Apple designer Jony Ive, a project already tangled up in a messy lawsuit.",
+   "published": "2026-07-15T16:00:00.000Z",
+   "dupes": 1,
+   "score": 0.547,
+   "tier": 2
+  },
+  {
+   "id": "472b64d0b1a6e43753d019ff118ee8e7ca4baf88",
+   "title": "Microsoft Confirms Windows GDID Device Identifier That Cannot Be Disabled",
+   "url": "https://www.ghacks.net/2026/07/12/microsoft-confirms-windows-gdid-device-identifier-that-cannot-be-disabled-documented-in-fbi-case-filing",
+   "source": "Hacker News",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-15T13:11:01.000Z",
+   "dupes": 1,
+   "score": 0.53,
    "tier": 2
   },
   {
@@ -56,7 +86,7 @@
    "tldr": "",
    "published": "2026-07-15T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.461,
+   "score": 0.45,
    "tier": 2
   },
   {
@@ -71,37 +101,22 @@
    "tldr": "",
    "published": "2026-07-13T13:39:59.000Z",
    "dupes": 2,
-   "score": 0.453,
+   "score": 0.45,
    "tier": 2
   },
   {
-   "id": "cca00ce687818d9ad6ab3e2102fc448804cde0b7",
-   "title": "How data science teams use ChatGPT Work",
-   "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+   "id": "248b5ff0699922b23d03bcc7a466036dd8ca62b4",
+   "title": "How sales teams use ChatGPT Work",
+   "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
    "source": "OpenAI Blog",
    "org": [
     "openai"
    ],
    "topic": "ai",
-   "tldr": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+   "tldr": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
    "published": "2026-07-14T00:00:00.000Z",
    "dupes": 2,
-   "score": 0.441,
-   "tier": 2
-  },
-  {
-   "id": "20b7d07a9998811a830653da8cf3fc34bf286143",
-   "title": "Microsoft has released software updates to plug at least 570 security holes",
-   "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws",
-   "source": "Hacker News",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-14T21:32:22.000Z",
-   "dupes": 1,
-   "score": 0.431,
+   "score": 0.437,
    "tier": 2
   },
   {
@@ -116,7 +131,7 @@
    "tldr": "Enterprises have plenty of powerful models to choose from.  The real test is whether the AI an enterprise builds uniquely addresses the needs of the business: improving workflows, tapping into domain knowledge and…",
    "published": "2026-07-14T16:45:13.000Z",
    "dupes": 1,
-   "score": 0.425,
+   "score": 0.417,
    "tier": 2
   },
   {
@@ -131,7 +146,7 @@
    "tldr": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
    "published": "2026-07-14T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.416,
+   "score": 0.409,
    "tier": 2
   },
   {
@@ -146,22 +161,7 @@
    "tldr": "Power is AI infrastructure’s inescapable constraint.  How many tokens an AI factory can generate within a fixed power budget determines its revenue and profitability.",
    "published": "2026-07-14T15:00:20.000Z",
    "dupes": 1,
-   "score": 0.415,
-   "tier": 2
-  },
-  {
-   "id": "dc52ec30e5cc85731c6ba7f0b025dfcd6eefdd76",
-   "title": "OpenAI may announce a ChatGPT smart speaker this year",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI's first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg.  The device apparently won't have a screen, but will use a camera and additional sensors to…",
-   "published": "2026-07-14T21:26:32.000Z",
-   "dupes": 1,
-   "score": 0.38,
+   "score": 0.407,
    "tier": 2
   },
   {
@@ -176,7 +176,7 @@
    "tldr": "",
    "published": "2026-07-14T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.379,
+   "score": 0.374,
    "tier": 2
   },
   {
@@ -194,22 +194,22 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.379,
+   "score": 0.374,
    "tier": 2
   },
   {
-   "id": "2cc0275fcceef65262e6360e09a5c51e754854ad",
-   "title": "SpaceXAI’s Grok programming tool was uploading its users’ entire codebase to cloud storage",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
+   "id": "dc52ec30e5cc85731c6ba7f0b025dfcd6eefdd76",
+   "title": "OpenAI may announce a ChatGPT smart speaker this year",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
    "source": "The Verge AI",
    "org": [
-    "xai"
+    "openai"
    ],
    "topic": "ai",
-   "tldr": "SpaceXAI's Grok Build AI coding tool was spotted uploading users' entire codebases to Google Cloud before it was reported, and the company turned it off.",
-   "published": "2026-07-14T19:25:00.000Z",
+   "tldr": "OpenAI's first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg.  The device apparently won't have a screen, but will use a camera and additional sensors to…",
+   "published": "2026-07-14T21:26:32.000Z",
    "dupes": 1,
-   "score": 0.366,
+   "score": 0.37,
    "tier": 3
   },
   {
@@ -228,18 +228,18 @@
    "tier": 3
   },
   {
-   "id": "a9b65061bfa7a7eb5768ecd0d0a503e3e83dcd94",
-   "title": "Meta accused of using biased AI targeting for mass layoffs",
-   "url": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
+   "id": "2cc0275fcceef65262e6360e09a5c51e754854ad",
+   "title": "SpaceXAI’s Grok programming tool was uploading its users’ entire codebase to cloud storage",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
    "source": "The Verge AI",
    "org": [
-    "meta"
+    "xai"
    ],
    "topic": "ai",
-   "tldr": "A group of 26 former Meta employees is suing the company over claims that it used AI tools to unfairly target workers on leave with layoffs, as reported earlier by Reuters.",
-   "published": "2026-07-14T17:18:11.000Z",
+   "tldr": "SpaceXAI's Grok Build AI coding tool was spotted uploading users' entire codebases to Google Cloud before it was reported, and the company turned it off.",
+   "published": "2026-07-14T19:25:00.000Z",
    "dupes": 1,
-   "score": 0.353,
+   "score": 0.357,
    "tier": 3
   },
   {
@@ -254,7 +254,22 @@
    "tldr": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
    "published": "2026-07-13T12:37:28.000Z",
    "dupes": 1,
-   "score": 0.351,
+   "score": 0.348,
+   "tier": 3
+  },
+  {
+   "id": "a9b65061bfa7a7eb5768ecd0d0a503e3e83dcd94",
+   "title": "Meta accused of using biased AI targeting for mass layoffs",
+   "url": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
+   "source": "The Verge AI",
+   "org": [
+    "meta"
+   ],
+   "topic": "ai",
+   "tldr": "A group of 26 former Meta employees is suing the company over claims that it used AI tools to unfairly target workers on leave with layoffs, as reported earlier by Reuters.",
+   "published": "2026-07-14T17:18:11.000Z",
+   "dupes": 1,
+   "score": 0.345,
    "tier": 3
   },
   {
@@ -269,22 +284,7 @@
    "tldr": "Google is announcing a big change to the Google Images homepage in honor of the platform's 25th anniversary this week.  Instead of a mostly blank page with a search bar, the homepage will soon show you a bunch of images…",
    "published": "2026-07-14T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.346,
-   "tier": 3
-  },
-  {
-   "id": "cb9db543cbd4130697549f9a38ed5b84a3b81a48",
-   "title": "Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US",
-   "url": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
-   "source": "The Verge AI",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Demis Hassabis thinks the world needs an AI watchdog with the power to hit the brakes if frontier models become too dangerous.",
-   "published": "2026-07-14T11:43:29.000Z",
-   "dupes": 1,
-   "score": 0.324,
+   "score": 0.338,
    "tier": 3
   },
   {
@@ -299,7 +299,22 @@
    "tldr": "Cryptographic code supports vital protections in modern computing systems.  Learn how a new method helps verify code as developers write it while preserving speed and adaptability as it gets implemented and evolves.",
    "published": "2026-07-13T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.32,
+   "score": 0.317,
+   "tier": 3
+  },
+  {
+   "id": "cb9db543cbd4130697549f9a38ed5b84a3b81a48",
+   "title": "Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US",
+   "url": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
+   "source": "The Verge AI",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Demis Hassabis thinks the world needs an AI watchdog with the power to hit the brakes if frontier models become too dangerous.",
+   "published": "2026-07-14T11:43:29.000Z",
+   "dupes": 1,
+   "score": 0.317,
    "tier": 3
   },
   {
@@ -312,7 +327,7 @@
    "tldr": "New hyperscale data centers can't set up shop in New York for up to a year now that Governor Kathy Hochul (D) has signed the nation's first statewide moratorium.  But a bill passed by the state legislature that could…",
    "published": "2026-07-14T09:00:00.000Z",
    "dupes": 1,
-   "score": 0.311,
+   "score": 0.305,
    "tier": 3
   },
   {
@@ -327,7 +342,7 @@
    "tldr": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
    "published": "2026-07-10T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.303,
+   "score": 0.302,
    "tier": 3
   },
   {
@@ -478,23 +493,7 @@
    "tldr": "We're expanding our Richland Parish, Louisiana data center to 5GW of compute capacity in a town that’s already seeing life-changing returns for teachers, local businesses, and students.  The post Teachers and Local…",
    "published": "2026-07-13T09:30:24.000Z",
    "dupes": 1,
-   "score": 0.295,
-   "tier": 3
-  },
-  {
-   "id": "cc61285a025a1f8701645d587457d7c8b904c8bf",
-   "title": "xAI's Grok Build CLI Uploads Git Repositories to a Google Cloud Bucket",
-   "url": "https://www.internationalcyberdigest.com/xais-grok-build-cli-uploads-entire-git-repositories-to-a-google-cloud-bucket",
-   "source": "HN · xAI",
-   "org": [
-    "xai",
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-13T18:10:23.000Z",
-   "dupes": 1,
-   "score": 0.28,
+   "score": 0.293,
    "tier": 3
   },
   {
@@ -528,16 +527,17 @@
    "tier": 3
   },
   {
-   "id": "01fe34145aaf17d372c76aa51673212ccb313432",
-   "title": "NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness",
-   "url": "https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack",
-   "source": "NVIDIA Blog",
+   "id": "cc61285a025a1f8701645d587457d7c8b904c8bf",
+   "title": "xAI's Grok Build CLI Uploads Git Repositories to a Google Cloud Bucket",
+   "url": "https://www.internationalcyberdigest.com/xais-grok-build-cli-uploads-entire-git-repositories-to-a-google-cloud-bucket",
+   "source": "HN · xAI",
    "org": [
-    "nvidia"
+    "xai",
+    "google"
    ],
-   "topic": "compute",
-   "tldr": "NVIDIA Nemotron 3 Ultra is offering leading performance at lower cost than top closed models with the largest and most widely adopted AI agent orchestration platform.",
-   "published": "2026-07-08T15:00:27.000Z",
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-13T18:10:23.000Z",
    "dupes": 1,
    "score": 0.276,
    "tier": 3
@@ -571,21 +571,6 @@
    "tier": 3
   },
   {
-   "id": "b47d35712994a9180cee8927ca7e3acaa2465550",
-   "title": "Flint: A visualization language for the AI era",
-   "url": "https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era",
-   "source": "Microsoft Research",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "Short chart specifications are easy to write, but often produce uninspiring results.  Flint is an open-source visualization language that offers a middle path, letting AI agents create expressive charts from compact,…",
-   "published": "2026-07-08T16:00:00.000Z",
-   "dupes": 1,
-   "score": 0.263,
-   "tier": 3
-  },
-  {
    "id": "5535aeb9eb9d5ca5e2f18868cc1d79c540821d4d",
    "title": "Data for Agents",
    "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
@@ -596,21 +581,6 @@
    "published": "2026-07-08T17:16:05.000Z",
    "dupes": 1,
    "score": 0.263,
-   "tier": 3
-  },
-  {
-   "id": "6358ddebecad305509ecfc292edf358c70626909",
-   "title": "The 6 wildest claims in Apple’s lawsuit against OpenAI",
-   "url": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "When Apple employees interviewed for jobs at OpenAI, the AI startup's hardware head allegedly asked them to show up with something unusual: components they were working on and unreleased product samples.",
-   "published": "2026-07-13T17:00:00.000Z",
-   "dupes": 1,
-   "score": 0.26,
    "tier": 3
   },
   {
@@ -625,7 +595,7 @@
    "tldr": "",
    "published": "2026-07-13T18:28:13.000Z",
    "dupes": 1,
-   "score": 0.258,
+   "score": 0.254,
    "tier": 3
   },
   {
