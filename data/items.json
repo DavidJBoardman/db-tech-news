@@ -1,6 +1,21 @@
 {
- "generated": "2026-07-15T09:27:07.266Z",
+ "generated": "2026-07-15T11:08:20.689Z",
  "items": [
+  {
+   "id": "73b57496c78a35c43a1971627589698e7123f5dd",
+   "title": "NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry",
+   "url": "https://blogs.nvidia.com/blog/japan-ecosystem-2026",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Home to leading manufacturers, robotics pioneers and infrastructure builders, Japan is one of the world’s centers of AI — building across the full stack with NVIDIA technologies.  NVIDIA and its partners in Japan are…",
+   "published": "2026-07-15T10:51:37.000Z",
+   "dupes": 1,
+   "score": 0.621,
+   "tier": 1
+  },
   {
    "id": "bba9d9e949a600e26d4b94c77e44f45ae097b9c1",
    "title": "I tricked Claude into leaking your deepest, darkest secrets",
@@ -13,8 +28,8 @@
    "tldr": "",
    "published": "2026-07-15T06:28:00.000Z",
    "dupes": 1,
-   "score": 0.584,
-   "tier": 1
+   "score": 0.589,
+   "tier": 2
   },
   {
    "id": "fef279fe207e8c0ce089da613c2f126981e0be47",
@@ -28,22 +43,7 @@
    "tldr": "",
    "published": "2026-07-14T11:46:02.000Z",
    "dupes": 1,
-   "score": 0.502,
-   "tier": 2
-  },
-  {
-   "id": "817ee0972d02565424e5e2ff98d48b681c73b51b",
-   "title": "Grok uploaded my user directory to xAI's servers",
-   "url": "https://twitter.com/a_green_being/status/2076598897779020159",
-   "source": "HN · xAI",
-   "org": [
-    "xai"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-13T13:39:59.000Z",
-   "dupes": 2,
-   "score": 0.461,
+   "score": 0.492,
    "tier": 2
   },
   {
@@ -58,7 +58,22 @@
    "tldr": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
    "published": "2026-07-14T00:00:00.000Z",
    "dupes": 2,
-   "score": 0.459,
+   "score": 0.453,
+   "tier": 2
+  },
+  {
+   "id": "817ee0972d02565424e5e2ff98d48b681c73b51b",
+   "title": "Grok uploaded my user directory to xAI's servers",
+   "url": "https://twitter.com/a_green_being/status/2076598897779020159",
+   "source": "HN · xAI",
+   "org": [
+    "xai"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-13T13:39:59.000Z",
+   "dupes": 2,
+   "score": 0.453,
    "tier": 2
   },
   {
@@ -73,7 +88,7 @@
    "tldr": "Enterprises have plenty of powerful models to choose from.  The real test is whether the AI an enterprise builds uniquely addresses the needs of the business: improving workflows, tapping into domain knowledge and…",
    "published": "2026-07-14T16:45:13.000Z",
    "dupes": 1,
-   "score": 0.459,
+   "score": 0.447,
    "tier": 2
   },
   {
@@ -88,7 +103,7 @@
    "tldr": "",
    "published": "2026-07-14T21:32:22.000Z",
    "dupes": 1,
-   "score": 0.457,
+   "score": 0.446,
    "tier": 2
   },
   {
@@ -103,7 +118,7 @@
    "tldr": "Power is AI infrastructure’s inescapable constraint.  How many tokens an AI factory can generate within a fixed power budget determines its revenue and profitability.",
    "published": "2026-07-14T15:00:20.000Z",
    "dupes": 1,
-   "score": 0.447,
+   "score": 0.436,
    "tier": 2
   },
   {
@@ -118,7 +133,7 @@
    "tldr": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
    "published": "2026-07-14T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.442,
+   "score": 0.433,
    "tier": 2
   },
   {
@@ -133,7 +148,7 @@
    "tldr": "OpenAI's first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg.  The device apparently won't have a screen, but will use a camera and additional sensors to…",
    "published": "2026-07-14T21:26:32.000Z",
    "dupes": 1,
-   "score": 0.42,
+   "score": 0.407,
    "tier": 2
   },
   {
@@ -148,7 +163,7 @@
    "tldr": "SpaceXAI's Grok Build AI coding tool was spotted uploading users' entire codebases to Google Cloud before it was reported, and the company turned it off.",
    "published": "2026-07-14T19:25:00.000Z",
    "dupes": 1,
-   "score": 0.404,
+   "score": 0.391,
    "tier": 2
   },
   {
@@ -163,7 +178,7 @@
    "tldr": "",
    "published": "2026-07-14T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.397,
+   "score": 0.39,
    "tier": 2
   },
   {
@@ -181,7 +196,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.397,
+   "score": 0.39,
    "tier": 2
   },
   {
@@ -196,8 +211,8 @@
    "tldr": "A group of 26 former Meta employees is suing the company over claims that it used AI tools to unfairly target workers on leave with layoffs, as reported earlier by Reuters.",
    "published": "2026-07-14T17:18:11.000Z",
    "dupes": 1,
-   "score": 0.388,
-   "tier": 2
+   "score": 0.376,
+   "tier": 3
   },
   {
    "id": "ec43065966072242fc7ac83c76fc6485beffa9c0",
@@ -211,7 +226,7 @@
    "tldr": "Google is announcing a big change to the Google Images homepage in honor of the platform's 25th anniversary this week.  Instead of a mostly blank page with a search bar, the homepage will soon show you a bunch of images…",
    "published": "2026-07-14T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.379,
+   "score": 0.367,
    "tier": 3
   },
   {
@@ -241,7 +256,7 @@
    "tldr": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
    "published": "2026-07-13T12:37:28.000Z",
    "dupes": 1,
-   "score": 0.362,
+   "score": 0.358,
    "tier": 3
   },
   {
@@ -256,20 +271,7 @@
    "tldr": "Demis Hassabis thinks the world needs an AI watchdog with the power to hit the brakes if frontier models become too dangerous.",
    "published": "2026-07-14T11:43:29.000Z",
    "dupes": 1,
-   "score": 0.352,
-   "tier": 3
-  },
-  {
-   "id": "e74d29ba97202e0c5832cb698e6db0e5a997c69b",
-   "title": "New York becomes the first state to enact a data center moratorium",
-   "url": "https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium",
-   "source": "The Verge AI",
-   "org": [],
-   "topic": "compute",
-   "tldr": "New hyperscale data centers can't set up shop in New York for up to a year now that Governor Kathy Hochul (D) has signed the nation's first statewide moratorium.  But a bill passed by the state legislature that could…",
-   "published": "2026-07-14T09:00:00.000Z",
-   "dupes": 1,
-   "score": 0.337,
+   "score": 0.342,
    "tier": 3
   },
   {
@@ -284,22 +286,20 @@
    "tldr": "Cryptographic code supports vital protections in modern computing systems.  Learn how a new method helps verify code as developers write it while preserving speed and adaptability as it gets implemented and evolves.",
    "published": "2026-07-13T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.333,
+   "score": 0.329,
    "tier": 3
   },
   {
-   "id": "67b0b234c48495e76edcaa2bce176201a46bd243",
-   "title": "Teachers and Local Businesses Win as Meta Expands Louisiana Data Center",
-   "url": "https://about.fb.com/news/2026/07/teachers-local-businesses-win-as-meta-expands-louisiana-data-center",
-   "source": "Meta Newsroom",
-   "org": [
-    "meta"
-   ],
+   "id": "e74d29ba97202e0c5832cb698e6db0e5a997c69b",
+   "title": "New York becomes the first state to enact a data center moratorium",
+   "url": "https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium",
+   "source": "The Verge AI",
+   "org": [],
    "topic": "compute",
-   "tldr": "We're expanding our Richland Parish, Louisiana data center to 5GW of compute capacity in a town that’s already seeing life-changing returns for teachers, local businesses, and students.  The post Teachers and Local…",
-   "published": "2026-07-13T09:30:24.000Z",
+   "tldr": "New hyperscale data centers can't set up shop in New York for up to a year now that Governor Kathy Hochul (D) has signed the nation's first statewide moratorium.  But a bill passed by the state legislature that could…",
+   "published": "2026-07-14T09:00:00.000Z",
    "dupes": 1,
-   "score": 0.305,
+   "score": 0.328,
    "tier": 3
   },
   {
@@ -333,17 +333,16 @@
    "tier": 3
   },
   {
-   "id": "e799563c0958e055c8a284e7bfa7ef2904d2b187",
-   "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-   "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-   "source": "OpenAI Blog",
+   "id": "67b0b234c48495e76edcaa2bce176201a46bd243",
+   "title": "Teachers and Local Businesses Win as Meta Expands Louisiana Data Center",
+   "url": "https://about.fb.com/news/2026/07/teachers-local-businesses-win-as-meta-expands-louisiana-data-center",
+   "source": "Meta Newsroom",
    "org": [
-    "openai",
-    "microsoft"
+    "meta"
    ],
-   "topic": "ai",
-   "tldr": "6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
-   "published": "2026-07-09T13:00:00.000Z",
+   "topic": "compute",
+   "tldr": "We're expanding our Richland Parish, Louisiana data center to 5GW of compute capacity in a town that’s already seeing life-changing returns for teachers, local businesses, and students.  The post Teachers and Local…",
+   "published": "2026-07-13T09:30:24.000Z",
    "dupes": 1,
    "score": 0.302,
    "tier": 3
@@ -389,6 +388,22 @@
    "topic": "ai",
    "tldr": "",
    "published": "2026-07-09T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.301,
+   "tier": 3
+  },
+  {
+   "id": "e799563c0958e055c8a284e7bfa7ef2904d2b187",
+   "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+   "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai",
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
+   "published": "2026-07-09T13:00:00.000Z",
    "dupes": 1,
    "score": 0.301,
    "tier": 3
@@ -469,21 +484,6 @@
    "tier": 3
   },
   {
-   "id": "de92863115274012478e22d6b4016d706e7bd2b7",
-   "title": "Helping K–12 educators build practical AI skills",
-   "url": "https://openai.com/index/k-12-educators-practical-skills",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.",
-   "published": "2026-07-08T10:00:00.000Z",
-   "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
    "id": "08e9aa519f8328638b1bd96afccd42541d2d00a8",
    "title": "Introducing Muse Spark 1.1",
    "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api",
@@ -511,22 +511,7 @@
    "tldr": "",
    "published": "2026-07-13T18:10:23.000Z",
    "dupes": 1,
-   "score": 0.293,
-   "tier": 3
-  },
-  {
-   "id": "d0f13ce9dd2e5b7dd104fab67083641905b4f0cb",
-   "title": "GeForce NOW Turns Up the Heat With New GeForce RTX 5080-Powered Toronto Server",
-   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "This GFN Thursday brings more games, more power and more ways to play on GeForce NOW.  The cloud gaming service is expanding with a new GeForce RTX 5080-powered server in Toronto, bringing dedicated high performance in…",
-   "published": "2026-07-09T13:00:55.000Z",
-   "dupes": 1,
-   "score": 0.277,
+   "score": 0.288,
    "tier": 3
   },
   {
@@ -540,6 +525,21 @@
    "topic": "ai",
    "tldr": "Generative AI",
    "published": "2026-07-09T09:56:00.000Z",
+   "dupes": 1,
+   "score": 0.276,
+   "tier": 3
+  },
+  {
+   "id": "d0f13ce9dd2e5b7dd104fab67083641905b4f0cb",
+   "title": "GeForce NOW Turns Up the Heat With New GeForce RTX 5080-Powered Toronto Server",
+   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "This GFN Thursday brings more games, more power and more ways to play on GeForce NOW.  The cloud gaming service is expanding with a new GeForce RTX 5080-powered server in Toronto, bringing dedicated high performance in…",
+   "published": "2026-07-09T13:00:55.000Z",
    "dupes": 1,
    "score": 0.276,
    "tier": 3
@@ -571,7 +571,7 @@
    "tldr": "When Apple employees interviewed for jobs at OpenAI, the AI startup's hardware head allegedly asked them to show up with something unusual: components they were working on and unreleased product samples.",
    "published": "2026-07-13T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.274,
+   "score": 0.269,
    "tier": 3
   },
   {
@@ -586,7 +586,7 @@
    "tldr": "",
    "published": "2026-07-13T18:28:13.000Z",
    "dupes": 1,
-   "score": 0.272,
+   "score": 0.267,
    "tier": 3
   },
   {
