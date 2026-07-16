@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-16T07:34:27.473Z",
+ "generated": "2026-07-16T10:01:28.851Z",
  "items": [
   {
    "id": "f42bd958467e680db7eb4b2ff6504e2974414089",
@@ -16,7 +16,7 @@
     "oss"
    ],
    "dupes": 3,
-   "score": 0.703,
+   "score": 0.682,
    "tier": 1
   },
   {
@@ -31,7 +31,7 @@
    "tldr": "General-purpose robots and autonomous machines are moving from research labs to real-world mass-market deployment, creating demand for compact, power-efficient AI supercomputers capable of running foundation models at…",
    "published": "2026-07-15T23:00:54.000Z",
    "dupes": 1,
-   "score": 0.527,
+   "score": 0.504,
    "tier": 2
   },
   {
@@ -46,7 +46,7 @@
    "tldr": "",
    "published": "2026-07-15T15:34:05.000Z",
    "dupes": 1,
-   "score": 0.491,
+   "score": 0.468,
    "tier": 2
   },
   {
@@ -61,33 +61,7 @@
    "tldr": "Algorithms & Theory",
    "published": "2026-07-15T18:06:27.000Z",
    "dupes": 1,
-   "score": 0.483,
-   "tier": 2
-  },
-  {
-   "id": "53e3149d2cc17d3edc5eb4f9e6836d13e5dc9847",
-   "title": "What building Shippy taught us about building agents",
-   "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-15T17:29:41.000Z",
-   "dupes": 1,
-   "score": 0.466,
-   "tier": 2
-  },
-  {
-   "id": "5c8332d4091eee10a8cd6ad646eedbccec92e187",
-   "title": "Model Routing Is Simple. Until It Isn’t.",
-   "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-15T17:27:01.000Z",
-   "dupes": 1,
-   "score": 0.466,
+   "score": 0.465,
    "tier": 2
   },
   {
@@ -102,7 +76,48 @@
    "tldr": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
    "published": "2026-07-15T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.465,
+   "score": 0.45,
+   "tier": 2
+  },
+  {
+   "id": "53e3149d2cc17d3edc5eb4f9e6836d13e5dc9847",
+   "title": "What building Shippy taught us about building agents",
+   "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-15T17:29:41.000Z",
+   "dupes": 1,
+   "score": 0.448,
+   "tier": 2
+  },
+  {
+   "id": "5c8332d4091eee10a8cd6ad646eedbccec92e187",
+   "title": "Model Routing Is Simple. Until It Isn’t.",
+   "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-15T17:27:01.000Z",
+   "dupes": 1,
+   "score": 0.447,
+   "tier": 2
+  },
+  {
+   "id": "ee230258f27f8a0de48925de53f81261735fd525",
+   "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+   "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+   "published": "2026-07-15T10:00:00.000Z",
+   "dupes": 1,
+   "score": 0.439,
    "tier": 2
   },
   {
@@ -118,37 +133,7 @@
    "tldr": "",
    "published": "2026-07-15T19:42:53.000Z",
    "dupes": 1,
-   "score": 0.454,
-   "tier": 2
-  },
-  {
-   "id": "ee230258f27f8a0de48925de53f81261735fd525",
-   "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-   "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
-   "published": "2026-07-15T10:00:00.000Z",
-   "dupes": 1,
-   "score": 0.452,
-   "tier": 2
-  },
-  {
-   "id": "36b2bbf599ed87e044a2110daf9dc6841ba80776",
-   "title": "xAI sues a man for using Grok to generate CSAM ‘deepfakes’",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
-   "source": "The Verge AI",
-   "org": [
-    "xai"
-   ],
-   "topic": "ai",
-   "tldr": "The Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company's Grok AI chatbot to generate child sexual abuse material (CSAM).",
-   "published": "2026-07-15T21:33:20.000Z",
-   "dupes": 1,
-   "score": 0.438,
+   "score": 0.43,
    "tier": 2
   },
   {
@@ -163,7 +148,22 @@
    "tldr": "Home to leading manufacturers, robotics pioneers, infrastructure builders and iconic gaming companies, of course, Japan is one of the world’s centers of AI — building across the full stack with NVIDIA technologies.…",
    "published": "2026-07-15T10:51:37.000Z",
    "dupes": 1,
-   "score": 0.433,
+   "score": 0.418,
+   "tier": 2
+  },
+  {
+   "id": "36b2bbf599ed87e044a2110daf9dc6841ba80776",
+   "title": "xAI sues a man for using Grok to generate CSAM ‘deepfakes’",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
+   "source": "The Verge AI",
+   "org": [
+    "xai"
+   ],
+   "topic": "ai",
+   "tldr": "The Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company's Grok AI chatbot to generate child sexual abuse material (CSAM).",
+   "published": "2026-07-15T21:33:20.000Z",
+   "dupes": 1,
+   "score": 0.417,
    "tier": 2
   },
   {
@@ -178,7 +178,7 @@
    "tldr": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
    "published": "2026-07-14T00:00:00.000Z",
    "dupes": 2,
-   "score": 0.404,
+   "score": 0.4,
    "tier": 2
   },
   {
@@ -193,23 +193,8 @@
    "tldr": "OpenAI is finally releasing some hardware.  No, it isn't the mysterious AI-powered device the company is developing with former Apple designer Jony Ive, a project already tangled up in a messy lawsuit.",
    "published": "2026-07-15T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.392,
+   "score": 0.375,
    "tier": 2
-  },
-  {
-   "id": "51cbc481ce9374f541cb4b0199098065154a6771",
-   "title": "Elon Musk quietly buys a $1 billion gas turbine company to power Grok",
-   "url": "https://electrek.co/2026/07/14/musk-buys-gas-turbine-company-apr-energy-grok",
-   "source": "HN · xAI",
-   "org": [
-    "xai"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-15T13:53:33.000Z",
-   "dupes": 1,
-   "score": 0.369,
-   "tier": 3
   },
   {
    "id": "210f6726bf4a719a82160adea65b6e8851b89900",
@@ -221,7 +206,7 @@
    "tldr": "",
    "published": "2026-07-15T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.366,
+   "score": 0.357,
    "tier": 3
   },
   {
@@ -234,7 +219,7 @@
    "tldr": "",
    "published": "2026-07-15T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.366,
+   "score": 0.357,
    "tier": 3
   },
   {
@@ -249,7 +234,22 @@
    "tldr": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
    "published": "2026-07-14T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.361,
+   "score": 0.355,
+   "tier": 3
+  },
+  {
+   "id": "51cbc481ce9374f541cb4b0199098065154a6771",
+   "title": "Elon Musk quietly buys a $1 billion gas turbine company to power Grok",
+   "url": "https://electrek.co/2026/07/14/musk-buys-gas-turbine-company-apr-energy-grok",
+   "source": "HN · xAI",
+   "org": [
+    "xai"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-15T13:53:33.000Z",
+   "dupes": 1,
+   "score": 0.353,
    "tier": 3
   },
   {
@@ -264,7 +264,7 @@
    "tldr": "Enterprises have plenty of powerful models to choose from.  The real test is whether the AI an enterprise builds uniquely addresses the needs of the business: improving workflows, tapping into domain knowledge and…",
    "published": "2026-07-14T16:45:13.000Z",
    "dupes": 1,
-   "score": 0.353,
+   "score": 0.346,
    "tier": 3
   },
   {
@@ -279,7 +279,7 @@
    "tldr": "Power is AI infrastructure’s inescapable constraint.  How many tokens an AI factory can generate within a fixed power budget determines its revenue and profitability.",
    "published": "2026-07-14T15:00:20.000Z",
    "dupes": 1,
-   "score": 0.348,
+   "score": 0.342,
    "tier": 3
   },
   {
@@ -294,7 +294,7 @@
    "tldr": "",
    "published": "2026-07-14T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.341,
+   "score": 0.337,
    "tier": 3
   },
   {
@@ -312,7 +312,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.341,
+   "score": 0.337,
    "tier": 3
   },
   {
@@ -327,7 +327,7 @@
    "tldr": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
    "published": "2026-07-13T12:37:28.000Z",
    "dupes": 1,
-   "score": 0.327,
+   "score": 0.324,
    "tier": 3
   },
   {
@@ -377,48 +377,18 @@
    "tier": 3
   },
   {
-   "id": "5941cef110c0f46967cf712c0f80d655dc0997fb",
-   "title": "ChatGPT is now a partner for your most ambitious work",
-   "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-   "source": "OpenAI Blog",
+   "id": "35de7256d0278847f165c9a32d6900eeaec80df8",
+   "title": "Verifying Rust cryptography in SymCrypt, from standards to code",
+   "url": "https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code",
+   "source": "Microsoft Research",
    "org": [
-    "openai"
+    "microsoft"
    ],
    "topic": "ai",
-   "tldr": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
-   "published": "2026-07-09T10:00:00.000Z",
+   "tldr": "Cryptographic code supports vital protections in modern computing systems.  Learn how a new method helps verify code as developers write it while preserving speed and adaptability as it gets implemented and evolves.",
+   "published": "2026-07-13T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
-   "id": "54ee76ae9206d639c0800316ef4ab1a52b70d689",
-   "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-   "url": "https://openai.com/index/gpt-5-6",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
-   "published": "2026-07-09T10:00:00.000Z",
-   "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
-   "id": "8fd74bd3f51991b52530ef13d145e06dd43ed5e3",
-   "title": "GPT-5.5 Bio Bug Bounty",
-   "url": "https://openai.com/index/bio-bug-bounty",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Details about the OpenAI Bio Bounty program",
-   "published": "2026-07-09T10:00:00.000Z",
-   "dupes": 1,
-   "score": 0.301,
+   "score": 0.29,
    "tier": 3
   },
   {
@@ -433,22 +403,7 @@
    "tldr": "OpenAI's first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg.  The device apparently won't have a screen, but will use a camera and additional sensors to…",
    "published": "2026-07-14T21:26:32.000Z",
    "dupes": 1,
-   "score": 0.294,
-   "tier": 3
-  },
-  {
-   "id": "35de7256d0278847f165c9a32d6900eeaec80df8",
-   "title": "Verifying Rust cryptography in SymCrypt, from standards to code",
-   "url": "https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code",
-   "source": "Microsoft Research",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "Cryptographic code supports vital protections in modern computing systems.  Learn how a new method helps verify code as developers write it while preserving speed and adaptability as it gets implemented and evolves.",
-   "published": "2026-07-13T16:00:00.000Z",
-   "dupes": 1,
-   "score": 0.293,
+   "score": 0.286,
    "tier": 3
   },
   {
@@ -463,37 +418,7 @@
    "tldr": "SpaceXAI's Grok Build AI coding tool was spotted uploading users' entire codebases to Google Cloud before it was reported, and the company turned it off.",
    "published": "2026-07-14T19:25:00.000Z",
    "dupes": 1,
-   "score": 0.287,
-   "tier": 3
-  },
-  {
-   "id": "a9b65061bfa7a7eb5768ecd0d0a503e3e83dcd94",
-   "title": "Meta accused of using biased AI targeting for mass layoffs",
-   "url": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
-   "source": "The Verge AI",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "A group of 26 former Meta employees is suing the company over claims that it used AI tools to unfairly target workers on leave with layoffs, as reported earlier by Reuters.",
-   "published": "2026-07-14T17:18:11.000Z",
-   "dupes": 1,
-   "score": 0.28,
-   "tier": 3
-  },
-  {
-   "id": "ff9f8581ffa8dc4471070d07e5362a166d948b25",
-   "title": "SensorFM: Towards a general intelligence and interface for wearable health data",
-   "url": "https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data",
-   "source": "Google Research",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Generative AI",
-   "published": "2026-07-09T09:56:00.000Z",
-   "dupes": 1,
-   "score": 0.276,
+   "score": 0.279,
    "tier": 3
   },
   {
@@ -512,18 +437,18 @@
    "tier": 3
   },
   {
-   "id": "ec43065966072242fc7ac83c76fc6485beffa9c0",
-   "title": "The Google Images homepage will recommend photos even before you search",
-   "url": "https://www.theverge.com/tech/965138/google-images-homepage-ai-overviews-search-nano-banana",
+   "id": "a9b65061bfa7a7eb5768ecd0d0a503e3e83dcd94",
+   "title": "Meta accused of using biased AI targeting for mass layoffs",
+   "url": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
    "source": "The Verge AI",
    "org": [
-    "google"
+    "meta"
    ],
    "topic": "ai",
-   "tldr": "Google is announcing a big change to the Google Images homepage in honor of the platform's 25th anniversary this week.  Instead of a mostly blank page with a search bar, the homepage will soon show you a bunch of images…",
-   "published": "2026-07-14T16:00:00.000Z",
+   "tldr": "A group of 26 former Meta employees is suing the company over claims that it used AI tools to unfairly target workers on leave with layoffs, as reported earlier by Reuters.",
+   "published": "2026-07-14T17:18:11.000Z",
    "dupes": 1,
-   "score": 0.276,
+   "score": 0.273,
    "tier": 3
   },
   {
@@ -538,20 +463,22 @@
    "tldr": "We're expanding our Richland Parish, Louisiana data center to 5GW of compute capacity in a town that’s already seeing life-changing returns for teachers, local businesses, and students.  The post Teachers and Local…",
    "published": "2026-07-13T09:30:24.000Z",
    "dupes": 1,
-   "score": 0.274,
+   "score": 0.271,
    "tier": 3
   },
   {
-   "id": "145fbd552c7570091ad5e1a261a1719c4bffd75e",
-   "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
-   "url": "https://huggingface.co/blog/torch-attention-profile",
-   "source": "Hugging Face Blog",
-   "org": [],
+   "id": "ec43065966072242fc7ac83c76fc6485beffa9c0",
+   "title": "The Google Images homepage will recommend photos even before you search",
+   "url": "https://www.theverge.com/tech/965138/google-images-homepage-ai-overviews-search-nano-banana",
+   "source": "The Verge AI",
+   "org": [
+    "google"
+   ],
    "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-10T00:00:00.000Z",
+   "tldr": "Google is announcing a big change to the Google Images homepage in honor of the platform's 25th anniversary this week.  Instead of a mostly blank page with a search bar, the homepage will soon show you a bunch of images…",
+   "published": "2026-07-14T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.264,
+   "score": 0.269,
    "tier": 3
   },
   {
@@ -570,6 +497,19 @@
    "tier": 3
   },
   {
+   "id": "145fbd552c7570091ad5e1a261a1719c4bffd75e",
+   "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+   "url": "https://huggingface.co/blog/torch-attention-profile",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-10T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.263,
+   "tier": 3
+  },
+  {
    "id": "bb70d7cb25761379862fe0505ed53940eb3dc0c0",
    "title": "DeepSeek aims to make its own AI chip",
    "url": "https://www.proactiveinvestors.com/companies/news/1095178/deepseek-makes-pivot-that-should-put-silicon-valley-on-high-alert-1095178.html",
@@ -581,7 +521,7 @@
    "tldr": "",
    "published": "2026-07-09T14:42:21.000Z",
    "dupes": 1,
-   "score": 0.216,
+   "score": 0.213,
    "tier": 3
   }
  ]
