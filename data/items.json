@@ -1,6 +1,36 @@
 {
- "generated": "2026-07-16T15:27:55.837Z",
+ "generated": "2026-07-16T16:49:07.344Z",
  "items": [
+  {
+   "id": "02aed8c47c5a1442813f168671ff356349e59ac7",
+   "title": "Kimi K3 is now live",
+   "url": "https://www.kimi.com/en",
+   "source": "Hacker News",
+   "org": [
+    "moonshot"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-16T14:46:05.000Z",
+   "dupes": 2,
+   "score": 0.674,
+   "tier": 1
+  },
+  {
+   "id": "8fe39edff791751de0c2c6545e4ca710ed977e69",
+   "title": "Why teens deserve access to safe AI",
+   "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
+   "published": "2026-07-16T16:00:00.000Z",
+   "dupes": 1,
+   "score": 0.639,
+   "tier": 2
+  },
   {
    "id": "f42bd958467e680db7eb4b2ff6504e2974414089",
    "title": "Grok Build is open source",
@@ -16,22 +46,22 @@
     "oss"
    ],
    "dupes": 3,
-   "score": 0.643,
-   "tier": 1
+   "score": 0.635,
+   "tier": 2
   },
   {
-   "id": "02aed8c47c5a1442813f168671ff356349e59ac7",
-   "title": "Kimi K3 is now live",
-   "url": "https://www.kimi.com/en",
-   "source": "Hacker News",
+   "id": "ff8c14b3821e60f138bcff504183a61f06cea6c5",
+   "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+   "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+   "source": "Hugging Face Blog",
    "org": [
-    "moonshot"
+    "nvidia"
    ],
    "topic": "ai",
    "tldr": "",
-   "published": "2026-07-16T14:46:05.000Z",
-   "dupes": 2,
-   "score": 0.632,
+   "published": "2026-07-16T16:01:21.000Z",
+   "dupes": 1,
+   "score": 0.602,
    "tier": 2
   },
   {
@@ -46,7 +76,7 @@
    "tldr": "Onimusha: Way of the Sword is coming to GeForce NOW at launch, with the playable demo available this week.  It’s joined by Denshattack!",
    "published": "2026-07-16T13:00:34.000Z",
    "dupes": 1,
-   "score": 0.593,
+   "score": 0.577,
    "tier": 2
   },
   {
@@ -61,7 +91,25 @@
    "tldr": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
    "published": "2026-07-16T09:30:42.000Z",
    "dupes": 1,
-   "score": 0.578,
+   "score": 0.564,
+   "tier": 2
+  },
+  {
+   "id": "a54ecc222b144293b804f53615ccd607e5bb928c",
+   "title": "Microsoft Comic Chat is now open source",
+   "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source",
+   "source": "Hacker News",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-16T16:06:27.000Z",
+   "badges": [
+    "oss"
+   ],
+   "dupes": 1,
+   "score": 0.556,
    "tier": 2
   },
   {
@@ -74,7 +122,22 @@
    "tldr": "",
    "published": "2026-07-16T11:49:48.000Z",
    "dupes": 1,
-   "score": 0.567,
+   "score": 0.551,
+   "tier": 2
+  },
+  {
+   "id": "79ed56faeda923460c76bbd8f14b35bb7b7cccb2",
+   "title": "Google is renaming NotebookLM to Gemini Notebook",
+   "url": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
+   "source": "The Verge AI",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Google is giving its AI note-taking app a new name.  The company announced on Thursday that NotebookLM is becoming Gemini Notebook, but will remain a standalone app even as it integrates more deeply across Gemini and…",
+   "published": "2026-07-16T16:00:00.000Z",
+   "dupes": 1,
+   "score": 0.539,
    "tier": 2
   },
   {
@@ -89,7 +152,7 @@
    "tldr": "Parents using Instagram supervision tools will now be notified if their teen discusses suicide or self-harm with Meta AI.  The post Alerting Parents if Teens Show Signs of Distress in Conversations With Meta AI appeared…",
    "published": "2026-07-16T11:00:45.000Z",
    "dupes": 1,
-   "score": 0.545,
+   "score": 0.53,
    "tier": 2
   },
   {
@@ -105,7 +168,7 @@
    "tldr": "",
    "published": "2026-07-16T08:03:35.000Z",
    "dupes": 1,
-   "score": 0.526,
+   "score": 0.523,
    "tier": 2
   },
   {
@@ -120,7 +183,7 @@
    "tldr": "1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords.",
    "published": "2026-07-16T13:00:00.000Z",
    "dupes": 1,
-   "score": 0.518,
+   "score": 0.502,
    "tier": 2
   },
   {
@@ -135,8 +198,23 @@
    "tldr": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc's digital antitrust rules.",
    "published": "2026-07-16T12:06:51.000Z",
    "dupes": 1,
-   "score": 0.508,
+   "score": 0.492,
    "tier": 2
+  },
+  {
+   "id": "6f16a999c8ddd889e881e535b45bac9cfa6b8f4a",
+   "title": "How Cars24 scales conversations and builds faster with OpenAI",
+   "url": "https://openai.com/index/cars24",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
+   "published": "2026-07-16T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.483,
+   "tier": 3
   },
   {
    "id": "990573e03bc3f9b0dfdeac45454d68cf68205d14",
@@ -150,8 +228,8 @@
    "tldr": "General-purpose robots and autonomous machines are moving from research labs to real-world mass-market deployment, creating demand for compact, power-efficient AI supercomputers capable of running foundation models at…",
    "published": "2026-07-15T23:00:54.000Z",
    "dupes": 1,
-   "score": 0.461,
-   "tier": 2
+   "score": 0.451,
+   "tier": 3
   },
   {
    "id": "d8ed319939f5c0ae5dfc2f30e271e3740f7a3e77",
@@ -163,8 +241,8 @@
    "tldr": "",
    "published": "2026-07-16T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.455,
-   "tier": 2
+   "score": 0.446,
+   "tier": 3
   },
   {
    "id": "dd743dda0e19af76c6fc02b6e7f7973070dc7662",
@@ -178,8 +256,8 @@
    "tldr": "Algorithms & Theory",
    "published": "2026-07-15T18:06:27.000Z",
    "dupes": 1,
-   "score": 0.429,
-   "tier": 2
+   "score": 0.421,
+   "tier": 3
   },
   {
    "id": "1e97faa490facd0c80775009cd29953c3036ce5c",
@@ -193,8 +271,8 @@
    "tldr": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
    "published": "2026-07-15T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.422,
-   "tier": 2
+   "score": 0.415,
+   "tier": 3
   },
   {
    "id": "ee230258f27f8a0de48925de53f81261735fd525",
@@ -208,7 +286,7 @@
    "tldr": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
    "published": "2026-07-15T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.413,
+   "score": 0.407,
    "tier": 3
   },
   {
@@ -221,7 +299,7 @@
    "tldr": "",
    "published": "2026-07-15T17:29:41.000Z",
    "dupes": 1,
-   "score": 0.413,
+   "score": 0.405,
    "tier": 3
   },
   {
@@ -234,7 +312,7 @@
    "tldr": "",
    "published": "2026-07-15T17:27:01.000Z",
    "dupes": 1,
-   "score": 0.412,
+   "score": 0.405,
    "tier": 3
   },
   {
@@ -249,7 +327,7 @@
    "tldr": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
    "published": "2026-07-14T00:00:00.000Z",
    "dupes": 2,
-   "score": 0.393,
+   "score": 0.391,
    "tier": 3
   },
   {
@@ -264,7 +342,7 @@
    "tldr": "Home to leading manufacturers, robotics pioneers, infrastructure builders and iconic gaming companies, of course, Japan is one of the world’s centers of AI — building across the full stack with NVIDIA technologies.…",
    "published": "2026-07-15T10:51:37.000Z",
    "dupes": 1,
-   "score": 0.391,
+   "score": 0.385,
    "tier": 3
   },
   {
@@ -280,7 +358,7 @@
    "tldr": "",
    "published": "2026-07-15T19:42:53.000Z",
    "dupes": 1,
-   "score": 0.386,
+   "score": 0.376,
    "tier": 3
   },
   {
@@ -295,7 +373,7 @@
    "tldr": "The Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company's Grok AI chatbot to generate child sexual abuse material (CSAM).",
    "published": "2026-07-15T21:33:20.000Z",
    "dupes": 1,
-   "score": 0.376,
+   "score": 0.367,
    "tier": 3
   },
   {
@@ -310,7 +388,33 @@
    "tldr": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
    "published": "2026-07-14T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.345,
+   "score": 0.342,
+   "tier": 3
+  },
+  {
+   "id": "210f6726bf4a719a82160adea65b6e8851b89900",
+   "title": "Welcome Inkling by Thinking Machines",
+   "url": "https://huggingface.co/blog/thinkingmachines-inkling",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-15T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.335,
+   "tier": 3
+  },
+  {
+   "id": "5d7569c2afe37a81e25967f56fc4d6776a9f22a5",
+   "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+   "url": "https://huggingface.co/blog/real-world-voiceeq",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-15T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.335,
    "tier": 3
   },
   {
@@ -325,33 +429,7 @@
    "tldr": "OpenAI is finally releasing some hardware.  No, it isn't the mysterious AI-powered device the company is developing with former Apple designer Jony Ive, a project already tangled up in a messy lawsuit.",
    "published": "2026-07-15T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.342,
-   "tier": 3
-  },
-  {
-   "id": "210f6726bf4a719a82160adea65b6e8851b89900",
-   "title": "Welcome Inkling by Thinking Machines",
-   "url": "https://huggingface.co/blog/thinkingmachines-inkling",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-15T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.339,
-   "tier": 3
-  },
-  {
-   "id": "5d7569c2afe37a81e25967f56fc4d6776a9f22a5",
-   "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
-   "url": "https://huggingface.co/blog/real-world-voiceeq",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-15T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.339,
+   "score": 0.335,
    "tier": 3
   },
   {
@@ -366,7 +444,7 @@
    "tldr": "Enterprises have plenty of powerful models to choose from.  The real test is whether the AI an enterprise builds uniquely addresses the needs of the business: improving workflows, tapping into domain knowledge and…",
    "published": "2026-07-14T16:45:13.000Z",
    "dupes": 1,
-   "score": 0.333,
+   "score": 0.33,
    "tier": 3
   },
   {
@@ -381,7 +459,7 @@
    "tldr": "",
    "published": "2026-07-14T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.33,
+   "score": 0.329,
    "tier": 3
   },
   {
@@ -399,7 +477,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.33,
+   "score": 0.329,
    "tier": 3
   },
   {
@@ -414,22 +492,7 @@
    "tldr": "Power is AI infrastructure’s inescapable constraint.  How many tokens an AI factory can generate within a fixed power budget determines its revenue and profitability.",
    "published": "2026-07-14T15:00:20.000Z",
    "dupes": 1,
-   "score": 0.329,
-   "tier": 3
-  },
-  {
-   "id": "51cbc481ce9374f541cb4b0199098065154a6771",
-   "title": "Elon Musk quietly buys a $1 billion gas turbine company to power Grok",
-   "url": "https://electrek.co/2026/07/14/musk-buys-gas-turbine-company-apr-energy-grok",
-   "source": "HN · xAI",
-   "org": [
-    "xai"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-15T13:53:33.000Z",
-   "dupes": 1,
-   "score": 0.322,
+   "score": 0.326,
    "tier": 3
   },
   {
@@ -444,7 +507,22 @@
    "tldr": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
    "published": "2026-07-13T12:37:28.000Z",
    "dupes": 1,
-   "score": 0.32,
+   "score": 0.319,
+   "tier": 3
+  },
+  {
+   "id": "51cbc481ce9374f541cb4b0199098065154a6771",
+   "title": "Elon Musk quietly buys a $1 billion gas turbine company to power Grok",
+   "url": "https://electrek.co/2026/07/14/musk-buys-gas-turbine-company-apr-energy-grok",
+   "source": "HN · xAI",
+   "org": [
+    "xai"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-15T13:53:33.000Z",
+   "dupes": 1,
+   "score": 0.315,
    "tier": 3
   },
   {
@@ -489,22 +567,7 @@
    "tldr": "Cryptographic code supports vital protections in modern computing systems.  Learn how a new method helps verify code as developers write it while preserving speed and adaptability as it gets implemented and evolves.",
    "published": "2026-07-13T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.285,
-   "tier": 3
-  },
-  {
-   "id": "dc52ec30e5cc85731c6ba7f0b025dfcd6eefdd76",
-   "title": "OpenAI may announce a ChatGPT smart speaker this year",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI's first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg.  The device apparently won't have a screen, but will use a camera and additional sensors to…",
-   "published": "2026-07-14T21:26:32.000Z",
-   "dupes": 1,
-   "score": 0.269,
+   "score": 0.284,
    "tier": 3
   },
   {
@@ -523,33 +586,18 @@
    "tier": 3
   },
   {
-   "id": "2cc0275fcceef65262e6360e09a5c51e754854ad",
-   "title": "SpaceXAI’s Grok programming tool was uploading its users’ entire codebase to cloud storage",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
+   "id": "dc52ec30e5cc85731c6ba7f0b025dfcd6eefdd76",
+   "title": "OpenAI may announce a ChatGPT smart speaker this year",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
    "source": "The Verge AI",
    "org": [
-    "xai"
+    "openai"
    ],
    "topic": "ai",
-   "tldr": "SpaceXAI's Grok Build AI coding tool was spotted uploading users' entire codebases to Google Cloud before it was reported, and the company turned it off.",
-   "published": "2026-07-14T19:25:00.000Z",
+   "tldr": "OpenAI's first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg.  The device apparently won't have a screen, but will use a camera and additional sensors to…",
+   "published": "2026-07-14T21:26:32.000Z",
    "dupes": 1,
-   "score": 0.264,
-   "tier": 3
-  },
-  {
-   "id": "7e8f553fee7588efb0f3228471d4dea7e735e7ee",
-   "title": "Aurora 1.5: Extending open foundation models for weather and Earth-system applications",
-   "url": "https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications",
-   "source": "Microsoft Research",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "5 adds 22 more variables, hourly temporal resolution, and probabilistic ensemble forecasting to the Aurora foundation model, making it more useful for real-world weather, climate, and energy applications.  5: Extending…",
-   "published": "2026-07-09T16:46:22.000Z",
-   "dupes": 1,
-   "score": 0.263,
+   "score": 0.266,
    "tier": 3
   },
   {
@@ -566,18 +614,18 @@
    "tier": 3
   },
   {
-   "id": "a9b65061bfa7a7eb5768ecd0d0a503e3e83dcd94",
-   "title": "Meta accused of using biased AI targeting for mass layoffs",
-   "url": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
+   "id": "2cc0275fcceef65262e6360e09a5c51e754854ad",
+   "title": "SpaceXAI’s Grok programming tool was uploading its users’ entire codebase to cloud storage",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
    "source": "The Verge AI",
    "org": [
-    "meta"
+    "xai"
    ],
    "topic": "ai",
-   "tldr": "A group of 26 former Meta employees is suing the company over claims that it used AI tools to unfairly target workers on leave with layoffs, as reported earlier by Reuters.",
-   "published": "2026-07-14T17:18:11.000Z",
+   "tldr": "SpaceXAI's Grok Build AI coding tool was spotted uploading users' entire codebases to Google Cloud before it was reported, and the company turned it off.",
+   "published": "2026-07-14T19:25:00.000Z",
    "dupes": 1,
-   "score": 0.259,
+   "score": 0.261,
    "tier": 3
   }
  ]
