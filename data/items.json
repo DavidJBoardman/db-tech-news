@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-19T18:57:47.440Z",
+ "generated": "2026-07-19T20:04:45.446Z",
  "items": [
   {
    "id": "3aec985379c866b43df4ffacf75af348c8188a21",
@@ -13,7 +13,7 @@
    "tldr": "",
    "published": "2026-07-19T16:02:25.000Z",
    "dupes": 2,
-   "score": 0.591,
+   "score": 0.585,
    "tier": 1
   },
   {
@@ -28,7 +28,7 @@
    "tldr": "",
    "published": "2026-07-19T08:44:57.000Z",
    "dupes": 1,
-   "score": 0.586,
+   "score": 0.576,
    "tier": 2
   },
   {
@@ -43,7 +43,7 @@
    "tldr": "",
    "published": "2026-07-19T10:03:23.000Z",
    "dupes": 1,
-   "score": 0.517,
+   "score": 0.51,
    "tier": 2
   },
   {
@@ -58,7 +58,7 @@
    "tldr": "",
    "published": "2026-07-19T07:54:39.000Z",
    "dupes": 1,
-   "score": 0.486,
+   "score": 0.478,
    "tier": 2
   },
   {
@@ -73,7 +73,7 @@
    "tldr": "",
    "published": "2026-07-18T17:32:40.000Z",
    "dupes": 1,
-   "score": 0.459,
+   "score": 0.448,
    "tier": 2
   },
   {
@@ -88,7 +88,7 @@
    "tldr": "",
    "published": "2026-07-19T08:25:30.000Z",
    "dupes": 1,
-   "score": 0.424,
+   "score": 0.414,
    "tier": 2
   },
   {
@@ -118,7 +118,7 @@
    "tldr": "Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers.  The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and founded multiple schools…",
    "published": "2026-07-18T20:54:42.000Z",
    "dupes": 1,
-   "score": 0.35,
+   "score": 0.343,
    "tier": 2
   },
   {
@@ -133,7 +133,7 @@
    "tldr": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
    "published": "2026-07-17T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.339,
+   "score": 0.337,
    "tier": 2
   },
   {
@@ -148,7 +148,7 @@
    "tldr": "",
    "published": "2026-07-18T19:37:04.000Z",
    "dupes": 1,
-   "score": 0.333,
+   "score": 0.327,
    "tier": 2
   },
   {
@@ -163,7 +163,7 @@
    "tldr": "",
    "published": "2026-07-17T14:21:51.000Z",
    "dupes": 1,
-   "score": 0.333,
+   "score": 0.326,
    "tier": 2
   },
   {
@@ -178,7 +178,7 @@
    "tldr": "Lowest cost per token from extreme codesign maximizes intelligence per dollar for post-training in the agentic era.",
    "published": "2026-07-17T15:00:14.000Z",
    "dupes": 1,
-   "score": 0.322,
+   "score": 0.32,
    "tier": 2
   },
   {
@@ -193,7 +193,7 @@
    "tldr": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
    "published": "2026-07-16T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.32,
+   "score": 0.319,
    "tier": 2
   },
   {
@@ -212,21 +212,6 @@
    "tier": 3
   },
   {
-   "id": "a0bbc2c6e6f2a453cca78f56cf04b51edea2a577",
-   "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-   "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-   "source": "Hugging Face Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-17T15:57:54.000Z",
-   "dupes": 1,
-   "score": 0.312,
-   "tier": 3
-  },
-  {
    "id": "6f16a999c8ddd889e881e535b45bac9cfa6b8f4a",
    "title": "How Cars24 scales conversations and builds faster with OpenAI",
    "url": "https://openai.com/index/cars24",
@@ -238,7 +223,22 @@
    "tldr": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
    "published": "2026-07-16T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.311,
+   "score": 0.31,
+   "tier": 3
+  },
+  {
+   "id": "a0bbc2c6e6f2a453cca78f56cf04b51edea2a577",
+   "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+   "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+   "source": "Hugging Face Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-17T15:57:54.000Z",
+   "dupes": 1,
+   "score": 0.31,
    "tier": 3
   },
   {
@@ -253,7 +253,7 @@
    "tldr": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
    "published": "2026-07-15T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.307,
+   "score": 0.306,
    "tier": 3
   },
   {
@@ -395,19 +395,6 @@
    "tier": 3
   },
   {
-   "id": "4babaf3e269b6d7d73f107a64fd0229d09882ad9",
-   "title": "Newer Models, Same Advantage",
-   "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-16T11:49:48.000Z",
-   "dupes": 1,
-   "score": 0.279,
-   "tier": 3
-  },
-  {
    "id": "a9eb2494bb7238b8ff603c9e1ce3e760fc79408d",
    "title": "Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize",
    "url": "https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize",
@@ -438,6 +425,19 @@
    "tier": 3
   },
   {
+   "id": "4babaf3e269b6d7d73f107a64fd0229d09882ad9",
+   "title": "Newer Models, Same Advantage",
+   "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-16T11:49:48.000Z",
+   "dupes": 1,
+   "score": 0.278,
+   "tier": 3
+  },
+  {
    "id": "d8ed319939f5c0ae5dfc2f30e271e3740f7a3e77",
    "title": "Security incident disclosure — July 2026",
    "url": "https://huggingface.co/blog/security-incident-july-2026",
@@ -460,7 +460,7 @@
    "tldr": "",
    "published": "2026-07-15T17:29:41.000Z",
    "dupes": 1,
-   "score": 0.271,
+   "score": 0.27,
    "tier": 3
   },
   {
@@ -473,7 +473,7 @@
    "tldr": "",
    "published": "2026-07-15T17:27:01.000Z",
    "dupes": 1,
-   "score": 0.271,
+   "score": 0.27,
    "tier": 3
   },
   {
@@ -514,7 +514,7 @@
    "tldr": "Parents using Instagram supervision tools will now be notified if their teen discusses suicide or self-harm with Meta AI.  The post Alerting Parents if Teens Show Signs of Distress in Conversations With Meta AI appeared…",
    "published": "2026-07-16T11:00:45.000Z",
    "dupes": 1,
-   "score": 0.266,
+   "score": 0.265,
    "tier": 3
   },
   {
@@ -533,21 +533,6 @@
    "tier": 3
   },
   {
-   "id": "a49eed2391dadc37b36a8783a642fbc84c3cea1b",
-   "title": "Apple’s plot to crush OpenAI",
-   "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Apple is suing OpenAI.  The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done.",
-   "published": "2026-07-17T17:41:32.000Z",
-   "dupes": 1,
-   "score": 0.252,
-   "tier": 3
-  },
-  {
    "id": "67b0b234c48495e76edcaa2bce176201a46bd243",
    "title": "Teachers and Local Businesses Win as Meta Expands Louisiana Data Center",
    "url": "https://about.fb.com/news/2026/07/teachers-local-businesses-win-as-meta-expands-louisiana-data-center",
@@ -563,6 +548,21 @@
    "tier": 3
   },
   {
+   "id": "a49eed2391dadc37b36a8783a642fbc84c3cea1b",
+   "title": "Apple’s plot to crush OpenAI",
+   "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+   "source": "The Verge AI",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Apple is suing OpenAI.  The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done.",
+   "published": "2026-07-17T17:41:32.000Z",
+   "dupes": 1,
+   "score": 0.25,
+   "tier": 3
+  },
+  {
    "id": "4842ef1dee6755b5d568ba8bf6fd2e42569f94b7",
    "title": "Kimi K3 may be an important inflection point for AI",
    "url": "https://twitter.com/GavinSBaker/status/2078110934740980193",
@@ -574,7 +574,7 @@
    "tldr": "",
    "published": "2026-07-17T13:39:23.000Z",
    "dupes": 1,
-   "score": 0.237,
+   "score": 0.235,
    "tier": 3
   },
   {
@@ -589,7 +589,7 @@
    "tldr": "",
    "published": "2026-07-16T20:09:46.000Z",
    "dupes": 1,
-   "score": 0.223,
+   "score": 0.221,
    "tier": 3
   },
   {
@@ -604,7 +604,7 @@
    "tldr": "Google is giving its AI note-taking app a new name.  The company announced on Thursday that NotebookLM is becoming Gemini Notebook, but will remain a standalone app even as it integrates more deeply across Gemini and…",
    "published": "2026-07-16T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.22,
+   "score": 0.219,
    "tier": 3
   },
   {
@@ -634,7 +634,7 @@
    "tldr": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc's digital antitrust rules.",
    "published": "2026-07-16T12:06:51.000Z",
    "dupes": 1,
-   "score": 0.217,
+   "score": 0.216,
    "tier": 3
   },
   {
