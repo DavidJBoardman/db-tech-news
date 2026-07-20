@@ -1,6 +1,21 @@
 {
- "generated": "2026-07-20T08:21:49.880Z",
+ "generated": "2026-07-20T11:19:49.374Z",
  "items": [
+  {
+   "id": "aa4b1d95c45994cd42216985e72c406b594aa3b7",
+   "title": "Bristol Myers Squibb Building Life Science Industry’s Most Advanced AI Factory on NVIDIA Vera Rubin",
+   "url": "https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "” That’s two things in one name: pharmaceutical giant Bristol Myers Squibb (BMS) already runs one of the largest AI clusters in life sciences, with serious results to show for it.  And they’re doubling down.",
+   "published": "2026-07-20T10:59:23.000Z",
+   "dupes": 1,
+   "score": 0.62,
+   "tier": 1
+  },
   {
    "id": "f3a7c00814937f7b4af680a6b479360b9649f4c2",
    "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
@@ -13,8 +28,8 @@
    "tldr": "",
    "published": "2026-07-20T02:51:16.000Z",
    "dupes": 1,
-   "score": 0.543,
-   "tier": 1
+   "score": 0.527,
+   "tier": 2
   },
   {
    "id": "46a7e510d8973ead9f58fc1de87a1347d36d966c",
@@ -28,7 +43,20 @@
    "tldr": "",
    "published": "2026-07-20T04:49:47.000Z",
    "dupes": 1,
-   "score": 0.516,
+   "score": 0.491,
+   "tier": 2
+  },
+  {
+   "id": "fdfddbdd3d60ab4b1c2a758fcf3bdfc248298f70",
+   "title": "When can a power company take your land for data center infrastructure?",
+   "url": "https://theconversation.com/when-can-a-power-company-take-your-land-for-data-center-infrastructure-284061",
+   "source": "Hacker News",
+   "org": [],
+   "topic": "compute",
+   "tldr": "",
+   "published": "2026-07-20T04:19:22.000Z",
+   "dupes": 1,
+   "score": 0.486,
    "tier": 2
   },
   {
@@ -43,7 +71,7 @@
    "tldr": "",
    "published": "2026-07-19T08:44:57.000Z",
    "dupes": 1,
-   "score": 0.491,
+   "score": 0.476,
    "tier": 2
   },
   {
@@ -58,7 +86,7 @@
    "tldr": "",
    "published": "2026-07-19T10:03:23.000Z",
    "dupes": 1,
-   "score": 0.435,
+   "score": 0.423,
    "tier": 2
   },
   {
@@ -73,22 +101,7 @@
    "tldr": "",
    "published": "2026-07-19T16:02:25.000Z",
    "dupes": 1,
-   "score": 0.418,
-   "tier": 2
-  },
-  {
-   "id": "f297f3c4a259523e9ae6570a8fb4458d0771064c",
-   "title": "The Kimi K3 Moment",
-   "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment",
-   "source": "HN · Kimi",
-   "org": [
-    "moonshot"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-18T17:32:40.000Z",
-   "dupes": 1,
-   "score": 0.37,
+   "score": 0.398,
    "tier": 2
   },
   {
@@ -107,18 +120,18 @@
    "tier": 2
   },
   {
-   "id": "36acdb97cc29dd4f370ecf4edbee9a3b20f954da",
-   "title": "DeepSeek routes your request to Fable5",
-   "url": "https://twitter.com/synthwavedd/status/2078514339552628880",
-   "source": "HN · DeepSeek",
+   "id": "f297f3c4a259523e9ae6570a8fb4458d0771064c",
+   "title": "The Kimi K3 Moment",
+   "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment",
+   "source": "HN · Kimi",
    "org": [
-    "deepseek"
+    "moonshot"
    ],
    "topic": "ai",
    "tldr": "",
-   "published": "2026-07-19T08:25:30.000Z",
+   "published": "2026-07-18T17:32:40.000Z",
    "dupes": 1,
-   "score": 0.329,
+   "score": 0.361,
    "tier": 2
   },
   {
@@ -133,7 +146,22 @@
    "tldr": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
    "published": "2026-07-17T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.323,
+   "score": 0.321,
+   "tier": 2
+  },
+  {
+   "id": "36acdb97cc29dd4f370ecf4edbee9a3b20f954da",
+   "title": "DeepSeek routes your request to Fable5",
+   "url": "https://twitter.com/synthwavedd/status/2078514339552628880",
+   "source": "HN · DeepSeek",
+   "org": [
+    "deepseek"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-19T08:25:30.000Z",
+   "dupes": 1,
+   "score": 0.314,
    "tier": 2
   },
   {
@@ -148,7 +176,7 @@
    "tldr": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
    "published": "2026-07-16T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.312,
+   "score": 0.31,
    "tier": 2
   },
   {
@@ -163,7 +191,7 @@
    "tldr": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
    "published": "2026-07-16T09:30:42.000Z",
    "dupes": 1,
-   "score": 0.309,
+   "score": 0.308,
    "tier": 2
   },
   {
@@ -179,7 +207,7 @@
    "published": "2026-07-16T00:00:00.000Z",
    "dupes": 1,
    "score": 0.306,
-   "tier": 2
+   "tier": 3
   },
   {
    "id": "1e97faa490facd0c80775009cd29953c3036ce5c",
@@ -194,7 +222,7 @@
    "published": "2026-07-15T12:00:00.000Z",
    "dupes": 1,
    "score": 0.304,
-   "tier": 2
+   "tier": 3
   },
   {
    "id": "ee230258f27f8a0de48925de53f81261735fd525",
@@ -207,21 +235,6 @@
    "topic": "ai",
    "tldr": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
    "published": "2026-07-15T10:00:00.000Z",
-   "dupes": 1,
-   "score": 0.304,
-   "tier": 3
-  },
-  {
-   "id": "90347e0f0d7bf31c7a48f0d3ed628d3963c6b835",
-   "title": "NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads — a Key Metric for Agentic AI",
-   "url": "https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Lowest cost per token from extreme codesign maximizes intelligence per dollar for post-training in the agentic era.",
-   "published": "2026-07-17T15:00:14.000Z",
    "dupes": 1,
    "score": 0.303,
    "tier": 3
@@ -290,6 +303,21 @@
    "tier": 3
   },
   {
+   "id": "90347e0f0d7bf31c7a48f0d3ed628d3963c6b835",
+   "title": "NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads — a Key Metric for Agentic AI",
+   "url": "https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Lowest cost per token from extreme codesign maximizes intelligence per dollar for post-training in the agentic era.",
+   "published": "2026-07-17T15:00:14.000Z",
+   "dupes": 1,
+   "score": 0.3,
+   "tier": 3
+  },
+  {
    "id": "a0bbc2c6e6f2a453cca78f56cf04b51edea2a577",
    "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
    "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
@@ -300,21 +328,6 @@
    "topic": "ai",
    "tldr": "",
    "published": "2026-07-17T15:57:54.000Z",
-   "dupes": 1,
-   "score": 0.292,
-   "tier": 3
-  },
-  {
-   "id": "3d89d3a43d6e93b9235c122e263a4ac7bb7bb21a",
-   "title": "Dave Eggers told OpenAI staff that ChatGPT was ‘silencing an entire generation’",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers.  The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and founded multiple schools…",
-   "published": "2026-07-18T20:54:42.000Z",
    "dupes": 1,
    "score": 0.289,
    "tier": 3
@@ -331,22 +344,7 @@
    "tldr": "Onimusha: Way of the Sword is coming to GeForce NOW at launch, with the playable demo available this week.  It’s joined by Denshattack!",
    "published": "2026-07-16T13:00:34.000Z",
    "dupes": 1,
-   "score": 0.285,
-   "tier": 3
-  },
-  {
-   "id": "98a9920bcc16cf1dadf9844d222e03b2ab56d57b",
-   "title": "Kimi K3, and what we can still learn from the pelican benchmark",
-   "url": "https://simonwillison.net/2026/Jul/16/kimi-k3",
-   "source": "HN · Kimi",
-   "org": [
-    "moonshot"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-17T14:21:51.000Z",
-   "dupes": 1,
-   "score": 0.285,
+   "score": 0.284,
    "tier": 3
   },
   {
@@ -361,7 +359,37 @@
    "tldr": "General-purpose robots and autonomous machines are moving from research labs to real-world mass-market deployment, creating demand for compact, power-efficient AI supercomputers capable of running foundation models at…",
    "published": "2026-07-15T23:00:54.000Z",
    "dupes": 1,
-   "score": 0.281,
+   "score": 0.28,
+   "tier": 3
+  },
+  {
+   "id": "98a9920bcc16cf1dadf9844d222e03b2ab56d57b",
+   "title": "Kimi K3, and what we can still learn from the pelican benchmark",
+   "url": "https://simonwillison.net/2026/Jul/16/kimi-k3",
+   "source": "HN · Kimi",
+   "org": [
+    "moonshot"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-17T14:21:51.000Z",
+   "dupes": 1,
+   "score": 0.28,
+   "tier": 3
+  },
+  {
+   "id": "3d89d3a43d6e93b9235c122e263a4ac7bb7bb21a",
+   "title": "Dave Eggers told OpenAI staff that ChatGPT was ‘silencing an entire generation’",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+   "source": "The Verge AI",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers.  The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and founded multiple schools…",
+   "published": "2026-07-18T20:54:42.000Z",
+   "dupes": 1,
+   "score": 0.28,
    "tier": 3
   },
   {
@@ -376,7 +404,7 @@
    "tldr": "Algorithms & Theory",
    "published": "2026-07-15T18:06:00.000Z",
    "dupes": 1,
-   "score": 0.28,
+   "score": 0.279,
    "tier": 3
   },
   {
@@ -391,7 +419,7 @@
    "tldr": "Home to leading manufacturers, robotics pioneers, infrastructure builders and iconic gaming companies, of course, Japan is one of the world’s centers of AI — building across the full stack with NVIDIA technologies.…",
    "published": "2026-07-15T10:51:37.000Z",
    "dupes": 1,
-   "score": 0.279,
+   "score": 0.278,
    "tier": 3
   },
   {
@@ -425,21 +453,6 @@
    "tier": 3
   },
   {
-   "id": "0ef7568457914f14be8bfd3decdee56d32ba79a7",
-   "title": "Kimi K3 Might Have Just Started a Crash of the US Economy",
-   "url": "https://danielmiessler.com/blog/kimi-k3-us-economy",
-   "source": "HN · Kimi",
-   "org": [
-    "moonshot"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-18T19:37:04.000Z",
-   "dupes": 1,
-   "score": 0.275,
-   "tier": 3
-  },
-  {
    "id": "4babaf3e269b6d7d73f107a64fd0229d09882ad9",
    "title": "Newer Models, Same Advantage",
    "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
@@ -449,7 +462,7 @@
    "tldr": "",
    "published": "2026-07-16T11:49:48.000Z",
    "dupes": 1,
-   "score": 0.272,
+   "score": 0.271,
    "tier": 3
   },
   {
@@ -462,7 +475,7 @@
    "tldr": "",
    "published": "2026-07-16T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.269,
+   "score": 0.268,
    "tier": 3
   },
   {
@@ -518,6 +531,21 @@
    "tier": 3
   },
   {
+   "id": "0ef7568457914f14be8bfd3decdee56d32ba79a7",
+   "title": "Kimi K3 Might Have Just Started a Crash of the US Economy",
+   "url": "https://danielmiessler.com/blog/kimi-k3-us-economy",
+   "source": "HN · Kimi",
+   "org": [
+    "moonshot"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-18T19:37:04.000Z",
+   "dupes": 1,
+   "score": 0.265,
+   "tier": 3
+  },
+  {
    "id": "35de7256d0278847f165c9a32d6900eeaec80df8",
    "title": "Verifying Rust cryptography in SymCrypt, from standards to code",
    "url": "https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code",
@@ -544,22 +572,7 @@
    "tldr": "Parents using Instagram supervision tools will now be notified if their teen discusses suicide or self-harm with Meta AI.  The post Alerting Parents if Teens Show Signs of Distress in Conversations With Meta AI appeared…",
    "published": "2026-07-16T11:00:45.000Z",
    "dupes": 1,
-   "score": 0.26,
-   "tier": 3
-  },
-  {
-   "id": "67b0b234c48495e76edcaa2bce176201a46bd243",
-   "title": "Teachers and Local Businesses Win as Meta Expands Louisiana Data Center",
-   "url": "https://about.fb.com/news/2026/07/teachers-local-businesses-win-as-meta-expands-louisiana-data-center",
-   "source": "Meta Newsroom",
-   "org": [
-    "meta"
-   ],
-   "topic": "compute",
-   "tldr": "We're expanding our Richland Parish, Louisiana data center to 5GW of compute capacity in a town that’s already seeing life-changing returns for teachers, local businesses, and students.  The post Teachers and Local…",
-   "published": "2026-07-13T09:30:24.000Z",
-   "dupes": 1,
-   "score": 0.251,
+   "score": 0.259,
    "tier": 3
   },
   {
@@ -574,22 +587,7 @@
    "tldr": "Apple is suing OpenAI.  The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done.",
    "published": "2026-07-17T17:41:32.000Z",
    "dupes": 1,
-   "score": 0.231,
-   "tier": 3
-  },
-  {
-   "id": "be290000789005239f671bd9d434b3cf302bd9d5",
-   "title": "Kimi K3 is now #1 in the Front end Code Arena with 1679 pts, surpassing Fable 5",
-   "url": "https://twitter.com/arena/status/2077824029126504525",
-   "source": "HN · Kimi",
-   "org": [
-    "moonshot"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-16T19:20:20.000Z",
-   "dupes": 1,
-   "score": 0.221,
+   "score": 0.228,
    "tier": 3
   },
   {
@@ -604,7 +602,7 @@
    "tldr": "",
    "published": "2026-07-17T13:39:23.000Z",
    "dupes": 1,
-   "score": 0.217,
+   "score": 0.214,
    "tier": 3
   },
   {
@@ -618,21 +616,6 @@
    "topic": "ai",
    "tldr": "Google is giving its AI note-taking app a new name.  The company announced on Thursday that NotebookLM is becoming Gemini Notebook, but will remain a standalone app even as it integrates more deeply across Gemini and…",
    "published": "2026-07-16T16:00:00.000Z",
-   "dupes": 1,
-   "score": 0.212,
-   "tier": 3
-  },
-  {
-   "id": "c6f177c5bb9701a5c22556acb4ba5ee1da441ada",
-   "title": "Kimi K3 Intelligence, Performance and Price Analysis",
-   "url": "https://artificialanalysis.ai/models/kimi-k3",
-   "source": "HN · Kimi",
-   "org": [
-    "moonshot"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-16T20:09:46.000Z",
    "dupes": 1,
    "score": 0.21,
    "tier": 3
@@ -649,7 +632,7 @@
    "tldr": "1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords.",
    "published": "2026-07-16T13:00:00.000Z",
    "dupes": 1,
-   "score": 0.21,
+   "score": 0.209,
    "tier": 3
   },
   {
@@ -664,22 +647,22 @@
    "tldr": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc's digital antitrust rules.",
    "published": "2026-07-16T12:06:51.000Z",
    "dupes": 1,
-   "score": 0.21,
+   "score": 0.209,
    "tier": 3
   },
   {
-   "id": "b82b19a7de11d7ff2171e90b1ea7600f6f10c6ed",
-   "title": "Kimi K3: Open Frontier Intelligence",
-   "url": "https://www.kimi.com/blog/kimi-k3",
+   "id": "c6f177c5bb9701a5c22556acb4ba5ee1da441ada",
+   "title": "Kimi K3 Intelligence, Performance and Price Analysis",
+   "url": "https://artificialanalysis.ai/models/kimi-k3",
    "source": "HN · Kimi",
    "org": [
     "moonshot"
    ],
    "topic": "ai",
    "tldr": "",
-   "published": "2026-07-16T18:49:43.000Z",
+   "published": "2026-07-16T20:09:46.000Z",
    "dupes": 1,
-   "score": 0.206,
+   "score": 0.208,
    "tier": 3
   },
   {
@@ -697,7 +680,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.197,
+   "score": 0.196,
    "tier": 3
   }
  ]
