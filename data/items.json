@@ -1,19 +1,19 @@
 {
- "generated": "2026-07-20T13:23:36.343Z",
+ "generated": "2026-07-20T15:26:10.354Z",
  "items": [
   {
-   "id": "cf5140273af6f91a9533c948b40839067fb2032a",
-   "title": "Microsoft expands Azure AI and HPC infrastructure with AMD",
-   "url": "https://blogs.microsoft.com/blog/2026/07/20/microsoft-expands-azure-ai-and-hpc-infrastructure-with-amd",
-   "source": "Microsoft Blog",
+   "id": "9ad1d27b0e381707f970c1c8800b4e5ffd820deb",
+   "title": "At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI",
+   "url": "https://blogs.nvidia.com/blog/siggraph-news-2026",
+   "source": "NVIDIA Blog",
    "org": [
-    "microsoft"
+    "nvidia"
    ],
-   "topic": "ai",
-   "tldr": "AI workloads are scaling faster than any single infrastructure approach can support — with more models, new agent-driven workloads and surging compute demand driving the need for greater specialization across the stack.…",
-   "published": "2026-07-20T13:00:02.000Z",
+   "topic": "compute",
+   "tldr": "From open models to real-time simulation, AI and graphics breakthroughs are transforming media, content creation and robotics.",
+   "published": "2026-07-20T15:00:53.000Z",
    "dupes": 1,
-   "score": 0.595,
+   "score": 0.619,
    "tier": 1
   },
   {
@@ -28,35 +28,22 @@
    "tldr": "” That’s two things in one name: pharmaceutical giant Bristol Myers Squibb (BMS) already runs one of the largest AI clusters in life sciences, with serious results to show for it.  And they’re doubling down.",
    "published": "2026-07-20T10:59:23.000Z",
    "dupes": 1,
-   "score": 0.594,
+   "score": 0.57,
    "tier": 2
   },
   {
-   "id": "fdfddbdd3d60ab4b1c2a758fcf3bdfc248298f70",
-   "title": "When can a power company take your land for data center infrastructure?",
-   "url": "https://theconversation.com/when-can-a-power-company-take-your-land-for-data-center-infrastructure-284061",
-   "source": "Hacker News",
-   "org": [],
-   "topic": "compute",
-   "tldr": "",
-   "published": "2026-07-20T04:19:22.000Z",
-   "dupes": 1,
-   "score": 0.469,
-   "tier": 2
-  },
-  {
-   "id": "ddebaf62488a3199fecf3e870625b66bfdd00e96",
-   "title": "Qwen 3.8",
-   "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
-   "source": "Hacker News",
+   "id": "cf5140273af6f91a9533c948b40839067fb2032a",
+   "title": "Microsoft expands Azure AI and HPC infrastructure with AMD",
+   "url": "https://blogs.microsoft.com/blog/2026/07/20/microsoft-expands-azure-ai-and-hpc-infrastructure-with-amd",
+   "source": "Microsoft Blog",
    "org": [
-    "qwen"
+    "microsoft"
    ],
    "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-19T08:44:57.000Z",
+   "tldr": "AI workloads are scaling faster than any single infrastructure approach can support — with more models, new agent-driven workloads and surging compute demand driving the need for greater specialization across the stack.…",
+   "published": "2026-07-20T13:00:02.000Z",
    "dupes": 1,
-   "score": 0.466,
+   "score": 0.569,
    "tier": 2
   },
   {
@@ -71,7 +58,22 @@
    "tldr": "",
    "published": "2026-07-19T10:03:23.000Z",
    "dupes": 1,
-   "score": 0.416,
+   "score": 0.455,
+   "tier": 2
+  },
+  {
+   "id": "f297f3c4a259523e9ae6570a8fb4458d0771064c",
+   "title": "The Kimi K3 Moment",
+   "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment",
+   "source": "HN · Kimi",
+   "org": [
+    "moonshot"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-18T17:32:40.000Z",
+   "dupes": 1,
+   "score": 0.397,
    "tier": 2
   },
   {
@@ -86,7 +88,7 @@
    "tldr": "",
    "published": "2026-07-19T16:02:25.000Z",
    "dupes": 1,
-   "score": 0.386,
+   "score": 0.396,
    "tier": 2
   },
   {
@@ -105,21 +107,6 @@
    "tier": 2
   },
   {
-   "id": "f297f3c4a259523e9ae6570a8fb4458d0771064c",
-   "title": "The Kimi K3 Moment",
-   "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment",
-   "source": "HN · Kimi",
-   "org": [
-    "moonshot"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-18T17:32:40.000Z",
-   "dupes": 1,
-   "score": 0.353,
-   "tier": 2
-  },
-  {
    "id": "3ebda52fc80ebe33165f5f415dd9c032d4c031d4",
    "title": "A scorecard for the AI age",
    "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
@@ -131,7 +118,7 @@
    "tldr": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
    "published": "2026-07-17T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.319,
+   "score": 0.318,
    "tier": 2
   },
   {
@@ -146,7 +133,7 @@
    "tldr": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
    "published": "2026-07-16T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.31,
+   "score": 0.309,
    "tier": 2
   },
   {
@@ -165,6 +152,21 @@
    "tier": 2
   },
   {
+   "id": "98a9920bcc16cf1dadf9844d222e03b2ab56d57b",
+   "title": "Kimi K3, and what we can still learn from the pelican benchmark",
+   "url": "https://simonwillison.net/2026/Jul/16/kimi-k3",
+   "source": "HN · Kimi",
+   "org": [
+    "moonshot"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-17T14:21:51.000Z",
+   "dupes": 1,
+   "score": 0.306,
+   "tier": 2
+  },
+  {
    "id": "6f16a999c8ddd889e881e535b45bac9cfa6b8f4a",
    "title": "How Cars24 scales conversations and builds faster with OpenAI",
    "url": "https://openai.com/index/cars24",
@@ -175,21 +177,6 @@
    "topic": "ai",
    "tldr": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
    "published": "2026-07-16T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.305,
-   "tier": 2
-  },
-  {
-   "id": "36acdb97cc29dd4f370ecf4edbee9a3b20f954da",
-   "title": "DeepSeek routes your request to Fable5",
-   "url": "https://twitter.com/synthwavedd/status/2078514339552628880",
-   "source": "HN · DeepSeek",
-   "org": [
-    "deepseek"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-19T08:25:30.000Z",
    "dupes": 1,
    "score": 0.305,
    "tier": 2
@@ -207,7 +194,7 @@
    "published": "2026-07-15T12:00:00.000Z",
    "dupes": 1,
    "score": 0.303,
-   "tier": 3
+   "tier": 2
   },
   {
    "id": "ee230258f27f8a0de48925de53f81261735fd525",
@@ -284,7 +271,22 @@
    "tldr": "Lowest cost per token from extreme codesign maximizes intelligence per dollar for post-training in the agentic era.",
    "published": "2026-07-17T15:00:14.000Z",
    "dupes": 1,
-   "score": 0.298,
+   "score": 0.297,
+   "tier": 3
+  },
+  {
+   "id": "36acdb97cc29dd4f370ecf4edbee9a3b20f954da",
+   "title": "DeepSeek routes your request to Fable5",
+   "url": "https://twitter.com/synthwavedd/status/2078514339552628880",
+   "source": "HN · DeepSeek",
+   "org": [
+    "deepseek"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-19T08:25:30.000Z",
+   "dupes": 1,
+   "score": 0.297,
    "tier": 3
   },
   {
@@ -299,7 +301,7 @@
    "tldr": "",
    "published": "2026-07-17T15:57:54.000Z",
    "dupes": 1,
-   "score": 0.287,
+   "score": 0.285,
    "tier": 3
   },
   {
@@ -314,7 +316,7 @@
    "tldr": "Onimusha: Way of the Sword is coming to GeForce NOW at launch, with the playable demo available this week.  It’s joined by Denshattack!",
    "published": "2026-07-16T13:00:34.000Z",
    "dupes": 1,
-   "score": 0.284,
+   "score": 0.283,
    "tier": 3
   },
   {
@@ -374,7 +376,7 @@
    "tldr": "Enterprises have plenty of powerful models to choose from.  The real test is whether the AI an enterprise builds uniquely addresses the needs of the business: improving workflows, tapping into domain knowledge and…",
    "published": "2026-07-14T16:45:13.000Z",
    "dupes": 1,
-   "score": 0.277,
+   "score": 0.276,
    "tier": 3
   },
   {
@@ -393,18 +395,16 @@
    "tier": 3
   },
   {
-   "id": "98a9920bcc16cf1dadf9844d222e03b2ab56d57b",
-   "title": "Kimi K3, and what we can still learn from the pelican benchmark",
-   "url": "https://simonwillison.net/2026/Jul/16/kimi-k3",
-   "source": "HN · Kimi",
-   "org": [
-    "moonshot"
-   ],
+   "id": "4babaf3e269b6d7d73f107a64fd0229d09882ad9",
+   "title": "Newer Models, Same Advantage",
+   "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+   "source": "Hugging Face Blog",
+   "org": [],
    "topic": "ai",
    "tldr": "",
-   "published": "2026-07-17T14:21:51.000Z",
+   "published": "2026-07-16T11:49:48.000Z",
    "dupes": 1,
-   "score": 0.276,
+   "score": 0.27,
    "tier": 3
   },
   {
@@ -419,20 +419,7 @@
    "tldr": "Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers.  The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and founded multiple schools…",
    "published": "2026-07-18T20:54:42.000Z",
    "dupes": 1,
-   "score": 0.274,
-   "tier": 3
-  },
-  {
-   "id": "4babaf3e269b6d7d73f107a64fd0229d09882ad9",
-   "title": "Newer Models, Same Advantage",
-   "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-16T11:49:48.000Z",
-   "dupes": 1,
-   "score": 0.271,
+   "score": 0.268,
    "tier": 3
   },
   {
@@ -445,7 +432,7 @@
    "tldr": "",
    "published": "2026-07-16T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.268,
+   "score": 0.267,
    "tier": 3
   },
   {
@@ -458,7 +445,7 @@
    "tldr": "",
    "published": "2026-07-15T17:29:41.000Z",
    "dupes": 1,
-   "score": 0.267,
+   "score": 0.266,
    "tier": 3
   },
   {
@@ -471,7 +458,7 @@
    "tldr": "",
    "published": "2026-07-15T17:27:01.000Z",
    "dupes": 1,
-   "score": 0.267,
+   "score": 0.266,
    "tier": 3
   },
   {
@@ -484,7 +471,7 @@
    "tldr": "",
    "published": "2026-07-15T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.265,
+   "score": 0.264,
    "tier": 3
   },
   {
@@ -497,7 +484,7 @@
    "tldr": "",
    "published": "2026-07-15T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.265,
+   "score": 0.264,
    "tier": 3
   },
   {
@@ -516,21 +503,6 @@
    "tier": 3
   },
   {
-   "id": "0ef7568457914f14be8bfd3decdee56d32ba79a7",
-   "title": "Kimi K3 Might Have Just Started a Crash of the US Economy",
-   "url": "https://danielmiessler.com/blog/kimi-k3-us-economy",
-   "source": "HN · Kimi",
-   "org": [
-    "moonshot"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-18T19:37:04.000Z",
-   "dupes": 1,
-   "score": 0.26,
-   "tier": 3
-  },
-  {
    "id": "d44db81786e377dcd4bb0979dc74357c33f11c22",
    "title": "Alerting Parents if Teens Show Signs of Distress in Conversations With Meta AI",
    "url": "https://about.fb.com/news/2026/07/keeping-parents-informed-teens-distress-conversations-meta-ai",
@@ -542,7 +514,22 @@
    "tldr": "Parents using Instagram supervision tools will now be notified if their teen discusses suicide or self-harm with Meta AI.  The post Alerting Parents if Teens Show Signs of Distress in Conversations With Meta AI appeared…",
    "published": "2026-07-16T11:00:45.000Z",
    "dupes": 1,
-   "score": 0.258,
+   "score": 0.257,
+   "tier": 3
+  },
+  {
+   "id": "0ef7568457914f14be8bfd3decdee56d32ba79a7",
+   "title": "Kimi K3 Might Have Just Started a Crash of the US Economy",
+   "url": "https://danielmiessler.com/blog/kimi-k3-us-economy",
+   "source": "HN · Kimi",
+   "org": [
+    "moonshot"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-18T19:37:04.000Z",
+   "dupes": 1,
+   "score": 0.255,
    "tier": 3
   },
   {
@@ -557,7 +544,7 @@
    "tldr": "Apple is suing OpenAI.  The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done.",
    "published": "2026-07-17T17:41:32.000Z",
    "dupes": 1,
-   "score": 0.226,
+   "score": 0.224,
    "tier": 3
   },
   {
@@ -572,7 +559,22 @@
    "tldr": "",
    "published": "2026-07-17T13:39:23.000Z",
    "dupes": 1,
-   "score": 0.213,
+   "score": 0.212,
+   "tier": 3
+  },
+  {
+   "id": "c6f177c5bb9701a5c22556acb4ba5ee1da441ada",
+   "title": "Kimi K3 Intelligence, Performance and Price Analysis",
+   "url": "https://artificialanalysis.ai/models/kimi-k3",
+   "source": "HN · Kimi",
+   "org": [
+    "moonshot"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-16T20:09:46.000Z",
+   "dupes": 1,
+   "score": 0.21,
    "tier": 3
   },
   {
@@ -587,7 +589,7 @@
    "tldr": "Google is giving its AI note-taking app a new name.  The company announced on Thursday that NotebookLM is becoming Gemini Notebook, but will remain a standalone app even as it integrates more deeply across Gemini and…",
    "published": "2026-07-16T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.21,
+   "score": 0.209,
    "tier": 3
   },
   {
@@ -602,7 +604,7 @@
    "tldr": "1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords.",
    "published": "2026-07-16T13:00:00.000Z",
    "dupes": 1,
-   "score": 0.209,
+   "score": 0.208,
    "tier": 3
   },
   {
@@ -618,21 +620,6 @@
    "published": "2026-07-16T12:06:51.000Z",
    "dupes": 1,
    "score": 0.208,
-   "tier": 3
-  },
-  {
-   "id": "c6f177c5bb9701a5c22556acb4ba5ee1da441ada",
-   "title": "Kimi K3 Intelligence, Performance and Price Analysis",
-   "url": "https://artificialanalysis.ai/models/kimi-k3",
-   "source": "HN · Kimi",
-   "org": [
-    "moonshot"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-16T20:09:46.000Z",
-   "dupes": 1,
-   "score": 0.207,
    "tier": 3
   }
  ]
