@@ -1,6 +1,21 @@
 {
- "generated": "2026-07-20T11:19:49.374Z",
+ "generated": "2026-07-20T13:23:36.343Z",
  "items": [
+  {
+   "id": "cf5140273af6f91a9533c948b40839067fb2032a",
+   "title": "Microsoft expands Azure AI and HPC infrastructure with AMD",
+   "url": "https://blogs.microsoft.com/blog/2026/07/20/microsoft-expands-azure-ai-and-hpc-infrastructure-with-amd",
+   "source": "Microsoft Blog",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "AI workloads are scaling faster than any single infrastructure approach can support — with more models, new agent-driven workloads and surging compute demand driving the need for greater specialization across the stack.…",
+   "published": "2026-07-20T13:00:02.000Z",
+   "dupes": 1,
+   "score": 0.595,
+   "tier": 1
+  },
   {
    "id": "aa4b1d95c45994cd42216985e72c406b594aa3b7",
    "title": "Bristol Myers Squibb Building Life Science Industry’s Most Advanced AI Factory on NVIDIA Vera Rubin",
@@ -13,37 +28,7 @@
    "tldr": "” That’s two things in one name: pharmaceutical giant Bristol Myers Squibb (BMS) already runs one of the largest AI clusters in life sciences, with serious results to show for it.  And they’re doubling down.",
    "published": "2026-07-20T10:59:23.000Z",
    "dupes": 1,
-   "score": 0.62,
-   "tier": 1
-  },
-  {
-   "id": "f3a7c00814937f7b4af680a6b479360b9649f4c2",
-   "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
-   "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
-   "source": "Hacker News",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-20T02:51:16.000Z",
-   "dupes": 1,
-   "score": 0.527,
-   "tier": 2
-  },
-  {
-   "id": "46a7e510d8973ead9f58fc1de87a1347d36d966c",
-   "title": "How proprietary formats have become Microsoft’s main tool for lock-in",
-   "url": "https://blog.documentfoundation.org/blog/2026/07/17/microsofts-main-tool-for-lock-in",
-   "source": "Hacker News",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-20T04:49:47.000Z",
-   "dupes": 1,
-   "score": 0.491,
+   "score": 0.594,
    "tier": 2
   },
   {
@@ -56,7 +41,7 @@
    "tldr": "",
    "published": "2026-07-20T04:19:22.000Z",
    "dupes": 1,
-   "score": 0.486,
+   "score": 0.469,
    "tier": 2
   },
   {
@@ -71,7 +56,7 @@
    "tldr": "",
    "published": "2026-07-19T08:44:57.000Z",
    "dupes": 1,
-   "score": 0.476,
+   "score": 0.466,
    "tier": 2
   },
   {
@@ -86,7 +71,7 @@
    "tldr": "",
    "published": "2026-07-19T10:03:23.000Z",
    "dupes": 1,
-   "score": 0.423,
+   "score": 0.416,
    "tier": 2
   },
   {
@@ -101,7 +86,7 @@
    "tldr": "",
    "published": "2026-07-19T16:02:25.000Z",
    "dupes": 1,
-   "score": 0.398,
+   "score": 0.386,
    "tier": 2
   },
   {
@@ -131,7 +116,7 @@
    "tldr": "",
    "published": "2026-07-18T17:32:40.000Z",
    "dupes": 1,
-   "score": 0.361,
+   "score": 0.353,
    "tier": 2
   },
   {
@@ -146,22 +131,7 @@
    "tldr": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
    "published": "2026-07-17T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.321,
-   "tier": 2
-  },
-  {
-   "id": "36acdb97cc29dd4f370ecf4edbee9a3b20f954da",
-   "title": "DeepSeek routes your request to Fable5",
-   "url": "https://twitter.com/synthwavedd/status/2078514339552628880",
-   "source": "HN · DeepSeek",
-   "org": [
-    "deepseek"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-19T08:25:30.000Z",
-   "dupes": 1,
-   "score": 0.314,
+   "score": 0.319,
    "tier": 2
   },
   {
@@ -191,7 +161,7 @@
    "tldr": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
    "published": "2026-07-16T09:30:42.000Z",
    "dupes": 1,
-   "score": 0.308,
+   "score": 0.307,
    "tier": 2
   },
   {
@@ -206,8 +176,23 @@
    "tldr": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
    "published": "2026-07-16T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.306,
-   "tier": 3
+   "score": 0.305,
+   "tier": 2
+  },
+  {
+   "id": "36acdb97cc29dd4f370ecf4edbee9a3b20f954da",
+   "title": "DeepSeek routes your request to Fable5",
+   "url": "https://twitter.com/synthwavedd/status/2078514339552628880",
+   "source": "HN · DeepSeek",
+   "org": [
+    "deepseek"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-19T08:25:30.000Z",
+   "dupes": 1,
+   "score": 0.305,
+   "tier": 2
   },
   {
    "id": "1e97faa490facd0c80775009cd29953c3036ce5c",
@@ -221,7 +206,7 @@
    "tldr": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
    "published": "2026-07-15T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.304,
+   "score": 0.303,
    "tier": 3
   },
   {
@@ -288,21 +273,6 @@
    "tier": 3
   },
   {
-   "id": "77ccb073c59f37527555ab5c2638078d073d9c8d",
-   "title": "Empowering India’s next generation of innovators with ATL Saathi",
-   "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi",
-   "source": "Google DeepMind",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
-   "published": "2026-07-13T12:37:28.000Z",
-   "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
    "id": "90347e0f0d7bf31c7a48f0d3ed628d3963c6b835",
    "title": "NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads — a Key Metric for Agentic AI",
    "url": "https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar",
@@ -314,7 +284,7 @@
    "tldr": "Lowest cost per token from extreme codesign maximizes intelligence per dollar for post-training in the agentic era.",
    "published": "2026-07-17T15:00:14.000Z",
    "dupes": 1,
-   "score": 0.3,
+   "score": 0.298,
    "tier": 3
   },
   {
@@ -329,7 +299,7 @@
    "tldr": "",
    "published": "2026-07-17T15:57:54.000Z",
    "dupes": 1,
-   "score": 0.289,
+   "score": 0.287,
    "tier": 3
   },
   {
@@ -358,36 +328,6 @@
    "topic": "compute",
    "tldr": "General-purpose robots and autonomous machines are moving from research labs to real-world mass-market deployment, creating demand for compact, power-efficient AI supercomputers capable of running foundation models at…",
    "published": "2026-07-15T23:00:54.000Z",
-   "dupes": 1,
-   "score": 0.28,
-   "tier": 3
-  },
-  {
-   "id": "98a9920bcc16cf1dadf9844d222e03b2ab56d57b",
-   "title": "Kimi K3, and what we can still learn from the pelican benchmark",
-   "url": "https://simonwillison.net/2026/Jul/16/kimi-k3",
-   "source": "HN · Kimi",
-   "org": [
-    "moonshot"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-17T14:21:51.000Z",
-   "dupes": 1,
-   "score": 0.28,
-   "tier": 3
-  },
-  {
-   "id": "3d89d3a43d6e93b9235c122e263a4ac7bb7bb21a",
-   "title": "Dave Eggers told OpenAI staff that ChatGPT was ‘silencing an entire generation’",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers.  The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and founded multiple schools…",
-   "published": "2026-07-18T20:54:42.000Z",
    "dupes": 1,
    "score": 0.28,
    "tier": 3
@@ -449,7 +389,37 @@
    "tldr": "Power is AI infrastructure’s inescapable constraint.  How many tokens an AI factory can generate within a fixed power budget determines its revenue and profitability.",
    "published": "2026-07-14T15:00:20.000Z",
    "dupes": 1,
-   "score": 0.277,
+   "score": 0.276,
+   "tier": 3
+  },
+  {
+   "id": "98a9920bcc16cf1dadf9844d222e03b2ab56d57b",
+   "title": "Kimi K3, and what we can still learn from the pelican benchmark",
+   "url": "https://simonwillison.net/2026/Jul/16/kimi-k3",
+   "source": "HN · Kimi",
+   "org": [
+    "moonshot"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-17T14:21:51.000Z",
+   "dupes": 1,
+   "score": 0.276,
+   "tier": 3
+  },
+  {
+   "id": "3d89d3a43d6e93b9235c122e263a4ac7bb7bb21a",
+   "title": "Dave Eggers told OpenAI staff that ChatGPT was ‘silencing an entire generation’",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+   "source": "The Verge AI",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers.  The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and founded multiple schools…",
+   "published": "2026-07-18T20:54:42.000Z",
+   "dupes": 1,
+   "score": 0.274,
    "tier": 3
   },
   {
@@ -531,21 +501,6 @@
    "tier": 3
   },
   {
-   "id": "0ef7568457914f14be8bfd3decdee56d32ba79a7",
-   "title": "Kimi K3 Might Have Just Started a Crash of the US Economy",
-   "url": "https://danielmiessler.com/blog/kimi-k3-us-economy",
-   "source": "HN · Kimi",
-   "org": [
-    "moonshot"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-18T19:37:04.000Z",
-   "dupes": 1,
-   "score": 0.265,
-   "tier": 3
-  },
-  {
    "id": "35de7256d0278847f165c9a32d6900eeaec80df8",
    "title": "Verifying Rust cryptography in SymCrypt, from standards to code",
    "url": "https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code",
@@ -561,6 +516,21 @@
    "tier": 3
   },
   {
+   "id": "0ef7568457914f14be8bfd3decdee56d32ba79a7",
+   "title": "Kimi K3 Might Have Just Started a Crash of the US Economy",
+   "url": "https://danielmiessler.com/blog/kimi-k3-us-economy",
+   "source": "HN · Kimi",
+   "org": [
+    "moonshot"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-18T19:37:04.000Z",
+   "dupes": 1,
+   "score": 0.26,
+   "tier": 3
+  },
+  {
    "id": "d44db81786e377dcd4bb0979dc74357c33f11c22",
    "title": "Alerting Parents if Teens Show Signs of Distress in Conversations With Meta AI",
    "url": "https://about.fb.com/news/2026/07/keeping-parents-informed-teens-distress-conversations-meta-ai",
@@ -572,7 +542,7 @@
    "tldr": "Parents using Instagram supervision tools will now be notified if their teen discusses suicide or self-harm with Meta AI.  The post Alerting Parents if Teens Show Signs of Distress in Conversations With Meta AI appeared…",
    "published": "2026-07-16T11:00:45.000Z",
    "dupes": 1,
-   "score": 0.259,
+   "score": 0.258,
    "tier": 3
   },
   {
@@ -587,7 +557,7 @@
    "tldr": "Apple is suing OpenAI.  The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done.",
    "published": "2026-07-17T17:41:32.000Z",
    "dupes": 1,
-   "score": 0.228,
+   "score": 0.226,
    "tier": 3
   },
   {
@@ -602,7 +572,7 @@
    "tldr": "",
    "published": "2026-07-17T13:39:23.000Z",
    "dupes": 1,
-   "score": 0.214,
+   "score": 0.213,
    "tier": 3
   },
   {
@@ -647,7 +617,7 @@
    "tldr": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc's digital antitrust rules.",
    "published": "2026-07-16T12:06:51.000Z",
    "dupes": 1,
-   "score": 0.209,
+   "score": 0.208,
    "tier": 3
   },
   {
@@ -662,25 +632,7 @@
    "tldr": "",
    "published": "2026-07-16T20:09:46.000Z",
    "dupes": 1,
-   "score": 0.208,
-   "tier": 3
-  },
-  {
-   "id": "103eadc325b9bf095a0c8d317e95c52fab57fde0",
-   "title": "Grok Build is open source",
-   "url": "https://x.ai/open-source",
-   "source": "HN · xAI",
-   "org": [
-    "xai"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-15T20:47:29.000Z",
-   "badges": [
-    "oss"
-   ],
-   "dupes": 1,
-   "score": 0.196,
+   "score": 0.207,
    "tier": 3
   }
  ]
