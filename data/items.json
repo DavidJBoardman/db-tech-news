@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-21T12:07:41.429Z",
+ "generated": "2026-07-21T14:32:14.685Z",
  "items": [
   {
    "id": "c29f5e1d6e900867d79962a8e9be300d3bd5848f",
@@ -13,7 +13,7 @@
    "tldr": "",
    "published": "2026-07-20T17:13:23.000Z",
    "dupes": 2,
-   "score": 0.582,
+   "score": 0.567,
    "tier": 1
   },
   {
@@ -28,7 +28,7 @@
    "tldr": "",
    "published": "2026-07-21T08:44:23.000Z",
    "dupes": 1,
-   "score": 0.555,
+   "score": 0.56,
    "tier": 2
   },
   {
@@ -41,7 +41,37 @@
    "tldr": "",
    "published": "2026-07-21T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.482,
+   "score": 0.462,
+   "tier": 2
+  },
+  {
+   "id": "d4ff9ec891b78868c06ad312d627b3bdc105c92f",
+   "title": "Safety and alignment in an era of long-horizon models",
+   "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+   "published": "2026-07-20T10:00:00.000Z",
+   "dupes": 1,
+   "score": 0.417,
+   "tier": 2
+  },
+  {
+   "id": "9ad1d27b0e381707f970c1c8800b4e5ffd820deb",
+   "title": "At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI",
+   "url": "https://blogs.nvidia.com/blog/siggraph-news-2026",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "From open models to real-time simulation, AI and graphics breakthroughs are transforming media, content creation and robotics.",
+   "published": "2026-07-20T15:00:53.000Z",
+   "dupes": 1,
+   "score": 0.416,
    "tier": 2
   },
   {
@@ -58,37 +88,7 @@
    "tldr": "",
    "published": "2026-07-20T15:13:42.000Z",
    "dupes": 1,
-   "score": 0.431,
-   "tier": 2
-  },
-  {
-   "id": "9ad1d27b0e381707f970c1c8800b4e5ffd820deb",
-   "title": "At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI",
-   "url": "https://blogs.nvidia.com/blog/siggraph-news-2026",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "From open models to real-time simulation, AI and graphics breakthroughs are transforming media, content creation and robotics.",
-   "published": "2026-07-20T15:00:53.000Z",
-   "dupes": 1,
-   "score": 0.43,
-   "tier": 2
-  },
-  {
-   "id": "d4ff9ec891b78868c06ad312d627b3bdc105c92f",
-   "title": "Safety and alignment in an era of long-horizon models",
-   "url": "https://openai.com/index/safety-alignment-long-horizon-models",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
-   "published": "2026-07-20T10:00:00.000Z",
-   "dupes": 1,
-   "score": 0.428,
+   "score": 0.415,
    "tier": 2
   },
   {
@@ -101,7 +101,7 @@
    "tldr": "",
    "published": "2026-07-20T15:58:51.000Z",
    "dupes": 1,
-   "score": 0.424,
+   "score": 0.409,
    "tier": 2
   },
   {
@@ -116,23 +116,7 @@
    "tldr": "” That’s two things in one name: pharmaceutical giant Bristol Myers Squibb (BMS) already runs one of the largest AI clusters in life sciences, with serious results to show for it.  And they’re doubling down.",
    "published": "2026-07-20T10:59:23.000Z",
    "dupes": 1,
-   "score": 0.408,
-   "tier": 2
-  },
-  {
-   "id": "ddc2632ece93d2c501a09870bfa22694785dacad",
-   "title": "GPT-5.6 Sol vs. Kimi K3 Speedrunning Kerbal Space Program Live",
-   "url": "https://www.twitch.tv/vals_ai",
-   "source": "HN · Kimi",
-   "org": [
-    "moonshot",
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-20T22:14:28.000Z",
-   "dupes": 1,
-   "score": 0.395,
+   "score": 0.396,
    "tier": 2
   },
   {
@@ -147,7 +131,7 @@
    "tldr": "AI workloads are scaling faster than any single infrastructure approach can support — with more models, new agent-driven workloads and surging compute demand driving the need for greater specialization across the stack.…",
    "published": "2026-07-20T13:00:02.000Z",
    "dupes": 1,
-   "score": 0.394,
+   "score": 0.381,
    "tier": 2
   },
   {
@@ -165,7 +149,23 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.387,
+   "score": 0.379,
+   "tier": 2
+  },
+  {
+   "id": "ddc2632ece93d2c501a09870bfa22694785dacad",
+   "title": "GPT-5.6 Sol vs. Kimi K3 Speedrunning Kerbal Space Program Live",
+   "url": "https://www.twitch.tv/vals_ai",
+   "source": "HN · Kimi",
+   "org": [
+    "moonshot",
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-20T22:14:28.000Z",
+   "dupes": 1,
+   "score": 0.377,
    "tier": 2
   },
   {
@@ -180,7 +180,7 @@
    "tldr": "",
    "published": "2026-07-20T19:29:21.000Z",
    "dupes": 1,
-   "score": 0.383,
+   "score": 0.367,
    "tier": 2
   },
   {
@@ -198,7 +198,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.358,
+   "score": 0.343,
    "tier": 2
   },
   {
@@ -213,7 +213,7 @@
    "tldr": "",
    "published": "2026-07-20T14:01:33.000Z",
    "dupes": 1,
-   "score": 0.346,
+   "score": 0.332,
    "tier": 3
   },
   {
@@ -228,7 +228,7 @@
    "tldr": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
    "published": "2026-07-17T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.308,
+   "score": 0.307,
    "tier": 3
   },
   {
@@ -318,7 +318,7 @@
    "tldr": "Lowest cost per token from extreme codesign maximizes intelligence per dollar for post-training in the agentic era.",
    "published": "2026-07-17T15:00:14.000Z",
    "dupes": 1,
-   "score": 0.285,
+   "score": 0.284,
    "tier": 3
   },
   {
@@ -333,7 +333,7 @@
    "tldr": "Onimusha: Way of the Sword is coming to GeForce NOW at launch, with the playable demo available this week.  It’s joined by Denshattack!",
    "published": "2026-07-16T13:00:34.000Z",
    "dupes": 1,
-   "score": 0.279,
+   "score": 0.278,
    "tier": 3
   },
   {
@@ -434,7 +434,7 @@
    "tldr": "",
    "published": "2026-07-16T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.265,
+   "score": 0.264,
    "tier": 3
   },
   {
@@ -516,7 +516,7 @@
    "tldr": "",
    "published": "2026-07-19T08:25:30.000Z",
    "dupes": 1,
-   "score": 0.239,
+   "score": 0.234,
    "tier": 3
   },
   {
@@ -531,7 +531,7 @@
    "tldr": "Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers.  The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and founded multiple schools…",
    "published": "2026-07-18T20:54:42.000Z",
    "dupes": 1,
-   "score": 0.231,
+   "score": 0.228,
    "tier": 3
   },
   {
@@ -546,7 +546,7 @@
    "tldr": "Apple is suing OpenAI.  The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done.",
    "published": "2026-07-17T17:41:32.000Z",
    "dupes": 1,
-   "score": 0.211,
+   "score": 0.21,
    "tier": 3
   }
  ]
