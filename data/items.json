@@ -1,20 +1,50 @@
 {
- "generated": "2026-07-21T14:32:14.685Z",
+ "generated": "2026-07-21T16:18:09.903Z",
  "items": [
   {
-   "id": "c29f5e1d6e900867d79962a8e9be300d3bd5848f",
-   "title": "Kimi Work",
-   "url": "https://www.kimi.com/products/kimi-work",
-   "source": "Hacker News",
+   "id": "5479f7ef8f003060114d0d0554a0c6b24ae7d9c0",
+   "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+   "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber",
+   "source": "Google DeepMind",
    "org": [
-    "moonshot"
+    "google"
    ],
    "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-20T17:13:23.000Z",
-   "dupes": 2,
-   "score": 0.567,
+   "tldr": "5 Flash Cyber.",
+   "published": "2026-07-21T15:16:30.000Z",
+   "dupes": 3,
+   "score": 0.802,
    "tier": 1
+  },
+  {
+   "id": "eaa1d9c29b7f2778ce09786d6044c0176c0c0710",
+   "title": "NVIDIA Vera Rubin Driving Performance Per Watt, Lowest Token Cost for Partners Worldwide",
+   "url": "https://blogs.nvidia.com/blog/vera-rubin",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "NVIDIA Vera Rubin is here, and it’s going gigascale.  Vera Rubin NVL72 production is ramping up with racks running at partners CoreWeave, Google Cloud, Microsoft Azure and Oracle Cloud Infrastructure.",
+   "published": "2026-07-21T15:36:43.000Z",
+   "dupes": 1,
+   "score": 0.616,
+   "tier": 2
+  },
+  {
+   "id": "dc8374528bc287d9bb420cd8cb3f1a18270e822c",
+   "title": "Built for Vera Rubin, NVIDIA Spectrum-6 Arrives in Gigascale AI Factories",
+   "url": "https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "AI has entered the gigascale era.  The world’s most advanced AI factories are bringing together hundreds of thousands of GPUs and CPUs to train frontier models, power agentic AI and generate intelligence at…",
+   "published": "2026-07-21T15:00:20.000Z",
+   "dupes": 1,
+   "score": 0.608,
+   "tier": 2
   },
   {
    "id": "8a76849761aefc4383afbc29aa63361bba073488",
@@ -28,7 +58,52 @@
    "tldr": "",
    "published": "2026-07-21T08:44:23.000Z",
    "dupes": 1,
-   "score": 0.56,
+   "score": 0.562,
+   "tier": 2
+  },
+  {
+   "id": "c29f5e1d6e900867d79962a8e9be300d3bd5848f",
+   "title": "Kimi Work",
+   "url": "https://www.kimi.com/products/kimi-work",
+   "source": "Hacker News",
+   "org": [
+    "moonshot"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-20T17:13:23.000Z",
+   "dupes": 2,
+   "score": 0.556,
+   "tier": 2
+  },
+  {
+   "id": "204ad590c8d0b698c81961a5bb435087ac9c2d95",
+   "title": "Claude Is Not a Compiler",
+   "url": "https://blog.exe.dev/claude-is-not-a-compiler",
+   "source": "Hacker News",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-21T14:49:18.000Z",
+   "dupes": 1,
+   "score": 0.55,
+   "tier": 2
+  },
+  {
+   "id": "7d7edea89fcf1f3756a477fd0c000161210ba5ff",
+   "title": "Google launches a cheaper alternative to large AI security models like Mythos",
+   "url": "https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model",
+   "source": "The Verge AI",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "6 Flash alongside a new security model dedicated to quickly finding and patching security vulnerabilities.  5 Flash Cyber as a \"cost-efficient and highly capable alternative\" to larger, more expensive AI systems, such…",
+   "published": "2026-07-21T15:00:00.000Z",
+   "dupes": 1,
+   "score": 0.533,
    "tier": 2
   },
   {
@@ -41,7 +116,7 @@
    "tldr": "",
    "published": "2026-07-21T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.462,
+   "score": 0.449,
    "tier": 2
   },
   {
@@ -56,7 +131,7 @@
    "tldr": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
    "published": "2026-07-20T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.417,
+   "score": 0.409,
    "tier": 2
   },
   {
@@ -71,7 +146,7 @@
    "tldr": "From open models to real-time simulation, AI and graphics breakthroughs are transforming media, content creation and robotics.",
    "published": "2026-07-20T15:00:53.000Z",
    "dupes": 1,
-   "score": 0.416,
+   "score": 0.407,
    "tier": 2
   },
   {
@@ -88,7 +163,7 @@
    "tldr": "",
    "published": "2026-07-20T15:13:42.000Z",
    "dupes": 1,
-   "score": 0.415,
+   "score": 0.405,
    "tier": 2
   },
   {
@@ -101,7 +176,7 @@
    "tldr": "",
    "published": "2026-07-20T15:58:51.000Z",
    "dupes": 1,
-   "score": 0.409,
+   "score": 0.4,
    "tier": 2
   },
   {
@@ -116,22 +191,7 @@
    "tldr": "” That’s two things in one name: pharmaceutical giant Bristol Myers Squibb (BMS) already runs one of the largest AI clusters in life sciences, with serious results to show for it.  And they’re doubling down.",
    "published": "2026-07-20T10:59:23.000Z",
    "dupes": 1,
-   "score": 0.396,
-   "tier": 2
-  },
-  {
-   "id": "cf5140273af6f91a9533c948b40839067fb2032a",
-   "title": "Microsoft expands Azure AI and HPC infrastructure with AMD",
-   "url": "https://blogs.microsoft.com/blog/2026/07/20/microsoft-expands-azure-ai-and-hpc-infrastructure-with-amd",
-   "source": "Microsoft Blog",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "AI workloads are scaling faster than any single infrastructure approach can support — with more models, new agent-driven workloads and surging compute demand driving the need for greater specialization across the stack.…",
-   "published": "2026-07-20T13:00:02.000Z",
-   "dupes": 1,
-   "score": 0.381,
+   "score": 0.388,
    "tier": 2
   },
   {
@@ -149,8 +209,23 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.379,
-   "tier": 2
+   "score": 0.374,
+   "tier": 3
+  },
+  {
+   "id": "cf5140273af6f91a9533c948b40839067fb2032a",
+   "title": "Microsoft expands Azure AI and HPC infrastructure with AMD",
+   "url": "https://blogs.microsoft.com/blog/2026/07/20/microsoft-expands-azure-ai-and-hpc-infrastructure-with-amd",
+   "source": "Microsoft Blog",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "AI workloads are scaling faster than any single infrastructure approach can support — with more models, new agent-driven workloads and surging compute demand driving the need for greater specialization across the stack.…",
+   "published": "2026-07-20T13:00:02.000Z",
+   "dupes": 1,
+   "score": 0.372,
+   "tier": 3
   },
   {
    "id": "ddc2632ece93d2c501a09870bfa22694785dacad",
@@ -165,8 +240,8 @@
    "tldr": "",
    "published": "2026-07-20T22:14:28.000Z",
    "dupes": 1,
-   "score": 0.377,
-   "tier": 2
+   "score": 0.365,
+   "tier": 3
   },
   {
    "id": "11d2f28c2697e01a006292c9867402c2e0faf8b8",
@@ -180,8 +255,8 @@
    "tldr": "",
    "published": "2026-07-20T19:29:21.000Z",
    "dupes": 1,
-   "score": 0.367,
-   "tier": 2
+   "score": 0.356,
+   "tier": 3
   },
   {
    "id": "56771b83d103520f9f01dd58457467f07b333974",
@@ -198,8 +273,8 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.343,
-   "tier": 2
+   "score": 0.333,
+   "tier": 3
   },
   {
    "id": "13fe91a80a07eee5d966e95e63b8a636c7f4752c",
@@ -213,7 +288,7 @@
    "tldr": "",
    "published": "2026-07-20T14:01:33.000Z",
    "dupes": 1,
-   "score": 0.332,
+   "score": 0.323,
    "tier": 3
   },
   {
@@ -243,7 +318,7 @@
    "tldr": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
    "published": "2026-07-16T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.304,
+   "score": 0.303,
    "tier": 3
   },
   {
@@ -318,7 +393,7 @@
    "tldr": "Lowest cost per token from extreme codesign maximizes intelligence per dollar for post-training in the agentic era.",
    "published": "2026-07-17T15:00:14.000Z",
    "dupes": 1,
-   "score": 0.284,
+   "score": 0.283,
    "tier": 3
   },
   {
@@ -337,21 +412,6 @@
    "tier": 3
   },
   {
-   "id": "dd743dda0e19af76c6fc02b6e7f7973070dc7662",
-   "title": "Towards demystifying the creativity of diffusion models",
-   "url": "https://research.google/blog/towards-demystifying-the-creativity-of-diffusion-models",
-   "source": "Google Research",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Algorithms & Theory",
-   "published": "2026-07-15T18:06:00.000Z",
-   "dupes": 1,
-   "score": 0.277,
-   "tier": 3
-  },
-  {
    "id": "990573e03bc3f9b0dfdeac45454d68cf68205d14",
    "title": "NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI",
    "url": "https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent",
@@ -364,6 +424,21 @@
    "published": "2026-07-15T23:00:54.000Z",
    "dupes": 1,
    "score": 0.277,
+   "tier": 3
+  },
+  {
+   "id": "dd743dda0e19af76c6fc02b6e7f7973070dc7662",
+   "title": "Towards demystifying the creativity of diffusion models",
+   "url": "https://research.google/blog/towards-demystifying-the-creativity-of-diffusion-models",
+   "source": "Google Research",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Algorithms & Theory",
+   "published": "2026-07-15T18:06:00.000Z",
+   "dupes": 1,
+   "score": 0.276,
    "tier": 3
   },
   {
@@ -397,21 +472,6 @@
    "tier": 3
   },
   {
-   "id": "a730da9e2dc4842296462f19f46b64877dcba60d",
-   "title": "Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency",
-   "url": "https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Power is AI infrastructure’s inescapable constraint.  How many tokens an AI factory can generate within a fixed power budget determines its revenue and profitability.",
-   "published": "2026-07-14T15:00:20.000Z",
-   "dupes": 1,
-   "score": 0.276,
-   "tier": 3
-  },
-  {
    "id": "4babaf3e269b6d7d73f107a64fd0229d09882ad9",
    "title": "Newer Models, Same Advantage",
    "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
@@ -421,7 +481,7 @@
    "tldr": "",
    "published": "2026-07-16T11:49:48.000Z",
    "dupes": 1,
-   "score": 0.266,
+   "score": 0.265,
    "tier": 3
   },
   {
@@ -516,7 +576,7 @@
    "tldr": "",
    "published": "2026-07-19T08:25:30.000Z",
    "dupes": 1,
-   "score": 0.234,
+   "score": 0.232,
    "tier": 3
   },
   {
@@ -531,22 +591,7 @@
    "tldr": "Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers.  The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and founded multiple schools…",
    "published": "2026-07-18T20:54:42.000Z",
    "dupes": 1,
-   "score": 0.228,
-   "tier": 3
-  },
-  {
-   "id": "a49eed2391dadc37b36a8783a642fbc84c3cea1b",
-   "title": "Apple’s plot to crush OpenAI",
-   "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Apple is suing OpenAI.  The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done.",
-   "published": "2026-07-17T17:41:32.000Z",
-   "dupes": 1,
-   "score": 0.21,
+   "score": 0.226,
    "tier": 3
   }
  ]
