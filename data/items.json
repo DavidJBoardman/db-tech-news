@@ -1,21 +1,6 @@
 {
- "generated": "2026-07-29T13:12:24.493Z",
+ "generated": "2026-07-29T15:26:31.402Z",
  "items": [
-  {
-   "id": "84c6612c7ac0740ae1d877c030005d37f09d5cb9",
-   "title": "Kimi K3 Architecture Overview and Notes",
-   "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
-   "source": "Hacker News",
-   "org": [
-    "moonshot"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-28T15:48:34.000Z",
-   "dupes": 2,
-   "score": 0.566,
-   "tier": 1
-  },
   {
    "id": "2823386c5716abd719526e02e90eedf715e74557",
    "title": "Document-borne AI worms can self-propagate through Copilot for Word",
@@ -28,7 +13,38 @@
    "tldr": "",
    "published": "2026-07-29T11:44:33.000Z",
    "dupes": 1,
-   "score": 0.557,
+   "score": 0.56,
+   "tier": 1
+  },
+  {
+   "id": "97854c7d008de2a91cf65ec609dc92b5342bf9ab",
+   "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+   "url": "https://github.com/drumih/turbo-fieldfare",
+   "source": "Hacker News",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-29T15:05:43.000Z",
+   "badges": [
+    "oss"
+   ],
+   "dupes": 1,
+   "score": 0.55,
+   "tier": 2
+  },
+  {
+   "id": "9842d79e091f5f2bfbae0d73c88e172a0c2b470c",
+   "title": "A Texture Lookup Approach to Bézier Curve Evaluation on the GPU (JCGT)",
+   "url": "https://jcgt.org/published/0015/02/01",
+   "source": "Hacker News",
+   "org": [],
+   "topic": "compute",
+   "tldr": "",
+   "published": "2026-07-29T12:40:13.000Z",
+   "dupes": 1,
+   "score": 0.522,
    "tier": 2
   },
   {
@@ -43,7 +59,22 @@
    "tldr": "The AI agent that escaped from OpenAI and hacked developer platform Hugging Face attacked other companies as well, OpenAI revealed on Tuesday.  The update substantially widens the scope of an already concerning…",
    "published": "2026-07-29T11:54:29.000Z",
    "dupes": 1,
-   "score": 0.533,
+   "score": 0.505,
+   "tier": 2
+  },
+  {
+   "id": "84c6612c7ac0740ae1d877c030005d37f09d5cb9",
+   "title": "Kimi K3 Architecture Overview and Notes",
+   "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+   "source": "HN · Kimi",
+   "org": [
+    "moonshot"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-28T15:48:34.000Z",
+   "dupes": 1,
+   "score": 0.478,
    "tier": 2
   },
   {
@@ -58,7 +89,7 @@
    "tldr": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
    "published": "2026-07-28T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.461,
+   "score": 0.447,
    "tier": 2
   },
   {
@@ -73,7 +104,20 @@
    "tldr": "As a discerning AI investor who values style and substance, Sarah Guo knows this season’s standout accessory isn’t the latest designer purse — but what’s inside it.",
    "published": "2026-07-28T15:00:19.000Z",
    "dupes": 1,
-   "score": 0.424,
+   "score": 0.412,
+   "tier": 2
+  },
+  {
+   "id": "92e866603de3150642a8c9c80bb58a309ef1887f",
+   "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+   "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-28T16:27:42.000Z",
+   "dupes": 1,
+   "score": 0.407,
    "tier": 2
   },
   {
@@ -88,20 +132,7 @@
    "tldr": "",
    "published": "2026-07-28T21:35:19.000Z",
    "dupes": 1,
-   "score": 0.421,
-   "tier": 2
-  },
-  {
-   "id": "92e866603de3150642a8c9c80bb58a309ef1887f",
-   "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
-   "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-28T16:27:42.000Z",
-   "dupes": 1,
-   "score": 0.42,
+   "score": 0.406,
    "tier": 2
   },
   {
@@ -114,7 +145,7 @@
    "tldr": "",
    "published": "2026-07-28T15:01:45.000Z",
    "dupes": 1,
-   "score": 0.411,
+   "score": 0.399,
    "tier": 2
   },
   {
@@ -132,7 +163,7 @@
     "paper"
    ],
    "dupes": 1,
-   "score": 0.409,
+   "score": 0.397,
    "tier": 2
   },
   {
@@ -147,37 +178,7 @@
    "tldr": "Throughout this past fiscal year, customers across every industry and segment moved from AI experimentation to deploying AI for real-world business outcomes.  They unlocked innovation and created new opportunities for…",
    "published": "2026-07-28T16:00:10.000Z",
    "dupes": 1,
-   "score": 0.405,
-   "tier": 2
-  },
-  {
-   "id": "54eb3a3913a3ddc90701a1d57e4ad682350c1c95",
-   "title": "Meta is Signing the EU AI Act Code of Practice on Transparency of AI-Generated Content",
-   "url": "https://about.fb.com/news/2026/07/meta-is-signing-the-eu-ai-act-code-of-practice-on-transparency-of-ai-generated-content",
-   "source": "Meta Newsroom",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "As AI-generated media becomes more photorealistic, it’s increasingly important that people have tools to help them identify it.  We’ve been working to put this principle into practice at Meta since February 2024, when…",
-   "published": "2026-07-28T09:47:23.000Z",
-   "dupes": 1,
-   "score": 0.372,
-   "tier": 2
-  },
-  {
-   "id": "4644e7383fba69a4f4fc03fbd0368b4764918803",
-   "title": "Meta Announces New Strategic Venture With BlackRock to Develop Data Center in El Paso",
-   "url": "https://about.fb.com/news/2026/07/meta-announces-new-venture-with-blackrock-to-develop-data-center-in-el-paso",
-   "source": "Meta Newsroom",
-   "org": [
-    "meta"
-   ],
-   "topic": "compute",
-   "tldr": "Meta and BlackRock announce a venture to finance the development and operation of a data center campus in El Paso, Texas.  The post Meta Announces New Strategic Venture With BlackRock to Develop Data Center in El Paso…",
-   "published": "2026-07-28T09:30:23.000Z",
-   "dupes": 1,
-   "score": 0.37,
+   "score": 0.392,
    "tier": 2
   },
   {
@@ -192,8 +193,38 @@
    "tldr": "Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.",
    "published": "2026-07-24T00:00:00.000Z",
    "dupes": 2,
-   "score": 0.365,
+   "score": 0.364,
    "tier": 2
+  },
+  {
+   "id": "54eb3a3913a3ddc90701a1d57e4ad682350c1c95",
+   "title": "Meta is Signing the EU AI Act Code of Practice on Transparency of AI-Generated Content",
+   "url": "https://about.fb.com/news/2026/07/meta-is-signing-the-eu-ai-act-code-of-practice-on-transparency-of-ai-generated-content",
+   "source": "Meta Newsroom",
+   "org": [
+    "meta"
+   ],
+   "topic": "ai",
+   "tldr": "As AI-generated media becomes more photorealistic, it’s increasingly important that people have tools to help them identify it.  We’ve been working to put this principle into practice at Meta since February 2024, when…",
+   "published": "2026-07-28T09:47:23.000Z",
+   "dupes": 1,
+   "score": 0.362,
+   "tier": 3
+  },
+  {
+   "id": "4644e7383fba69a4f4fc03fbd0368b4764918803",
+   "title": "Meta Announces New Strategic Venture With BlackRock to Develop Data Center in El Paso",
+   "url": "https://about.fb.com/news/2026/07/meta-announces-new-venture-with-blackrock-to-develop-data-center-in-el-paso",
+   "source": "Meta Newsroom",
+   "org": [
+    "meta"
+   ],
+   "topic": "compute",
+   "tldr": "Meta and BlackRock announce a venture to finance the development and operation of a data center campus in El Paso, Texas.  The post Meta Announces New Strategic Venture With BlackRock to Develop Data Center in El Paso…",
+   "published": "2026-07-28T09:30:23.000Z",
+   "dupes": 1,
+   "score": 0.361,
+   "tier": 3
   },
   {
    "id": "420ae9b5bcfc1c6aabe2b4f4b6f1f97590c94a7b",
@@ -207,7 +238,7 @@
    "tldr": "",
    "published": "2026-07-28T18:10:48.000Z",
    "dupes": 1,
-   "score": 0.36,
+   "score": 0.347,
    "tier": 3
   },
   {
@@ -222,7 +253,7 @@
    "tldr": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
    "published": "2026-07-27T03:30:00.000Z",
    "dupes": 1,
-   "score": 0.338,
+   "score": 0.335,
    "tier": 3
   },
   {
@@ -240,7 +271,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.333,
+   "score": 0.33,
    "tier": 3
   },
   {
@@ -255,7 +286,7 @@
    "tldr": "",
    "published": "2026-07-27T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.333,
+   "score": 0.33,
    "tier": 3
   },
   {
@@ -270,7 +301,7 @@
    "tldr": "",
    "published": "2026-07-27T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.333,
+   "score": 0.33,
    "tier": 3
   },
   {
@@ -285,22 +316,7 @@
    "tldr": "Open source software is a critical pillar of the global economy.  It underpins cloud computing, financial services, manufacturing, telecommunications, government and internet services by making technology accessible and…",
    "published": "2026-07-27T09:00:07.000Z",
    "dupes": 1,
-   "score": 0.322,
-   "tier": 3
-  },
-  {
-   "id": "9101339b1ac2463964352cfa5c8f9120dd19aef3",
-   "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-   "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-   "source": "Hugging Face Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-27T09:32:20.000Z",
-   "dupes": 1,
-   "score": 0.31,
+   "score": 0.318,
    "tier": 3
   },
   {
@@ -315,22 +331,22 @@
    "tldr": "The complexity of modern chip design continues to grow as engineering teams work to develop increasingly sophisticated CPUs, GPUs and AI systems.  To help meet that challenge, NVIDIA is collaborating with industry…",
    "published": "2026-07-27T00:45:42.000Z",
    "dupes": 1,
-   "score": 0.309,
+   "score": 0.306,
    "tier": 3
   },
   {
-   "id": "387bce16f0ee9ac88b9c5bc4a2ad0ba0dc7c01cf",
-   "title": "Kimi K3 Now Available via Telnyx Inference API",
-   "url": "https://telnyx.com/release-notes/kimi-k3-telnyx-inference",
-   "source": "HN · Kimi",
+   "id": "9101339b1ac2463964352cfa5c8f9120dd19aef3",
+   "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+   "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+   "source": "Hugging Face Blog",
    "org": [
-    "moonshot"
+    "nvidia"
    ],
    "topic": "ai",
    "tldr": "",
-   "published": "2026-07-27T22:46:28.000Z",
+   "published": "2026-07-27T09:32:20.000Z",
    "dupes": 1,
-   "score": 0.309,
+   "score": 0.306,
    "tier": 3
   },
   {
@@ -345,7 +361,7 @@
    "tldr": "We've awarded AI Glasses Impact Grants to 30 organizations across the US using Meta AI glasses to help people work safer, learn faster, and live more independently.  The post Announcing the AI Glasses Impact Grant…",
    "published": "2026-07-27T14:00:36.000Z",
    "dupes": 1,
-   "score": 0.307,
+   "score": 0.302,
    "tier": 3
   },
   {
@@ -364,21 +380,6 @@
    "tier": 3
   },
   {
-   "id": "482712912042705804e100b8dfb9fc1f697da3b3",
-   "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
-   "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission",
-   "source": "Google DeepMind",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Google commits $40M in AI tokens and credits for the Genesis Mission",
-   "published": "2026-07-22T13:38:54.000Z",
-   "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
    "id": "8ff67d77127ccd24731c0636446168075996e8c8",
    "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
    "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
@@ -388,7 +389,7 @@
    "tldr": "",
    "published": "2026-07-27T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.296,
+   "score": 0.293,
    "tier": 3
   },
   {
@@ -403,7 +404,7 @@
    "tldr": "",
    "published": "2026-07-25T23:32:50.000Z",
    "dupes": 1,
-   "score": 0.281,
+   "score": 0.278,
    "tier": 3
   },
   {
@@ -506,7 +507,7 @@
    "tldr": "",
    "published": "2026-07-27T15:57:15.000Z",
    "dupes": 1,
-   "score": 0.262,
+   "score": 0.257,
    "tier": 3
   },
   {
@@ -540,7 +541,7 @@
    "tldr": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools.  The new Open Secure AI Alliance said open tools are required to…",
    "published": "2026-07-27T12:06:22.000Z",
    "dupes": 1,
-   "score": 0.253,
+   "score": 0.248,
    "tier": 3
   },
   {
@@ -555,7 +556,7 @@
    "tldr": "",
    "published": "2026-07-22T20:14:38.000Z",
    "dupes": 1,
-   "score": 0.213,
+   "score": 0.218,
    "tier": 3
   }
  ]
