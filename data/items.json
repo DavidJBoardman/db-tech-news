@@ -1,6 +1,21 @@
 {
- "generated": "2026-07-31T01:06:51.581Z",
+ "generated": "2026-07-31T04:54:31.295Z",
  "items": [
+  {
+   "id": "82c2a5cb1208ca691c70cb873f76ced86d738e3d",
+   "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+   "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots",
+   "source": "Google DeepMind",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-28T13:21:37.000Z",
+   "dupes": 2,
+   "score": 0.543,
+   "tier": 1
+  },
   {
    "id": "18321dc95cc5a2f19383cdf6599700eefce0e5ec",
    "title": "Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence",
@@ -16,8 +31,8 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.569,
-   "tier": 1
+   "score": 0.529,
+   "tier": 2
   },
   {
    "id": "945ecdf346e314c875c43afb284a603e6f640220",
@@ -35,22 +50,7 @@
     "oss"
    ],
    "dupes": 2,
-   "score": 0.556,
-   "tier": 2
-  },
-  {
-   "id": "82c2a5cb1208ca691c70cb873f76ced86d738e3d",
-   "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-   "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots",
-   "source": "Google DeepMind",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-28T13:21:37.000Z",
-   "dupes": 2,
-   "score": 0.543,
+   "score": 0.524,
    "tier": 2
   },
   {
@@ -65,7 +65,7 @@
    "tldr": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks.  It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
    "published": "2026-07-30T15:00:59.000Z",
    "dupes": 1,
-   "score": 0.537,
+   "score": 0.505,
    "tier": 2
   },
   {
@@ -80,22 +80,7 @@
    "tldr": "Computer-use AI agents struggle with multi-step workflows like email and customer support.  Echoverse trains agents in realistic environments rather than simply providing more training tasks, helping them improve as the…",
    "published": "2026-07-30T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.519,
-   "tier": 2
-  },
-  {
-   "id": "5632af334a32abd06a395514628f68a33f1bab2f",
-   "title": "EvoLib: Turning experience into evolving knowledge",
-   "url": "https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge",
-   "source": "Microsoft Research",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "LLMs do not get smarter just by remembering more.  EvoLib turns experience into evolving knowledge, taking reusable skills and insights that help models learn and adapt across tasks long after deployment.",
-   "published": "2026-07-30T16:00:00.000Z",
-   "dupes": 1,
-   "score": 0.509,
+   "score": 0.484,
    "tier": 2
   },
   {
@@ -110,20 +95,22 @@
    "tldr": "",
    "published": "2026-07-30T10:13:46.000Z",
    "dupes": 1,
-   "score": 0.505,
+   "score": 0.483,
    "tier": 2
   },
   {
-   "id": "f684c3a66a25993b3b1383e0e1572029a8c2c3f9",
-   "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-   "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "compute",
-   "tldr": "",
-   "published": "2026-07-30T15:09:09.000Z",
+   "id": "5632af334a32abd06a395514628f68a33f1bab2f",
+   "title": "EvoLib: Turning experience into evolving knowledge",
+   "url": "https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge",
+   "source": "Microsoft Research",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "LLMs do not get smarter just by remembering more.  EvoLib turns experience into evolving knowledge, taking reusable skills and insights that help models learn and adapt across tasks long after deployment.",
+   "published": "2026-07-30T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.501,
+   "score": 0.475,
    "tier": 2
   },
   {
@@ -138,7 +125,20 @@
    "tldr": "6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
    "published": "2026-07-30T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.496,
+   "score": 0.469,
+   "tier": 2
+  },
+  {
+   "id": "f684c3a66a25993b3b1383e0e1572029a8c2c3f9",
+   "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+   "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "compute",
+   "tldr": "",
+   "published": "2026-07-30T15:09:09.000Z",
+   "dupes": 1,
+   "score": 0.469,
    "tier": 2
   },
   {
@@ -156,22 +156,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.495,
-   "tier": 2
-  },
-  {
-   "id": "286e4f22143861c4d6b15636e1ae94c680a038b7",
-   "title": "Google DeepMind’s new AI model can control a robot’s entire body",
-   "url": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
-   "source": "The Verge AI",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "\" While the previous model focused on controlling a humanoid robot's upper body, Gemini Robotics 2 now supports \"whole-body motions\" ranging from its feet to fingertips, according to an announcement on Thursday.",
-   "published": "2026-07-30T17:18:45.000Z",
-   "dupes": 1,
-   "score": 0.459,
+   "score": 0.465,
    "tier": 2
   },
   {
@@ -186,7 +171,22 @@
    "tldr": "",
    "published": "2026-07-29T19:25:33.000Z",
    "dupes": 1,
-   "score": 0.449,
+   "score": 0.426,
+   "tier": 2
+  },
+  {
+   "id": "286e4f22143861c4d6b15636e1ae94c680a038b7",
+   "title": "Google DeepMind’s new AI model can control a robot’s entire body",
+   "url": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+   "source": "The Verge AI",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "\" While the previous model focused on controlling a humanoid robot's upper body, Gemini Robotics 2 now supports \"whole-body motions\" ranging from its feet to fingertips, according to an announcement on Thursday.",
+   "published": "2026-07-30T17:18:45.000Z",
+   "dupes": 1,
+   "score": 0.424,
    "tier": 2
   },
   {
@@ -201,8 +201,23 @@
    "tldr": "",
    "published": "2026-07-30T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.433,
+   "score": 0.415,
    "tier": 2
+  },
+  {
+   "id": "9146ff1756af0f60b5f477a4d8ca11d0af20e7a2",
+   "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+   "url": "https://openai.com/index/avatarin",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support.  In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
+   "published": "2026-07-30T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.415,
+   "tier": 3
   },
   {
    "id": "42b77c184ced416665a84caa8f27c87e8d08fae3",
@@ -216,7 +231,7 @@
    "tldr": "",
    "published": "2026-07-29T16:02:10.000Z",
    "dupes": 1,
-   "score": 0.398,
+   "score": 0.385,
    "tier": 3
   },
   {
@@ -231,7 +246,7 @@
    "tldr": "6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
    "published": "2026-07-29T15:00:00.000Z",
    "dupes": 1,
-   "score": 0.394,
+   "score": 0.381,
    "tier": 3
   },
   {
@@ -246,7 +261,7 @@
    "tldr": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
    "published": "2026-07-29T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.378,
+   "score": 0.367,
    "tier": 3
   },
   {
@@ -261,7 +276,7 @@
    "tldr": "6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
    "published": "2026-07-29T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.353,
+   "score": 0.346,
    "tier": 3
   },
   {
@@ -276,7 +291,7 @@
    "tldr": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
    "published": "2026-07-28T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.34,
+   "score": 0.335,
    "tier": 3
   },
   {
@@ -290,66 +305,6 @@
    "topic": "ai",
    "tldr": "",
    "published": "2026-07-30T00:00:50.000Z",
-   "dupes": 1,
-   "score": 0.331,
-   "tier": 3
-  },
-  {
-   "id": "285b9257d2df15c52d1fc7a988fc5ece093c02a9",
-   "title": "Self-hosting Kimi K3: 20% more hardware cost, 20% better task resolution",
-   "url": "https://aistack.imec-int.com/blog/gpu-self-hosting",
-   "source": "HN · Kimi",
-   "org": [
-    "moonshot"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-29T14:38:35.000Z",
-   "dupes": 1,
-   "score": 0.327,
-   "tier": 3
-  },
-  {
-   "id": "0434773f642a30262ab3468a021594ede1637026",
-   "title": "Microsoft confirms Copilot ‘super app’ coming this year",
-   "url": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
-   "source": "The Verge AI",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "Microsoft is working on an AI \"super app\" that combines Copilot's chat, coding, and agentic capabilities.  During an earnings call on Wednesday, Microsoft CEO Satya Nadella said the app will span \"both consumer and…",
-   "published": "2026-07-29T22:17:38.000Z",
-   "dupes": 1,
-   "score": 0.325,
-   "tier": 3
-  },
-  {
-   "id": "5fe08d38c090003b38480daa283c2e6f1cd5c49a",
-   "title": "xAI’s last-minute scramble to stop Minnesota’s anti-nudification app law",
-   "url": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
-   "source": "The Verge AI",
-   "org": [
-    "xai"
-   ],
-   "topic": "ai",
-   "tldr": "\" The law, the company argues, violates the First Amendment.",
-   "published": "2026-07-29T21:06:52.000Z",
-   "dupes": 1,
-   "score": 0.319,
-   "tier": 3
-  },
-  {
-   "id": "6075f78d718a8d87773ee3531c103bf624df8e93",
-   "title": "Powerful Compute So Compact, It’s Clutch — Build AI Anywhere With NVIDIA Jetson",
-   "url": "https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "As a discerning AI investor who values style and substance, Sarah Guo knows this season’s standout accessory isn’t the latest designer purse — but what’s inside it.",
-   "published": "2026-07-28T15:00:19.000Z",
    "dupes": 1,
    "score": 0.312,
    "tier": 3
@@ -366,7 +321,22 @@
    "tldr": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
    "published": "2026-07-27T03:30:00.000Z",
    "dupes": 1,
-   "score": 0.31,
+   "score": 0.308,
+   "tier": 3
+  },
+  {
+   "id": "0434773f642a30262ab3468a021594ede1637026",
+   "title": "Microsoft confirms Copilot ‘super app’ coming this year",
+   "url": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
+   "source": "The Verge AI",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "Microsoft is working on an AI \"super app\" that combines Copilot's chat, coding, and agentic capabilities.  During an earnings call on Wednesday, Microsoft CEO Satya Nadella said the app will span \"both consumer and…",
+   "published": "2026-07-29T22:17:38.000Z",
+   "dupes": 1,
+   "score": 0.308,
    "tier": 3
   },
   {
@@ -384,7 +354,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.308,
+   "score": 0.307,
    "tier": 3
   },
   {
@@ -399,7 +369,22 @@
    "tldr": "",
    "published": "2026-07-27T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.308,
+   "score": 0.307,
+   "tier": 3
+  },
+  {
+   "id": "6075f78d718a8d87773ee3531c103bf624df8e93",
+   "title": "Powerful Compute So Compact, It’s Clutch — Build AI Anywhere With NVIDIA Jetson",
+   "url": "https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "As a discerning AI investor who values style and substance, Sarah Guo knows this season’s standout accessory isn’t the latest designer purse — but what’s inside it.",
+   "published": "2026-07-28T15:00:19.000Z",
+   "dupes": 1,
+   "score": 0.307,
    "tier": 3
   },
   {
@@ -414,7 +399,48 @@
    "tldr": "",
    "published": "2026-07-27T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.308,
+   "score": 0.307,
+   "tier": 3
+  },
+  {
+   "id": "5fe08d38c090003b38480daa283c2e6f1cd5c49a",
+   "title": "xAI’s last-minute scramble to stop Minnesota’s anti-nudification app law",
+   "url": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
+   "source": "The Verge AI",
+   "org": [
+    "xai"
+   ],
+   "topic": "ai",
+   "tldr": "\" The law, the company argues, violates the First Amendment.",
+   "published": "2026-07-29T21:06:52.000Z",
+   "dupes": 1,
+   "score": 0.303,
+   "tier": 3
+  },
+  {
+   "id": "92e866603de3150642a8c9c80bb58a309ef1887f",
+   "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+   "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-28T16:27:42.000Z",
+   "dupes": 1,
+   "score": 0.297,
+   "tier": 3
+  },
+  {
+   "id": "85dd02699b255d55941b95836974b572a0f7e463",
+   "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+   "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-28T15:01:45.000Z",
+   "dupes": 1,
+   "score": 0.295,
    "tier": 3
   },
   {
@@ -429,48 +455,7 @@
    "tldr": "In an interview with our friend Joanna Stern on her YouTube channel, OpenAI president Greg Brockman said the company is working on a \"family of devices\" for interacting with its AI models.",
    "published": "2026-07-29T18:15:02.000Z",
    "dupes": 1,
-   "score": 0.307,
-   "tier": 3
-  },
-  {
-   "id": "92e866603de3150642a8c9c80bb58a309ef1887f",
-   "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
-   "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-28T16:27:42.000Z",
-   "dupes": 1,
-   "score": 0.302,
-   "tier": 3
-  },
-  {
-   "id": "85dd02699b255d55941b95836974b572a0f7e463",
-   "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
-   "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-28T15:01:45.000Z",
-   "dupes": 1,
-   "score": 0.3,
-   "tier": 3
-  },
-  {
-   "id": "7c3dbcf88641970da9475e590c6b709df620c19d",
-   "title": "Looking back on Microsoft’s FY26: From AI experimentation to Frontier Transformation",
-   "url": "https://blogs.microsoft.com/blog/2026/07/28/looking-back-on-microsofts-fy26-from-ai-experimentation-to-frontier-transformation",
-   "source": "Microsoft Blog",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "Throughout this past fiscal year, customers across every industry and segment moved from AI experimentation to deploying AI for real-world business outcomes.  They unlocked innovation and created new opportunities for…",
-   "published": "2026-07-28T16:00:10.000Z",
-   "dupes": 1,
-   "score": 0.289,
+   "score": 0.292,
    "tier": 3
   },
   {
@@ -485,7 +470,22 @@
    "tldr": "Open source software is a critical pillar of the global economy.  It underpins cloud computing, financial services, manufacturing, telecommunications, government and internet services by making technology accessible and…",
    "published": "2026-07-27T09:00:07.000Z",
    "dupes": 1,
-   "score": 0.287,
+   "score": 0.285,
+   "tier": 3
+  },
+  {
+   "id": "7c3dbcf88641970da9475e590c6b709df620c19d",
+   "title": "Looking back on Microsoft’s FY26: From AI experimentation to Frontier Transformation",
+   "url": "https://blogs.microsoft.com/blog/2026/07/28/looking-back-on-microsofts-fy26-from-ai-experimentation-to-frontier-transformation",
+   "source": "Microsoft Blog",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "Throughout this past fiscal year, customers across every industry and segment moved from AI experimentation to deploying AI for real-world business outcomes.  They unlocked innovation and created new opportunities for…",
+   "published": "2026-07-28T16:00:10.000Z",
+   "dupes": 1,
+   "score": 0.284,
    "tier": 3
   },
   {
@@ -500,7 +500,7 @@
    "tldr": "The complexity of modern chip design continues to grow as engineering teams work to develop increasingly sophisticated CPUs, GPUs and AI systems.  To help meet that challenge, NVIDIA is collaborating with industry…",
    "published": "2026-07-27T00:45:42.000Z",
    "dupes": 1,
-   "score": 0.284,
+   "score": 0.282,
    "tier": 3
   },
   {
@@ -515,7 +515,7 @@
    "tldr": "As AI-generated media becomes more photorealistic, it’s increasingly important that people have tools to help them identify it.  We’ve been working to put this principle into practice at Meta since February 2024, when…",
    "published": "2026-07-28T09:47:23.000Z",
    "dupes": 1,
-   "score": 0.281,
+   "score": 0.276,
    "tier": 3
   },
   {
@@ -529,21 +529,6 @@
    "topic": "compute",
    "tldr": "Meta and BlackRock announce a venture to finance the development and operation of a data center campus in El Paso, Texas.  The post Meta Announces New Strategic Venture With BlackRock to Develop Data Center in El Paso…",
    "published": "2026-07-28T09:30:23.000Z",
-   "dupes": 1,
-   "score": 0.28,
-   "tier": 3
-  },
-  {
-   "id": "440046e72d95a1e3b8f8ac5d74bdcea2a441c604",
-   "title": "At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners",
-   "url": "https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "At this week’s AI Summit in San Francisco, South Korean President Jae Myung Lee and some of the country’s top business leaders and researchers are meeting with NVIDIA and ecosystem partners to chart Korea’s AI progress.",
-   "published": "2026-07-24T04:34:27.000Z",
    "dupes": 1,
    "score": 0.276,
    "tier": 3
@@ -560,7 +545,7 @@
    "tldr": "",
    "published": "2026-07-27T09:32:20.000Z",
    "dupes": 1,
-   "score": 0.275,
+   "score": 0.273,
    "tier": 3
   },
   {
@@ -573,7 +558,7 @@
    "tldr": "",
    "published": "2026-07-27T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.271,
+   "score": 0.27,
    "tier": 3
   },
   {
@@ -588,7 +573,7 @@
    "tldr": "",
    "published": "2026-07-25T23:32:50.000Z",
    "dupes": 1,
-   "score": 0.269,
+   "score": 0.264,
    "tier": 3
   },
   {
@@ -603,7 +588,7 @@
    "tldr": "We've awarded AI Glasses Impact Grants to 30 organizations across the US using Meta AI glasses to help people work safer, learn faster, and live more independently.  The post Announcing the AI Glasses Impact Grant…",
    "published": "2026-07-27T14:00:36.000Z",
    "dupes": 1,
-   "score": 0.264,
+   "score": 0.262,
    "tier": 3
   },
   {
@@ -633,7 +618,7 @@
    "tldr": "",
    "published": "2026-07-28T18:10:48.000Z",
    "dupes": 1,
-   "score": 0.235,
+   "score": 0.229,
    "tier": 3
   }
  ]
