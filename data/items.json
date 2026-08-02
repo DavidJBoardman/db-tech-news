@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-02T14:24:59.454Z",
+ "generated": "2026-08-02T15:36:03.547Z",
  "items": [
   {
    "id": "91795cf32ccdcbf8609e272f1acf60f94eb14a2f",
@@ -13,7 +13,7 @@
    "tldr": "",
    "published": "2026-08-02T04:21:14.000Z",
    "dupes": 2,
-   "score": 0.534,
+   "score": 0.524,
    "tier": 1
   },
   {
@@ -28,7 +28,7 @@
    "tldr": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
    "published": "2026-08-01T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.38,
+   "score": 0.376,
    "tier": 2
   },
   {
@@ -43,7 +43,7 @@
    "tldr": "",
    "published": "2026-07-31T06:08:36.000Z",
    "dupes": 1,
-   "score": 0.378,
+   "score": 0.376,
    "tier": 2
   },
   {
@@ -61,7 +61,7 @@
     "model"
    ],
    "dupes": 2,
-   "score": 0.358,
+   "score": 0.356,
    "tier": 2
   },
   {
@@ -76,7 +76,7 @@
    "tldr": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe.  The work will continue as the EU AI Act advances.",
    "published": "2026-07-31T15:00:00.000Z",
    "dupes": 1,
-   "score": 0.356,
+   "score": 0.354,
    "tier": 2
   },
   {
@@ -91,7 +91,7 @@
    "tldr": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
    "published": "2026-07-31T15:00:00.000Z",
    "dupes": 1,
-   "score": 0.356,
+   "score": 0.354,
    "tier": 2
   },
   {
@@ -106,7 +106,7 @@
    "tldr": "",
    "published": "2026-07-31T07:59:11.000Z",
    "dupes": 1,
-   "score": 0.35,
+   "score": 0.348,
    "tier": 2
   },
   {
@@ -121,7 +121,7 @@
    "tldr": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
    "published": "2026-07-31T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.341,
+   "score": 0.34,
    "tier": 2
   },
   {
@@ -136,7 +136,7 @@
    "tldr": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
    "published": "2026-07-31T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.332,
+   "score": 0.33,
    "tier": 2
   },
   {
@@ -151,7 +151,7 @@
    "tldr": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks.  It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
    "published": "2026-07-30T15:00:59.000Z",
    "dupes": 1,
-   "score": 0.322,
+   "score": 0.321,
    "tier": 2
   },
   {
@@ -181,7 +181,7 @@
    "tldr": "",
    "published": "2026-07-30T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.313,
+   "score": 0.312,
    "tier": 2
   },
   {
@@ -196,38 +196,8 @@
    "tldr": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support.  In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
    "published": "2026-07-30T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.313,
+   "score": 0.312,
    "tier": 2
-  },
-  {
-   "id": "67ad5261723c86a2f5041941db2d9a03e50a286f",
-   "title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
-   "url": "https://github.com/sqliteai/waste",
-   "source": "HN · Kimi",
-   "org": [
-    "moonshot"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-31T14:12:38.000Z",
-   "dupes": 1,
-   "score": 0.31,
-   "tier": 3
-  },
-  {
-   "id": "cc8e132c619995d199d338076bd693d216fb9d56",
-   "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-   "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
-   "published": "2026-07-29T15:00:00.000Z",
-   "dupes": 1,
-   "score": 0.309,
-   "tier": 3
   },
   {
    "id": "42b77c184ced416665a84caa8f27c87e8d08fae3",
@@ -245,6 +215,21 @@
    "tier": 3
   },
   {
+   "id": "cc8e132c619995d199d338076bd693d216fb9d56",
+   "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+   "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
+   "published": "2026-07-29T15:00:00.000Z",
+   "dupes": 1,
+   "score": 0.308,
+   "tier": 3
+  },
+  {
    "id": "14fd05ad34f9923ee3b272a35b3cb1238aa811dc",
    "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
    "url": "https://openai.com/index/chatgpt-for-academic-researchers",
@@ -255,6 +240,21 @@
    "topic": "ai",
    "tldr": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
    "published": "2026-07-29T10:00:00.000Z",
+   "dupes": 1,
+   "score": 0.307,
+   "tier": 3
+  },
+  {
+   "id": "67ad5261723c86a2f5041941db2d9a03e50a286f",
+   "title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
+   "url": "https://github.com/sqliteai/waste",
+   "source": "HN · Kimi",
+   "org": [
+    "moonshot"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-31T14:12:38.000Z",
    "dupes": 1,
    "score": 0.307,
    "tier": 3
@@ -319,7 +319,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.303,
+   "score": 0.302,
    "tier": 3
   },
   {
@@ -400,7 +400,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.296,
+   "score": 0.295,
    "tier": 3
   },
   {
@@ -415,7 +415,7 @@
    "tldr": "Computer-use AI agents struggle with multi-step workflows like email and customer support.  Echoverse trains agents in realistic environments rather than simply providing more training tasks, helping them improve as the…",
    "published": "2026-07-30T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.287,
+   "score": 0.286,
    "tier": 3
   },
   {
@@ -430,7 +430,7 @@
    "tldr": "LLMs do not get smarter just by remembering more.  EvoLib turns experience into evolving knowledge, taking reusable skills and insights that help models learn and adapt across tasks long after deployment.",
    "published": "2026-07-30T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.286,
+   "score": 0.285,
    "tier": 3
   },
   {
@@ -443,22 +443,7 @@
    "tldr": "",
    "published": "2026-07-30T15:09:09.000Z",
    "dupes": 1,
-   "score": 0.285,
-   "tier": 3
-  },
-  {
-   "id": "93fa7ed8cbb0c4a072d81ff02bc0bf3413b614df",
-   "title": "US lawmakers investigate DoorDash's use of Moonshot AI's Kimi K2.6 model",
-   "url": "https://www.scmp.com/news/china/diplomacy/article/3362616/us-lawmakers-investigate-doordashs-use-moonshot-ais-kimi-k26-model",
-   "source": "HN · Kimi",
-   "org": [
-    "moonshot"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-01T03:11:07.000Z",
-   "dupes": 1,
-   "score": 0.28,
+   "score": 0.284,
    "tier": 3
   },
   {
@@ -473,7 +458,7 @@
    "tldr": "As a discerning AI investor who values style and substance, Sarah Guo knows this season’s standout accessory isn’t the latest designer purse — but what’s inside it.",
    "published": "2026-07-28T15:00:19.000Z",
    "dupes": 1,
-   "score": 0.279,
+   "score": 0.278,
    "tier": 3
   },
   {
@@ -507,6 +492,21 @@
    "tier": 3
   },
   {
+   "id": "93fa7ed8cbb0c4a072d81ff02bc0bf3413b614df",
+   "title": "US lawmakers investigate DoorDash's use of Moonshot AI's Kimi K2.6 model",
+   "url": "https://www.scmp.com/news/china/diplomacy/article/3362616/us-lawmakers-investigate-doordashs-use-moonshot-ais-kimi-k26-model",
+   "source": "HN · Kimi",
+   "org": [
+    "moonshot"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-01T03:11:07.000Z",
+   "dupes": 1,
+   "score": 0.276,
+   "tier": 3
+  },
+  {
    "id": "92e866603de3150642a8c9c80bb58a309ef1887f",
    "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
    "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
@@ -533,21 +533,6 @@
    "tier": 3
   },
   {
-   "id": "abe78d62759cd3b39a43337a9f9ae27458c6a92c",
-   "title": "Google Earth’s AI deepfake tool only lasted one day",
-   "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
-   "source": "The Verge AI",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Google has shut down Google Earth feature it launched Thursday that allowed users to edit satellite images with text prompts using AI.",
-   "published": "2026-07-31T19:13:29.000Z",
-   "dupes": 1,
-   "score": 0.266,
-   "tier": 3
-  },
-  {
    "id": "9101339b1ac2463964352cfa5c8f9120dd19aef3",
    "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
    "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
@@ -558,23 +543,6 @@
    "topic": "ai",
    "tldr": "",
    "published": "2026-07-27T09:32:20.000Z",
-   "dupes": 1,
-   "score": 0.264,
-   "tier": 3
-  },
-  {
-   "id": "99968ecdb7c2d5d85cf6ff6b9832026ee946be88",
-   "title": "Moonshot’s Kimi uses 20k Nvidia chip cluster from Alibaba",
-   "url": "https://www.bloomberg.com/news/articles/2026-07-31/moonshot-s-kimi-built-on-20-000-nvidia-chip-cluster-from-alibaba",
-   "source": "HN · Kimi",
-   "org": [
-    "moonshot",
-    "nvidia",
-    "qwen"
-   ],
-   "topic": "compute",
-   "tldr": "",
-   "published": "2026-07-31T13:24:03.000Z",
    "dupes": 1,
    "score": 0.264,
    "tier": 3
@@ -593,6 +561,38 @@
    "tier": 3
   },
   {
+   "id": "abe78d62759cd3b39a43337a9f9ae27458c6a92c",
+   "title": "Google Earth’s AI deepfake tool only lasted one day",
+   "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
+   "source": "The Verge AI",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Google has shut down Google Earth feature it launched Thursday that allowed users to edit satellite images with text prompts using AI.",
+   "published": "2026-07-31T19:13:29.000Z",
+   "dupes": 1,
+   "score": 0.263,
+   "tier": 3
+  },
+  {
+   "id": "99968ecdb7c2d5d85cf6ff6b9832026ee946be88",
+   "title": "Moonshot’s Kimi uses 20k Nvidia chip cluster from Alibaba",
+   "url": "https://www.bloomberg.com/news/articles/2026-07-31/moonshot-s-kimi-built-on-20-000-nvidia-chip-cluster-from-alibaba",
+   "source": "HN · Kimi",
+   "org": [
+    "moonshot",
+    "nvidia",
+    "qwen"
+   ],
+   "topic": "compute",
+   "tldr": "",
+   "published": "2026-07-31T13:24:03.000Z",
+   "dupes": 1,
+   "score": 0.261,
+   "tier": 3
+  },
+  {
    "id": "cb8ef2d60e0e92966d2ddb7b9a0030b7ae3c6e59",
    "title": "Here’s the problem with putting an AI image generator in Google Earth",
    "url": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images",
@@ -604,7 +604,7 @@
    "tldr": "A text prompt was all it took to generate reality-warping images using Google Earth's satellite, aerial, and 3D imagery with a now-rolled back AI feature, like these images generated by Digital Digging's Henk van Ess…",
    "published": "2026-07-31T17:05:46.000Z",
    "dupes": 1,
-   "score": 0.261,
+   "score": 0.258,
    "tier": 3
   },
   {
@@ -619,22 +619,7 @@
    "tldr": "Throughout this past fiscal year, customers across every industry and segment moved from AI experimentation to deploying AI for real-world business outcomes.  They unlocked innovation and created new opportunities for…",
    "published": "2026-07-28T16:00:10.000Z",
    "dupes": 1,
-   "score": 0.254,
-   "tier": 3
-  },
-  {
-   "id": "6da874292559b71ddbb81b56ca6908913c3510c3",
-   "title": "Anthropic says Claude accidentally hacked real companies too",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
-   "source": "The Verge AI",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on their own and without the company noticing.",
-   "published": "2026-07-31T13:41:17.000Z",
-   "dupes": 1,
-   "score": 0.254,
+   "score": 0.253,
    "tier": 3
   },
   {
@@ -683,6 +668,21 @@
    "tier": 3
   },
   {
+   "id": "6da874292559b71ddbb81b56ca6908913c3510c3",
+   "title": "Anthropic says Claude accidentally hacked real companies too",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
+   "source": "The Verge AI",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on their own and without the company noticing.",
+   "published": "2026-07-31T13:41:17.000Z",
+   "dupes": 1,
+   "score": 0.251,
+   "tier": 3
+  },
+  {
    "id": "945ecdf346e314c875c43afb284a603e6f640220",
    "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
    "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
@@ -698,7 +698,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.247,
+   "score": 0.246,
    "tier": 3
   }
  ]
