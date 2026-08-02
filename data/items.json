@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-01T23:27:05.828Z",
+ "generated": "2026-08-02T01:05:45.923Z",
  "items": [
   {
    "id": "f7ce8c5defc33c8b82e4f27fe1cb67c1a6e4e246",
@@ -13,21 +13,8 @@
    "tldr": "",
    "published": "2026-08-01T18:07:07.000Z",
    "dupes": 1,
-   "score": 0.553,
+   "score": 0.546,
    "tier": 1
-  },
-  {
-   "id": "69231ab1be417ec6a88e70d8b7ca03ab22f545d4",
-   "title": "The Silicon Valley Founder Meat Grinder",
-   "url": "https://zaksa.zip/blog/silicon-valley-founder-meat-grinder",
-   "source": "Hacker News",
-   "org": [],
-   "topic": "compute",
-   "tldr": "",
-   "published": "2026-08-01T20:20:58.000Z",
-   "dupes": 1,
-   "score": 0.55,
-   "tier": 2
   },
   {
    "id": "6d58997b466ca59f729e755e523db112666f9bfc",
@@ -41,7 +28,7 @@
    "tldr": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
    "published": "2026-08-01T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.442,
+   "score": 0.433,
    "tier": 2
   },
   {
@@ -56,7 +43,7 @@
    "tldr": "",
    "published": "2026-07-31T06:08:36.000Z",
    "dupes": 1,
-   "score": 0.409,
+   "score": 0.404,
    "tier": 2
   },
   {
@@ -71,7 +58,7 @@
    "tldr": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe.  The work will continue as the EU AI Act advances.",
    "published": "2026-07-31T15:00:00.000Z",
    "dupes": 1,
-   "score": 0.4,
+   "score": 0.394,
    "tier": 2
   },
   {
@@ -86,7 +73,7 @@
    "tldr": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
    "published": "2026-07-31T15:00:00.000Z",
    "dupes": 1,
-   "score": 0.4,
+   "score": 0.394,
    "tier": 2
   },
   {
@@ -104,7 +91,7 @@
     "model"
    ],
    "dupes": 2,
-   "score": 0.391,
+   "score": 0.386,
    "tier": 2
   },
   {
@@ -119,7 +106,7 @@
    "tldr": "",
    "published": "2026-07-31T07:59:11.000Z",
    "dupes": 1,
-   "score": 0.383,
+   "score": 0.379,
    "tier": 2
   },
   {
@@ -134,7 +121,7 @@
    "tldr": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
    "published": "2026-07-31T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.374,
+   "score": 0.369,
    "tier": 2
   },
   {
@@ -149,7 +136,7 @@
    "tldr": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
    "published": "2026-07-31T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.356,
+   "score": 0.353,
    "tier": 2
   },
   {
@@ -164,7 +151,7 @@
    "tldr": "",
    "published": "2026-07-31T14:12:38.000Z",
    "dupes": 1,
-   "score": 0.352,
+   "score": 0.346,
    "tier": 2
   },
   {
@@ -179,7 +166,7 @@
    "tldr": "",
    "published": "2026-08-01T03:11:07.000Z",
    "dupes": 1,
-   "score": 0.35,
+   "score": 0.34,
    "tier": 2
   },
   {
@@ -194,7 +181,7 @@
    "tldr": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks.  It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
    "published": "2026-07-30T15:00:59.000Z",
    "dupes": 1,
-   "score": 0.34,
+   "score": 0.337,
    "tier": 2
   },
   {
@@ -209,7 +196,37 @@
    "tldr": "6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
    "published": "2026-07-30T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.333,
+   "score": 0.331,
+   "tier": 2
+  },
+  {
+   "id": "d382e1dba0c73c1fef5dbcef68050b999c22b500",
+   "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+   "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+   "source": "Anthropic News",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-30T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.321,
+   "tier": 3
+  },
+  {
+   "id": "9146ff1756af0f60b5f477a4d8ca11d0af20e7a2",
+   "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+   "url": "https://openai.com/index/avatarin",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support.  In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
+   "published": "2026-07-30T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.321,
    "tier": 3
   },
   {
@@ -227,52 +244,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.324,
-   "tier": 3
-  },
-  {
-   "id": "d382e1dba0c73c1fef5dbcef68050b999c22b500",
-   "title": "Investigating three real-world incidents in our cybersecurity evaluations",
-   "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-   "source": "Anthropic News",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-30T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.322,
-   "tier": 3
-  },
-  {
-   "id": "9146ff1756af0f60b5f477a4d8ca11d0af20e7a2",
-   "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
-   "url": "https://openai.com/index/avatarin",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support.  In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
-   "published": "2026-07-30T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.322,
-   "tier": 3
-  },
-  {
-   "id": "abe78d62759cd3b39a43337a9f9ae27458c6a92c",
-   "title": "Google Earth’s AI deepfake tool only lasted one day",
-   "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
-   "source": "The Verge AI",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Google has shut down Google Earth feature it launched Thursday that allowed users to edit satellite images with text prompts using AI.",
-   "published": "2026-07-31T19:13:29.000Z",
-   "dupes": 1,
-   "score": 0.318,
+   "score": 0.321,
    "tier": 3
   },
   {
@@ -287,7 +259,7 @@
    "tldr": "6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
    "published": "2026-07-29T15:00:00.000Z",
    "dupes": 1,
-   "score": 0.316,
+   "score": 0.315,
    "tier": 3
   },
   {
@@ -302,7 +274,7 @@
    "tldr": "",
    "published": "2026-07-29T16:02:10.000Z",
    "dupes": 1,
-   "score": 0.316,
+   "score": 0.315,
    "tier": 3
   },
   {
@@ -317,7 +289,22 @@
    "tldr": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
    "published": "2026-07-29T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.313,
+   "score": 0.312,
+   "tier": 3
+  },
+  {
+   "id": "abe78d62759cd3b39a43337a9f9ae27458c6a92c",
+   "title": "Google Earth’s AI deepfake tool only lasted one day",
+   "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
+   "source": "The Verge AI",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Google has shut down Google Earth feature it launched Thursday that allowed users to edit satellite images with text prompts using AI.",
+   "published": "2026-07-31T19:13:29.000Z",
+   "dupes": 1,
+   "score": 0.311,
    "tier": 3
   },
   {
@@ -335,7 +322,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.312,
+   "score": 0.31,
    "tier": 3
   },
   {
@@ -350,22 +337,7 @@
    "tldr": "6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
    "published": "2026-07-29T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.309,
-   "tier": 3
-  },
-  {
-   "id": "cb8ef2d60e0e92966d2ddb7b9a0030b7ae3c6e59",
-   "title": "Here’s the problem with putting an AI image generator in Google Earth",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images",
-   "source": "The Verge AI",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "A text prompt was all it took to generate reality-warping images using Google Earth's satellite, aerial, and 3D imagery with a now-rolled back AI feature, like these images generated by Digital Digging's Henk van Ess…",
-   "published": "2026-07-31T17:05:46.000Z",
-   "dupes": 1,
-   "score": 0.309,
+   "score": 0.308,
    "tier": 3
   },
   {
@@ -380,7 +352,7 @@
    "tldr": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
    "published": "2026-07-28T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.307,
+   "score": 0.306,
    "tier": 3
   },
   {
@@ -410,65 +382,20 @@
    "tldr": "Computer-use AI agents struggle with multi-step workflows like email and customer support.  Echoverse trains agents in realistic environments rather than simply providing more training tasks, helping them improve as the…",
    "published": "2026-07-30T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.305,
-   "tier": 3
-  },
-  {
-   "id": "99968ecdb7c2d5d85cf6ff6b9832026ee946be88",
-   "title": "Moonshot’s Kimi uses 20k Nvidia chip cluster from Alibaba",
-   "url": "https://www.bloomberg.com/news/articles/2026-07-31/moonshot-s-kimi-built-on-20-000-nvidia-chip-cluster-from-alibaba",
-   "source": "HN · Kimi",
-   "org": [
-    "moonshot",
-    "nvidia",
-    "qwen"
-   ],
-   "topic": "compute",
-   "tldr": "",
-   "published": "2026-07-31T13:24:03.000Z",
-   "dupes": 1,
-   "score": 0.305,
-   "tier": 3
-  },
-  {
-   "id": "5632af334a32abd06a395514628f68a33f1bab2f",
-   "title": "EvoLib: Turning experience into evolving knowledge",
-   "url": "https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge",
-   "source": "Microsoft Research",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "LLMs do not get smarter just by remembering more.  EvoLib turns experience into evolving knowledge, taking reusable skills and insights that help models learn and adapt across tasks long after deployment.",
-   "published": "2026-07-30T16:00:00.000Z",
-   "dupes": 1,
-   "score": 0.304,
-   "tier": 3
-  },
-  {
-   "id": "f684c3a66a25993b3b1383e0e1572029a8c2c3f9",
-   "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-   "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "compute",
-   "tldr": "",
-   "published": "2026-07-30T15:09:09.000Z",
-   "dupes": 1,
    "score": 0.303,
    "tier": 3
   },
   {
-   "id": "f143efbfe201f0407b0e218865c812c1de07681a",
-   "title": "How AI is expanding what people do at work",
-   "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-   "source": "OpenAI Blog",
+   "id": "cb8ef2d60e0e92966d2ddb7b9a0030b7ae3c6e59",
+   "title": "Here’s the problem with putting an AI image generator in Google Earth",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images",
+   "source": "The Verge AI",
    "org": [
-    "openai"
+    "google"
    ],
    "topic": "ai",
-   "tldr": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
-   "published": "2026-07-27T03:30:00.000Z",
+   "tldr": "A text prompt was all it took to generate reality-warping images using Google Earth's satellite, aerial, and 3D imagery with a now-rolled back AI feature, like these images generated by Digital Digging's Henk van Ess…",
+   "published": "2026-07-31T17:05:46.000Z",
    "dupes": 1,
    "score": 0.302,
    "tier": 3
@@ -507,6 +434,36 @@
    "tier": 3
   },
   {
+   "id": "f143efbfe201f0407b0e218865c812c1de07681a",
+   "title": "How AI is expanding what people do at work",
+   "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
+   "published": "2026-07-27T03:30:00.000Z",
+   "dupes": 1,
+   "score": 0.301,
+   "tier": 3
+  },
+  {
+   "id": "5632af334a32abd06a395514628f68a33f1bab2f",
+   "title": "EvoLib: Turning experience into evolving knowledge",
+   "url": "https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge",
+   "source": "Microsoft Research",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "LLMs do not get smarter just by remembering more.  EvoLib turns experience into evolving knowledge, taking reusable skills and insights that help models learn and adapt across tasks long after deployment.",
+   "published": "2026-07-30T16:00:00.000Z",
+   "dupes": 1,
+   "score": 0.301,
+   "tier": 3
+  },
+  {
    "id": "fc8c187b735b5bd97e90cca4c5a39bb25a43ae12",
    "title": "Reimagining Independence: How Meta’s AI Models Are Helping the University of Pittsburgh Transform Assistive Robotics",
    "url": "https://ai.meta.com/blog/assistive-robotics-university-of-pittsburgh-sam-dino",
@@ -522,6 +479,36 @@
    "tier": 3
   },
   {
+   "id": "f684c3a66a25993b3b1383e0e1572029a8c2c3f9",
+   "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+   "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "compute",
+   "tldr": "",
+   "published": "2026-07-30T15:09:09.000Z",
+   "dupes": 1,
+   "score": 0.3,
+   "tier": 3
+  },
+  {
+   "id": "99968ecdb7c2d5d85cf6ff6b9832026ee946be88",
+   "title": "Moonshot’s Kimi uses 20k Nvidia chip cluster from Alibaba",
+   "url": "https://www.bloomberg.com/news/articles/2026-07-31/moonshot-s-kimi-built-on-20-000-nvidia-chip-cluster-from-alibaba",
+   "source": "HN · Kimi",
+   "org": [
+    "moonshot",
+    "nvidia",
+    "qwen"
+   ],
+   "topic": "compute",
+   "tldr": "",
+   "published": "2026-07-31T13:24:03.000Z",
+   "dupes": 1,
+   "score": 0.299,
+   "tier": 3
+  },
+  {
    "id": "6da874292559b71ddbb81b56ca6908913c3510c3",
    "title": "Anthropic says Claude accidentally hacked real companies too",
    "url": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
@@ -533,7 +520,7 @@
    "tldr": "Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on their own and without the company noticing.",
    "published": "2026-07-31T13:41:17.000Z",
    "dupes": 1,
-   "score": 0.295,
+   "score": 0.29,
    "tier": 3
   },
   {
@@ -604,7 +591,35 @@
    "tldr": "",
    "published": "2026-07-28T15:01:45.000Z",
    "dupes": 1,
-   "score": 0.269,
+   "score": 0.268,
+   "tier": 3
+  },
+  {
+   "id": "9101339b1ac2463964352cfa5c8f9120dd19aef3",
+   "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+   "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+   "source": "Hugging Face Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-27T09:32:20.000Z",
+   "dupes": 1,
+   "score": 0.264,
+   "tier": 3
+  },
+  {
+   "id": "8ff67d77127ccd24731c0636446168075996e8c8",
+   "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+   "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-27T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.264,
    "tier": 3
   },
   {
@@ -623,34 +638,6 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.267,
-   "tier": 3
-  },
-  {
-   "id": "9101339b1ac2463964352cfa5c8f9120dd19aef3",
-   "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-   "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-   "source": "Hugging Face Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-27T09:32:20.000Z",
-   "dupes": 1,
-   "score": 0.265,
-   "tier": 3
-  },
-  {
-   "id": "8ff67d77127ccd24731c0636446168075996e8c8",
-   "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
-   "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-27T00:00:00.000Z",
-   "dupes": 1,
    "score": 0.264,
    "tier": 3
   },
@@ -666,7 +653,7 @@
    "tldr": "Throughout this past fiscal year, customers across every industry and segment moved from AI experimentation to deploying AI for real-world business outcomes.  They unlocked innovation and created new opportunities for…",
    "published": "2026-07-28T16:00:10.000Z",
    "dupes": 1,
-   "score": 0.257,
+   "score": 0.256,
    "tier": 3
   },
   {
@@ -726,22 +713,7 @@
    "tldr": "\" While the previous model focused on controlling a humanoid robot's upper body, Gemini Robotics 2 now supports \"whole-body motions\" ranging from its feet to fingertips, according to an announcement on Thursday.",
    "published": "2026-07-30T17:18:45.000Z",
    "dupes": 1,
-   "score": 0.244,
-   "tier": 3
-  },
-  {
-   "id": "7e869420089ef9adfcc5bfa5fa791ac1ee2411b9",
-   "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-   "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/15c6504be51b884a0adc5d77e4dba41f94431454/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
-   "source": "HN · DeepSeek",
-   "org": [
-    "deepseek"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-25T23:32:50.000Z",
-   "dupes": 1,
-   "score": 0.24,
+   "score": 0.241,
    "tier": 3
   }
  ]
