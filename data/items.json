@@ -1,6 +1,19 @@
 {
- "generated": "2026-08-03T12:15:02.580Z",
+ "generated": "2026-08-03T15:23:31.220Z",
  "items": [
+  {
+   "id": "26149269af1e40c4a59769ff25c55b55dbc1b7ee",
+   "title": "AirLLM 70B inference with single 4GB GPU",
+   "url": "https://github.com/lyogavin/airllm",
+   "source": "Hacker News",
+   "org": [],
+   "topic": "compute",
+   "tldr": "",
+   "published": "2026-08-03T11:15:48.000Z",
+   "dupes": 1,
+   "score": 0.514,
+   "tier": 1
+  },
   {
    "id": "92f8a546317f462a627cf44744fe9780fa6a8873",
    "title": "China’s Alibaba takes another swipe at America’s AI supremacy",
@@ -13,8 +26,8 @@
    "tldr": "Chinese tech giant Alibaba released what it says is its largest and \"most capable AI model to date,\" claiming performance rivaling the best systems from US frontier labs Anthropic and OpenAI, as well as domestic rivals…",
    "published": "2026-08-03T11:01:11.000Z",
    "dupes": 1,
-   "score": 0.534,
-   "tier": 1
+   "score": 0.496,
+   "tier": 2
   },
   {
    "id": "0c40ed3c4c6f3528dea75a6272e8408b36a9d99c",
@@ -28,38 +41,7 @@
    "tldr": "",
    "published": "2026-07-31T06:08:36.000Z",
    "dupes": 1,
-   "score": 0.355,
-   "tier": 2
-  },
-  {
-   "id": "def8799844267d6d3b46c8cfbb829289b4e35971",
-   "title": "Having fun with oh my pi, DeepSeek-V4-Flash, GPT-5.6 Luna and Antigravity CLI",
-   "url": "https://flashblaze.xyz/posts/having-fun-with-omp-deepseek-luna-and-agy",
-   "source": "HN · DeepSeek",
-   "org": [
-    "deepseek",
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-02T15:23:59.000Z",
-   "dupes": 1,
-   "score": 0.348,
-   "tier": 2
-  },
-  {
-   "id": "6d58997b466ca59f729e755e523db112666f9bfc",
-   "title": "Ten advances in mathematics and theoretical computer science",
-   "url": "https://openai.com/index/ten-advances-in-mathematics",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
-   "published": "2026-08-01T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.334,
+   "score": 0.353,
    "tier": 2
   },
   {
@@ -77,22 +59,38 @@
     "model"
    ],
    "dupes": 2,
-   "score": 0.334,
+   "score": 0.332,
    "tier": 2
   },
   {
-   "id": "91795cf32ccdcbf8609e272f1acf60f94eb14a2f",
-   "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
-   "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
-   "source": "HN · Kimi",
+   "id": "def8799844267d6d3b46c8cfbb829289b4e35971",
+   "title": "Having fun with oh my pi, DeepSeek-V4-Flash, GPT-5.6 Luna and Antigravity CLI",
+   "url": "https://flashblaze.xyz/posts/having-fun-with-omp-deepseek-luna-and-agy",
+   "source": "HN · DeepSeek",
    "org": [
-    "moonshot"
+    "deepseek",
+    "openai"
    ],
    "topic": "ai",
    "tldr": "",
-   "published": "2026-08-02T04:21:14.000Z",
+   "published": "2026-08-02T15:23:59.000Z",
    "dupes": 1,
-   "score": 0.332,
+   "score": 0.331,
+   "tier": 2
+  },
+  {
+   "id": "6d58997b466ca59f729e755e523db112666f9bfc",
+   "title": "Ten advances in mathematics and theoretical computer science",
+   "url": "https://openai.com/index/ten-advances-in-mathematics",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
+   "published": "2026-08-01T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.33,
    "tier": 2
   },
   {
@@ -107,7 +105,7 @@
    "tldr": "",
    "published": "2026-07-31T07:59:11.000Z",
    "dupes": 1,
-   "score": 0.325,
+   "score": 0.323,
    "tier": 2
   },
   {
@@ -122,7 +120,7 @@
    "tldr": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe.  The work will continue as the EU AI Act advances.",
    "published": "2026-07-31T15:00:00.000Z",
    "dupes": 1,
-   "score": 0.324,
+   "score": 0.322,
    "tier": 2
   },
   {
@@ -137,7 +135,22 @@
    "tldr": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
    "published": "2026-07-31T15:00:00.000Z",
    "dupes": 1,
-   "score": 0.324,
+   "score": 0.322,
+   "tier": 2
+  },
+  {
+   "id": "91795cf32ccdcbf8609e272f1acf60f94eb14a2f",
+   "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+   "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+   "source": "HN · Kimi",
+   "org": [
+    "moonshot"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-02T04:21:14.000Z",
+   "dupes": 1,
+   "score": 0.321,
    "tier": 2
   },
   {
@@ -152,7 +165,7 @@
    "tldr": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
    "published": "2026-07-31T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.318,
+   "score": 0.316,
    "tier": 2
   },
   {
@@ -167,7 +180,7 @@
    "tldr": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
    "published": "2026-07-31T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.314,
+   "score": 0.312,
    "tier": 2
   },
   {
@@ -182,7 +195,7 @@
    "tldr": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks.  It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
    "published": "2026-07-30T15:00:59.000Z",
    "dupes": 1,
-   "score": 0.31,
+   "score": 0.309,
    "tier": 2
   },
   {
@@ -197,8 +210,8 @@
    "tldr": "6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
    "published": "2026-07-30T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.308,
-   "tier": 2
+   "score": 0.307,
+   "tier": 3
   },
   {
    "id": "d382e1dba0c73c1fef5dbcef68050b999c22b500",
@@ -231,21 +244,6 @@
    "tier": 3
   },
   {
-   "id": "cc8e132c619995d199d338076bd693d216fb9d56",
-   "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-   "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
-   "published": "2026-07-29T15:00:00.000Z",
-   "dupes": 1,
-   "score": 0.304,
-   "tier": 3
-  },
-  {
    "id": "42b77c184ced416665a84caa8f27c87e8d08fae3",
    "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
    "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control",
@@ -258,6 +256,21 @@
    "published": "2026-07-29T16:02:10.000Z",
    "dupes": 1,
    "score": 0.304,
+   "tier": 3
+  },
+  {
+   "id": "cc8e132c619995d199d338076bd693d216fb9d56",
+   "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+   "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
+   "published": "2026-07-29T15:00:00.000Z",
+   "dupes": 1,
+   "score": 0.303,
    "tier": 3
   },
   {
@@ -302,7 +315,7 @@
    "tldr": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
    "published": "2026-07-28T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.302,
+   "score": 0.301,
    "tier": 3
   },
   {
@@ -335,7 +348,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.287,
+   "score": 0.286,
    "tier": 3
   },
   {
@@ -353,7 +366,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.284,
+   "score": 0.283,
    "tier": 3
   },
   {
@@ -368,7 +381,7 @@
    "tldr": "",
    "published": "2026-07-31T14:12:38.000Z",
    "dupes": 1,
-   "score": 0.279,
+   "score": 0.277,
    "tier": 3
   },
   {
@@ -383,7 +396,7 @@
    "tldr": "As a discerning AI investor who values style and substance, Sarah Guo knows this season’s standout accessory isn’t the latest designer purse — but what’s inside it.",
    "published": "2026-07-28T15:00:19.000Z",
    "dupes": 1,
-   "score": 0.277,
+   "score": 0.276,
    "tier": 3
   },
   {
@@ -398,7 +411,7 @@
    "tldr": "Computer-use AI agents struggle with multi-step workflows like email and customer support.  Echoverse trains agents in realistic environments rather than simply providing more training tasks, helping them improve as the…",
    "published": "2026-07-30T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.273,
+   "score": 0.272,
    "tier": 3
   },
   {
@@ -413,7 +426,7 @@
    "tldr": "LLMs do not get smarter just by remembering more.  EvoLib turns experience into evolving knowledge, taking reusable skills and insights that help models learn and adapt across tasks long after deployment.",
    "published": "2026-07-30T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.273,
+   "score": 0.271,
    "tier": 3
   },
   {
@@ -426,7 +439,7 @@
    "tldr": "",
    "published": "2026-07-30T15:09:09.000Z",
    "dupes": 1,
-   "score": 0.272,
+   "score": 0.271,
    "tier": 3
   },
   {
@@ -467,7 +480,7 @@
    "tldr": "Throughout this past fiscal year, customers across every industry and segment moved from AI experimentation to deploying AI for real-world business outcomes.  They unlocked innovation and created new opportunities for…",
    "published": "2026-07-28T16:00:10.000Z",
    "dupes": 1,
-   "score": 0.252,
+   "score": 0.251,
    "tier": 3
   },
   {
@@ -501,18 +514,22 @@
    "tier": 3
   },
   {
-   "id": "13e7261c0b19331913e894649c00d549dcf65af6",
-   "title": "Announcing the AI Glasses Impact Grant Recipients: Helping People Work, Learn, and Live More Independently",
-   "url": "https://about.fb.com/news/2026/07/ai-glasses-helping-people-work-learn-live-independently",
-   "source": "Meta Newsroom",
+   "id": "945ecdf346e314c875c43afb284a603e6f640220",
+   "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+   "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+   "source": "HN · DeepSeek",
    "org": [
-    "meta"
+    "deepseek",
+    "openai"
    ],
    "topic": "ai",
-   "tldr": "We've awarded AI Glasses Impact Grants to 30 organizations across the US using Meta AI glasses to help people work safer, learn faster, and live more independently.  The post Announcing the AI Glasses Impact Grant…",
-   "published": "2026-07-27T14:00:36.000Z",
+   "tldr": "",
+   "published": "2026-07-30T18:13:06.000Z",
+   "badges": [
+    "oss"
+   ],
    "dupes": 1,
-   "score": 0.251,
+   "score": 0.231,
    "tier": 3
   },
   {
@@ -529,41 +546,7 @@
    "tldr": "",
    "published": "2026-07-31T13:24:03.000Z",
    "dupes": 1,
-   "score": 0.233,
-   "tier": 3
-  },
-  {
-   "id": "945ecdf346e314c875c43afb284a603e6f640220",
-   "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
-   "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
-   "source": "HN · DeepSeek",
-   "org": [
-    "deepseek",
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-30T18:13:06.000Z",
-   "badges": [
-    "oss"
-   ],
-   "dupes": 1,
-   "score": 0.232,
-   "tier": 3
-  },
-  {
-   "id": "93fa7ed8cbb0c4a072d81ff02bc0bf3413b614df",
-   "title": "US lawmakers investigate DoorDash's use of Moonshot AI's Kimi K2.6 model",
-   "url": "https://www.scmp.com/news/china/diplomacy/article/3362616/us-lawmakers-investigate-doordashs-use-moonshot-ais-kimi-k26-model",
-   "source": "HN · Kimi",
-   "org": [
-    "moonshot"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-01T03:11:07.000Z",
-   "dupes": 1,
-   "score": 0.229,
+   "score": 0.231,
    "tier": 3
   },
   {
@@ -578,7 +561,22 @@
    "tldr": "Google has shut down Google Earth feature it launched Thursday that allowed users to edit satellite images with text prompts using AI.",
    "published": "2026-07-31T19:13:29.000Z",
    "dupes": 1,
-   "score": 0.229,
+   "score": 0.225,
+   "tier": 3
+  },
+  {
+   "id": "93fa7ed8cbb0c4a072d81ff02bc0bf3413b614df",
+   "title": "US lawmakers investigate DoorDash's use of Moonshot AI's Kimi K2.6 model",
+   "url": "https://www.scmp.com/news/china/diplomacy/article/3362616/us-lawmakers-investigate-doordashs-use-moonshot-ais-kimi-k26-model",
+   "source": "HN · Kimi",
+   "org": [
+    "moonshot"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-01T03:11:07.000Z",
+   "dupes": 1,
+   "score": 0.224,
    "tier": 3
   },
   {
@@ -593,7 +591,7 @@
    "tldr": "A text prompt was all it took to generate reality-warping images using Google Earth's satellite, aerial, and 3D imagery with a now-rolled back AI feature, like these images generated by Digital Digging's Henk van Ess…",
    "published": "2026-07-31T17:05:46.000Z",
    "dupes": 1,
-   "score": 0.226,
+   "score": 0.223,
    "tier": 3
   },
   {
@@ -608,7 +606,7 @@
    "tldr": "Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on their own and without the company noticing.",
    "published": "2026-07-31T13:41:17.000Z",
    "dupes": 1,
-   "score": 0.223,
+   "score": 0.22,
    "tier": 3
   }
  ]
