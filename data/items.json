@@ -1,6 +1,21 @@
 {
- "generated": "2026-08-03T15:23:31.220Z",
+ "generated": "2026-08-03T17:23:19.063Z",
  "items": [
+  {
+   "id": "d968a40ec6425f602a8ae4c79dcd291d443b39b0",
+   "title": "Orchard: An open framework for scalable agentic AI",
+   "url": "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai",
+   "source": "Microsoft Research",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "Orchard is an open-source framework for the research community to train and evaluate AI agents across task types.  It reduces complexity while supporting strong performance from smaller models by enabling researchers to…",
+   "published": "2026-08-03T16:00:00.000Z",
+   "dupes": 1,
+   "score": 0.594,
+   "tier": 1
+  },
   {
    "id": "26149269af1e40c4a59769ff25c55b55dbc1b7ee",
    "title": "AirLLM 70B inference with single 4GB GPU",
@@ -11,22 +26,7 @@
    "tldr": "",
    "published": "2026-08-03T11:15:48.000Z",
    "dupes": 1,
-   "score": 0.514,
-   "tier": 1
-  },
-  {
-   "id": "92f8a546317f462a627cf44744fe9780fa6a8873",
-   "title": "China’s Alibaba takes another swipe at America’s AI supremacy",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
-   "source": "The Verge AI",
-   "org": [
-    "qwen"
-   ],
-   "topic": "ai",
-   "tldr": "Chinese tech giant Alibaba released what it says is its largest and \"most capable AI model to date,\" claiming performance rivaling the best systems from US frontier labs Anthropic and OpenAI, as well as domestic rivals…",
-   "published": "2026-08-03T11:01:11.000Z",
-   "dupes": 1,
-   "score": 0.496,
+   "score": 0.501,
    "tier": 2
   },
   {
@@ -41,7 +41,7 @@
    "tldr": "",
    "published": "2026-07-31T06:08:36.000Z",
    "dupes": 1,
-   "score": 0.353,
+   "score": 0.352,
    "tier": 2
   },
   {
@@ -59,22 +59,6 @@
     "model"
    ],
    "dupes": 2,
-   "score": 0.332,
-   "tier": 2
-  },
-  {
-   "id": "def8799844267d6d3b46c8cfbb829289b4e35971",
-   "title": "Having fun with oh my pi, DeepSeek-V4-Flash, GPT-5.6 Luna and Antigravity CLI",
-   "url": "https://flashblaze.xyz/posts/having-fun-with-omp-deepseek-luna-and-agy",
-   "source": "HN · DeepSeek",
-   "org": [
-    "deepseek",
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-02T15:23:59.000Z",
-   "dupes": 1,
    "score": 0.331,
    "tier": 2
   },
@@ -90,7 +74,7 @@
    "tldr": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
    "published": "2026-08-01T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.33,
+   "score": 0.328,
    "tier": 2
   },
   {
@@ -105,7 +89,7 @@
    "tldr": "",
    "published": "2026-07-31T07:59:11.000Z",
    "dupes": 1,
-   "score": 0.323,
+   "score": 0.322,
    "tier": 2
   },
   {
@@ -120,7 +104,7 @@
    "tldr": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe.  The work will continue as the EU AI Act advances.",
    "published": "2026-07-31T15:00:00.000Z",
    "dupes": 1,
-   "score": 0.322,
+   "score": 0.32,
    "tier": 2
   },
   {
@@ -135,22 +119,23 @@
    "tldr": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
    "published": "2026-07-31T15:00:00.000Z",
    "dupes": 1,
-   "score": 0.322,
+   "score": 0.32,
    "tier": 2
   },
   {
-   "id": "91795cf32ccdcbf8609e272f1acf60f94eb14a2f",
-   "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
-   "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
-   "source": "HN · Kimi",
+   "id": "def8799844267d6d3b46c8cfbb829289b4e35971",
+   "title": "Having fun with oh my pi, DeepSeek-V4-Flash, GPT-5.6 Luna and Antigravity CLI",
+   "url": "https://flashblaze.xyz/posts/having-fun-with-omp-deepseek-luna-and-agy",
+   "source": "HN · DeepSeek",
    "org": [
-    "moonshot"
+    "deepseek",
+    "openai"
    ],
    "topic": "ai",
    "tldr": "",
-   "published": "2026-08-02T04:21:14.000Z",
+   "published": "2026-08-02T15:23:59.000Z",
    "dupes": 1,
-   "score": 0.321,
+   "score": 0.32,
    "tier": 2
   },
   {
@@ -165,7 +150,22 @@
    "tldr": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
    "published": "2026-07-31T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.316,
+   "score": 0.315,
+   "tier": 2
+  },
+  {
+   "id": "91795cf32ccdcbf8609e272f1acf60f94eb14a2f",
+   "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+   "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+   "source": "HN · Kimi",
+   "org": [
+    "moonshot"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-02T04:21:14.000Z",
+   "dupes": 1,
+   "score": 0.315,
    "tier": 2
   },
   {
@@ -180,7 +180,7 @@
    "tldr": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
    "published": "2026-07-31T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.312,
+   "score": 0.311,
    "tier": 2
   },
   {
@@ -195,7 +195,7 @@
    "tldr": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks.  It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
    "published": "2026-07-30T15:00:59.000Z",
    "dupes": 1,
-   "score": 0.309,
+   "score": 0.308,
    "tier": 2
   },
   {
@@ -225,7 +225,7 @@
    "tldr": "",
    "published": "2026-07-30T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.305,
+   "score": 0.304,
    "tier": 3
   },
   {
@@ -239,21 +239,6 @@
    "topic": "ai",
    "tldr": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support.  In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
    "published": "2026-07-30T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.305,
-   "tier": 3
-  },
-  {
-   "id": "42b77c184ced416665a84caa8f27c87e8d08fae3",
-   "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
-   "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control",
-   "source": "Google DeepMind",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-29T16:02:10.000Z",
    "dupes": 1,
    "score": 0.304,
    "tier": 3
@@ -284,6 +269,21 @@
    "topic": "ai",
    "tldr": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
    "published": "2026-07-29T10:00:00.000Z",
+   "dupes": 1,
+   "score": 0.303,
+   "tier": 3
+  },
+  {
+   "id": "42b77c184ced416665a84caa8f27c87e8d08fae3",
+   "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+   "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control",
+   "source": "Google DeepMind",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-29T16:02:10.000Z",
    "dupes": 1,
    "score": 0.303,
    "tier": 3
@@ -348,7 +348,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.286,
+   "score": 0.285,
    "tier": 3
   },
   {
@@ -366,22 +366,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.283,
-   "tier": 3
-  },
-  {
-   "id": "67ad5261723c86a2f5041941db2d9a03e50a286f",
-   "title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
-   "url": "https://github.com/sqliteai/waste",
-   "source": "HN · Kimi",
-   "org": [
-    "moonshot"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-31T14:12:38.000Z",
-   "dupes": 1,
-   "score": 0.277,
+   "score": 0.282,
    "tier": 3
   },
   {
@@ -400,6 +385,21 @@
    "tier": 3
   },
   {
+   "id": "67ad5261723c86a2f5041941db2d9a03e50a286f",
+   "title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
+   "url": "https://github.com/sqliteai/waste",
+   "source": "HN · Kimi",
+   "org": [
+    "moonshot"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-07-31T14:12:38.000Z",
+   "dupes": 1,
+   "score": 0.275,
+   "tier": 3
+  },
+  {
    "id": "0d30391f59a14a82fde6bfbf68827c1aa32bacea",
    "title": "Echoverse: Deep, evolving environments for computer-use agents",
    "url": "https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents",
@@ -411,7 +411,7 @@
    "tldr": "Computer-use AI agents struggle with multi-step workflows like email and customer support.  Echoverse trains agents in realistic environments rather than simply providing more training tasks, helping them improve as the…",
    "published": "2026-07-30T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.272,
+   "score": 0.271,
    "tier": 3
   },
   {
@@ -439,7 +439,7 @@
    "tldr": "",
    "published": "2026-07-30T15:09:09.000Z",
    "dupes": 1,
-   "score": 0.271,
+   "score": 0.27,
    "tier": 3
   },
   {
@@ -529,7 +529,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.231,
+   "score": 0.23,
    "tier": 3
   },
   {
@@ -546,7 +546,7 @@
    "tldr": "",
    "published": "2026-07-31T13:24:03.000Z",
    "dupes": 1,
-   "score": 0.231,
+   "score": 0.229,
    "tier": 3
   },
   {
@@ -561,7 +561,7 @@
    "tldr": "Google has shut down Google Earth feature it launched Thursday that allowed users to edit satellite images with text prompts using AI.",
    "published": "2026-07-31T19:13:29.000Z",
    "dupes": 1,
-   "score": 0.225,
+   "score": 0.223,
    "tier": 3
   },
   {
@@ -576,7 +576,7 @@
    "tldr": "",
    "published": "2026-08-01T03:11:07.000Z",
    "dupes": 1,
-   "score": 0.224,
+   "score": 0.222,
    "tier": 3
   },
   {
@@ -591,7 +591,7 @@
    "tldr": "A text prompt was all it took to generate reality-warping images using Google Earth's satellite, aerial, and 3D imagery with a now-rolled back AI feature, like these images generated by Digital Digging's Henk van Ess…",
    "published": "2026-07-31T17:05:46.000Z",
    "dupes": 1,
-   "score": 0.223,
+   "score": 0.222,
    "tier": 3
   },
   {
@@ -606,7 +606,7 @@
    "tldr": "Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on their own and without the company noticing.",
    "published": "2026-07-31T13:41:17.000Z",
    "dupes": 1,
-   "score": 0.22,
+   "score": 0.219,
    "tier": 3
   }
  ]
