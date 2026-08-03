@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-03T19:03:26.088Z",
+ "generated": "2026-08-03T20:41:53.855Z",
  "items": [
   {
    "id": "f98a3c9edeb8198b24054bc202a442247a30c141",
@@ -13,7 +13,7 @@
    "tldr": "",
    "published": "2026-08-03T17:08:46.000Z",
    "dupes": 2,
-   "score": 0.591,
+   "score": 0.581,
    "tier": 1
   },
   {
@@ -28,7 +28,22 @@
    "tldr": "Orchard is an open-source framework for the research community to train and evaluate AI agents across task types.  It reduces complexity while supporting strong performance from smaller models by enabling researchers to…",
    "published": "2026-08-03T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.574,
+   "score": 0.555,
+   "tier": 2
+  },
+  {
+   "id": "d04cc35bd3ccb8a5aedf1fe70e1ec06b58d1bfcf",
+   "title": "How we built a realtime system for responsive voice AI in six months",
+   "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+   "published": "2026-08-03T07:00:00.000Z",
+   "dupes": 1,
+   "score": 0.507,
    "tier": 2
   },
   {
@@ -41,7 +56,7 @@
    "tldr": "",
    "published": "2026-08-03T11:15:48.000Z",
    "dupes": 1,
-   "score": 0.489,
+   "score": 0.476,
    "tier": 2
   },
   {
@@ -56,7 +71,7 @@
    "tldr": "Chinese tech giant Alibaba released what it says is its largest and \"most capable AI model to date,\" claiming performance rivaling the best systems from US frontier labs Anthropic and OpenAI, as well as domestic rivals…",
    "published": "2026-08-03T11:01:11.000Z",
    "dupes": 1,
-   "score": 0.457,
+   "score": 0.441,
    "tier": 2
   },
   {
@@ -71,7 +86,7 @@
    "tldr": "",
    "published": "2026-07-31T06:08:36.000Z",
    "dupes": 1,
-   "score": 0.351,
+   "score": 0.35,
    "tier": 2
   },
   {
@@ -89,7 +104,7 @@
     "model"
    ],
    "dupes": 2,
-   "score": 0.33,
+   "score": 0.329,
    "tier": 2
   },
   {
@@ -104,7 +119,7 @@
    "tldr": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
    "published": "2026-08-01T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.326,
+   "score": 0.325,
    "tier": 2
   },
   {
@@ -119,7 +134,7 @@
    "tldr": "",
    "published": "2026-07-31T07:59:11.000Z",
    "dupes": 1,
-   "score": 0.321,
+   "score": 0.32,
    "tier": 2
   },
   {
@@ -134,7 +149,7 @@
    "tldr": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe.  The work will continue as the EU AI Act advances.",
    "published": "2026-07-31T15:00:00.000Z",
    "dupes": 1,
-   "score": 0.319,
+   "score": 0.318,
    "tier": 2
   },
   {
@@ -149,7 +164,7 @@
    "tldr": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
    "published": "2026-07-31T15:00:00.000Z",
    "dupes": 1,
-   "score": 0.319,
+   "score": 0.318,
    "tier": 2
   },
   {
@@ -164,23 +179,7 @@
    "tldr": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
    "published": "2026-07-31T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.314,
-   "tier": 2
-  },
-  {
-   "id": "def8799844267d6d3b46c8cfbb829289b4e35971",
-   "title": "Having fun with oh my pi, DeepSeek-V4-Flash, GPT-5.6 Luna and Antigravity CLI",
-   "url": "https://flashblaze.xyz/posts/having-fun-with-omp-deepseek-luna-and-agy",
-   "source": "HN · DeepSeek",
-   "org": [
-    "deepseek",
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-02T15:23:59.000Z",
-   "dupes": 1,
-   "score": 0.312,
+   "score": 0.313,
    "tier": 2
   },
   {
@@ -195,23 +194,8 @@
    "tldr": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
    "published": "2026-07-31T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.311,
-   "tier": 2
-  },
-  {
-   "id": "91795cf32ccdcbf8609e272f1acf60f94eb14a2f",
-   "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
-   "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
-   "source": "HN · Kimi",
-   "org": [
-    "moonshot"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-02T04:21:14.000Z",
-   "dupes": 1,
    "score": 0.31,
-   "tier": 3
+   "tier": 2
   },
   {
    "id": "2b882e1b8e7677a350c572ffef5fb289d5ea0fbf",
@@ -241,6 +225,37 @@
    "published": "2026-07-30T10:00:00.000Z",
    "dupes": 1,
    "score": 0.306,
+   "tier": 3
+  },
+  {
+   "id": "def8799844267d6d3b46c8cfbb829289b4e35971",
+   "title": "Having fun with oh my pi, DeepSeek-V4-Flash, GPT-5.6 Luna and Antigravity CLI",
+   "url": "https://flashblaze.xyz/posts/having-fun-with-omp-deepseek-luna-and-agy",
+   "source": "HN · DeepSeek",
+   "org": [
+    "deepseek",
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-02T15:23:59.000Z",
+   "dupes": 1,
+   "score": 0.305,
+   "tier": 3
+  },
+  {
+   "id": "91795cf32ccdcbf8609e272f1acf60f94eb14a2f",
+   "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+   "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+   "source": "HN · Kimi",
+   "org": [
+    "moonshot"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-02T04:21:14.000Z",
+   "dupes": 1,
+   "score": 0.305,
    "tier": 3
   },
   {
@@ -396,7 +411,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.282,
+   "score": 0.281,
    "tier": 3
   },
   {
@@ -415,21 +430,6 @@
    "tier": 3
   },
   {
-   "id": "67ad5261723c86a2f5041941db2d9a03e50a286f",
-   "title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
-   "url": "https://github.com/sqliteai/waste",
-   "source": "HN · Kimi",
-   "org": [
-    "moonshot"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-07-31T14:12:38.000Z",
-   "dupes": 1,
-   "score": 0.274,
-   "tier": 3
-  },
-  {
    "id": "0d30391f59a14a82fde6bfbf68827c1aa32bacea",
    "title": "Echoverse: Deep, evolving environments for computer-use agents",
    "url": "https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents",
@@ -441,7 +441,7 @@
    "tldr": "Computer-use AI agents struggle with multi-step workflows like email and customer support.  Echoverse trains agents in realistic environments rather than simply providing more training tasks, helping them improve as the…",
    "published": "2026-07-30T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.271,
+   "score": 0.27,
    "tier": 3
   },
   {
@@ -559,7 +559,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.23,
+   "score": 0.229,
    "tier": 3
   },
   {
@@ -574,22 +574,7 @@
    "tldr": "Google has shut down Google Earth feature it launched Thursday that allowed users to edit satellite images with text prompts using AI.",
    "published": "2026-07-31T19:13:29.000Z",
    "dupes": 1,
-   "score": 0.222,
-   "tier": 3
-  },
-  {
-   "id": "93fa7ed8cbb0c4a072d81ff02bc0bf3413b614df",
-   "title": "US lawmakers investigate DoorDash's use of Moonshot AI's Kimi K2.6 model",
-   "url": "https://www.scmp.com/news/china/diplomacy/article/3362616/us-lawmakers-investigate-doordashs-use-moonshot-ais-kimi-k26-model",
-   "source": "HN · Kimi",
-   "org": [
-    "moonshot"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-01T03:11:07.000Z",
-   "dupes": 1,
-   "score": 0.22,
+   "score": 0.221,
    "tier": 3
   },
   {
@@ -604,7 +589,22 @@
    "tldr": "A text prompt was all it took to generate reality-warping images using Google Earth's satellite, aerial, and 3D imagery with a now-rolled back AI feature, like these images generated by Digital Digging's Henk van Ess…",
    "published": "2026-07-31T17:05:46.000Z",
    "dupes": 1,
-   "score": 0.22,
+   "score": 0.219,
+   "tier": 3
+  },
+  {
+   "id": "93fa7ed8cbb0c4a072d81ff02bc0bf3413b614df",
+   "title": "US lawmakers investigate DoorDash's use of Moonshot AI's Kimi K2.6 model",
+   "url": "https://www.scmp.com/news/china/diplomacy/article/3362616/us-lawmakers-investigate-doordashs-use-moonshot-ais-kimi-k26-model",
+   "source": "HN · Kimi",
+   "org": [
+    "moonshot"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-01T03:11:07.000Z",
+   "dupes": 1,
+   "score": 0.218,
    "tier": 3
   },
   {
@@ -619,7 +619,7 @@
    "tldr": "Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on their own and without the company noticing.",
    "published": "2026-07-31T13:41:17.000Z",
    "dupes": 1,
-   "score": 0.218,
+   "score": 0.217,
    "tier": 3
   }
  ]
