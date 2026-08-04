@@ -1,6 +1,21 @@
 {
- "generated": "2026-08-04T04:57:45.406Z",
+ "generated": "2026-08-04T07:38:48.290Z",
  "items": [
+  {
+   "id": "2163b413300de52f6504ca8a20340312de3f7571",
+   "title": "Apple is getting this wrong",
+   "url": "https://openai.com/index/apple-is-getting-this-wrong",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
+   "published": "2026-08-03T22:00:00.000Z",
+   "dupes": 1,
+   "score": 0.541,
+   "tier": 1
+  },
   {
    "id": "f98a3c9edeb8198b24054bc202a442247a30c141",
    "title": "Smaller, faster, safer: running Kimi and GLM at scale",
@@ -13,8 +28,8 @@
    "tldr": "",
    "published": "2026-08-03T17:08:46.000Z",
    "dupes": 2,
-   "score": 0.52,
-   "tier": 1
+   "score": 0.503,
+   "tier": 2
   },
   {
    "id": "d968a40ec6425f602a8ae4c79dcd291d443b39b0",
@@ -28,7 +43,7 @@
    "tldr": "Orchard is an open-source framework for the research community to train and evaluate AI agents across task types.  It reduces complexity while supporting strong performance from smaller models by enabling researchers to…",
    "published": "2026-08-03T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.475,
+   "score": 0.454,
    "tier": 2
   },
   {
@@ -43,7 +58,7 @@
    "tldr": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
    "published": "2026-08-03T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.45,
+   "score": 0.435,
    "tier": 2
   },
   {
@@ -58,20 +73,7 @@
    "tldr": "",
    "published": "2026-08-03T16:54:15.000Z",
    "dupes": 1,
-   "score": 0.429,
-   "tier": 2
-  },
-  {
-   "id": "26149269af1e40c4a59769ff25c55b55dbc1b7ee",
-   "title": "AirLLM 70B inference with single 4GB GPU",
-   "url": "https://github.com/lyogavin/airllm",
-   "source": "Hacker News",
-   "org": [],
-   "topic": "compute",
-   "tldr": "",
-   "published": "2026-08-03T11:15:48.000Z",
-   "dupes": 1,
-   "score": 0.418,
+   "score": 0.425,
    "tier": 2
   },
   {
@@ -86,7 +88,7 @@
    "tldr": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
    "published": "2026-08-03T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.415,
+   "score": 0.403,
    "tier": 2
   },
   {
@@ -101,7 +103,7 @@
    "tldr": "Chinese tech giant Alibaba released what it says is its largest and \"most capable AI model to date,\" claiming performance rivaling the best systems from US frontier labs Anthropic and OpenAI, as well as domestic rivals…",
    "published": "2026-08-03T11:01:11.000Z",
    "dupes": 1,
-   "score": 0.375,
+   "score": 0.358,
    "tier": 2
   },
   {
@@ -116,7 +118,7 @@
    "tldr": "",
    "published": "2026-07-31T06:08:36.000Z",
    "dupes": 1,
-   "score": 0.347,
+   "score": 0.346,
    "tier": 2
   },
   {
@@ -134,7 +136,7 @@
     "model"
    ],
    "dupes": 2,
-   "score": 0.325,
+   "score": 0.324,
    "tier": 2
   },
   {
@@ -149,7 +151,7 @@
    "tldr": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
    "published": "2026-08-01T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.318,
+   "score": 0.316,
    "tier": 2
   },
   {
@@ -179,7 +181,7 @@
    "tldr": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe.  The work will continue as the EU AI Act advances.",
    "published": "2026-07-31T15:00:00.000Z",
    "dupes": 1,
-   "score": 0.313,
+   "score": 0.312,
    "tier": 2
   },
   {
@@ -194,7 +196,7 @@
    "tldr": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
    "published": "2026-07-31T15:00:00.000Z",
    "dupes": 1,
-   "score": 0.313,
+   "score": 0.312,
    "tier": 2
   },
   {
@@ -209,7 +211,7 @@
    "tldr": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
    "published": "2026-07-31T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.309,
+   "score": 0.308,
    "tier": 3
   },
   {
@@ -224,7 +226,7 @@
    "tldr": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
    "published": "2026-07-31T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.307,
+   "score": 0.306,
    "tier": 3
   },
   {
@@ -303,21 +305,6 @@
    "tier": 3
   },
   {
-   "id": "14fd05ad34f9923ee3b272a35b3cb1238aa811dc",
-   "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-   "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
-   "published": "2026-07-29T10:00:00.000Z",
-   "dupes": 1,
-   "score": 0.302,
-   "tier": 3
-  },
-  {
    "id": "42b77c184ced416665a84caa8f27c87e8d08fae3",
    "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
    "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control",
@@ -330,6 +317,21 @@
    "published": "2026-07-29T16:02:10.000Z",
    "dupes": 1,
    "score": 0.302,
+   "tier": 3
+  },
+  {
+   "id": "14fd05ad34f9923ee3b272a35b3cb1238aa811dc",
+   "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+   "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
+   "published": "2026-07-29T10:00:00.000Z",
+   "dupes": 1,
+   "score": 0.301,
    "tier": 3
   },
   {
@@ -378,21 +380,6 @@
    "tier": 3
   },
   {
-   "id": "91795cf32ccdcbf8609e272f1acf60f94eb14a2f",
-   "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
-   "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
-   "source": "HN · Kimi",
-   "org": [
-    "moonshot"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-02T04:21:14.000Z",
-   "dupes": 1,
-   "score": 0.285,
-   "tier": 3
-  },
-  {
    "id": "18321dc95cc5a2f19383cdf6599700eefce0e5ec",
    "title": "Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence",
    "url": "https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence",
@@ -411,6 +398,21 @@
    "tier": 3
   },
   {
+   "id": "91795cf32ccdcbf8609e272f1acf60f94eb14a2f",
+   "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+   "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+   "source": "HN · Kimi",
+   "org": [
+    "moonshot"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-02T04:21:14.000Z",
+   "dupes": 1,
+   "score": 0.28,
+   "tier": 3
+  },
+  {
    "id": "4911227015fd3ea367889530e390f085cf2dfc49",
    "title": "Best in Class: Stream PC Games and Study on the Same Laptop With GeForce NOW",
    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-back-to-school-2026",
@@ -425,7 +427,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.28,
+   "score": 0.279,
    "tier": 3
   },
   {
@@ -444,22 +446,6 @@
    "tier": 3
   },
   {
-   "id": "def8799844267d6d3b46c8cfbb829289b4e35971",
-   "title": "Having fun with oh my pi, DeepSeek-V4-Flash, GPT-5.6 Luna and Antigravity CLI",
-   "url": "https://flashblaze.xyz/posts/having-fun-with-omp-deepseek-luna-and-agy",
-   "source": "HN · DeepSeek",
-   "org": [
-    "deepseek",
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-02T15:23:59.000Z",
-   "dupes": 1,
-   "score": 0.274,
-   "tier": 3
-  },
-  {
    "id": "0d30391f59a14a82fde6bfbf68827c1aa32bacea",
    "title": "Echoverse: Deep, evolving environments for computer-use agents",
    "url": "https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents",
@@ -471,7 +457,7 @@
    "tldr": "Computer-use AI agents struggle with multi-step workflows like email and customer support.  Echoverse trains agents in realistic environments rather than simply providing more training tasks, helping them improve as the…",
    "published": "2026-07-30T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.268,
+   "score": 0.267,
    "tier": 3
   },
   {
@@ -486,7 +472,7 @@
    "tldr": "LLMs do not get smarter just by remembering more.  EvoLib turns experience into evolving knowledge, taking reusable skills and insights that help models learn and adapt across tasks long after deployment.",
    "published": "2026-07-30T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.268,
+   "score": 0.267,
    "tier": 3
   },
   {
@@ -499,7 +485,23 @@
    "tldr": "",
    "published": "2026-07-30T15:09:09.000Z",
    "dupes": 1,
-   "score": 0.268,
+   "score": 0.267,
+   "tier": 3
+  },
+  {
+   "id": "def8799844267d6d3b46c8cfbb829289b4e35971",
+   "title": "Having fun with oh my pi, DeepSeek-V4-Flash, GPT-5.6 Luna and Antigravity CLI",
+   "url": "https://flashblaze.xyz/posts/having-fun-with-omp-deepseek-luna-and-agy",
+   "source": "HN · DeepSeek",
+   "org": [
+    "deepseek",
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-02T15:23:59.000Z",
+   "dupes": 1,
+   "score": 0.266,
    "tier": 3
   },
   {
@@ -589,7 +591,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.227,
+   "score": 0.226,
    "tier": 3
   },
   {
@@ -604,7 +606,7 @@
    "tldr": "Google has shut down Google Earth feature it launched Thursday that allowed users to edit satellite images with text prompts using AI.",
    "published": "2026-07-31T19:13:29.000Z",
    "dupes": 1,
-   "score": 0.215,
+   "score": 0.214,
    "tier": 3
   },
   {
@@ -619,7 +621,7 @@
    "tldr": "A text prompt was all it took to generate reality-warping images using Google Earth's satellite, aerial, and 3D imagery with a now-rolled back AI feature, like these images generated by Digital Digging's Henk van Ess…",
    "published": "2026-07-31T17:05:46.000Z",
    "dupes": 1,
-   "score": 0.214,
+   "score": 0.212,
    "tier": 3
   },
   {
@@ -634,22 +636,7 @@
    "tldr": "Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on their own and without the company noticing.",
    "published": "2026-07-31T13:41:17.000Z",
    "dupes": 1,
-   "score": 0.212,
-   "tier": 3
-  },
-  {
-   "id": "93fa7ed8cbb0c4a072d81ff02bc0bf3413b614df",
-   "title": "US lawmakers investigate DoorDash's use of Moonshot AI's Kimi K2.6 model",
-   "url": "https://www.scmp.com/news/china/diplomacy/article/3362616/us-lawmakers-investigate-doordashs-use-moonshot-ais-kimi-k26-model",
-   "source": "HN · Kimi",
-   "org": [
-    "moonshot"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-01T03:11:07.000Z",
-   "dupes": 1,
-   "score": 0.21,
+   "score": 0.211,
    "tier": 3
   },
   {
@@ -663,6 +650,21 @@
    "topic": "ai",
    "tldr": "",
    "published": "2026-07-29T10:02:50.000Z",
+   "dupes": 1,
+   "score": 0.209,
+   "tier": 3
+  },
+  {
+   "id": "93fa7ed8cbb0c4a072d81ff02bc0bf3413b614df",
+   "title": "US lawmakers investigate DoorDash's use of Moonshot AI's Kimi K2.6 model",
+   "url": "https://www.scmp.com/news/china/diplomacy/article/3362616/us-lawmakers-investigate-doordashs-use-moonshot-ais-kimi-k26-model",
+   "source": "HN · Kimi",
+   "org": [
+    "moonshot"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-01T03:11:07.000Z",
    "dupes": 1,
    "score": 0.208,
    "tier": 3
