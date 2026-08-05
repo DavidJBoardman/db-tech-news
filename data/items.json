@@ -1,6 +1,21 @@
 {
- "generated": "2026-08-05T10:57:57.660Z",
+ "generated": "2026-08-05T12:51:59.098Z",
  "items": [
+  {
+   "id": "db62e9447d4150fefee7b06f041b469f3258080d",
+   "title": "Google Assistant will disappear from your phone next month",
+   "url": "https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown",
+   "source": "The Verge AI",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Google Assistant's days have been numbered ever since Gemini arrived on the scene, and its time is now up.  Google has announced that it will be removing access to Assistant on Android phones and tablets, along with…",
+   "published": "2026-08-05T11:12:50.000Z",
+   "dupes": 1,
+   "score": 0.528,
+   "tier": 1
+  },
   {
    "id": "977f60f7e5e3c697f2eead0cf35e429742ba811c",
    "title": "Third-party cyber evaluations involving OpenAI models",
@@ -13,8 +28,8 @@
    "tldr": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
    "published": "2026-08-04T19:00:00.000Z",
    "dupes": 1,
-   "score": 0.489,
-   "tier": 1
+   "score": 0.476,
+   "tier": 2
   },
   {
    "id": "31b4bc9f80b9ccc15a4b8dfeedbc1b76ae2a5f56",
@@ -31,7 +46,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.444,
+   "score": 0.432,
    "tier": 2
   },
   {
@@ -46,7 +61,7 @@
    "tldr": "For robotaxis and other autonomous vehicles (AVs), the hardest problems aren’t the everyday scenarios.  They’re the rare, complex situations that are difficult to anticipate and train for.",
    "published": "2026-08-04T15:00:49.000Z",
    "dupes": 1,
-   "score": 0.437,
+   "score": 0.426,
    "tier": 2
   },
   {
@@ -61,7 +76,7 @@
    "tldr": "Surging AI demands are driving the need for massive datasets and context windows that burst past the confines of system memory.  But rising needs aren’t met by simply adding more storage capacity.",
    "published": "2026-08-04T15:00:47.000Z",
    "dupes": 1,
-   "score": 0.437,
+   "score": 0.426,
    "tier": 2
   },
   {
@@ -76,7 +91,7 @@
    "tldr": "Members of the Open Secure AI Alliance — now more than 120 organizations strong — are developing new guidelines to strengthen agentic AI cybersecurity as the annual Black Hat conference begins in Las Vegas today.",
    "published": "2026-08-04T13:00:47.000Z",
    "dupes": 1,
-   "score": 0.425,
+   "score": 0.415,
    "tier": 2
   },
   {
@@ -89,7 +104,7 @@
    "tldr": "",
    "published": "2026-08-04T13:58:29.000Z",
    "dupes": 1,
-   "score": 0.418,
+   "score": 0.407,
    "tier": 2
   },
   {
@@ -102,7 +117,7 @@
    "tldr": "7 billion.  2 billion it reported for the same period a year ago.",
    "published": "2026-08-04T20:57:49.000Z",
    "dupes": 1,
-   "score": 0.404,
+   "score": 0.39,
    "tier": 2
   },
   {
@@ -117,7 +132,7 @@
    "tldr": "",
    "published": "2026-08-04T10:00:55.000Z",
    "dupes": 1,
-   "score": 0.397,
+   "score": 0.387,
    "tier": 2
   },
   {
@@ -132,7 +147,7 @@
    "tldr": "",
    "published": "2026-08-04T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.391,
+   "score": 0.385,
    "tier": 2
   },
   {
@@ -147,7 +162,7 @@
    "tldr": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
    "published": "2026-08-04T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.391,
+   "score": 0.385,
    "tier": 2
   },
   {
@@ -162,7 +177,7 @@
    "tldr": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
    "published": "2026-08-03T22:00:00.000Z",
    "dupes": 1,
-   "score": 0.384,
+   "score": 0.378,
    "tier": 2
   },
   {
@@ -177,7 +192,7 @@
    "tldr": "The brand trip is a right of passage for influencers.  It's a mark of legitimacy that a sponsor wants to invite them on an all-expenses-paid vacation, often with luxurious freebies and activities.",
    "published": "2026-08-04T17:46:41.000Z",
    "dupes": 1,
-   "score": 0.381,
+   "score": 0.368,
    "tier": 2
   },
   {
@@ -192,22 +207,7 @@
    "tldr": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
    "published": "2026-08-03T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.347,
-   "tier": 2
-  },
-  {
-   "id": "421264cc869bfe0eb36b68d56c38ca40fc52f7c8",
-   "title": "OpenAI drags Apple’s lawsuit into the court of public opinion",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Apple's legal battle against OpenAI just got messier now that the ChatGPT-maker has publicly aired receipts to counter Apple's version of events.",
-   "published": "2026-08-04T11:27:55.000Z",
-   "dupes": 1,
-   "score": 0.342,
+   "score": 0.344,
    "tier": 3
   },
   {
@@ -237,7 +237,22 @@
    "tldr": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
    "published": "2026-08-03T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.336,
+   "score": 0.334,
+   "tier": 3
+  },
+  {
+   "id": "421264cc869bfe0eb36b68d56c38ca40fc52f7c8",
+   "title": "OpenAI drags Apple’s lawsuit into the court of public opinion",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
+   "source": "The Verge AI",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Apple's legal battle against OpenAI just got messier now that the ChatGPT-maker has publicly aired receipts to counter Apple's version of events.",
+   "published": "2026-08-04T11:27:55.000Z",
+   "dupes": 1,
+   "score": 0.332,
    "tier": 3
   },
   {
@@ -252,7 +267,7 @@
    "tldr": "Orchard is an open-source framework for the research community to train and evaluate AI agents across task types.  It reduces complexity while supporting strong performance from smaller models by enabling researchers to…",
    "published": "2026-08-03T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.329,
+   "score": 0.325,
    "tier": 3
   },
   {
@@ -274,21 +289,6 @@
    "tier": 3
   },
   {
-   "id": "f98a3c9edeb8198b24054bc202a442247a30c141",
-   "title": "Smaller, faster, safer: running Kimi and GLM at scale",
-   "url": "https://blog.cloudflare.com/smaller-faster-safer-models",
-   "source": "HN · Kimi",
-   "org": [
-    "moonshot"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-03T17:08:46.000Z",
-   "dupes": 1,
-   "score": 0.311,
-   "tier": 3
-  },
-  {
    "id": "ae1baf0e40179a31b038ce5908ea3d319343fc16",
    "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
    "url": "https://artificialanalysis.ai/models/deepseek-v4-flash",
@@ -304,6 +304,21 @@
    "tier": 3
   },
   {
+   "id": "f98a3c9edeb8198b24054bc202a442247a30c141",
+   "title": "Smaller, faster, safer: running Kimi and GLM at scale",
+   "url": "https://blog.cloudflare.com/smaller-faster-safer-models",
+   "source": "HN · Kimi",
+   "org": [
+    "moonshot"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-03T17:08:46.000Z",
+   "dupes": 1,
+   "score": 0.306,
+   "tier": 3
+  },
+  {
    "id": "6d58997b466ca59f729e755e523db112666f9bfc",
    "title": "Ten advances in mathematics and theoretical computer science",
    "url": "https://openai.com/index/ten-advances-in-mathematics",
@@ -315,7 +330,7 @@
    "tldr": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
    "published": "2026-08-01T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.306,
+   "score": 0.305,
    "tier": 3
   },
   {
@@ -379,21 +394,6 @@
    "tier": 3
   },
   {
-   "id": "2b882e1b8e7677a350c572ffef5fb289d5ea0fbf",
-   "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
-   "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration",
-   "source": "Google DeepMind",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks.  It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
-   "published": "2026-07-30T15:00:59.000Z",
-   "dupes": 1,
-   "score": 0.302,
-   "tier": 3
-  },
-  {
    "id": "d382e1dba0c73c1fef5dbcef68050b999c22b500",
    "title": "Investigating three real-world incidents in our cybersecurity evaluations",
    "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
@@ -449,6 +449,21 @@
    "topic": "ai",
    "tldr": "6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
    "published": "2026-07-29T15:00:00.000Z",
+   "dupes": 1,
+   "score": 0.301,
+   "tier": 3
+  },
+  {
+   "id": "2b882e1b8e7677a350c572ffef5fb289d5ea0fbf",
+   "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+   "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration",
+   "source": "Google DeepMind",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks.  It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
+   "published": "2026-07-30T15:00:59.000Z",
    "dupes": 1,
    "score": 0.301,
    "tier": 3
@@ -548,21 +563,6 @@
    "tier": 3
   },
   {
-   "id": "92f8a546317f462a627cf44744fe9780fa6a8873",
-   "title": "China’s Alibaba takes another swipe at America’s AI supremacy",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
-   "source": "The Verge AI",
-   "org": [
-    "qwen"
-   ],
-   "topic": "ai",
-   "tldr": "Chinese tech giant Alibaba released what it says is its largest and \"most capable AI model to date,\" claiming performance rivaling the best systems from US frontier labs Anthropic and OpenAI, as well as domestic rivals…",
-   "published": "2026-08-03T11:01:11.000Z",
-   "dupes": 1,
-   "score": 0.255,
-   "tier": 3
-  },
-  {
    "id": "91795cf32ccdcbf8609e272f1acf60f94eb14a2f",
    "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
    "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
@@ -574,7 +574,7 @@
    "tldr": "",
    "published": "2026-08-02T04:21:14.000Z",
    "dupes": 1,
-   "score": 0.249,
+   "score": 0.248,
    "tier": 3
   },
   {
@@ -593,7 +593,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.224,
+   "score": 0.223,
    "tier": 3
   },
   {
@@ -609,7 +609,7 @@
    "tldr": "",
    "published": "2026-08-02T15:23:59.000Z",
    "dupes": 1,
-   "score": 0.218,
+   "score": 0.216,
    "tier": 3
   },
   {
