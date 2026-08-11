@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-11T15:53:39.529Z",
+ "generated": "2026-08-11T16:51:30.319Z",
  "items": [
   {
    "id": "ba987098891b8fcef1662bc234bf697f47ec3803",
@@ -13,8 +13,23 @@
    "tldr": "Every new generation of accelerated computing demands more from the infrastructure underneath it — more compute performance, higher rack density and more efficient, scalable power distribution.  The bottleneck isn’t…",
    "published": "2026-08-11T15:00:06.000Z",
    "dupes": 1,
-   "score": 0.613,
+   "score": 0.601,
    "tier": 1
+  },
+  {
+   "id": "296b95d62f193ef74c62fd13f70f58f7f5da8f36",
+   "title": "Introducing CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervision, Reward-Aligned Learning, and Tool-Augmented Measurement",
+   "url": "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement",
+   "source": "Microsoft Research",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "Radiology AI is evolving beyond report generation.  CARE-X explores a unified approach that combines flexible reasoning, calibrated predictions, and measurement-based tools for chest X-ray interpretation.",
+   "published": "2026-08-11T16:00:00.000Z",
+   "dupes": 1,
+   "score": 0.601,
+   "tier": 2
   },
   {
    "id": "5389972db87633263376fc03e0a8f87ac2056f00",
@@ -31,7 +46,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.588,
+   "score": 0.577,
    "tier": 2
   },
   {
@@ -46,7 +61,7 @@
    "tldr": "As AI shifts from chatbots to autonomous agents, open models are serving market demands for full control over where AI runs and how it’s deployed and evolves.  5 Lightning, the highest-efficiency model in its class for…",
    "published": "2026-08-11T13:00:05.000Z",
    "dupes": 1,
-   "score": 0.588,
+   "score": 0.577,
    "tier": 2
   },
   {
@@ -59,7 +74,22 @@
    "tldr": "",
    "published": "2026-08-11T13:37:10.000Z",
    "dupes": 1,
-   "score": 0.583,
+   "score": 0.571,
+   "tier": 2
+  },
+  {
+   "id": "de2ca3d7578dd51cbe196bf098f482b58becc321",
+   "title": "Testing ads in ChatGPT",
+   "url": "https://openai.com/index/testing-ads-in-chatgpt",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+   "published": "2026-08-11T10:00:00.000Z",
+   "dupes": 1,
+   "score": 0.569,
    "tier": 2
   },
   {
@@ -74,7 +104,7 @@
    "tldr": "",
    "published": "2026-08-11T14:50:33.000Z",
    "dupes": 1,
-   "score": 0.547,
+   "score": 0.545,
    "tier": 2
   },
   {
@@ -89,7 +119,7 @@
    "tldr": "",
    "published": "2026-08-11T14:03:18.000Z",
    "dupes": 1,
-   "score": 0.534,
+   "score": 0.527,
    "tier": 2
   },
   {
@@ -104,7 +134,7 @@
    "tldr": "",
    "published": "2026-08-11T13:26:02.000Z",
    "dupes": 1,
-   "score": 0.528,
+   "score": 0.521,
    "tier": 2
   },
   {
@@ -119,7 +149,22 @@
    "tldr": "",
    "published": "2026-08-11T10:02:00.000Z",
    "dupes": 1,
-   "score": 0.502,
+   "score": 0.497,
+   "tier": 2
+  },
+  {
+   "id": "fe459dc13f2f666487760df4d5ed2c05b45f2df0",
+   "title": "Claude will apply invisible watermarks to AI text and images",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
+   "source": "The Verge AI",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "Anthropic has pledged to start marking Claude-generated text and images with machine-readable data, in an effort to comply with European rules for AI transparency.  \"Generated text will carry embedded watermarks, and…",
+   "published": "2026-08-11T12:22:20.000Z",
+   "dupes": 1,
+   "score": 0.494,
    "tier": 2
   },
   {
@@ -137,7 +182,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.498,
+   "score": 0.491,
    "tier": 2
   },
   {
@@ -150,7 +195,7 @@
    "tldr": "",
    "published": "2026-08-11T01:22:09.000Z",
    "dupes": 1,
-   "score": 0.472,
+   "score": 0.466,
    "tier": 2
   },
   {
@@ -165,8 +210,8 @@
    "tldr": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
    "published": "2026-08-10T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.445,
-   "tier": 2
+   "score": 0.44,
+   "tier": 3
   },
   {
    "id": "7c784dd3821a1241851f91a79e7bf668a087c8c4",
@@ -180,8 +225,8 @@
    "tldr": "",
    "published": "2026-08-10T14:06:22.000Z",
    "dupes": 1,
-   "score": 0.439,
-   "tier": 2
+   "score": 0.437,
+   "tier": 3
   },
   {
    "id": "4f49de3486923264fed2d23371ad446de776a23e",
@@ -195,8 +240,8 @@
    "tldr": "",
    "published": "2026-08-10T21:36:56.000Z",
    "dupes": 1,
-   "score": 0.434,
-   "tier": 2
+   "score": 0.433,
+   "tier": 3
   },
   {
    "id": "61282b7420ed067525c1f91d92b2480700145654",
@@ -210,7 +255,7 @@
    "tldr": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas.  The letter supports reliable, transparent growth that benefits Texans.",
    "published": "2026-08-10T14:00:00.000Z",
    "dupes": 1,
-   "score": 0.429,
+   "score": 0.424,
    "tier": 3
   },
   {
@@ -225,7 +270,7 @@
    "tldr": "6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
    "published": "2026-08-10T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.42,
+   "score": 0.415,
    "tier": 3
   },
   {
@@ -240,7 +285,7 @@
    "tldr": "6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
    "published": "2026-08-10T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.411,
+   "score": 0.407,
    "tier": 3
   },
   {
@@ -255,7 +300,7 @@
    "tldr": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
    "published": "2026-08-10T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.411,
+   "score": 0.407,
    "tier": 3
   },
   {
@@ -273,7 +318,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.404,
+   "score": 0.399,
    "tier": 3
   },
   {
@@ -288,7 +333,7 @@
    "tldr": "Premium seats are coming to ChatGPT Business.  Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
    "published": "2026-08-10T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.375,
+   "score": 0.373,
    "tier": 3
   },
   {
@@ -303,7 +348,7 @@
    "tldr": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
    "published": "2026-08-10T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.375,
+   "score": 0.373,
    "tier": 3
   },
   {
@@ -318,7 +363,7 @@
    "tldr": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
    "published": "2026-08-10T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.375,
+   "score": 0.373,
    "tier": 3
   },
   {
@@ -331,7 +376,7 @@
    "tldr": "",
    "published": "2026-08-10T10:05:36.000Z",
    "dupes": 1,
-   "score": 0.374,
+   "score": 0.37,
    "tier": 3
   },
   {
@@ -346,7 +391,7 @@
    "tldr": "Meta supports Texas Governor Greg Abbott’s commitment to responsible data center development, and we pay the full costs of our data centers’ energy and water use so they aren’t passed on to consumers.  The post Meta…",
    "published": "2026-08-10T12:00:28.000Z",
    "dupes": 1,
-   "score": 0.37,
+   "score": 0.365,
    "tier": 3
   },
   {
@@ -379,7 +424,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.338,
+   "score": 0.335,
    "tier": 3
   },
   {
@@ -394,7 +439,7 @@
    "tldr": "",
    "published": "2026-08-10T12:24:48.000Z",
    "dupes": 1,
-   "score": 0.321,
+   "score": 0.317,
    "tier": 3
   },
   {
@@ -424,7 +469,7 @@
    "tldr": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
    "published": "2026-08-07T09:00:00.000Z",
    "dupes": 1,
-   "score": 0.307,
+   "score": 0.306,
    "tier": 3
   },
   {
@@ -529,7 +574,7 @@
    "tldr": "The global buildout of AI infrastructure reached a new milestone today — Firebird, an emerging AI cloud, launched the CIS region’s largest AI factory in Armenia, establishing a new AI computing hub powered by NVIDIA…",
    "published": "2026-08-08T10:24:54.000Z",
    "dupes": 1,
-   "score": 0.293,
+   "score": 0.292,
    "tier": 3
   },
   {
@@ -573,24 +618,6 @@
    "topic": "compute",
    "tldr": "S.  can produce the infrastructure needed for better healthcare, breakthrough scientific discovery, stronger industrial productivity and global technology leadership.",
    "published": "2026-08-05T13:00:47.000Z",
-   "dupes": 1,
-   "score": 0.276,
-   "tier": 3
-  },
-  {
-   "id": "31b4bc9f80b9ccc15a4b8dfeedbc1b76ae2a5f56",
-   "title": "NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US",
-   "url": "https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "S.  National Science Foundation’s (NSF) State and Regional Artificial Intelligence Infrastructure Hubs program, an effort launching today to expand access to the advanced computing, data, software and expertise needed…",
-   "published": "2026-08-04T16:00:56.000Z",
-   "badges": [
-    "research"
-   ],
    "dupes": 1,
    "score": 0.276,
    "tier": 3
@@ -648,7 +675,7 @@
    "tldr": "",
    "published": "2026-08-09T11:46:28.000Z",
    "dupes": 1,
-   "score": 0.24,
+   "score": 0.239,
    "tier": 3
   },
   {
@@ -663,35 +690,7 @@
    "tldr": "",
    "published": "2026-08-09T08:44:29.000Z",
    "dupes": 1,
-   "score": 0.236,
-   "tier": 3
-  },
-  {
-   "id": "3835de70aa7ad62fd1484e585ec0ef6ac1a85b12",
-   "title": "An Amazon data center could have the worst polluting power plant in the country",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
-   "source": "The Verge AI",
-   "org": [],
-   "topic": "compute",
-   "tldr": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to The New York Times.",
-   "published": "2026-08-08T17:53:34.000Z",
-   "dupes": 1,
-   "score": 0.224,
-   "tier": 3
-  },
-  {
-   "id": "d128983602b29f0f20ddb58996695e1a3c1ab656",
-   "title": "OpenAI puts the brakes on a new model because it’s supposedly too powerful",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place.  The announcement follows its recent…",
-   "published": "2026-08-07T18:40:34.000Z",
-   "dupes": 1,
-   "score": 0.21,
+   "score": 0.235,
    "tier": 3
   },
   {
