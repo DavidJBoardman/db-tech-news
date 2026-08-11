@@ -1,6 +1,115 @@
 {
- "generated": "2026-08-11T12:05:47.769Z",
+ "generated": "2026-08-11T13:50:45.259Z",
  "items": [
+  {
+   "id": "5389972db87633263376fc03e0a8f87ac2056f00",
+   "title": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
+   "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "The open source ecosystem is making it easier for AI enthusiasts and developers to build, customize and run increasingly capable agents locally.  Throughout August, NVIDIA is celebrating the partners and open source…",
+   "published": "2026-08-11T13:00:25.000Z",
+   "badges": [
+    "oss"
+   ],
+   "dupes": 1,
+   "score": 0.614,
+   "tier": 1
+  },
+  {
+   "id": "d9fbf12b504c365fc9993117dfc9c8ce6b777a4d",
+   "title": "NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard Deliver Faster, Smarter, More Efficient Agentic AI",
+   "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "As AI shifts from chatbots to autonomous agents, open models are serving market demands for full control over where AI runs and how it’s deployed and evolves.  5 Lightning, the highest-efficiency model in its class for…",
+   "published": "2026-08-11T13:00:05.000Z",
+   "dupes": 1,
+   "score": 0.614,
+   "tier": 2
+  },
+  {
+   "id": "5eb3c49c6262106f66b52e0565dea5bf20f4e717",
+   "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+   "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-11T13:37:10.000Z",
+   "dupes": 1,
+   "score": 0.609,
+   "tier": 2
+  },
+  {
+   "id": "fe459dc13f2f666487760df4d5ed2c05b45f2df0",
+   "title": "Claude will apply invisible watermarks to AI text and images",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
+   "source": "The Verge AI",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "Anthropic has pledged to start marking Claude-generated text and images with machine-readable data, in an effort to comply with European rules for AI transparency.  \"Generated text will carry embedded watermarks, and…",
+   "published": "2026-08-11T12:22:20.000Z",
+   "dupes": 1,
+   "score": 0.531,
+   "tier": 2
+  },
+  {
+   "id": "70c78009c29a9c8ae73cf3d27dd642f2969cb4ad",
+   "title": "How to organize Claude Code for product work",
+   "url": "https://www.theaithinker.com/p/how-to-organize-claude-code-for-product",
+   "source": "Hacker News",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-11T11:02:34.000Z",
+   "dupes": 1,
+   "score": 0.518,
+   "tier": 2
+  },
+  {
+   "id": "220d5105e6c790f05de16e6320413d649d66c756",
+   "title": "What I learned by putting GitHub Copilot behind a MitM proxy",
+   "url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
+   "source": "Hacker News",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-11T10:40:47.000Z",
+   "badges": [
+    "oss"
+   ],
+   "dupes": 1,
+   "score": 0.513,
+   "tier": 2
+  },
+  {
+   "id": "a4ba7633e2bec81b4e2f9bcfca2a036955c0a4ad",
+   "title": "Nvidia's Risky Business",
+   "url": "https://stratechery.com/2026/nvidias-risky-business",
+   "source": "Hacker News",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-11T10:02:00.000Z",
+   "dupes": 1,
+   "score": 0.51,
+   "tier": 2
+  },
   {
    "id": "8797c3b659bb1ecbb62b80b579d7f636c14284e6",
    "title": "H3-metal – Native MiniMax-H3 inference for Apple Silicon",
@@ -11,8 +120,8 @@
    "tldr": "",
    "published": "2026-08-11T01:22:09.000Z",
    "dupes": 1,
-   "score": 0.489,
-   "tier": 1
+   "score": 0.482,
+   "tier": 2
   },
   {
    "id": "7a678e9a26d7e264e59b07c8d89347737c8a5e1c",
@@ -26,7 +135,7 @@
    "tldr": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
    "published": "2026-08-10T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.468,
+   "score": 0.457,
    "tier": 2
   },
   {
@@ -41,7 +150,7 @@
    "tldr": "",
    "published": "2026-08-10T14:06:22.000Z",
    "dupes": 1,
-   "score": 0.451,
+   "score": 0.445,
    "tier": 2
   },
   {
@@ -56,7 +165,7 @@
    "tldr": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas.  The letter supports reliable, transparent growth that benefits Texans.",
    "published": "2026-08-10T14:00:00.000Z",
    "dupes": 1,
-   "score": 0.449,
+   "score": 0.44,
    "tier": 2
   },
   {
@@ -71,7 +180,7 @@
    "tldr": "",
    "published": "2026-08-10T21:36:56.000Z",
    "dupes": 1,
-   "score": 0.44,
+   "score": 0.437,
    "tier": 2
   },
   {
@@ -86,7 +195,7 @@
    "tldr": "6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
    "published": "2026-08-10T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.438,
+   "score": 0.429,
    "tier": 2
   },
   {
@@ -101,8 +210,8 @@
    "tldr": "6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
    "published": "2026-08-10T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.428,
-   "tier": 2
+   "score": 0.42,
+   "tier": 3
   },
   {
    "id": "7f776d7829d07edef8a9ed148664107425911d12",
@@ -116,8 +225,8 @@
    "tldr": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
    "published": "2026-08-10T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.428,
-   "tier": 2
+   "score": 0.42,
+   "tier": 3
   },
   {
    "id": "e5b664a37aa39848f2818dc3bf1d6e3bf5ae4443",
@@ -134,23 +243,8 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.427,
-   "tier": 2
-  },
-  {
-   "id": "0b2744e224d2a974f712e9bc5c0a2e497765c6e2",
-   "title": "Learning more about Claude's mathematical capabilities",
-   "url": "https://www.anthropic.com/research/riemann-zeta",
-   "source": "Hacker News",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-10T17:41:13.000Z",
-   "dupes": 1,
-   "score": 0.413,
-   "tier": 2
+   "score": 0.416,
+   "tier": 3
   },
   {
    "id": "550277732d6a648e779813cb564f8d2a3f27f14c",
@@ -162,8 +256,8 @@
    "tldr": "",
    "published": "2026-08-10T18:12:49.000Z",
    "dupes": 1,
-   "score": 0.412,
-   "tier": 2
+   "score": 0.402,
+   "tier": 3
   },
   {
    "id": "90d59cd2b4ce1933b4c75746022d4773a125443c",
@@ -175,23 +269,8 @@
    "tldr": "",
    "published": "2026-08-10T10:05:36.000Z",
    "dupes": 1,
-   "score": 0.391,
-   "tier": 2
-  },
-  {
-   "id": "cee92ed4498ce8edd947045e9c64f01cf4455da2",
-   "title": "Meta Upholds Texas Governor Greg Abbott’s Data Center Standards",
-   "url": "https://about.fb.com/news/2026/08/meta-upholds-texas-governor-greg-abbotts-data-center-standards",
-   "source": "Meta Newsroom",
-   "org": [
-    "meta"
-   ],
-   "topic": "compute",
-   "tldr": "Meta supports Texas Governor Greg Abbott’s commitment to responsible data center development, and we pay the full costs of our data centers’ energy and water use so they aren’t passed on to consumers.  The post Meta…",
-   "published": "2026-08-10T12:00:28.000Z",
-   "dupes": 1,
-   "score": 0.388,
-   "tier": 2
+   "score": 0.383,
+   "tier": 3
   },
   {
    "id": "ee449db47d8dff1954b2914888b612d67e7116d2",
@@ -205,7 +284,7 @@
    "tldr": "Premium seats are coming to ChatGPT Business.  Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
    "published": "2026-08-10T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.387,
+   "score": 0.381,
    "tier": 3
   },
   {
@@ -220,7 +299,7 @@
    "tldr": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
    "published": "2026-08-10T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.387,
+   "score": 0.381,
    "tier": 3
   },
   {
@@ -235,25 +314,22 @@
    "tldr": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
    "published": "2026-08-10T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.387,
+   "score": 0.381,
    "tier": 3
   },
   {
-   "id": "0da6fb777e3347c6f9ba25cb75baf75a2db14983",
-   "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
-   "url": "https://huggingface.co/blog/muse-glimmer",
-   "source": "Hugging Face Blog",
+   "id": "cee92ed4498ce8edd947045e9c64f01cf4455da2",
+   "title": "Meta Upholds Texas Governor Greg Abbott’s Data Center Standards",
+   "url": "https://about.fb.com/news/2026/08/meta-upholds-texas-governor-greg-abbotts-data-center-standards",
+   "source": "Meta Newsroom",
    "org": [
     "meta"
    ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-10T00:00:00.000Z",
-   "badges": [
-    "oss"
-   ],
+   "topic": "compute",
+   "tldr": "Meta supports Texas Governor Greg Abbott’s commitment to responsible data center development, and we pay the full costs of our data centers’ energy and water use so they aren’t passed on to consumers.  The post Meta…",
+   "published": "2026-08-10T12:00:28.000Z",
    "dupes": 1,
-   "score": 0.35,
+   "score": 0.379,
    "tier": 3
   },
   {
@@ -272,6 +348,24 @@
    "tier": 3
   },
   {
+   "id": "0da6fb777e3347c6f9ba25cb75baf75a2db14983",
+   "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+   "url": "https://huggingface.co/blog/muse-glimmer",
+   "source": "Hugging Face Blog",
+   "org": [
+    "meta"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-10T00:00:00.000Z",
+   "badges": [
+    "oss"
+   ],
+   "dupes": 1,
+   "score": 0.344,
+   "tier": 3
+  },
+  {
    "id": "2641c54ef7db0d705bdca5b7b9a0af81ee15a21e",
    "title": "DeepSeek costs OpenCode Go user $1.14/day; dual DGX breaks even in 24 years",
    "url": "https://twitter.com/thdxr/status/2086599224674681242",
@@ -283,7 +377,7 @@
    "tldr": "",
    "published": "2026-08-10T12:24:48.000Z",
    "dupes": 1,
-   "score": 0.34,
+   "score": 0.331,
    "tier": 3
   },
   {
@@ -298,7 +392,7 @@
    "tldr": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
    "published": "2026-08-07T15:20:00.000Z",
    "dupes": 1,
-   "score": 0.31,
+   "score": 0.309,
    "tier": 3
   },
   {
@@ -313,7 +407,7 @@
    "tldr": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
    "published": "2026-08-07T09:00:00.000Z",
    "dupes": 1,
-   "score": 0.308,
+   "score": 0.307,
    "tier": 3
   },
   {
@@ -418,7 +512,7 @@
    "tldr": "The global buildout of AI infrastructure reached a new milestone today — Firebird, an emerging AI cloud, launched the CIS region’s largest AI factory in Armenia, establishing a new AI computing hub powered by NVIDIA…",
    "published": "2026-08-08T10:24:54.000Z",
    "dupes": 1,
-   "score": 0.296,
+   "score": 0.294,
    "tier": 3
   },
   {
@@ -433,7 +527,7 @@
    "tldr": "August is here, bringing 26 new games for GeForce NOW members.  Command the seas in World of Warships: Legends and discover what’s next in the GeForce NOW library, starting with the eight newly added games this week.",
    "published": "2026-08-06T13:00:11.000Z",
    "dupes": 1,
-   "score": 0.279,
+   "score": 0.278,
    "tier": 3
   },
   {
@@ -448,7 +542,7 @@
    "tldr": "In July, NVIDIA joined more than 200 companies and organizations in signing “Open Weights and American AI Leadership,” an open letter arguing that AI leadership will be measured not by any single frontier model but by…",
    "published": "2026-08-06T13:00:00.000Z",
    "dupes": 1,
-   "score": 0.279,
+   "score": 0.278,
    "tier": 3
   },
   {
@@ -510,21 +604,6 @@
    "topic": "compute",
    "tldr": "Surging AI demands are driving the need for massive datasets and context windows that burst past the confines of system memory.  But rising needs aren’t met by simply adding more storage capacity.",
    "published": "2026-08-04T15:00:47.000Z",
-   "dupes": 1,
-   "score": 0.276,
-   "tier": 3
-  },
-  {
-   "id": "83875c3da0b1e436a6a1452ecb7dcb056f93f5f2",
-   "title": "AI Leaders Propose SAFE Guidelines for Cybersecurity Transparency",
-   "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance-contributions",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Members of the Open Secure AI Alliance — now more than 120 organizations strong — are developing new guidelines to strengthen agentic AI cybersecurity as the annual Black Hat conference begins in Las Vegas today.",
-   "published": "2026-08-04T13:00:47.000Z",
    "dupes": 1,
    "score": 0.276,
    "tier": 3
@@ -595,7 +674,7 @@
    "tldr": "",
    "published": "2026-08-09T11:46:28.000Z",
    "dupes": 1,
-   "score": 0.248,
+   "score": 0.244,
    "tier": 3
   },
   {
@@ -610,7 +689,7 @@
    "tldr": "",
    "published": "2026-08-09T08:44:29.000Z",
    "dupes": 1,
-   "score": 0.243,
+   "score": 0.24,
    "tier": 3
   },
   {
@@ -623,37 +702,7 @@
    "tldr": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to The New York Times.",
    "published": "2026-08-08T17:53:34.000Z",
    "dupes": 1,
-   "score": 0.227,
-   "tier": 3
-  },
-  {
-   "id": "d128983602b29f0f20ddb58996695e1a3c1ab656",
-   "title": "OpenAI puts the brakes on a new model because it’s supposedly too powerful",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place.  The announcement follows its recent…",
-   "published": "2026-08-07T18:40:34.000Z",
-   "dupes": 1,
-   "score": 0.211,
-   "tier": 3
-  },
-  {
-   "id": "767e307c3d18df73457d5f435cafaf8d33317b83",
-   "title": "What’s behind the Google AI shake-up",
-   "url": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
-   "source": "The Verge AI",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Some of the biggest names on Google's AI team got new jobs this week.  In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google.",
-   "published": "2026-08-07T16:45:14.000Z",
-   "dupes": 1,
-   "score": 0.21,
+   "score": 0.226,
    "tier": 3
   },
   {
@@ -683,7 +732,7 @@
    "tldr": "",
    "published": "2026-08-07T20:59:44.000Z",
    "dupes": 1,
-   "score": 0.202,
+   "score": 0.201,
    "tier": 3
   }
  ]
