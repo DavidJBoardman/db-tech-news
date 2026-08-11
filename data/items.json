@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-11T22:34:04.252Z",
+ "generated": "2026-08-11T23:32:10.743Z",
  "items": [
   {
    "id": "d45e6cc9bb3124b3f307ed71a969f945a484c2bd",
@@ -13,7 +13,7 @@
    "tldr": "",
    "published": "2026-08-11T17:23:09.000Z",
    "dupes": 3,
-   "score": 0.623,
+   "score": 0.618,
    "tier": 1
   },
   {
@@ -28,7 +28,7 @@
    "tldr": "As AI shifts from chatbots to autonomous agents, open models are serving market demands for full control over where AI runs and how it’s deployed and evolves.  5 Lightning, the highest-efficiency model in its class for…",
    "published": "2026-08-11T13:00:05.000Z",
    "dupes": 2,
-   "score": 0.605,
+   "score": 0.599,
    "tier": 2
   },
   {
@@ -43,7 +43,7 @@
    "tldr": "Health & Bioscience",
    "published": "2026-08-11T17:04:00.000Z",
    "dupes": 1,
-   "score": 0.558,
+   "score": 0.548,
    "tier": 2
   },
   {
@@ -58,7 +58,7 @@
    "tldr": "Every new generation of accelerated computing demands more from the infrastructure underneath it — more compute performance, higher rack density and more efficient, scalable power distribution.  The bottleneck isn’t…",
    "published": "2026-08-11T15:00:06.000Z",
    "dupes": 1,
-   "score": 0.537,
+   "score": 0.527,
    "tier": 2
   },
   {
@@ -73,7 +73,37 @@
    "tldr": "Radiology AI is evolving beyond report generation.  CARE-X explores a unified approach that combines flexible reasoning, calibrated predictions, and measurement-based tools for chest X-ray interpretation.",
    "published": "2026-08-11T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.534,
+   "score": 0.524,
+   "tier": 2
+  },
+  {
+   "id": "de2ca3d7578dd51cbe196bf098f482b58becc321",
+   "title": "Testing ads in ChatGPT",
+   "url": "https://openai.com/index/testing-ads-in-chatgpt",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+   "published": "2026-08-11T10:00:00.000Z",
+   "dupes": 1,
+   "score": 0.508,
+   "tier": 2
+  },
+  {
+   "id": "b274e00978a8c0306df3d120c050bf97ed5f1983",
+   "title": "Daybreak models are now available on AWS",
+   "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+   "published": "2026-08-11T10:00:00.000Z",
+   "dupes": 1,
+   "score": 0.508,
    "tier": 2
   },
   {
@@ -91,37 +121,22 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.517,
+   "score": 0.508,
    "tier": 2
   },
   {
-   "id": "de2ca3d7578dd51cbe196bf098f482b58becc321",
-   "title": "Testing ads in ChatGPT",
-   "url": "https://openai.com/index/testing-ads-in-chatgpt",
-   "source": "OpenAI Blog",
+   "id": "800ebb0d7846f162ed94f0e42f798f535455d2c3",
+   "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
+   "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+   "source": "Hacker News",
    "org": [
-    "openai"
+    "meta"
    ],
-   "topic": "ai",
-   "tldr": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-   "published": "2026-08-11T10:00:00.000Z",
+   "topic": "compute",
+   "tldr": "",
+   "published": "2026-08-11T14:50:33.000Z",
    "dupes": 1,
-   "score": 0.516,
-   "tier": 2
-  },
-  {
-   "id": "b274e00978a8c0306df3d120c050bf97ed5f1983",
-   "title": "Daybreak models are now available on AWS",
-   "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
-   "published": "2026-08-11T10:00:00.000Z",
-   "dupes": 1,
-   "score": 0.516,
+   "score": 0.502,
    "tier": 2
   },
   {
@@ -137,22 +152,7 @@
    "tldr": "For the 14th time, a Google product has hit 1 billion users.  Google CEO Sundar Pichai posted on X that a billion people are using Gemini every month, and that Gemini is Google's fastest-growing product ever.",
    "published": "2026-08-11T19:41:42.000Z",
    "dupes": 1,
-   "score": 0.513,
-   "tier": 2
-  },
-  {
-   "id": "800ebb0d7846f162ed94f0e42f798f535455d2c3",
-   "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
-   "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-   "source": "Hacker News",
-   "org": [
-    "meta"
-   ],
-   "topic": "compute",
-   "tldr": "",
-   "published": "2026-08-11T14:50:33.000Z",
-   "dupes": 1,
-   "score": 0.511,
+   "score": 0.502,
    "tier": 2
   },
   {
@@ -165,7 +165,7 @@
    "tldr": "",
    "published": "2026-08-11T13:37:10.000Z",
    "dupes": 1,
-   "score": 0.51,
+   "score": 0.501,
    "tier": 2
   },
   {
@@ -180,22 +180,7 @@
    "tldr": "Brad Lightcap, OpenAI's special projects lead and the company's former COO, announced his departure after an eight-year stint at the AI lab.",
    "published": "2026-08-11T17:50:01.000Z",
    "dupes": 1,
-   "score": 0.492,
-   "tier": 2
-  },
-  {
-   "id": "816ed2f1a2f28b410a1b3e884ac1e6c9f55dd96d",
-   "title": "Made by Google 2026: all the Pixel news and announcements",
-   "url": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
-   "source": "The Verge AI",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Google is gearing up to reveal a bunch of new Pixel devices on August 12th.  A series of leaks leading up to the event suggest that the Pixel 11 lineup will come in an array of colors, with signs pointing to a built-in…",
-   "published": "2026-08-11T17:00:00.000Z",
-   "dupes": 1,
-   "score": 0.482,
+   "score": 0.481,
    "tier": 2
   },
   {
@@ -210,7 +195,22 @@
    "tldr": "",
    "published": "2026-08-11T12:23:07.000Z",
    "dupes": 1,
-   "score": 0.475,
+   "score": 0.473,
+   "tier": 2
+  },
+  {
+   "id": "816ed2f1a2f28b410a1b3e884ac1e6c9f55dd96d",
+   "title": "Made by Google 2026: all the Pixel news and announcements",
+   "url": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
+   "source": "The Verge AI",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Google is gearing up to reveal a bunch of new Pixel devices on August 12th.  A series of leaks leading up to the event suggest that the Pixel 11 lineup will come in an array of colors, with signs pointing to a built-in…",
+   "published": "2026-08-11T17:00:00.000Z",
+   "dupes": 1,
+   "score": 0.472,
    "tier": 3
   },
   {
@@ -225,7 +225,7 @@
    "tldr": "",
    "published": "2026-08-11T10:02:00.000Z",
    "dupes": 1,
-   "score": 0.467,
+   "score": 0.461,
    "tier": 3
   },
   {
@@ -243,7 +243,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.448,
+   "score": 0.441,
    "tier": 3
   },
   {
@@ -258,20 +258,7 @@
    "tldr": "Anthropic has pledged to start marking Claude-generated text and images with machine-readable data, in an effort to comply with European rules for AI transparency.  \"Generated text will carry embedded watermarks, and…",
    "published": "2026-08-11T12:22:20.000Z",
    "dupes": 1,
-   "score": 0.436,
-   "tier": 3
-  },
-  {
-   "id": "8797c3b659bb1ecbb62b80b579d7f636c14284e6",
-   "title": "H3-metal – Native MiniMax-H3 inference for Apple Silicon",
-   "url": "https://github.com/antirez/h3.c",
-   "source": "Hacker News",
-   "org": [],
-   "topic": "compute",
-   "tldr": "",
-   "published": "2026-08-11T01:22:09.000Z",
-   "dupes": 1,
-   "score": 0.434,
+   "score": 0.428,
    "tier": 3
   },
   {
@@ -286,7 +273,7 @@
    "tldr": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
    "published": "2026-08-10T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.412,
+   "score": 0.408,
    "tier": 3
   },
   {
@@ -301,7 +288,7 @@
    "tldr": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas.  The letter supports reliable, transparent growth that benefits Texans.",
    "published": "2026-08-10T14:00:00.000Z",
    "dupes": 1,
-   "score": 0.4,
+   "score": 0.396,
    "tier": 3
   },
   {
@@ -316,7 +303,7 @@
    "tldr": "6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
    "published": "2026-08-10T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.392,
+   "score": 0.389,
    "tier": 3
   },
   {
@@ -331,7 +318,7 @@
    "tldr": "6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
    "published": "2026-08-10T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.386,
+   "score": 0.382,
    "tier": 3
   },
   {
@@ -346,7 +333,7 @@
    "tldr": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
    "published": "2026-08-10T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.386,
+   "score": 0.382,
    "tier": 3
   },
   {
@@ -364,7 +351,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.372,
+   "score": 0.368,
    "tier": 3
   },
   {
@@ -379,7 +366,7 @@
    "tldr": "Premium seats are coming to ChatGPT Business.  Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
    "published": "2026-08-10T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.358,
+   "score": 0.356,
    "tier": 3
   },
   {
@@ -394,7 +381,7 @@
    "tldr": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
    "published": "2026-08-10T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.358,
+   "score": 0.356,
    "tier": 3
   },
   {
@@ -409,7 +396,7 @@
    "tldr": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
    "published": "2026-08-10T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.358,
+   "score": 0.356,
    "tier": 3
   },
   {
@@ -422,7 +409,7 @@
    "tldr": "",
    "published": "2026-08-10T10:05:36.000Z",
    "dupes": 1,
-   "score": 0.348,
+   "score": 0.345,
    "tier": 3
   },
   {
@@ -437,7 +424,7 @@
    "tldr": "",
    "published": "2026-08-07T17:56:20.000Z",
    "dupes": 1,
-   "score": 0.345,
+   "score": 0.344,
    "tier": 3
   },
   {
@@ -452,7 +439,7 @@
    "tldr": "Meta supports Texas Governor Greg Abbott’s commitment to responsible data center development, and we pay the full costs of our data centers’ energy and water use so they aren’t passed on to consumers.  The post Meta…",
    "published": "2026-08-10T12:00:28.000Z",
    "dupes": 1,
-   "score": 0.342,
+   "score": 0.339,
    "tier": 3
   },
   {
@@ -470,7 +457,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.321,
+   "score": 0.319,
    "tier": 3
   },
   {
@@ -485,7 +472,7 @@
    "tldr": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
    "published": "2026-08-07T15:20:00.000Z",
    "dupes": 1,
-   "score": 0.307,
+   "score": 0.306,
    "tier": 3
   },
   {
@@ -519,21 +506,6 @@
    "tier": 3
   },
   {
-   "id": "f5f908b6ffe4ea666d96d2de696b56071776e443",
-   "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-   "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones",
-   "source": "Google DeepMind",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-06T15:06:15.000Z",
-   "dupes": 1,
-   "score": 0.303,
-   "tier": 3
-  },
-  {
    "id": "0f0c1961f93e8e0cb939472e2748171375e397e8",
    "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
    "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
@@ -559,6 +531,21 @@
    "topic": "ai",
    "tldr": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
    "published": "2026-08-06T06:00:00.000Z",
+   "dupes": 1,
+   "score": 0.302,
+   "tier": 3
+  },
+  {
+   "id": "f5f908b6ffe4ea666d96d2de696b56071776e443",
+   "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+   "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones",
+   "source": "Google DeepMind",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-06T15:06:15.000Z",
    "dupes": 1,
    "score": 0.302,
    "tier": 3
@@ -590,7 +577,7 @@
    "tldr": "",
    "published": "2026-08-10T12:24:48.000Z",
    "dupes": 1,
-   "score": 0.294,
+   "score": 0.291,
    "tier": 3
   },
   {
@@ -605,7 +592,7 @@
    "tldr": "The global buildout of AI infrastructure reached a new milestone today — Firebird, an emerging AI cloud, launched the CIS region’s largest AI factory in Armenia, establishing a new AI computing hub powered by NVIDIA…",
    "published": "2026-08-08T10:24:54.000Z",
    "dupes": 1,
-   "score": 0.289,
+   "score": 0.288,
    "tier": 3
   },
   {
@@ -663,7 +650,7 @@
    "tldr": "",
    "published": "2026-08-07T17:53:32.000Z",
    "dupes": 1,
-   "score": 0.27,
+   "score": 0.269,
    "tier": 3
   },
   {
@@ -691,7 +678,7 @@
    "tldr": "Developer and creator Tom Shaw sits down with Meta’s VP of Data Centers Rachel Peterson to discuss how Meta is building some of the world's largest computing facilities.  The post Why Meta Builds Its Own AI Data Centers…",
    "published": "2026-08-06T15:00:23.000Z",
    "dupes": 1,
-   "score": 0.253,
+   "score": 0.252,
    "tier": 3
   },
   {
@@ -706,7 +693,7 @@
    "tldr": "",
    "published": "2026-08-09T11:46:28.000Z",
    "dupes": 1,
-   "score": 0.23,
+   "score": 0.228,
    "tier": 3
   },
   {
@@ -721,7 +708,7 @@
    "tldr": "",
    "published": "2026-08-09T08:44:29.000Z",
    "dupes": 1,
-   "score": 0.227,
+   "score": 0.226,
    "tier": 3
   },
   {
@@ -751,7 +738,7 @@
    "tldr": "",
    "published": "2026-08-07T20:59:44.000Z",
    "dupes": 1,
-   "score": 0.198,
+   "score": 0.197,
    "tier": 3
   }
  ]
