@@ -1,6 +1,21 @@
 {
- "generated": "2026-08-11T14:51:30.605Z",
+ "generated": "2026-08-11T15:53:39.529Z",
  "items": [
+  {
+   "id": "ba987098891b8fcef1662bc234bf697f47ec3803",
+   "title": "Why Scaling AI Compute Performance Requires a New Power Architecture",
+   "url": "https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Every new generation of accelerated computing demands more from the infrastructure underneath it — more compute performance, higher rack density and more efficient, scalable power distribution.  The bottleneck isn’t…",
+   "published": "2026-08-11T15:00:06.000Z",
+   "dupes": 1,
+   "score": 0.613,
+   "tier": 1
+  },
   {
    "id": "5389972db87633263376fc03e0a8f87ac2056f00",
    "title": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
@@ -16,8 +31,8 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.601,
-   "tier": 1
+   "score": 0.588,
+   "tier": 2
   },
   {
    "id": "d9fbf12b504c365fc9993117dfc9c8ce6b777a4d",
@@ -31,7 +46,7 @@
    "tldr": "As AI shifts from chatbots to autonomous agents, open models are serving market demands for full control over where AI runs and how it’s deployed and evolves.  5 Lightning, the highest-efficiency model in its class for…",
    "published": "2026-08-11T13:00:05.000Z",
    "dupes": 1,
-   "score": 0.601,
+   "score": 0.588,
    "tier": 2
   },
   {
@@ -44,7 +59,22 @@
    "tldr": "",
    "published": "2026-08-11T13:37:10.000Z",
    "dupes": 1,
-   "score": 0.596,
+   "score": 0.583,
+   "tier": 2
+  },
+  {
+   "id": "800ebb0d7846f162ed94f0e42f798f535455d2c3",
+   "title": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
+   "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+   "source": "Hacker News",
+   "org": [
+    "meta"
+   ],
+   "topic": "compute",
+   "tldr": "",
+   "published": "2026-08-11T14:50:33.000Z",
+   "dupes": 1,
+   "score": 0.547,
    "tier": 2
   },
   {
@@ -59,7 +89,7 @@
    "tldr": "",
    "published": "2026-08-11T14:03:18.000Z",
    "dupes": 1,
-   "score": 0.542,
+   "score": 0.534,
    "tier": 2
   },
   {
@@ -74,7 +104,22 @@
    "tldr": "",
    "published": "2026-08-11T13:26:02.000Z",
    "dupes": 1,
-   "score": 0.538,
+   "score": 0.528,
+   "tier": 2
+  },
+  {
+   "id": "a4ba7633e2bec81b4e2f9bcfca2a036955c0a4ad",
+   "title": "Nvidia's Risky Business",
+   "url": "https://stratechery.com/2026/nvidias-risky-business",
+   "source": "Hacker News",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-11T10:02:00.000Z",
+   "dupes": 1,
+   "score": 0.502,
    "tier": 2
   },
   {
@@ -92,22 +137,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.506,
-   "tier": 2
-  },
-  {
-   "id": "a4ba7633e2bec81b4e2f9bcfca2a036955c0a4ad",
-   "title": "Nvidia's Risky Business",
-   "url": "https://stratechery.com/2026/nvidias-risky-business",
-   "source": "Hacker News",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-11T10:02:00.000Z",
-   "dupes": 1,
-   "score": 0.504,
+   "score": 0.498,
    "tier": 2
   },
   {
@@ -120,7 +150,7 @@
    "tldr": "",
    "published": "2026-08-11T01:22:09.000Z",
    "dupes": 1,
-   "score": 0.478,
+   "score": 0.472,
    "tier": 2
   },
   {
@@ -135,7 +165,7 @@
    "tldr": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
    "published": "2026-08-10T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.451,
+   "score": 0.445,
    "tier": 2
   },
   {
@@ -150,7 +180,7 @@
    "tldr": "",
    "published": "2026-08-10T14:06:22.000Z",
    "dupes": 1,
-   "score": 0.442,
+   "score": 0.439,
    "tier": 2
   },
   {
@@ -165,7 +195,7 @@
    "tldr": "",
    "published": "2026-08-10T21:36:56.000Z",
    "dupes": 1,
-   "score": 0.437,
+   "score": 0.434,
    "tier": 2
   },
   {
@@ -180,8 +210,8 @@
    "tldr": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas.  The letter supports reliable, transparent growth that benefits Texans.",
    "published": "2026-08-10T14:00:00.000Z",
    "dupes": 1,
-   "score": 0.434,
-   "tier": 2
+   "score": 0.429,
+   "tier": 3
   },
   {
    "id": "c7b962b1d9efaa2a9e74cd90c9ed8a5b0f0b1e1b",
@@ -195,8 +225,8 @@
    "tldr": "6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
    "published": "2026-08-10T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.424,
-   "tier": 2
+   "score": 0.42,
+   "tier": 3
   },
   {
    "id": "3a8585570cab21df194c4115cce4c90cdf272f31",
@@ -210,7 +240,7 @@
    "tldr": "6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
    "published": "2026-08-10T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.415,
+   "score": 0.411,
    "tier": 3
   },
   {
@@ -225,7 +255,7 @@
    "tldr": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
    "published": "2026-08-10T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.415,
+   "score": 0.411,
    "tier": 3
   },
   {
@@ -243,35 +273,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.41,
-   "tier": 3
-  },
-  {
-   "id": "0b2744e224d2a974f712e9bc5c0a2e497765c6e2",
-   "title": "Learning more about Claude's mathematical capabilities",
-   "url": "https://www.anthropic.com/research/riemann-zeta",
-   "source": "Hacker News",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-10T17:41:13.000Z",
-   "dupes": 1,
-   "score": 0.4,
-   "tier": 3
-  },
-  {
-   "id": "550277732d6a648e779813cb564f8d2a3f27f14c",
-   "title": "Rust SIMD on the GPU",
-   "url": "https://www.vectorware.com/blog/simd-on-gpu",
-   "source": "Hacker News",
-   "org": [],
-   "topic": "compute",
-   "tldr": "",
-   "published": "2026-08-10T18:12:49.000Z",
-   "dupes": 1,
-   "score": 0.397,
+   "score": 0.404,
    "tier": 3
   },
   {
@@ -286,7 +288,7 @@
    "tldr": "Premium seats are coming to ChatGPT Business.  Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
    "published": "2026-08-10T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.378,
+   "score": 0.375,
    "tier": 3
   },
   {
@@ -301,7 +303,7 @@
    "tldr": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
    "published": "2026-08-10T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.378,
+   "score": 0.375,
    "tier": 3
   },
   {
@@ -316,7 +318,7 @@
    "tldr": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
    "published": "2026-08-10T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.378,
+   "score": 0.375,
    "tier": 3
   },
   {
@@ -329,7 +331,7 @@
    "tldr": "",
    "published": "2026-08-10T10:05:36.000Z",
    "dupes": 1,
-   "score": 0.378,
+   "score": 0.374,
    "tier": 3
   },
   {
@@ -344,7 +346,7 @@
    "tldr": "Meta supports Texas Governor Greg Abbott’s commitment to responsible data center development, and we pay the full costs of our data centers’ energy and water use so they aren’t passed on to consumers.  The post Meta…",
    "published": "2026-08-10T12:00:28.000Z",
    "dupes": 1,
-   "score": 0.374,
+   "score": 0.37,
    "tier": 3
   },
   {
@@ -377,7 +379,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.341,
+   "score": 0.338,
    "tier": 3
   },
   {
@@ -392,7 +394,7 @@
    "tldr": "",
    "published": "2026-08-10T12:24:48.000Z",
    "dupes": 1,
-   "score": 0.326,
+   "score": 0.321,
    "tier": 3
   },
   {
@@ -407,7 +409,7 @@
    "tldr": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
    "published": "2026-08-07T15:20:00.000Z",
    "dupes": 1,
-   "score": 0.309,
+   "score": 0.308,
    "tier": 3
   },
   {
@@ -594,36 +596,6 @@
    "tier": 3
   },
   {
-   "id": "c0f46ed800c9353ce869090986c8f4e27780937a",
-   "title": "NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Available for Commercial Use",
-   "url": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "For robotaxis and other autonomous vehicles (AVs), the hardest problems aren’t the everyday scenarios.  They’re the rare, complex situations that are difficult to anticipate and train for.",
-   "published": "2026-08-04T15:00:49.000Z",
-   "dupes": 1,
-   "score": 0.276,
-   "tier": 3
-  },
-  {
-   "id": "33604144a555fc7a7db77939fdbaf80a393ee051",
-   "title": "As AI Increases Demands on Memory, Storage Steps Up",
-   "url": "https://blogs.nvidia.com/blog/ai-storage-fms",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Surging AI demands are driving the need for massive datasets and context windows that burst past the confines of system memory.  But rising needs aren’t met by simply adding more storage capacity.",
-   "published": "2026-08-04T15:00:47.000Z",
-   "dupes": 1,
-   "score": 0.276,
-   "tier": 3
-  },
-  {
    "id": "fd5b733b3580dcf8f00fb935ffa25a6d22161c53",
    "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
    "url": "https://huggingface.co/blog/allenai/tutormoments",
@@ -676,7 +648,7 @@
    "tldr": "",
    "published": "2026-08-09T11:46:28.000Z",
    "dupes": 1,
-   "score": 0.242,
+   "score": 0.24,
    "tier": 3
   },
   {
@@ -691,7 +663,7 @@
    "tldr": "",
    "published": "2026-08-09T08:44:29.000Z",
    "dupes": 1,
-   "score": 0.238,
+   "score": 0.236,
    "tier": 3
   },
   {
@@ -704,20 +676,7 @@
    "tldr": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to The New York Times.",
    "published": "2026-08-08T17:53:34.000Z",
    "dupes": 1,
-   "score": 0.225,
-   "tier": 3
-  },
-  {
-   "id": "de33f923bdec3335552796d28712fb32249304e0",
-   "title": "Immersion lithography saved Moore's Law (2023)",
-   "url": "https://www.asml.com/en/company/stories/2023/how-immersion-lithography-saved-moores-law",
-   "source": "Hacker News",
-   "org": [],
-   "topic": "compute",
-   "tldr": "",
-   "published": "2026-08-07T12:33:44.000Z",
-   "dupes": 1,
-   "score": 0.213,
+   "score": 0.224,
    "tier": 3
   },
   {
@@ -762,7 +721,7 @@
    "tldr": "",
    "published": "2026-08-07T20:59:44.000Z",
    "dupes": 1,
-   "score": 0.201,
+   "score": 0.2,
    "tier": 3
   }
  ]
