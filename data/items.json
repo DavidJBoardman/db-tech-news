@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-13T15:28:55.697Z",
+ "generated": "2026-08-13T16:25:12.555Z",
  "items": [
   {
    "id": "889ea1c117f15b3172d305835b21dbdb4895b8c0",
@@ -13,7 +13,7 @@
    "tldr": "",
    "published": "2026-08-13T12:58:02.000Z",
    "dupes": 2,
-   "score": 0.618,
+   "score": 0.62,
    "tier": 1
   },
   {
@@ -28,7 +28,7 @@
    "tldr": "GeForce NOW is giving cloud gaming an extra-credit upgrade just in time for back-to-school season.  The native Linux app for GeForce NOW is officially out of beta.",
    "published": "2026-08-13T13:00:33.000Z",
    "dupes": 1,
-   "score": 0.593,
+   "score": 0.582,
    "tier": 2
   },
   {
@@ -43,7 +43,22 @@
    "tldr": "",
    "published": "2026-08-13T12:49:21.000Z",
    "dupes": 2,
-   "score": 0.587,
+   "score": 0.58,
+   "tier": 2
+  },
+  {
+   "id": "9e022b7caa78cba45b7169b8166de7df4a2b0d6e",
+   "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+   "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
+   "published": "2026-08-13T09:00:00.000Z",
+   "dupes": 1,
+   "score": 0.563,
    "tier": 2
   },
   {
@@ -58,22 +73,7 @@
    "tldr": "",
    "published": "2026-08-12T16:37:13.000Z",
    "dupes": 2,
-   "score": 0.545,
-   "tier": 2
-  },
-  {
-   "id": "be219e751952e11ca0e020d30be5a19686452deb",
-   "title": "Anthropic: Introducing The Conceptual Reasoning Index",
-   "url": "https://alignment.anthropic.com/2026/conceptual-reasoning-index",
-   "source": "Hacker News",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-13T13:48:14.000Z",
-   "dupes": 1,
-   "score": 0.534,
+   "score": 0.54,
    "tier": 2
   },
   {
@@ -88,7 +88,7 @@
    "tldr": "",
    "published": "2026-08-13T13:57:47.000Z",
    "dupes": 1,
-   "score": 0.534,
+   "score": 0.523,
    "tier": 2
   },
   {
@@ -103,7 +103,7 @@
    "tldr": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about a question that’s been rocketing around the tech industry for the past week: Is Google losing the AI race?  That’s because last week…",
    "published": "2026-08-13T14:10:31.000Z",
    "dupes": 1,
-   "score": 0.533,
+   "score": 0.521,
    "tier": 2
   },
   {
@@ -118,7 +118,22 @@
    "tldr": "Microsoft is finally beginning to combine its consumer and commercial Copilot AI assistants into a single \"super app\" interface, starting with the Copilot and Microsoft 365 Copilot apps.  Both personal and work accounts…",
    "published": "2026-08-13T13:30:00.000Z",
    "dupes": 1,
-   "score": 0.524,
+   "score": 0.513,
+   "tier": 2
+  },
+  {
+   "id": "f4499451c6efa50425eb97e2505e72254b7ae9f4",
+   "title": "Codex in ChatGPT desktop app for Linux is now in preview",
+   "url": "https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027",
+   "source": "Hacker News",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-13T04:53:41.000Z",
+   "dupes": 1,
+   "score": 0.478,
    "tier": 2
   },
   {
@@ -133,22 +148,25 @@
    "tldr": "“What I really like about the glasses is the speed at which I get the information I need – instead of waiting for someone to read a letter or waiting for someone to tell me what I have in the fridge, I’ll just do it on…",
    "published": "2026-08-13T05:00:08.000Z",
    "dupes": 1,
-   "score": 0.484,
+   "score": 0.475,
    "tier": 2
   },
   {
-   "id": "2199e00cfba73ef30a05c241116f5759645f4fb5",
-   "title": "ChatGPT Desktop (Codex Desktop) for Linux",
-   "url": "https://openai.com/codex",
-   "source": "Hacker News",
+   "id": "6d2d05a329e442ed2773529e6619433ec893421a",
+   "title": "New model on Hugging Face: deepseek-ai/DeepSeek-V4-Pro-0813",
+   "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813",
+   "source": "HF · DeepSeek",
    "org": [
-    "openai"
+    "deepseek"
    ],
    "topic": "ai",
    "tldr": "",
-   "published": "2026-08-13T04:53:41.000Z",
+   "published": "2026-08-13T03:05:06.000Z",
+   "badges": [
+    "model"
+   ],
    "dupes": 1,
-   "score": 0.482,
+   "score": 0.459,
    "tier": 2
   },
   {
@@ -163,7 +181,7 @@
    "tldr": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
    "published": "2026-08-12T14:01:59.000Z",
    "dupes": 1,
-   "score": 0.431,
+   "score": 0.427,
    "tier": 2
   },
   {
@@ -178,7 +196,7 @@
    "tldr": "",
    "published": "2026-08-12T15:32:50.000Z",
    "dupes": 1,
-   "score": 0.418,
+   "score": 0.413,
    "tier": 2
   },
   {
@@ -193,8 +211,8 @@
    "tldr": "NVIDIA founder and CEO Jensen Huang is ranked No.  1 on Glassdoor’s Best CEOs list for 2026.",
    "published": "2026-08-12T14:00:00.000Z",
    "dupes": 1,
-   "score": 0.406,
-   "tier": 2
+   "score": 0.402,
+   "tier": 3
   },
   {
    "id": "e43158037a354e465e38b827db4fbb8dc3dd7c48",
@@ -206,7 +224,7 @@
    "tldr": "",
    "published": "2026-08-12T16:14:36.000Z",
    "dupes": 1,
-   "score": 0.406,
+   "score": 0.4,
    "tier": 3
   },
   {
@@ -221,7 +239,7 @@
    "tldr": "A path, a fence, a knot.  MindTopo sets a new benchmark for testing how AI understands topological relationships and highlights new opportunities to strengthen spatial reasoning and planning.",
    "published": "2026-08-12T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.404,
+   "score": 0.399,
    "tier": 3
   },
   {
@@ -236,7 +254,7 @@
    "tldr": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
    "published": "2026-08-12T06:00:00.000Z",
    "dupes": 1,
-   "score": 0.396,
+   "score": 0.393,
    "tier": 3
   },
   {
@@ -249,7 +267,7 @@
    "tldr": "",
    "published": "2026-08-12T14:00:51.000Z",
    "dupes": 1,
-   "score": 0.394,
+   "score": 0.389,
    "tier": 3
   },
   {
@@ -264,7 +282,7 @@
    "tldr": "Generative AI",
    "published": "2026-08-12T09:51:00.000Z",
    "dupes": 1,
-   "score": 0.387,
+   "score": 0.383,
    "tier": 3
   },
   {
@@ -279,7 +297,7 @@
    "tldr": "",
    "published": "2026-08-12T16:54:25.000Z",
    "dupes": 1,
-   "score": 0.384,
+   "score": 0.379,
    "tier": 3
   },
   {
@@ -294,7 +312,7 @@
    "tldr": "Meta and North America's Building Trades Unions (NABTU) are partnering to invest in skilled trades workers building America's AI infrastructure.  The post NABTU and Meta Announce New Partnership to Invest In Skilled…",
    "published": "2026-08-12T13:51:19.000Z",
    "dupes": 1,
-   "score": 0.38,
+   "score": 0.376,
    "tier": 3
   },
   {
@@ -309,7 +327,7 @@
    "tldr": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
    "published": "2026-08-12T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.377,
+   "score": 0.374,
    "tier": 3
   },
   {
@@ -324,7 +342,7 @@
    "tldr": "We announced partnerships with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to establish independent financing platforms designed to mobilize over $500 billion of third-party capital to support the…",
    "published": "2026-08-12T00:38:21.000Z",
    "dupes": 1,
-   "score": 0.353,
+   "score": 0.351,
    "tier": 3
   },
   {
@@ -339,7 +357,7 @@
    "tldr": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
    "published": "2026-08-11T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.345,
+   "score": 0.343,
    "tier": 3
   },
   {
@@ -354,22 +372,7 @@
    "tldr": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
    "published": "2026-08-11T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.345,
-   "tier": 3
-  },
-  {
-   "id": "edfd95646372b282ce84cedaa3507bb7c0752ebe",
-   "title": "DeepSeek-V4-Pro-0813 Publish",
-   "url": "https://api-docs.deepseek.com/",
-   "source": "HN · DeepSeek",
-   "org": [
-    "deepseek"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-12T15:32:28.000Z",
-   "dupes": 1,
-   "score": 0.336,
+   "score": 0.343,
    "tier": 3
   },
   {
@@ -384,7 +387,22 @@
    "tldr": "Health & Bioscience",
    "published": "2026-08-11T17:04:00.000Z",
    "dupes": 1,
-   "score": 0.334,
+   "score": 0.332,
+   "tier": 3
+  },
+  {
+   "id": "edfd95646372b282ce84cedaa3507bb7c0752ebe",
+   "title": "DeepSeek-V4-Pro-0813 Publish",
+   "url": "https://api-docs.deepseek.com/",
+   "source": "HN · DeepSeek",
+   "org": [
+    "deepseek"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-12T15:32:28.000Z",
+   "dupes": 1,
+   "score": 0.331,
    "tier": 3
   },
   {
@@ -399,37 +417,7 @@
    "tldr": "",
    "published": "2026-08-12T15:55:09.000Z",
    "dupes": 1,
-   "score": 0.333,
-   "tier": 3
-  },
-  {
-   "id": "1b0e93cced6d2e52e58d23645fd3a63c3d7ffc57",
-   "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
-   "url": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
-   "source": "The Verge AI",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "The $399 Google Pixel Watch 5 isn't about the hardware.  Sure, there's a new satin pyrite case finish, a few new strap colors, and a Steph Curry Special Edition.",
-   "published": "2026-08-12T14:00:00.000Z",
-   "dupes": 1,
-   "score": 0.331,
-   "tier": 3
-  },
-  {
-   "id": "95c9a89f660ff8b95dfba8f7c49e463e7f2c0b2a",
-   "title": "Introducing Grok 4.6",
-   "url": "https://cursor.com/blog/grok-4-6",
-   "source": "HN · xAI",
-   "org": [
-    "xai"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-12T15:52:52.000Z",
-   "dupes": 1,
-   "score": 0.33,
+   "score": 0.328,
    "tier": 3
   },
   {
@@ -444,7 +432,37 @@
    "tldr": "Every new generation of accelerated computing demands more from the infrastructure underneath it — more compute performance, higher rack density and more efficient, scalable power distribution.  The bottleneck isn’t…",
    "published": "2026-08-11T15:00:06.000Z",
    "dupes": 1,
-   "score": 0.329,
+   "score": 0.327,
+   "tier": 3
+  },
+  {
+   "id": "1b0e93cced6d2e52e58d23645fd3a63c3d7ffc57",
+   "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
+   "url": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
+   "source": "The Verge AI",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "The $399 Google Pixel Watch 5 isn't about the hardware.  Sure, there's a new satin pyrite case finish, a few new strap colors, and a Steph Curry Special Edition.",
+   "published": "2026-08-12T14:00:00.000Z",
+   "dupes": 1,
+   "score": 0.327,
+   "tier": 3
+  },
+  {
+   "id": "95c9a89f660ff8b95dfba8f7c49e463e7f2c0b2a",
+   "title": "Introducing Grok 4.6",
+   "url": "https://cursor.com/blog/grok-4-6",
+   "source": "HN · xAI",
+   "org": [
+    "xai"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-12T15:52:52.000Z",
+   "dupes": 1,
+   "score": 0.325,
    "tier": 3
   },
   {
@@ -462,7 +480,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.325,
+   "score": 0.323,
    "tier": 3
   },
   {
@@ -477,7 +495,7 @@
    "tldr": "As AI shifts from chatbots to autonomous agents, open models are serving market demands for full control over where AI runs and how it’s deployed and evolves.  5 Lightning, the highest-efficiency model in its class for…",
    "published": "2026-08-11T13:00:05.000Z",
    "dupes": 1,
-   "score": 0.325,
+   "score": 0.323,
    "tier": 3
   },
   {
@@ -491,21 +509,6 @@
    "topic": "ai",
    "tldr": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
    "published": "2026-08-10T17:00:00.000Z",
-   "dupes": 1,
-   "score": 0.323,
-   "tier": 3
-  },
-  {
-   "id": "2484f165f26a0ffdf87a793fc827c46e6250377a",
-   "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog?  Well, surprise: He's launched a startup.",
-   "published": "2026-08-12T12:09:34.000Z",
    "dupes": 1,
    "score": 0.322,
    "tier": 3
@@ -522,22 +525,7 @@
    "tldr": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas.  The letter supports reliable, transparent growth that benefits Texans.",
    "published": "2026-08-10T14:00:00.000Z",
    "dupes": 1,
-   "score": 0.321,
-   "tier": 3
-  },
-  {
-   "id": "4312292f9917ac37e5baed098a3ac9ea846326c9",
-   "title": "Grok is now an AI ‘teammate’ you can assign work",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
-   "source": "The Verge AI",
-   "org": [
-    "xai"
-   ],
-   "topic": "ai",
-   "tldr": "SpaceXAI has introduced Grok Bot, an always-on AI agent service designed to behave like independent \"AI teammates\" that can do your work for you.",
-   "published": "2026-08-12T11:58:54.000Z",
-   "dupes": 1,
-   "score": 0.321,
+   "score": 0.32,
    "tier": 3
   },
   {
@@ -552,22 +540,22 @@
    "tldr": "6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
    "published": "2026-08-10T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.319,
+   "score": 0.318,
    "tier": 3
   },
   {
-   "id": "296b95d62f193ef74c62fd13f70f58f7f5da8f36",
-   "title": "Introducing CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervision, Reward-Aligned Learning, and Tool-Augmented Measurement",
-   "url": "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement",
-   "source": "Microsoft Research",
+   "id": "2484f165f26a0ffdf87a793fc827c46e6250377a",
+   "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
+   "source": "The Verge AI",
    "org": [
-    "microsoft"
+    "openai"
    ],
    "topic": "ai",
-   "tldr": "Radiology AI is evolving beyond report generation.  CARE-X explores a unified approach that combines flexible reasoning, calibrated predictions, and measurement-based tools for chest X-ray interpretation.",
-   "published": "2026-08-11T16:00:00.000Z",
+   "tldr": "Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog?  Well, surprise: He's launched a startup.",
+   "published": "2026-08-12T12:09:34.000Z",
    "dupes": 1,
-   "score": 0.319,
+   "score": 0.318,
    "tier": 3
   },
   {
@@ -582,7 +570,7 @@
    "tldr": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
    "published": "2026-08-10T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.318,
+   "score": 0.317,
    "tier": 3
   },
   {
@@ -597,7 +585,37 @@
    "tldr": "6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
    "published": "2026-08-10T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.318,
+   "score": 0.317,
+   "tier": 3
+  },
+  {
+   "id": "296b95d62f193ef74c62fd13f70f58f7f5da8f36",
+   "title": "Introducing CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervision, Reward-Aligned Learning, and Tool-Augmented Measurement",
+   "url": "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement",
+   "source": "Microsoft Research",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "Radiology AI is evolving beyond report generation.  CARE-X explores a unified approach that combines flexible reasoning, calibrated predictions, and measurement-based tools for chest X-ray interpretation.",
+   "published": "2026-08-11T16:00:00.000Z",
+   "dupes": 1,
+   "score": 0.317,
+   "tier": 3
+  },
+  {
+   "id": "4312292f9917ac37e5baed098a3ac9ea846326c9",
+   "title": "Grok is now an AI ‘teammate’ you can assign work",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
+   "source": "The Verge AI",
+   "org": [
+    "xai"
+   ],
+   "topic": "ai",
+   "tldr": "SpaceXAI has introduced Grok Bot, an always-on AI agent service designed to behave like independent \"AI teammates\" that can do your work for you.",
+   "published": "2026-08-12T11:58:54.000Z",
+   "dupes": 1,
+   "score": 0.317,
    "tier": 3
   },
   {
@@ -615,19 +633,6 @@
     "model"
    ],
    "dupes": 2,
-   "score": 0.315,
-   "tier": 3
-  },
-  {
-   "id": "5eb3c49c6262106f66b52e0565dea5bf20f4e717",
-   "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
-   "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-11T13:37:10.000Z",
-   "dupes": 1,
    "score": 0.314,
    "tier": 3
   },
@@ -672,6 +677,19 @@
    "topic": "ai",
    "tldr": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
    "published": "2026-08-10T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.312,
+   "tier": 3
+  },
+  {
+   "id": "5eb3c49c6262106f66b52e0565dea5bf20f4e717",
+   "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+   "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-11T13:37:10.000Z",
    "dupes": 1,
    "score": 0.312,
    "tier": 3
@@ -736,7 +754,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.285,
+   "score": 0.284,
    "tier": 3
   },
   {
@@ -779,7 +797,7 @@
    "tldr": "After a former lead writer claimed Saber \"replaced me with ChatGPT,\" CEO Matthew Karch now claims, \"Neither Saber nor Unigine have replaced any writers with AI,\" for the Rideshare \"Stimulator\" game announced last month,…",
    "published": "2026-08-12T00:39:26.000Z",
    "dupes": 1,
-   "score": 0.278,
+   "score": 0.276,
    "tier": 3
   },
   {
@@ -797,7 +815,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.275,
+   "score": 0.274,
    "tier": 3
   },
   {
@@ -812,38 +830,7 @@
    "tldr": "Meta supports Texas Governor Greg Abbott’s commitment to responsible data center development, and we pay the full costs of our data centers’ energy and water use so they aren’t passed on to consumers.  The post Meta…",
    "published": "2026-08-10T12:00:28.000Z",
    "dupes": 1,
-   "score": 0.269,
-   "tier": 3
-  },
-  {
-   "id": "72f52ad1b9387ca67cbba8a267cac8ee6e559423",
-   "title": "ChatGPT and Gemini both just passed 1 billion users",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-   "source": "The Verge AI",
-   "org": [
-    "openai",
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "For the 14th time, a Google product has hit 1 billion users.  Google CEO Sundar Pichai posted on X that a billion people are using Gemini every month, and that Gemini is Google's fastest-growing product ever.",
-   "published": "2026-08-11T19:41:42.000Z",
-   "dupes": 1,
-   "score": 0.265,
-   "tier": 3
-  },
-  {
-   "id": "4b76f34b9372d46036fe75e6d8119b3054b4b90f",
-   "title": "Another OpenAI executive takes off",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Brad Lightcap, OpenAI's special projects lead and the company's former COO, announced his departure after an eight-year stint at the AI lab.",
-   "published": "2026-08-11T17:50:01.000Z",
-   "dupes": 1,
-   "score": 0.26,
+   "score": 0.268,
    "tier": 3
   },
   {
@@ -858,22 +845,7 @@
    "tldr": "",
    "published": "2026-08-10T12:24:48.000Z",
    "dupes": 1,
-   "score": 0.217,
-   "tier": 3
-  },
-  {
-   "id": "47987cd2f9d475ae78d49f9afdf97f9927146523",
-   "title": "DeepSeek V4 Flash 0731: 82.7% on Terminal-Bench 2.1 with a public harness",
-   "url": "https://antigma.ai/eval",
-   "source": "HN · DeepSeek",
-   "org": [
-    "deepseek"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-09T08:44:29.000Z",
-   "dupes": 1,
-   "score": 0.2,
+   "score": 0.216,
    "tier": 3
   },
   {
@@ -887,6 +859,21 @@
    "topic": "ai",
    "tldr": "",
    "published": "2026-08-09T11:46:28.000Z",
+   "dupes": 1,
+   "score": 0.199,
+   "tier": 3
+  },
+  {
+   "id": "47987cd2f9d475ae78d49f9afdf97f9927146523",
+   "title": "DeepSeek V4 Flash 0731: 82.7% on Terminal-Bench 2.1 with a public harness",
+   "url": "https://antigma.ai/eval",
+   "source": "HN · DeepSeek",
+   "org": [
+    "deepseek"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-09T08:44:29.000Z",
    "dupes": 1,
    "score": 0.199,
    "tier": 3
