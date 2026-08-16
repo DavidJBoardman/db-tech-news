@@ -1,6 +1,21 @@
 {
- "generated": "2026-08-16T14:46:24.735Z",
+ "generated": "2026-08-16T15:14:02.200Z",
  "items": [
+  {
+   "id": "a1c7d35e071856a8dde38c204c1e26920a4fd5c7",
+   "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+   "source": "The Verge AI",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done.  It uses…",
+   "published": "2026-08-16T14:56:40.000Z",
+   "dupes": 1,
+   "score": 0.546,
+   "tier": 1
+  },
   {
    "id": "9ffac573dcb57e87ba3cfdc7376ba2fbf91bd82c",
    "title": "Claude: System Prompts",
@@ -14,7 +29,22 @@
    "published": "2026-08-16T12:48:21.000Z",
    "dupes": 1,
    "score": 0.542,
-   "tier": 1
+   "tier": 2
+  },
+  {
+   "id": "332bc90701f1f487afc5fb4c03fcc42ca1b6218c",
+   "title": "Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
+   "url": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
+   "source": "Hacker News",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-16T13:58:17.000Z",
+   "dupes": 1,
+   "score": 0.536,
+   "tier": 2
   },
   {
    "id": "1a1eba1319db8d3300e9702151819c0c8edcb2bc",
@@ -43,7 +73,7 @@
    "tldr": "Indonesia is taking charge of its AI future.  This week, the Ministry of Communication and Digital Affairs (Komdigi), Indosat Ooredoo Hutchison (Indosat or IOH), NVIDIA and Universitas Gadjah Mada (UGM) launched the UGM…",
    "published": "2026-08-14T17:13:05.000Z",
    "dupes": 1,
-   "score": 0.336,
+   "score": 0.334,
    "tier": 2
   },
   {
@@ -73,7 +103,7 @@
    "tldr": "",
    "published": "2026-08-14T09:55:33.000Z",
    "dupes": 2,
-   "score": 0.33,
+   "score": 0.329,
    "tier": 2
   },
   {
@@ -88,7 +118,7 @@
    "tldr": "",
    "published": "2026-08-13T17:04:18.000Z",
    "dupes": 1,
-   "score": 0.324,
+   "score": 0.323,
    "tier": 2
   },
   {
@@ -133,7 +163,7 @@
    "tldr": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
    "published": "2026-08-13T09:00:00.000Z",
    "dupes": 1,
-   "score": 0.318,
+   "score": 0.317,
    "tier": 2
   },
   {
@@ -179,7 +209,7 @@
    "published": "2026-08-12T06:00:00.000Z",
    "dupes": 1,
    "score": 0.306,
-   "tier": 2
+   "tier": 3
   },
   {
    "id": "cad35e6294feba2f66b3de50e2b5067385b0737a",
@@ -194,7 +224,7 @@
    "published": "2026-08-12T00:00:00.000Z",
    "dupes": 1,
    "score": 0.305,
-   "tier": 2
+   "tier": 3
   },
   {
    "id": "de2ca3d7578dd51cbe196bf098f482b58becc321",
@@ -371,7 +401,7 @@
    "tldr": "",
    "published": "2026-08-14T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.294,
+   "score": 0.293,
    "tier": 3
   },
   {
@@ -384,7 +414,7 @@
    "tldr": "",
    "published": "2026-08-13T17:16:04.000Z",
    "dupes": 1,
-   "score": 0.287,
+   "score": 0.286,
    "tier": 3
   },
   {
@@ -524,6 +554,19 @@
    "tier": 3
   },
   {
+   "id": "e43158037a354e465e38b827db4fbb8dc3dd7c48",
+   "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+   "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-12T16:14:36.000Z",
+   "dupes": 1,
+   "score": 0.272,
+   "tier": 3
+  },
+  {
    "id": "e8e7671fcde25fb5827559e1483700b9c0634f29",
    "title": "MindTopo reveals VLMs’ spatial reasoning abilities",
    "url": "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities",
@@ -535,20 +578,7 @@
    "tldr": "A path, a fence, a knot.  MindTopo sets a new benchmark for testing how AI understands topological relationships and highlights new opportunities to strengthen spatial reasoning and planning.",
    "published": "2026-08-12T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.272,
-   "tier": 3
-  },
-  {
-   "id": "e43158037a354e465e38b827db4fbb8dc3dd7c48",
-   "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-   "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-12T16:14:36.000Z",
-   "dupes": 1,
-   "score": 0.272,
+   "score": 0.271,
    "tier": 3
   },
   {
@@ -693,21 +723,6 @@
    "tier": 3
   },
   {
-   "id": "d469d19d5d596cb8087f7c7fbe619c7b0aeaa05b",
-   "title": "You can now turn off Google Gemini’s visible watermarks",
-   "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-   "source": "The Verge AI",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools.  With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's AI video…",
-   "published": "2026-08-14T16:39:32.000Z",
-   "dupes": 1,
-   "score": 0.259,
-   "tier": 3
-  },
-  {
    "id": "a18697a7882d9b1442c7b16ef16821f37ddf68e7",
    "title": "NABTU and Meta Announce New Partnership to Invest In Skilled Trades for the AI Era",
    "url": "https://about.fb.com/news/2026/08/nabtu-and-meta-partnership-to-invest-in-skilled-trades-for-ai-era",
@@ -718,6 +733,21 @@
    "topic": "ai",
    "tldr": "Meta and North America's Building Trades Unions (NABTU) are partnering to invest in skilled trades workers building America's AI infrastructure.  The post NABTU and Meta Announce New Partnership to Invest In Skilled…",
    "published": "2026-08-12T13:51:19.000Z",
+   "dupes": 1,
+   "score": 0.258,
+   "tier": 3
+  },
+  {
+   "id": "d469d19d5d596cb8087f7c7fbe619c7b0aeaa05b",
+   "title": "You can now turn off Google Gemini’s visible watermarks",
+   "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+   "source": "The Verge AI",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools.  With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's AI video…",
+   "published": "2026-08-14T16:39:32.000Z",
    "dupes": 1,
    "score": 0.258,
    "tier": 3
@@ -738,21 +768,6 @@
    "tier": 3
   },
   {
-   "id": "32cdb4e18a7ec1e9ef2673a3359ad7870728dc48",
-   "title": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index",
-   "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
-   "source": "HN · xAI",
-   "org": [
-    "xai"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-12T16:54:25.000Z",
-   "dupes": 1,
-   "score": 0.246,
-   "tier": 3
-  },
-  {
    "id": "a8d30f7063b5cfffd67c609d132a6bcc3e809ba1",
    "title": "Apple trained its own AI model for China with help from Alibaba",
    "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
@@ -764,7 +779,7 @@
    "tldr": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington.",
    "published": "2026-08-14T09:21:17.000Z",
    "dupes": 1,
-   "score": 0.245,
+   "score": 0.244,
    "tier": 3
   },
   {
@@ -779,7 +794,7 @@
    "tldr": "Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode.  In a support page, Microsoft says it's going to move Mico to its Learn Live platform, where the avatar will…",
    "published": "2026-08-13T21:42:38.000Z",
    "dupes": 1,
-   "score": 0.229,
+   "score": 0.228,
    "tier": 3
   },
   {
@@ -795,21 +810,6 @@
    "published": "2026-08-13T19:28:39.000Z",
    "dupes": 1,
    "score": 0.226,
-   "tier": 3
-  },
-  {
-   "id": "a1ebe27fc26aa3b22095e61050d8ff3b369c7f23",
-   "title": "Does Google even want to win at AI?",
-   "url": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
-   "source": "The Verge AI",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about a question that’s been rocketing around the tech industry for the past week: Is Google losing the AI race?  That’s because last week…",
-   "published": "2026-08-13T14:10:31.000Z",
-   "dupes": 1,
-   "score": 0.221,
    "tier": 3
   },
   {
