@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-17T18:27:38.306Z",
+ "generated": "2026-08-17T19:07:36.809Z",
  "items": [
   {
    "id": "b908d794583880389f1ee003cbf86e6f06f2fac8",
@@ -13,8 +13,54 @@
    "tldr": "AI factories are the defining infrastructure of the AI era — where compute transforms energy and data into intelligence that powers every business, industry and country.  In the AI economy, compute is revenue.",
    "published": "2026-08-17T12:34:51.000Z",
    "dupes": 1,
-   "score": 0.554,
+   "score": 0.547,
    "tier": 1
+  },
+  {
+   "id": "591f07426f9d740506ca9c4030c9d03b43f512b7",
+   "title": "Meta faces 'astronomical' consequences as legal fight reaches critical moment",
+   "url": "https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html",
+   "source": "Hacker News",
+   "org": [
+    "meta"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-17T18:06:30.000Z",
+   "dupes": 1,
+   "score": 0.541,
+   "tier": 2
+  },
+  {
+   "id": "0f501286390a99969bedf63f97373ad4d314ece3",
+   "title": "Llama.cpp v0.1.0",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.1.0",
+   "source": "Hacker News",
+   "org": [
+    "meta"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-17T17:56:06.000Z",
+   "dupes": 1,
+   "score": 0.536,
+   "tier": 2
+  },
+  {
+   "id": "e81d1903d09dbc426fed3059939a7cb06797f696",
+   "title": "GPU Offload in Rust: Portable, Safe, and Fast",
+   "url": "https://arxiv.org/abs/2608.13759",
+   "source": "Hacker News",
+   "org": [],
+   "topic": "compute",
+   "tldr": "",
+   "published": "2026-08-17T17:54:59.000Z",
+   "badges": [
+    "paper"
+   ],
+   "dupes": 1,
+   "score": 0.536,
+   "tier": 2
   },
   {
    "id": "10a5b0bc833293acc12a8a3d85be5f2eb07d4b0b",
@@ -31,25 +77,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.526,
-   "tier": 2
-  },
-  {
-   "id": "09403bb83f2940c8c1cede32b40833762944e97b",
-   "title": "Anthropic's War on open source AI",
-   "url": "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
-   "source": "Hacker News",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-17T15:24:34.000Z",
-   "badges": [
-    "oss"
-   ],
-   "dupes": 1,
-   "score": 0.523,
+   "score": 0.521,
    "tier": 2
   },
   {
@@ -64,7 +92,7 @@
    "tldr": "AI is reshaping cybersecurity for attackers and defenders alike.  Learn how OpenAI is strengthening its defenses and what security teams can do now.",
    "published": "2026-08-17T05:30:00.000Z",
    "dupes": 1,
-   "score": 0.512,
+   "score": 0.507,
    "tier": 2
   },
   {
@@ -79,7 +107,7 @@
    "tldr": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
    "published": "2026-08-17T05:00:00.000Z",
    "dupes": 1,
-   "score": 0.508,
+   "score": 0.503,
    "tier": 2
   },
   {
@@ -94,7 +122,7 @@
    "tldr": "",
    "published": "2026-08-17T12:09:42.000Z",
    "dupes": 1,
-   "score": 0.507,
+   "score": 0.502,
    "tier": 2
   },
   {
@@ -109,22 +137,7 @@
    "tldr": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
    "published": "2026-08-17T03:15:00.000Z",
    "dupes": 1,
-   "score": 0.495,
-   "tier": 2
-  },
-  {
-   "id": "e6c585a846b45f102052fce9a3e870652aa88e57",
-   "title": "Anthropic explains how Claude’s invisible text watermarks will work",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-   "source": "The Verge AI",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules.  On Friday, Anthropic announced that Claude's text marking system…",
-   "published": "2026-08-17T10:57:13.000Z",
-   "dupes": 1,
-   "score": 0.462,
+   "score": 0.49,
    "tier": 2
   },
   {
@@ -139,7 +152,22 @@
    "tldr": "",
    "published": "2026-08-16T21:53:43.000Z",
    "dupes": 1,
-   "score": 0.458,
+   "score": 0.456,
+   "tier": 2
+  },
+  {
+   "id": "e6c585a846b45f102052fce9a3e870652aa88e57",
+   "title": "Anthropic explains how Claude’s invisible text watermarks will work",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+   "source": "The Verge AI",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules.  On Friday, Anthropic announced that Claude's text marking system…",
+   "published": "2026-08-17T10:57:13.000Z",
+   "dupes": 1,
+   "score": 0.455,
    "tier": 2
   },
   {
@@ -169,7 +197,7 @@
    "tldr": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month.  The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks.",
    "published": "2026-08-16T21:32:56.000Z",
    "dupes": 1,
-   "score": 0.356,
+   "score": 0.352,
    "tier": 2
   },
   {
@@ -184,8 +212,8 @@
    "tldr": "",
    "published": "2026-08-16T17:13:22.000Z",
    "dupes": 1,
-   "score": 0.323,
-   "tier": 2
+   "score": 0.319,
+   "tier": 3
   },
   {
    "id": "a1c7d35e071856a8dde38c204c1e26920a4fd5c7",
@@ -199,8 +227,8 @@
    "tldr": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done.  It uses…",
    "published": "2026-08-16T14:56:40.000Z",
    "dupes": 1,
-   "score": 0.321,
-   "tier": 2
+   "score": 0.318,
+   "tier": 3
   },
   {
    "id": "8a4a811ddfc4a6b4b51d185621efb1cf48cdf230",
@@ -214,7 +242,7 @@
    "tldr": "",
    "published": "2026-08-14T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.311,
+   "score": 0.31,
    "tier": 3
   },
   {
@@ -244,7 +272,7 @@
    "tldr": "6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
    "published": "2026-08-13T11:00:00.000Z",
    "dupes": 1,
-   "score": 0.307,
+   "score": 0.306,
    "tier": 3
   },
   {
@@ -394,7 +422,7 @@
    "tldr": "Indonesia is taking charge of its AI future.  This week, the Ministry of Communication and Digital Affairs (Komdigi), Indosat Ooredoo Hutchison (Indosat or IOH), NVIDIA and Universitas Gadjah Mada (UGM) launched the UGM…",
    "published": "2026-08-14T17:13:05.000Z",
    "dupes": 1,
-   "score": 0.296,
+   "score": 0.295,
    "tier": 3
   },
   {
