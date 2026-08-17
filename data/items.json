@@ -1,6 +1,36 @@
 {
- "generated": "2026-08-17T10:54:56.688Z",
+ "generated": "2026-08-17T11:18:33.923Z",
  "items": [
+  {
+   "id": "96670aeff66e996d93df8bc7b8714d065b6bbd15",
+   "title": "New policy ideas for the Intelligence Age",
+   "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
+   "published": "2026-08-17T03:15:00.000Z",
+   "dupes": 1,
+   "score": 0.557,
+   "tier": 1
+  },
+  {
+   "id": "e6c585a846b45f102052fce9a3e870652aa88e57",
+   "title": "Anthropic explains how Claude’s invisible text watermarks will work",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+   "source": "The Verge AI",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules.  On Friday, Anthropic announced that Claude's text marking system…",
+   "published": "2026-08-17T10:57:13.000Z",
+   "dupes": 1,
+   "score": 0.545,
+   "tier": 2
+  },
   {
    "id": "81603460e9838e678da95dcaa472bbce9d68db56",
    "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
@@ -13,8 +43,8 @@
    "tldr": "",
    "published": "2026-08-16T23:45:09.000Z",
    "dupes": 1,
-   "score": 0.502,
-   "tier": 1
+   "score": 0.501,
+   "tier": 2
   },
   {
    "id": "0f2dda7c9a41a2bd16f7b60982ce213999bdb4de",
@@ -43,7 +73,7 @@
    "tldr": "",
    "published": "2026-08-16T12:48:21.000Z",
    "dupes": 1,
-   "score": 0.446,
+   "score": 0.445,
    "tier": 2
   },
   {
@@ -58,7 +88,7 @@
    "tldr": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month.  The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks.",
    "published": "2026-08-16T21:32:56.000Z",
    "dupes": 1,
-   "score": 0.409,
+   "score": 0.406,
    "tier": 2
   },
   {
@@ -88,7 +118,7 @@
    "tldr": "",
    "published": "2026-08-16T17:13:22.000Z",
    "dupes": 1,
-   "score": 0.367,
+   "score": 0.364,
    "tier": 2
   },
   {
@@ -103,7 +133,7 @@
    "tldr": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done.  It uses…",
    "published": "2026-08-16T14:56:40.000Z",
    "dupes": 1,
-   "score": 0.362,
+   "score": 0.36,
    "tier": 2
   },
   {
@@ -179,7 +209,7 @@
    "published": "2026-08-13T09:00:00.000Z",
    "dupes": 1,
    "score": 0.308,
-   "tier": 2
+   "tier": 3
   },
   {
    "id": "343822196c2c85ea73b8e8c23374b43e9dc06d68",
@@ -193,8 +223,8 @@
    "tldr": "",
    "published": "2026-08-14T09:55:33.000Z",
    "dupes": 2,
-   "score": 0.306,
-   "tier": 2
+   "score": 0.305,
+   "tier": 3
   },
   {
    "id": "9c2d2be8f2107b43c705d7c2088e8a082181ad84",
@@ -227,21 +257,6 @@
    "tier": 3
   },
   {
-   "id": "46bec49404ca2d0894ac3a6ee08a15ef271cf6bf",
-   "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent",
-   "url": "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Indonesia is taking charge of its AI future.  This week, the Ministry of Communication and Digital Affairs (Komdigi), Indosat Ooredoo Hutchison (Indosat or IOH), NVIDIA and Universitas Gadjah Mada (UGM) launched the UGM…",
-   "published": "2026-08-14T17:13:05.000Z",
-   "dupes": 1,
-   "score": 0.303,
-   "tier": 3
-  },
-  {
    "id": "bb2f1e13a8a210d1e30749b3121587c993726d9f",
    "title": "DeepSeek Harness developer preview",
    "url": "https://deepseek.com/harness/en",
@@ -267,6 +282,21 @@
    "topic": "ai",
    "tldr": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
    "published": "2026-08-12T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.302,
+   "tier": 3
+  },
+  {
+   "id": "46bec49404ca2d0894ac3a6ee08a15ef271cf6bf",
+   "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent",
+   "url": "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Indonesia is taking charge of its AI future.  This week, the Ministry of Communication and Digital Affairs (Komdigi), Indosat Ooredoo Hutchison (Indosat or IOH), NVIDIA and Universitas Gadjah Mada (UGM) launched the UGM…",
+   "published": "2026-08-14T17:13:05.000Z",
    "dupes": 1,
    "score": 0.302,
    "tier": 3
@@ -492,7 +522,7 @@
    "tldr": "",
    "published": "2026-08-13T17:16:04.000Z",
    "dupes": 1,
-   "score": 0.274,
+   "score": 0.273,
    "tier": 3
   },
   {
@@ -718,7 +748,7 @@
    "tldr": "",
    "published": "2026-08-13T19:07:34.000Z",
    "dupes": 1,
-   "score": 0.231,
+   "score": 0.232,
    "tier": 3
   },
   {
@@ -748,7 +778,7 @@
    "tldr": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington.",
    "published": "2026-08-14T09:21:17.000Z",
    "dupes": 1,
-   "score": 0.221,
+   "score": 0.22,
    "tier": 3
   },
   {
