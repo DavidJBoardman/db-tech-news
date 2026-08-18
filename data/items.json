@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-18T09:56:18.405Z",
+ "generated": "2026-08-18T10:23:03.138Z",
  "items": [
   {
    "id": "e37dcbb0bfb6f07bd112466fc93628f702e50f56",
@@ -13,7 +13,7 @@
    "tldr": "",
    "published": "2026-08-17T21:03:18.000Z",
    "dupes": 1,
-   "score": 0.476,
+   "score": 0.474,
    "tier": 1
   },
   {
@@ -26,7 +26,7 @@
    "tldr": "",
    "published": "2026-08-17T19:46:21.000Z",
    "dupes": 1,
-   "score": 0.465,
+   "score": 0.462,
    "tier": 2
   },
   {
@@ -41,7 +41,7 @@
    "tldr": "AI factories are the defining infrastructure of the AI era — where compute transforms energy and data into intelligence that powers every business, industry and country.  In the AI economy, compute is revenue.",
    "published": "2026-08-17T12:34:51.000Z",
    "dupes": 1,
-   "score": 0.429,
+   "score": 0.426,
    "tier": 2
   },
   {
@@ -57,7 +57,7 @@
     "paper"
    ],
    "dupes": 1,
-   "score": 0.42,
+   "score": 0.417,
    "tier": 2
   },
   {
@@ -75,7 +75,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.418,
+   "score": 0.416,
    "tier": 2
   },
   {
@@ -90,7 +90,7 @@
    "tldr": "AI is reshaping cybersecurity for attackers and defenders alike.  Learn how OpenAI is strengthening its defenses and what security teams can do now.",
    "published": "2026-08-17T05:30:00.000Z",
    "dupes": 1,
-   "score": 0.417,
+   "score": 0.415,
    "tier": 2
   },
   {
@@ -105,7 +105,7 @@
    "tldr": "General Science",
    "published": "2026-08-17T10:34:00.000Z",
    "dupes": 1,
-   "score": 0.417,
+   "score": 0.415,
    "tier": 2
   },
   {
@@ -120,7 +120,7 @@
    "tldr": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
    "published": "2026-08-17T05:00:00.000Z",
    "dupes": 1,
-   "score": 0.415,
+   "score": 0.413,
    "tier": 2
   },
   {
@@ -135,7 +135,7 @@
    "tldr": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
    "published": "2026-08-17T03:15:00.000Z",
    "dupes": 1,
-   "score": 0.407,
+   "score": 0.406,
    "tier": 2
   },
   {
@@ -165,7 +165,7 @@
    "tldr": "",
    "published": "2026-08-17T12:09:42.000Z",
    "dupes": 1,
-   "score": 0.4,
+   "score": 0.398,
    "tier": 2
   },
   {
@@ -180,7 +180,7 @@
    "tldr": "",
    "published": "2026-08-17T16:01:07.000Z",
    "dupes": 1,
-   "score": 0.365,
+   "score": 0.363,
    "tier": 2
   },
   {
@@ -195,7 +195,7 @@
    "tldr": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules.  On Friday, Anthropic announced that Claude's text marking system…",
    "published": "2026-08-17T10:57:13.000Z",
    "dupes": 1,
-   "score": 0.344,
+   "score": 0.342,
    "tier": 2
   },
   {
@@ -214,21 +214,6 @@
    "tier": 3
   },
   {
-   "id": "e83d70611f6b98347cc60e6777a604f826b3e3ee",
-   "title": "Introducing Gemini 3.7 Flash",
-   "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
-   "source": "Google DeepMind",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-13T17:04:18.000Z",
-   "dupes": 1,
-   "score": 0.305,
-   "tier": 3
-  },
-  {
    "id": "855fa77e93e122bb47dc41016310a1f3bc5ec67d",
    "title": "The builder’s guide to GPT‑5.6",
    "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
@@ -239,6 +224,21 @@
    "topic": "ai",
    "tldr": "6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
    "published": "2026-08-13T11:00:00.000Z",
+   "dupes": 1,
+   "score": 0.304,
+   "tier": 3
+  },
+  {
+   "id": "e83d70611f6b98347cc60e6777a604f826b3e3ee",
+   "title": "Introducing Gemini 3.7 Flash",
+   "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
+   "source": "Google DeepMind",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-13T17:04:18.000Z",
    "dupes": 1,
    "score": 0.304,
    "tier": 3
@@ -319,36 +319,6 @@
    "tier": 3
   },
   {
-   "id": "de2ca3d7578dd51cbe196bf098f482b58becc321",
-   "title": "Testing ads in ChatGPT",
-   "url": "https://openai.com/index/testing-ads-in-chatgpt",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-   "published": "2026-08-11T10:00:00.000Z",
-   "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
-   "id": "b274e00978a8c0306df3d120c050bf97ed5f1983",
-   "title": "Daybreak models are now available on AWS",
-   "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
-   "published": "2026-08-11T10:00:00.000Z",
-   "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
    "id": "bb2f1e13a8a210d1e30749b3121587c993726d9f",
    "title": "DeepSeek Harness developer preview",
    "url": "https://deepseek.com/harness/en",
@@ -405,7 +375,7 @@
    "tldr": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month.  The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks.",
    "published": "2026-08-16T21:32:56.000Z",
    "dupes": 1,
-   "score": 0.286,
+   "score": 0.285,
    "tier": 3
   },
   {
@@ -569,7 +539,7 @@
    "tldr": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done.  It uses…",
    "published": "2026-08-16T14:56:40.000Z",
    "dupes": 1,
-   "score": 0.267,
+   "score": 0.266,
    "tier": 3
   },
   {
@@ -627,21 +597,6 @@
    "tier": 3
   },
   {
-   "id": "949dc1304b6023b1e0830098df46ab224069845c",
-   "title": "Show HN: I shrank DeepSeek V4 Flash to 57GB and it wrote a compiler on my Mac",
-   "url": "https://huggingface.co/steadfastgaze/DeepSeek-V4-Flash-0731-Coder-56.8GB-MoEspressoV2",
-   "source": "HN · DeepSeek",
-   "org": [
-    "deepseek"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-16T17:13:22.000Z",
-   "dupes": 1,
-   "score": 0.264,
-   "tier": 3
-  },
-  {
    "id": "296b95d62f193ef74c62fd13f70f58f7f5da8f36",
    "title": "Introducing CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervision, Reward-Aligned Learning, and Tool-Augmented Measurement",
    "url": "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement",
@@ -667,6 +622,21 @@
    "published": "2026-08-11T13:37:10.000Z",
    "dupes": 1,
    "score": 0.263,
+   "tier": 3
+  },
+  {
+   "id": "949dc1304b6023b1e0830098df46ab224069845c",
+   "title": "Show HN: I shrank DeepSeek V4 Flash to 57GB and it wrote a compiler on my Mac",
+   "url": "https://huggingface.co/steadfastgaze/DeepSeek-V4-Flash-0731-Coder-56.8GB-MoEspressoV2",
+   "source": "HN · DeepSeek",
+   "org": [
+    "deepseek"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-16T17:13:22.000Z",
+   "dupes": 1,
+   "score": 0.262,
    "tier": 3
   },
   {
