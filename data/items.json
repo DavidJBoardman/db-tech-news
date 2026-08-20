@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-20T20:54:23.811Z",
+ "generated": "2026-08-20T21:20:52.423Z",
  "items": [
   {
    "id": "442f666734d970f67acff54f1e226d1e445da53f",
@@ -13,21 +13,8 @@
    "tldr": "",
    "published": "2026-08-20T20:07:26.000Z",
    "dupes": 1,
-   "score": 0.579,
+   "score": 0.622,
    "tier": 1
-  },
-  {
-   "id": "c7cdb6722fd86cc4c29f0cfc17f2b4c391c04f1e",
-   "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-   "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-20T16:52:57.000Z",
-   "dupes": 1,
-   "score": 0.562,
-   "tier": 2
   },
   {
    "id": "0ac0123bfb33b14e7507074ab74116a0d5a16fb5",
@@ -45,6 +32,19 @@
    "tier": 2
   },
   {
+   "id": "c7cdb6722fd86cc4c29f0cfc17f2b4c391c04f1e",
+   "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+   "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-20T16:52:57.000Z",
+   "dupes": 1,
+   "score": 0.557,
+   "tier": 2
+  },
+  {
    "id": "4bb01d9ebe6ff4cf4fc4cff2c9c02b96a9ae9781",
    "title": "New model on Hugging Face: google/tipsv1-g14-lowres",
    "url": "https://huggingface.co/google/tipsv1-g14-lowres",
@@ -59,7 +59,7 @@
     "model"
    ],
    "dupes": 5,
-   "score": 0.556,
+   "score": 0.554,
    "tier": 2
   },
   {
@@ -74,7 +74,7 @@
    "tldr": "1, the updated deep-learning exchange-correlation functional from Microsoft Research, provides greater accuracy, expanded accessibility across the computational chemistry ecosystem, and a living benchmark to track…",
    "published": "2026-08-20T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.552,
+   "score": 0.547,
    "tier": 2
   },
   {
@@ -89,7 +89,7 @@
    "tldr": "It’s a new way into the cloud.  GeForce NOW welcomes Firefox support to the cloud, opening up another way to jump into high-performance PC gaming straight from the browser, starting today.",
    "published": "2026-08-20T13:00:24.000Z",
    "dupes": 1,
-   "score": 0.533,
+   "score": 0.529,
    "tier": 2
   },
   {
@@ -104,7 +104,7 @@
    "tldr": "",
    "published": "2026-08-20T14:08:09.000Z",
    "dupes": 1,
-   "score": 0.511,
+   "score": 0.507,
    "tier": 2
   },
   {
@@ -119,7 +119,7 @@
    "tldr": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
    "published": "2026-08-20T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.505,
+   "score": 0.501,
    "tier": 2
   },
   {
@@ -131,10 +131,10 @@
     "openai"
    ],
    "topic": "ai",
-   "tldr": "OpenAI has had a hell of a year.  The company spent months battling former co-founder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny…",
+   "tldr": "OpenAI has had a hell of a year.  The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny…",
    "published": "2026-08-20T15:45:55.000Z",
    "dupes": 1,
-   "score": 0.487,
+   "score": 0.482,
    "tier": 2
   },
   {
@@ -149,7 +149,7 @@
    "tldr": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
    "published": "2026-08-20T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.456,
+   "score": 0.454,
    "tier": 2
   },
   {
@@ -164,7 +164,7 @@
    "tldr": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
    "published": "2026-08-19T19:00:00.000Z",
    "dupes": 1,
-   "score": 0.429,
+   "score": 0.427,
    "tier": 2
   },
   {
@@ -179,7 +179,7 @@
    "tldr": "6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
    "published": "2026-08-19T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.381,
+   "score": 0.38,
    "tier": 2
   },
   {
@@ -209,52 +209,7 @@
    "tldr": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
    "published": "2026-08-18T19:00:00.000Z",
    "dupes": 1,
-   "score": 0.351,
-   "tier": 3
-  },
-  {
-   "id": "9765648ad527edb666ee1df6ba69a5bb92d8a9c9",
-   "title": "Partnering with CodeAI to prepare the first AI generation",
-   "url": "https://openai.com/index/partnering-with-codeai",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
-   "published": "2026-08-18T11:00:00.000Z",
-   "dupes": 1,
-   "score": 0.338,
-   "tier": 3
-  },
-  {
-   "id": "68c52c81310f1d0ec0abcd09b33a42cea3d6cc87",
-   "title": "Pacing model development in an era of cyber-critical capabilities",
-   "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models.  See how new safeguards are guiding the pace of model development.",
-   "published": "2026-08-18T11:00:00.000Z",
-   "dupes": 1,
-   "score": 0.338,
-   "tier": 3
-  },
-  {
-   "id": "01003c6680bc2ecc56a2f52dd87efa12aca00da7",
-   "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-   "url": "https://openai.com/index/chatgpt-for-teens",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
-   "published": "2026-08-18T11:00:00.000Z",
-   "dupes": 1,
-   "score": 0.338,
+   "score": 0.35,
    "tier": 3
   },
   {
@@ -270,6 +225,51 @@
    "published": "2026-08-14T09:55:33.000Z",
    "dupes": 1,
    "score": 0.338,
+   "tier": 3
+  },
+  {
+   "id": "9765648ad527edb666ee1df6ba69a5bb92d8a9c9",
+   "title": "Partnering with CodeAI to prepare the first AI generation",
+   "url": "https://openai.com/index/partnering-with-codeai",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
+   "published": "2026-08-18T11:00:00.000Z",
+   "dupes": 1,
+   "score": 0.337,
+   "tier": 3
+  },
+  {
+   "id": "68c52c81310f1d0ec0abcd09b33a42cea3d6cc87",
+   "title": "Pacing model development in an era of cyber-critical capabilities",
+   "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models.  See how new safeguards are guiding the pace of model development.",
+   "published": "2026-08-18T11:00:00.000Z",
+   "dupes": 1,
+   "score": 0.337,
+   "tier": 3
+  },
+  {
+   "id": "01003c6680bc2ecc56a2f52dd87efa12aca00da7",
+   "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+   "url": "https://openai.com/index/chatgpt-for-teens",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
+   "published": "2026-08-18T11:00:00.000Z",
+   "dupes": 1,
+   "score": 0.337,
    "tier": 3
   },
   {
@@ -299,7 +299,7 @@
    "tldr": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini.  It's a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice…",
    "published": "2026-08-19T19:00:00.000Z",
    "dupes": 1,
-   "score": 0.329,
+   "score": 0.327,
    "tier": 3
   },
   {
@@ -315,7 +315,7 @@
    "tldr": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.",
    "published": "2026-08-18T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.325,
+   "score": 0.324,
    "tier": 3
   },
   {
@@ -333,7 +333,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.323,
+   "score": 0.321,
    "tier": 3
   },
   {
@@ -348,7 +348,7 @@
    "tldr": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast.  Instead, it hit the brakes.",
    "published": "2026-08-19T17:10:09.000Z",
    "dupes": 1,
-   "score": 0.32,
+   "score": 0.318,
    "tier": 3
   },
   {
@@ -363,7 +363,7 @@
    "tldr": "Meta is launching a new Mac app dedicated to its AI chatbot.  In an announcement on Wednesday, Meta says you can share your window with its AI chatbot, which can provide suggestions, answer questions, or create content…",
    "published": "2026-08-19T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.319,
+   "score": 0.317,
    "tier": 3
   },
   {
@@ -397,19 +397,6 @@
    "tier": 3
   },
   {
-   "id": "5ce8103476b1f3ac4c96d25a809a190a85e0cae3",
-   "title": "How Much Memory Does Your Agent Actually Need?",
-   "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-18T18:09:38.000Z",
-   "dupes": 1,
-   "score": 0.312,
-   "tier": 3
-  },
-  {
    "id": "96670aeff66e996d93df8bc7b8714d065b6bbd15",
    "title": "New policy ideas for the Intelligence Age",
    "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
@@ -420,6 +407,19 @@
    "topic": "ai",
    "tldr": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
    "published": "2026-08-17T03:15:00.000Z",
+   "dupes": 1,
+   "score": 0.311,
+   "tier": 3
+  },
+  {
+   "id": "5ce8103476b1f3ac4c96d25a809a190a85e0cae3",
+   "title": "How Much Memory Does Your Agent Actually Need?",
+   "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-18T18:09:38.000Z",
    "dupes": 1,
    "score": 0.311,
    "tier": 3
@@ -451,7 +451,7 @@
    "tldr": "April - 1805 Napoleon is master of Europe Only the British fleet stands before him Compute is now an asset class I see it is once again time to talk financial innovation.",
    "published": "2026-08-19T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.299,
+   "score": 0.297,
    "tier": 3
   },
   {
@@ -481,7 +481,7 @@
    "tldr": "General Science",
    "published": "2026-08-17T10:34:00.000Z",
    "dupes": 1,
-   "score": 0.29,
+   "score": 0.289,
    "tier": 3
   },
   {
@@ -550,7 +550,7 @@
    "tldr": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and…",
    "published": "2026-08-18T19:28:30.000Z",
    "dupes": 1,
-   "score": 0.252,
+   "score": 0.251,
    "tier": 3
   },
   {
