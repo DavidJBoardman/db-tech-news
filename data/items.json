@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-22T20:14:21.034Z",
+ "generated": "2026-08-22T20:46:03.932Z",
  "items": [
   {
    "id": "304760d427667b9ecda8aea9832e173c2ac6fc9f",
@@ -13,7 +13,7 @@
    "tldr": "",
    "published": "2026-08-22T16:58:49.000Z",
    "dupes": 1,
-   "score": 0.536,
+   "score": 0.532,
    "tier": 1
   },
   {
@@ -31,7 +31,7 @@
     "model"
    ],
    "dupes": 5,
-   "score": 0.457,
+   "score": 0.456,
    "tier": 2
   },
   {
@@ -46,7 +46,7 @@
    "tldr": "",
    "published": "2026-08-21T10:33:56.000Z",
    "dupes": 1,
-   "score": 0.433,
+   "score": 0.431,
    "tier": 2
   },
   {
@@ -64,7 +64,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.401,
+   "score": 0.399,
    "tier": 2
   },
   {
@@ -79,7 +79,7 @@
    "tldr": "Generative AI",
    "published": "2026-08-21T17:02:24.000Z",
    "dupes": 1,
-   "score": 0.398,
+   "score": 0.395,
    "tier": 2
   },
   {
@@ -94,7 +94,7 @@
    "tldr": "Algorithms & Theory",
    "published": "2026-08-21T10:54:00.000Z",
    "dupes": 1,
-   "score": 0.372,
+   "score": 0.37,
    "tier": 2
   },
   {
@@ -109,20 +109,7 @@
    "tldr": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
    "published": "2026-08-20T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.333,
-   "tier": 2
-  },
-  {
-   "id": "68e9fb1705e10808889d0fbe1c1f512e694cac7a",
-   "title": "Measuring benchmark optimization in speech recognition",
-   "url": "https://huggingface.co/blog/asr-benchmark-optimization",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-21T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.326,
+   "score": 0.332,
    "tier": 2
   },
   {
@@ -141,6 +128,19 @@
    "tier": 2
   },
   {
+   "id": "68e9fb1705e10808889d0fbe1c1f512e694cac7a",
+   "title": "Measuring benchmark optimization in speech recognition",
+   "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-21T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.325,
+   "tier": 2
+  },
+  {
    "id": "ef913e9fdabc01a874a34c945cc71d8f36dedf16",
    "title": "Offering Zero Data Retention for frontier models",
    "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
@@ -152,7 +152,7 @@
    "tldr": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
    "published": "2026-08-19T19:00:00.000Z",
    "dupes": 1,
-   "score": 0.321,
+   "score": 0.32,
    "tier": 2
   },
   {
@@ -167,7 +167,7 @@
    "tldr": "It’s a new way into the cloud.  GeForce NOW welcomes Firefox support to the cloud, opening up another way to jump into high-performance PC gaming straight from the browser, starting today.",
    "published": "2026-08-20T13:00:24.000Z",
    "dupes": 1,
-   "score": 0.317,
+   "score": 0.316,
    "tier": 2
   },
   {
@@ -195,7 +195,7 @@
    "tldr": "",
    "published": "2026-08-20T16:52:57.000Z",
    "dupes": 1,
-   "score": 0.311,
+   "score": 0.31,
    "tier": 2
   },
   {
@@ -214,21 +214,6 @@
    "tier": 3
   },
   {
-   "id": "ed976920bb9831e6f4445c801b56921046c574ca",
-   "title": "Broadening access to Skala creates a faster path to predictive DFT",
-   "url": "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft",
-   "source": "Microsoft Research",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "1, the updated deep-learning exchange-correlation functional from Microsoft Research, provides greater accuracy, expanded accessibility across the computational chemistry ecosystem, and a living benchmark to track…",
-   "published": "2026-08-20T16:00:00.000Z",
-   "dupes": 1,
-   "score": 0.309,
-   "tier": 3
-  },
-  {
    "id": "67f37d861d340b85b022037b65b3e9a60f1c90a5",
    "title": "Strengthening democratic oversight in national security",
    "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
@@ -239,6 +224,21 @@
    "topic": "ai",
    "tldr": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
    "published": "2026-08-18T19:00:00.000Z",
+   "dupes": 1,
+   "score": 0.308,
+   "tier": 3
+  },
+  {
+   "id": "ed976920bb9831e6f4445c801b56921046c574ca",
+   "title": "Broadening access to Skala creates a faster path to predictive DFT",
+   "url": "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft",
+   "source": "Microsoft Research",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "1, the updated deep-learning exchange-correlation functional from Microsoft Research, provides greater accuracy, expanded accessibility across the computational chemistry ecosystem, and a living benchmark to track…",
+   "published": "2026-08-20T16:00:00.000Z",
    "dupes": 1,
    "score": 0.308,
    "tier": 3
@@ -376,7 +376,7 @@
    "tldr": "",
    "published": "2026-08-21T09:37:54.000Z",
    "dupes": 1,
-   "score": 0.285,
+   "score": 0.283,
    "tier": 3
   },
   {
@@ -419,7 +419,7 @@
    "tldr": "",
    "published": "2026-08-18T18:09:38.000Z",
    "dupes": 1,
-   "score": 0.271,
+   "score": 0.27,
    "tier": 3
   },
   {
@@ -460,7 +460,7 @@
    "tldr": "Google will soon allow you to customize your Discover feed by describing what you want to see.  The new feature, rolling out to the Google app in the \"coming days,\" will use AI to automatically tweak your feed and…",
    "published": "2026-08-20T21:50:22.000Z",
    "dupes": 1,
-   "score": 0.259,
+   "score": 0.257,
    "tier": 3
   },
   {
@@ -475,7 +475,7 @@
    "tldr": "OpenAI has had a hell of a year.  The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny…",
    "published": "2026-08-20T15:45:55.000Z",
    "dupes": 1,
-   "score": 0.246,
+   "score": 0.245,
    "tier": 3
   },
   {
@@ -490,7 +490,7 @@
    "tldr": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini.  It's a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice…",
    "published": "2026-08-19T19:00:00.000Z",
    "dupes": 1,
-   "score": 0.221,
+   "score": 0.22,
    "tier": 3
   },
   {
