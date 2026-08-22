@@ -1,21 +1,6 @@
 {
- "generated": "2026-08-22T22:45:27.324Z",
+ "generated": "2026-08-22T23:13:47.637Z",
  "items": [
-  {
-   "id": "304760d427667b9ecda8aea9832e173c2ac6fc9f",
-   "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
-   "url": "https://twitter.com/argofowl/status/2091150597374537729",
-   "source": "Hacker News",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-22T16:58:49.000Z",
-   "dupes": 1,
-   "score": 0.525,
-   "tier": 1
-  },
   {
    "id": "4bb01d9ebe6ff4cf4fc4cff2c9c02b96a9ae9781",
    "title": "New model on Hugging Face: google/tipsv1-g14-lowres",
@@ -32,7 +17,7 @@
    ],
    "dupes": 5,
    "score": 0.455,
-   "tier": 2
+   "tier": 1
   },
   {
    "id": "cb481993e0b28536313aebd09ae75174737b9847",
@@ -46,7 +31,7 @@
    "tldr": "",
    "published": "2026-08-21T10:33:56.000Z",
    "dupes": 1,
-   "score": 0.424,
+   "score": 0.423,
    "tier": 2
   },
   {
@@ -64,7 +49,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.392,
+   "score": 0.39,
    "tier": 2
   },
   {
@@ -79,7 +64,7 @@
    "tldr": "Generative AI",
    "published": "2026-08-21T17:02:24.000Z",
    "dupes": 1,
-   "score": 0.386,
+   "score": 0.384,
    "tier": 2
   },
   {
@@ -94,7 +79,22 @@
    "tldr": "Algorithms & Theory",
    "published": "2026-08-21T10:54:00.000Z",
    "dupes": 1,
-   "score": 0.363,
+   "score": 0.361,
+   "tier": 2
+  },
+  {
+   "id": "04f8d146dcf4fdaef650c995515b1eb6e550df52",
+   "title": "A week of using Codex more than Claude",
+   "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude",
+   "source": "Hacker News",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-21T19:51:48.000Z",
+   "dupes": 1,
+   "score": 0.352,
    "tier": 2
   },
   {
@@ -128,19 +128,6 @@
    "tier": 2
   },
   {
-   "id": "68e9fb1705e10808889d0fbe1c1f512e694cac7a",
-   "title": "Measuring benchmark optimization in speech recognition",
-   "url": "https://huggingface.co/blog/asr-benchmark-optimization",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-21T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.32,
-   "tier": 2
-  },
-  {
    "id": "ef913e9fdabc01a874a34c945cc71d8f36dedf16",
    "title": "Offering Zero Data Retention for frontier models",
    "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
@@ -156,18 +143,16 @@
    "tier": 2
   },
   {
-   "id": "1a826087c3b0715d35d3d12e751a54a7d8d4429d",
-   "title": "Bring the Fire: Play Games on GeForce NOW With New Firefox Browser Support",
-   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-firefox",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "It’s a new way into the cloud.  GeForce NOW welcomes Firefox support to the cloud, opening up another way to jump into high-performance PC gaming straight from the browser, starting today.",
-   "published": "2026-08-20T13:00:24.000Z",
+   "id": "68e9fb1705e10808889d0fbe1c1f512e694cac7a",
+   "title": "Measuring benchmark optimization in speech recognition",
+   "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-21T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.313,
+   "score": 0.319,
    "tier": 2
   },
   {
@@ -181,6 +166,21 @@
    "topic": "ai",
    "tldr": "6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
    "published": "2026-08-19T07:00:00.000Z",
+   "dupes": 1,
+   "score": 0.312,
+   "tier": 2
+  },
+  {
+   "id": "1a826087c3b0715d35d3d12e751a54a7d8d4429d",
+   "title": "Bring the Fire: Play Games on GeForce NOW With New Firefox Browser Support",
+   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-firefox",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "It’s a new way into the cloud.  GeForce NOW welcomes Firefox support to the cloud, opening up another way to jump into high-performance PC gaming straight from the browser, starting today.",
+   "published": "2026-08-20T13:00:24.000Z",
    "dupes": 1,
    "score": 0.312,
    "tier": 2
@@ -212,7 +212,20 @@
    "tldr": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
    "published": "2026-08-18T19:00:00.000Z",
    "dupes": 1,
-   "score": 0.308,
+   "score": 0.307,
+   "tier": 3
+  },
+  {
+   "id": "c7cdb6722fd86cc4c29f0cfc17f2b4c391c04f1e",
+   "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+   "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-20T16:52:57.000Z",
+   "dupes": 1,
+   "score": 0.306,
    "tier": 3
   },
   {
@@ -227,7 +240,7 @@
    "tldr": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
    "published": "2026-08-18T11:00:00.000Z",
    "dupes": 1,
-   "score": 0.306,
+   "score": 0.305,
    "tier": 3
   },
   {
@@ -242,7 +255,7 @@
    "tldr": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models.  See how new safeguards are guiding the pace of model development.",
    "published": "2026-08-18T11:00:00.000Z",
    "dupes": 1,
-   "score": 0.306,
+   "score": 0.305,
    "tier": 3
   },
   {
@@ -257,20 +270,7 @@
    "tldr": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
    "published": "2026-08-18T11:00:00.000Z",
    "dupes": 1,
-   "score": 0.306,
-   "tier": 3
-  },
-  {
-   "id": "c7cdb6722fd86cc4c29f0cfc17f2b4c391c04f1e",
-   "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-   "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-20T16:52:57.000Z",
-   "dupes": 1,
-   "score": 0.306,
+   "score": 0.305,
    "tier": 3
   },
   {
@@ -289,21 +289,6 @@
    "tier": 3
   },
   {
-   "id": "ed976920bb9831e6f4445c801b56921046c574ca",
-   "title": "Broadening access to Skala creates a faster path to predictive DFT",
-   "url": "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft",
-   "source": "Microsoft Research",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "1, the updated deep-learning exchange-correlation functional from Microsoft Research, provides greater accuracy, expanded accessibility across the computational chemistry ecosystem, and a living benchmark to track…",
-   "published": "2026-08-20T16:00:00.000Z",
-   "dupes": 1,
-   "score": 0.305,
-   "tier": 3
-  },
-  {
    "id": "dfcf73efa3a68602d747c819272e31d3809524e1",
    "title": "How NVIDIA scales expertise with ChatGPT Work",
    "url": "https://openai.com/index/nvidia/chatgpt-work",
@@ -315,6 +300,21 @@
    "topic": "ai",
    "tldr": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.",
    "published": "2026-08-18T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.304,
+   "tier": 3
+  },
+  {
+   "id": "ed976920bb9831e6f4445c801b56921046c574ca",
+   "title": "Broadening access to Skala creates a faster path to predictive DFT",
+   "url": "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft",
+   "source": "Microsoft Research",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "1, the updated deep-learning exchange-correlation functional from Microsoft Research, provides greater accuracy, expanded accessibility across the computational chemistry ecosystem, and a living benchmark to track…",
+   "published": "2026-08-20T16:00:00.000Z",
    "dupes": 1,
    "score": 0.304,
    "tier": 3
@@ -406,7 +406,7 @@
    "tldr": "",
    "published": "2026-08-21T09:37:54.000Z",
    "dupes": 1,
-   "score": 0.276,
+   "score": 0.275,
    "tier": 3
   },
   {
@@ -460,7 +460,7 @@
    "tldr": "Google will soon allow you to customize your Discover feed by describing what you want to see.  The new feature, rolling out to the Google app in the \"coming days,\" will use AI to automatically tweak your feed and…",
    "published": "2026-08-20T21:50:22.000Z",
    "dupes": 1,
-   "score": 0.253,
+   "score": 0.252,
    "tier": 3
   },
   {
@@ -475,7 +475,7 @@
    "tldr": "OpenAI has had a hell of a year.  The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny…",
    "published": "2026-08-20T15:45:55.000Z",
    "dupes": 1,
-   "score": 0.242,
+   "score": 0.241,
    "tier": 3
   },
   {
@@ -505,7 +505,7 @@
    "tldr": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast.  Instead, it hit the brakes.",
    "published": "2026-08-19T17:10:09.000Z",
    "dupes": 1,
-   "score": 0.218,
+   "score": 0.217,
    "tier": 3
   },
   {
@@ -520,7 +520,7 @@
    "tldr": "Meta is launching a new Mac app dedicated to its AI chatbot.  In an announcement on Wednesday, Meta says you can share your window with its AI chatbot, which can provide suggestions, answer questions, or create content…",
    "published": "2026-08-19T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.218,
+   "score": 0.217,
    "tier": 3
   },
   {
