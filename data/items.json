@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-23T18:55:13.999Z",
+ "generated": "2026-08-23T19:17:04.745Z",
  "items": [
   {
    "id": "929de753ff49a22f1acca2a47da38d9d45940da7",
@@ -13,7 +13,7 @@
    "tldr": "",
    "published": "2026-08-23T10:02:51.000Z",
    "dupes": 1,
-   "score": 0.497,
+   "score": 0.493,
    "tier": 1
   },
   {
@@ -124,7 +124,7 @@
    "tldr": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
    "published": "2026-08-20T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.311,
+   "score": 0.31,
    "tier": 2
   },
   {
@@ -337,19 +337,6 @@
    "tier": 3
   },
   {
-   "id": "c7cdb6722fd86cc4c29f0cfc17f2b4c391c04f1e",
-   "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-   "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-20T16:52:57.000Z",
-   "dupes": 1,
-   "score": 0.283,
-   "tier": 3
-  },
-  {
    "id": "ed976920bb9831e6f4445c801b56921046c574ca",
    "title": "Broadening access to Skala creates a faster path to predictive DFT",
    "url": "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft",
@@ -360,6 +347,19 @@
    "topic": "ai",
    "tldr": "1, the updated deep-learning exchange-correlation functional from Microsoft Research, provides greater accuracy, expanded accessibility across the computational chemistry ecosystem, and a living benchmark to track…",
    "published": "2026-08-20T16:00:00.000Z",
+   "dupes": 1,
+   "score": 0.282,
+   "tier": 3
+  },
+  {
+   "id": "c7cdb6722fd86cc4c29f0cfc17f2b4c391c04f1e",
+   "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+   "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-20T16:52:57.000Z",
    "dupes": 1,
    "score": 0.282,
    "tier": 3
