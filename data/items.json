@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-24T03:29:41.299Z",
+ "generated": "2026-08-24T04:22:13.506Z",
  "items": [
   {
    "id": "4bb01d9ebe6ff4cf4fc4cff2c9c02b96a9ae9781",
@@ -31,7 +31,7 @@
    "tldr": "",
    "published": "2026-08-23T10:02:51.000Z",
    "dupes": 1,
-   "score": 0.427,
+   "score": 0.421,
    "tier": 2
   },
   {
@@ -46,7 +46,25 @@
    "tldr": "",
    "published": "2026-08-21T10:33:56.000Z",
    "dupes": 1,
-   "score": 0.366,
+   "score": 0.365,
+   "tier": 2
+  },
+  {
+   "id": "e42b7af4138c252fa082a7edb74440c920506e92",
+   "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+   "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
+   "source": "Google DeepMind",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+   "published": "2026-08-21T11:59:48.000Z",
+   "badges": [
+    "research"
+   ],
+   "dupes": 1,
+   "score": 0.329,
    "tier": 2
   },
   {
@@ -61,7 +79,7 @@
    "tldr": "Generative AI",
    "published": "2026-08-21T17:02:24.000Z",
    "dupes": 1,
-   "score": 0.312,
+   "score": 0.311,
    "tier": 2
   },
   {
@@ -91,7 +109,7 @@
    "tldr": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
    "published": "2026-08-20T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.308,
+   "score": 0.307,
    "tier": 2
   },
   {
@@ -125,21 +143,6 @@
    "tier": 2
   },
   {
-   "id": "4955ff14f06ffd5a8d7e57ea3b7f82b798964535",
-   "title": "How mobility gives language models a deeper understanding of place",
-   "url": "https://research.google/blog/how-mobility-gives-language-models-a-deeper-understanding-of-place",
-   "source": "Google Research",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Algorithms & Theory",
-   "published": "2026-08-21T10:54:00.000Z",
-   "dupes": 1,
-   "score": 0.304,
-   "tier": 2
-  },
-  {
    "id": "e4563871866d3a635b91bc2e29178f947db9e1c3",
    "title": "ChatGPT Ads expands across Europe",
    "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
@@ -150,6 +153,21 @@
    "topic": "ai",
    "tldr": "ChatGPT Ads is expanding to 31 European markets.  Learn how advertisers can reach people as they explore, compare options, and make decisions.",
    "published": "2026-08-18T22:00:00.000Z",
+   "dupes": 1,
+   "score": 0.303,
+   "tier": 2
+  },
+  {
+   "id": "4955ff14f06ffd5a8d7e57ea3b7f82b798964535",
+   "title": "How mobility gives language models a deeper understanding of place",
+   "url": "https://research.google/blog/how-mobility-gives-language-models-a-deeper-understanding-of-place",
+   "source": "Google Research",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Algorithms & Theory",
+   "published": "2026-08-21T10:54:00.000Z",
    "dupes": 1,
    "score": 0.303,
    "tier": 2
@@ -197,7 +215,7 @@
    "published": "2026-08-18T11:00:00.000Z",
    "dupes": 1,
    "score": 0.302,
-   "tier": 2
+   "tier": 3
   },
   {
    "id": "01003c6680bc2ecc56a2f52dd87efa12aca00da7",
@@ -287,7 +305,7 @@
    "tldr": "It’s a new way into the cloud.  GeForce NOW welcomes Firefox support to the cloud, opening up another way to jump into high-performance PC gaming straight from the browser, starting today.",
    "published": "2026-08-20T13:00:24.000Z",
    "dupes": 1,
-   "score": 0.288,
+   "score": 0.287,
    "tier": 3
   },
   {
@@ -300,22 +318,7 @@
    "tldr": "",
    "published": "2026-08-21T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.282,
-   "tier": 3
-  },
-  {
-   "id": "ed976920bb9831e6f4445c801b56921046c574ca",
-   "title": "Broadening access to Skala creates a faster path to predictive DFT",
-   "url": "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft",
-   "source": "Microsoft Research",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "1, the updated deep-learning exchange-correlation functional from Microsoft Research, provides greater accuracy, expanded accessibility across the computational chemistry ecosystem, and a living benchmark to track…",
-   "published": "2026-08-20T16:00:00.000Z",
-   "dupes": 1,
-   "score": 0.277,
+   "score": 0.281,
    "tier": 3
   },
   {
@@ -362,6 +365,21 @@
    "tier": 3
   },
   {
+   "id": "ed976920bb9831e6f4445c801b56921046c574ca",
+   "title": "Broadening access to Skala creates a faster path to predictive DFT",
+   "url": "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft",
+   "source": "Microsoft Research",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "1, the updated deep-learning exchange-correlation functional from Microsoft Research, provides greater accuracy, expanded accessibility across the computational chemistry ecosystem, and a living benchmark to track…",
+   "published": "2026-08-20T16:00:00.000Z",
+   "dupes": 1,
+   "score": 0.276,
+   "tier": 3
+  },
+  {
    "id": "5ce8103476b1f3ac4c96d25a809a190a85e0cae3",
    "title": "How Much Memory Does Your Agent Actually Need?",
    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
@@ -397,7 +415,7 @@
    "tldr": "",
    "published": "2026-08-17T19:46:21.000Z",
    "dupes": 1,
-   "score": 0.264,
+   "score": 0.263,
    "tier": 3
   },
   {
@@ -412,7 +430,7 @@
    "tldr": "",
    "published": "2026-08-21T09:37:54.000Z",
    "dupes": 1,
-   "score": 0.22,
+   "score": 0.219,
    "tier": 3
   },
   {
@@ -427,7 +445,7 @@
    "tldr": "Google will soon allow you to customize your Discover feed by describing what you want to see.  The new feature, rolling out to the Google app in the \"coming days,\" will use AI to automatically tweak your feed and…",
    "published": "2026-08-20T21:50:22.000Z",
    "dupes": 1,
-   "score": 0.218,
+   "score": 0.217,
    "tier": 3
   },
   {
@@ -442,7 +460,7 @@
    "tldr": "OpenAI has had a hell of a year.  The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny…",
    "published": "2026-08-20T15:45:55.000Z",
    "dupes": 1,
-   "score": 0.214,
+   "score": 0.213,
    "tier": 3
   },
   {
