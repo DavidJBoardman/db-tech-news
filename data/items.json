@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-24T18:30:58.372Z",
+ "generated": "2026-08-24T19:22:50.561Z",
  "items": [
   {
    "id": "141e6e188d62b50e0df0234f5edbd90bcc88a988",
@@ -13,7 +13,7 @@
    "tldr": "To generate intelligence at scale, AI factories run continuously, and their economics are defined by delivered output: tokens per second, tokens per watt, cost per token, utilization and uptime.  That requires AI…",
    "published": "2026-08-24T15:00:54.000Z",
    "dupes": 1,
-   "score": 0.581,
+   "score": 0.571,
    "tier": 1
   },
   {
@@ -28,7 +28,7 @@
    "tldr": "The next era of AI inference won’t be defined by a single breakthrough chip, network or system.  It’ll be defined by how every layer of the AI factory works together.",
    "published": "2026-08-24T15:00:41.000Z",
    "dupes": 1,
-   "score": 0.581,
+   "score": 0.571,
    "tier": 2
   },
   {
@@ -43,7 +43,50 @@
    "tldr": "According to OpenRouter data, agentic AI workloads consume 15x more tokens than a simple chat request.  Why?",
    "published": "2026-08-24T15:00:19.000Z",
    "dupes": 1,
-   "score": 0.581,
+   "score": 0.571,
+   "tier": 2
+  },
+  {
+   "id": "7a2032ac105cac3c5c0071ccf6a2b53e71c19a22",
+   "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
+   "url": "https://developers.openai.com/api/docs/pricing",
+   "source": "Hacker News",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-24T15:22:43.000Z",
+   "dupes": 1,
+   "score": 0.558,
+   "tier": 2
+  },
+  {
+   "id": "cd91132ba13e3c69ffbd0734d415cb5e3f76875c",
+   "title": "Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam",
+   "url": "https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc",
+   "source": "Hacker News",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "",
+   "published": "2026-08-24T16:52:01.000Z",
+   "dupes": 1,
+   "score": 0.53,
+   "tier": 2
+  },
+  {
+   "id": "b1f5556307d93a7e4cb8cb0dea3af22f404b010c",
+   "title": "Hot Chips 2026: Applying High Bandwidth Flash (HBF)",
+   "url": "https://chipsandcheese.com/p/hot-chips-2026-applying-high-bandwidth",
+   "source": "Hacker News",
+   "org": [],
+   "topic": "compute",
+   "tldr": "",
+   "published": "2026-08-24T14:48:58.000Z",
+   "dupes": 1,
+   "score": 0.504,
    "tier": 2
   },
   {
@@ -76,22 +119,7 @@
    "tldr": "",
    "published": "2026-08-21T10:33:56.000Z",
    "dupes": 1,
-   "score": 0.354,
-   "tier": 2
-  },
-  {
-   "id": "929de753ff49a22f1acca2a47da38d9d45940da7",
-   "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
-   "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model",
-   "source": "Hacker News",
-   "org": [
-    "qwen"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-23T10:02:51.000Z",
-   "dupes": 1,
-   "score": 0.348,
+   "score": 0.353,
    "tier": 2
   },
   {
@@ -109,7 +137,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.317,
+   "score": 0.316,
    "tier": 2
   },
   {
@@ -124,7 +152,7 @@
    "tldr": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
    "published": "2026-08-20T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.306,
+   "score": 0.305,
    "tier": 2
   },
   {
@@ -154,7 +182,7 @@
    "tldr": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
    "published": "2026-08-19T19:00:00.000Z",
    "dupes": 1,
-   "score": 0.304,
+   "score": 0.303,
    "tier": 2
   },
   {
@@ -185,7 +213,7 @@
    "published": "2026-08-18T22:00:00.000Z",
    "dupes": 1,
    "score": 0.302,
-   "tier": 2
+   "tier": 3
   },
   {
    "id": "67f37d861d340b85b022037b65b3e9a60f1c90a5",
@@ -200,7 +228,7 @@
    "published": "2026-08-18T19:00:00.000Z",
    "dupes": 1,
    "score": 0.301,
-   "tier": 2
+   "tier": 3
   },
   {
    "id": "9765648ad527edb666ee1df6ba69a5bb92d8a9c9",
@@ -290,7 +318,7 @@
    "tldr": "Generative AI",
    "published": "2026-08-21T17:02:24.000Z",
    "dupes": 1,
-   "score": 0.296,
+   "score": 0.295,
    "tier": 3
   },
   {
@@ -337,19 +365,6 @@
    "tier": 3
   },
   {
-   "id": "c7cdb6722fd86cc4c29f0cfc17f2b4c391c04f1e",
-   "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-   "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-20T16:52:57.000Z",
-   "dupes": 1,
-   "score": 0.271,
-   "tier": 3
-  },
-  {
    "id": "ed976920bb9831e6f4445c801b56921046c574ca",
    "title": "Broadening access to Skala creates a faster path to predictive DFT",
    "url": "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft",
@@ -360,6 +375,19 @@
    "topic": "ai",
    "tldr": "1, the updated deep-learning exchange-correlation functional from Microsoft Research, provides greater accuracy, expanded accessibility across the computational chemistry ecosystem, and a living benchmark to track…",
    "published": "2026-08-20T16:00:00.000Z",
+   "dupes": 1,
+   "score": 0.27,
+   "tier": 3
+  },
+  {
+   "id": "c7cdb6722fd86cc4c29f0cfc17f2b4c391c04f1e",
+   "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+   "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-20T16:52:57.000Z",
    "dupes": 1,
    "score": 0.27,
    "tier": 3
@@ -460,7 +488,7 @@
    "tldr": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini.  It's a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice…",
    "published": "2026-08-19T19:00:00.000Z",
    "dupes": 1,
-   "score": 0.204,
+   "score": 0.203,
    "tier": 3
   },
   {
