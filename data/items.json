@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-25T00:51:55.142Z",
+ "generated": "2026-08-25T02:14:23.664Z",
  "items": [
   {
    "id": "7a2032ac105cac3c5c0071ccf6a2b53e71c19a22",
@@ -13,8 +13,23 @@
    "tldr": "",
    "published": "2026-08-24T15:22:43.000Z",
    "dupes": 1,
-   "score": 0.53,
+   "score": 0.52,
    "tier": 1
+  },
+  {
+   "id": "df015003760c1205d1ecb2a52df5318737a517cb",
+   "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+   "url": "https://openai.com/index/gpt-5-6-in-kiro",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+   "published": "2026-08-24T12:00:00.000Z",
+   "dupes": 1,
+   "score": 0.502,
+   "tier": 2
   },
   {
    "id": "141e6e188d62b50e0df0234f5edbd90bcc88a988",
@@ -28,7 +43,7 @@
    "tldr": "To generate intelligence at scale, AI factories run continuously, and their economics are defined by delivered output: tokens per second, tokens per watt, cost per token, utilization and uptime.  That requires AI…",
    "published": "2026-08-24T15:00:54.000Z",
    "dupes": 1,
-   "score": 0.515,
+   "score": 0.502,
    "tier": 2
   },
   {
@@ -43,7 +58,7 @@
    "tldr": "The next era of AI inference won’t be defined by a single breakthrough chip, network or system.  It’ll be defined by how every layer of the AI factory works together.",
    "published": "2026-08-24T15:00:41.000Z",
    "dupes": 1,
-   "score": 0.514,
+   "score": 0.502,
    "tier": 2
   },
   {
@@ -58,22 +73,7 @@
    "tldr": "According to OpenRouter data, agentic AI workloads consume 15x more tokens than a simple chat request.  Why?",
    "published": "2026-08-24T15:00:19.000Z",
    "dupes": 1,
-   "score": 0.514,
-   "tier": 2
-  },
-  {
-   "id": "df015003760c1205d1ecb2a52df5318737a517cb",
-   "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-   "url": "https://openai.com/index/gpt-5-6-in-kiro",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
-   "published": "2026-08-24T12:00:00.000Z",
-   "dupes": 1,
-   "score": 0.513,
+   "score": 0.502,
    "tier": 2
   },
   {
@@ -88,7 +88,7 @@
    "tldr": "",
    "published": "2026-08-24T16:52:01.000Z",
    "dupes": 1,
-   "score": 0.479,
+   "score": 0.468,
    "tier": 2
   },
   {
@@ -121,7 +121,7 @@
    "tldr": "",
    "published": "2026-08-21T10:33:56.000Z",
    "dupes": 1,
-   "score": 0.35,
+   "score": 0.349,
    "tier": 2
   },
   {
@@ -304,7 +304,7 @@
    "tldr": "Generative AI",
    "published": "2026-08-21T17:02:24.000Z",
    "dupes": 1,
-   "score": 0.291,
+   "score": 0.29,
    "tier": 3
   },
   {
@@ -319,7 +319,7 @@
    "tldr": "Algorithms & Theory",
    "published": "2026-08-21T10:54:00.000Z",
    "dupes": 1,
-   "score": 0.288,
+   "score": 0.287,
    "tier": 3
   },
   {
@@ -347,7 +347,20 @@
    "tldr": "",
    "published": "2026-08-21T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.271,
+   "score": 0.27,
+   "tier": 3
+  },
+  {
+   "id": "c7cdb6722fd86cc4c29f0cfc17f2b4c391c04f1e",
+   "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+   "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-20T16:52:57.000Z",
+   "dupes": 1,
+   "score": 0.269,
    "tier": 3
   },
   {
@@ -362,20 +375,7 @@
    "tldr": "1, the updated deep-learning exchange-correlation functional from Microsoft Research, provides greater accuracy, expanded accessibility across the computational chemistry ecosystem, and a living benchmark to track…",
    "published": "2026-08-20T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.269,
-   "tier": 3
-  },
-  {
-   "id": "c7cdb6722fd86cc4c29f0cfc17f2b4c391c04f1e",
-   "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-   "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-20T16:52:57.000Z",
-   "dupes": 1,
-   "score": 0.269,
+   "score": 0.268,
    "tier": 3
   },
   {
@@ -403,7 +403,7 @@
    "tldr": "Google will soon allow you to customize your Discover feed by describing what you want to see.  The new feature, rolling out to the Google app in the \"coming days,\" will use AI to automatically tweak your feed and…",
    "published": "2026-08-20T21:50:22.000Z",
    "dupes": 1,
-   "score": 0.208,
+   "score": 0.207,
    "tier": 3
   },
   {
@@ -433,7 +433,7 @@
    "tldr": "",
    "published": "2026-08-21T09:37:54.000Z",
    "dupes": 1,
-   "score": 0.205,
+   "score": 0.204,
    "tier": 3
   },
   {
@@ -463,7 +463,7 @@
    "tldr": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast.  Instead, it hit the brakes.",
    "published": "2026-08-19T17:10:09.000Z",
    "dupes": 1,
-   "score": 0.203,
+   "score": 0.202,
    "tier": 3
   },
   {
@@ -478,7 +478,7 @@
    "tldr": "Meta is launching a new Mac app dedicated to its AI chatbot.  In an announcement on Wednesday, Meta says you can share your window with its AI chatbot, which can provide suggestions, answer questions, or create content…",
    "published": "2026-08-19T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.203,
+   "score": 0.202,
    "tier": 3
   },
   {
