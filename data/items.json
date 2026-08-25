@@ -1,6 +1,19 @@
 {
- "generated": "2026-08-25T02:14:23.664Z",
+ "generated": "2026-08-25T03:24:43.024Z",
  "items": [
+  {
+   "id": "2983dbf79834f512b927486891174421d8bc5bb1",
+   "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+   "url": "https://huggingface.co/blog/gradio-workflow-guide",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-25T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.569,
+   "tier": 1
+  },
   {
    "id": "7a2032ac105cac3c5c0071ccf6a2b53e71c19a22",
    "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
@@ -13,8 +26,8 @@
    "tldr": "",
    "published": "2026-08-24T15:22:43.000Z",
    "dupes": 1,
-   "score": 0.52,
-   "tier": 1
+   "score": 0.513,
+   "tier": 2
   },
   {
    "id": "df015003760c1205d1ecb2a52df5318737a517cb",
@@ -28,7 +41,7 @@
    "tldr": "6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
    "published": "2026-08-24T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.502,
+   "score": 0.493,
    "tier": 2
   },
   {
@@ -43,7 +56,7 @@
    "tldr": "To generate intelligence at scale, AI factories run continuously, and their economics are defined by delivered output: tokens per second, tokens per watt, cost per token, utilization and uptime.  That requires AI…",
    "published": "2026-08-24T15:00:54.000Z",
    "dupes": 1,
-   "score": 0.502,
+   "score": 0.492,
    "tier": 2
   },
   {
@@ -58,7 +71,7 @@
    "tldr": "The next era of AI inference won’t be defined by a single breakthrough chip, network or system.  It’ll be defined by how every layer of the AI factory works together.",
    "published": "2026-08-24T15:00:41.000Z",
    "dupes": 1,
-   "score": 0.502,
+   "score": 0.492,
    "tier": 2
   },
   {
@@ -73,7 +86,7 @@
    "tldr": "According to OpenRouter data, agentic AI workloads consume 15x more tokens than a simple chat request.  Why?",
    "published": "2026-08-24T15:00:19.000Z",
    "dupes": 1,
-   "score": 0.502,
+   "score": 0.492,
    "tier": 2
   },
   {
@@ -88,7 +101,7 @@
    "tldr": "",
    "published": "2026-08-24T16:52:01.000Z",
    "dupes": 1,
-   "score": 0.468,
+   "score": 0.457,
    "tier": 2
   },
   {
@@ -139,7 +152,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.313,
+   "score": 0.312,
    "tier": 2
   },
   {
@@ -184,7 +197,7 @@
    "tldr": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
    "published": "2026-08-19T19:00:00.000Z",
    "dupes": 1,
-   "score": 0.303,
+   "score": 0.302,
    "tier": 2
   },
   {
@@ -200,7 +213,7 @@
    "published": "2026-08-19T07:00:00.000Z",
    "dupes": 1,
    "score": 0.302,
-   "tier": 2
+   "tier": 3
   },
   {
    "id": "e4563871866d3a635b91bc2e29178f947db9e1c3",
@@ -351,19 +364,6 @@
    "tier": 3
   },
   {
-   "id": "c7cdb6722fd86cc4c29f0cfc17f2b4c391c04f1e",
-   "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-   "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-20T16:52:57.000Z",
-   "dupes": 1,
-   "score": 0.269,
-   "tier": 3
-  },
-  {
    "id": "ed976920bb9831e6f4445c801b56921046c574ca",
    "title": "Broadening access to Skala creates a faster path to predictive DFT",
    "url": "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft",
@@ -379,6 +379,19 @@
    "tier": 3
   },
   {
+   "id": "c7cdb6722fd86cc4c29f0cfc17f2b4c391c04f1e",
+   "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+   "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-20T16:52:57.000Z",
+   "dupes": 1,
+   "score": 0.268,
+   "tier": 3
+  },
+  {
    "id": "5ce8103476b1f3ac4c96d25a809a190a85e0cae3",
    "title": "How Much Memory Does Your Agent Actually Need?",
    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
@@ -388,7 +401,7 @@
    "tldr": "",
    "published": "2026-08-18T18:09:38.000Z",
    "dupes": 1,
-   "score": 0.264,
+   "score": 0.263,
    "tier": 3
   },
   {
@@ -448,7 +461,7 @@
    "tldr": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini.  It's a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice…",
    "published": "2026-08-19T19:00:00.000Z",
    "dupes": 1,
-   "score": 0.203,
+   "score": 0.202,
    "tier": 3
   },
   {
