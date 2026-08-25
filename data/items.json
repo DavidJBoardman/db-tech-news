@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-25T22:18:36.116Z",
+ "generated": "2026-08-25T22:52:24.945Z",
  "items": [
   {
    "id": "d77e515deef82e75e33b6ef3346bdf3c1e3e582d",
@@ -13,7 +13,7 @@
    "tldr": "Human-Computer Interaction and Visualization",
    "published": "2026-08-25T19:10:59.000Z",
    "dupes": 1,
-   "score": 0.585,
+   "score": 0.579,
    "tier": 1
   },
   {
@@ -28,20 +28,7 @@
    "tldr": "NVIDIA is bringing the next wave of RTX gaming to the Gamescom conference running this week in Cologne, Germany, with support for new games, anti-cheat technologies and increased visual quality.",
    "published": "2026-08-25T15:30:48.000Z",
    "dupes": 1,
-   "score": 0.544,
-   "tier": 2
-  },
-  {
-   "id": "74043a2c13e42e05cf84893560f1fd94bb4edd2e",
-   "title": "Granite 4.2 LLMs: How They're Built",
-   "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-25T15:14:14.000Z",
-   "dupes": 1,
-   "score": 0.529,
+   "score": 0.539,
    "tier": 2
   },
   {
@@ -57,7 +44,20 @@
    "tldr": "",
    "published": "2026-08-25T14:06:02.000Z",
    "dupes": 1,
-   "score": 0.526,
+   "score": 0.527,
+   "tier": 2
+  },
+  {
+   "id": "74043a2c13e42e05cf84893560f1fd94bb4edd2e",
+   "title": "Granite 4.2 LLMs: How They're Built",
+   "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-25T15:14:14.000Z",
+   "dupes": 1,
+   "score": 0.523,
    "tier": 2
   },
   {
@@ -72,20 +72,7 @@
    "tldr": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
    "published": "2026-08-25T07:05:00.000Z",
    "dupes": 1,
-   "score": 0.495,
-   "tier": 2
-  },
-  {
-   "id": "f6b26e55a4899220c24a609866e904dd44c2f484",
-   "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-   "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-25T11:39:24.000Z",
-   "dupes": 1,
-   "score": 0.495,
+   "score": 0.491,
    "tier": 2
   },
   {
@@ -100,7 +87,20 @@
    "tldr": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
    "published": "2026-08-25T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.494,
+   "score": 0.49,
+   "tier": 2
+  },
+  {
+   "id": "f6b26e55a4899220c24a609866e904dd44c2f484",
+   "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+   "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-25T11:39:24.000Z",
+   "dupes": 1,
+   "score": 0.49,
    "tier": 2
   },
   {
@@ -115,7 +115,7 @@
    "tldr": "",
    "published": "2026-08-25T15:20:20.000Z",
    "dupes": 1,
-   "score": 0.489,
+   "score": 0.484,
    "tier": 2
   },
   {
@@ -130,7 +130,7 @@
    "tldr": "OpenAI says its new AI chip, Jalapeño, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday.",
    "published": "2026-08-25T14:00:00.000Z",
    "dupes": 1,
-   "score": 0.454,
+   "score": 0.449,
    "tier": 2
   },
   {
@@ -145,7 +145,7 @@
    "tldr": "",
    "published": "2026-08-25T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.448,
+   "score": 0.445,
    "tier": 2
   },
   {
@@ -160,7 +160,7 @@
    "tldr": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
    "published": "2026-08-25T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.448,
+   "score": 0.445,
    "tier": 2
   },
   {
@@ -175,7 +175,7 @@
    "tldr": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
    "published": "2026-08-25T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.448,
+   "score": 0.445,
    "tier": 2
   },
   {
@@ -197,6 +197,19 @@
    "tier": 2
   },
   {
+   "id": "2983dbf79834f512b927486891174421d8bc5bb1",
+   "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+   "url": "https://huggingface.co/blog/gradio-workflow-guide",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-25T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.408,
+   "tier": 3
+  },
+  {
    "id": "63243808b1492cbf4c3c93901a4dd40611247471",
    "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
    "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
@@ -208,20 +221,7 @@
    "tldr": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and autonomously hacked another company last…",
    "published": "2026-08-25T09:15:03.000Z",
    "dupes": 1,
-   "score": 0.412,
-   "tier": 3
-  },
-  {
-   "id": "2983dbf79834f512b927486891174421d8bc5bb1",
-   "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-   "url": "https://huggingface.co/blog/gradio-workflow-guide",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-25T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.411,
+   "score": 0.407,
    "tier": 3
   },
   {
@@ -236,7 +236,7 @@
    "tldr": "6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
    "published": "2026-08-24T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.393,
+   "score": 0.391,
    "tier": 3
   },
   {
@@ -251,7 +251,7 @@
    "tldr": "To generate intelligence at scale, AI factories run continuously, and their economics are defined by delivered output: tokens per second, tokens per watt, cost per token, utilization and uptime.  That requires AI…",
    "published": "2026-08-24T15:00:54.000Z",
    "dupes": 1,
-   "score": 0.38,
+   "score": 0.378,
    "tier": 3
   },
   {
@@ -266,7 +266,7 @@
    "tldr": "The next era of AI inference won’t be defined by a single breakthrough chip, network or system.  It’ll be defined by how every layer of the AI factory works together.",
    "published": "2026-08-24T15:00:41.000Z",
    "dupes": 1,
-   "score": 0.38,
+   "score": 0.378,
    "tier": 3
   },
   {
@@ -281,7 +281,7 @@
    "tldr": "According to OpenRouter data, agentic AI workloads consume 15x more tokens than a simple chat request.  Why?",
    "published": "2026-08-24T15:00:19.000Z",
    "dupes": 1,
-   "score": 0.38,
+   "score": 0.378,
    "tier": 3
   },
   {
@@ -404,7 +404,7 @@
    "tldr": "Algorithms & Theory",
    "published": "2026-08-21T10:54:00.000Z",
    "dupes": 1,
-   "score": 0.281,
+   "score": 0.28,
    "tier": 3
   },
   {
