@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-25T11:52:42.088Z",
+ "generated": "2026-08-25T12:33:33.044Z",
  "items": [
   {
    "id": "f6b26e55a4899220c24a609866e904dd44c2f484",
@@ -11,7 +11,7 @@
    "tldr": "",
    "published": "2026-08-25T11:39:24.000Z",
    "dupes": 1,
-   "score": 0.61,
+   "score": 0.601,
    "tier": 1
   },
   {
@@ -26,7 +26,7 @@
    "tldr": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
    "published": "2026-08-25T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.522,
+   "score": 0.516,
    "tier": 2
   },
   {
@@ -41,7 +41,7 @@
    "tldr": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and autonomously hacked another company last…",
    "published": "2026-08-25T09:15:03.000Z",
    "dupes": 1,
-   "score": 0.516,
+   "score": 0.508,
    "tier": 2
   },
   {
@@ -54,22 +54,7 @@
    "tldr": "",
    "published": "2026-08-25T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.484,
-   "tier": 2
-  },
-  {
-   "id": "df015003760c1205d1ecb2a52df5318737a517cb",
-   "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-   "url": "https://openai.com/index/gpt-5-6-in-kiro",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
-   "published": "2026-08-24T12:00:00.000Z",
-   "dupes": 1,
-   "score": 0.44,
+   "score": 0.478,
    "tier": 2
   },
   {
@@ -91,6 +76,21 @@
    "tier": 2
   },
   {
+   "id": "df015003760c1205d1ecb2a52df5318737a517cb",
+   "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+   "url": "https://openai.com/index/gpt-5-6-in-kiro",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+   "published": "2026-08-24T12:00:00.000Z",
+   "dupes": 1,
+   "score": 0.436,
+   "tier": 2
+  },
+  {
    "id": "141e6e188d62b50e0df0234f5edbd90bcc88a988",
    "title": "How XPUs Meet a World-Class AI Factory",
    "url": "https://blogs.nvidia.com/blog/nvlink-fusion-xpu-ai-factory",
@@ -102,7 +102,7 @@
    "tldr": "To generate intelligence at scale, AI factories run continuously, and their economics are defined by delivered output: tokens per second, tokens per watt, cost per token, utilization and uptime.  That requires AI…",
    "published": "2026-08-24T15:00:54.000Z",
    "dupes": 1,
-   "score": 0.432,
+   "score": 0.428,
    "tier": 2
   },
   {
@@ -117,7 +117,7 @@
    "tldr": "The next era of AI inference won’t be defined by a single breakthrough chip, network or system.  It’ll be defined by how every layer of the AI factory works together.",
    "published": "2026-08-24T15:00:41.000Z",
    "dupes": 1,
-   "score": 0.432,
+   "score": 0.428,
    "tier": 2
   },
   {
@@ -132,7 +132,7 @@
    "tldr": "According to OpenRouter data, agentic AI workloads consume 15x more tokens than a simple chat request.  Why?",
    "published": "2026-08-24T15:00:19.000Z",
    "dupes": 1,
-   "score": 0.432,
+   "score": 0.428,
    "tier": 2
   },
   {
@@ -165,7 +165,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.309,
+   "score": 0.308,
    "tier": 2
   },
   {
@@ -270,7 +270,7 @@
    "tldr": "Generative AI",
    "published": "2026-08-21T17:02:24.000Z",
    "dupes": 1,
-   "score": 0.286,
+   "score": 0.285,
    "tier": 3
   },
   {
@@ -330,6 +330,19 @@
    "tier": 3
   },
   {
+   "id": "c7cdb6722fd86cc4c29f0cfc17f2b4c391c04f1e",
+   "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+   "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-20T16:52:57.000Z",
+   "dupes": 1,
+   "score": 0.267,
+   "tier": 3
+  },
+  {
    "id": "ed976920bb9831e6f4445c801b56921046c574ca",
    "title": "Broadening access to Skala creates a faster path to predictive DFT",
    "url": "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft",
@@ -341,20 +354,7 @@
    "tldr": "1, the updated deep-learning exchange-correlation functional from Microsoft Research, provides greater accuracy, expanded accessibility across the computational chemistry ecosystem, and a living benchmark to track…",
    "published": "2026-08-20T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.267,
-   "tier": 3
-  },
-  {
-   "id": "c7cdb6722fd86cc4c29f0cfc17f2b4c391c04f1e",
-   "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-   "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-20T16:52:57.000Z",
-   "dupes": 1,
-   "score": 0.267,
+   "score": 0.266,
    "tier": 3
   },
   {
@@ -457,7 +457,7 @@
    "tldr": "",
    "published": "2026-08-21T09:37:54.000Z",
    "dupes": 1,
-   "score": 0.201,
+   "score": 0.2,
    "tier": 3
   }
  ]
