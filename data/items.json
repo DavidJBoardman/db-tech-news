@@ -1,6 +1,21 @@
 {
- "generated": "2026-08-25T09:27:53.570Z",
+ "generated": "2026-08-25T10:00:31.688Z",
  "items": [
+  {
+   "id": "63243808b1492cbf4c3c93901a4dd40611247471",
+   "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+   "source": "The Verge AI",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and autonomously hacked another company last…",
+   "published": "2026-08-25T09:15:03.000Z",
+   "dupes": 1,
+   "score": 0.54,
+   "tier": 1
+  },
   {
    "id": "da55f7d7bd9decaab106ee015dff29c37cee5a81",
    "title": "Disrupting a new covert influence campaign from Russia",
@@ -13,8 +28,8 @@
    "tldr": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
    "published": "2026-08-25T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.543,
-   "tier": 1
+   "score": 0.538,
+   "tier": 2
   },
   {
    "id": "2983dbf79834f512b927486891174421d8bc5bb1",
@@ -26,7 +41,7 @@
    "tldr": "",
    "published": "2026-08-25T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.506,
+   "score": 0.501,
    "tier": 2
   },
   {
@@ -41,7 +56,7 @@
    "tldr": "6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
    "published": "2026-08-24T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.453,
+   "score": 0.45,
    "tier": 2
   },
   {
@@ -56,7 +71,7 @@
    "tldr": "To generate intelligence at scale, AI factories run continuously, and their economics are defined by delivered output: tokens per second, tokens per watt, cost per token, utilization and uptime.  That requires AI…",
    "published": "2026-08-24T15:00:54.000Z",
    "dupes": 1,
-   "score": 0.447,
+   "score": 0.443,
    "tier": 2
   },
   {
@@ -71,7 +86,7 @@
    "tldr": "The next era of AI inference won’t be defined by a single breakthrough chip, network or system.  It’ll be defined by how every layer of the AI factory works together.",
    "published": "2026-08-24T15:00:41.000Z",
    "dupes": 1,
-   "score": 0.447,
+   "score": 0.443,
    "tier": 2
   },
   {
@@ -86,7 +101,7 @@
    "tldr": "According to OpenRouter data, agentic AI workloads consume 15x more tokens than a simple chat request.  Why?",
    "published": "2026-08-24T15:00:19.000Z",
    "dupes": 1,
-   "score": 0.447,
+   "score": 0.443,
    "tier": 2
   },
   {
@@ -119,7 +134,7 @@
    "tldr": "",
    "published": "2026-08-21T10:33:56.000Z",
    "dupes": 1,
-   "score": 0.347,
+   "score": 0.346,
    "tier": 2
   },
   {
@@ -137,7 +152,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.31,
+   "score": 0.309,
    "tier": 2
   },
   {
@@ -198,7 +213,7 @@
    "published": "2026-08-19T07:00:00.000Z",
    "dupes": 1,
    "score": 0.301,
-   "tier": 2
+   "tier": 3
   },
   {
    "id": "e4563871866d3a635b91bc2e29178f947db9e1c3",
@@ -287,7 +302,7 @@
    "tldr": "Generative AI",
    "published": "2026-08-21T17:02:24.000Z",
    "dupes": 1,
-   "score": 0.287,
+   "score": 0.286,
    "tier": 3
   },
   {
@@ -330,7 +345,7 @@
    "tldr": "",
    "published": "2026-08-21T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.269,
+   "score": 0.268,
    "tier": 3
   },
   {
@@ -386,7 +401,7 @@
    "tldr": "Google will soon allow you to customize your Discover feed by describing what you want to see.  The new feature, rolling out to the Google app in the \"coming days,\" will use AI to automatically tweak your feed and…",
    "published": "2026-08-20T21:50:22.000Z",
    "dupes": 1,
-   "score": 0.206,
+   "score": 0.205,
    "tier": 3
   },
   {
@@ -445,21 +460,6 @@
    "topic": "ai",
    "tldr": "Meta is launching a new Mac app dedicated to its AI chatbot.  In an announcement on Wednesday, Meta says you can share your window with its AI chatbot, which can provide suggestions, answer questions, or create content…",
    "published": "2026-08-19T17:00:00.000Z",
-   "dupes": 1,
-   "score": 0.202,
-   "tier": 3
-  },
-  {
-   "id": "09ece407a49b987fedf64ca2d9d5644969033fb9",
-   "title": "Nvidia’s new financial strategy does not compute",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
-   "source": "The Verge AI",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "ai",
-   "tldr": "April - 1805 Napoleon is master of Europe Only the British fleet stands before him Compute is now an asset class I see it is once again time to talk financial innovation.",
-   "published": "2026-08-19T12:00:00.000Z",
    "dupes": 1,
    "score": 0.202,
    "tier": 3
