@@ -1,6 +1,21 @@
 {
- "generated": "2026-08-25T19:08:47.078Z",
+ "generated": "2026-08-25T19:53:24.702Z",
  "items": [
+  {
+   "id": "d77e515deef82e75e33b6ef3346bdf3c1e3e582d",
+   "title": "AgentHands: Generating interactive hand gestures for spatially grounded agent conversations in XR",
+   "url": "https://research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr",
+   "source": "Google Research",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Human-Computer Interaction and Visualization",
+   "published": "2026-08-25T19:10:59.000Z",
+   "dupes": 1,
+   "score": 0.616,
+   "tier": 1
+  },
   {
    "id": "e48c8c80b889055144abddff8406051710f1a011",
    "title": "Leading Publishers Bring Blockbuster PC Games and Technology to NVIDIA RTX Spark",
@@ -13,8 +28,8 @@
    "tldr": "NVIDIA is bringing the next wave of RTX gaming to the Gamescom conference running this week in Cologne, Germany, with support for new games, anti-cheat technologies and increased visual quality.",
    "published": "2026-08-25T15:30:48.000Z",
    "dupes": 1,
-   "score": 0.579,
-   "tier": 1
+   "score": 0.571,
+   "tier": 2
   },
   {
    "id": "74043a2c13e42e05cf84893560f1fd94bb4edd2e",
@@ -26,65 +41,7 @@
    "tldr": "",
    "published": "2026-08-25T15:14:14.000Z",
    "dupes": 1,
-   "score": 0.564,
-   "tier": 2
-  },
-  {
-   "id": "041b97a09ff0e58006edec612c9e8117ab8400ad",
-   "title": "Qwen 3.8-Flash-Next releasing tomorrow (125B a6B)",
-   "url": "https://modelscope.cn/models/Qwen/Qwen3.8-Flash-Next",
-   "source": "Hacker News",
-   "org": [
-    "qwen"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-25T11:49:43.000Z",
-   "dupes": 1,
-   "score": 0.546,
-   "tier": 2
-  },
-  {
-   "id": "f6b26e55a4899220c24a609866e904dd44c2f484",
-   "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-   "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-25T11:39:24.000Z",
-   "dupes": 1,
-   "score": 0.525,
-   "tier": 2
-  },
-  {
-   "id": "829e237a888dfb1db7a5721c66a265431ed0f320",
-   "title": "The full stack behind abundant intelligence",
-   "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
-   "published": "2026-08-25T07:05:00.000Z",
-   "dupes": 1,
-   "score": 0.52,
-   "tier": 2
-  },
-  {
-   "id": "9ad99bb5f40a3110bd8575be9a0ebe1e31025100",
-   "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-   "url": "https://openai.com/index/jalapeno-first-results",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
-   "published": "2026-08-25T07:00:00.000Z",
-   "dupes": 1,
-   "score": 0.519,
+   "score": 0.555,
    "tier": 2
   },
   {
@@ -100,7 +57,50 @@
    "tldr": "",
    "published": "2026-08-25T14:06:02.000Z",
    "dupes": 1,
-   "score": 0.511,
+   "score": 0.521,
+   "tier": 2
+  },
+  {
+   "id": "f6b26e55a4899220c24a609866e904dd44c2f484",
+   "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+   "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-25T11:39:24.000Z",
+   "dupes": 1,
+   "score": 0.517,
+   "tier": 2
+  },
+  {
+   "id": "829e237a888dfb1db7a5721c66a265431ed0f320",
+   "title": "The full stack behind abundant intelligence",
+   "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
+   "published": "2026-08-25T07:05:00.000Z",
+   "dupes": 1,
+   "score": 0.514,
+   "tier": 2
+  },
+  {
+   "id": "9ad99bb5f40a3110bd8575be9a0ebe1e31025100",
+   "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+   "url": "https://openai.com/index/jalapeno-first-results",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
+   "published": "2026-08-25T07:00:00.000Z",
+   "dupes": 1,
+   "score": 0.513,
    "tier": 2
   },
   {
@@ -113,7 +113,22 @@
    "tldr": "",
    "published": "2026-08-25T15:26:45.000Z",
    "dupes": 1,
-   "score": 0.511,
+   "score": 0.503,
+   "tier": 2
+  },
+  {
+   "id": "7369d43a2315535c085b1cf861dd53b5c35410a9",
+   "title": "Show HN: I made a Raspberry with Qwen my local car AI",
+   "url": "https://github.com/ThinkOffApp/CarWatch",
+   "source": "Hacker News",
+   "org": [
+    "qwen"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-25T15:20:20.000Z",
+   "dupes": 1,
+   "score": 0.5,
    "tier": 2
   },
   {
@@ -128,7 +143,7 @@
    "tldr": "OpenAI says its new AI chip, Jalapeño, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday.",
    "published": "2026-08-25T14:00:00.000Z",
    "dupes": 1,
-   "score": 0.487,
+   "score": 0.479,
    "tier": 2
   },
   {
@@ -143,7 +158,7 @@
    "tldr": "",
    "published": "2026-08-25T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.467,
+   "score": 0.463,
    "tier": 2
   },
   {
@@ -158,7 +173,7 @@
    "tldr": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
    "published": "2026-08-25T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.467,
+   "score": 0.463,
    "tier": 2
   },
   {
@@ -173,7 +188,7 @@
    "tldr": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
    "published": "2026-08-25T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.467,
+   "score": 0.463,
    "tier": 2
   },
   {
@@ -192,7 +207,7 @@
    ],
    "dupes": 5,
    "score": 0.439,
-   "tier": 2
+   "tier": 3
   },
   {
    "id": "63243808b1492cbf4c3c93901a4dd40611247471",
@@ -206,7 +221,7 @@
    "tldr": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and autonomously hacked another company last…",
    "published": "2026-08-25T09:15:03.000Z",
    "dupes": 1,
-   "score": 0.439,
+   "score": 0.432,
    "tier": 3
   },
   {
@@ -219,7 +234,7 @@
    "tldr": "",
    "published": "2026-08-25T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.43,
+   "score": 0.425,
    "tier": 3
   },
   {
@@ -234,7 +249,7 @@
    "tldr": "6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
    "published": "2026-08-24T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.405,
+   "score": 0.403,
    "tier": 3
   },
   {
@@ -249,7 +264,7 @@
    "tldr": "To generate intelligence at scale, AI factories run continuously, and their economics are defined by delivered output: tokens per second, tokens per watt, cost per token, utilization and uptime.  That requires AI…",
    "published": "2026-08-24T15:00:54.000Z",
    "dupes": 1,
-   "score": 0.393,
+   "score": 0.39,
    "tier": 3
   },
   {
@@ -264,7 +279,7 @@
    "tldr": "The next era of AI inference won’t be defined by a single breakthrough chip, network or system.  It’ll be defined by how every layer of the AI factory works together.",
    "published": "2026-08-24T15:00:41.000Z",
    "dupes": 1,
-   "score": 0.393,
+   "score": 0.39,
    "tier": 3
   },
   {
@@ -279,7 +294,7 @@
    "tldr": "According to OpenRouter data, agentic AI workloads consume 15x more tokens than a simple chat request.  Why?",
    "published": "2026-08-24T15:00:19.000Z",
    "dupes": 1,
-   "score": 0.393,
+   "score": 0.39,
    "tier": 3
   },
   {
@@ -312,7 +327,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.307,
+   "score": 0.306,
    "tier": 3
   },
   {
@@ -462,6 +477,19 @@
    "tier": 3
   },
   {
+   "id": "c7cdb6722fd86cc4c29f0cfc17f2b4c391c04f1e",
+   "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+   "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-20T16:52:57.000Z",
+   "dupes": 1,
+   "score": 0.266,
+   "tier": 3
+  },
+  {
    "id": "ed976920bb9831e6f4445c801b56921046c574ca",
    "title": "Broadening access to Skala creates a faster path to predictive DFT",
    "url": "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft",
@@ -473,20 +501,7 @@
    "tldr": "1, the updated deep-learning exchange-correlation functional from Microsoft Research, provides greater accuracy, expanded accessibility across the computational chemistry ecosystem, and a living benchmark to track…",
    "published": "2026-08-20T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.266,
-   "tier": 3
-  },
-  {
-   "id": "c7cdb6722fd86cc4c29f0cfc17f2b4c391c04f1e",
-   "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-   "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-20T16:52:57.000Z",
-   "dupes": 1,
-   "score": 0.266,
+   "score": 0.265,
    "tier": 3
   },
   {
@@ -561,7 +576,7 @@
    "tldr": "",
    "published": "2026-08-21T09:37:54.000Z",
    "dupes": 1,
-   "score": 0.199,
+   "score": 0.198,
    "tier": 3
   }
  ]
