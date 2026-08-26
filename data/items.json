@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-25T23:46:42.824Z",
+ "generated": "2026-08-26T00:52:38.003Z",
  "items": [
   {
    "id": "d77e515deef82e75e33b6ef3346bdf3c1e3e582d",
@@ -13,23 +13,8 @@
    "tldr": "Human-Computer Interaction and Visualization",
    "published": "2026-08-25T19:10:59.000Z",
    "dupes": 1,
-   "score": 0.568,
+   "score": 0.556,
    "tier": 1
-  },
-  {
-   "id": "e48c8c80b889055144abddff8406051710f1a011",
-   "title": "Leading Publishers Bring Blockbuster PC Games and Technology to NVIDIA RTX Spark",
-   "url": "https://blogs.nvidia.com/blog/gamescom-rtx-spark-pc-games-technology",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "NVIDIA is bringing the next wave of RTX gaming to the Gamescom conference running this week in Cologne, Germany, with support for new games, anti-cheat technologies and increased visual quality.",
-   "published": "2026-08-25T15:30:48.000Z",
-   "dupes": 1,
-   "score": 0.53,
-   "tier": 2
   },
   {
    "id": "e61f241d4e2e3b1b521f13ceef509c400c1c0ff7",
@@ -44,7 +29,22 @@
    "tldr": "",
    "published": "2026-08-25T14:06:02.000Z",
    "dupes": 1,
-   "score": 0.524,
+   "score": 0.523,
+   "tier": 2
+  },
+  {
+   "id": "e48c8c80b889055144abddff8406051710f1a011",
+   "title": "Leading Publishers Bring Blockbuster PC Games and Technology to NVIDIA RTX Spark",
+   "url": "https://blogs.nvidia.com/blog/gamescom-rtx-spark-pc-games-technology",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "NVIDIA is bringing the next wave of RTX gaming to the Gamescom conference running this week in Cologne, Germany, with support for new games, anti-cheat technologies and increased visual quality.",
+   "published": "2026-08-25T15:30:48.000Z",
+   "dupes": 1,
+   "score": 0.519,
    "tier": 2
   },
   {
@@ -57,7 +57,7 @@
    "tldr": "",
    "published": "2026-08-25T15:14:14.000Z",
    "dupes": 1,
-   "score": 0.514,
+   "score": 0.504,
    "tier": 2
   },
   {
@@ -72,7 +72,7 @@
    "tldr": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
    "published": "2026-08-25T07:05:00.000Z",
    "dupes": 1,
-   "score": 0.484,
+   "score": 0.476,
    "tier": 2
   },
   {
@@ -87,7 +87,7 @@
    "tldr": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
    "published": "2026-08-25T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.483,
+   "score": 0.476,
    "tier": 2
   },
   {
@@ -100,7 +100,7 @@
    "tldr": "",
    "published": "2026-08-25T11:39:24.000Z",
    "dupes": 1,
-   "score": 0.482,
+   "score": 0.473,
    "tier": 2
   },
   {
@@ -115,67 +115,7 @@
    "tldr": "",
    "published": "2026-08-25T15:20:20.000Z",
    "dupes": 1,
-   "score": 0.477,
-   "tier": 2
-  },
-  {
-   "id": "0c54f135033108d068ad84c31c80ba0069c8ec94",
-   "title": "Funding better evaluations of AI’s impact on wellbeing",
-   "url": "https://www.anthropic.com/news/wellbeing-research-grants",
-   "source": "Anthropic News",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-25T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.44,
-   "tier": 2
-  },
-  {
-   "id": "da55f7d7bd9decaab106ee015dff29c37cee5a81",
-   "title": "Disrupting a new covert influence campaign from Russia",
-   "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
-   "published": "2026-08-25T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.44,
-   "tier": 2
-  },
-  {
-   "id": "cfc376addf8c822433f0700057e399bca195ee0e",
-   "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
-   "url": "https://openai.com/index/introducing-admin-plugin",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
-   "published": "2026-08-25T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.44,
-   "tier": 2
-  },
-  {
-   "id": "0f75219d5e8f77b14e4e58865ad88a48a4041118",
-   "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "compute",
-   "tldr": "OpenAI says its new AI chip, Jalapeño, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday.",
-   "published": "2026-08-25T14:00:00.000Z",
-   "dupes": 1,
-   "score": 0.44,
+   "score": 0.469,
    "tier": 2
   },
   {
@@ -193,7 +133,67 @@
     "model"
    ],
    "dupes": 5,
-   "score": 0.439,
+   "score": 0.438,
+   "tier": 2
+  },
+  {
+   "id": "0c54f135033108d068ad84c31c80ba0069c8ec94",
+   "title": "Funding better evaluations of AI’s impact on wellbeing",
+   "url": "https://www.anthropic.com/news/wellbeing-research-grants",
+   "source": "Anthropic News",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-25T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.434,
+   "tier": 2
+  },
+  {
+   "id": "da55f7d7bd9decaab106ee015dff29c37cee5a81",
+   "title": "Disrupting a new covert influence campaign from Russia",
+   "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
+   "published": "2026-08-25T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.434,
+   "tier": 2
+  },
+  {
+   "id": "cfc376addf8c822433f0700057e399bca195ee0e",
+   "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+   "url": "https://openai.com/index/introducing-admin-plugin",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
+   "published": "2026-08-25T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.434,
+   "tier": 2
+  },
+  {
+   "id": "0f75219d5e8f77b14e4e58865ad88a48a4041118",
+   "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
+   "source": "The Verge AI",
+   "org": [
+    "openai"
+   ],
+   "topic": "compute",
+   "tldr": "OpenAI says its new AI chip, Jalapeño, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday.",
+   "published": "2026-08-25T14:00:00.000Z",
+   "dupes": 1,
+   "score": 0.43,
    "tier": 2
   },
   {
@@ -206,7 +206,7 @@
    "tldr": "",
    "published": "2026-08-25T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.403,
+   "score": 0.397,
    "tier": 3
   },
   {
@@ -221,7 +221,7 @@
    "tldr": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and autonomously hacked another company last…",
    "published": "2026-08-25T09:15:03.000Z",
    "dupes": 1,
-   "score": 0.4,
+   "score": 0.392,
    "tier": 3
   },
   {
@@ -236,7 +236,7 @@
    "tldr": "6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
    "published": "2026-08-24T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.388,
+   "score": 0.385,
    "tier": 3
   },
   {
@@ -251,7 +251,7 @@
    "tldr": "To generate intelligence at scale, AI factories run continuously, and their economics are defined by delivered output: tokens per second, tokens per watt, cost per token, utilization and uptime.  That requires AI…",
    "published": "2026-08-24T15:00:54.000Z",
    "dupes": 1,
-   "score": 0.374,
+   "score": 0.37,
    "tier": 3
   },
   {
@@ -266,7 +266,7 @@
    "tldr": "The next era of AI inference won’t be defined by a single breakthrough chip, network or system.  It’ll be defined by how every layer of the AI factory works together.",
    "published": "2026-08-24T15:00:41.000Z",
    "dupes": 1,
-   "score": 0.374,
+   "score": 0.37,
    "tier": 3
   },
   {
@@ -281,7 +281,7 @@
    "tldr": "According to OpenRouter data, agentic AI workloads consume 15x more tokens than a simple chat request.  Why?",
    "published": "2026-08-24T15:00:19.000Z",
    "dupes": 1,
-   "score": 0.374,
+   "score": 0.37,
    "tier": 3
   },
   {
@@ -314,7 +314,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.306,
+   "score": 0.305,
    "tier": 3
   },
   {
@@ -389,7 +389,7 @@
    "tldr": "Generative AI",
    "published": "2026-08-21T17:02:24.000Z",
    "dupes": 1,
-   "score": 0.282,
+   "score": 0.281,
    "tier": 3
   },
   {
@@ -503,7 +503,7 @@
    "tldr": "OpenAI has had a hell of a year.  The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny…",
    "published": "2026-08-20T15:45:55.000Z",
    "dupes": 1,
-   "score": 0.203,
+   "score": 0.202,
    "tier": 3
   },
   {
@@ -548,7 +548,7 @@
    "tldr": "",
    "published": "2026-08-21T09:37:54.000Z",
    "dupes": 1,
-   "score": 0.198,
+   "score": 0.197,
    "tier": 3
   }
  ]
