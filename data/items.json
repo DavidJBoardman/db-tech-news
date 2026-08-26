@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-26T18:12:35.000Z",
+ "generated": "2026-08-26T20:25:59.578Z",
  "items": [
   {
    "id": "05f53b90b4745d6c43105e94e70526c0a67d3b8b",
@@ -13,7 +13,7 @@
    "tldr": "",
    "published": "2026-08-26T14:08:50.000Z",
    "dupes": 1,
-   "score": 0.649,
+   "score": 0.625,
    "tier": 1
   },
   {
@@ -28,7 +28,22 @@
    "tldr": "5 Transcribe.",
    "published": "2026-08-26T17:01:00.000Z",
    "dupes": 1,
-   "score": 0.634,
+   "score": 0.607,
+   "tier": 2
+  },
+  {
+   "id": "730ac67f8d3d8659e071ea383a3c8f92683d628b",
+   "title": "GlucoFM: Foundation model for continuous glucose monitoring",
+   "url": "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring",
+   "source": "Google Research",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Health & Bioscience",
+   "published": "2026-08-26T18:42:43.000Z",
+   "dupes": 1,
+   "score": 0.603,
    "tier": 2
   },
   {
@@ -43,7 +58,7 @@
    "tldr": "",
    "published": "2026-08-26T13:28:32.000Z",
    "dupes": 1,
-   "score": 0.591,
+   "score": 0.56,
    "tier": 2
   },
   {
@@ -58,7 +73,7 @@
    "tldr": "S.  school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
    "published": "2026-08-26T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.555,
+   "score": 0.534,
    "tier": 2
   },
   {
@@ -73,7 +88,53 @@
    "tldr": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
    "published": "2026-08-26T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.555,
+   "score": 0.534,
+   "tier": 2
+  },
+  {
+   "id": "162a7a37462a04deeeb7ac7c3fc4373e245e1fc7",
+   "title": "A Thread-Register Decoupled GPU Execution Model for Efficient Tensor Computation",
+   "url": "https://arxiv.org/abs/2608.19628",
+   "source": "Hacker News",
+   "org": [],
+   "topic": "compute",
+   "tldr": "",
+   "published": "2026-08-26T19:08:58.000Z",
+   "badges": [
+    "paper"
+   ],
+   "dupes": 1,
+   "score": 0.534,
+   "tier": 2
+  },
+  {
+   "id": "b058b9480d114833157557e324f052d0cb14a16c",
+   "title": "Google’s new AI transcription edits out your ‘ums’ and ‘ahs’",
+   "url": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
+   "source": "The Verge AI",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages.",
+   "published": "2026-08-26T17:00:00.000Z",
+   "dupes": 1,
+   "score": 0.507,
+   "tier": 2
+  },
+  {
+   "id": "504dd1ec950803b896fd5f67b4c0caebf6b6fbe6",
+   "title": "The Hugging Face incident and the road ahead",
+   "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
+   "published": "2026-08-26T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.459,
    "tier": 2
   },
   {
@@ -88,7 +149,7 @@
    "tldr": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
    "published": "2026-08-26T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.474,
+   "score": 0.459,
    "tier": 2
   },
   {
@@ -103,7 +164,7 @@
    "tldr": "",
    "published": "2026-08-26T11:24:38.000Z",
    "dupes": 1,
-   "score": 0.46,
+   "score": 0.437,
    "tier": 2
   },
   {
@@ -116,7 +177,7 @@
    "tldr": "",
    "published": "2026-08-26T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.436,
+   "score": 0.422,
    "tier": 2
   },
   {
@@ -131,7 +192,7 @@
    "tldr": "Human-Computer Interaction and Visualization",
    "published": "2026-08-25T19:10:59.000Z",
    "dupes": 1,
-   "score": 0.419,
+   "score": 0.407,
    "tier": 2
   },
   {
@@ -149,8 +210,8 @@
     "model"
    ],
    "dupes": 2,
-   "score": 0.402,
-   "tier": 2
+   "score": 0.395,
+   "tier": 3
   },
   {
    "id": "e48c8c80b889055144abddff8406051710f1a011",
@@ -164,8 +225,8 @@
    "tldr": "NVIDIA is bringing the next wave of RTX gaming to the Gamescom conference running this week in Cologne, Germany, with support for new games, anti-cheat technologies and increased visual quality.",
    "published": "2026-08-25T15:30:48.000Z",
    "dupes": 1,
-   "score": 0.4,
-   "tier": 2
+   "score": 0.39,
+   "tier": 3
   },
   {
    "id": "829e237a888dfb1db7a5721c66a265431ed0f320",
@@ -179,8 +240,8 @@
    "tldr": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
    "published": "2026-08-25T07:05:00.000Z",
    "dupes": 1,
-   "score": 0.39,
-   "tier": 2
+   "score": 0.383,
+   "tier": 3
   },
   {
    "id": "9ad99bb5f40a3110bd8575be9a0ebe1e31025100",
@@ -194,8 +255,8 @@
    "tldr": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
    "published": "2026-08-25T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.39,
-   "tier": 2
+   "score": 0.383,
+   "tier": 3
   },
   {
    "id": "74043a2c13e42e05cf84893560f1fd94bb4edd2e",
@@ -207,20 +268,7 @@
    "tldr": "",
    "published": "2026-08-25T15:14:14.000Z",
    "dupes": 1,
-   "score": 0.386,
-   "tier": 3
-  },
-  {
-   "id": "f6b26e55a4899220c24a609866e904dd44c2f484",
-   "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-   "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-25T11:39:24.000Z",
-   "dupes": 1,
-   "score": 0.37,
+   "score": 0.376,
    "tier": 3
   },
   {
@@ -235,7 +283,7 @@
    "tldr": "",
    "published": "2026-08-25T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.369,
+   "score": 0.363,
    "tier": 3
   },
   {
@@ -250,7 +298,7 @@
    "tldr": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
    "published": "2026-08-25T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.369,
+   "score": 0.363,
    "tier": 3
   },
   {
@@ -265,7 +313,20 @@
    "tldr": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
    "published": "2026-08-25T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.369,
+   "score": 0.363,
+   "tier": 3
+  },
+  {
+   "id": "f6b26e55a4899220c24a609866e904dd44c2f484",
+   "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+   "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-25T11:39:24.000Z",
+   "dupes": 1,
+   "score": 0.362,
    "tier": 3
   },
   {
@@ -283,7 +344,7 @@
     "model"
    ],
    "dupes": 2,
-   "score": 0.35,
+   "score": 0.347,
    "tier": 3
   },
   {
@@ -298,7 +359,7 @@
    "tldr": "6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
    "published": "2026-08-24T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.343,
+   "score": 0.34,
    "tier": 3
   },
   {
@@ -311,22 +372,7 @@
    "tldr": "",
    "published": "2026-08-25T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.331,
-   "tier": 3
-  },
-  {
-   "id": "cb481993e0b28536313aebd09ae75174737b9847",
-   "title": "DeepSeek-v4-flash-vision-exp",
-   "url": "https://api-docs.deepseek.com/guides/vision",
-   "source": "HN · DeepSeek",
-   "org": [
-    "deepseek"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-21T10:33:56.000Z",
-   "dupes": 1,
-   "score": 0.329,
+   "score": 0.326,
    "tier": 3
   },
   {
@@ -341,7 +387,7 @@
    "tldr": "To generate intelligence at scale, AI factories run continuously, and their economics are defined by delivered output: tokens per second, tokens per watt, cost per token, utilization and uptime.  That requires AI…",
    "published": "2026-08-24T15:00:54.000Z",
    "dupes": 1,
-   "score": 0.324,
+   "score": 0.32,
    "tier": 3
   },
   {
@@ -356,7 +402,7 @@
    "tldr": "The next era of AI inference won’t be defined by a single breakthrough chip, network or system.  It’ll be defined by how every layer of the AI factory works together.",
    "published": "2026-08-24T15:00:41.000Z",
    "dupes": 1,
-   "score": 0.324,
+   "score": 0.32,
    "tier": 3
   },
   {
@@ -371,7 +417,7 @@
    "tldr": "According to OpenRouter data, agentic AI workloads consume 15x more tokens than a simple chat request.  Why?",
    "published": "2026-08-24T15:00:19.000Z",
    "dupes": 1,
-   "score": 0.324,
+   "score": 0.32,
    "tier": 3
   },
   {
@@ -386,7 +432,7 @@
    "tldr": "OpenAI says its new AI chip, Jalapeño, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday.",
    "published": "2026-08-25T14:00:00.000Z",
    "dupes": 1,
-   "score": 0.318,
+   "score": 0.308,
    "tier": 3
   },
   {
@@ -404,7 +450,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.303,
+   "score": 0.302,
    "tier": 3
   },
   {
@@ -438,18 +484,18 @@
    "tier": 3
   },
   {
-   "id": "ef913e9fdabc01a874a34c945cc71d8f36dedf16",
-   "title": "Offering Zero Data Retention for frontier models",
-   "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-   "source": "OpenAI Blog",
+   "id": "cb481993e0b28536313aebd09ae75174737b9847",
+   "title": "DeepSeek-v4-flash-vision-exp",
+   "url": "https://api-docs.deepseek.com/guides/vision",
+   "source": "HN · DeepSeek",
    "org": [
-    "openai"
+    "deepseek"
    ],
    "topic": "ai",
-   "tldr": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
-   "published": "2026-08-19T19:00:00.000Z",
+   "tldr": "",
+   "published": "2026-08-21T10:33:56.000Z",
    "dupes": 1,
-   "score": 0.301,
+   "score": 0.295,
    "tier": 3
   },
   {
@@ -464,7 +510,7 @@
    "tldr": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and autonomously hacked another company last…",
    "published": "2026-08-25T09:15:03.000Z",
    "dupes": 1,
-   "score": 0.298,
+   "score": 0.29,
    "tier": 3
   },
   {
@@ -494,7 +540,7 @@
    "tldr": "Algorithms & Theory",
    "published": "2026-08-21T10:54:00.000Z",
    "dupes": 1,
-   "score": 0.278,
+   "score": 0.277,
    "tier": 3
   },
   {
@@ -578,7 +624,7 @@
    "tldr": "Google will soon allow you to customize your Discover feed by describing what you want to see.  The new feature, rolling out to the Google app in the \"coming days,\" will use AI to automatically tweak your feed and…",
    "published": "2026-08-20T21:50:22.000Z",
    "dupes": 1,
-   "score": 0.202,
+   "score": 0.201,
    "tier": 3
   },
   {
@@ -597,21 +643,6 @@
    "tier": 3
   },
   {
-   "id": "336770ff41e56b45b9da8b51aca9dd49525d5b1e",
-   "title": "Google Gemini is getting a dedicated student hub",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
-   "source": "The Verge AI",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini.  It's a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice…",
-   "published": "2026-08-19T19:00:00.000Z",
-   "dupes": 1,
-   "score": 0.201,
-   "tier": 3
-  },
-  {
    "id": "e2972d183728da1b6b7087663e60dfd90b13db7a",
    "title": "DeepSeek-V4-Flash-Vision-Exp Is Now Live on the DeepSeek API Platform",
    "url": "https://twitter.com/deepseek_ai/status/2090730032574631962",
@@ -623,7 +654,7 @@
    "tldr": "",
    "published": "2026-08-21T09:37:54.000Z",
    "dupes": 1,
-   "score": 0.195,
+   "score": 0.193,
    "tier": 3
   }
  ]
