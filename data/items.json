@@ -1,6 +1,21 @@
 {
- "generated": "2026-08-26T23:55:07.536Z",
+ "generated": "2026-08-27T06:32:19.104Z",
  "items": [
+  {
+   "id": "5bf92f9b1d01a8466567ceb4c4fccc37ba0cfc5e",
+   "title": "Nvidia agrees to acquire Hugging Face for $13B",
+   "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
+   "source": "Hacker News",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-27T01:12:55.000Z",
+   "dupes": 1,
+   "score": 0.606,
+   "tier": 1
+  },
   {
    "id": "05f53b90b4745d6c43105e94e70526c0a67d3b8b",
    "title": "GLM-5.3-Flash",
@@ -13,8 +28,8 @@
    "tldr": "",
    "published": "2026-08-26T14:08:50.000Z",
    "dupes": 1,
-   "score": 0.59,
-   "tier": 1
+   "score": 0.536,
+   "tier": 2
   },
   {
    "id": "d265b61d5b7bc71999d04bba2b3caf164a67b715",
@@ -28,7 +43,7 @@
    "tldr": "The next wave of AI is placing new demands on infrastructure.  As AI agents and trillion-parameter workloads become mainstream, the performance of AI infrastructure depends not only on compute, but on how compute,…",
    "published": "2026-08-26T21:05:30.000Z",
    "dupes": 1,
-   "score": 0.589,
+   "score": 0.518,
    "tier": 2
   },
   {
@@ -43,7 +58,7 @@
    "tldr": "5 Transcribe.",
    "published": "2026-08-26T17:01:00.000Z",
    "dupes": 1,
-   "score": 0.568,
+   "score": 0.508,
    "tier": 2
   },
   {
@@ -58,37 +73,7 @@
    "tldr": "Health & Bioscience",
    "published": "2026-08-26T18:42:43.000Z",
    "dupes": 1,
-   "score": 0.561,
-   "tier": 2
-  },
-  {
-   "id": "5466e82242f52bfe14f0df7e1f7b9efcc7ed72c9",
-   "title": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
-   "url": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
-   "source": "The Verge AI",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "ai",
-   "tldr": "Nvidia's predicting it will pull in $108 billion in revenue within just a few months.  It wouldn't be the first company to rake in over $100 billion in quarterly revenue - Amazon, Apple, and Alphabet have repeatedly…",
-   "published": "2026-08-26T21:40:53.000Z",
-   "dupes": 1,
-   "score": 0.521,
-   "tier": 2
-  },
-  {
-   "id": "3f42b441a741af9f9bc3de7721d3d98d1f134a91",
-   "title": "OpenAI’s rogue AI model incident was worse than we thought",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "In July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get access to the internet, allowed AI agents to talk to each other using a secret \"message board,\" and hacked into the…",
-   "published": "2026-08-26T21:36:06.000Z",
-   "dupes": 1,
-   "score": 0.52,
+   "score": 0.497,
    "tier": 2
   },
   {
@@ -103,7 +88,7 @@
    "tldr": "S.  school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
    "published": "2026-08-26T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.505,
+   "score": 0.459,
    "tier": 2
   },
   {
@@ -118,22 +103,37 @@
    "tldr": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
    "published": "2026-08-26T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.505,
+   "score": 0.459,
    "tier": 2
   },
   {
-   "id": "b058b9480d114833157557e324f052d0cb14a16c",
-   "title": "Google’s new AI transcription edits out your ‘ums’ and ‘ahs’",
-   "url": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
+   "id": "5466e82242f52bfe14f0df7e1f7b9efcc7ed72c9",
+   "title": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
+   "url": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
    "source": "The Verge AI",
    "org": [
-    "google"
+    "nvidia"
    ],
    "topic": "ai",
-   "tldr": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages.",
-   "published": "2026-08-26T17:00:00.000Z",
+   "tldr": "Nvidia's predicting it will pull in $108 billion in revenue within just a few months.  It wouldn't be the first company to rake in over $100 billion in quarterly revenue - Amazon, Apple, and Alphabet have repeatedly…",
+   "published": "2026-08-26T21:40:53.000Z",
    "dupes": 1,
-   "score": 0.468,
+   "score": 0.449,
+   "tier": 2
+  },
+  {
+   "id": "3f42b441a741af9f9bc3de7721d3d98d1f134a91",
+   "title": "OpenAI’s rogue AI model incident was worse than we thought",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
+   "source": "The Verge AI",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "In July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get access to the internet, allowed AI agents to talk to each other using a secret \"message board,\" and hacked into the…",
+   "published": "2026-08-26T21:36:06.000Z",
+   "dupes": 1,
+   "score": 0.448,
    "tier": 2
   },
   {
@@ -148,7 +148,7 @@
    "tldr": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
    "published": "2026-08-26T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.439,
+   "score": 0.408,
    "tier": 2
   },
   {
@@ -163,22 +163,22 @@
    "tldr": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
    "published": "2026-08-26T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.439,
+   "score": 0.408,
    "tier": 2
   },
   {
-   "id": "fafcce632f1d4c3ab92ebbf6123fcb85b7f5cc5b",
-   "title": "Moonshot AI wants 30% of what US clouds earn from Kimi K3",
-   "url": "https://thenextweb.com/news/moonshot-k3-revenue-sharing-us-clouds",
-   "source": "HN · Kimi",
+   "id": "b058b9480d114833157557e324f052d0cb14a16c",
+   "title": "Google’s new AI transcription edits out your ‘ums’ and ‘ahs’",
+   "url": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
+   "source": "The Verge AI",
    "org": [
-    "moonshot"
+    "google"
    ],
    "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-26T11:24:38.000Z",
+   "tldr": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages.",
+   "published": "2026-08-26T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.406,
+   "score": 0.408,
    "tier": 2
   },
   {
@@ -191,23 +191,8 @@
    "tldr": "",
    "published": "2026-08-26T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.402,
+   "score": 0.37,
    "tier": 2
-  },
-  {
-   "id": "d77e515deef82e75e33b6ef3346bdf3c1e3e582d",
-   "title": "AgentHands: Generating interactive hand gestures for spatially grounded agent conversations in XR",
-   "url": "https://research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr",
-   "source": "Google Research",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Human-Computer Interaction and Visualization",
-   "published": "2026-08-25T19:10:59.000Z",
-   "dupes": 1,
-   "score": 0.391,
-   "tier": 3
   },
   {
    "id": "c228fc48b5a13ecd3d7c40f66ac82dae4da05bbb",
@@ -224,52 +209,22 @@
     "model"
    ],
    "dupes": 2,
-   "score": 0.384,
+   "score": 0.368,
    "tier": 3
   },
   {
-   "id": "e48c8c80b889055144abddff8406051710f1a011",
-   "title": "Leading Publishers Bring Blockbuster PC Games and Technology to NVIDIA RTX Spark",
-   "url": "https://blogs.nvidia.com/blog/gamescom-rtx-spark-pc-games-technology",
-   "source": "NVIDIA Blog",
+   "id": "d77e515deef82e75e33b6ef3346bdf3c1e3e582d",
+   "title": "AgentHands: Generating interactive hand gestures for spatially grounded agent conversations in XR",
+   "url": "https://research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr",
+   "source": "Google Research",
    "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "NVIDIA is bringing the next wave of RTX gaming to the Gamescom conference running this week in Cologne, Germany, with support for new games, anti-cheat technologies and increased visual quality.",
-   "published": "2026-08-25T15:30:48.000Z",
-   "dupes": 1,
-   "score": 0.375,
-   "tier": 3
-  },
-  {
-   "id": "829e237a888dfb1db7a5721c66a265431ed0f320",
-   "title": "The full stack behind abundant intelligence",
-   "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
+    "google"
    ],
    "topic": "ai",
-   "tldr": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
-   "published": "2026-08-25T07:05:00.000Z",
+   "tldr": "Human-Computer Interaction and Visualization",
+   "published": "2026-08-25T19:10:59.000Z",
    "dupes": 1,
-   "score": 0.373,
-   "tier": 3
-  },
-  {
-   "id": "9ad99bb5f40a3110bd8575be9a0ebe1e31025100",
-   "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-   "url": "https://openai.com/index/jalapeno-first-results",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
-   "published": "2026-08-25T07:00:00.000Z",
-   "dupes": 1,
-   "score": 0.372,
+   "score": 0.365,
    "tier": 3
   },
   {
@@ -288,16 +243,63 @@
    "tier": 3
   },
   {
-   "id": "74043a2c13e42e05cf84893560f1fd94bb4edd2e",
-   "title": "Granite 4.2 LLMs: How They're Built",
-   "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-   "source": "Hugging Face Blog",
-   "org": [],
+   "id": "fafcce632f1d4c3ab92ebbf6123fcb85b7f5cc5b",
+   "title": "Moonshot AI wants 30% of what US clouds earn from Kimi K3",
+   "url": "https://thenextweb.com/news/moonshot-k3-revenue-sharing-us-clouds",
+   "source": "HN · Kimi",
+   "org": [
+    "moonshot"
+   ],
    "topic": "ai",
    "tldr": "",
-   "published": "2026-08-25T15:14:14.000Z",
+   "published": "2026-08-26T11:24:38.000Z",
    "dupes": 1,
-   "score": 0.362,
+   "score": 0.357,
+   "tier": 3
+  },
+  {
+   "id": "829e237a888dfb1db7a5721c66a265431ed0f320",
+   "title": "The full stack behind abundant intelligence",
+   "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
+   "published": "2026-08-25T07:05:00.000Z",
+   "dupes": 1,
+   "score": 0.356,
+   "tier": 3
+  },
+  {
+   "id": "9ad99bb5f40a3110bd8575be9a0ebe1e31025100",
+   "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+   "url": "https://openai.com/index/jalapeno-first-results",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
+   "published": "2026-08-25T07:00:00.000Z",
+   "dupes": 1,
+   "score": 0.356,
+   "tier": 3
+  },
+  {
+   "id": "e48c8c80b889055144abddff8406051710f1a011",
+   "title": "Leading Publishers Bring Blockbuster PC Games and Technology to NVIDIA RTX Spark",
+   "url": "https://blogs.nvidia.com/blog/gamescom-rtx-spark-pc-games-technology",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "NVIDIA is bringing the next wave of RTX gaming to the Gamescom conference running this week in Cologne, Germany, with support for new games, anti-cheat technologies and increased visual quality.",
+   "published": "2026-08-25T15:30:48.000Z",
+   "dupes": 1,
+   "score": 0.353,
    "tier": 3
   },
   {
@@ -312,7 +314,7 @@
    "tldr": "",
    "published": "2026-08-25T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.355,
+   "score": 0.343,
    "tier": 3
   },
   {
@@ -327,7 +329,7 @@
    "tldr": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
    "published": "2026-08-25T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.355,
+   "score": 0.343,
    "tier": 3
   },
   {
@@ -342,20 +344,20 @@
    "tldr": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
    "published": "2026-08-25T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.355,
+   "score": 0.343,
    "tier": 3
   },
   {
-   "id": "f6b26e55a4899220c24a609866e904dd44c2f484",
-   "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-   "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+   "id": "74043a2c13e42e05cf84893560f1fd94bb4edd2e",
+   "title": "Granite 4.2 LLMs: How They're Built",
+   "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
    "source": "Hugging Face Blog",
    "org": [],
    "topic": "ai",
    "tldr": "",
-   "published": "2026-08-25T11:39:24.000Z",
+   "published": "2026-08-25T15:14:14.000Z",
    "dupes": 1,
-   "score": 0.349,
+   "score": 0.34,
    "tier": 3
   },
   {
@@ -373,7 +375,20 @@
     "model"
    ],
    "dupes": 2,
-   "score": 0.343,
+   "score": 0.336,
+   "tier": 3
+  },
+  {
+   "id": "f6b26e55a4899220c24a609866e904dd44c2f484",
+   "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+   "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-25T11:39:24.000Z",
+   "dupes": 1,
+   "score": 0.33,
    "tier": 3
   },
   {
@@ -388,20 +403,7 @@
    "tldr": "6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
    "published": "2026-08-24T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.335,
-   "tier": 3
-  },
-  {
-   "id": "2983dbf79834f512b927486891174421d8bc5bb1",
-   "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-   "url": "https://huggingface.co/blog/gradio-workflow-guide",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-25T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.318,
+   "score": 0.327,
    "tier": 3
   },
   {
@@ -416,7 +418,7 @@
    "tldr": "To generate intelligence at scale, AI factories run continuously, and their economics are defined by delivered output: tokens per second, tokens per watt, cost per token, utilization and uptime.  That requires AI…",
    "published": "2026-08-24T15:00:54.000Z",
    "dupes": 1,
-   "score": 0.314,
+   "score": 0.305,
    "tier": 3
   },
   {
@@ -431,7 +433,7 @@
    "tldr": "The next era of AI inference won’t be defined by a single breakthrough chip, network or system.  It’ll be defined by how every layer of the AI factory works together.",
    "published": "2026-08-24T15:00:41.000Z",
    "dupes": 1,
-   "score": 0.314,
+   "score": 0.305,
    "tier": 3
   },
   {
@@ -446,7 +448,20 @@
    "tldr": "According to OpenRouter data, agentic AI workloads consume 15x more tokens than a simple chat request.  Why?",
    "published": "2026-08-24T15:00:19.000Z",
    "dupes": 1,
-   "score": 0.314,
+   "score": 0.305,
+   "tier": 3
+  },
+  {
+   "id": "2983dbf79834f512b927486891174421d8bc5bb1",
+   "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+   "url": "https://huggingface.co/blog/gradio-workflow-guide",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-25T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.305,
    "tier": 3
   },
   {
@@ -468,66 +483,6 @@
    "tier": 3
   },
   {
-   "id": "cb030de2dd9418a323244c2095c99bb8a7fc97ca",
-   "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
-   "url": "https://openai.com/index/stampli",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
-   "published": "2026-08-20T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
-   "id": "0f75219d5e8f77b14e4e58865ad88a48a4041118",
-   "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "compute",
-   "tldr": "OpenAI says its new AI chip, Jalapeño, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday.",
-   "published": "2026-08-25T14:00:00.000Z",
-   "dupes": 1,
-   "score": 0.295,
-   "tier": 3
-  },
-  {
-   "id": "cb481993e0b28536313aebd09ae75174737b9847",
-   "title": "DeepSeek-v4-flash-vision-exp",
-   "url": "https://api-docs.deepseek.com/guides/vision",
-   "source": "HN · DeepSeek",
-   "org": [
-    "deepseek"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-21T10:33:56.000Z",
-   "dupes": 1,
-   "score": 0.279,
-   "tier": 3
-  },
-  {
-   "id": "63243808b1492cbf4c3c93901a4dd40611247471",
-   "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and autonomously hacked another company last…",
-   "published": "2026-08-25T09:15:03.000Z",
-   "dupes": 1,
-   "score": 0.279,
-   "tier": 3
-  },
-  {
    "id": "327948d9f6c186829a9b1c0d549b05d35c9a1fac",
    "title": "An AI tool for prioritizing candidate biomarkers from wearable sensor data",
    "url": "https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data",
@@ -539,7 +494,7 @@
    "tldr": "Generative AI",
    "published": "2026-08-21T17:02:24.000Z",
    "dupes": 1,
-   "score": 0.278,
+   "score": 0.277,
    "tier": 3
   },
   {
@@ -573,18 +528,33 @@
    "tier": 3
   },
   {
-   "id": "ed976920bb9831e6f4445c801b56921046c574ca",
-   "title": "Broadening access to Skala creates a faster path to predictive DFT",
-   "url": "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft",
-   "source": "Microsoft Research",
+   "id": "0f75219d5e8f77b14e4e58865ad88a48a4041118",
+   "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
+   "source": "The Verge AI",
    "org": [
-    "microsoft"
+    "openai"
+   ],
+   "topic": "compute",
+   "tldr": "OpenAI says its new AI chip, Jalapeño, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday.",
+   "published": "2026-08-25T14:00:00.000Z",
+   "dupes": 1,
+   "score": 0.273,
+   "tier": 3
+  },
+  {
+   "id": "cb481993e0b28536313aebd09ae75174737b9847",
+   "title": "DeepSeek-v4-flash-vision-exp",
+   "url": "https://api-docs.deepseek.com/guides/vision",
+   "source": "HN · DeepSeek",
+   "org": [
+    "deepseek"
    ],
    "topic": "ai",
-   "tldr": "1, the updated deep-learning exchange-correlation functional from Microsoft Research, provides greater accuracy, expanded accessibility across the computational chemistry ecosystem, and a living benchmark to track…",
-   "published": "2026-08-20T16:00:00.000Z",
+   "tldr": "",
+   "published": "2026-08-21T10:33:56.000Z",
    "dupes": 1,
-   "score": 0.264,
+   "score": 0.267,
    "tier": 3
   },
   {
@@ -614,6 +584,21 @@
    "tier": 3
   },
   {
+   "id": "ed976920bb9831e6f4445c801b56921046c574ca",
+   "title": "Broadening access to Skala creates a faster path to predictive DFT",
+   "url": "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft",
+   "source": "Microsoft Research",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "1, the updated deep-learning exchange-correlation functional from Microsoft Research, provides greater accuracy, expanded accessibility across the computational chemistry ecosystem, and a living benchmark to track…",
+   "published": "2026-08-20T16:00:00.000Z",
+   "dupes": 1,
+   "score": 0.263,
+   "tier": 3
+  },
+  {
    "id": "c7cdb6722fd86cc4c29f0cfc17f2b4c391c04f1e",
    "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
    "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
@@ -623,7 +608,22 @@
    "tldr": "",
    "published": "2026-08-20T16:52:57.000Z",
    "dupes": 1,
-   "score": 0.264,
+   "score": 0.263,
+   "tier": 3
+  },
+  {
+   "id": "63243808b1492cbf4c3c93901a4dd40611247471",
+   "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+   "source": "The Verge AI",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and autonomously hacked another company last…",
+   "published": "2026-08-25T09:15:03.000Z",
+   "dupes": 1,
+   "score": 0.261,
    "tier": 3
   },
   {
@@ -668,7 +668,7 @@
    "tldr": "",
    "published": "2026-08-21T09:37:54.000Z",
    "dupes": 1,
-   "score": 0.193,
+   "score": 0.192,
    "tier": 3
   }
  ]
