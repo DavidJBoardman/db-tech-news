@@ -1,6 +1,21 @@
 {
- "generated": "2026-08-27T18:00:48.990Z",
+ "generated": "2026-08-28T02:14:18.987Z",
  "items": [
+  {
+   "id": "50690b3cc5a91051c9eb9137b3969621c73d07a5",
+   "title": "Closed-Loop Cooling Explained: The Plumbing Behind Meta’s AI",
+   "url": "https://about.fb.com/news/2026/08/closed-loop-cooling-explained-the-plumbing-behind-metas-ai",
+   "source": "Meta Newsroom",
+   "org": [
+    "meta"
+   ],
+   "topic": "ai",
+   "tldr": "Tom Shaw explains how Meta is using closed-loop liquid cooling to power AI more efficiently.  The post Closed-Loop Cooling Explained: The Plumbing Behind Meta’s AI appeared first on Meta Newsroom .",
+   "published": "2026-08-27T21:44:08.000Z",
+   "dupes": 1,
+   "score": 0.544,
+   "tier": 1
+  },
   {
    "id": "5b132fba12b8380b6a6d953b9ce14cfeff5596df",
    "title": "Gemini Omni 1.1 Flash lets you build with more control",
@@ -13,8 +28,8 @@
    "tldr": "",
    "published": "2026-08-27T16:11:32.000Z",
    "dupes": 1,
-   "score": 0.626,
-   "tier": 1
+   "score": 0.538,
+   "tier": 2
   },
   {
    "id": "6ece7d97166e5779403c2e3f843b980fc5f37541",
@@ -28,25 +43,7 @@
    "tldr": "Earth AI",
    "published": "2026-08-27T17:37:20.000Z",
    "dupes": 1,
-   "score": 0.62,
-   "tier": 2
-  },
-  {
-   "id": "9a08baa88de9600c56071b3b24ec8e8db873679f",
-   "title": "Grok Bot for Linux: Unofficial port of the official app (open source)",
-   "url": "https://github.com/jakob-bu/grok-bot-linux-unofficial",
-   "source": "Hacker News",
-   "org": [
-    "xai"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-27T16:49:47.000Z",
-   "badges": [
-    "oss"
-   ],
-   "dupes": 2,
-   "score": 0.599,
+   "score": 0.526,
    "tier": 2
   },
   {
@@ -61,7 +58,22 @@
    "tldr": "Piloting the world's first double-blind AI evaluations",
    "published": "2026-08-27T12:59:16.000Z",
    "dupes": 1,
-   "score": 0.588,
+   "score": 0.51,
+   "tier": 2
+  },
+  {
+   "id": "e8e7441ac397b5268926e451bcb70303e6ae9b2c",
+   "title": "Previewing the Model Hardware Standard",
+   "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+   "source": "Anthropic News",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "We’re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers.",
+   "published": "2026-08-27T00:00:00.000Z",
+   "dupes": 2,
+   "score": 0.49,
    "tier": 2
   },
   {
@@ -76,7 +88,7 @@
    "tldr": "NVIDIA’s Gamescom announcements are revealing what’s next for GeForce NOW, with new ways to play, more supported devices and platforms, and even more big PC games headed to the cloud.",
    "published": "2026-08-27T13:00:33.000Z",
    "dupes": 1,
-   "score": 0.564,
+   "score": 0.485,
    "tier": 2
   },
   {
@@ -91,37 +103,7 @@
    "tldr": "NVIDIA Vice President of Hyperscale and HPC Ian Buck hand-delivers Vera CPU systems across the AI ecosystem as Vera begins shipping at scale.",
    "published": "2026-08-27T13:00:17.000Z",
    "dupes": 1,
-   "score": 0.564,
-   "tier": 2
-  },
-  {
-   "id": "3062d8cdad5fdcd904c8ee54664b2aa34880672b",
-   "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-   "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
-   "published": "2026-08-27T09:00:00.000Z",
-   "dupes": 1,
-   "score": 0.547,
-   "tier": 2
-  },
-  {
-   "id": "fb181c2b12ea0ce73d682478b8d5679010bdc4e6",
-   "title": "Show HN: My Claude quota ran out in 10 minutes, so I made a tool to find out why",
-   "url": "https://github.com/kelviq/tare",
-   "source": "Hacker News",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-27T16:37:44.000Z",
-   "dupes": 1,
-   "score": 0.535,
+   "score": 0.485,
    "tier": 2
   },
   {
@@ -136,52 +118,67 @@
    "tldr": "",
    "published": "2026-08-27T01:12:55.000Z",
    "dupes": 1,
-   "score": 0.533,
+   "score": 0.484,
    "tier": 2
   },
   {
-   "id": "7529af836f99159a8620b770f9a3e457e6732ccd",
-   "title": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
-   "source": "The Verge AI",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "ai",
-   "tldr": "On Nvidia's earnings call Wednesday, CEO Jensen Huang casually announced the company had \"achieved AGI,\" one of the tech industry's ultimate goals some of its biggest players have spent years chasing.  \" He's right.",
-   "published": "2026-08-27T16:15:52.000Z",
-   "dupes": 1,
-   "score": 0.527,
-   "tier": 2
-  },
-  {
-   "id": "f0baae5c666cb840d2b7127da3c8da43b99f0f14",
-   "title": "Nvidia projects $673B in sales as AI demand widens",
-   "url": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast",
-   "source": "Hacker News",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-27T15:04:16.000Z",
-   "dupes": 1,
-   "score": 0.519,
-   "tier": 2
-  },
-  {
-   "id": "d9738fe90b0db3caf0e098487054dec056d55011",
-   "title": "OpenAI’s executive exodus has one big winner",
-   "url": "https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus",
-   "source": "The Verge AI",
+   "id": "3062d8cdad5fdcd904c8ee54664b2aa34880672b",
+   "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+   "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+   "source": "OpenAI Blog",
    "org": [
     "openai"
    ],
    "topic": "ai",
-   "tldr": "Today on Decoder, I’m talking to Verge senior AI reporter Hayden Field about some pure Decoder bait: the seemingly-endless org chart changes at OpenAI, and how all of them seem to consolidate power under cofounder Greg…",
-   "published": "2026-08-27T14:00:00.000Z",
+   "tldr": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
+   "published": "2026-08-27T09:00:00.000Z",
    "dupes": 1,
-   "score": 0.5,
+   "score": 0.48,
+   "tier": 2
+  },
+  {
+   "id": "01f0ee112f1e7424c74ff71f6030a2e1ee2b0978",
+   "title": "Google’s AI note-taking app now allows you to interact with books",
+   "url": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
+   "source": "The Verge AI",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Google's AI note-taking app, Gemini Notebook, can now pull information from the books you've purchased.",
+   "published": "2026-08-27T19:30:00.000Z",
+   "dupes": 1,
+   "score": 0.47,
+   "tier": 2
+  },
+  {
+   "id": "dacb3424514f96fed1ca2911aec99e0774d41ec3",
+   "title": "Gemini-3.5-Transcribe",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe",
+   "source": "Hacker News",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-27T18:03:42.000Z",
+   "dupes": 1,
+   "score": 0.468,
+   "tier": 2
+  },
+  {
+   "id": "9411c1d36bb5cf9a8a7cbf78b730f3f63edd67c2",
+   "title": "Gemini Omni 1.1 Flash",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash",
+   "source": "Hacker News",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-27T17:06:32.000Z",
+   "dupes": 1,
+   "score": 0.462,
    "tier": 2
   },
   {
@@ -196,13 +193,46 @@
    "tldr": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
    "published": "2026-08-27T03:00:00.000Z",
    "dupes": 1,
-   "score": 0.496,
+   "score": 0.443,
    "tier": 2
   },
   {
-   "id": "e8e7441ac397b5268926e451bcb70303e6ae9b2c",
-   "title": "Previewing the Model Hardware Standard",
-   "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+   "id": "7529af836f99159a8620b770f9a3e457e6732ccd",
+   "title": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
+   "source": "The Verge AI",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "ai",
+   "tldr": "On Nvidia's earnings call Wednesday, CEO Jensen Huang casually announced the company had \"achieved AGI,\" one of the tech industry's ultimate goals some of its biggest players have spent years chasing.  \" He's right.",
+   "published": "2026-08-27T16:15:52.000Z",
+   "dupes": 1,
+   "score": 0.438,
+   "tier": 3
+  },
+  {
+   "id": "9a08baa88de9600c56071b3b24ec8e8db873679f",
+   "title": "Grok Bot for Linux: Unofficial port of the official app (open source)",
+   "url": "https://github.com/jakob-bu/grok-bot-linux-unofficial",
+   "source": "HN · xAI",
+   "org": [
+    "xai"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-27T16:49:47.000Z",
+   "badges": [
+    "oss"
+   ],
+   "dupes": 1,
+   "score": 0.433,
+   "tier": 3
+  },
+  {
+   "id": "d575f18cfc606442603913fd6d06f41c24ebdb9f",
+   "title": "Expanding our support for scientists",
+   "url": "https://www.anthropic.com/news/expanding-support-for-scientists",
    "source": "Anthropic News",
    "org": [
     "anthropic"
@@ -211,7 +241,37 @@
    "tldr": "",
    "published": "2026-08-27T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.475,
+   "score": 0.427,
+   "tier": 3
+  },
+  {
+   "id": "d9738fe90b0db3caf0e098487054dec056d55011",
+   "title": "OpenAI’s executive exodus has one big winner",
+   "url": "https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus",
+   "source": "The Verge AI",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Today on Decoder, I’m talking to Verge senior AI reporter Hayden Field about some pure Decoder bait: the seemingly-endless org chart changes at OpenAI, and how all of them seem to consolidate power under cofounder Greg…",
+   "published": "2026-08-27T14:00:00.000Z",
+   "dupes": 1,
+   "score": 0.418,
+   "tier": 3
+  },
+  {
+   "id": "ff719c72eaa4ed2e7d7a647245a14f3b9cd7b828",
+   "title": "Show HN: The load-bearing vocabulary of Claude",
+   "url": "https://louisabraham.github.io/load-bearing",
+   "source": "Hacker News",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-27T08:59:49.000Z",
+   "dupes": 1,
+   "score": 0.409,
    "tier": 3
   },
   {
@@ -226,7 +286,7 @@
    "tldr": "5 Transcribe.",
    "published": "2026-08-26T17:01:00.000Z",
    "dupes": 1,
-   "score": 0.434,
+   "score": 0.397,
    "tier": 3
   },
   {
@@ -241,7 +301,7 @@
    "tldr": "The next wave of AI is placing new demands on infrastructure.  As AI agents and trillion-parameter workloads become mainstream, the performance of AI infrastructure depends not only on compute, but on how compute,…",
    "published": "2026-08-26T21:05:30.000Z",
    "dupes": 1,
-   "score": 0.431,
+   "score": 0.389,
    "tier": 3
   },
   {
@@ -256,7 +316,7 @@
    "tldr": "Health & Bioscience",
    "published": "2026-08-26T18:42:43.000Z",
    "dupes": 1,
-   "score": 0.418,
+   "score": 0.379,
    "tier": 3
   },
   {
@@ -271,7 +331,7 @@
    "tldr": "S.  school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
    "published": "2026-08-26T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.402,
+   "score": 0.374,
    "tier": 3
   },
   {
@@ -286,7 +346,7 @@
    "tldr": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
    "published": "2026-08-26T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.402,
+   "score": 0.374,
    "tier": 3
   },
   {
@@ -301,7 +361,7 @@
    "tldr": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
    "published": "2026-08-26T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.369,
+   "score": 0.351,
    "tier": 3
   },
   {
@@ -316,37 +376,7 @@
    "tldr": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
    "published": "2026-08-26T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.369,
-   "tier": 3
-  },
-  {
-   "id": "5466e82242f52bfe14f0df7e1f7b9efcc7ed72c9",
-   "title": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
-   "url": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
-   "source": "The Verge AI",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "ai",
-   "tldr": "Nvidia's predicting it will pull in $108 billion in revenue within just a few months.  It wouldn't be the first company to rake in over $100 billion in quarterly revenue - Amazon, Apple, and Alphabet have repeatedly…",
-   "published": "2026-08-26T21:40:53.000Z",
-   "dupes": 1,
-   "score": 0.36,
-   "tier": 3
-  },
-  {
-   "id": "3f42b441a741af9f9bc3de7721d3d98d1f134a91",
-   "title": "OpenAI’s rogue AI model incident was worse than we thought",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "In July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get access to the internet, allowed AI agents to talk to each other using a secret \"message board,\" and hacked into the…",
-   "published": "2026-08-26T21:36:06.000Z",
-   "dupes": 1,
-   "score": 0.359,
+   "score": 0.351,
    "tier": 3
   },
   {
@@ -364,7 +394,7 @@
     "model"
    ],
    "dupes": 2,
-   "score": 0.348,
+   "score": 0.339,
    "tier": 3
   },
   {
@@ -379,7 +409,7 @@
    "tldr": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
    "published": "2026-08-25T07:05:00.000Z",
    "dupes": 1,
-   "score": 0.336,
+   "score": 0.326,
    "tier": 3
   },
   {
@@ -394,95 +424,7 @@
    "tldr": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
    "published": "2026-08-25T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.336,
-   "tier": 3
-  },
-  {
-   "id": "b058b9480d114833157557e324f052d0cb14a16c",
-   "title": "Google’s new AI transcription edits out your ‘ums’ and ‘ahs’",
-   "url": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
-   "source": "The Verge AI",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages.",
-   "published": "2026-08-26T17:00:00.000Z",
-   "dupes": 1,
-   "score": 0.334,
-   "tier": 3
-  },
-  {
-   "id": "d77e515deef82e75e33b6ef3346bdf3c1e3e582d",
-   "title": "AgentHands: Generating interactive hand gestures for spatially grounded agent conversations in XR",
-   "url": "https://research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr",
-   "source": "Google Research",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Human-Computer Interaction and Visualization",
-   "published": "2026-08-25T19:10:59.000Z",
-   "dupes": 1,
-   "score": 0.333,
-   "tier": 3
-  },
-  {
-   "id": "5309d96554639301b1996d3730666d030e2a3850",
-   "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
-   "url": "https://huggingface.co/blog/train-multi-vector-encoder",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-26T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.332,
-   "tier": 3
-  },
-  {
-   "id": "0c54f135033108d068ad84c31c80ba0069c8ec94",
-   "title": "Funding better evaluations of AI’s impact on wellbeing",
-   "url": "https://www.anthropic.com/news/wellbeing-research-grants",
-   "source": "Anthropic News",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-25T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.328,
-   "tier": 3
-  },
-  {
-   "id": "da55f7d7bd9decaab106ee015dff29c37cee5a81",
-   "title": "Disrupting a new covert influence campaign from Russia",
-   "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
-   "published": "2026-08-25T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.328,
-   "tier": 3
-  },
-  {
-   "id": "cfc376addf8c822433f0700057e399bca195ee0e",
-   "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
-   "url": "https://openai.com/index/introducing-admin-plugin",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
-   "published": "2026-08-25T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.328,
+   "score": 0.326,
    "tier": 3
   },
   {
@@ -500,22 +442,97 @@
     "model"
    ],
    "dupes": 2,
-   "score": 0.328,
+   "score": 0.324,
    "tier": 3
   },
   {
-   "id": "e48c8c80b889055144abddff8406051710f1a011",
-   "title": "Leading Publishers Bring Blockbuster PC Games and Technology to NVIDIA RTX Spark",
-   "url": "https://blogs.nvidia.com/blog/gamescom-rtx-spark-pc-games-technology",
-   "source": "NVIDIA Blog",
+   "id": "0c54f135033108d068ad84c31c80ba0069c8ec94",
+   "title": "Funding better evaluations of AI’s impact on wellbeing",
+   "url": "https://www.anthropic.com/news/wellbeing-research-grants",
+   "source": "Anthropic News",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-25T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.32,
+   "tier": 3
+  },
+  {
+   "id": "da55f7d7bd9decaab106ee015dff29c37cee5a81",
+   "title": "Disrupting a new covert influence campaign from Russia",
+   "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
+   "published": "2026-08-25T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.32,
+   "tier": 3
+  },
+  {
+   "id": "cfc376addf8c822433f0700057e399bca195ee0e",
+   "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+   "url": "https://openai.com/index/introducing-admin-plugin",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
+   "published": "2026-08-25T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.32,
+   "tier": 3
+  },
+  {
+   "id": "d77e515deef82e75e33b6ef3346bdf3c1e3e582d",
+   "title": "AgentHands: Generating interactive hand gestures for spatially grounded agent conversations in XR",
+   "url": "https://research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr",
+   "source": "Google Research",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Human-Computer Interaction and Visualization",
+   "published": "2026-08-25T19:10:59.000Z",
+   "dupes": 1,
+   "score": 0.317,
+   "tier": 3
+  },
+  {
+   "id": "5466e82242f52bfe14f0df7e1f7b9efcc7ed72c9",
+   "title": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
+   "url": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
+   "source": "The Verge AI",
    "org": [
     "nvidia"
    ],
-   "topic": "compute",
-   "tldr": "NVIDIA is bringing the next wave of RTX gaming to the Gamescom conference running this week in Cologne, Germany, with support for new games, anti-cheat technologies and increased visual quality.",
-   "published": "2026-08-25T15:30:48.000Z",
+   "topic": "ai",
+   "tldr": "Nvidia's predicting it will pull in $108 billion in revenue within just a few months.  It wouldn't be the first company to rake in over $100 billion in quarterly revenue - Amazon, Apple, and Alphabet have repeatedly…",
+   "published": "2026-08-26T21:40:53.000Z",
    "dupes": 1,
-   "score": 0.325,
+   "score": 0.317,
+   "tier": 3
+  },
+  {
+   "id": "3f42b441a741af9f9bc3de7721d3d98d1f134a91",
+   "title": "OpenAI’s rogue AI model incident was worse than we thought",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
+   "source": "The Verge AI",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "In July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get access to the internet, allowed AI agents to talk to each other using a secret \"message board,\" and hacked into the…",
+   "published": "2026-08-26T21:36:06.000Z",
+   "dupes": 1,
+   "score": 0.316,
    "tier": 3
   },
   {
@@ -530,33 +547,35 @@
    "tldr": "6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
    "published": "2026-08-24T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.317,
+   "score": 0.313,
    "tier": 3
   },
   {
-   "id": "74043a2c13e42e05cf84893560f1fd94bb4edd2e",
-   "title": "Granite 4.2 LLMs: How They're Built",
-   "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+   "id": "5309d96554639301b1996d3730666d030e2a3850",
+   "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+   "url": "https://huggingface.co/blog/train-multi-vector-encoder",
    "source": "Hugging Face Blog",
    "org": [],
    "topic": "ai",
    "tldr": "",
-   "published": "2026-08-25T15:14:14.000Z",
+   "published": "2026-08-26T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.312,
+   "score": 0.313,
    "tier": 3
   },
   {
-   "id": "f6b26e55a4899220c24a609866e904dd44c2f484",
-   "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-   "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-25T11:39:24.000Z",
+   "id": "e48c8c80b889055144abddff8406051710f1a011",
+   "title": "Leading Publishers Bring Blockbuster PC Games and Technology to NVIDIA RTX Spark",
+   "url": "https://blogs.nvidia.com/blog/gamescom-rtx-spark-pc-games-technology",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "NVIDIA is bringing the next wave of RTX gaming to the Gamescom conference running this week in Cologne, Germany, with support for new games, anti-cheat technologies and increased visual quality.",
+   "published": "2026-08-25T15:30:48.000Z",
    "dupes": 1,
-   "score": 0.306,
+   "score": 0.311,
    "tier": 3
   },
   {
@@ -578,18 +597,44 @@
    "tier": 3
   },
   {
-   "id": "fafcce632f1d4c3ab92ebbf6123fcb85b7f5cc5b",
-   "title": "Moonshot AI wants 30% of what US clouds earn from Kimi K3",
-   "url": "https://thenextweb.com/news/moonshot-k3-revenue-sharing-us-clouds",
-   "source": "HN · Kimi",
-   "org": [
-    "moonshot"
-   ],
+   "id": "74043a2c13e42e05cf84893560f1fd94bb4edd2e",
+   "title": "Granite 4.2 LLMs: How They're Built",
+   "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+   "source": "Hugging Face Blog",
+   "org": [],
    "topic": "ai",
    "tldr": "",
-   "published": "2026-08-26T11:24:38.000Z",
+   "published": "2026-08-25T15:14:14.000Z",
    "dupes": 1,
-   "score": 0.296,
+   "score": 0.299,
+   "tier": 3
+  },
+  {
+   "id": "b058b9480d114833157557e324f052d0cb14a16c",
+   "title": "Google’s new AI transcription edits out your ‘ums’ and ‘ahs’",
+   "url": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
+   "source": "The Verge AI",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages.",
+   "published": "2026-08-26T17:00:00.000Z",
+   "dupes": 1,
+   "score": 0.297,
+   "tier": 3
+  },
+  {
+   "id": "f6b26e55a4899220c24a609866e904dd44c2f484",
+   "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+   "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-25T11:39:24.000Z",
+   "dupes": 1,
+   "score": 0.294,
    "tier": 3
   },
   {
@@ -604,7 +649,7 @@
    "tldr": "To generate intelligence at scale, AI factories run continuously, and their economics are defined by delivered output: tokens per second, tokens per watt, cost per token, utilization and uptime.  That requires AI…",
    "published": "2026-08-24T15:00:54.000Z",
    "dupes": 1,
-   "score": 0.294,
+   "score": 0.289,
    "tier": 3
   },
   {
@@ -619,7 +664,7 @@
    "tldr": "The next era of AI inference won’t be defined by a single breakthrough chip, network or system.  It’ll be defined by how every layer of the AI factory works together.",
    "published": "2026-08-24T15:00:41.000Z",
    "dupes": 1,
-   "score": 0.294,
+   "score": 0.289,
    "tier": 3
   },
   {
@@ -634,7 +679,7 @@
    "tldr": "According to OpenRouter data, agentic AI workloads consume 15x more tokens than a simple chat request.  Why?",
    "published": "2026-08-24T15:00:19.000Z",
    "dupes": 1,
-   "score": 0.294,
+   "score": 0.289,
    "tier": 3
   },
   {
@@ -647,7 +692,7 @@
    "tldr": "",
    "published": "2026-08-25T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.29,
+   "score": 0.283,
    "tier": 3
   },
   {
@@ -681,44 +726,36 @@
    "tier": 3
   },
   {
-   "id": "bcd3314d2ba2a36f1beca03b51a7f7455077a48e",
-   "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
-   "url": "https://huggingface.co/blog/pwc-search",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-21T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.263,
-   "tier": 3
-  },
-  {
-   "id": "68e9fb1705e10808889d0fbe1c1f512e694cac7a",
-   "title": "Measuring benchmark optimization in speech recognition",
-   "url": "https://huggingface.co/blog/asr-benchmark-optimization",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-21T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.263,
-   "tier": 3
-  },
-  {
-   "id": "0f75219d5e8f77b14e4e58865ad88a48a4041118",
-   "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
-   "source": "The Verge AI",
+   "id": "d4b6affdbe48ddc843a0699d532e945d63c02f0c",
+   "title": "New model on Hugging Face: google/timesfm-3.0-pytorch",
+   "url": "https://huggingface.co/google/timesfm-3.0-pytorch",
+   "source": "HF · Google",
    "org": [
-    "openai"
+    "google"
    ],
-   "topic": "compute",
-   "tldr": "OpenAI says its new AI chip, Jalapeño, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday.",
-   "published": "2026-08-25T14:00:00.000Z",
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-24T22:05:51.000Z",
+   "badges": [
+    "model"
+   ],
    "dupes": 1,
-   "score": 0.247,
+   "score": 0.269,
+   "tier": 3
+  },
+  {
+   "id": "fafcce632f1d4c3ab92ebbf6123fcb85b7f5cc5b",
+   "title": "Moonshot AI wants 30% of what US clouds earn from Kimi K3",
+   "url": "https://thenextweb.com/news/moonshot-k3-revenue-sharing-us-clouds",
+   "source": "HN · Kimi",
+   "org": [
+    "moonshot"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-26T11:24:38.000Z",
+   "dupes": 1,
+   "score": 0.267,
    "tier": 3
   },
   {
@@ -733,7 +770,7 @@
    "tldr": "",
    "published": "2026-08-21T10:33:56.000Z",
    "dupes": 1,
-   "score": 0.232,
+   "score": 0.229,
    "tier": 3
   },
   {
