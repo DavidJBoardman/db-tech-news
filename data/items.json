@@ -1,6 +1,49 @@
 {
- "generated": "2026-09-01T19:05:53.775Z",
+ "generated": "2026-09-01T21:52:48.939Z",
  "items": [
+  {
+   "id": "3df5fbd9b80322fba0d8bbd3190c288144e7914f",
+   "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+   "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+   "source": "Hacker News",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-01T17:53:53.000Z",
+   "dupes": 1,
+   "score": 0.638,
+   "tier": 1
+  },
+  {
+   "id": "6880454d5503d6d783f24cb8bd87d021ab40af5c",
+   "title": "NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier",
+   "url": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Con 2026 in Las Vegas Tuesday.  Attacks are now automated.",
+   "published": "2026-09-01T21:19:20.000Z",
+   "dupes": 1,
+   "score": 0.618,
+   "tier": 2
+  },
+  {
+   "id": "23bdbfdbd061867c154a8cc168f33e8b0e0e2b8e",
+   "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+   "url": "https://huggingface.co/blog/allenai/benchmirt",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-01T21:39:07.000Z",
+   "dupes": 1,
+   "score": 0.609,
+   "tier": 2
+  },
   {
    "id": "9658836c8e4ce085379b1e2b45c13ca01d1782f7",
    "title": "Introducing agentic video understanding with Gemini",
@@ -13,8 +56,8 @@
    "tldr": "",
    "published": "2026-09-01T17:08:51.000Z",
    "dupes": 1,
-   "score": 0.625,
-   "tier": 1
+   "score": 0.592,
+   "tier": 2
   },
   {
    "id": "3b5f2688fec1191a6e1065794360de4557d49aa5",
@@ -28,7 +71,7 @@
    "tldr": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations.  See what enterprise leaders can apply.",
    "published": "2026-09-01T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.623,
+   "score": 0.59,
    "tier": 2
   },
   {
@@ -43,22 +86,7 @@
    "tldr": "Climate & Sustainability",
    "published": "2026-09-01T18:40:06.000Z",
    "dupes": 1,
-   "score": 0.619,
-   "tier": 2
-  },
-  {
-   "id": "3df5fbd9b80322fba0d8bbd3190c288144e7914f",
-   "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-   "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-   "source": "Hacker News",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-01T17:53:53.000Z",
-   "dupes": 1,
-   "score": 0.603,
+   "score": 0.584,
    "tier": 2
   },
   {
@@ -73,7 +101,52 @@
    "tldr": "",
    "published": "2026-09-01T10:11:02.000Z",
    "dupes": 1,
-   "score": 0.598,
+   "score": 0.573,
+   "tier": 2
+  },
+  {
+   "id": "123fd05b4f2a5eea76df079a52feb3b21c5061a3",
+   "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
+   "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice",
+   "source": "Hacker News",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-01T20:07:57.000Z",
+   "dupes": 1,
+   "score": 0.552,
+   "tier": 2
+  },
+  {
+   "id": "309be27bdcfe3156d3369d0a4cf6b27fb7f7b99f",
+   "title": "Path to Astra: critical capabilities and frontier safeguards",
+   "url": "https://openai.com/index/path-to-astra",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+   "published": "2026-09-01T13:00:00.000Z",
+   "dupes": 1,
+   "score": 0.549,
+   "tier": 2
+  },
+  {
+   "id": "84c8424078f1fd3d96e9e2c3e8754a1c08fa4d8b",
+   "title": "Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit",
+   "url": "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence",
+   "source": "Hacker News",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-01T20:19:11.000Z",
+   "dupes": 1,
+   "score": 0.546,
    "tier": 2
   },
   {
@@ -88,7 +161,22 @@
    "tldr": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
    "published": "2026-09-01T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.566,
+   "score": 0.539,
+   "tier": 2
+  },
+  {
+   "id": "52dc97c53c27e9fe57e231244b368c5a3daffc08",
+   "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+   "source": "The Verge AI",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unreleased model suite, Astra, in order to shore up its safety work, the company wrote…",
+   "published": "2026-09-01T20:45:49.000Z",
+   "dupes": 1,
+   "score": 0.535,
    "tier": 2
   },
   {
@@ -103,7 +191,7 @@
    "tldr": "Apple is pushing for \"expedited discovery\" in its legal battle against OpenAI over concerns the company is actively destroying evidence, as reported earlier by Bloomberg.",
    "published": "2026-09-01T18:19:26.000Z",
    "dupes": 1,
-   "score": 0.54,
+   "score": 0.505,
    "tier": 2
   },
   {
@@ -118,23 +206,8 @@
    "tldr": "Google has a new suite of creative design tools for Workspace users called Google Pics, which aims to make editing and generating \"professional-grade\" AI images less cumbersome for businesses.",
    "published": "2026-09-01T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.511,
-   "tier": 2
-  },
-  {
-   "id": "f90150b766c309ecad1d97006d4058eb297649df",
-   "title": "Nvidia’s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
-   "url": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
-   "source": "The Verge AI",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Nvidia is officially launching DLSS 5 this week, following a divisive announcement in March where we likened the AI upscaling tech to a \"real-time generative AI filter for video games\" and \"motion smoothing for video…",
-   "published": "2026-09-01T13:00:00.000Z",
-   "dupes": 1,
-   "score": 0.477,
-   "tier": 2
+   "score": 0.479,
+   "tier": 3
   },
   {
    "id": "07a03b3c017c823418ff74257284dd5bb1d900ca",
@@ -148,8 +221,23 @@
    "tldr": "",
    "published": "2026-09-01T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.468,
-   "tier": 2
+   "score": 0.451,
+   "tier": 3
+  },
+  {
+   "id": "f90150b766c309ecad1d97006d4058eb297649df",
+   "title": "Nvidia’s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
+   "url": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
+   "source": "The Verge AI",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Nvidia is officially launching DLSS 5 this week, following a divisive announcement in March where we likened the AI upscaling tech to a \"real-time generative AI filter for video games\" and \"motion smoothing for video…",
+   "published": "2026-09-01T13:00:00.000Z",
+   "dupes": 1,
+   "score": 0.449,
+   "tier": 3
   },
   {
    "id": "85562dc16345cc8b5d0432f25d0402929602cb9f",
@@ -161,8 +249,8 @@
    "tldr": "",
    "published": "2026-09-01T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.43,
-   "tier": 2
+   "score": 0.413,
+   "tier": 3
   },
   {
    "id": "43a66fb75b74fa4c07a24fcf511fc1743e1dc513",
@@ -176,8 +264,8 @@
    "tldr": "Data Management",
    "published": "2026-08-31T17:19:40.000Z",
    "dupes": 1,
-   "score": 0.405,
-   "tier": 2
+   "score": 0.392,
+   "tier": 3
   },
   {
    "id": "9f32692ecb45fd59e9d552327e8e54efb2819b0a",
@@ -194,8 +282,8 @@
     "model"
    ],
    "dupes": 2,
-   "score": 0.401,
-   "tier": 2
+   "score": 0.392,
+   "tier": 3
   },
   {
    "id": "0703988e3a3319168a4bed769fe486164f0f87f1",
@@ -209,7 +297,7 @@
    "tldr": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
    "published": "2026-08-31T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.387,
+   "score": 0.378,
    "tier": 3
   },
   {
@@ -224,7 +312,7 @@
    "tldr": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
    "published": "2026-08-31T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.387,
+   "score": 0.378,
    "tier": 3
   },
   {
@@ -239,7 +327,7 @@
    "tldr": "What if pathology foundation models could do more with less?  GigaPath-Flash and GigaTIME-Flash cut computational demands while maintaining strong performance, opening the door to larger studies and broader exploration.",
    "published": "2026-08-31T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.386,
+   "score": 0.373,
    "tier": 3
   },
   {
@@ -254,22 +342,7 @@
    "tldr": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
    "published": "2026-08-31T04:00:00.000Z",
    "dupes": 1,
-   "score": 0.378,
-   "tier": 3
-  },
-  {
-   "id": "e83ff5faec702b5af3f509f77b67c0a370580d1c",
-   "title": "Improving our alignment and security efforts",
-   "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
-   "source": "Anthropic News",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-31T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.367,
+   "score": 0.37,
    "tier": 3
   },
   {
@@ -288,18 +361,18 @@
    "tier": 3
   },
   {
-   "id": "8b9768eab1b143c486871d45f50a52ea057d813b",
-   "title": "ChatGPT to face tougher regulation in the EU",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
-   "source": "The Verge AI",
+   "id": "e83ff5faec702b5af3f509f77b67c0a370580d1c",
+   "title": "Improving our alignment and security efforts",
+   "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+   "source": "Anthropic News",
    "org": [
-    "openai"
+    "anthropic"
    ],
    "topic": "ai",
-   "tldr": "OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and the spread of illegal content in the European Union.",
-   "published": "2026-08-31T13:27:36.000Z",
+   "tldr": "",
+   "published": "2026-08-31T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.312,
+   "score": 0.36,
    "tier": 3
   },
   {
@@ -348,36 +421,6 @@
    "tier": 3
   },
   {
-   "id": "213e95424861a758fb5dff596fcf41d7548e7662",
-   "title": "Piloting the world's first double-blind AI evaluations",
-   "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations",
-   "source": "Google DeepMind",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Piloting the world's first double-blind AI evaluations",
-   "published": "2026-08-27T12:59:16.000Z",
-   "dupes": 1,
-   "score": 0.303,
-   "tier": 3
-  },
-  {
-   "id": "d575f18cfc606442603913fd6d06f41c24ebdb9f",
-   "title": "Expanding our support for scientists",
-   "url": "https://www.anthropic.com/news/expanding-support-for-scientists",
-   "source": "Anthropic News",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-27T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.302,
-   "tier": 3
-  },
-  {
    "id": "3062d8cdad5fdcd904c8ee54664b2aa34880672b",
    "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
    "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
@@ -405,6 +448,36 @@
    "published": "2026-08-27T03:00:00.000Z",
    "dupes": 1,
    "score": 0.302,
+   "tier": 3
+  },
+  {
+   "id": "213e95424861a758fb5dff596fcf41d7548e7662",
+   "title": "Piloting the world's first double-blind AI evaluations",
+   "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations",
+   "source": "Google DeepMind",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Piloting the world's first double-blind AI evaluations",
+   "published": "2026-08-27T12:59:16.000Z",
+   "dupes": 1,
+   "score": 0.302,
+   "tier": 3
+  },
+  {
+   "id": "d575f18cfc606442603913fd6d06f41c24ebdb9f",
+   "title": "Expanding our support for scientists",
+   "url": "https://www.anthropic.com/news/expanding-support-for-scientists",
+   "source": "Anthropic News",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-27T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.301,
    "tier": 3
   },
   {
@@ -483,6 +556,21 @@
    "tier": 3
   },
   {
+   "id": "8b9768eab1b143c486871d45f50a52ea057d813b",
+   "title": "ChatGPT to face tougher regulation in the EU",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
+   "source": "The Verge AI",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and the spread of illegal content in the European Union.",
+   "published": "2026-08-31T13:27:36.000Z",
+   "dupes": 1,
+   "score": 0.3,
+   "tier": 3
+  },
+  {
    "id": "6ece7d97166e5779403c2e3f843b980fc5f37541",
    "title": "Planetary prediction engine: Automating global models via Earth AI",
    "url": "https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai",
@@ -492,7 +580,7 @@
    ],
    "topic": "ai",
    "tldr": "Earth AI",
-   "published": "2026-08-27T17:37:20.000Z",
+   "published": "2026-08-27T17:37:00.000Z",
    "dupes": 1,
    "score": 0.278,
    "tier": 3
@@ -509,7 +597,7 @@
    "tldr": "NVIDIA’s Gamescom announcements are revealing what’s next for GeForce NOW, with new ways to play, more supported devices and platforms, and even more big PC games headed to the cloud.",
    "published": "2026-08-27T13:00:33.000Z",
    "dupes": 1,
-   "score": 0.278,
+   "score": 0.277,
    "tier": 3
   },
   {
@@ -524,7 +612,7 @@
    "tldr": "NVIDIA Vice President of Hyperscale and HPC Ian Buck hand-delivers Vera CPU systems across the AI ecosystem as Vera begins shipping at scale.",
    "published": "2026-08-27T13:00:17.000Z",
    "dupes": 1,
-   "score": 0.278,
+   "score": 0.277,
    "tier": 3
   },
   {
@@ -538,21 +626,6 @@
    "topic": "ai",
    "tldr": "Health & Bioscience",
    "published": "2026-08-26T18:42:43.000Z",
-   "dupes": 1,
-   "score": 0.276,
-   "tier": 3
-  },
-  {
-   "id": "d77e515deef82e75e33b6ef3346bdf3c1e3e582d",
-   "title": "AgentHands: Generating interactive hand gestures for spatially grounded agent conversations in XR",
-   "url": "https://research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr",
-   "source": "Google Research",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Human-Computer Interaction and Visualization",
-   "published": "2026-08-25T19:10:59.000Z",
    "dupes": 1,
    "score": 0.276,
    "tier": 3
@@ -582,7 +655,7 @@
    "tldr": "",
    "published": "2026-08-28T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.267,
+   "score": 0.266,
    "tier": 3
   },
   {
@@ -610,22 +683,7 @@
    "tldr": "Tom Shaw explains how Meta is using closed-loop liquid cooling to power AI more efficiently.  The post Closed-Loop Cooling Explained: The Plumbing Behind Meta’s AI appeared first on Meta Newsroom .",
    "published": "2026-08-27T21:44:08.000Z",
    "dupes": 1,
-   "score": 0.254,
-   "tier": 3
-  },
-  {
-   "id": "202512972a826b19fc3b782f9159ffb5b25efdbe",
-   "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
-   "source": "The Verge AI",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "Sony Music Publishing and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works.  The companies are…",
-   "published": "2026-08-29T18:19:53.000Z",
-   "dupes": 1,
-   "score": 0.221,
+   "score": 0.253,
    "tier": 3
   },
   {
@@ -640,7 +698,7 @@
    "tldr": "",
    "published": "2026-08-29T00:33:13.000Z",
    "dupes": 1,
-   "score": 0.201,
+   "score": 0.2,
    "tier": 3
   }
  ]
