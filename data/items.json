@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-01T11:52:43.806Z",
+ "generated": "2026-09-01T15:52:26.049Z",
  "items": [
   {
    "id": "cb2a71b215831161112ca6936c5743b787e538d9",
@@ -13,8 +13,23 @@
    "tldr": "",
    "published": "2026-09-01T10:11:02.000Z",
    "dupes": 1,
-   "score": 0.627,
+   "score": 0.631,
    "tier": 1
+  },
+  {
+   "id": "f90150b766c309ecad1d97006d4058eb297649df",
+   "title": "Nvidia’s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
+   "url": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
+   "source": "The Verge AI",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Nvidia is officially launching DLSS 5 this week, following a divisive announcement in March where we likened the AI upscaling tech to a \"real-time generative AI filter for video games\" and \"motion smoothing for video…",
+   "published": "2026-09-01T13:00:00.000Z",
+   "dupes": 1,
+   "score": 0.513,
+   "tier": 2
   },
   {
    "id": "b03e2b0176b5a9f3ef1d1e6d1684a756c8d574ce",
@@ -26,7 +41,20 @@
    "tldr": "",
    "published": "2026-09-01T03:16:36.000Z",
    "dupes": 1,
-   "score": 0.601,
+   "score": 0.512,
+   "tier": 2
+  },
+  {
+   "id": "85562dc16345cc8b5d0432f25d0402929602cb9f",
+   "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+   "url": "https://huggingface.co/blog/webgpu-kernels",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-01T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.452,
    "tier": 2
   },
   {
@@ -41,7 +69,7 @@
    "tldr": "Data Management",
    "published": "2026-08-31T17:19:40.000Z",
    "dupes": 1,
-   "score": 0.446,
+   "score": 0.422,
    "tier": 2
   },
   {
@@ -59,7 +87,7 @@
     "model"
    ],
    "dupes": 2,
-   "score": 0.435,
+   "score": 0.414,
    "tier": 2
   },
   {
@@ -74,7 +102,7 @@
    "tldr": "What if pathology foundation models could do more with less?  GigaPath-Flash and GigaTIME-Flash cut computational demands while maintaining strong performance, opening the door to larger studies and broader exploration.",
    "published": "2026-08-31T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.425,
+   "score": 0.402,
    "tier": 2
   },
   {
@@ -89,7 +117,7 @@
    "tldr": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
    "published": "2026-08-31T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.415,
+   "score": 0.399,
    "tier": 2
   },
   {
@@ -104,7 +132,7 @@
    "tldr": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
    "published": "2026-08-31T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.415,
+   "score": 0.399,
    "tier": 2
   },
   {
@@ -119,7 +147,7 @@
    "tldr": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
    "published": "2026-08-31T04:00:00.000Z",
    "dupes": 1,
-   "score": 0.403,
+   "score": 0.388,
    "tier": 2
   },
   {
@@ -134,7 +162,7 @@
    "tldr": "",
    "published": "2026-08-31T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.388,
+   "score": 0.375,
    "tier": 2
   },
   {
@@ -149,7 +177,7 @@
    "tldr": "We’re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers.",
    "published": "2026-08-27T00:00:00.000Z",
    "dupes": 2,
-   "score": 0.365,
+   "score": 0.364,
    "tier": 2
   },
   {
@@ -164,7 +192,7 @@
    "tldr": "OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and the spread of illegal content in the European Union.",
    "published": "2026-08-31T13:27:36.000Z",
    "dupes": 1,
-   "score": 0.348,
+   "score": 0.327,
    "tier": 2
   },
   {
@@ -179,8 +207,8 @@
    "tldr": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
    "published": "2026-08-28T06:00:00.000Z",
    "dupes": 1,
-   "score": 0.307,
-   "tier": 2
+   "score": 0.306,
+   "tier": 3
   },
   {
    "id": "0b00c80d502cc3ab98e0f64ac864e5a386422b64",
@@ -194,37 +222,7 @@
    "tldr": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
    "published": "2026-08-28T02:00:00.000Z",
    "dupes": 1,
-   "score": 0.306,
-   "tier": 2
-  },
-  {
-   "id": "5b132fba12b8380b6a6d953b9ce14cfeff5596df",
-   "title": "Gemini Omni 1.1 Flash lets you build with more control",
-   "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control",
-   "source": "Google DeepMind",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-27T16:11:32.000Z",
-   "dupes": 1,
-   "score": 0.304,
-   "tier": 3
-  },
-  {
-   "id": "213e95424861a758fb5dff596fcf41d7548e7662",
-   "title": "Piloting the world's first double-blind AI evaluations",
-   "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations",
-   "source": "Google DeepMind",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Piloting the world's first double-blind AI evaluations",
-   "published": "2026-08-27T12:59:16.000Z",
-   "dupes": 1,
-   "score": 0.304,
+   "score": 0.305,
    "tier": 3
   },
   {
@@ -238,6 +236,36 @@
    "topic": "ai",
    "tldr": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
    "published": "2026-08-27T09:00:00.000Z",
+   "dupes": 1,
+   "score": 0.303,
+   "tier": 3
+  },
+  {
+   "id": "5b132fba12b8380b6a6d953b9ce14cfeff5596df",
+   "title": "Gemini Omni 1.1 Flash lets you build with more control",
+   "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control",
+   "source": "Google DeepMind",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-27T16:11:32.000Z",
+   "dupes": 1,
+   "score": 0.303,
+   "tier": 3
+  },
+  {
+   "id": "213e95424861a758fb5dff596fcf41d7548e7662",
+   "title": "Piloting the world's first double-blind AI evaluations",
+   "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations",
+   "source": "Google DeepMind",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Piloting the world's first double-blind AI evaluations",
+   "published": "2026-08-27T12:59:16.000Z",
    "dupes": 1,
    "score": 0.303,
    "tier": 3
@@ -268,21 +296,6 @@
    "topic": "ai",
    "tldr": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
    "published": "2026-08-27T03:00:00.000Z",
-   "dupes": 1,
-   "score": 0.302,
-   "tier": 3
-  },
-  {
-   "id": "fe44bb74545b425fe91c19fe37078f9e9ba100ba",
-   "title": "Intelligent transcription with Gemini 3.5 Transcribe",
-   "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe",
-   "source": "Google DeepMind",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "5 Transcribe.",
-   "published": "2026-08-26T17:01:00.000Z",
    "dupes": 1,
    "score": 0.302,
    "tier": 3
@@ -348,6 +361,21 @@
    "tier": 3
   },
   {
+   "id": "fe44bb74545b425fe91c19fe37078f9e9ba100ba",
+   "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+   "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe",
+   "source": "Google DeepMind",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "5 Transcribe.",
+   "published": "2026-08-26T17:01:00.000Z",
+   "dupes": 1,
+   "score": 0.301,
+   "tier": 3
+  },
+  {
    "id": "6ece7d97166e5779403c2e3f843b980fc5f37541",
    "title": "Planetary prediction engine: Automating global models via Earth AI",
    "url": "https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai",
@@ -374,7 +402,7 @@
    "tldr": "NVIDIA’s Gamescom announcements are revealing what’s next for GeForce NOW, with new ways to play, more supported devices and platforms, and even more big PC games headed to the cloud.",
    "published": "2026-08-27T13:00:33.000Z",
    "dupes": 1,
-   "score": 0.279,
+   "score": 0.278,
    "tier": 3
   },
   {
@@ -389,7 +417,7 @@
    "tldr": "NVIDIA Vice President of Hyperscale and HPC Ian Buck hand-delivers Vera CPU systems across the AI ecosystem as Vera begins shipping at scale.",
    "published": "2026-08-27T13:00:17.000Z",
    "dupes": 1,
-   "score": 0.279,
+   "score": 0.278,
    "tier": 3
   },
   {
@@ -438,21 +466,6 @@
    "tier": 3
   },
   {
-   "id": "e48c8c80b889055144abddff8406051710f1a011",
-   "title": "Leading Publishers Bring Blockbuster PC Games and Technology to NVIDIA RTX Spark",
-   "url": "https://blogs.nvidia.com/blog/gamescom-rtx-spark-pc-games-technology",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "NVIDIA is bringing the next wave of RTX gaming to the Gamescom conference running this week in Cologne, Germany, with support for new games, anti-cheat technologies and increased visual quality.",
-   "published": "2026-08-25T15:30:48.000Z",
-   "dupes": 1,
-   "score": 0.276,
-   "tier": 3
-  },
-  {
    "id": "b0b2c2da12a5bc4520ab6807aa5bac3ea5efd4c6",
    "title": "The Open ASR Leaderboard Adds Its First Global South Language",
    "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
@@ -462,7 +475,7 @@
    "tldr": "",
    "published": "2026-08-28T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.268,
+   "score": 0.267,
    "tier": 3
   },
   {
@@ -479,19 +492,6 @@
    "tier": 3
   },
   {
-   "id": "74043a2c13e42e05cf84893560f1fd94bb4edd2e",
-   "title": "Granite 4.2 LLMs: How They're Built",
-   "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-25T15:14:14.000Z",
-   "dupes": 1,
-   "score": 0.263,
-   "tier": 3
-  },
-  {
    "id": "50690b3cc5a91051c9eb9137b3969621c73d07a5",
    "title": "Closed-Loop Cooling Explained: The Plumbing Behind Meta’s AI",
    "url": "https://about.fb.com/news/2026/08/closed-loop-cooling-explained-the-plumbing-behind-metas-ai",
@@ -503,7 +503,7 @@
    "tldr": "Tom Shaw explains how Meta is using closed-loop liquid cooling to power AI more efficiently.  The post Closed-Loop Cooling Explained: The Plumbing Behind Meta’s AI appeared first on Meta Newsroom .",
    "published": "2026-08-27T21:44:08.000Z",
    "dupes": 1,
-   "score": 0.255,
+   "score": 0.254,
    "tier": 3
   },
   {
@@ -518,22 +518,7 @@
    "tldr": "Sony Music Publishing and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works.  The companies are…",
    "published": "2026-08-29T18:19:53.000Z",
    "dupes": 1,
-   "score": 0.228,
-   "tier": 3
-  },
-  {
-   "id": "4650038ff4b1b94f02df8cf97f54416ef6b96b47",
-   "title": "Lawsuit: Grok Not Only Generates Child Porn but Was Also Trained on It",
-   "url": "https://gizmodo.com/grok-not-only-generates-child-porn-but-was-also-trained-on-it-new-lawsuit-claims-2000804488",
-   "source": "HN · xAI",
-   "org": [
-    "xai"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-29T00:33:13.000Z",
-   "dupes": 1,
-   "score": 0.209,
+   "score": 0.224,
    "tier": 3
   },
   {
@@ -548,22 +533,22 @@
    "tldr": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump administration.",
    "published": "2026-08-28T03:14:06.000Z",
    "dupes": 1,
-   "score": 0.206,
+   "score": 0.205,
    "tier": 3
   },
   {
-   "id": "01f0ee112f1e7424c74ff71f6030a2e1ee2b0978",
-   "title": "Google’s AI note-taking app now allows you to interact with books",
-   "url": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
-   "source": "The Verge AI",
+   "id": "4650038ff4b1b94f02df8cf97f54416ef6b96b47",
+   "title": "Lawsuit: Grok Not Only Generates Child Porn but Was Also Trained on It",
+   "url": "https://gizmodo.com/grok-not-only-generates-child-porn-but-was-also-trained-on-it-new-lawsuit-claims-2000804488",
+   "source": "HN · xAI",
    "org": [
-    "google"
+    "xai"
    ],
    "topic": "ai",
-   "tldr": "Google's AI note-taking app, Gemini Notebook, can now pull information from the books you've purchased.",
-   "published": "2026-08-27T19:30:00.000Z",
+   "tldr": "",
+   "published": "2026-08-29T00:33:13.000Z",
    "dupes": 1,
-   "score": 0.205,
+   "score": 0.204,
    "tier": 3
   }
  ]
