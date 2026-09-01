@@ -1,49 +1,32 @@
 {
- "generated": "2026-09-01T01:00:57.690Z",
+ "generated": "2026-09-01T06:25:41.461Z",
  "items": [
   {
-   "id": "313e6f4d324a84535890cbace30ebe54d4aafe09",
-   "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
-   "url": "https://webiterate.dev/google-removed-extensions-ublock-origin-108",
+   "id": "b03e2b0176b5a9f3ef1d1e6d1684a756c8d574ce",
+   "title": "GPU World",
+   "url": "https://www.gpuworld.org/",
+   "source": "Hacker News",
+   "org": [],
+   "topic": "compute",
+   "tldr": "",
+   "published": "2026-09-01T03:16:36.000Z",
+   "dupes": 1,
+   "score": 0.569,
+   "tier": 1
+  },
+  {
+   "id": "54e0ca16c4e4b0de05a0871d05c5d7e3dc5ee369",
+   "title": "Google Antigravity introduces Boost deep reasoning (/boost)",
+   "url": "https://antigravity.google/docs/boost",
    "source": "Hacker News",
    "org": [
     "google"
    ],
    "topic": "ai",
    "tldr": "",
-   "published": "2026-08-31T21:10:58.000Z",
+   "published": "2026-09-01T03:05:55.000Z",
    "dupes": 1,
-   "score": 0.652,
-   "tier": 1
-  },
-  {
-   "id": "43a66fb75b74fa4c07a24fcf511fc1743e1dc513",
-   "title": "TimesFM-3: A zero-shot foundation model for multivariate forecasting",
-   "url": "https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting",
-   "source": "Google Research",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Data Management",
-   "published": "2026-08-31T17:19:40.000Z",
-   "dupes": 1,
-   "score": 0.535,
-   "tier": 2
-  },
-  {
-   "id": "1e90334d4d649bed8bfc047e2d3cb2c94ad7a2ad",
-   "title": "GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with efficient pathology foundation models",
-   "url": "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models",
-   "source": "Microsoft Research",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "What if pathology foundation models could do more with less?  GigaPath-Flash and GigaTIME-Flash cut computational demands while maintaining strong performance, opening the door to larger studies and broader exploration.",
-   "published": "2026-08-31T16:00:00.000Z",
-   "dupes": 1,
-   "score": 0.51,
+   "score": 0.554,
    "tier": 2
   },
   {
@@ -58,7 +41,22 @@
    "tldr": "",
    "published": "2026-08-31T14:07:15.000Z",
    "dupes": 1,
-   "score": 0.49,
+   "score": 0.537,
+   "tier": 2
+  },
+  {
+   "id": "43a66fb75b74fa4c07a24fcf511fc1743e1dc513",
+   "title": "TimesFM-3: A zero-shot foundation model for multivariate forecasting",
+   "url": "https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting",
+   "source": "Google Research",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Data Management",
+   "published": "2026-08-31T17:19:40.000Z",
+   "dupes": 1,
+   "score": 0.486,
    "tier": 2
   },
   {
@@ -76,7 +74,37 @@
     "model"
    ],
    "dupes": 2,
-   "score": 0.489,
+   "score": 0.465,
+   "tier": 2
+  },
+  {
+   "id": "1e90334d4d649bed8bfc047e2d3cb2c94ad7a2ad",
+   "title": "GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with efficient pathology foundation models",
+   "url": "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models",
+   "source": "Microsoft Research",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "What if pathology foundation models could do more with less?  GigaPath-Flash and GigaTIME-Flash cut computational demands while maintaining strong performance, opening the door to larger studies and broader exploration.",
+   "published": "2026-08-31T16:00:00.000Z",
+   "dupes": 1,
+   "score": 0.463,
+   "tier": 2
+  },
+  {
+   "id": "0703988e3a3319168a4bed769fe486164f0f87f1",
+   "title": "OpenAI supports California’s bill to advance youth AI safety",
+   "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
+   "published": "2026-08-31T07:00:00.000Z",
+   "dupes": 1,
+   "score": 0.442,
    "tier": 2
   },
   {
@@ -91,22 +119,7 @@
    "tldr": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
    "published": "2026-08-31T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.475,
-   "tier": 2
-  },
-  {
-   "id": "44f61163770f758b1f0f7a7a6d001be1ca835622",
-   "title": "A milestone in expanding access to AI",
-   "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
-   "published": "2026-08-31T04:00:00.000Z",
-   "dupes": 1,
-   "score": 0.456,
+   "score": 0.442,
    "tier": 2
   },
   {
@@ -128,6 +141,21 @@
    "tier": 2
   },
   {
+   "id": "44f61163770f758b1f0f7a7a6d001be1ca835622",
+   "title": "A milestone in expanding access to AI",
+   "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+   "published": "2026-08-31T04:00:00.000Z",
+   "dupes": 1,
+   "score": 0.426,
+   "tier": 2
+  },
+  {
    "id": "e83ff5faec702b5af3f509f77b67c0a370580d1c",
    "title": "Improving our alignment and security efforts",
    "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
@@ -139,7 +167,7 @@
    "tldr": "",
    "published": "2026-08-31T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.434,
+   "score": 0.408,
    "tier": 2
   },
   {
@@ -154,7 +182,7 @@
    "tldr": "OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and the spread of illegal content in the European Union.",
    "published": "2026-08-31T13:27:36.000Z",
    "dupes": 1,
-   "score": 0.424,
+   "score": 0.382,
    "tier": 2
   },
   {
@@ -169,7 +197,7 @@
    "tldr": "We’re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers.",
    "published": "2026-08-27T00:00:00.000Z",
    "dupes": 2,
-   "score": 0.366,
+   "score": 0.365,
    "tier": 2
   },
   {
@@ -184,8 +212,8 @@
    "tldr": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
    "published": "2026-08-28T06:00:00.000Z",
    "dupes": 1,
-   "score": 0.311,
-   "tier": 2
+   "score": 0.309,
+   "tier": 3
   },
   {
    "id": "0b00c80d502cc3ab98e0f64ac864e5a386422b64",
@@ -199,8 +227,8 @@
    "tldr": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
    "published": "2026-08-28T02:00:00.000Z",
    "dupes": 1,
-   "score": 0.309,
-   "tier": 2
+   "score": 0.307,
+   "tier": 3
   },
   {
    "id": "5b132fba12b8380b6a6d953b9ce14cfeff5596df",
@@ -214,7 +242,7 @@
    "tldr": "",
    "published": "2026-08-27T16:11:32.000Z",
    "dupes": 1,
-   "score": 0.306,
+   "score": 0.305,
    "tier": 3
   },
   {
@@ -229,7 +257,7 @@
    "tldr": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
    "published": "2026-08-27T09:00:00.000Z",
    "dupes": 1,
-   "score": 0.305,
+   "score": 0.304,
    "tier": 3
   },
   {
@@ -243,21 +271,6 @@
    "topic": "ai",
    "tldr": "Piloting the world's first double-blind AI evaluations",
    "published": "2026-08-27T12:59:16.000Z",
-   "dupes": 1,
-   "score": 0.305,
-   "tier": 3
-  },
-  {
-   "id": "57e276283c193e59268986f47b5c41859b0e7301",
-   "title": "Expanding OpenAI’s presence in Brazil",
-   "url": "https://openai.com/index/expanding-our-presence-in-brazil",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
-   "published": "2026-08-27T03:00:00.000Z",
    "dupes": 1,
    "score": 0.304,
    "tier": 3
@@ -278,18 +291,33 @@
    "tier": 3
   },
   {
-   "id": "fe44bb74545b425fe91c19fe37078f9e9ba100ba",
-   "title": "Intelligent transcription with Gemini 3.5 Transcribe",
-   "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe",
-   "source": "Google DeepMind",
+   "id": "57e276283c193e59268986f47b5c41859b0e7301",
+   "title": "Expanding OpenAI’s presence in Brazil",
+   "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+   "source": "OpenAI Blog",
    "org": [
-    "google"
+    "openai"
    ],
    "topic": "ai",
-   "tldr": "5 Transcribe.",
-   "published": "2026-08-26T17:01:00.000Z",
+   "tldr": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
+   "published": "2026-08-27T03:00:00.000Z",
    "dupes": 1,
    "score": 0.303,
+   "tier": 3
+  },
+  {
+   "id": "d6bb1031e66bcecd18dddab51a5171444a098cf8",
+   "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+   "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "S.  school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+   "published": "2026-08-26T10:00:00.000Z",
+   "dupes": 1,
+   "score": 0.302,
    "tier": 3
   },
   {
@@ -308,16 +336,16 @@
    "tier": 3
   },
   {
-   "id": "d6bb1031e66bcecd18dddab51a5171444a098cf8",
-   "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-   "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-   "source": "OpenAI Blog",
+   "id": "fe44bb74545b425fe91c19fe37078f9e9ba100ba",
+   "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+   "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe",
+   "source": "Google DeepMind",
    "org": [
-    "openai"
+    "google"
    ],
    "topic": "ai",
-   "tldr": "S.  school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
-   "published": "2026-08-26T10:00:00.000Z",
+   "tldr": "5 Transcribe.",
+   "published": "2026-08-26T17:01:00.000Z",
    "dupes": 1,
    "score": 0.302,
    "tier": 3
@@ -394,7 +422,7 @@
    "tldr": "Earth AI",
    "published": "2026-08-27T17:37:20.000Z",
    "dupes": 1,
-   "score": 0.282,
+   "score": 0.28,
    "tier": 3
   },
   {
@@ -409,7 +437,7 @@
    "tldr": "NVIDIA’s Gamescom announcements are revealing what’s next for GeForce NOW, with new ways to play, more supported devices and platforms, and even more big PC games headed to the cloud.",
    "published": "2026-08-27T13:00:33.000Z",
    "dupes": 1,
-   "score": 0.28,
+   "score": 0.279,
    "tier": 3
   },
   {
@@ -424,7 +452,7 @@
    "tldr": "NVIDIA Vice President of Hyperscale and HPC Ian Buck hand-delivers Vera CPU systems across the AI ecosystem as Vera begins shipping at scale.",
    "published": "2026-08-27T13:00:17.000Z",
    "dupes": 1,
-   "score": 0.28,
+   "score": 0.279,
    "tier": 3
   },
   {
@@ -439,7 +467,7 @@
    "tldr": "Health & Bioscience",
    "published": "2026-08-26T18:42:43.000Z",
    "dupes": 1,
-   "score": 0.278,
+   "score": 0.277,
    "tier": 3
   },
   {
@@ -454,7 +482,7 @@
    "tldr": "The next wave of AI is placing new demands on infrastructure.  As AI agents and trillion-parameter workloads become mainstream, the performance of AI infrastructure depends not only on compute, but on how compute,…",
    "published": "2026-08-26T21:05:30.000Z",
    "dupes": 1,
-   "score": 0.278,
+   "score": 0.277,
    "tier": 3
   },
   {
@@ -497,7 +525,7 @@
    "tldr": "",
    "published": "2026-08-28T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.271,
+   "score": 0.269,
    "tier": 3
   },
   {
@@ -551,7 +579,7 @@
    "tldr": "Tom Shaw explains how Meta is using closed-loop liquid cooling to power AI more efficiently.  The post Closed-Loop Cooling Explained: The Plumbing Behind Meta’s AI appeared first on Meta Newsroom .",
    "published": "2026-08-27T21:44:08.000Z",
    "dupes": 1,
-   "score": 0.258,
+   "score": 0.256,
    "tier": 3
   },
   {
@@ -566,7 +594,7 @@
    "tldr": "Sony Music Publishing and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works.  The companies are…",
    "published": "2026-08-29T18:19:53.000Z",
    "dupes": 1,
-   "score": 0.243,
+   "score": 0.235,
    "tier": 3
   },
   {
@@ -581,7 +609,7 @@
    "tldr": "",
    "published": "2026-08-29T00:33:13.000Z",
    "dupes": 1,
-   "score": 0.214,
+   "score": 0.215,
    "tier": 3
   },
   {
@@ -596,7 +624,7 @@
    "tldr": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump administration.",
    "published": "2026-08-28T03:14:06.000Z",
    "dupes": 1,
-   "score": 0.209,
+   "score": 0.208,
    "tier": 3
   },
   {
@@ -611,7 +639,7 @@
    "tldr": "Google's AI note-taking app, Gemini Notebook, can now pull information from the books you've purchased.",
    "published": "2026-08-27T19:30:00.000Z",
    "dupes": 1,
-   "score": 0.207,
+   "score": 0.206,
    "tier": 3
   }
  ]
