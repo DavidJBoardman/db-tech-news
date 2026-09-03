@@ -1,6 +1,21 @@
 {
- "generated": "2026-09-03T09:21:25.152Z",
+ "generated": "2026-09-03T13:42:48.601Z",
  "items": [
+  {
+   "id": "7f85661884a2d7c41fa5133b712a8c40a6b39beb",
+   "title": "NVIDIA to Acquire Hugging Face",
+   "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "I’m excited to announce that NVIDIA has agreed to acquire Hugging Face for $12,930,300,000.  Together, we will scale Hugging Face’s platform, strengthen its infrastructure and expand access to AI for developers and…",
+   "published": "2026-09-03T11:59:49.000Z",
+   "dupes": 2,
+   "score": 0.673,
+   "tier": 1
+  },
   {
    "id": "a9b9d17f3a5b6e12344f4e39a5695cef64c01fa4",
    "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
@@ -13,8 +28,107 @@
    "tldr": "",
    "published": "2026-09-02T16:18:31.000Z",
    "dupes": 2,
-   "score": 0.694,
-   "tier": 1
+   "score": 0.666,
+   "tier": 2
+  },
+  {
+   "id": "bb3f7f8446854a98811ad82b0c00999789123ee5",
+   "title": "‘NBA 2K27’ With NVIDIA DLSS 5 Leads 26 New Games Coming to GeForce NOW",
+   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "September is here with 26 more games streaming on GeForce NOW this month, led by a slam dunk: NBA 2K27 with the NVIDIA DLSS 5 3D-Guided Neural Rendering feature.",
+   "published": "2026-09-03T13:00:35.000Z",
+   "dupes": 1,
+   "score": 0.616,
+   "tier": 2
+  },
+  {
+   "id": "96a3500c5a4b2fb77e93f3b5d20c1e4767183efb",
+   "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+   "url": "https://huggingface.co/blog/Hcompany/neomme",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-03T13:13:48.000Z",
+   "dupes": 1,
+   "score": 0.606,
+   "tier": 2
+  },
+  {
+   "id": "52a8d0c314844e97c87c65c075d262edb8c56225",
+   "title": "Nvidia is buying Hugging Face for almost $13 billion",
+   "url": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
+   "source": "The Verge AI",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "ai",
+   "tldr": "93 billion, bringing one of the most popular hosting platforms for open-source AI models, datasets, and tools under the ownership of the world's biggest AI chipmaker.",
+   "published": "2026-09-03T12:12:06.000Z",
+   "dupes": 1,
+   "score": 0.53,
+   "tier": 2
+  },
+  {
+   "id": "f9e11e325fe9a5acbe716d09795db464ef2e09a2",
+   "title": "Google Antigravity TOS: 3rd party usage can get Google account suspended",
+   "url": "https://twitter.com/GergelyOrosz/status/2095453567955968398",
+   "source": "Hacker News",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-03T11:01:04.000Z",
+   "dupes": 1,
+   "score": 0.523,
+   "tier": 2
+  },
+  {
+   "id": "64447158c810cb2a0886542194cf79be9696fa7c",
+   "title": "Claude for Commerce Agents",
+   "url": "https://claude.com/blog/claude-for-commerce-agents",
+   "source": "Hacker News",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-03T09:37:55.000Z",
+   "dupes": 1,
+   "score": 0.502,
+   "tier": 2
+  },
+  {
+   "id": "45020768fad998be30cc59ab898a2b1f3f932dee",
+   "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+   "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-03T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.469,
+   "tier": 2
+  },
+  {
+   "id": "86b47b47cb7422fd9b93f65f85241fa63ab8d849",
+   "title": "Give Your Coding Agents a Memory You Own",
+   "url": "https://huggingface.co/blog/funes",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-03T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.469,
+   "tier": 2
   },
   {
    "id": "b844bdeeb825fb68f0688986bae7ade427f914a7",
@@ -26,7 +140,7 @@
    "tldr": "",
    "published": "2026-09-03T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.507,
+   "score": 0.469,
    "tier": 2
   },
   {
@@ -41,7 +155,7 @@
    "tldr": "",
    "published": "2026-09-02T16:24:24.000Z",
    "dupes": 1,
-   "score": 0.482,
+   "score": 0.454,
    "tier": 2
   },
   {
@@ -56,20 +170,7 @@
    "tldr": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more.  It even turned merchandise photos into an inventory website in 15 minutes.",
    "published": "2026-09-02T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.454,
-   "tier": 2
-  },
-  {
-   "id": "22915ca8a27338bffdf8780d1f76e125a675532a",
-   "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-   "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-02T13:49:14.000Z",
-   "dupes": 1,
-   "score": 0.427,
+   "score": 0.43,
    "tier": 2
   },
   {
@@ -84,8 +185,21 @@
    "tldr": "",
    "published": "2026-09-02T14:46:16.000Z",
    "dupes": 1,
-   "score": 0.427,
+   "score": 0.404,
    "tier": 2
+  },
+  {
+   "id": "22915ca8a27338bffdf8780d1f76e125a675532a",
+   "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+   "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-02T13:49:14.000Z",
+   "dupes": 1,
+   "score": 0.402,
+   "tier": 3
   },
   {
    "id": "535ee29f1ad18ff7da76a0482cfd234a88c8d9a7",
@@ -99,53 +213,8 @@
    "tldr": "8 Flash, arriving just a few weeks after its predecessor.",
    "published": "2026-09-02T20:11:40.000Z",
    "dupes": 1,
-   "score": 0.411,
-   "tier": 2
-  },
-  {
-   "id": "1db8587bd622d47327cadba720e68d2c288411f5",
-   "title": "Researchers fear safety disaster ahead of OpenAI’s Astra release",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety protocols after its agents attacked real targets during testing.",
-   "published": "2026-09-02T16:40:50.000Z",
-   "dupes": 1,
-   "score": 0.384,
-   "tier": 2
-  },
-  {
-   "id": "b94dc7898a32cf30b4599f936b7838baaec2aa3c",
-   "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab.",
-   "published": "2026-09-02T16:12:25.000Z",
-   "dupes": 1,
-   "score": 0.381,
-   "tier": 2
-  },
-  {
-   "id": "6cd28bbd776b6550e0731299b64f88e81dd93bbf",
-   "title": "Google is sending MrBeast into the wilderness, armed with AI",
-   "url": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
-   "source": "The Verge AI",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "MrBeast will feature Gemini, Google Health, and the Fitbit Air in upcoming videos as part of a multi-year partnership with Google.",
-   "published": "2026-09-02T15:47:03.000Z",
-   "dupes": 1,
    "score": 0.378,
-   "tier": 2
+   "tier": 3
   },
   {
    "id": "3b5f2688fec1191a6e1065794360de4557d49aa5",
@@ -159,8 +228,8 @@
    "tldr": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations.  See what enterprise leaders can apply.",
    "published": "2026-09-01T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.374,
-   "tier": 2
+   "score": 0.363,
+   "tier": 3
   },
   {
    "id": "9658836c8e4ce085379b1e2b45c13ca01d1782f7",
@@ -174,23 +243,23 @@
    "tldr": "",
    "published": "2026-09-01T17:08:51.000Z",
    "dupes": 1,
-   "score": 0.374,
-   "tier": 2
+   "score": 0.363,
+   "tier": 3
   },
   {
-   "id": "455599cea252fe3ef54c2ade69efb8c85daf85e5",
-   "title": "OpenAI accused of ‘aiding and abetting’ Tumbler Ridge mass shooting in dozens of new lawsuits",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
+   "id": "1db8587bd622d47327cadba720e68d2c288411f5",
+   "title": "Researchers fear safety disaster ahead of OpenAI’s Astra release",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
    "source": "The Verge AI",
    "org": [
     "openai"
    ],
    "topic": "ai",
-   "tldr": "OpenAI and its CEO Sam Altman are facing 30 new lawsuits that accuse them of providing \"substantial assistance and encouragement\" to the suspect in Canada's Tumbler Ridge school shooting, as reported earlier by…",
-   "published": "2026-09-02T14:35:03.000Z",
+   "tldr": "OpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety protocols after its agents attacked real targets during testing.",
+   "published": "2026-09-02T16:40:50.000Z",
    "dupes": 1,
-   "score": 0.37,
-   "tier": 2
+   "score": 0.356,
+   "tier": 3
   },
   {
    "id": "309be27bdcfe3156d3369d0a4cf6b27fb7f7b99f",
@@ -204,22 +273,22 @@
    "tldr": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
    "published": "2026-09-01T13:00:00.000Z",
    "dupes": 1,
-   "score": 0.363,
+   "score": 0.354,
    "tier": 3
   },
   {
-   "id": "6880454d5503d6d783f24cb8bd87d021ab40af5c",
-   "title": "NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier",
-   "url": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026",
-   "source": "NVIDIA Blog",
+   "id": "b94dc7898a32cf30b4599f936b7838baaec2aa3c",
+   "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
+   "source": "The Verge AI",
    "org": [
-    "nvidia"
+    "openai"
    ],
-   "topic": "compute",
-   "tldr": "Con 2026 in Las Vegas Tuesday.  Attacks are now automated.",
-   "published": "2026-09-01T21:19:20.000Z",
+   "topic": "ai",
+   "tldr": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab.",
+   "published": "2026-09-02T16:12:25.000Z",
    "dupes": 1,
-   "score": 0.362,
+   "score": 0.353,
    "tier": 3
   },
   {
@@ -234,7 +303,52 @@
    "tldr": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
    "published": "2026-09-01T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.361,
+   "score": 0.352,
+   "tier": 3
+  },
+  {
+   "id": "6cd28bbd776b6550e0731299b64f88e81dd93bbf",
+   "title": "Google is sending MrBeast into the wilderness, armed with AI",
+   "url": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
+   "source": "The Verge AI",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "MrBeast will feature Gemini, Google Health, and the Fitbit Air in upcoming videos as part of a multi-year partnership with Google.",
+   "published": "2026-09-02T15:47:03.000Z",
+   "dupes": 1,
+   "score": 0.35,
+   "tier": 3
+  },
+  {
+   "id": "6880454d5503d6d783f24cb8bd87d021ab40af5c",
+   "title": "NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier",
+   "url": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Con 2026 in Las Vegas Tuesday.  Attacks are now automated.",
+   "published": "2026-09-01T21:19:20.000Z",
+   "dupes": 1,
+   "score": 0.349,
+   "tier": 3
+  },
+  {
+   "id": "455599cea252fe3ef54c2ade69efb8c85daf85e5",
+   "title": "OpenAI accused of ‘aiding and abetting’ Tumbler Ridge mass shooting in dozens of new lawsuits",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
+   "source": "The Verge AI",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI and its CEO Sam Altman are facing 30 new lawsuits that accuse them of providing \"substantial assistance and encouragement\" to the suspect in Canada's Tumbler Ridge school shooting, as reported earlier by…",
+   "published": "2026-09-02T14:35:03.000Z",
+   "dupes": 1,
+   "score": 0.344,
    "tier": 3
   },
   {
@@ -249,7 +363,7 @@
    "tldr": "Climate & Sustainability",
    "published": "2026-09-01T18:40:00.000Z",
    "dupes": 1,
-   "score": 0.354,
+   "score": 0.342,
    "tier": 3
   },
   {
@@ -262,7 +376,7 @@
    "tldr": "",
    "published": "2026-09-01T21:39:07.000Z",
    "dupes": 1,
-   "score": 0.351,
+   "score": 0.337,
    "tier": 3
   },
   {
@@ -277,7 +391,7 @@
    "tldr": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
    "published": "2026-09-01T01:00:00.000Z",
    "dupes": 1,
-   "score": 0.34,
+   "score": 0.334,
    "tier": 3
   },
   {
@@ -292,7 +406,7 @@
    "tldr": "",
    "published": "2026-09-01T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.338,
+   "score": 0.333,
    "tier": 3
   },
   {
@@ -310,7 +424,7 @@
     "model"
    ],
    "dupes": 2,
-   "score": 0.335,
+   "score": 0.332,
    "tier": 3
   },
   {
@@ -325,7 +439,7 @@
    "tldr": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
    "published": "2026-08-31T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.32,
+   "score": 0.317,
    "tier": 3
   },
   {
@@ -340,7 +454,7 @@
    "tldr": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
    "published": "2026-08-31T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.32,
+   "score": 0.317,
    "tier": 3
   },
   {
@@ -355,7 +469,7 @@
    "tldr": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
    "published": "2026-08-31T04:00:00.000Z",
    "dupes": 1,
-   "score": 0.318,
+   "score": 0.315,
    "tier": 3
   },
   {
@@ -370,22 +484,7 @@
    "tldr": "",
    "published": "2026-08-31T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.315,
-   "tier": 3
-  },
-  {
-   "id": "43a66fb75b74fa4c07a24fcf511fc1743e1dc513",
-   "title": "TimesFM-3: A zero-shot foundation model for multivariate forecasting",
-   "url": "https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting",
-   "source": "Google Research",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Data Management",
-   "published": "2026-08-31T17:19:40.000Z",
-   "dupes": 1,
-   "score": 0.305,
+   "score": 0.313,
    "tier": 3
   },
   {
@@ -434,18 +533,18 @@
    "tier": 3
   },
   {
-   "id": "213e95424861a758fb5dff596fcf41d7548e7662",
-   "title": "Piloting the world's first double-blind AI evaluations",
-   "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations",
-   "source": "Google DeepMind",
+   "id": "43a66fb75b74fa4c07a24fcf511fc1743e1dc513",
+   "title": "TimesFM-3: A zero-shot foundation model for multivariate forecasting",
+   "url": "https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting",
+   "source": "Google Research",
    "org": [
     "google"
    ],
    "topic": "ai",
-   "tldr": "Piloting the world's first double-blind AI evaluations",
-   "published": "2026-08-27T12:59:16.000Z",
+   "tldr": "Data Management",
+   "published": "2026-08-31T17:19:40.000Z",
    "dupes": 1,
-   "score": 0.301,
+   "score": 0.3,
    "tier": 3
   },
   {
@@ -458,22 +557,7 @@
    "tldr": "",
    "published": "2026-09-01T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
-   "id": "9954f98e0635b90d31ead582bea708a3459f8188",
-   "title": "Google needs Hollywood more than the studios need AI",
-   "url": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
-   "source": "The Verge AI",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Google has reportedly been reaching out to a number of Hollywood's biggest studios, hoping to strike licensing agreements that would allow it to train its AI models on copyrighted material in exchange for massive piles…",
-   "published": "2026-09-01T22:50:29.000Z",
-   "dupes": 1,
-   "score": 0.293,
+   "score": 0.295,
    "tier": 3
   },
   {
@@ -488,37 +572,22 @@
    "tldr": "What if pathology foundation models could do more with less?  GigaPath-Flash and GigaTIME-Flash cut computational demands while maintaining strong performance, opening the door to larger studies and broader exploration.",
    "published": "2026-08-31T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.291,
-   "tier": 3
-  },
-  {
-   "id": "e05e11f4e828a10c7a9bcb324d7159bc911b2e66",
-   "title": "Anthropic launches Claude Fable 5.1 and says it’s up to 45 percent cheaper for agentic work",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
-   "source": "The Verge AI",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "1, address criticisms from customers about price, data retention, and overzealous safeguards.",
-   "published": "2026-09-01T22:01:36.000Z",
-   "dupes": 1,
-   "score": 0.29,
-   "tier": 3
-  },
-  {
-   "id": "52dc97c53c27e9fe57e231244b368c5a3daffc08",
-   "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unreleased model suite, Astra, in order to shore up its safety work, the company wrote…",
-   "published": "2026-09-01T20:45:49.000Z",
-   "dupes": 1,
    "score": 0.286,
+   "tier": 3
+  },
+  {
+   "id": "9954f98e0635b90d31ead582bea708a3459f8188",
+   "title": "Google needs Hollywood more than the studios need AI",
+   "url": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
+   "source": "The Verge AI",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Google has reportedly been reaching out to a number of Hollywood's biggest studios, hoping to strike licensing agreements that would allow it to train its AI models on copyrighted material in exchange for massive piles…",
+   "published": "2026-09-01T22:50:29.000Z",
+   "dupes": 1,
+   "score": 0.278,
    "tier": 3
   },
   {
@@ -537,33 +606,31 @@
    "tier": 3
   },
   {
-   "id": "fe65d1089f3aa13a1e84cdf07565a09f4c702012",
-   "title": "GeForce NOW Gives Gamers More Ways to Play at Gamescom 2026",
-   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-gamescom-2026",
-   "source": "NVIDIA Blog",
+   "id": "e05e11f4e828a10c7a9bcb324d7159bc911b2e66",
+   "title": "Anthropic launches Claude Fable 5.1 and says it’s up to 45 percent cheaper for agentic work",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+   "source": "The Verge AI",
    "org": [
-    "nvidia"
+    "anthropic"
    ],
-   "topic": "compute",
-   "tldr": "NVIDIA’s Gamescom announcements are revealing what’s next for GeForce NOW, with new ways to play, more supported devices and platforms, and even more big PC games headed to the cloud.",
-   "published": "2026-08-27T13:00:33.000Z",
+   "topic": "ai",
+   "tldr": "1, address criticisms from customers about price, data retention, and overzealous safeguards.",
+   "published": "2026-09-01T22:01:36.000Z",
    "dupes": 1,
    "score": 0.276,
    "tier": 3
   },
   {
-   "id": "5edeca695be092aeb08a3e6e47db7ccd22913e57",
-   "title": "Delivering Vera: NVIDIA’s First CPU Built for Agents Is Shipping Now",
-   "url": "https://blogs.nvidia.com/blog/vera-cpu-delivery",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "NVIDIA Vice President of Hyperscale and HPC Ian Buck hand-delivers Vera CPU systems across the AI ecosystem as Vera begins shipping at scale.",
-   "published": "2026-08-27T13:00:17.000Z",
+   "id": "b0b2c2da12a5bc4520ab6807aa5bac3ea5efd4c6",
+   "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+   "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-08-28T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.276,
+   "score": 0.263,
    "tier": 3
   },
   {
@@ -578,20 +645,7 @@
    "tldr": "",
    "published": "2026-09-01T19:42:14.000Z",
    "dupes": 1,
-   "score": 0.272,
-   "tier": 3
-  },
-  {
-   "id": "b0b2c2da12a5bc4520ab6807aa5bac3ea5efd4c6",
-   "title": "The Open ASR Leaderboard Adds Its First Global South Language",
-   "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-08-28T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.263,
+   "score": 0.259,
    "tier": 3
   },
   {
