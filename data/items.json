@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-03T19:59:36.393Z",
+ "generated": "2026-09-03T22:25:54.896Z",
  "items": [
   {
    "id": "0f3b76bc480d3619c3aaf50d3bb915575c29f5aa",
@@ -13,23 +13,8 @@
    "tldr": "",
    "published": "2026-09-03T18:41:05.000Z",
    "dupes": 1,
-   "score": 0.683,
+   "score": 0.653,
    "tier": 1
-  },
-  {
-   "id": "7e80672b84c6dda673cd175b773905e9e1ed5d2a",
-   "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
-   "url": "https://inference-docs.cerebras.ai/models/overview",
-   "source": "Hacker News",
-   "org": [
-    "qwen"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-03T18:32:13.000Z",
-   "dupes": 1,
-   "score": 0.645,
-   "tier": 2
   },
   {
    "id": "d0233605c78a4ce5bc62b731f574784230329e51",
@@ -43,7 +28,7 @@
    "tldr": "General Science",
    "published": "2026-09-03T18:20:31.000Z",
    "dupes": 1,
-   "score": 0.603,
+   "score": 0.574,
    "tier": 2
   },
   {
@@ -58,7 +43,22 @@
    "tldr": "",
    "published": "2026-09-03T15:02:08.000Z",
    "dupes": 1,
-   "score": 0.589,
+   "score": 0.563,
+   "tier": 2
+  },
+  {
+   "id": "7e80672b84c6dda673cd175b773905e9e1ed5d2a",
+   "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+   "url": "https://inference-docs.cerebras.ai/models/overview",
+   "source": "Hacker News",
+   "org": [
+    "qwen"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-03T18:32:13.000Z",
+   "dupes": 1,
+   "score": 0.556,
    "tier": 2
   },
   {
@@ -73,7 +73,7 @@
    "tldr": "General Science",
    "published": "2026-09-03T16:00:03.000Z",
    "dupes": 1,
-   "score": 0.575,
+   "score": 0.548,
    "tier": 2
   },
   {
@@ -88,37 +88,82 @@
    "tldr": "Frontier intelligence is going local.  At IFA 2026, NVIDIA, Microsoft and its partners are teaming up to provide faster inference and new tools that make agents easier to set up and run locally on NVIDIA hardware.",
    "published": "2026-09-03T16:00:59.000Z",
    "dupes": 1,
-   "score": 0.575,
+   "score": 0.548,
    "tier": 2
   },
   {
-   "id": "39c94673650036c2efb69203c4520f75d0f1bc03",
-   "title": "Grok outage",
-   "url": "https://status.x.ai/",
-   "source": "HN · xAI",
+   "id": "5190d2a1dccd48dc131a0e787070b2e338d35788",
+   "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+   "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+   "source": "OpenAI Blog",
    "org": [
-    "xai"
+    "openai"
    ],
    "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-03T15:26:01.000Z",
+   "tldr": "OpenAI introduces Daybreak for Frontline Defenders.  A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+   "published": "2026-09-03T13:15:00.000Z",
    "dupes": 1,
-   "score": 0.56,
+   "score": 0.546,
    "tier": 2
   },
   {
-   "id": "f9e11e325fe9a5acbe716d09795db464ef2e09a2",
-   "title": "Google Antigravity TOS: 3rd party usage can get Google account suspended",
-   "url": "https://twitter.com/GergelyOrosz/status/2095453567955968398",
+   "id": "3725772a521641714457fcb4c960d8f12e3964d2",
+   "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+   "url": "https://armature.tech/blog/which-tools-coding-agents-install",
    "source": "Hacker News",
    "org": [
-    "google"
+    "anthropic"
    ],
    "topic": "ai",
    "tldr": "",
-   "published": "2026-09-03T11:01:04.000Z",
+   "published": "2026-09-03T21:20:34.000Z",
    "dupes": 1,
-   "score": 0.554,
+   "score": 0.539,
+   "tier": 2
+  },
+  {
+   "id": "be4a3c5426264d710c57171337575b69c5e0e6ab",
+   "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+   "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+   "published": "2026-09-03T12:00:00.000Z",
+   "dupes": 1,
+   "score": 0.534,
+   "tier": 2
+  },
+  {
+   "id": "7a45b185cff5308545e040bd4a321330824b79c8",
+   "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+   "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+   "published": "2026-09-03T12:00:00.000Z",
+   "dupes": 1,
+   "score": 0.534,
+   "tier": 2
+  },
+  {
+   "id": "389074cdbd59db099cd3cd342bad9a40326f4139",
+   "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+   "url": "https://arcprize.org/blog/astra",
+   "source": "Hacker News",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-03T19:45:00.000Z",
+   "dupes": 1,
+   "score": 0.534,
    "tier": 2
   },
   {
@@ -133,7 +178,7 @@
    "tldr": "September is here with 28 more games streaming on GeForce NOW this month, led by a slam dunk: NBA 2K27 with the NVIDIA DLSS 5 3D-Guided Neural Rendering feature.",
    "published": "2026-09-03T13:00:35.000Z",
    "dupes": 1,
-   "score": 0.542,
+   "score": 0.518,
    "tier": 2
   },
   {
@@ -148,7 +193,7 @@
    "tldr": "I’m excited to announce that NVIDIA has agreed to acquire Hugging Face for $12,930,300,000.  Together, we will scale Hugging Face’s platform, strengthen its infrastructure and expand access to AI for developers and…",
    "published": "2026-09-03T11:56:49.000Z",
    "dupes": 1,
-   "score": 0.532,
+   "score": 0.509,
    "tier": 2
   },
   {
@@ -161,8 +206,8 @@
    "tldr": "",
    "published": "2026-09-03T13:13:48.000Z",
    "dupes": 1,
-   "score": 0.532,
-   "tier": 2
+   "score": 0.508,
+   "tier": 3
   },
   {
    "id": "0e473f34711ce9d3ac25b285f7fb150bdc1794e2",
@@ -176,25 +221,23 @@
    "tldr": "OpenAI's next big model is here: GPT-6 Astra.  The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use.",
    "published": "2026-09-03T18:00:00.000Z",
    "dupes": 1,
-   "score": 0.524,
-   "tier": 2
+   "score": 0.495,
+   "tier": 3
   },
   {
-   "id": "9578a9a6d849d376c8c8a2f6f3ebe99b6a4be14d",
-   "title": "ChatGPT, Claude, and Grok Are Down",
-   "url": "https://www.macrumors.com/2026/09/03/chatgpt-claude-and-grok-are-down",
+   "id": "39c94673650036c2efb69203c4520f75d0f1bc03",
+   "title": "Grok outage",
+   "url": "https://status.x.ai/",
    "source": "HN · xAI",
    "org": [
-    "xai",
-    "anthropic",
-    "openai"
+    "xai"
    ],
    "topic": "ai",
    "tldr": "",
-   "published": "2026-09-03T15:30:10.000Z",
+   "published": "2026-09-03T15:26:01.000Z",
    "dupes": 1,
-   "score": 0.521,
-   "tier": 2
+   "score": 0.478,
+   "tier": 3
   },
   {
    "id": "37ec33c253da61fbf0f3c4e669eb882ae9d8af5b",
@@ -208,7 +251,7 @@
    "tldr": "Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio.  Let's get the obvious thing out of the…",
    "published": "2026-09-03T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.5,
+   "score": 0.473,
    "tier": 3
   },
   {
@@ -223,7 +266,7 @@
    "tldr": "Google is rolling out AI-powered voice assistant modes for Gmail, Docs, and Keep that allow you to manage the apps by talking to them.",
    "published": "2026-09-03T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.5,
+   "score": 0.473,
    "tier": 3
   },
   {
@@ -240,7 +283,24 @@
    "tldr": "OpenAI's ChatGPT, xAI's Grok, and Anthropic's Claude are back online after they all began experiencing issues around the same time on Thursday.",
    "published": "2026-09-03T15:35:14.000Z",
    "dupes": 1,
-   "score": 0.495,
+   "score": 0.469,
+   "tier": 3
+  },
+  {
+   "id": "9578a9a6d849d376c8c8a2f6f3ebe99b6a4be14d",
+   "title": "ChatGPT, Claude, and Grok Are Down",
+   "url": "https://www.macrumors.com/2026/09/03/chatgpt-claude-and-grok-are-down",
+   "source": "HN · xAI",
+   "org": [
+    "xai",
+    "anthropic",
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-03T15:30:10.000Z",
+   "dupes": 1,
+   "score": 0.467,
    "tier": 3
   },
   {
@@ -255,7 +315,37 @@
    "tldr": "Google is rolling out an updated AI weather model that's supposed to be more accurate, especially when it comes to predicting rain and snowfall.  In the announcement today, the company says it's now able to make…",
    "published": "2026-09-03T15:00:00.000Z",
    "dupes": 1,
-   "score": 0.489,
+   "score": 0.463,
+   "tier": 3
+  },
+  {
+   "id": "f9e11e325fe9a5acbe716d09795db464ef2e09a2",
+   "title": "Google Antigravity TOS: 3rd party usage can get Google account suspended",
+   "url": "https://twitter.com/GergelyOrosz/status/2095453567955968398",
+   "source": "Hacker News",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-03T11:01:04.000Z",
+   "dupes": 1,
+   "score": 0.462,
+   "tier": 3
+  },
+  {
+   "id": "2e155b11d8093d3e923c92601684a4b68a9cbd1e",
+   "title": "Safety overview: GPT-6 Astra",
+   "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
+   "published": "2026-09-03T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.448,
    "tier": 3
   },
   {
@@ -270,46 +360,7 @@
    "tldr": "93 billion, bringing one of the most popular hosting platforms for open-source AI models, datasets, and tools under the ownership of the world's biggest AI chipmaker.",
    "published": "2026-09-03T12:12:06.000Z",
    "dupes": 1,
-   "score": 0.459,
-   "tier": 3
-  },
-  {
-   "id": "45020768fad998be30cc59ab898a2b1f3f932dee",
-   "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-   "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-03T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.425,
-   "tier": 3
-  },
-  {
-   "id": "86b47b47cb7422fd9b93f65f85241fa63ab8d849",
-   "title": "Give Your Coding Agents a Memory You Own",
-   "url": "https://huggingface.co/blog/funes",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-03T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.425,
-   "tier": 3
-  },
-  {
-   "id": "b844bdeeb825fb68f0688986bae7ade427f914a7",
-   "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
-   "url": "https://huggingface.co/blog/train-to-paint-with-code",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-03T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.425,
+   "score": 0.436,
    "tier": 3
   },
   {
@@ -324,7 +375,7 @@
    "tldr": "",
    "published": "2026-09-02T16:24:24.000Z",
    "dupes": 1,
-   "score": 0.421,
+   "score": 0.41,
    "tier": 3
   },
   {
@@ -339,7 +390,46 @@
    "tldr": "",
    "published": "2026-09-02T16:18:31.000Z",
    "dupes": 1,
-   "score": 0.421,
+   "score": 0.41,
+   "tier": 3
+  },
+  {
+   "id": "45020768fad998be30cc59ab898a2b1f3f932dee",
+   "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+   "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-03T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.41,
+   "tier": 3
+  },
+  {
+   "id": "86b47b47cb7422fd9b93f65f85241fa63ab8d849",
+   "title": "Give Your Coding Agents a Memory You Own",
+   "url": "https://huggingface.co/blog/funes",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-03T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.41,
+   "tier": 3
+  },
+  {
+   "id": "b844bdeeb825fb68f0688986bae7ade427f914a7",
+   "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+   "url": "https://huggingface.co/blog/train-to-paint-with-code",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-03T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.41,
    "tier": 3
   },
   {
@@ -354,7 +444,7 @@
    "tldr": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more.  It even turned merchandise photos into an inventory website in 15 minutes.",
    "published": "2026-09-02T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.402,
+   "score": 0.393,
    "tier": 3
   },
   {
@@ -367,7 +457,7 @@
    "tldr": "",
    "published": "2026-09-02T13:49:14.000Z",
    "dupes": 1,
-   "score": 0.372,
+   "score": 0.362,
    "tier": 3
   },
   {
@@ -382,7 +472,7 @@
    "tldr": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations.  See what enterprise leaders can apply.",
    "published": "2026-09-01T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.349,
+   "score": 0.345,
    "tier": 3
   },
   {
@@ -397,7 +487,7 @@
    "tldr": "",
    "published": "2026-09-01T17:08:51.000Z",
    "dupes": 1,
-   "score": 0.349,
+   "score": 0.345,
    "tier": 3
   },
   {
@@ -412,7 +502,7 @@
    "tldr": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
    "published": "2026-09-01T13:00:00.000Z",
    "dupes": 1,
-   "score": 0.342,
+   "score": 0.338,
    "tier": 3
   },
   {
@@ -427,22 +517,22 @@
    "tldr": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
    "published": "2026-09-01T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.341,
+   "score": 0.337,
    "tier": 3
   },
   {
-   "id": "535ee29f1ad18ff7da76a0482cfd234a88c8d9a7",
-   "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
-   "source": "The Verge AI",
+   "id": "6880454d5503d6d783f24cb8bd87d021ab40af5c",
+   "title": "NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier",
+   "url": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026",
+   "source": "NVIDIA Blog",
    "org": [
-    "google"
+    "nvidia"
    ],
-   "topic": "ai",
-   "tldr": "8 Flash, arriving just a few weeks after its predecessor.",
-   "published": "2026-09-02T20:11:40.000Z",
+   "topic": "compute",
+   "tldr": "Con 2026 in Las Vegas Tuesday.  Attacks are now automated.",
+   "published": "2026-09-01T21:19:20.000Z",
    "dupes": 1,
-   "score": 0.34,
+   "score": 0.328,
    "tier": 3
   },
   {
@@ -460,22 +550,22 @@
     "model"
    ],
    "dupes": 2,
-   "score": 0.336,
+   "score": 0.327,
    "tier": 3
   },
   {
-   "id": "6880454d5503d6d783f24cb8bd87d021ab40af5c",
-   "title": "NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier",
-   "url": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026",
-   "source": "NVIDIA Blog",
+   "id": "535ee29f1ad18ff7da76a0482cfd234a88c8d9a7",
+   "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+   "source": "The Verge AI",
    "org": [
-    "nvidia"
+    "google"
    ],
-   "topic": "compute",
-   "tldr": "Con 2026 in Las Vegas Tuesday.  Attacks are now automated.",
-   "published": "2026-09-01T21:19:20.000Z",
+   "topic": "ai",
+   "tldr": "8 Flash, arriving just a few weeks after its predecessor.",
+   "published": "2026-09-02T20:11:40.000Z",
    "dupes": 1,
-   "score": 0.333,
+   "score": 0.327,
    "tier": 3
   },
   {
@@ -490,22 +580,7 @@
    "tldr": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
    "published": "2026-09-01T01:00:00.000Z",
    "dupes": 1,
-   "score": 0.327,
-   "tier": 3
-  },
-  {
-   "id": "ef819e996850bc112ff1e1942bd3fa9e29c39dae",
-   "title": "Mapping global methane emissions from space with deep learning",
-   "url": "https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning",
-   "source": "Google Research",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Climate & Sustainability",
-   "published": "2026-09-01T18:40:00.000Z",
-   "dupes": 1,
-   "score": 0.327,
+   "score": 0.324,
    "tier": 3
   },
   {
@@ -520,22 +595,22 @@
    "tldr": "",
    "published": "2026-09-01T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.326,
+   "score": 0.323,
    "tier": 3
   },
   {
-   "id": "1db8587bd622d47327cadba720e68d2c288411f5",
-   "title": "Researchers fear safety disaster ahead of OpenAI’s Astra release",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
-   "source": "The Verge AI",
+   "id": "ef819e996850bc112ff1e1942bd3fa9e29c39dae",
+   "title": "Mapping global methane emissions from space with deep learning",
+   "url": "https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning",
+   "source": "Google Research",
    "org": [
-    "openai"
+    "google"
    ],
    "topic": "ai",
-   "tldr": "OpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety protocols after its agents attacked real targets during testing.",
-   "published": "2026-09-02T16:40:50.000Z",
+   "tldr": "Climate & Sustainability",
+   "published": "2026-09-01T18:40:00.000Z",
    "dupes": 1,
-   "score": 0.322,
+   "score": 0.323,
    "tier": 3
   },
   {
@@ -548,22 +623,7 @@
    "tldr": "",
    "published": "2026-09-01T21:39:07.000Z",
    "dupes": 1,
-   "score": 0.321,
-   "tier": 3
-  },
-  {
-   "id": "b94dc7898a32cf30b4599f936b7838baaec2aa3c",
-   "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab.",
-   "published": "2026-09-02T16:12:25.000Z",
-   "dupes": 1,
-   "score": 0.32,
+   "score": 0.316,
    "tier": 3
   },
   {
@@ -578,7 +638,7 @@
    "tldr": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
    "published": "2026-08-31T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.313,
+   "score": 0.312,
    "tier": 3
   },
   {
@@ -593,7 +653,7 @@
    "tldr": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
    "published": "2026-08-31T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.313,
+   "score": 0.312,
    "tier": 3
   },
   {
@@ -608,7 +668,22 @@
    "tldr": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
    "published": "2026-08-31T04:00:00.000Z",
    "dupes": 1,
-   "score": 0.312,
+   "score": 0.311,
+   "tier": 3
+  },
+  {
+   "id": "1db8587bd622d47327cadba720e68d2c288411f5",
+   "title": "Researchers fear safety disaster ahead of OpenAI’s Astra release",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
+   "source": "The Verge AI",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety protocols after its agents attacked real targets during testing.",
+   "published": "2026-09-02T16:40:50.000Z",
+   "dupes": 1,
+   "score": 0.311,
    "tier": 3
   },
   {
@@ -623,7 +698,22 @@
    "tldr": "",
    "published": "2026-08-31T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.31,
+   "score": 0.309,
+   "tier": 3
+  },
+  {
+   "id": "b94dc7898a32cf30b4599f936b7838baaec2aa3c",
+   "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
+   "source": "The Verge AI",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab.",
+   "published": "2026-09-02T16:12:25.000Z",
+   "dupes": 1,
+   "score": 0.309,
    "tier": 3
   },
   {
@@ -668,7 +758,7 @@
    "tldr": "Data Management",
    "published": "2026-08-31T17:19:40.000Z",
    "dupes": 1,
-   "score": 0.295,
+   "score": 0.293,
    "tier": 3
   },
   {
@@ -681,7 +771,7 @@
    "tldr": "",
    "published": "2026-09-01T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.288,
+   "score": 0.286,
    "tier": 3
   },
   {
@@ -696,7 +786,7 @@
    "tldr": "What if pathology foundation models could do more with less?  GigaPath-Flash and GigaTIME-Flash cut computational demands while maintaining strong performance, opening the door to larger studies and broader exploration.",
    "published": "2026-08-31T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.281,
+   "score": 0.28,
    "tier": 3
   },
   {
@@ -713,21 +803,6 @@
    "tier": 3
   },
   {
-   "id": "50690b3cc5a91051c9eb9137b3969621c73d07a5",
-   "title": "Closed-Loop Cooling Explained: The Plumbing Behind Meta’s AI",
-   "url": "https://about.fb.com/news/2026/08/closed-loop-cooling-explained-the-plumbing-behind-metas-ai",
-   "source": "Meta Newsroom",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "Tom Shaw explains how Meta is using closed-loop liquid cooling to power AI more efficiently.  The post Closed-Loop Cooling Explained: The Plumbing Behind Meta’s AI appeared first on Meta Newsroom .",
-   "published": "2026-08-27T21:44:08.000Z",
-   "dupes": 1,
-   "score": 0.251,
-   "tier": 3
-  },
-  {
    "id": "cf95b97b16f37f59e6f34fbd759cd8e78684777f",
    "title": "DeepSeek-V3: From Roofline to Reality",
    "url": "https://deepseek-v3.ezyang.com/index.html",
@@ -739,7 +814,7 @@
    "tldr": "",
    "published": "2026-09-01T19:42:14.000Z",
    "dupes": 1,
-   "score": 0.249,
+   "score": 0.239,
    "tier": 3
   }
  ]
