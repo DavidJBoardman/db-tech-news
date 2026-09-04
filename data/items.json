@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-04T04:51:07.172Z",
+ "generated": "2026-09-04T09:14:26.906Z",
  "items": [
   {
    "id": "0f3b76bc480d3619c3aaf50d3bb915575c29f5aa",
@@ -13,23 +13,8 @@
    "tldr": "",
    "published": "2026-09-03T18:41:05.000Z",
    "dupes": 1,
-   "score": 0.587,
+   "score": 0.55,
    "tier": 1
-  },
-  {
-   "id": "d0233605c78a4ce5bc62b731f574784230329e51",
-   "title": "Transfer learning for genomic prediction in underrepresented populations",
-   "url": "https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations",
-   "source": "Google Research",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "General Science",
-   "published": "2026-09-03T18:20:31.000Z",
-   "dupes": 1,
-   "score": 0.509,
-   "tier": 2
   },
   {
    "id": "d75554c78e0fe54a871a452ed74377e3e4786640",
@@ -43,7 +28,22 @@
    "tldr": "",
    "published": "2026-09-03T15:02:08.000Z",
    "dupes": 1,
-   "score": 0.506,
+   "score": 0.474,
+   "tier": 2
+  },
+  {
+   "id": "d0233605c78a4ce5bc62b731f574784230329e51",
+   "title": "Transfer learning for genomic prediction in underrepresented populations",
+   "url": "https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations",
+   "source": "Google Research",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "General Science",
+   "published": "2026-09-03T18:20:31.000Z",
+   "dupes": 1,
+   "score": 0.472,
    "tier": 2
   },
   {
@@ -58,22 +58,7 @@
    "tldr": "OpenAI introduces Daybreak for Frontline Defenders.  A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
    "published": "2026-09-03T13:15:00.000Z",
    "dupes": 1,
-   "score": 0.492,
-   "tier": 2
-  },
-  {
-   "id": "1d99173b7b229c083c3a431695debd9934f99d60",
-   "title": "Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026",
-   "url": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Frontier intelligence is going local.  At IFA 2026, NVIDIA, Microsoft and its partners are teaming up to provide faster inference and new tools that make agents easier to set up and run locally on NVIDIA hardware.",
-   "published": "2026-09-03T16:00:59.000Z",
-   "dupes": 1,
-   "score": 0.489,
+   "score": 0.462,
    "tier": 2
   },
   {
@@ -88,22 +73,22 @@
    "tldr": "General Science",
    "published": "2026-09-03T16:00:03.000Z",
    "dupes": 1,
-   "score": 0.488,
+   "score": 0.455,
    "tier": 2
   },
   {
-   "id": "7e80672b84c6dda673cd175b773905e9e1ed5d2a",
-   "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
-   "url": "https://inference-docs.cerebras.ai/models/overview",
-   "source": "Hacker News",
+   "id": "1d99173b7b229c083c3a431695debd9934f99d60",
+   "title": "Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026",
+   "url": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark",
+   "source": "NVIDIA Blog",
    "org": [
-    "qwen"
+    "nvidia"
    ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-03T18:32:13.000Z",
+   "topic": "compute",
+   "tldr": "Frontier intelligence is going local.  At IFA 2026, NVIDIA, Microsoft and its partners are teaming up to provide faster inference and new tools that make agents easier to set up and run locally on NVIDIA hardware.",
+   "published": "2026-09-03T16:00:59.000Z",
    "dupes": 1,
-   "score": 0.485,
+   "score": 0.455,
    "tier": 2
   },
   {
@@ -118,7 +103,7 @@
    "tldr": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
    "published": "2026-09-03T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.483,
+   "score": 0.454,
    "tier": 2
   },
   {
@@ -133,7 +118,22 @@
    "tldr": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
    "published": "2026-09-03T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.483,
+   "score": 0.454,
+   "tier": 2
+  },
+  {
+   "id": "7e80672b84c6dda673cd175b773905e9e1ed5d2a",
+   "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+   "url": "https://inference-docs.cerebras.ai/models/overview",
+   "source": "Hacker News",
+   "org": [
+    "qwen"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-03T18:32:13.000Z",
+   "dupes": 1,
+   "score": 0.445,
    "tier": 2
   },
   {
@@ -148,7 +148,7 @@
    "tldr": "",
    "published": "2026-09-03T21:20:34.000Z",
    "dupes": 1,
-   "score": 0.476,
+   "score": 0.439,
    "tier": 2
   },
   {
@@ -163,22 +163,7 @@
    "tldr": "September is here with 28 more games streaming on GeForce NOW this month, led by a slam dunk: NBA 2K27 with the NVIDIA DLSS 5 3D-Guided Neural Rendering feature.",
    "published": "2026-09-03T13:00:35.000Z",
    "dupes": 1,
-   "score": 0.465,
-   "tier": 2
-  },
-  {
-   "id": "389074cdbd59db099cd3cd342bad9a40326f4139",
-   "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
-   "url": "https://arcprize.org/blog/astra",
-   "source": "Hacker News",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-03T19:45:00.000Z",
-   "dupes": 1,
-   "score": 0.465,
+   "score": 0.436,
    "tier": 2
   },
   {
@@ -193,7 +178,7 @@
    "tldr": "I’m excited to announce that NVIDIA has agreed to acquire Hugging Face for $12,930,300,000.  Together, we will scale Hugging Face’s platform, strengthen its infrastructure and expand access to AI for developers and…",
    "published": "2026-09-03T11:56:49.000Z",
    "dupes": 1,
-   "score": 0.458,
+   "score": 0.429,
    "tier": 2
   },
   {
@@ -206,7 +191,22 @@
    "tldr": "",
    "published": "2026-09-03T13:13:48.000Z",
    "dupes": 1,
-   "score": 0.454,
+   "score": 0.424,
+   "tier": 2
+  },
+  {
+   "id": "2e155b11d8093d3e923c92601684a4b68a9cbd1e",
+   "title": "Safety overview: GPT-6 Astra",
+   "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
+   "published": "2026-09-03T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.397,
    "tier": 3
   },
   {
@@ -221,22 +221,7 @@
    "tldr": "OpenAI's next big model is here: GPT-6 Astra.  The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use.",
    "published": "2026-09-03T18:00:00.000Z",
    "dupes": 1,
-   "score": 0.43,
-   "tier": 3
-  },
-  {
-   "id": "2e155b11d8093d3e923c92601684a4b68a9cbd1e",
-   "title": "Safety overview: GPT-6 Astra",
-   "url": "https://openai.com/index/safety-overview-gpt-6-astra",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
-   "published": "2026-09-03T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.415,
+   "score": 0.395,
    "tier": 3
   },
   {
@@ -251,7 +236,7 @@
    "tldr": "Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio.  Let's get the obvious thing out of the…",
    "published": "2026-09-03T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.413,
+   "score": 0.38,
    "tier": 3
   },
   {
@@ -266,7 +251,7 @@
    "tldr": "Google is rolling out AI-powered voice assistant modes for Gmail, Docs, and Keep that allow you to manage the apps by talking to them.",
    "published": "2026-09-03T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.413,
+   "score": 0.38,
    "tier": 3
   },
   {
@@ -281,7 +266,7 @@
    "tldr": "",
    "published": "2026-09-03T15:26:01.000Z",
    "dupes": 1,
-   "score": 0.412,
+   "score": 0.377,
    "tier": 3
   },
   {
@@ -298,22 +283,22 @@
    "tldr": "OpenAI's ChatGPT, xAI's Grok, and Anthropic's Claude are back online after they all began experiencing issues around the same time on Thursday.",
    "published": "2026-09-03T15:35:14.000Z",
    "dupes": 1,
-   "score": 0.41,
+   "score": 0.377,
    "tier": 3
   },
   {
-   "id": "f9e11e325fe9a5acbe716d09795db464ef2e09a2",
-   "title": "Google Antigravity TOS: 3rd party usage can get Google account suspended",
-   "url": "https://twitter.com/GergelyOrosz/status/2095453567955968398",
-   "source": "Hacker News",
+   "id": "15c2cbe250fe514713320cd12f59fc931e8b1755",
+   "title": "Proactive cyber defense for governments and enterprises",
+   "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises",
+   "source": "Google DeepMind",
    "org": [
     "google"
    ],
    "topic": "ai",
    "tldr": "",
-   "published": "2026-09-03T11:01:04.000Z",
+   "published": "2026-09-02T16:24:24.000Z",
    "dupes": 1,
-   "score": 0.406,
+   "score": 0.373,
    "tier": 3
   },
   {
@@ -328,7 +313,22 @@
    "tldr": "Google is rolling out an updated AI weather model that's supposed to be more accurate, especially when it comes to predicting rain and snowfall.  In the announcement today, the company says it's now able to make…",
    "published": "2026-09-03T15:00:00.000Z",
    "dupes": 1,
-   "score": 0.405,
+   "score": 0.373,
+   "tier": 3
+  },
+  {
+   "id": "a9b9d17f3a5b6e12344f4e39a5695cef64c01fa4",
+   "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+   "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber",
+   "source": "Google DeepMind",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-02T16:18:31.000Z",
+   "dupes": 1,
+   "score": 0.372,
    "tier": 3
   },
   {
@@ -345,91 +345,7 @@
    "tldr": "",
    "published": "2026-09-03T15:30:10.000Z",
    "dupes": 1,
-   "score": 0.404,
-   "tier": 3
-  },
-  {
-   "id": "15c2cbe250fe514713320cd12f59fc931e8b1755",
-   "title": "Proactive cyber defense for governments and enterprises",
-   "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises",
-   "source": "Google DeepMind",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-02T16:24:24.000Z",
-   "dupes": 1,
-   "score": 0.386,
-   "tier": 3
-  },
-  {
-   "id": "a9b9d17f3a5b6e12344f4e39a5695cef64c01fa4",
-   "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-   "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber",
-   "source": "Google DeepMind",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-02T16:18:31.000Z",
-   "dupes": 1,
-   "score": 0.386,
-   "tier": 3
-  },
-  {
-   "id": "52a8d0c314844e97c87c65c075d262edb8c56225",
-   "title": "Nvidia is buying Hugging Face for almost $13 billion",
-   "url": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
-   "source": "The Verge AI",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "ai",
-   "tldr": "93 billion, bringing one of the most popular hosting platforms for open-source AI models, datasets, and tools under the ownership of the world's biggest AI chipmaker.",
-   "published": "2026-09-03T12:12:06.000Z",
-   "dupes": 1,
-   "score": 0.384,
-   "tier": 3
-  },
-  {
-   "id": "45020768fad998be30cc59ab898a2b1f3f932dee",
-   "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-   "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-03T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.378,
-   "tier": 3
-  },
-  {
-   "id": "86b47b47cb7422fd9b93f65f85241fa63ab8d849",
-   "title": "Give Your Coding Agents a Memory You Own",
-   "url": "https://huggingface.co/blog/funes",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-03T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.378,
-   "tier": 3
-  },
-  {
-   "id": "b844bdeeb825fb68f0688986bae7ade427f914a7",
-   "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
-   "url": "https://huggingface.co/blog/train-to-paint-with-code",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-03T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.378,
+   "score": 0.371,
    "tier": 3
   },
   {
@@ -444,35 +360,61 @@
    "tldr": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more.  It even turned merchandise photos into an inventory website in 15 minutes.",
    "published": "2026-09-02T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.373,
+   "score": 0.361,
    "tier": 3
   },
   {
-   "id": "22915ca8a27338bffdf8780d1f76e125a675532a",
-   "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-   "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+   "id": "45020768fad998be30cc59ab898a2b1f3f932dee",
+   "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+   "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
    "source": "Hugging Face Blog",
    "org": [],
    "topic": "ai",
    "tldr": "",
-   "published": "2026-09-02T13:49:14.000Z",
+   "published": "2026-09-03T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.34,
+   "score": 0.36,
    "tier": 3
   },
   {
-   "id": "3b5f2688fec1191a6e1065794360de4557d49aa5",
-   "title": "How AI-native companies turn workflows into operating capability",
-   "url": "https://openai.com/index/ai-native-company-workflows",
-   "source": "OpenAI Blog",
+   "id": "86b47b47cb7422fd9b93f65f85241fa63ab8d849",
+   "title": "Give Your Coding Agents a Memory You Own",
+   "url": "https://huggingface.co/blog/funes",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-03T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.36,
+   "tier": 3
+  },
+  {
+   "id": "b844bdeeb825fb68f0688986bae7ade427f914a7",
+   "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+   "url": "https://huggingface.co/blog/train-to-paint-with-code",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-03T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.36,
+   "tier": 3
+  },
+  {
+   "id": "52a8d0c314844e97c87c65c075d262edb8c56225",
+   "title": "Nvidia is buying Hugging Face for almost $13 billion",
+   "url": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
+   "source": "The Verge AI",
    "org": [
-    "openai"
+    "nvidia"
    ],
    "topic": "ai",
-   "tldr": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations.  See what enterprise leaders can apply.",
-   "published": "2026-09-01T17:00:00.000Z",
+   "tldr": "93 billion, bringing one of the most popular hosting platforms for open-source AI models, datasets, and tools under the ownership of the world's biggest AI chipmaker.",
+   "published": "2026-09-03T12:12:06.000Z",
    "dupes": 1,
-   "score": 0.335,
+   "score": 0.356,
    "tier": 3
   },
   {
@@ -487,7 +429,35 @@
    "tldr": "",
    "published": "2026-09-01T17:08:51.000Z",
    "dupes": 1,
-   "score": 0.335,
+   "score": 0.33,
+   "tier": 3
+  },
+  {
+   "id": "3b5f2688fec1191a6e1065794360de4557d49aa5",
+   "title": "How AI-native companies turn workflows into operating capability",
+   "url": "https://openai.com/index/ai-native-company-workflows",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations.  See what enterprise leaders can apply.",
+   "published": "2026-09-01T17:00:00.000Z",
+   "dupes": 1,
+   "score": 0.329,
+   "tier": 3
+  },
+  {
+   "id": "22915ca8a27338bffdf8780d1f76e125a675532a",
+   "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+   "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-02T13:49:14.000Z",
+   "dupes": 1,
+   "score": 0.328,
    "tier": 3
   },
   {
@@ -502,7 +472,7 @@
    "tldr": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
    "published": "2026-09-01T13:00:00.000Z",
    "dupes": 1,
-   "score": 0.33,
+   "score": 0.325,
    "tier": 3
   },
   {
@@ -517,7 +487,7 @@
    "tldr": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
    "published": "2026-09-01T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.329,
+   "score": 0.324,
    "tier": 3
   },
   {
@@ -535,7 +505,7 @@
     "model"
    ],
    "dupes": 2,
-   "score": 0.324,
+   "score": 0.322,
    "tier": 3
   },
   {
@@ -550,7 +520,7 @@
    "tldr": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
    "published": "2026-09-01T01:00:00.000Z",
    "dupes": 1,
-   "score": 0.319,
+   "score": 0.316,
    "tier": 3
   },
   {
@@ -565,7 +535,7 @@
    "tldr": "",
    "published": "2026-09-01T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.318,
+   "score": 0.315,
    "tier": 3
   },
   {
@@ -580,22 +550,7 @@
    "tldr": "Con 2026 in Las Vegas Tuesday.  Attacks are now automated.",
    "published": "2026-09-01T21:19:20.000Z",
    "dupes": 1,
-   "score": 0.316,
-   "tier": 3
-  },
-  {
-   "id": "ef819e996850bc112ff1e1942bd3fa9e29c39dae",
-   "title": "Mapping global methane emissions from space with deep learning",
-   "url": "https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning",
-   "source": "Google Research",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Climate & Sustainability",
-   "published": "2026-09-01T18:40:00.000Z",
-   "dupes": 1,
-   "score": 0.312,
+   "score": 0.31,
    "tier": 3
   },
   {
@@ -610,7 +565,7 @@
    "tldr": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
    "published": "2026-08-31T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.309,
+   "score": 0.308,
    "tier": 3
   },
   {
@@ -625,7 +580,7 @@
    "tldr": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
    "published": "2026-08-31T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.309,
+   "score": 0.308,
    "tier": 3
   },
   {
@@ -640,7 +595,7 @@
    "tldr": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
    "published": "2026-08-31T04:00:00.000Z",
    "dupes": 1,
-   "score": 0.308,
+   "score": 0.307,
    "tier": 3
   },
   {
@@ -655,7 +610,22 @@
    "tldr": "",
    "published": "2026-08-31T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.307,
+   "score": 0.306,
+   "tier": 3
+  },
+  {
+   "id": "ef819e996850bc112ff1e1942bd3fa9e29c39dae",
+   "title": "Mapping global methane emissions from space with deep learning",
+   "url": "https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning",
+   "source": "Google Research",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Climate & Sustainability",
+   "published": "2026-09-01T18:40:00.000Z",
+   "dupes": 1,
+   "score": 0.306,
    "tier": 3
   },
   {
@@ -668,37 +638,7 @@
    "tldr": "",
    "published": "2026-09-01T21:39:07.000Z",
    "dupes": 1,
-   "score": 0.304,
-   "tier": 3
-  },
-  {
-   "id": "092c8de02e8b135ec330a69dfe0e592abd521d97",
-   "title": "Our decision on Cursor following its acquisition by SpaceX",
-   "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
-   "published": "2026-08-28T06:00:00.000Z",
-   "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
-   "id": "535ee29f1ad18ff7da76a0482cfd234a88c8d9a7",
-   "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
-   "source": "The Verge AI",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "8 Flash, arriving just a few weeks after its predecessor.",
-   "published": "2026-09-02T20:11:40.000Z",
-   "dupes": 1,
-   "score": 0.3,
+   "score": 0.298,
    "tier": 3
   },
   {
@@ -713,37 +653,22 @@
    "tldr": "Data Management",
    "published": "2026-08-31T17:19:40.000Z",
    "dupes": 1,
-   "score": 0.289,
-   "tier": 3
-  },
-  {
-   "id": "1db8587bd622d47327cadba720e68d2c288411f5",
-   "title": "Researchers fear safety disaster ahead of OpenAI’s Astra release",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety protocols after its agents attacked real targets during testing.",
-   "published": "2026-09-02T16:40:50.000Z",
-   "dupes": 1,
    "score": 0.287,
    "tier": 3
   },
   {
-   "id": "b94dc7898a32cf30b4599f936b7838baaec2aa3c",
-   "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
+   "id": "535ee29f1ad18ff7da76a0482cfd234a88c8d9a7",
+   "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
    "source": "The Verge AI",
    "org": [
-    "openai"
+    "google"
    ],
    "topic": "ai",
-   "tldr": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab.",
-   "published": "2026-09-02T16:12:25.000Z",
+   "tldr": "8 Flash, arriving just a few weeks after its predecessor.",
+   "published": "2026-09-02T20:11:40.000Z",
    "dupes": 1,
-   "score": 0.285,
+   "score": 0.284,
    "tier": 3
   },
   {
@@ -756,7 +681,7 @@
    "tldr": "",
    "published": "2026-09-01T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.281,
+   "score": 0.278,
    "tier": 3
   },
   {
@@ -771,7 +696,37 @@
    "tldr": "What if pathology foundation models could do more with less?  GigaPath-Flash and GigaTIME-Flash cut computational demands while maintaining strong performance, opening the door to larger studies and broader exploration.",
    "published": "2026-08-31T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.276,
+   "score": 0.274,
+   "tier": 3
+  },
+  {
+   "id": "1db8587bd622d47327cadba720e68d2c288411f5",
+   "title": "Researchers fear safety disaster ahead of OpenAI’s Astra release",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
+   "source": "The Verge AI",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety protocols after its agents attacked real targets during testing.",
+   "published": "2026-09-02T16:40:50.000Z",
+   "dupes": 1,
+   "score": 0.273,
+   "tier": 3
+  },
+  {
+   "id": "b94dc7898a32cf30b4599f936b7838baaec2aa3c",
+   "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
+   "source": "The Verge AI",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab.",
+   "published": "2026-09-02T16:12:25.000Z",
+   "dupes": 1,
+   "score": 0.272,
    "tier": 3
   },
   {
@@ -786,7 +741,7 @@
    "tldr": "",
    "published": "2026-09-01T19:42:14.000Z",
    "dupes": 1,
-   "score": 0.228,
+   "score": 0.221,
    "tier": 3
   }
  ]
