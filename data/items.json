@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-07T22:55:32.364Z",
+ "generated": "2026-09-08T00:51:35.132Z",
  "items": [
   {
    "id": "e02ae19def6b6f7c4df88746637a074f37e339ba",
@@ -13,7 +13,7 @@
    "tldr": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
    "published": "2026-09-07T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.445,
+   "score": 0.434,
    "tier": 1
   },
   {
@@ -28,7 +28,7 @@
    "tldr": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned.  He calls for stronger safeguards and international coordination.",
    "published": "2026-09-06T09:00:00.000Z",
    "dupes": 1,
-   "score": 0.381,
+   "score": 0.375,
    "tier": 2
   },
   {
@@ -46,7 +46,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.378,
+   "score": 0.373,
    "tier": 2
   },
   {
@@ -77,7 +77,7 @@
    "tldr": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement.  The two outlets say the company used their journalism as training data for its AI models without…",
    "published": "2026-09-06T23:36:04.000Z",
    "dupes": 1,
-   "score": 0.343,
+   "score": 0.332,
    "tier": 2
   },
   {
@@ -96,6 +96,21 @@
    "tier": 2
   },
   {
+   "id": "d75554c78e0fe54a871a452ed74377e3e4786640",
+   "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+   "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model",
+   "source": "Google DeepMind",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-03T15:02:08.000Z",
+   "dupes": 1,
+   "score": 0.306,
+   "tier": 2
+  },
+  {
    "id": "be4a3c5426264d710c57171337575b69c5e0e6ab",
    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
    "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
@@ -107,7 +122,7 @@
    "tldr": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
    "published": "2026-09-03T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.306,
+   "score": 0.305,
    "tier": 2
   },
   {
@@ -122,22 +137,7 @@
    "tldr": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
    "published": "2026-09-03T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.306,
-   "tier": 2
-  },
-  {
-   "id": "d75554c78e0fe54a871a452ed74377e3e4786640",
-   "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-   "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model",
-   "source": "Google DeepMind",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-03T15:02:08.000Z",
-   "dupes": 1,
-   "score": 0.306,
+   "score": 0.305,
    "tier": 2
   },
   {
@@ -167,36 +167,6 @@
    "tldr": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
    "published": "2026-09-03T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.304,
-   "tier": 2
-  },
-  {
-   "id": "15c2cbe250fe514713320cd12f59fc931e8b1755",
-   "title": "Proactive cyber defense for governments and enterprises",
-   "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises",
-   "source": "Google DeepMind",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-02T16:24:24.000Z",
-   "dupes": 1,
-   "score": 0.303,
-   "tier": 2
-  },
-  {
-   "id": "a9b9d17f3a5b6e12344f4e39a5695cef64c01fa4",
-   "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-   "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber",
-   "source": "Google DeepMind",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-02T16:18:31.000Z",
-   "dupes": 1,
    "score": 0.303,
    "tier": 2
   },
@@ -213,21 +183,36 @@
    "published": "2026-09-02T12:00:00.000Z",
    "dupes": 1,
    "score": 0.302,
-   "tier": 3
+   "tier": 2
   },
   {
-   "id": "07a03b3c017c823418ff74257284dd5bb1d900ca",
-   "title": "Developing Enterprise Frontier Safeguards with our customers",
-   "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
-   "source": "Anthropic News",
+   "id": "15c2cbe250fe514713320cd12f59fc931e8b1755",
+   "title": "Proactive cyber defense for governments and enterprises",
+   "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises",
+   "source": "Google DeepMind",
    "org": [
-    "anthropic"
+    "google"
    ],
    "topic": "ai",
    "tldr": "",
-   "published": "2026-09-01T00:00:00.000Z",
+   "published": "2026-09-02T16:24:24.000Z",
    "dupes": 1,
-   "score": 0.301,
+   "score": 0.302,
+   "tier": 2
+  },
+  {
+   "id": "a9b9d17f3a5b6e12344f4e39a5695cef64c01fa4",
+   "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+   "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber",
+   "source": "Google DeepMind",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-02T16:18:31.000Z",
+   "dupes": 1,
+   "score": 0.302,
    "tier": 3
   },
   {
@@ -332,7 +317,7 @@
    "tldr": "General Science",
    "published": "2026-09-03T16:00:03.000Z",
    "dupes": 1,
-   "score": 0.282,
+   "score": 0.281,
    "tier": 3
   },
   {
@@ -347,7 +332,7 @@
    "tldr": "Frontier intelligence is going local.  At IFA 2026, NVIDIA, Microsoft and its partners are teaming up to provide faster inference and new tools that make agents easier to set up and run locally on NVIDIA hardware.",
    "published": "2026-09-03T16:00:59.000Z",
    "dupes": 1,
-   "score": 0.282,
+   "score": 0.281,
    "tier": 3
   },
   {
@@ -377,7 +362,7 @@
    "tldr": "I’m excited to announce that NVIDIA has agreed to acquire Hugging Face for $12,930,300,000.  Together, we will scale Hugging Face’s platform, strengthen its infrastructure and expand access to AI for developers and…",
    "published": "2026-09-03T11:56:49.000Z",
    "dupes": 1,
-   "score": 0.281,
+   "score": 0.28,
    "tier": 3
   },
   {
@@ -506,19 +491,6 @@
    "tier": 3
   },
   {
-   "id": "85562dc16345cc8b5d0432f25d0402929602cb9f",
-   "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-   "url": "https://huggingface.co/blog/webgpu-kernels",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-01T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.263,
-   "tier": 3
-  },
-  {
    "id": "ac5a64ceef287fadcb62786cab60dbb8e1376a45",
    "title": "OpenAI admits to German wiki ‘incident’",
    "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
@@ -530,7 +502,7 @@
    "tldr": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets.  The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control…",
    "published": "2026-09-05T11:15:55.000Z",
    "dupes": 1,
-   "score": 0.235,
+   "score": 0.233,
    "tier": 3
   },
   {
@@ -545,7 +517,7 @@
    "tldr": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as it fights copyright…",
    "published": "2026-09-04T16:05:57.000Z",
    "dupes": 1,
-   "score": 0.217,
+   "score": 0.216,
    "tier": 3
   },
   {
@@ -560,7 +532,7 @@
    "tldr": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company…",
    "published": "2026-09-04T13:34:12.000Z",
    "dupes": 1,
-   "score": 0.215,
+   "score": 0.214,
    "tier": 3
   },
   {
@@ -575,7 +547,7 @@
    "tldr": "Microsoft is giving its developer-optimized Windows experience a name: Project Zenith.  While the software maker originally announced a similar developer-optimized Windows effort at Build earlier this year, Project…",
    "published": "2026-09-04T10:44:15.000Z",
    "dupes": 1,
-   "score": 0.214,
+   "score": 0.213,
    "tier": 3
   },
   {
@@ -590,7 +562,7 @@
    "tldr": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left waiting.",
    "published": "2026-09-04T10:41:48.000Z",
    "dupes": 1,
-   "score": 0.214,
+   "score": 0.213,
    "tier": 3
   },
   {
