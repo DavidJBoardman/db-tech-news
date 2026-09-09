@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-08T23:29:29.642Z",
+ "generated": "2026-09-09T01:24:29.307Z",
  "items": [
   {
    "id": "1f2ecc4c6e8cf0b37fff94714fcf36951f9bb0b4",
@@ -13,22 +13,37 @@
    "tldr": "",
    "published": "2026-09-08T20:07:55.000Z",
    "dupes": 2,
-   "score": 0.63,
+   "score": 0.656,
    "tier": 1
   },
   {
-   "id": "93b4203e0c5379ede009d886cee79af7453ed50c",
-   "title": "Google DeepMind Releases AlphaGenome Atlas",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas",
+   "id": "fdfa315dd9e278dd8faaaa4838e9894b9ab37c51",
+   "title": "Muse – Meta’s personal AI agent",
+   "url": "https://ai.meta.com/muse",
    "source": "Hacker News",
    "org": [
-    "google"
+    "meta"
    ],
    "topic": "ai",
    "tldr": "",
-   "published": "2026-09-08T14:55:45.000Z",
+   "published": "2026-09-08T19:25:00.000Z",
    "dupes": 1,
-   "score": 0.602,
+   "score": 0.628,
+   "tier": 2
+  },
+  {
+   "id": "99dd5e3bdc5c34d344df79b0213861d0d11882c5",
+   "title": "I resigned from Anthropic today",
+   "url": "https://twitter.com/hilbertspaess/status/2097476196791709843",
+   "source": "Hacker News",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-09T00:40:40.000Z",
+   "dupes": 1,
+   "score": 0.575,
    "tier": 2
   },
   {
@@ -43,37 +58,7 @@
    "tldr": "6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
    "published": "2026-09-08T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.573,
-   "tier": 2
-  },
-  {
-   "id": "fdfa315dd9e278dd8faaaa4838e9894b9ab37c51",
-   "title": "Muse: Meta's personal AI agent, features and capabilities",
-   "url": "https://ai.meta.com/muse",
-   "source": "Hacker News",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-08T19:25:00.000Z",
-   "dupes": 1,
-   "score": 0.566,
-   "tier": 2
-  },
-  {
-   "id": "191d42d3c06b4476cc90ffa6e824bdb6cc5dce6b",
-   "title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone",
-   "url": "https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent",
-   "source": "Meta Newsroom",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "Muse is a secure, private personal AI agent that proactively helps people meet their goals and suggests ideas.  The post Introducing Muse: The World’s First Personal AI Agent Built for Everyone appeared first on Meta…",
-   "published": "2026-09-08T19:00:51.000Z",
-   "dupes": 1,
-   "score": 0.545,
+   "score": 0.553,
    "tier": 2
   },
   {
@@ -88,7 +73,22 @@
    "tldr": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
    "published": "2026-09-08T14:00:15.000Z",
    "dupes": 1,
-   "score": 0.543,
+   "score": 0.526,
+   "tier": 2
+  },
+  {
+   "id": "191d42d3c06b4476cc90ffa6e824bdb6cc5dce6b",
+   "title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone",
+   "url": "https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent",
+   "source": "Meta Newsroom",
+   "org": [
+    "meta"
+   ],
+   "topic": "ai",
+   "tldr": "Muse is a secure, private personal AI agent that proactively helps people meet their goals and suggests ideas.  The post Introducing Muse: The World’s First Personal AI Agent Built for Everyone appeared first on Meta…",
+   "published": "2026-09-08T19:00:51.000Z",
+   "dupes": 1,
+   "score": 0.524,
    "tier": 2
   },
   {
@@ -103,7 +103,7 @@
    "tldr": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
    "published": "2026-09-08T13:00:00.000Z",
    "dupes": 1,
-   "score": 0.534,
+   "score": 0.517,
    "tier": 2
   },
   {
@@ -118,7 +118,7 @@
    "tldr": "5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
    "published": "2026-09-08T11:30:00.000Z",
    "dupes": 1,
-   "score": 0.521,
+   "score": 0.505,
    "tier": 2
   },
   {
@@ -133,35 +133,7 @@
    "tldr": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired.",
    "published": "2026-09-08T20:53:52.000Z",
    "dupes": 1,
-   "score": 0.517,
-   "tier": 2
-  },
-  {
-   "id": "4f420d1c5cd0cb94fcbe46ff75c105d55035c2df",
-   "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-   "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-08T14:23:07.000Z",
-   "dupes": 1,
-   "score": 0.509,
-   "tier": 2
-  },
-  {
-   "id": "e20ac68d8328dfb9377f2d7ae4460923fce18453",
-   "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle.",
-   "published": "2026-09-08T20:16:09.000Z",
-   "dupes": 1,
-   "score": 0.509,
+   "score": 0.494,
    "tier": 2
   },
   {
@@ -176,7 +148,35 @@
    "tldr": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
    "published": "2026-09-08T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.508,
+   "score": 0.493,
+   "tier": 2
+  },
+  {
+   "id": "4f420d1c5cd0cb94fcbe46ff75c105d55035c2df",
+   "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+   "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-08T14:23:07.000Z",
+   "dupes": 1,
+   "score": 0.491,
+   "tier": 2
+  },
+  {
+   "id": "e20ac68d8328dfb9377f2d7ae4460923fce18453",
+   "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+   "source": "The Verge AI",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle.",
+   "published": "2026-09-08T20:16:09.000Z",
+   "dupes": 1,
+   "score": 0.487,
    "tier": 2
   },
   {
@@ -194,7 +194,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.5,
+   "score": 0.486,
    "tier": 2
   },
   {
@@ -209,7 +209,7 @@
    "tldr": "Meta is making another push to bring artificial intelligence to the masses with Muse, a personal assistant it says can put AI in the hands of virtually anyone.",
    "published": "2026-09-08T19:00:00.000Z",
    "dupes": 1,
-   "score": 0.494,
+   "score": 0.473,
    "tier": 3
   },
   {
@@ -224,22 +224,7 @@
    "tldr": "Anthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular applications, like OpenClaw.  But some of these same customers say Anthropic misled them into…",
    "published": "2026-09-08T17:27:31.000Z",
    "dupes": 1,
-   "score": 0.477,
-   "tier": 3
-  },
-  {
-   "id": "235e7b126230998b9368f79ab6f01c26fe8548d3",
-   "title": "Google’s Atlas of the human genome could pave the way for new treatments",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas",
-   "source": "The Verge AI",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Google DeepMind has unveiled an AI tool that its scientists claim could help unravel the mysteries of the human genome and transform our understanding of biology, accelerating scientific research and ultimately paving…",
-   "published": "2026-09-08T14:00:00.000Z",
-   "dupes": 1,
-   "score": 0.443,
+   "score": 0.458,
    "tier": 3
   },
   {
@@ -254,7 +239,7 @@
    "tldr": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
    "published": "2026-09-08T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.442,
+   "score": 0.432,
    "tier": 3
   },
   {
@@ -269,7 +254,22 @@
    "tldr": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.",
    "published": "2026-09-08T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.442,
+   "score": 0.432,
+   "tier": 3
+  },
+  {
+   "id": "235e7b126230998b9368f79ab6f01c26fe8548d3",
+   "title": "Google’s Atlas of the human genome could pave the way for new treatments",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas",
+   "source": "The Verge AI",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Google DeepMind has unveiled an AI tool that its scientists claim could help unravel the mysteries of the human genome and transform our understanding of biology, accelerating scientific research and ultimately paving…",
+   "published": "2026-09-08T14:00:00.000Z",
+   "dupes": 1,
+   "score": 0.426,
    "tier": 3
   },
   {
@@ -284,7 +284,7 @@
    "tldr": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
    "published": "2026-09-07T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.356,
+   "score": 0.352,
    "tier": 3
   },
   {
@@ -299,7 +299,7 @@
    "tldr": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned.  He calls for stronger safeguards and international coordination.",
    "published": "2026-09-06T09:00:00.000Z",
    "dupes": 1,
-   "score": 0.332,
+   "score": 0.329,
    "tier": 3
   },
   {
@@ -317,7 +317,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.33,
+   "score": 0.328,
    "tier": 3
   },
   {
@@ -482,7 +482,7 @@
    "tldr": "General Science",
    "published": "2026-09-03T16:00:03.000Z",
    "dupes": 1,
-   "score": 0.278,
+   "score": 0.277,
    "tier": 3
   },
   {
@@ -497,7 +497,7 @@
    "tldr": "Frontier intelligence is going local.  At IFA 2026, NVIDIA, Microsoft and its partners are teaming up to provide faster inference and new tools that make agents easier to set up and run locally on NVIDIA hardware.",
    "published": "2026-09-03T16:00:59.000Z",
    "dupes": 1,
-   "score": 0.278,
+   "score": 0.277,
    "tier": 3
   },
   {
@@ -528,6 +528,21 @@
    "published": "2026-09-03T11:56:49.000Z",
    "dupes": 1,
    "score": 0.277,
+   "tier": 3
+  },
+  {
+   "id": "39c94673650036c2efb69203c4520f75d0f1bc03",
+   "title": "Grok outage",
+   "url": "https://status.x.ai/",
+   "source": "HN · xAI",
+   "org": [
+    "xai"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-03T15:26:01.000Z",
+   "dupes": 1,
+   "score": 0.274,
    "tier": 3
   },
   {
@@ -608,22 +623,7 @@
    "tldr": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement.  The two outlets say the company used their journalism as training data for its AI models without…",
    "published": "2026-09-06T23:36:04.000Z",
    "dupes": 1,
-   "score": 0.255,
-   "tier": 3
-  },
-  {
-   "id": "39c94673650036c2efb69203c4520f75d0f1bc03",
-   "title": "Grok outage",
-   "url": "https://status.x.ai/",
-   "source": "HN · xAI",
-   "org": [
-    "xai"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-03T15:26:01.000Z",
-   "dupes": 1,
-   "score": 0.241,
+   "score": 0.251,
    "tier": 3
   },
   {
@@ -640,7 +640,7 @@
    "tldr": "",
    "published": "2026-09-03T15:30:10.000Z",
    "dupes": 1,
-   "score": 0.214,
+   "score": 0.23,
    "tier": 3
   },
   {
@@ -655,7 +655,7 @@
    "tldr": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets.  The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control…",
    "published": "2026-09-05T11:15:55.000Z",
    "dupes": 1,
-   "score": 0.214,
+   "score": 0.213,
    "tier": 3
   },
   {
@@ -670,7 +670,7 @@
    "tldr": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as it fights copyright…",
    "published": "2026-09-04T16:05:57.000Z",
    "dupes": 1,
-   "score": 0.207,
+   "score": 0.206,
    "tier": 3
   }
  ]
