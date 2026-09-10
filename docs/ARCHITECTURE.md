@@ -48,17 +48,35 @@ The same story arrives from multiple outlets. Strategy:
   `dupes` is a strong ranking signal (cross-source coverage = importance).
 
 ### 4. Score and tier
-Heuristic score in [0,1], roughly:
+Heuristic score in [0,1], weighted toward *importance* over raw freshness:
 
 ```
-score = 0.35 * recency          // exp decay, half-life ~18h
-      + 0.25 * sourceWeight     // primary sources (labs) > aggregators
-      + 0.25 * crossCoverage    // min(dupes,4)/4
-      + 0.15 * communitySignal  // normalised HN points if matched on HN
+score = 0.22 * recency          // exp decay, half-life ~30h (RECENCY_HALFLIFE_H)
+      + 0.16 * sourceWeight     // primary sources (labs/wires) > aggregators
+      + 0.22 * crossCoverage    // min(dupes,4)/4 — one story across many sources
+      + 0.08 * communitySignal  // normalised HN points if matched on HN
+      + 0.32 * burst            // "event" signal, see below
+score *= topicWeight(topic)     // cross-topic priority: gaming 0.82, space/robotics 0.95
 ```
+
+**burst** captures a *big event* that `crossCoverage` can't see: a keynote spawns
+many *distinct* stories about one org (e.g. an Apple event → 7 Apple items), none
+of which are dupes of each other. For each org we sum the recency of every story
+carrying it ("attention"); an item's burst is how much of that attention comes
+from *other* recent stories on its org, saturating at `BURST_CAP`. An isolated
+story scores ~0; an item in a cluster scores high. Items with no org tag get 0.
+
+**topicWeight** demotes lower-priority beats in the *cross-topic* competition
+(hero + card order) only — within a single tab every item shares the multiplier,
+so tab order is unaffected. This is why a niche gaming item won't become the
+global hero unless it's genuinely huge, yet still leads the Gaming tab.
+
+Tuning knobs live at the top of `fetch.js`: the five coefficients,
+`RECENCY_HALFLIFE_H`, `BURST_CAP`, `TOPIC_WEIGHT`, and `PER_TOPIC_CAP`.
 
 Tiers: top item of the run → `tier 1` (hero); next ~12 → `tier 2` (cards);
-rest → `tier 3`. Cap output at ~60 items so items.json stays small (<150 KB).
+rest → `tier 3`. Output is capped (`MAX_ITEMS`) and further limited per topic by
+`PER_TOPIC_CAP` so no single beat swamps the "All" view.
 
 ### 5. TL;DR extraction (no LLM, Phase 1)
 Take the item's own `description`/`summary` field, strip HTML, take the first two
@@ -74,6 +92,16 @@ omit the tldr element in the UI.
 
 The workflow commits both with `[skip ci]` and pushes. Concurrency group set so
 overlapping runs don't race.
+
+### Legacy trial pipeline (Old|New toggle)
+`scripts/fetch-legacy.js` + `scripts/sources-legacy.js` are a **verbatim copy of
+the original pre-Sept-2026 pipeline** (AI-only sources, old ranking, no noise
+filter/routing/categories). They write `data/items-legacy.json` +
+`data/digest-legacy.json`. The workflow runs this second pipeline alongside the
+main one. The frontend's "OLD | NEW" toggle (header, persisted in `localStorage`)
+swaps which dataset it loads and hides the category tabs in OLD mode — a live
+before/after of the whole platform. **To end the trial:** delete the two `-legacy`
+scripts, their data files, the workflow step, and the toggle in `index.html`.
 
 ## Frontend
 

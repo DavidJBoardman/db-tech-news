@@ -69,13 +69,16 @@ dedupe. Items get a `model` badge.
 HN double-duty: besides supplying items, HN points feed the `communitySignal`
 ranking input after dedupe-merge.
 
-## Tier D — sibling categories (weight 0.6–0.85)
+## Tier D — sibling categories (weight 0.7–0.85)
 
-All free, keyless RSS. Each source declares an explicit `topic`; unlike the AI
-aggregators these carry no `filter`/`mustMatch` — the whole feed is on-topic. The
-`ai → compute` keyword rule in `sources.js` does **not** touch these (fetch.js only
-refines the generic `ai` default), so a space or gaming headline mentioning "chip"
-stays in its own category.
+**Purist source policy (owner request, Sept 2026):** each beat leads with
+straight-**news** publications / official press. Enthusiast sites that mix in
+reviews, deals, opinion and features (Tom's Hardware, IEEE Spectrum, Space.com,
+and the consumer gaming outlets Eurogamer/RPS/PC Gamer/Polygon/IGN) were dropped
+in favour of news-only feeds. The `NOISE_RE` filter in `sources.js` is now a
+safety net, not the primary quality lever.
+
+Category-native feeds (explicit `topic`, whole feed on-beat):
 
 | Category | Source | Endpoint |
 |---|---|---|
@@ -83,27 +86,42 @@ stays in its own category.
 | space | SpaceNews | `https://spacenews.com/feed/` |
 | space | ESA Space News | `https://www.esa.int/rssfeed/Our_Activities/Space_News` |
 | space | Ars Technica · Space | `https://arstechnica.com/tag/space/feed/` |
-| space | Space.com | `https://www.space.com/feeds.xml` |
-| compute | IEEE Spectrum · Semiconductors | `https://spectrum.ieee.org/feeds/topic/semiconductors.rss` |
-| compute | Tom's Hardware | `https://www.tomshardware.com/feeds.xml` |
 | compute | Ars Technica · Gadgets | `https://feeds.arstechnica.com/arstechnica/gadgets` |
-| robotics | IEEE Spectrum · Robotics | `https://spectrum.ieee.org/feeds/topic/robotics.rss` |
 | robotics | The Robot Report | `https://www.therobotreport.com/feed/` |
 | security | Krebs on Security | `https://krebsonsecurity.com/feed/` |
 | security | BleepingComputer | `https://www.bleepingcomputer.com/feed/` |
 | security | The Hacker News | `https://feeds.feedburner.com/TheHackersNews` |
-| gaming | Eurogamer | `https://www.eurogamer.net/feed` |
-| gaming | Rock Paper Shotgun | `https://www.rockpapershotgun.com/feed` |
-| gaming | Polygon | `https://www.polygon.com/feed/` |
-| gaming | PC Gamer | `https://www.pcgamer.com/rss/` |
-| gaming | IGN | `https://www.ign.com/rss/articles/feed` |
+| gaming | GamesIndustry.biz | `https://www.gamesindustry.biz/feed` |
 
-Note: NVIDIA Blog (Tier A) also carries `topic: compute`, so it appears under the
-Hardware tab as well as AI. Gaming outlets publish at high volume; a **per-topic
-cap** in `fetch.js` (`PER_TOPIC_CAP`, default 12) stops any one beat from
-swamping the "All" view — the score-ranked list is walked in order and a topic is
-skipped once it has contributed that many items, so the strongest signals still
-lead. Raise/lower the cap, or a source `weight`, to shift the mix.
+### Routed general-news wires (`route: true`)
+
+Straight-news publications that aren't tied to one beat. `fetch.js` sends each
+item to the **first** matching category in `ROUTE_RULES` (security → space →
+gaming → robotics → compute → ai) and **drops** anything matching none (generic
+enterprise-IT/business isn't one of our beats). One good wire thus feeds every
+tab with only on-beat, actual-news stories.
+
+| Wire | Endpoint |
+|---|---|
+| Ars Technica (main) | `https://feeds.arstechnica.com/arstechnica/index` |
+| BBC Technology | `https://feeds.bbci.co.uk/news/technology/rss.xml` |
+| TechCrunch | `https://techcrunch.com/feed/` |
+
+- **The Register** was tried (best straight-news tech wire) but its feed
+  302-redirects non-browser clients and returns nothing to the pipeline — don't
+  re-add without solving the cookie/redirect handshake.
+- **Robotics has no pure-news wire.** The Robot Report is the trade-news anchor;
+  it still emits the odd interview/sponsored post, so this one beat leans on
+  `NOISE_RE` more than the others.
+
+Notes:
+- NVIDIA Blog (Tier A) also carries `topic: compute`, so it appears under Hardware
+  as well as AI.
+- **Per-topic cap** in `fetch.js` (`PER_TOPIC_CAP = { default: 12, gaming: 6 }`)
+  stops any one beat swamping the "All" view — the score-ranked list is walked in
+  order and a topic is skipped once it hits its cap, so the strongest signals still
+  lead. Gaming is capped lower by owner request. Adjust caps or source `weight` to
+  shift the mix.
 
 ## Topic taxonomy
 
