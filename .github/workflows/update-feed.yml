@@ -26,8 +26,15 @@ jobs:
           node-version: "20"
 
       # If scripts/fetch.js gains npm deps, add: npm ci (and commit a lockfile)
-      - name: Run pipeline
+      - name: Run pipeline (new)
         run: node scripts/fetch.js
+
+      # Trial "Old|New" toggle: also rebuild the original AI-only feed.
+      # continue-on-error so a legacy-feed failure can never block the real feed.
+      # Remove this step (and the -legacy scripts) to end the trial.
+      - name: Run pipeline (legacy trial feed)
+        run: node scripts/fetch-legacy.js
+        continue-on-error: true
 
       - name: Commit data if changed
         run: |
