@@ -171,7 +171,18 @@
   </aside>
 
   <main>
-    <!-- org filters — the feed is AI/LLM-only, so orgs are the one axis -->
+    <!-- category tabs — one per topic, plus an all-topics view -->
+    <div class="filters" role="group" aria-label="Category filters">
+      <button class="chip on" data-topic="all" onclick="setTopic(this)">All</button>
+      <button class="chip" data-topic="ai" onclick="setTopic(this)">AI</button>
+      <button class="chip" data-topic="space" onclick="setTopic(this)">Space</button>
+      <button class="chip" data-topic="compute" onclick="setTopic(this)">Hardware</button>
+      <button class="chip" data-topic="robotics" onclick="setTopic(this)">Robotics</button>
+      <button class="chip" data-topic="security" onclick="setTopic(this)">Cybersecurity</button>
+      <button class="chip" data-topic="gaming" onclick="setTopic(this)">Gaming</button>
+    </div>
+
+    <!-- org filters — most useful on the AI tab; other topics carry no org tag -->
     <div class="orgrow" role="group" aria-label="Organisation filters">
       <button class="chip on" data-org="all" onclick="setOrg(this)">All orgs</button>
       <button class="chip" data-org="anthropic" onclick="setOrg(this)">Anthropic</button>

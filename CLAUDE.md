@@ -4,8 +4,10 @@ A zero-cost, static news-briefing platform that surfaces the absolute latest fro
 the AI/LLM companies — frontier labs (Anthropic, OpenAI, Google, xAI, NVIDIA,
 Microsoft) and open-source model labs (DeepSeek, Moonshot/Kimi, Zhipu/GLM,
 Alibaba/Qwen, Meta/Llama), plus Hugging Face model releases — in a TL;DR-first,
-easily digestible format. (Originally broader — space/science/energy — narrowed
-to AI-only by owner request in June 2026; see docs/DATA_SOURCES.md.)
+easily digestible format. Alongside the AI core, sibling category tabs cover
+space, hardware/chips, robotics, cybersecurity and gaming. (Narrowed to AI-only
+in June 2026, then re-broadened by owner request in Sept 2026; see
+docs/DATA_SOURCES.md.)
 
 This repo was scaffolded from a design session in Claude.ai. A working visual
 prototype with final design tokens lives at `prototype/frontier-briefing-prototype.html`
@@ -57,7 +59,7 @@ briefing UI. Full detail: `docs/ARCHITECTURE.md`.
   "url": "https://...",
   "source": "Anthropic News",
   "org": ["anthropic"],
-  "topic": "ai",                  // ai | space | compute | science | energy
+  "topic": "ai",                  // ai | space | compute | robotics | security | gaming
   "tldr": "1–2 sentences extracted from the item's own description.",
   "published": "2026-06-10T13:09:00Z",
   "score": 0.82,                  // 0–1, see ranking rules in ARCHITECTURE.md

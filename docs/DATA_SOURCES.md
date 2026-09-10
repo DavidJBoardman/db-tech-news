@@ -3,12 +3,14 @@
 All sources below are **free and keyless**. This is the approved registry; adding a
 source that needs an API key or payment requires explicit sign-off from the owner.
 
-**Scope (June 2026): AI/LLM companies only.** Frontier labs — Anthropic, OpenAI,
-Google (DeepMind/Research), xAI, NVIDIA, Microsoft — and the open-source model
-labs — DeepSeek, Moonshot (Kimi), Zhipu (GLM), Alibaba (Qwen), Meta (Llama) — plus
-Hugging Face as the venue where open-weights releases actually land. Space,
-general science, and energy sources were removed by owner request; do not re-add
-without sign-off.
+**Scope (Sept 2026): AI/LLM companies + broader frontier-tech categories.** The
+core AI beat — frontier labs (Anthropic, OpenAI, Google DeepMind/Research, xAI,
+NVIDIA, Microsoft) and open-source model labs (DeepSeek, Moonshot/Kimi, Zhipu/GLM,
+Alibaba/Qwen, Meta/Llama), plus Hugging Face — is joined by five sibling
+categories, each a tab in the UI: **space**, **hardware/chips** (`compute`),
+**robotics**, **cybersecurity** (`security`) and **gaming**. (June 2026 had
+narrowed the feed to AI-only; broadened again by owner request Sept 2026.) Every
+new source is still free and keyless.
 
 URLs were correct as of June 2026 but publishers move feeds — `scripts/fetch.js`
 must treat every URL as fallible. If a feed 404s persistently, check the
@@ -67,11 +69,45 @@ dedupe. Items get a `model` badge.
 HN double-duty: besides supplying items, HN points feed the `communitySignal`
 ranking input after dedupe-merge.
 
+## Tier D — sibling categories (weight 0.6–0.85)
+
+All free, keyless RSS. Each source declares an explicit `topic`; unlike the AI
+aggregators these carry no `filter`/`mustMatch` — the whole feed is on-topic. The
+`ai → compute` keyword rule in `sources.js` does **not** touch these (fetch.js only
+refines the generic `ai` default), so a space or gaming headline mentioning "chip"
+stays in its own category.
+
+| Category | Source | Endpoint |
+|---|---|---|
+| space | NASA | `https://www.nasa.gov/feed/` |
+| space | SpaceNews | `https://spacenews.com/feed/` |
+| space | ESA Space News | `https://www.esa.int/rssfeed/Our_Activities/Space_News` |
+| space | Ars Technica · Space | `https://arstechnica.com/tag/space/feed/` |
+| space | Space.com | `https://www.space.com/feeds.xml` |
+| compute | IEEE Spectrum · Semiconductors | `https://spectrum.ieee.org/feeds/topic/semiconductors.rss` |
+| compute | Tom's Hardware | `https://www.tomshardware.com/feeds.xml` |
+| compute | Ars Technica · Gadgets | `https://feeds.arstechnica.com/arstechnica/gadgets` |
+| robotics | IEEE Spectrum · Robotics | `https://spectrum.ieee.org/feeds/topic/robotics.rss` |
+| robotics | The Robot Report | `https://www.therobotreport.com/feed/` |
+| security | Krebs on Security | `https://krebsonsecurity.com/feed/` |
+| security | BleepingComputer | `https://www.bleepingcomputer.com/feed/` |
+| security | The Hacker News | `https://feeds.feedburner.com/TheHackersNews` |
+| gaming | Eurogamer | `https://www.eurogamer.net/feed` |
+| gaming | Rock Paper Shotgun | `https://www.rockpapershotgun.com/feed` |
+| gaming | Polygon | `https://www.polygon.com/feed/` |
+| gaming | PC Gamer | `https://www.pcgamer.com/rss/` |
+| gaming | IGN | `https://www.ign.com/rss/articles/feed` |
+
+Note: NVIDIA Blog (Tier A) also carries `topic: compute`, so it appears under the
+Hardware tab as well as AI. Gaming outlets publish at high volume, so on the "All"
+tab they dominate by recency — the per-category tabs remain balanced. Tune via
+source `weight` if a different mix is wanted.
+
 ## Topic taxonomy
 
-`ai` (default) · `compute` (chips/GPU/datacenter keyword rule). The old
-space/science/energy topics are retired with the scope change; the schema field
-remains for forward compatibility.
+`ai` (default) · `space` · `compute` (hardware/chips; also the AI `chip/GPU/…`
+keyword rule) · `robotics` · `security` · `gaming`. The UI renders one tab per
+topic plus an "All" tab.
 
 ## Org taxonomy
 

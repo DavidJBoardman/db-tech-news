@@ -188,6 +188,9 @@ function sha1(s) {
 }
 
 function classifyTopic(title, fallback) {
+  // Sources with an explicit topic (space, gaming, robotics, …) keep it; keyword
+  // reclassification only refines the generic 'ai' default (e.g. ai → compute).
+  if (fallback !== 'ai') return fallback;
   for (const r of TOPIC_RULES) if (r.re.test(title)) return r.topic;
   return fallback;
 }
