@@ -3,12 +3,14 @@
 All sources below are **free and keyless**. This is the approved registry; adding a
 source that needs an API key or payment requires explicit sign-off from the owner.
 
-**Scope (June 2026): AI/LLM companies only.** Frontier labs — Anthropic, OpenAI,
-Google (DeepMind/Research), xAI, NVIDIA, Microsoft — and the open-source model
-labs — DeepSeek, Moonshot (Kimi), Zhipu (GLM), Alibaba (Qwen), Meta (Llama) — plus
-Hugging Face as the venue where open-weights releases actually land. Space,
-general science, and energy sources were removed by owner request; do not re-add
-without sign-off.
+**Scope (Sept 2026): AI/LLM companies + broader frontier-tech categories.** The
+core AI beat — frontier labs (Anthropic, OpenAI, Google DeepMind/Research, xAI,
+NVIDIA, Microsoft) and open-source model labs (DeepSeek, Moonshot/Kimi, Zhipu/GLM,
+Alibaba/Qwen, Meta/Llama), plus Hugging Face — is joined by five sibling
+categories, each a tab in the UI: **space**, **hardware/chips** (`compute`),
+**robotics**, **cybersecurity** (`security`) and **gaming**. (June 2026 had
+narrowed the feed to AI-only; broadened again by owner request Sept 2026.) Every
+new source is still free and keyless.
 
 URLs were correct as of June 2026 but publishers move feeds — `scripts/fetch.js`
 must treat every URL as fallible. If a feed 404s persistently, check the
@@ -67,11 +69,65 @@ dedupe. Items get a `model` badge.
 HN double-duty: besides supplying items, HN points feed the `communitySignal`
 ranking input after dedupe-merge.
 
+## Tier D — sibling categories (weight 0.7–0.85)
+
+**Purist source policy (owner request, Sept 2026):** each beat leads with
+straight-**news** publications / official press. Enthusiast sites that mix in
+reviews, deals, opinion and features (Tom's Hardware, IEEE Spectrum, Space.com,
+and the consumer gaming outlets Eurogamer/RPS/PC Gamer/Polygon/IGN) were dropped
+in favour of news-only feeds. The `NOISE_RE` filter in `sources.js` is now a
+safety net, not the primary quality lever.
+
+Category-native feeds (explicit `topic`, whole feed on-beat):
+
+| Category | Source | Endpoint |
+|---|---|---|
+| space | NASA | `https://www.nasa.gov/feed/` |
+| space | SpaceNews | `https://spacenews.com/feed/` |
+| space | ESA Space News | `https://www.esa.int/rssfeed/Our_Activities/Space_News` |
+| space | Ars Technica · Space | `https://arstechnica.com/tag/space/feed/` |
+| compute | Ars Technica · Gadgets | `https://feeds.arstechnica.com/arstechnica/gadgets` |
+| robotics | The Robot Report | `https://www.therobotreport.com/feed/` |
+| security | Krebs on Security | `https://krebsonsecurity.com/feed/` |
+| security | BleepingComputer | `https://www.bleepingcomputer.com/feed/` |
+| security | The Hacker News | `https://feeds.feedburner.com/TheHackersNews` |
+| gaming | GamesIndustry.biz | `https://www.gamesindustry.biz/feed` |
+
+### Routed general-news wires (`route: true`)
+
+Straight-news publications that aren't tied to one beat. `fetch.js` sends each
+item to the **first** matching category in `ROUTE_RULES` (security → space →
+gaming → robotics → compute → ai) and **drops** anything matching none (generic
+enterprise-IT/business isn't one of our beats). One good wire thus feeds every
+tab with only on-beat, actual-news stories.
+
+| Wire | Endpoint |
+|---|---|
+| Ars Technica (main) | `https://feeds.arstechnica.com/arstechnica/index` |
+| BBC Technology | `https://feeds.bbci.co.uk/news/technology/rss.xml` |
+| TechCrunch | `https://techcrunch.com/feed/` |
+
+- **The Register** was tried (best straight-news tech wire) but its feed
+  302-redirects non-browser clients and returns nothing to the pipeline — don't
+  re-add without solving the cookie/redirect handshake.
+- **Robotics has no pure-news wire.** The Robot Report is the trade-news anchor;
+  it still emits the odd interview/sponsored post, so this one beat leans on
+  `NOISE_RE` more than the others.
+
+Notes:
+- NVIDIA Blog (Tier A) also carries `topic: compute`, so it appears under Hardware
+  as well as AI.
+- **Per-topic cap** in `fetch.js` (`PER_TOPIC_CAP = { default: 12, gaming: 6 }`)
+  stops any one beat swamping the "All" view — the score-ranked list is walked in
+  order and a topic is skipped once it hits its cap, so the strongest signals still
+  lead. Gaming is capped lower by owner request. Adjust caps or source `weight` to
+  shift the mix.
+
 ## Topic taxonomy
 
-`ai` (default) · `compute` (chips/GPU/datacenter keyword rule). The old
-space/science/energy topics are retired with the scope change; the schema field
-remains for forward compatibility.
+`ai` (default) · `space` · `compute` (hardware/chips; also the AI `chip/GPU/…`
+keyword rule) · `robotics` · `security` · `gaming`. The UI renders one tab per
+topic plus an "All" tab.
 
 ## Org taxonomy
 
