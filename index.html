@@ -44,8 +44,14 @@
   .bar .meta{font-family:var(--mono);font-size:11.5px;color:var(--ink-soft);letter-spacing:.02em}
   .bar .spacer{flex:1}
   .mode{display:flex;border:1px solid var(--line);border-radius:7px;overflow:hidden;background:var(--card)}
-  .mode button{border:0;background:transparent;padding:7px 13px;font-family:var(--mono);font-size:11.5px;color:var(--ink-soft)}
+  .mode button{border:0;background:transparent;padding:7px 13px;font-family:var(--mono);font-size:11.5px;color:var(--ink-soft);cursor:pointer}
   .mode button.on{background:var(--ink);color:#000}
+  /* trial edition toggle — accented so it reads as experimental */
+  .edition{margin-right:10px;border-color:var(--signal)}
+  .edition #edOld.on{background:var(--signal);color:#fff}
+  /* OLD edition = the original AI-only site: no category tabs */
+  body.edition-old .filters{display:none!important}
+  body:not(.edition-old) .wordmark::after{content:'· TRIAL: NEW VERSION';margin-left:8px;font-family:var(--mono);font-size:10px;letter-spacing:.05em;color:var(--signal)}
 
   /* ---------- staleness / error banner ---------- */
   .banner{display:none;max-width:1240px;margin:0 auto;padding:9px 22px;font-family:var(--mono);font-size:11.5px;letter-spacing:.04em;color:var(--slow);border-bottom:1px solid var(--line)}
@@ -72,6 +78,7 @@
   .chip:hover{border-color:var(--signal-on-dark);color:var(--ink)}
   .chip.on{background:var(--signal);border-color:var(--signal);color:#fff}
   .orgrow{display:flex;flex-wrap:wrap;gap:8px;margin:6px 0 22px}
+  .orgrow.hide{display:none!important}
   .orgrow .chip{border-radius:6px;font-family:var(--mono);font-size:11px;padding:5px 11px;text-transform:uppercase;letter-spacing:.05em}
   .orgrow .chip.on{background:var(--ink);border-color:var(--ink);color:#000}
 
@@ -153,6 +160,10 @@
     <div class="wordmark"><span class="dot" aria-hidden="true"></span>DB-TECH-NEWS</div>
     <div class="meta" id="barMeta">CONNECTING…</div>
     <div class="spacer"></div>
+    <div class="mode edition" role="tablist" aria-label="Edition (trial)" title="Trial: compare the new platform against the original">
+      <button id="edOld" onclick="setEdition('old')">OLD</button>
+      <button id="edNew" class="on" onclick="setEdition('new')">NEW</button>
+    </div>
     <div class="mode" role="tablist" aria-label="View mode">
       <button id="mFeed" class="on" onclick="setMode('feed')">LIVE FEED</button>
       <button id="mDigest" onclick="setMode('digest')">DAILY DIGEST</button>
@@ -182,21 +193,9 @@
       <button class="chip" data-topic="gaming" onclick="setTopic(this)">Gaming</button>
     </div>
 
-    <!-- org filters — most useful on the AI tab; other topics carry no org tag -->
-    <div class="orgrow" role="group" aria-label="Organisation filters">
-      <button class="chip on" data-org="all" onclick="setOrg(this)">All orgs</button>
-      <button class="chip" data-org="anthropic" onclick="setOrg(this)">Anthropic</button>
-      <button class="chip" data-org="openai" onclick="setOrg(this)">OpenAI</button>
-      <button class="chip" data-org="google" onclick="setOrg(this)">Google</button>
-      <button class="chip" data-org="xai" onclick="setOrg(this)">xAI</button>
-      <button class="chip" data-org="nvidia" onclick="setOrg(this)">NVIDIA</button>
-      <button class="chip" data-org="microsoft" onclick="setOrg(this)">Microsoft</button>
-      <button class="chip" data-org="meta" onclick="setOrg(this)">Meta · Llama</button>
-      <button class="chip" data-org="deepseek" onclick="setOrg(this)">DeepSeek</button>
-      <button class="chip" data-org="moonshot" onclick="setOrg(this)">Kimi</button>
-      <button class="chip" data-org="zhipu" onclick="setOrg(this)">GLM</button>
-      <button class="chip" data-org="qwen" onclick="setOrg(this)">Qwen</button>
-    </div>
+    <!-- org filters — generated from the orgs present in the selected category;
+         hidden entirely for categories that carry no org (Space, Gaming, …) -->
+    <div class="orgrow" id="orgrow" role="group" aria-label="Organisation filters"></div>
 
     <div class="countline" id="countline"></div>
 
@@ -220,6 +219,8 @@
 
 <script>
   let topic = 'all', org = 'all';
+  let edition = 'new'; // 'new' (all changes) | 'old' (original AI-only + old ranking) — trial toggle
+  try { edition = localStorage.getItem('signal-edition') === 'old' ? 'old' : 'new'; } catch {}
   let DATA = { generated: null, items: [] };
 
   // ───────── utilities ─────────
@@ -327,6 +328,7 @@
       now.toLocaleDateString('en-GB', { weekday: 'short', day: 'numeric', month: 'short', year: 'numeric' }).toUpperCase()
       + ' · ' + now.toLocaleTimeString('en-GB', { hour: '2-digit', minute: '2-digit' })
       + ` · ${live} FEEDS LIVE`;
+    renderOrgChips();
     apply();
   }
 
@@ -344,9 +346,73 @@
     document.getElementById('mFeed').classList.toggle('on', m === 'feed');
     document.getElementById('mDigest').classList.toggle('on', m === 'digest');
   }
+  // Trial toggle: swaps the whole feed between the new platform and the original.
+  function applyEdition() {
+    document.body.classList.toggle('edition-old', edition === 'old');
+    document.getElementById('edNew').classList.toggle('on', edition === 'new');
+    document.getElementById('edOld').classList.toggle('on', edition === 'old');
+    if (edition === 'old') { // original site had no category tabs
+      topic = 'all';
+      document.querySelectorAll('.filters .chip').forEach(c => c.classList.toggle('on', c.dataset.topic === 'all'));
+    }
+  }
+  function setEdition(e) {
+    if (e === edition) return;
+    edition = e;
+    try { localStorage.setItem('signal-edition', e); } catch {}
+    applyEdition();
+    load(); // reload from the other dataset
+  }
+  // org slug → display label; also fixes the render order of the chips
+  const ORG_LABELS = {
+    // AI labs
+    anthropic: 'Anthropic', openai: 'OpenAI', google: 'Google', xai: 'xAI',
+    nvidia: 'NVIDIA', microsoft: 'Microsoft', meta: 'Meta · Llama',
+    deepseek: 'DeepSeek', moonshot: 'Kimi', zhipu: 'GLM', qwen: 'Qwen',
+    // hardware / chips
+    amd: 'AMD', intel: 'Intel', apple: 'Apple', qualcomm: 'Qualcomm',
+    tsmc: 'TSMC', samsung: 'Samsung', micron: 'Micron', asml: 'ASML',
+    // space
+    nasa: 'NASA', spacex: 'SpaceX', esa: 'ESA', 'blue-origin': 'Blue Origin',
+    'rocket-lab': 'Rocket Lab', boeing: 'Boeing', ula: 'ULA', roscosmos: 'Roscosmos',
+    isro: 'ISRO', 'virgin-galactic': 'Virgin Galactic', arianespace: 'Arianespace',
+    // gaming
+    sony: 'Sony', nintendo: 'Nintendo', valve: 'Valve', epic: 'Epic', ea: 'EA',
+    ubisoft: 'Ubisoft', activision: 'Activision', rockstar: 'Rockstar', sega: 'Sega',
+    capcom: 'Capcom', 'square-enix': 'Square Enix', kojima: 'Kojima',
+    // robotics
+    'boston-dynamics': 'Boston Dynamics', unitree: 'Unitree', agility: 'Agility',
+    tesla: 'Tesla',
+  };
+  const ORG_ORDER = Object.keys(ORG_LABELS);
+
+  // Build the org row from the orgs actually present in the selected category.
+  // Categories with no org tag (Space, Gaming, …) get an empty set → row hidden,
+  // so there's never an "Anthropic" filter sitting over gaming news.
+  function renderOrgChips() {
+    const present = new Set();
+    for (const it of DATA.items) {
+      if (topic !== 'all' && it.topic !== topic) continue;
+      for (const o of it.org) present.add(o);
+    }
+    const orgs = [
+      ...ORG_ORDER.filter(o => present.has(o)),
+      ...[...present].filter(o => !ORG_ORDER.includes(o)).sort(),
+    ];
+    const row = document.getElementById('orgrow');
+    row.classList.toggle('hide', orgs.length === 0);
+    if (!present.has(org)) org = 'all'; // dropped org no longer in view → reset
+    row.innerHTML = orgs.length ? (
+      `<button class="chip${org === 'all' ? ' on' : ''}" data-org="all" onclick="setOrg(this)">All orgs</button>` +
+      orgs.map(o => `<button class="chip${org === o ? ' on' : ''}" data-org="${esc(o)}" onclick="setOrg(this)">${esc(ORG_LABELS[o] || o)}</button>`).join('')
+    ) : '';
+  }
+
   function setTopic(btn) {
     topic = btn.dataset.topic;
+    org = 'all'; // switching category clears any org filter from the previous one
     document.querySelectorAll('.filters .chip').forEach(c => c.classList.toggle('on', c === btn));
+    renderOrgChips();
     apply();
   }
   function setOrg(btn) {
@@ -357,7 +423,7 @@
   function resetFilters() {
     topic = 'all'; org = 'all';
     document.querySelectorAll('.filters .chip').forEach(c => c.classList.toggle('on', c.dataset.topic === 'all'));
-    document.querySelectorAll('.orgrow .chip').forEach(c => c.classList.toggle('on', c.dataset.org === 'all'));
+    renderOrgChips();
     apply();
   }
   function matches(el) {
@@ -382,8 +448,9 @@
 
   // ───────── boot ─────────
   async function load() {
+    const suffix = edition === 'old' ? '-legacy' : '';
     try {
-      const r = await fetch('./data/items.json', { cache: 'no-store' });
+      const r = await fetch(`./data/items${suffix}.json`, { cache: 'no-store' });
       const data = await r.json();
       if (!Array.isArray(data.items)) throw new Error('malformed items.json');
       DATA = data;
@@ -398,11 +465,12 @@
       document.getElementById('barMeta').textContent = 'FEED OFFLINE';
     }
     try {
-      const r = await fetch('./data/digest.json', { cache: 'no-store' });
+      const r = await fetch(`./data/digest${suffix}.json`, { cache: 'no-store' });
       renderDigest(await r.json());
     } catch { renderDigest(null); }
   }
 
+  applyEdition(); // reflect the saved trial choice before first load
   load();
   setInterval(() => { renderAll(); refreshStaleness(); }, 60_000); // re-render relative ages
   setInterval(load, 10 * 60_000);                                   // re-fetch data every 10 min
