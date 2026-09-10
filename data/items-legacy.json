@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-10T13:05:02.431Z",
+ "generated": "2026-09-10T16:34:46.062Z",
  "items": [
   {
    "id": "c599ab837d38d22aeb8305b85d5fcd1ce3fd669f",
@@ -13,8 +13,53 @@
    "tldr": "",
    "published": "2026-09-10T06:11:05.000Z",
    "dupes": 2,
-   "score": 0.681,
+   "score": 0.647,
    "tier": 1
+  },
+  {
+   "id": "014159943e4d9643b524ba35091999ab979bfca3",
+   "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+   "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
+   "published": "2026-09-10T16:00:00.000Z",
+   "dupes": 1,
+   "score": 0.642,
+   "tier": 2
+  },
+  {
+   "id": "4d4e7920d8a762a2dc722c2d13aa26b7d8884024",
+   "title": "Now everyone can put data to work",
+   "url": "https://openai.com/index/put-data-to-work",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Meet the Data agent in ChatGPT Work.  Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
+   "published": "2026-09-10T15:00:00.000Z",
+   "dupes": 1,
+   "score": 0.629,
+   "tier": 2
+  },
+  {
+   "id": "74f1f6122ab89e844c509ea1b9a5c231694eb865",
+   "title": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
+   "url": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Manufacturing floors, warehouses and production lines rarely stay fixed — tasks change, layouts shift and new products arrive, and most robots can’t keep up without significant reprogramming.  Skild AI’s new S1 robot…",
+   "published": "2026-09-10T16:30:35.000Z",
+   "dupes": 1,
+   "score": 0.624,
+   "tier": 2
   },
   {
    "id": "ea4d3b05d9ae69b7f5c955bd609b87be574d67a4",
@@ -28,7 +73,7 @@
    "tldr": "AI inference chipmaker d-Matrix today announced it will use NVIDIA NVLink Fusion to connect its next-generation Raptor XPUs to NVIDIA’s AI infrastructure platform — joining a growing roster of ecosystem partners.",
    "published": "2026-09-10T13:00:21.000Z",
    "dupes": 1,
-   "score": 0.624,
+   "score": 0.58,
    "tier": 2
   },
   {
@@ -43,7 +88,52 @@
    "tldr": "Gear up: The latest PC games and major updates are ready to play on GeForce NOW this week.  0 Deep North update and Bus Simulator 27 — part of nine new titles joining the cloud.",
    "published": "2026-09-10T13:00:18.000Z",
    "dupes": 1,
-   "score": 0.624,
+   "score": 0.58,
+   "tier": 2
+  },
+  {
+   "id": "ad1c7d356fc8afb92c481b85903b841bd52eff85",
+   "title": "Rust Is Tier-1 Language at Microsoft",
+   "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft",
+   "source": "Hacker News",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-10T13:39:16.000Z",
+   "dupes": 1,
+   "score": 0.562,
+   "tier": 2
+  },
+  {
+   "id": "1ef5285e671d0ace6126abde2e7dec0b8255af8f",
+   "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+   "url": "https://openai.com/index/expanding-ai-access-us-government",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
+   "published": "2026-09-10T07:00:00.000Z",
+   "dupes": 1,
+   "score": 0.542,
+   "tier": 2
+  },
+  {
+   "id": "8b4677a71fac0c9174f5519c705ddccb7ff3dc73",
+   "title": "Meta’s Muse AI works and creeps me out",
+   "url": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
+   "source": "The Verge AI",
+   "org": [
+    "meta"
+   ],
+   "topic": "ai",
+   "tldr": "Meta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools.  The company says its AI agent can \"take the busywork off your plate\" by helping you with online…",
+   "published": "2026-09-10T15:00:00.000Z",
+   "dupes": 1,
+   "score": 0.529,
    "tier": 2
   },
   {
@@ -61,7 +151,7 @@
     "model"
    ],
    "dupes": 2,
-   "score": 0.548,
+   "score": 0.518,
    "tier": 2
   },
   {
@@ -76,7 +166,22 @@
    "tldr": "Another researcher is challenging OpenAI about the data driving its increasingly impressive array of mathematical discoveries.",
    "published": "2026-09-10T11:00:57.000Z",
    "dupes": 1,
-   "score": 0.523,
+   "score": 0.483,
+   "tier": 2
+  },
+  {
+   "id": "782d6bbf2b5289c7a17049b3c21f4bf16eb01af3",
+   "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+   "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+   "source": "Hacker News",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-10T06:49:43.000Z",
+   "dupes": 1,
+   "score": 0.452,
    "tier": 2
   },
   {
@@ -89,22 +194,7 @@
    "tldr": "",
    "published": "2026-09-10T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.474,
-   "tier": 2
-  },
-  {
-   "id": "44084287147f6737176b69adf6e595baa9748e77",
-   "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
-   "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
-   "source": "Hacker News",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-09T14:37:47.000Z",
-   "dupes": 1,
-   "score": 0.472,
+   "score": 0.447,
    "tier": 2
   },
   {
@@ -119,8 +209,8 @@
    "tldr": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
    "published": "2026-09-09T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.462,
-   "tier": 2
+   "score": 0.441,
+   "tier": 3
   },
   {
    "id": "9786c92a289dc0ec90f826460c8757ddda7e682c",
@@ -134,23 +224,8 @@
    "tldr": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
    "published": "2026-09-09T13:00:00.000Z",
    "dupes": 1,
-   "score": 0.438,
-   "tier": 2
-  },
-  {
-   "id": "507a075c9a26389e1d5bbd764b3b74009b84cec7",
-   "title": "NVIDIA Brings Real-Time AI to Broadcast, Sports and Global Streaming at IBC",
-   "url": "https://blogs.nvidia.com/blog/ibc-news-2026",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "At the IBC conference, running Sept.  11-14 in Amsterdam, the creative, technology and business communities are coming together to turn ideas into action and discuss innovations across the media and entertainment…",
-   "published": "2026-09-09T16:00:42.000Z",
-   "dupes": 1,
-   "score": 0.43,
-   "tier": 2
+   "score": 0.421,
+   "tier": 3
   },
   {
    "id": "587a70348a735f611926883e54d73568c0d50c6f",
@@ -164,24 +239,23 @@
    "tldr": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
    "published": "2026-09-09T11:00:00.000Z",
    "dupes": 1,
-   "score": 0.428,
-   "tier": 2
+   "score": 0.412,
+   "tier": 3
   },
   {
-   "id": "e8ac74305a2976f6101633278745e851ec7057d3",
-   "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
-   "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
-   "source": "Hacker News",
+   "id": "507a075c9a26389e1d5bbd764b3b74009b84cec7",
+   "title": "NVIDIA Brings Real-Time AI to Broadcast, Sports and Global Streaming at IBC",
+   "url": "https://blogs.nvidia.com/blog/ibc-news-2026",
+   "source": "NVIDIA Blog",
    "org": [
-    "openai",
-    "qwen"
+    "nvidia"
    ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-09T17:24:28.000Z",
+   "topic": "compute",
+   "tldr": "At the IBC conference, running Sept.  11-14 in Amsterdam, the creative, technology and business communities are coming together to turn ideas into action and discuss innovations across the media and entertainment…",
+   "published": "2026-09-09T16:00:42.000Z",
    "dupes": 1,
-   "score": 0.425,
-   "tier": 2
+   "score": 0.411,
+   "tier": 3
   },
   {
    "id": "e8608e40b7228951c2b6d290d660ba34d23b8801",
@@ -193,8 +267,8 @@
    "tldr": "",
    "published": "2026-09-09T15:36:24.000Z",
    "dupes": 1,
-   "score": 0.416,
-   "tier": 2
+   "score": 0.396,
+   "tier": 3
   },
   {
    "id": "24370557052275bf0cbd359420ebddc20e8814f9",
@@ -208,7 +282,7 @@
    "tldr": "OpenAI's announcement Tuesday that it has solved one of mathematics' legendary Millennium Prize problems should have been a moment of triumph.  The result is both an undeniable achievement and a striking demonstration…",
    "published": "2026-09-09T21:16:34.000Z",
    "dupes": 1,
-   "score": 0.39,
+   "score": 0.366,
    "tier": 3
   },
   {
@@ -223,22 +297,7 @@
    "tldr": "6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
    "published": "2026-09-08T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.364,
-   "tier": 3
-  },
-  {
-   "id": "63ea6811b42bf2637dbe5e9799ad8791252c5de4",
-   "title": "Microsoft has new AI privacy rules for schools",
-   "url": "https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy",
-   "source": "The Verge AI",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "Microsoft agreed to a set of safety and privacy principles for AI in schools a week after two major school systems announced a ban on student-facing AI.",
-   "published": "2026-09-09T17:07:48.000Z",
-   "dupes": 1,
-   "score": 0.362,
+   "score": 0.356,
    "tier": 3
   },
   {
@@ -253,7 +312,7 @@
    "tldr": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
    "published": "2026-09-08T14:00:15.000Z",
    "dupes": 1,
-   "score": 0.357,
+   "score": 0.35,
    "tier": 3
   },
   {
@@ -268,7 +327,7 @@
    "tldr": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
    "published": "2026-09-08T13:00:00.000Z",
    "dupes": 1,
-   "score": 0.355,
+   "score": 0.348,
    "tier": 3
   },
   {
@@ -283,7 +342,7 @@
    "tldr": "5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
    "published": "2026-09-08T11:30:00.000Z",
    "dupes": 1,
-   "score": 0.352,
+   "score": 0.345,
    "tier": 3
   },
   {
@@ -298,7 +357,22 @@
    "tldr": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
    "published": "2026-09-08T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.349,
+   "score": 0.343,
+   "tier": 3
+  },
+  {
+   "id": "63ea6811b42bf2637dbe5e9799ad8791252c5de4",
+   "title": "Microsoft has new AI privacy rules for schools",
+   "url": "https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy",
+   "source": "The Verge AI",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "Microsoft agreed to a set of safety and privacy principles for AI in schools a week after two major school systems announced a ban on student-facing AI.",
+   "published": "2026-09-09T17:07:48.000Z",
+   "dupes": 1,
+   "score": 0.342,
    "tier": 3
   },
   {
@@ -316,22 +390,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.347,
-   "tier": 3
-  },
-  {
-   "id": "1f2ecc4c6e8cf0b37fff94714fcf36951f9bb0b4",
-   "title": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
-   "url": "https://github.com/argonautlabsai/deltafin",
-   "source": "HN · Kimi",
-   "org": [
-    "moonshot"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-08T20:07:55.000Z",
-   "dupes": 1,
-   "score": 0.334,
+   "score": 0.341,
    "tier": 3
   },
   {
@@ -346,7 +405,7 @@
    "tldr": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
    "published": "2026-09-08T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.333,
+   "score": 0.329,
    "tier": 3
   },
   {
@@ -361,22 +420,7 @@
    "tldr": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.",
    "published": "2026-09-08T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.333,
-   "tier": 3
-  },
-  {
-   "id": "930cebb74da0de04012bfddcec3c0b94d2911d37",
-   "title": "Worried Anthropic researchers warn that AI ‘could kill all humans’",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
-   "source": "The Verge AI",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "A senior Anthropic safety researcher has said there is more than a 10 percent chance artificial intelligence \"could kill all humans\" by the end of the decade, just hours after a colleague resigned over fears the AI lab…",
-   "published": "2026-09-09T09:56:28.000Z",
-   "dupes": 1,
-   "score": 0.323,
+   "score": 0.329,
    "tier": 3
   },
   {
@@ -389,22 +433,7 @@
    "tldr": "",
    "published": "2026-09-08T14:23:07.000Z",
    "dupes": 1,
-   "score": 0.32,
-   "tier": 3
-  },
-  {
-   "id": "191d42d3c06b4476cc90ffa6e824bdb6cc5dce6b",
-   "title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone",
-   "url": "https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent",
-   "source": "Meta Newsroom",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "Muse is a secure, private personal AI agent that proactively helps people meet their goals and suggests ideas.  The post Introducing Muse: The World’s First Personal AI Agent Built for Everyone appeared first on Meta…",
-   "published": "2026-09-08T19:00:51.000Z",
-   "dupes": 1,
-   "score": 0.319,
+   "score": 0.313,
    "tier": 3
   },
   {
@@ -419,7 +448,22 @@
    "tldr": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
    "published": "2026-09-07T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.313,
+   "score": 0.312,
+   "tier": 3
+  },
+  {
+   "id": "191d42d3c06b4476cc90ffa6e824bdb6cc5dce6b",
+   "title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone",
+   "url": "https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent",
+   "source": "Meta Newsroom",
+   "org": [
+    "meta"
+   ],
+   "topic": "ai",
+   "tldr": "Muse is a secure, private personal AI agent that proactively helps people meet their goals and suggests ideas.  The post Introducing Muse: The World’s First Personal AI Agent Built for Everyone appeared first on Meta…",
+   "published": "2026-09-08T19:00:51.000Z",
+   "dupes": 1,
+   "score": 0.311,
    "tier": 3
   },
   {
@@ -434,7 +478,7 @@
    "tldr": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned.  He calls for stronger safeguards and international coordination.",
    "published": "2026-09-06T09:00:00.000Z",
    "dupes": 1,
-   "score": 0.307,
+   "score": 0.306,
    "tier": 3
   },
   {
@@ -452,37 +496,22 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.307,
+   "score": 0.306,
    "tier": 3
   },
   {
-   "id": "5190d2a1dccd48dc131a0e787070b2e338d35788",
-   "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-   "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-   "source": "OpenAI Blog",
+   "id": "1f2ecc4c6e8cf0b37fff94714fcf36951f9bb0b4",
+   "title": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
+   "url": "https://github.com/argonautlabsai/deltafin",
+   "source": "HN · Kimi",
    "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI introduces Daybreak for Frontline Defenders.  A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
-   "published": "2026-09-03T13:15:00.000Z",
-   "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
-   "id": "d75554c78e0fe54a871a452ed74377e3e4786640",
-   "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-   "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model",
-   "source": "Google DeepMind",
-   "org": [
-    "google"
+    "moonshot"
    ],
    "topic": "ai",
    "tldr": "",
-   "published": "2026-09-03T15:02:08.000Z",
+   "published": "2026-09-08T20:07:55.000Z",
    "dupes": 1,
-   "score": 0.301,
+   "score": 0.306,
    "tier": 3
   },
   {
@@ -498,64 +527,6 @@
    "published": "2026-09-03T18:20:31.000Z",
    "dupes": 1,
    "score": 0.276,
-   "tier": 3
-  },
-  {
-   "id": "0e376728d28356802cc977792507af5c7c9dbe3d",
-   "title": "A connectomics milestone: Mapping the complete male fruit fly brain",
-   "url": "https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain",
-   "source": "Google Research",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "General Science",
-   "published": "2026-09-03T16:00:03.000Z",
-   "dupes": 1,
-   "score": 0.276,
-   "tier": 3
-  },
-  {
-   "id": "1d99173b7b229c083c3a431695debd9934f99d60",
-   "title": "Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026",
-   "url": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Frontier intelligence is going local.  At IFA 2026, NVIDIA, Microsoft and its partners are teaming up to provide faster inference and new tools that make agents easier to set up and run locally on NVIDIA hardware.",
-   "published": "2026-09-03T16:00:59.000Z",
-   "dupes": 1,
-   "score": 0.276,
-   "tier": 3
-  },
-  {
-   "id": "0ac264fddc31950e75f8bbf95b805cbc44105028",
-   "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired.",
-   "published": "2026-09-08T20:53:52.000Z",
-   "dupes": 1,
-   "score": 0.274,
-   "tier": 3
-  },
-  {
-   "id": "96a3500c5a4b2fb77e93f3b5d20c1e4767183efb",
-   "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-   "url": "https://huggingface.co/blog/Hcompany/neomme",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-03T13:13:48.000Z",
-   "dupes": 1,
-   "score": 0.263,
    "tier": 3
   }
  ]
