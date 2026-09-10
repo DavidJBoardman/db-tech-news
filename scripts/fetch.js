@@ -8,7 +8,9 @@ import { SOURCES, TOPIC_RULES, ORG_RULES, BADGE_RULES } from './sources.js';
 const USER_AGENT = 'signal-briefing/1.0 (+https://github.com/dboardman/signal)';
 const FETCH_TIMEOUT_MS = 10_000;
 const MAX_AGE_DAYS = 7;
-const MAX_ITEMS = 60;
+const MAX_ITEMS = 72;
+const PER_TOPIC_CAP = 12; // max items any single topic contributes to the feed —
+                          // stops high-volume beats (gaming) swamping the All view
 const ARXIV_DELAY_MS = 3_000; // arXiv asks for 3s between requests
 
 // ───────────────────────── fetch ─────────────────────────
@@ -342,7 +344,21 @@ async function main() {
   for (const item of unique) item.score = score(item, maxPoints);
   unique.sort((a, b) => b.score - a.score);
 
-  const items = unique.slice(0, MAX_ITEMS).map((item, i) => {
+  // Per-topic cap: walk the score-ranked list and skip a topic once it has
+  // contributed PER_TOPIC_CAP items. Preserves global score order (so the hero
+  // and top cards are still the strongest signals overall) while keeping any one
+  // high-volume beat from crowding out the rest of the "All" view.
+  const topicCounts = new Map();
+  const ranked = [];
+  for (const item of unique) {
+    const n = topicCounts.get(item.topic) ?? 0;
+    if (n >= PER_TOPIC_CAP) continue;
+    topicCounts.set(item.topic, n + 1);
+    ranked.push(item);
+    if (ranked.length >= MAX_ITEMS) break;
+  }
+
+  const items = ranked.map((item, i) => {
     const { points, weight, ...out } = item;
     out.tier = i === 0 ? 1 : i <= 12 ? 2 : 3;
     if (!out.badges.length) delete out.badges;

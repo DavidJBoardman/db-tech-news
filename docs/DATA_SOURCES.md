@@ -99,9 +99,11 @@ stays in its own category.
 | gaming | IGN | `https://www.ign.com/rss/articles/feed` |
 
 Note: NVIDIA Blog (Tier A) also carries `topic: compute`, so it appears under the
-Hardware tab as well as AI. Gaming outlets publish at high volume, so on the "All"
-tab they dominate by recency — the per-category tabs remain balanced. Tune via
-source `weight` if a different mix is wanted.
+Hardware tab as well as AI. Gaming outlets publish at high volume; a **per-topic
+cap** in `fetch.js` (`PER_TOPIC_CAP`, default 12) stops any one beat from
+swamping the "All" view — the score-ranked list is walked in order and a topic is
+skipped once it has contributed that many items, so the strongest signals still
+lead. Raise/lower the cap, or a source `weight`, to shift the mix.
 
 ## Topic taxonomy
 
