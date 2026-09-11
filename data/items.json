@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-11T07:23:21.772Z",
+ "generated": "2026-09-11T12:16:52.286Z",
  "items": [
   {
    "id": "2b26a8066576cc984b3694eea8e3d3f95cde781c",
@@ -13,8 +13,68 @@
    "tldr": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
    "published": "2026-09-10T00:00:00.000Z",
    "dupes": 2,
-   "score": 0.701,
+   "score": 0.7,
    "tier": 1
+  },
+  {
+   "id": "68c3fe310973ffe070f85bb499c6995990bcc98d",
+   "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
+   "url": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Technology",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
+   "published": "2026-09-11T08:15:25.000Z",
+   "dupes": 1,
+   "score": 0.695,
+   "tier": 2
+  },
+  {
+   "id": "8dfd8a22b3730827389fc10f12e7ed2f12b2b3bb",
+   "title": "Microsoft fixes Teams, Outlook launch failures on ARM Windows PCs",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-outlook-launch-failures-on-arm-windows-pcs",
+   "source": "BleepingComputer",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "security",
+   "tldr": "Microsoft has fixed a bug that prevented Teams and Outlook from launching on ARM-based Windows devices after installing updates released since the August 2026 Patch Tuesday.",
+   "published": "2026-09-11T09:39:37.000Z",
+   "dupes": 1,
+   "score": 0.694,
+   "tier": 2
+  },
+  {
+   "id": "8e10c98735ba80c71c5537ee50f78014f813fe84",
+   "title": "Claude is no longer available for minors",
+   "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+   "source": "Hacker News",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-11T10:48:00.000Z",
+   "dupes": 1,
+   "score": 0.685,
+   "tier": 2
+  },
+  {
+   "id": "5cae1aaa69b9ba5c4bbd58036d690c438dfb460d",
+   "title": "DeepSeek v4.1 Flash Uncensored",
+   "url": "https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8",
+   "source": "HN · DeepSeek",
+   "org": [
+    "deepseek"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-11T06:46:19.000Z",
+   "dupes": 3,
+   "score": 0.677,
+   "tier": 2
   },
   {
    "id": "85faadacbcd04c99378c4f9386518b59b6b62d3f",
@@ -28,7 +88,7 @@
    "tldr": "Multiple cyber-espionage groups deployed an exploit kit dubbed \"BlueMoon\" that leveraged zero-day vulnerabilities in Microsoft Windows and Google Chrome.",
    "published": "2026-09-10T14:11:34.000Z",
    "dupes": 2,
-   "score": 0.69,
+   "score": 0.674,
    "tier": 2
   },
   {
@@ -43,7 +103,7 @@
    "tldr": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
    "published": "2026-09-10T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.681,
+   "score": 0.665,
    "tier": 2
   },
   {
@@ -58,127 +118,7 @@
    "tldr": "Meet the Data agent in ChatGPT Work.  Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
    "published": "2026-09-10T15:00:00.000Z",
    "dupes": 1,
-   "score": 0.678,
-   "tier": 2
-  },
-  {
-   "id": "540933cdd5aa8ebd2cb943399a4783e3aa55cb3e",
-   "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
-   "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand",
-   "source": "TechCrunch",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
-   "published": "2026-09-10T20:59:51.000Z",
-   "dupes": 1,
-   "score": 0.668,
-   "tier": 2
-  },
-  {
-   "id": "e0cba6203732c00e71ceb4c8d2cc67cd39e6b1b7",
-   "title": "Microsoft Excel KB5002914 update breaks copy and paste for some users",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-excel-kb5002914-update-breaks-copy-and-paste-for-some-users",
-   "source": "BleepingComputer",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "security",
-   "tldr": "Microsoft Excel users report that this week's KB5002914 Office security update is breaking copy-and-paste operations and formula dragging, with affected users saying that removing or rolling back the update restores…",
-   "published": "2026-09-10T19:07:33.000Z",
-   "dupes": 1,
-   "score": 0.653,
-   "tier": 2
-  },
-  {
-   "id": "016c3ec9b775a98e5ec43d6010b5a5132a940638",
-   "title": "Introducing ChatGPT for Financial Services",
-   "url": "https://openai.com/index/introducing-chatgpt-financial-services",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
-   "published": "2026-09-10T07:00:00.000Z",
-   "dupes": 1,
-   "score": 0.652,
-   "tier": 2
-  },
-  {
-   "id": "1ef5285e671d0ace6126abde2e7dec0b8255af8f",
-   "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-   "url": "https://openai.com/index/expanding-ai-access-us-government",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
-   "published": "2026-09-10T07:00:00.000Z",
-   "dupes": 1,
-   "score": 0.652,
-   "tier": 2
-  },
-  {
-   "id": "08a60f9179828c91dbc6ca5d8f7eb3d47da34b02",
-   "title": "NASA Invites Media to Djibouti Artemis Accords Signing Ceremony",
-   "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-djibouti-artemis-accords-signing-ceremony",
-   "source": "NASA",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "m.  EDT, Monday, Sept.",
-   "published": "2026-09-10T21:11:32.000Z",
-   "dupes": 1,
-   "score": 0.651,
-   "tier": 2
-  },
-  {
-   "id": "62ee1f7f12b64f1847eec1944d92f68474780032",
-   "title": "Apple's iPhone 18 Pro adds variable camera aperture and a more powerful chip",
-   "url": "https://arstechnica.com/gadgets/2026/09/apples-iphone-18-pro-adds-variable-camera-aperture-and-a-more-powerful-chip",
-   "source": "Ars Technica",
-   "org": [
-    "apple"
-   ],
-   "topic": "compute",
-   "tldr": "There's also a new thermal management system, reducing overheating.",
-   "published": "2026-09-09T17:38:53.000Z",
-   "dupes": 2,
-   "score": 0.65,
-   "tier": 2
-  },
-  {
-   "id": "71d20dd5654ae778b3b624bb020b49d85d1df53a",
-   "title": "NASA Answers President’s Call to Establish United States Space Academy",
-   "url": "https://www.nasa.gov/news-release/nasa-answers-presidents-call-to-establish-united-states-space-academy",
-   "source": "NASA",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "Less than two weeks after an Executive Order was signed to create the first United States Space Academy, NASA-led work is in full swing to make the academy a reality and shape the future of America’s aerospace workforce…",
-   "published": "2026-09-10T20:26:52.000Z",
-   "dupes": 1,
-   "score": 0.648,
-   "tier": 2
-  },
-  {
-   "id": "41a4f05892efd2ffdf8c5e8daf43f8bc0a1a7ffb",
-   "title": "NASA’s Life-Saving Technology Where Cell Signals Can’t Go",
-   "url": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasas-life-saving-technology-where-cell-signals-cant-go",
-   "source": "NASA",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "Search and rescue technology developed in part by NASA saved five lives",
-   "published": "2026-09-10T20:12:39.000Z",
-   "dupes": 1,
-   "score": 0.647,
+   "score": 0.662,
    "tier": 2
   },
   {
@@ -193,40 +133,160 @@
    "tldr": "",
    "published": "2026-09-10T13:39:16.000Z",
    "dupes": 1,
-   "score": 0.645,
+   "score": 0.65,
    "tier": 2
   },
   {
-   "id": "822d4f35b50fcf84d376af723ec9a33d607c6f36",
-   "title": "ToolGrad: Efficient tool-use dataset generation with textual \"gradients\"",
-   "url": "https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients",
-   "source": "Google Research",
+   "id": "540933cdd5aa8ebd2cb943399a4783e3aa55cb3e",
+   "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+   "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand",
+   "source": "TechCrunch",
    "org": [
-    "google"
+    "openai"
    ],
    "topic": "ai",
-   "tldr": "Machine Intelligence",
-   "published": "2026-09-10T22:50:22.000Z",
+   "tldr": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
+   "published": "2026-09-10T20:59:51.000Z",
    "dupes": 1,
-   "score": 0.642,
-   "tier": 3
+   "score": 0.65,
+   "tier": 2
   },
   {
-   "id": "13371281df953e4ed9d160315244583376365f3b",
-   "title": "Proof of Capture: Apple Reference Image, but open source and using steganography",
-   "url": "https://merybenavente.me/blog/proof-of-capture",
+   "id": "a1f5ae11a556ed92cd5a58ccc0c973ce2583d350",
+   "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+   "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek",
+   "source": "TechCrunch",
+   "org": [
+    "anthropic",
+    "deepseek",
+    "moonshot",
+    "qwen"
+   ],
+   "topic": "ai",
+   "tldr": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
+   "published": "2026-09-10T20:57:30.000Z",
+   "dupes": 1,
+   "score": 0.649,
+   "tier": 2
+  },
+  {
+   "id": "782d6bbf2b5289c7a17049b3c21f4bf16eb01af3",
+   "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+   "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
    "source": "Hacker News",
    "org": [
-    "apple"
+    "openai"
    ],
    "topic": "ai",
    "tldr": "",
-   "published": "2026-09-10T19:44:15.000Z",
-   "badges": [
-    "oss"
-   ],
+   "published": "2026-09-10T06:49:43.000Z",
    "dupes": 1,
-   "score": 0.637,
+   "score": 0.642,
+   "tier": 2
+  },
+  {
+   "id": "016c3ec9b775a98e5ec43d6010b5a5132a940638",
+   "title": "Introducing ChatGPT for Financial Services",
+   "url": "https://openai.com/index/introducing-chatgpt-financial-services",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
+   "published": "2026-09-10T07:00:00.000Z",
+   "dupes": 1,
+   "score": 0.639,
+   "tier": 2
+  },
+  {
+   "id": "1ef5285e671d0ace6126abde2e7dec0b8255af8f",
+   "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+   "url": "https://openai.com/index/expanding-ai-access-us-government",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
+   "published": "2026-09-10T07:00:00.000Z",
+   "dupes": 1,
+   "score": 0.639,
+   "tier": 3
+  },
+  {
+   "id": "e0cba6203732c00e71ceb4c8d2cc67cd39e6b1b7",
+   "title": "Microsoft Excel KB5002914 update breaks copy and paste for some users",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-excel-kb5002914-update-breaks-copy-and-paste-for-some-users",
+   "source": "BleepingComputer",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "security",
+   "tldr": "Microsoft Excel users report that this week's KB5002914 Office security update is breaking copy-and-paste operations and formula dragging, with affected users saying that removing or rolling back the update restores…",
+   "published": "2026-09-10T19:07:33.000Z",
+   "dupes": 1,
+   "score": 0.635,
+   "tier": 3
+  },
+  {
+   "id": "08a60f9179828c91dbc6ca5d8f7eb3d47da34b02",
+   "title": "NASA Invites Media to Djibouti Artemis Accords Signing Ceremony",
+   "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-djibouti-artemis-accords-signing-ceremony",
+   "source": "NASA",
+   "org": [
+    "nasa"
+   ],
+   "topic": "space",
+   "tldr": "m.  EDT, Monday, Sept.",
+   "published": "2026-09-10T21:11:32.000Z",
+   "dupes": 1,
+   "score": 0.633,
+   "tier": 3
+  },
+  {
+   "id": "71d20dd5654ae778b3b624bb020b49d85d1df53a",
+   "title": "NASA Answers President’s Call to Establish United States Space Academy",
+   "url": "https://www.nasa.gov/news-release/nasa-answers-presidents-call-to-establish-united-states-space-academy",
+   "source": "NASA",
+   "org": [
+    "nasa"
+   ],
+   "topic": "space",
+   "tldr": "Less than two weeks after an Executive Order was signed to create the first United States Space Academy, NASA-led work is in full swing to make the academy a reality and shape the future of America’s aerospace workforce…",
+   "published": "2026-09-10T20:26:52.000Z",
+   "dupes": 1,
+   "score": 0.63,
+   "tier": 3
+  },
+  {
+   "id": "41a4f05892efd2ffdf8c5e8daf43f8bc0a1a7ffb",
+   "title": "NASA’s Life-Saving Technology Where Cell Signals Can’t Go",
+   "url": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasas-life-saving-technology-where-cell-signals-cant-go",
+   "source": "NASA",
+   "org": [
+    "nasa"
+   ],
+   "topic": "space",
+   "tldr": "Search and rescue technology developed in part by NASA saved five lives",
+   "published": "2026-09-10T20:12:39.000Z",
+   "dupes": 1,
+   "score": 0.63,
+   "tier": 3
+  },
+  {
+   "id": "62ee1f7f12b64f1847eec1944d92f68474780032",
+   "title": "Apple's iPhone 18 Pro adds variable camera aperture and a more powerful chip",
+   "url": "https://arstechnica.com/gadgets/2026/09/apples-iphone-18-pro-adds-variable-camera-aperture-and-a-more-powerful-chip",
+   "source": "Ars Technica",
+   "org": [
+    "apple"
+   ],
+   "topic": "compute",
+   "tldr": "There's also a new thermal management system, reducing overheating.",
+   "published": "2026-09-09T17:38:53.000Z",
+   "dupes": 2,
+   "score": 0.621,
    "tier": 3
   },
   {
@@ -241,22 +301,7 @@
    "tldr": "Through a new collaboration between NASA and the National Football League (NFL), the agency will soon bring America’s strengths in space exploration and aeronautics innovation to the football field.  NASA will conduct…",
    "published": "2026-09-10T17:28:13.000Z",
    "dupes": 1,
-   "score": 0.637,
-   "tier": 3
-  },
-  {
-   "id": "4a117c1be7e3b1a93aaebd552d263e78cd15fd06",
-   "title": "iPhone Duo",
-   "url": "https://www.apple.com/iphone-duo",
-   "source": "Hacker News",
-   "org": [
-    "apple"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-09T18:15:43.000Z",
-   "dupes": 1,
-   "score": 0.636,
+   "score": 0.621,
    "tier": 3
   },
   {
@@ -271,37 +316,7 @@
    "tldr": "Europe is looking inward, and perhaps to China, as the White House tries to cancel some NASA partnerships.",
    "published": "2026-09-10T19:09:29.000Z",
    "dupes": 1,
-   "score": 0.635,
-   "tier": 3
-  },
-  {
-   "id": "4e410dad70fb92989558aa8ff122fdd9cabd1589",
-   "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-   "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-   "published": "2026-09-10T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.634,
-   "tier": 3
-  },
-  {
-   "id": "782d6bbf2b5289c7a17049b3c21f4bf16eb01af3",
-   "title": "More questions about whether researchers can trust OpenAI with unpublished math",
-   "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
-   "source": "Hacker News",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-10T06:49:43.000Z",
-   "dupes": 1,
-   "score": 0.631,
+   "score": 0.619,
    "tier": 3
   },
   {
@@ -316,22 +331,7 @@
    "tldr": "Microsoft has fixed a known issue that wiped mouse settings on some Windows 11 systems after installing the KB5120998 August 2026 preview update.",
    "published": "2026-09-10T11:14:28.000Z",
    "dupes": 1,
-   "score": 0.625,
-   "tier": 3
-  },
-  {
-   "id": "7b473b3f465e888193ec11e3bf0241233190ae01",
-   "title": "Microsoft fixes bug that wiped Windows desktop settings",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-wiped-windows-desktop-settings",
-   "source": "BleepingComputer",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "security",
-   "tldr": "Microsoft says the September 2026 Patch Tuesday updates fix a known issue causing desktop settings to be lost or reset on some Windows devices.",
-   "published": "2026-09-10T08:08:16.000Z",
-   "dupes": 1,
-   "score": 0.616,
+   "score": 0.61,
    "tier": 3
   },
   {
@@ -346,127 +346,22 @@
    "tldr": "\"Artemis II is done.\"",
    "published": "2026-09-10T11:30:42.000Z",
    "dupes": 1,
-   "score": 0.61,
+   "score": 0.596,
    "tier": 3
   },
   {
-   "id": "74f1f6122ab89e844c509ea1b9a5c231694eb865",
-   "title": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
-   "url": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Manufacturing floors, warehouses and production lines rarely stay fixed — tasks change, layouts shift and new products arrive, and most robots can’t keep up without significant reprogramming.  Skild AI’s new S1 robot…",
-   "published": "2026-09-10T16:30:35.000Z",
-   "dupes": 1,
-   "score": 0.607,
-   "tier": 3
-  },
-  {
-   "id": "94f3002b19f7a180072de7e5ea51b2b5768d2890",
-   "title": "Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With NVIDIA Technologies",
-   "url": "https://blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "The global robotaxi market — physical AI’s first commercial breakthrough — is projected to reach $400 billion by 2035, with over 6 million commercial vehicles in operation as driverless fleets are already moving people…",
-   "published": "2026-09-10T16:00:04.000Z",
-   "dupes": 1,
-   "score": 0.606,
-   "tier": 3
-  },
-  {
-   "id": "ea4d3b05d9ae69b7f5c955bd609b87be574d67a4",
-   "title": "d-Matrix Adopts NVIDIA NVLink Fusion for Rack-Scale XPU Deployment",
-   "url": "https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "AI inference chipmaker d-Matrix today announced it will use NVLink Fusion to connect its next-generation Raptor XPUs to NVIDIA’s AI infrastructure platform — joining a growing roster of partners building on the NVIDIA…",
-   "published": "2026-09-10T13:00:21.000Z",
-   "dupes": 1,
-   "score": 0.6,
-   "tier": 3
-  },
-  {
-   "id": "d4bbe1e3ba12fda50062cf61bd1e099794716b20",
-   "title": "Boots on the Ground: ‘WARDOGS’ Goes All Out on GeForce NOW at Early-Access Launch",
-   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-wardogs",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Gear up: The latest PC games and major updates are ready to play on GeForce NOW this week.  0 Deep North update and Bus Simulator 27 — part of nine new titles joining the cloud.",
-   "published": "2026-09-10T13:00:18.000Z",
-   "dupes": 1,
-   "score": 0.6,
-   "tier": 3
-  },
-  {
-   "id": "0f9f58c133e97656c867e5d93fa530bbe3f70c65",
-   "title": "Google Play Early Access Abused to Push Thousands of Deceptive Android Apps",
-   "url": "https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html",
+   "id": "9bc437ba8d30c4e6dcc5a19a790084311cc9d843",
+   "title": "Anthropic Discloses Fourth AI Hacking Incident Involving Claude Opus 4.6",
+   "url": "https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html",
    "source": "The Hacker News",
    "org": [
-    "google"
+    "anthropic"
    ],
    "topic": "security",
-   "tldr": "Bad actors are misusing Google Play's Early Access program to push deceptive apps that claim to offer money, rewards, casino winnings, and premium content.  Early Access apps are apps that haven't been released on the…",
-   "published": "2026-09-10T14:36:47.000Z",
+   "tldr": "Anthropic on Wednesday disclosed a fourth incident in which its artificial intelligence (AI) model broke into real third-party systems, marking the latest in a growing list of cases that have raised concerns about the…",
+   "published": "2026-09-10T07:04:01.000Z",
    "dupes": 1,
-   "score": 0.594,
-   "tier": 3
-  },
-  {
-   "id": "f8cd3e2d835082fa5f3f381789758264d714bdbd",
-   "title": "Apple's long-rumored foldable becomes reality with the $2,000 iPhone Duo",
-   "url": "https://arstechnica.com/gadgets/2026/09/apples-long-rumored-foldable-becomes-reality-with-the-2000-iphone-duo",
-   "source": "Ars Technica · Gadgets",
-   "org": [
-    "apple"
-   ],
-   "topic": "compute",
-   "tldr": "Apple's first foldable can be yours next month.",
-   "published": "2026-09-09T19:42:00.000Z",
-   "dupes": 1,
-   "score": 0.583,
-   "tier": 3
-  },
-  {
-   "id": "0eafb300895fea7219d84d04a210f42e311b9e4a",
-   "title": "Apple debuts $129 AirPods 5 with better noise cancellation and transparency mode",
-   "url": "https://arstechnica.com/gadgets/2026/09/apple-debuts-129-airpods-5-with-better-noise-cancellation-and-transparency-mode",
-   "source": "Ars Technica · Gadgets",
-   "org": [
-    "apple"
-   ],
-   "topic": "compute",
-   "tldr": "AirPods 5 with noise cancellation is cheaper than its predecessor.",
-   "published": "2026-09-09T18:58:24.000Z",
-   "dupes": 1,
-   "score": 0.582,
-   "tier": 3
-  },
-  {
-   "id": "c3225c583b5c544785130b6f71e2ad8e2c8c4de7",
-   "title": "Apple starts preorders for Watch Series 12, Ultra 4 with new Health Sensing System",
-   "url": "https://arstechnica.com/gadgets/2026/09/apple-watch-series-12-ultra-4-have-wearables-most-accurate-heart-rate-sensing",
-   "source": "Ars Technica · Gadgets",
-   "org": [
-    "apple"
-   ],
-   "topic": "compute",
-   "tldr": "New Apple Intelligence features, too.",
-   "published": "2026-09-09T18:47:07.000Z",
-   "dupes": 1,
-   "score": 0.581,
+   "score": 0.591,
    "tier": 3
   },
   {
@@ -481,7 +376,7 @@
    "tldr": ", and its Terran R launch service in accordance with the contract’s on-ramp provision.  The Terran R launch service will be available to NASA’s launch services to use for future missions.",
    "published": "2026-09-09T20:11:58.000Z",
    "dupes": 1,
-   "score": 0.578,
+   "score": 0.568,
    "tier": 3
   },
   {
@@ -496,22 +391,67 @@
    "tldr": "Using NASA’s Chandra X-ray Observatory, scientists have discovered a new class of objects behaving unlike any they have seen before.  Astronomers suggest these newly spotted objects in other galaxies may help solve not…",
    "published": "2026-09-09T18:11:24.000Z",
    "dupes": 1,
-   "score": 0.574,
+   "score": 0.564,
    "tier": 3
   },
   {
-   "id": "507a075c9a26389e1d5bbd764b3b74009b84cec7",
-   "title": "NVIDIA Brings Real-Time AI to Broadcast, Sports and Global Streaming at IBC",
-   "url": "https://blogs.nvidia.com/blog/ibc-news-2026",
+   "id": "74f1f6122ab89e844c509ea1b9a5c231694eb865",
+   "title": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
+   "url": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai",
    "source": "NVIDIA Blog",
    "org": [
     "nvidia"
    ],
    "topic": "compute",
-   "tldr": "At the IBC conference, running Sept.  11-14 in Amsterdam, the creative, technology and business communities are coming together to turn ideas into action and discuss innovations across the media and entertainment…",
-   "published": "2026-09-09T16:00:42.000Z",
+   "tldr": "Manufacturing floors, warehouses and production lines rarely stay fixed — tasks change, layouts shift and new products arrive, and most robots can’t keep up without significant reprogramming.  Skild AI’s new S1 robot…",
+   "published": "2026-09-10T16:30:35.000Z",
    "dupes": 1,
-   "score": 0.572,
+   "score": 0.562,
+   "tier": 3
+  },
+  {
+   "id": "94f3002b19f7a180072de7e5ea51b2b5768d2890",
+   "title": "Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With NVIDIA Technologies",
+   "url": "https://blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "The global robotaxi market — physical AI’s first commercial breakthrough — is projected to reach $400 billion by 2035, with over 6 million commercial vehicles in operation as driverless fleets are already moving people…",
+   "published": "2026-09-10T16:00:04.000Z",
+   "dupes": 1,
+   "score": 0.561,
+   "tier": 3
+  },
+  {
+   "id": "ea4d3b05d9ae69b7f5c955bd609b87be574d67a4",
+   "title": "d-Matrix Adopts NVIDIA NVLink Fusion for Rack-Scale XPU Deployment",
+   "url": "https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "AI inference chipmaker d-Matrix today announced it will use NVLink Fusion to connect its next-generation Raptor XPUs to NVIDIA’s AI infrastructure platform — joining a growing roster of partners building on the NVIDIA…",
+   "published": "2026-09-10T13:00:21.000Z",
+   "dupes": 1,
+   "score": 0.557,
+   "tier": 3
+  },
+  {
+   "id": "d4bbe1e3ba12fda50062cf61bd1e099794716b20",
+   "title": "Boots on the Ground: ‘WARDOGS’ Goes All Out on GeForce NOW at Early-Access Launch",
+   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-wardogs",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Gear up: The latest PC games and major updates are ready to play on GeForce NOW this week.  0 Deep North update and Bus Simulator 27 — part of nine new titles joining the cloud.",
+   "published": "2026-09-10T13:00:18.000Z",
+   "dupes": 1,
+   "score": 0.557,
    "tier": 3
   },
   {
@@ -526,7 +466,52 @@
    "tldr": "Microsoft Corp.  today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever.",
    "published": "2026-09-08T21:44:22.000Z",
    "dupes": 1,
-   "score": 0.561,
+   "score": 0.555,
+   "tier": 3
+  },
+  {
+   "id": "f8cd3e2d835082fa5f3f381789758264d714bdbd",
+   "title": "Apple's long-rumored foldable becomes reality with the $2,000 iPhone Duo",
+   "url": "https://arstechnica.com/gadgets/2026/09/apples-long-rumored-foldable-becomes-reality-with-the-2000-iphone-duo",
+   "source": "Ars Technica · Gadgets",
+   "org": [
+    "apple"
+   ],
+   "topic": "compute",
+   "tldr": "Apple's first foldable can be yours next month.",
+   "published": "2026-09-09T19:42:00.000Z",
+   "dupes": 1,
+   "score": 0.552,
+   "tier": 3
+  },
+  {
+   "id": "0eafb300895fea7219d84d04a210f42e311b9e4a",
+   "title": "Apple debuts $129 AirPods 5 with better noise cancellation and transparency mode",
+   "url": "https://arstechnica.com/gadgets/2026/09/apple-debuts-129-airpods-5-with-better-noise-cancellation-and-transparency-mode",
+   "source": "Ars Technica · Gadgets",
+   "org": [
+    "apple"
+   ],
+   "topic": "compute",
+   "tldr": "AirPods 5 with noise cancellation is cheaper than its predecessor.",
+   "published": "2026-09-09T18:58:24.000Z",
+   "dupes": 1,
+   "score": 0.551,
+   "tier": 3
+  },
+  {
+   "id": "c3225c583b5c544785130b6f71e2ad8e2c8c4de7",
+   "title": "Apple starts preorders for Watch Series 12, Ultra 4 with new Health Sensing System",
+   "url": "https://arstechnica.com/gadgets/2026/09/apple-watch-series-12-ultra-4-have-wearables-most-accurate-heart-rate-sensing",
+   "source": "Ars Technica · Gadgets",
+   "org": [
+    "apple"
+   ],
+   "topic": "compute",
+   "tldr": "New Apple Intelligence features, too.",
+   "published": "2026-09-09T18:47:07.000Z",
+   "dupes": 1,
+   "score": 0.551,
    "tier": 3
   },
   {
@@ -543,7 +528,7 @@
    "tldr": "S.  cybersecurity and intelligence agencies have accused China-based artificial intelligence (AI) companies of conducting \"systematic extraction\" of proprietary functionalities and capabilities of American frontier…",
    "published": "2026-09-09T09:32:26.000Z",
    "dupes": 1,
-   "score": 0.555,
+   "score": 0.547,
    "tier": 3
   },
   {
@@ -558,22 +543,22 @@
    "tldr": "The security researcher known as Chaotic Eclipse has dropped a proof-of-concept (PoC) for yet another zero-day in Microsoft Defender.  8), also called ShieldBreak, which the researcher reported last month.",
    "published": "2026-09-09T06:47:27.000Z",
    "dupes": 1,
-   "score": 0.551,
+   "score": 0.543,
    "tier": 3
   },
   {
-   "id": "1cb567e40b7eeb546bae70a10e2b2e12732abef2",
-   "title": "Google complies with EU rules for travel searches, says the new results stink",
-   "url": "https://arstechnica.com/gadgets/2026/09/google-says-europe-is-making-it-roll-out-degraded-travel-search-results",
-   "source": "Ars Technica · Gadgets",
+   "id": "507a075c9a26389e1d5bbd764b3b74009b84cec7",
+   "title": "NVIDIA Brings Real-Time AI to Broadcast, Sports and Global Streaming at IBC",
+   "url": "https://blogs.nvidia.com/blog/ibc-news-2026",
+   "source": "NVIDIA Blog",
    "org": [
-    "google"
+    "nvidia"
    ],
    "topic": "compute",
-   "tldr": "The EU continues to go after Google search practices it sees as anticompetitive.",
-   "published": "2026-09-08T16:49:55.000Z",
+   "tldr": "At the IBC conference, running Sept.  11-14 in Amsterdam, the creative, technology and business communities are coming together to turn ideas into action and discuss innovations across the media and entertainment…",
+   "published": "2026-09-09T16:00:42.000Z",
    "dupes": 1,
-   "score": 0.539,
+   "score": 0.531,
    "tier": 3
   },
   {
@@ -588,22 +573,7 @@
    "tldr": "Check Point Research said in a report published today that a single instruction planted in a ChatGPT conversation could cause ChatGPT to quietly work for an attacker while answering the user's question as usual.",
    "published": "2026-09-08T14:19:17.000Z",
    "dupes": 1,
-   "score": 0.528,
-   "tier": 3
-  },
-  {
-   "id": "9bc437ba8d30c4e6dcc5a19a790084311cc9d843",
-   "title": "Anthropic Discloses Fourth AI Hacking Incident Involving Claude Opus 4.6",
-   "url": "https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html",
-   "source": "The Hacker News",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "security",
-   "tldr": "Anthropic on Wednesday disclosed a fourth incident in which its artificial intelligence (AI) model broke into real third-party systems, marking the latest in a growing list of cases that have raised concerns about the…",
-   "published": "2026-09-10T07:04:01.000Z",
-   "dupes": 1,
-   "score": 0.526,
+   "score": 0.523,
    "tier": 3
   },
   {
@@ -618,7 +588,22 @@
    "tldr": "Researchers at the security firm Calif have built a worm that takes over a WeChat account via an incoming call and demonstrated it spreading among three test phones.  The person being called does not have to answer or…",
    "published": "2026-09-08T11:54:29.000Z",
    "dupes": 1,
-   "score": 0.525,
+   "score": 0.52,
+   "tier": 3
+  },
+  {
+   "id": "a48cf88b7ef572894a0b60cc1f2222ed70b63b58",
+   "title": "Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks",
+   "url": "https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html",
+   "source": "The Hacker News",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "security",
+   "tldr": "Threat hunters have disclosed details of a widespread data theft and extortion threat cluster that's targeting Microsoft 365 and other software-as-a-service (SaaS) offerings through information technology (IT) help desk…",
+   "published": "2026-09-07T15:51:56.000Z",
+   "dupes": 1,
+   "score": 0.505,
    "tier": 3
   },
   {
@@ -635,22 +620,7 @@
    "tldr": "Xbox will publish Kojima Productions' upcoming title Physint after the developer \"unexpectedly received notice from PlayStation Studios that they would cancel the Physint project\" in mid-June.",
    "published": "2026-09-10T07:34:19.000Z",
    "dupes": 1,
-   "score": 0.517,
-   "tier": 3
-  },
-  {
-   "id": "a48cf88b7ef572894a0b60cc1f2222ed70b63b58",
-   "title": "Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks",
-   "url": "https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html",
-   "source": "The Hacker News",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "security",
-   "tldr": "Threat hunters have disclosed details of a widespread data theft and extortion threat cluster that's targeting Microsoft 365 and other software-as-a-service (SaaS) offerings through information technology (IT) help desk…",
-   "published": "2026-09-07T15:51:56.000Z",
-   "dupes": 1,
-   "score": 0.508,
+   "score": 0.505,
    "tier": 3
   },
   {
@@ -666,7 +636,52 @@
    "tldr": "Blizzard Entertainment has secured a first union contract with parent company Microsoft, ratified by a workforce vote covering just under 1,900 staff.",
    "published": "2026-09-09T20:14:39.000Z",
    "dupes": 1,
-   "score": 0.493,
+   "score": 0.484,
+   "tier": 3
+  },
+  {
+   "id": "0f9f58c133e97656c867e5d93fa530bbe3f70c65",
+   "title": "Google Play Early Access Abused to Push Thousands of Deceptive Android Apps",
+   "url": "https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html",
+   "source": "The Hacker News",
+   "org": [
+    "google"
+   ],
+   "topic": "security",
+   "tldr": "Bad actors are misusing Google Play's Early Access program to push deceptive apps that claim to offer money, rewards, casino winnings, and premium content.  Early Access apps are apps that haven't been released on the…",
+   "published": "2026-09-10T14:36:47.000Z",
+   "dupes": 1,
+   "score": 0.458,
+   "tier": 3
+  },
+  {
+   "id": "59b964a51c3880dd047c63e8d5be063bdec43736",
+   "title": "A team of teams like never before: rehearsing a unique launch at ESA mission control",
+   "url": "https://www.esa.int/Enabling_Support/Operations/A_team_of_teams_like_never_before_rehearsing_a_unique_launch_at_ESA_mission_control",
+   "source": "ESA Space News",
+   "org": [
+    "esa"
+   ],
+   "topic": "space",
+   "tldr": "On 15 September, two spacecraft will leave Earth together aboard the same launcher from Europe’s spaceport in Kourou: FLEX, ESA’s photosynthesis mission, and Sentinel-3C, Copernicus’ newest satellite monitoring Earth’s…",
+   "published": "2026-09-11T08:00:00.000Z",
+   "dupes": 1,
+   "score": 0.424,
+   "tier": 3
+  },
+  {
+   "id": "1cb567e40b7eeb546bae70a10e2b2e12732abef2",
+   "title": "Google complies with EU rules for travel searches, says the new results stink",
+   "url": "https://arstechnica.com/gadgets/2026/09/google-says-europe-is-making-it-roll-out-degraded-travel-search-results",
+   "source": "Ars Technica · Gadgets",
+   "org": [
+    "google"
+   ],
+   "topic": "compute",
+   "tldr": "The EU continues to go after Google search practices it sees as anticompetitive.",
+   "published": "2026-09-08T16:49:55.000Z",
+   "dupes": 1,
+   "score": 0.421,
    "tier": 3
   },
   {
@@ -684,111 +699,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.417,
-   "tier": 3
-  },
-  {
-   "id": "f58e13a48a5a6c3c2952c58730268b99de72f179",
-   "title": "China’s drone supremacy shows in airlifting bodies and food after Nepal flood disaster",
-   "url": "https://arstechnica.com/gadgets/2026/09/drones-deliver-food-and-remove-bodies-after-nepals-flood-disaster",
-   "source": "Ars Technica",
-   "org": [],
-   "topic": "robotics",
-   "tldr": "DJI drones that already supply Mount Everest camps assist Nepal’s flood relief.",
-   "published": "2026-09-10T16:53:52.000Z",
-   "dupes": 2,
-   "score": 0.376,
-   "tier": 3
-  },
-  {
-   "id": "7772964ebca62fca11dd6ca405ef1e7e8b04157c",
-   "title": "LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership",
-   "url": "https://spacenews.com/latconnect-60-expands-india-market-presence-for-swirsat-with-nsil-agreement-and-geosyze-partnership",
-   "source": "SpaceNews",
-   "org": [],
-   "topic": "space",
-   "tldr": "Australian Earth observation satellite company LatConnect 60 (LC60) has strengthened its position in India with two strategic agreements announced at the Bengaluru Space Expo 2026 on September 7th, spanning satellite…",
-   "published": "2026-09-11T05:32:49.000Z",
-   "dupes": 1,
-   "score": 0.374,
-   "tier": 3
-  },
-  {
-   "id": "7440622c4ad13b78c168ca2b00f028dd9de470f5",
-   "title": "Furo’s founders left Silicon Valley — and it’s paying off",
-   "url": "https://techcrunch.com/2026/09/10/furos-founders-left-silicon-valley-and-its-paying-off",
-   "source": "TechCrunch",
-   "org": [],
-   "topic": "compute",
-   "tldr": "S.  backers.",
-   "published": "2026-09-10T20:48:00.000Z",
-   "dupes": 1,
-   "score": 0.347,
-   "tier": 3
-  },
-  {
-   "id": "c0da6f4b229b0414ee50ca0be05094a8cc048995",
-   "title": "Android can now securely migrate your logins between password managers",
-   "url": "https://arstechnica.com/gadgets/2026/09/android-can-now-securely-migrate-your-logins-between-password-managers",
-   "source": "Ars Technica · Gadgets",
-   "org": [],
-   "topic": "compute",
-   "tldr": "App support is slim right now, but Google says more are coming.",
-   "published": "2026-09-10T18:41:09.000Z",
-   "dupes": 1,
-   "score": 0.331,
-   "tier": 3
-  },
-  {
-   "id": "61a5f83ab965b41c74ebb4c13feccc0be2c4350a",
-   "title": "Dust and Water in Sagittarius A*",
-   "url": "https://www.nasa.gov/image-article/dust-and-water-in-sagittarius-a",
-   "source": "NASA",
-   "org": [],
-   "topic": "space",
-   "tldr": "A brilliant concentration of stars takes center stage in this Aug.  11, 2026, image taken by NASA’s James Webb Space Telescope.",
-   "published": "2026-09-10T16:14:03.000Z",
-   "dupes": 1,
-   "score": 0.329,
-   "tier": 3
-  },
-  {
-   "id": "eeb892339fcd259528701f26f94cb68b8949d9ea",
-   "title": "Teradyne Robotics sues JAKA over 3 Universal Robots patents",
-   "url": "https://www.therobotreport.com/teradyne-robotics-sues-jaka-over-3-universal-robots-patents",
-   "source": "The Robot Report",
-   "org": [],
-   "topic": "robotics",
-   "tldr": "New details reveal the lawsuit involves three Universal Robots patents about robot interfaces, safety brakes, and joints.  The post Teradyne Robotics sues JAKA over 3 Universal Robots patents appeared first on The Robot…",
-   "published": "2026-09-10T22:14:26.000Z",
-   "dupes": 1,
-   "score": 0.328,
-   "tier": 3
-  },
-  {
-   "id": "ace349c1462c56b0b17b976e9954196b7e972b48",
-   "title": "Swarmer to acquire Ukrainian UGV maker Ratel Robotics for up to $224M",
-   "url": "https://www.therobotreport.com/swarmer-to-acquire-ukrainian-ugv-maker-ratel-robotics-for-up-to-224m",
-   "source": "The Robot Report",
-   "org": [],
-   "topic": "robotics",
-   "tldr": "Swarmer, which has developed swarm software, plans to work with Ratel Robotics' unmanned ground vehicles in Ukraine.  The post Swarmer to acquire Ukrainian UGV maker Ratel Robotics for up to $224M appeared first on The…",
-   "published": "2026-09-10T20:10:22.000Z",
-   "dupes": 1,
-   "score": 0.32,
-   "tier": 3
-  },
-  {
-   "id": "ef5155a4b661ca4c30cbc33b7bdcda0a157fa0bb",
-   "title": "Comau automates picking, handling, and palletizing for Decathlon",
-   "url": "https://www.therobotreport.com/comau-automates-picking-handling-and-palletizing-for-decathlon",
-   "source": "The Robot Report",
-   "org": [],
-   "topic": "robotics",
-   "tldr": "Comau's system incorporates its MyCo cobot, ROS2 software architecture, AI-powered vision systems, and a modular gripper.  The post Comau automates picking, handling, and palletizing for Decathlon appeared first on The…",
-   "published": "2026-09-10T18:49:08.000Z",
-   "dupes": 1,
-   "score": 0.315,
+   "score": 0.398,
    "tier": 3
   },
   {
@@ -803,7 +714,137 @@
    "tldr": "The European Space Agency’s Hera asteroid mission for planetary defence has a cartoon dinosaur for its mascot – because dinos were made extinct after an asteroid impact, but while they didn't have a space agency, people…",
    "published": "2026-09-10T14:00:00.000Z",
    "dupes": 1,
+   "score": 0.391,
+   "tier": 3
+  },
+  {
+   "id": "9d586aff05b3d74b888675cb803884129d41d9a9",
+   "title": "Week in images: 07-11 Sep 2026",
+   "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_07-11_Sep_2026",
+   "source": "ESA Space News",
+   "org": [],
+   "topic": "space",
+   "tldr": "Week in images: 07-11 Sep 2026 Discover our week through the lens",
+   "published": "2026-09-11T13:00:00.000Z",
+   "dupes": 1,
+   "score": 0.383,
+   "tier": 3
+  },
+  {
+   "id": "c1660ca8e9985d18802843fa8ae49bb47ffd872b",
+   "title": "Rocket Report: Europe joins the commercial launch club; a Ravn X sighting?",
+   "url": "https://arstechnica.com/space/2026/09/rocket-report-europe-joins-the-commercial-launch-club-a-ravn-x-sighting",
+   "source": "Ars Technica · Space",
+   "org": [],
+   "topic": "space",
+   "tldr": "\"We felt like now is the time to pour gas on that fire.\"",
+   "published": "2026-09-11T11:00:30.000Z",
+   "dupes": 1,
+   "score": 0.362,
+   "tier": 3
+  },
+  {
+   "id": "f58e13a48a5a6c3c2952c58730268b99de72f179",
+   "title": "China’s drone supremacy shows in airlifting bodies and food after Nepal flood disaster",
+   "url": "https://arstechnica.com/gadgets/2026/09/drones-deliver-food-and-remove-bodies-after-nepals-flood-disaster",
+   "source": "Ars Technica",
+   "org": [],
+   "topic": "robotics",
+   "tldr": "DJI drones that already supply Mount Everest camps assist Nepal’s flood relief.",
+   "published": "2026-09-10T16:53:52.000Z",
+   "dupes": 2,
+   "score": 0.36,
+   "tier": 3
+  },
+  {
+   "id": "7440622c4ad13b78c168ca2b00f028dd9de470f5",
+   "title": "Furo’s founders left Silicon Valley — and it’s paying off",
+   "url": "https://techcrunch.com/2026/09/10/furos-founders-left-silicon-valley-and-its-paying-off",
+   "source": "TechCrunch",
+   "org": [],
+   "topic": "compute",
+   "tldr": "S.  backers.",
+   "published": "2026-09-10T20:48:00.000Z",
+   "dupes": 1,
+   "score": 0.329,
+   "tier": 3
+  },
+  {
+   "id": "0011d0285dfbe4b106f33ae5c113aecd6fc2882d",
+   "title": "Saudi Arabia's PIF reportedly considering to combine EA with Savvy Games Group",
+   "url": "https://www.gamesindustry.biz/saudi-arabias-pif-reportedly-considering-to-combine-ea-with-savvy-games-group",
+   "source": "GamesIndustry.biz",
+   "org": [],
+   "topic": "gaming",
+   "tldr": "Saudi Arabia's Public Investment Fund (PIF) is reportedly planning to combine Electronic Arts with its subsidiary, Savvy Games Group.",
+   "published": "2026-09-11T08:29:50.000Z",
+   "dupes": 1,
+   "score": 0.315,
+   "tier": 3
+  },
+  {
+   "id": "c384d28bdcf29f76cada4bd85668567f377d5583",
+   "title": "Saber Interactive has \"no real development in North America any more\"",
+   "url": "https://www.gamesindustry.biz/saber-interactive-has-no-real-development-in-north-america-any-more",
+   "source": "GamesIndustry.biz",
+   "org": [],
+   "topic": "gaming",
+   "tldr": "Saber Interactive's chief creative officer, Tim Willits, has said that the company has \"no real development in North America any more.\" Read more",
+   "published": "2026-09-11T08:27:29.000Z",
+   "dupes": 1,
+   "score": 0.315,
+   "tier": 3
+  },
+  {
+   "id": "c0da6f4b229b0414ee50ca0be05094a8cc048995",
+   "title": "Android can now securely migrate your logins between password managers",
+   "url": "https://arstechnica.com/gadgets/2026/09/android-can-now-securely-migrate-your-logins-between-password-managers",
+   "source": "Ars Technica · Gadgets",
+   "org": [],
+   "topic": "compute",
+   "tldr": "App support is slim right now, but Google says more are coming.",
+   "published": "2026-09-10T18:41:09.000Z",
+   "dupes": 1,
    "score": 0.314,
+   "tier": 3
+  },
+  {
+   "id": "eeb892339fcd259528701f26f94cb68b8949d9ea",
+   "title": "Teradyne Robotics sues JAKA over 3 Universal Robots patents",
+   "url": "https://www.therobotreport.com/teradyne-robotics-sues-jaka-over-3-universal-robots-patents",
+   "source": "The Robot Report",
+   "org": [],
+   "topic": "robotics",
+   "tldr": "New details reveal the lawsuit involves three Universal Robots patents about robot interfaces, safety brakes, and joints.  The post Teradyne Robotics sues JAKA over 3 Universal Robots patents appeared first on The Robot…",
+   "published": "2026-09-10T22:14:26.000Z",
+   "dupes": 1,
+   "score": 0.31,
+   "tier": 3
+  },
+  {
+   "id": "ace349c1462c56b0b17b976e9954196b7e972b48",
+   "title": "Swarmer to acquire Ukrainian UGV maker Ratel Robotics for up to $224M",
+   "url": "https://www.therobotreport.com/swarmer-to-acquire-ukrainian-ugv-maker-ratel-robotics-for-up-to-224m",
+   "source": "The Robot Report",
+   "org": [],
+   "topic": "robotics",
+   "tldr": "Swarmer, which has developed swarm software, plans to work with Ratel Robotics' unmanned ground vehicles in Ukraine.  The post Swarmer to acquire Ukrainian UGV maker Ratel Robotics for up to $224M appeared first on The…",
+   "published": "2026-09-10T20:10:22.000Z",
+   "dupes": 1,
+   "score": 0.303,
+   "tier": 3
+  },
+  {
+   "id": "ef5155a4b661ca4c30cbc33b7bdcda0a157fa0bb",
+   "title": "Comau automates picking, handling, and palletizing for Decathlon",
+   "url": "https://www.therobotreport.com/comau-automates-picking-handling-and-palletizing-for-decathlon",
+   "source": "The Robot Report",
+   "org": [],
+   "topic": "robotics",
+   "tldr": "Comau's system incorporates its MyCo cobot, ROS2 software architecture, AI-powered vision systems, and a modular gripper.  The post Comau automates picking, handling, and palletizing for Decathlon appeared first on The…",
+   "published": "2026-09-10T18:49:08.000Z",
+   "dupes": 1,
+   "score": 0.298,
    "tier": 3
   },
   {
@@ -815,19 +856,6 @@
    "topic": "robotics",
    "tldr": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.",
    "published": "2026-09-10T14:17:37.000Z",
-   "dupes": 1,
-   "score": 0.307,
-   "tier": 3
-  },
-  {
-   "id": "9a91275777331076bf39739e947918cde17ed71a",
-   "title": "Dust Storm Sweeps Over Mali",
-   "url": "https://science.nasa.gov/earth/earth-observatory/dust-storm-sweeps-over-mali",
-   "source": "NASA",
-   "org": [],
-   "topic": "space",
-   "tldr": "At a time of year when dust storm activity winds down, a plume of dust blanketed parts of the West African nation and its neighbors.",
-   "published": "2026-09-10T04:00:00.000Z",
    "dupes": 1,
    "score": 0.292,
    "tier": 3
@@ -842,33 +870,7 @@
    "tldr": "It's been nine years since Mike Rose set up the indie publisher No More Robots .",
    "published": "2026-09-10T16:15:33.000Z",
    "dupes": 1,
-   "score": 0.277,
-   "tier": 3
-  },
-  {
-   "id": "7a7311906afbba1a723532b9b514d36fab575271",
-   "title": "Saber Interactive's chief creative officer says \"We've never replaced anybody with AI\"",
-   "url": "https://www.gamesindustry.biz/saber-interactives-chief-creative-officer-says-weve-never-replaced-anybody-with-ai",
-   "source": "GamesIndustry.biz",
-   "org": [],
-   "topic": "gaming",
-   "tldr": "Tim Willits, chief creative officer at Saber Interactive, has given his own take on CEO Matthew Karch's response to accusations that a writer at the company had been replaced with ChatGPT.",
-   "published": "2026-09-10T13:11:44.000Z",
-   "dupes": 1,
-   "score": 0.269,
-   "tier": 3
-  },
-  {
-   "id": "ab773a31217ceafa26b83465aa1dcd0273824caa",
-   "title": "Newzoo: Most established live-service and evergreen titles were flat or down year over year in H1 2026",
-   "url": "https://www.gamesindustry.biz/newzoo-most-established-live-service-and-evergreen-titles-were-flat-or-down-year-over-year-in-h1-2026",
-   "source": "GamesIndustry.biz",
-   "org": [],
-   "topic": "gaming",
-   "tldr": "Live-service and evergreen titles were flat or declined year-over-year in the first half of 2026 compared to 2025, according to Newzoo data.",
-   "published": "2026-09-10T12:22:19.000Z",
-   "dupes": 1,
-   "score": 0.266,
+   "score": 0.264,
    "tier": 3
   },
   {
@@ -883,7 +885,7 @@
    "tldr": "The market is pulling back on Unitree's $66 billion valuation from its debut on the Shanghai Stock Exchange just last month.  The post Unitree shares down 53% from IPO debut appeared first on The Robot Report .",
    "published": "2026-09-09T19:34:57.000Z",
    "dupes": 1,
-   "score": 0.25,
+   "score": 0.24,
    "tier": 3
   },
   {
@@ -896,7 +898,7 @@
    "tldr": "Vention's new Physical AI Lab will focus on advancing robotic manipulation from research to scalable production-line deployment.  The post Vention opens Physical AI Lab for manufacturing in Montreal appeared first on…",
    "published": "2026-09-09T15:41:50.000Z",
    "dupes": 1,
-   "score": 0.242,
+   "score": 0.233,
    "tier": 3
   },
   {
@@ -911,7 +913,7 @@
    "tldr": "Dynamic Creatures plants to create its own line of characters, and to re-create characters for specific brands and environments.  The post Boston Dynamics veteran launches Dynamic Creatures to bring characters to life…",
    "published": "2026-09-08T20:39:51.000Z",
    "dupes": 1,
-   "score": 0.212,
+   "score": 0.207,
    "tier": 3
   },
   {
@@ -924,7 +926,7 @@
    "tldr": "The remarkable progress in AI has brought robotics closer to machines capable of determining what they should do.  The next major advance may depend on whether their physical systems can execute those decisions…",
    "published": "2026-09-08T19:03:09.000Z",
    "dupes": 1,
-   "score": 0.21,
+   "score": 0.205,
    "tier": 3
   },
   {
@@ -939,7 +941,7 @@
    "tldr": "8 million in 2025 revenue, a $140 million operating loss and plans to scale its Digit humanoid robot business.  8M revenue ahead of humanoid SPAC appeared first on The Robot Report .",
    "published": "2026-09-07T13:17:45.000Z",
    "dupes": 1,
-   "score": 0.185,
+   "score": 0.182,
    "tier": 3
   },
   {
@@ -952,7 +954,7 @@
    "tldr": "MassRobotics has found that companies were split on the FCC ban on new foreign-produced mobile robots.  The post MassRobotics shares member survey results around FCC restrictions appeared first on The Robot Report .",
    "published": "2026-09-07T12:30:16.000Z",
    "dupes": 1,
-   "score": 0.184,
+   "score": 0.182,
    "tier": 3
   },
   {
@@ -965,7 +967,7 @@
    "tldr": "From first contact through surface deformation, load distribution, and final stable hold, pressure sensors can improve robotic bin picking.  The post Pressure sensors can help improve robotic gripping accuracy appeared…",
    "published": "2026-09-06T12:30:17.000Z",
    "dupes": 1,
-   "score": 0.173,
+   "score": 0.172,
    "tier": 3
   }
  ]
