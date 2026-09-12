@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-12T07:32:06.376Z",
+ "generated": "2026-09-12T11:51:39.331Z",
  "items": [
   {
    "id": "17f9c1077b76606b651c4e3faa70d43868b1db20",
@@ -13,8 +13,23 @@
    "tldr": "",
    "published": "2026-09-11T23:17:42.000Z",
    "dupes": 1,
-   "score": 0.694,
+   "score": 0.688,
    "tier": 1
+  },
+  {
+   "id": "8a8c14f1ab782874ec4ca1bef9b8c8c8ebb2df0b",
+   "title": "OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers",
+   "url": "https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html",
+   "source": "The Hacker News",
+   "org": [
+    "openai"
+   ],
+   "topic": "security",
+   "tldr": "The \"major malicious attack\" that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by researchers Spencer Kitts, Thomas Larsen, and Sydney Von Arx.",
+   "published": "2026-09-12T09:07:56.000Z",
+   "dupes": 1,
+   "score": 0.686,
+   "tier": 2
   },
   {
    "id": "c3aa33826442d0f0cc3fa5d142dd086e756ace1e",
@@ -28,7 +43,7 @@
    "tldr": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
    "published": "2026-09-11T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.681,
+   "score": 0.666,
    "tier": 2
   },
   {
@@ -43,7 +58,7 @@
    "tldr": "NASA asks US states to show them the money.",
    "published": "2026-09-11T16:20:43.000Z",
    "dupes": 2,
-   "score": 0.677,
+   "score": 0.663,
    "tier": 2
   },
   {
@@ -58,7 +73,7 @@
    "tldr": "\"I didn't know that AI could hallucinate facts,\" New Mexico defense lawyer says.",
    "published": "2026-09-11T19:34:09.000Z",
    "dupes": 1,
-   "score": 0.67,
+   "score": 0.654,
    "tier": 2
   },
   {
@@ -73,7 +88,7 @@
    "tldr": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
    "published": "2026-09-11T20:57:36.000Z",
    "dupes": 1,
-   "score": 0.667,
+   "score": 0.651,
    "tier": 2
   },
   {
@@ -88,7 +103,7 @@
    "tldr": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
    "published": "2026-09-11T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.661,
+   "score": 0.648,
    "tier": 2
   },
   {
@@ -103,7 +118,7 @@
    "tldr": "Anthropic says multiple threat groups, including the financially motivated and state-sponsored espionage groups linked to Russia and China, tried to abuse its Claude AI model for malicious purposes.",
    "published": "2026-09-11T20:19:09.000Z",
    "dupes": 1,
-   "score": 0.657,
+   "score": 0.641,
    "tier": 2
   },
   {
@@ -118,37 +133,7 @@
    "tldr": "The No.  2 exec at OpenAI also led Instacart through its IPO in 2023.",
    "published": "2026-09-11T16:46:25.000Z",
    "dupes": 1,
-   "score": 0.651,
-   "tier": 2
-  },
-  {
-   "id": "8e10c98735ba80c71c5537ee50f78014f813fe84",
-   "title": "Claude is only available to people over 18 years",
-   "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
-   "source": "Hacker News",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-11T10:48:00.000Z",
-   "dupes": 1,
-   "score": 0.649,
-   "tier": 2
-  },
-  {
-   "id": "ebc58e96076d3ee67a3ac48d2d4f532364392311",
-   "title": "google.com/goto: Google's anti-scraping update",
-   "url": "https://www.autom.dev/blog/google-search-goto-links",
-   "source": "Hacker News",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-12T03:14:20.000Z",
-   "dupes": 1,
-   "score": 0.648,
+   "score": 0.637,
    "tier": 2
   },
   {
@@ -166,37 +151,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.647,
-   "tier": 2
-  },
-  {
-   "id": "5cae1aaa69b9ba5c4bbd58036d690c438dfb460d",
-   "title": "DeepSeek v4.1 Flash Uncensored",
-   "url": "https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8",
-   "source": "HN · DeepSeek",
-   "org": [
-    "deepseek"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-11T06:46:19.000Z",
-   "dupes": 3,
-   "score": 0.646,
-   "tier": 2
-  },
-  {
-   "id": "b037dd79699876100760c33de65b6409f383c557",
-   "title": "I spent $220 on Google app ads and 60% of the installs were robots",
-   "url": "https://dayzlegame.com/blog/google-ads-bot-farm",
-   "source": "Hacker News",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-11T18:24:55.000Z",
-   "dupes": 1,
-   "score": 0.639,
+   "score": 0.633,
    "tier": 2
   },
   {
@@ -211,8 +166,8 @@
    "tldr": "Two galaxies merge at a furious rate in this Aug.  25, 2026, image of the II Zw 096 system.",
    "published": "2026-09-11T17:19:47.000Z",
    "dupes": 1,
-   "score": 0.636,
-   "tier": 3
+   "score": 0.622,
+   "tier": 2
   },
   {
    "id": "394b762a6a3c3b13adbab5480fd309b02fd0b89d",
@@ -226,8 +181,23 @@
    "tldr": "ai (aka Zhipu), and MiniMax.  Knowledge distillation by itself is a legitimate training method.",
    "published": "2026-09-11T16:15:29.000Z",
    "dupes": 1,
-   "score": 0.634,
-   "tier": 3
+   "score": 0.619,
+   "tier": 2
+  },
+  {
+   "id": "5cae1aaa69b9ba5c4bbd58036d690c438dfb460d",
+   "title": "DeepSeek v4.1 Flash Uncensored",
+   "url": "https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8",
+   "source": "HN · DeepSeek",
+   "org": [
+    "deepseek"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-11T06:46:19.000Z",
+   "dupes": 3,
+   "score": 0.615,
+   "tier": 2
   },
   {
    "id": "d3505632d601245cb4093eaf3b33639a0de8793d",
@@ -241,7 +211,7 @@
    "tldr": "The science from every Moon rock sample, lunar dataset, and discovery produced through NASA’s Artemis program will be shared by the agency with the global scientific community.  That commitment is upheld by all 71…",
    "published": "2026-09-11T14:56:25.000Z",
    "dupes": 1,
-   "score": 0.628,
+   "score": 0.614,
    "tier": 3
   },
   {
@@ -256,7 +226,7 @@
    "tldr": "Anthropic has warned that cybercriminals and state-sponsored hackers alike are using its Claude models for cyber attacks, weapons design, propaganda, and mass surveillance between December 2025 and August 2026.",
    "published": "2026-09-11T14:29:47.000Z",
    "dupes": 1,
-   "score": 0.627,
+   "score": 0.613,
    "tier": 3
   },
   {
@@ -271,7 +241,7 @@
    "tldr": "Anthropic on Thursday revealed it disrupted a campaign mounted by a Russian state-sponsored threat actor that abused Claude for developing an AI-assisted workflow to get ahead of the detection curve.",
    "published": "2026-09-11T14:10:20.000Z",
    "dupes": 1,
-   "score": 0.626,
+   "score": 0.612,
    "tier": 3
   },
   {
@@ -286,7 +256,52 @@
    "tldr": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
    "published": "2026-09-11T08:15:25.000Z",
    "dupes": 1,
-   "score": 0.623,
+   "score": 0.611,
+   "tier": 3
+  },
+  {
+   "id": "014159943e4d9643b524ba35091999ab979bfca3",
+   "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+   "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
+   "published": "2026-09-10T16:00:00.000Z",
+   "dupes": 1,
+   "score": 0.607,
+   "tier": 3
+  },
+  {
+   "id": "4d4e7920d8a762a2dc722c2d13aa26b7d8884024",
+   "title": "Now everyone can put data to work",
+   "url": "https://openai.com/index/put-data-to-work",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Meet the Data agent in ChatGPT Work.  Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
+   "published": "2026-09-10T15:00:00.000Z",
+   "dupes": 1,
+   "score": 0.605,
+   "tier": 3
+  },
+  {
+   "id": "c18234270271e78e47c5ce23c4b4c84482b5b95b",
+   "title": "Anthropic spent this week in hot water over cybersecurity",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+   "source": "The Verge AI",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the attacks.  It reveals a string of incidents…",
+   "published": "2026-09-11T16:09:14.000Z",
+   "dupes": 1,
+   "score": 0.603,
    "tier": 3
   },
   {
@@ -301,7 +316,7 @@
    "tldr": "Microsoft says threat actors linked to ShinyHunters, Helix, and other extortion gangs are using passkey and single sign-on-themed social engineering attacks to compromise corporate Microsoft accounts and steal data from…",
    "published": "2026-09-11T17:26:50.000Z",
    "dupes": 2,
-   "score": 0.608,
+   "score": 0.572,
    "tier": 3
   },
   {
@@ -316,7 +331,7 @@
    "tldr": "m.  EDT, Monday, Sept.",
    "published": "2026-09-10T21:11:32.000Z",
    "dupes": 1,
-   "score": 0.58,
+   "score": 0.571,
    "tier": 3
   },
   {
@@ -331,7 +346,7 @@
    "tldr": "Less than two weeks after an Executive Order was signed to create the first United States Space Academy, NASA-led work is in full swing to make the academy a reality and shape the future of America’s aerospace workforce…",
    "published": "2026-09-10T20:26:52.000Z",
    "dupes": 1,
-   "score": 0.578,
+   "score": 0.57,
    "tier": 3
   },
   {
@@ -346,7 +361,7 @@
    "tldr": "Search and rescue technology developed in part by NASA saved five lives",
    "published": "2026-09-10T20:12:39.000Z",
    "dupes": 1,
-   "score": 0.578,
+   "score": 0.569,
    "tier": 3
   },
   {
@@ -361,7 +376,7 @@
    "tldr": "Through a new collaboration between NASA and the National Football League (NFL), the agency will soon bring America’s strengths in space exploration and aeronautics innovation to the football field.  NASA will conduct…",
    "published": "2026-09-10T17:28:13.000Z",
    "dupes": 1,
-   "score": 0.572,
+   "score": 0.564,
    "tier": 3
   },
   {
@@ -376,22 +391,7 @@
    "tldr": "Europe is looking inward, and perhaps to China, as the White House tries to cancel some NASA partnerships.",
    "published": "2026-09-10T19:09:29.000Z",
    "dupes": 1,
-   "score": 0.568,
-   "tier": 3
-  },
-  {
-   "id": "0f9f58c133e97656c867e5d93fa530bbe3f70c65",
-   "title": "Google Play Early Access Abused to Push Thousands of Deceptive Android Apps",
-   "url": "https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html",
-   "source": "The Hacker News",
-   "org": [
-    "google"
-   ],
-   "topic": "security",
-   "tldr": "Bad actors are misusing Google Play's Early Access program to push deceptive apps that claim to offer money, rewards, casino winnings, and premium content.  Early Access apps are apps that haven't been released on the…",
-   "published": "2026-09-10T14:36:47.000Z",
-   "dupes": 1,
-   "score": 0.564,
+   "score": 0.559,
    "tier": 3
   },
   {
@@ -406,22 +406,7 @@
    "tldr": "Anthropic on Wednesday disclosed a fourth incident in which its artificial intelligence (AI) model broke into real third-party systems, marking the latest in a growing list of cases that have raised concerns about the…",
    "published": "2026-09-10T07:04:01.000Z",
    "dupes": 1,
-   "score": 0.551,
-   "tier": 3
-  },
-  {
-   "id": "8dfd8a22b3730827389fc10f12e7ed2f12b2b3bb",
-   "title": "Microsoft fixes Teams, Outlook launch failures on ARM Windows PCs",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-outlook-launch-failures-on-arm-windows-pcs",
-   "source": "BleepingComputer",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "security",
-   "tldr": "Microsoft has fixed a bug that prevented Teams and Outlook from launching on ARM-based Windows devices after installing updates released since the August 2026 Patch Tuesday.",
-   "published": "2026-09-11T09:39:37.000Z",
-   "dupes": 1,
-   "score": 0.54,
+   "score": 0.544,
    "tier": 3
   },
   {
@@ -438,37 +423,22 @@
    "tldr": "S.  cybersecurity and intelligence agencies have accused China-based artificial intelligence (AI) companies of conducting \"systematic extraction\" of proprietary functionalities and capabilities of American frontier…",
    "published": "2026-09-09T09:32:26.000Z",
    "dupes": 1,
-   "score": 0.523,
+   "score": 0.519,
    "tier": 3
   },
   {
-   "id": "e0cba6203732c00e71ceb4c8d2cc67cd39e6b1b7",
-   "title": "Microsoft Excel KB5002914 update breaks copy and paste for some users",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-excel-kb5002914-update-breaks-copy-and-paste-for-some-users",
+   "id": "8dfd8a22b3730827389fc10f12e7ed2f12b2b3bb",
+   "title": "Microsoft fixes Teams, Outlook launch failures on ARM Windows PCs",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-outlook-launch-failures-on-arm-windows-pcs",
    "source": "BleepingComputer",
    "org": [
     "microsoft"
    ],
    "topic": "security",
-   "tldr": "Microsoft Excel users report that this week's KB5002914 Office security update is breaking copy-and-paste operations and formula dragging, with affected users saying that removing or rolling back the update restores…",
-   "published": "2026-09-10T19:07:33.000Z",
+   "tldr": "Microsoft has fixed a bug that prevented Teams and Outlook from launching on ARM-based Windows devices after installing updates released since the August 2026 Patch Tuesday.",
+   "published": "2026-09-11T09:39:37.000Z",
    "dupes": 1,
-   "score": 0.52,
-   "tier": 3
-  },
-  {
-   "id": "1cb567e40b7eeb546bae70a10e2b2e12732abef2",
-   "title": "Google complies with EU rules for travel searches, says the new results stink",
-   "url": "https://arstechnica.com/gadgets/2026/09/google-says-europe-is-making-it-roll-out-degraded-travel-search-results",
-   "source": "Ars Technica · Gadgets",
-   "org": [
-    "google"
-   ],
-   "topic": "compute",
-   "tldr": "The EU continues to go after Google search practices it sees as anticompetitive.",
-   "published": "2026-09-08T16:49:55.000Z",
-   "dupes": 1,
-   "score": 0.517,
+   "score": 0.504,
    "tier": 3
   },
   {
@@ -483,22 +453,95 @@
    "tldr": "Check Point Research said in a report published today that a single instruction planted in a ChatGPT conversation could cause ChatGPT to quietly work for an attacker while answering the user's question as usual.",
    "published": "2026-09-08T14:19:17.000Z",
    "dupes": 1,
-   "score": 0.507,
+   "score": 0.504,
    "tier": 3
   },
   {
-   "id": "f0b444442b615cb165feaea030bebd1a7948d618",
-   "title": "Microsoft Plugs Nearly 1,000 Security Holes",
-   "url": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes",
-   "source": "Krebs on Security",
+   "id": "e0cba6203732c00e71ceb4c8d2cc67cd39e6b1b7",
+   "title": "Microsoft Excel KB5002914 update breaks copy and paste for some users",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-excel-kb5002914-update-breaks-copy-and-paste-for-some-users",
+   "source": "BleepingComputer",
    "org": [
     "microsoft"
    ],
    "topic": "security",
-   "tldr": "Microsoft Corp.  today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever.",
-   "published": "2026-09-08T21:44:22.000Z",
+   "tldr": "Microsoft Excel users report that this week's KB5002914 Office security update is breaking copy-and-paste operations and formula dragging, with affected users saying that removing or rolling back the update restores…",
+   "published": "2026-09-10T19:07:33.000Z",
    "dupes": 1,
-   "score": 0.505,
+   "score": 0.487,
+   "tier": 3
+  },
+  {
+   "id": "0f9f58c133e97656c867e5d93fa530bbe3f70c65",
+   "title": "Google Play Early Access Abused to Push Thousands of Deceptive Android Apps",
+   "url": "https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html",
+   "source": "The Hacker News",
+   "org": [
+    "google"
+   ],
+   "topic": "security",
+   "tldr": "Bad actors are misusing Google Play's Early Access program to push deceptive apps that claim to offer money, rewards, casino winnings, and premium content.  Early Access apps are apps that haven't been released on the…",
+   "published": "2026-09-10T14:36:47.000Z",
+   "dupes": 1,
+   "score": 0.485,
+   "tier": 3
+  },
+  {
+   "id": "1cb567e40b7eeb546bae70a10e2b2e12732abef2",
+   "title": "Google complies with EU rules for travel searches, says the new results stink",
+   "url": "https://arstechnica.com/gadgets/2026/09/google-says-europe-is-making-it-roll-out-degraded-travel-search-results",
+   "source": "Ars Technica · Gadgets",
+   "org": [
+    "google"
+   ],
+   "topic": "compute",
+   "tldr": "The EU continues to go after Google search practices it sees as anticompetitive.",
+   "published": "2026-09-08T16:49:55.000Z",
+   "dupes": 1,
+   "score": 0.467,
+   "tier": 3
+  },
+  {
+   "id": "f9ae5067e024ba65e1157ccac5ad26a0e26e272f",
+   "title": "I spent $4,000 on a robot dog from China",
+   "url": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china",
+   "source": "Ars Technica",
+   "org": [],
+   "topic": "robotics",
+   "tldr": "Unitree might be the world’s most important robotics company.",
+   "published": "2026-09-12T11:00:53.000Z",
+   "dupes": 2,
+   "score": 0.431,
+   "tier": 3
+  },
+  {
+   "id": "74f1f6122ab89e844c509ea1b9a5c231694eb865",
+   "title": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
+   "url": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Manufacturing floors, warehouses and production lines rarely stay fixed — tasks change, layouts shift and new products arrive, and most robots can’t keep up without significant reprogramming.  Skild AI’s new S1 robot…",
+   "published": "2026-09-10T16:30:35.000Z",
+   "dupes": 1,
+   "score": 0.405,
+   "tier": 3
+  },
+  {
+   "id": "94f3002b19f7a180072de7e5ea51b2b5768d2890",
+   "title": "Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With NVIDIA Technologies",
+   "url": "https://blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "The global robotaxi market — physical AI’s first commercial breakthrough — is projected to reach $400 billion by 2035, with over 6 million commercial vehicles in operation as driverless fleets are already moving people…",
+   "published": "2026-09-10T16:00:04.000Z",
+   "dupes": 1,
+   "score": 0.405,
    "tier": 3
   },
   {
@@ -515,37 +558,7 @@
    "tldr": "Xbox will publish Kojima Productions' upcoming title Physint after the developer \"unexpectedly received notice from PlayStation Studios that they would cancel the Physint project\" in mid-June.",
    "published": "2026-09-10T07:34:19.000Z",
    "dupes": 1,
-   "score": 0.431,
-   "tier": 3
-  },
-  {
-   "id": "74f1f6122ab89e844c509ea1b9a5c231694eb865",
-   "title": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
-   "url": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Manufacturing floors, warehouses and production lines rarely stay fixed — tasks change, layouts shift and new products arrive, and most robots can’t keep up without significant reprogramming.  Skild AI’s new S1 robot…",
-   "published": "2026-09-10T16:30:35.000Z",
-   "dupes": 1,
-   "score": 0.428,
-   "tier": 3
-  },
-  {
-   "id": "94f3002b19f7a180072de7e5ea51b2b5768d2890",
-   "title": "Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With NVIDIA Technologies",
-   "url": "https://blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "The global robotaxi market — physical AI’s first commercial breakthrough — is projected to reach $400 billion by 2035, with over 6 million commercial vehicles in operation as driverless fleets are already moving people…",
-   "published": "2026-09-10T16:00:04.000Z",
-   "dupes": 1,
-   "score": 0.427,
+   "score": 0.404,
    "tier": 3
   },
   {
@@ -560,7 +573,7 @@
    "tldr": "AI inference chipmaker d-Matrix today announced it will use NVLink Fusion to connect its next-generation Raptor XPUs to NVIDIA’s AI infrastructure platform — joining a growing roster of ecosystem partners.",
    "published": "2026-09-10T13:00:21.000Z",
    "dupes": 1,
-   "score": 0.424,
+   "score": 0.402,
    "tier": 3
   },
   {
@@ -575,7 +588,22 @@
    "tldr": "Gear up: The latest PC games and major updates are ready to play on GeForce NOW this week.  0 Deep North update and Bus Simulator 27 — part of nine new titles joining the cloud.",
    "published": "2026-09-10T13:00:18.000Z",
    "dupes": 1,
-   "score": 0.424,
+   "score": 0.402,
+   "tier": 3
+  },
+  {
+   "id": "f8cd3e2d835082fa5f3f381789758264d714bdbd",
+   "title": "Apple's long-rumored foldable becomes reality with the $2,000 iPhone Duo",
+   "url": "https://arstechnica.com/gadgets/2026/09/apples-long-rumored-foldable-becomes-reality-with-the-2000-iphone-duo",
+   "source": "Ars Technica · Gadgets",
+   "org": [
+    "apple"
+   ],
+   "topic": "compute",
+   "tldr": "Apple's first foldable can be yours next month.",
+   "published": "2026-09-09T19:42:00.000Z",
+   "dupes": 1,
+   "score": 0.397,
    "tier": 3
   },
   {
@@ -591,158 +619,7 @@
    "tldr": "Blizzard Entertainment has secured a first union contract with parent company Microsoft, ratified by a workforce vote covering just under 1,900 staff.",
    "published": "2026-09-09T20:14:39.000Z",
    "dupes": 1,
-   "score": 0.423,
-   "tier": 3
-  },
-  {
-   "id": "507a075c9a26389e1d5bbd764b3b74009b84cec7",
-   "title": "NVIDIA Brings Real-Time AI to Broadcast, Sports and Global Streaming at IBC",
-   "url": "https://blogs.nvidia.com/blog/ibc-news-2026",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "At the IBC conference, running Sept.  11-14 in Amsterdam, the creative, technology and business communities are coming together to turn ideas into action and discuss innovations across the media and entertainment…",
-   "published": "2026-09-09T16:00:42.000Z",
-   "dupes": 1,
-   "score": 0.408,
-   "tier": 3
-  },
-  {
-   "id": "bd1e1973469003371657bccfa73f9bce9ccc545b",
-   "title": "Oracle tries to appease Stargate data center opponents with renewables push",
-   "url": "https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions",
-   "source": "Ars Technica",
-   "org": [],
-   "topic": "compute",
-   "tldr": "Renewables pledge won’t change the Oracle and OpenAI data center’s use of gas.",
-   "published": "2026-09-11T18:22:22.000Z",
-   "dupes": 2,
-   "score": 0.4,
-   "tier": 3
-  },
-  {
-   "id": "c1660ca8e9985d18802843fa8ae49bb47ffd872b",
-   "title": "Rocket Report: Europe joins the commercial launch club; a Ravn X sighting?",
-   "url": "https://arstechnica.com/space/2026/09/rocket-report-europe-joins-the-commercial-launch-club-a-ravn-x-sighting",
-   "source": "Ars Technica",
-   "org": [],
-   "topic": "space",
-   "tldr": "\"We felt like now is the time to pour gas on that fire.\"",
-   "published": "2026-09-11T11:00:30.000Z",
-   "dupes": 2,
-   "score": 0.356,
-   "tier": 3
-  },
-  {
-   "id": "4ccf3f8eb5965f9da7b92319c9805475e4ecdf1e",
-   "title": "Some satellite companies still have an appetite for boutique launch services",
-   "url": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services",
-   "source": "Ars Technica",
-   "org": [],
-   "topic": "space",
-   "tldr": "\"Dedicated launch is pretty essential for us for most of our missions.\"",
-   "published": "2026-09-11T23:34:45.000Z",
-   "dupes": 1,
-   "score": 0.348,
-   "tier": 3
-  },
-  {
-   "id": "610be403d5e5cc224d3d1e2b79502cdffa2e0e79",
-   "title": "Help Refine Data from Space Telescopes with Artifact InSPECtor",
-   "url": "https://science.nasa.gov/get-involved/citizen-science/help-refine-data-from-space-telescopes-with-artifact-inspector",
-   "source": "NASA",
-   "org": [],
-   "topic": "space",
-   "tldr": "How do scientists studying space with data from a telescope hundreds of thousands of miles away know that what they are seeing is real?",
-   "published": "2026-09-11T19:48:09.000Z",
-   "dupes": 1,
-   "score": 0.341,
-   "tier": 3
-  },
-  {
-   "id": "4c67a72ea8b0e974f435da0264c52dcbc0a9464a",
-   "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-   "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data",
-   "source": "TechCrunch",
-   "org": [],
-   "topic": "robotics",
-   "tldr": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
-   "published": "2026-09-11T22:58:17.000Z",
-   "dupes": 1,
-   "score": 0.338,
-   "tier": 3
-  },
-  {
-   "id": "59b964a51c3880dd047c63e8d5be063bdec43736",
-   "title": "A team of teams like never before: rehearsing a unique launch at ESA mission control",
-   "url": "https://www.esa.int/Enabling_Support/Operations/A_team_of_teams_like_never_before_rehearsing_a_unique_launch_at_ESA_mission_control",
-   "source": "ESA Space News",
-   "org": [
-    "esa"
-   ],
-   "topic": "space",
-   "tldr": "On 15 September, two spacecraft will leave Earth together aboard the same launcher from Europe’s spaceport in Kourou: FLEX, ESA’s photosynthesis mission, and Sentinel-3C, Copernicus’ newest satellite monitoring Earth’s…",
-   "published": "2026-09-11T08:00:00.000Z",
-   "dupes": 1,
-   "score": 0.334,
-   "tier": 3
-  },
-  {
-   "id": "c4ac593a508c63edd5e8413e5b53c5cec11731da",
-   "title": "PlayStation gambles with 18-rated Wolverine game - will it pay off?",
-   "url": "https://www.bbc.co.uk/news/articles/cy0zq2n9gggo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
-   "org": [
-    "sony"
-   ],
-   "topic": "gaming",
-   "tldr": "The BBC's Tom Gerken plays the hotly anticipated superhero game from Spider-Man makers Insomniac.",
-   "published": "2026-09-12T00:35:50.000Z",
-   "dupes": 1,
-   "score": 0.326,
-   "tier": 3
-  },
-  {
-   "id": "9be79c314e64846a0a07879c5e5f524f08a0d401",
-   "title": "One brick at a time: How Monumental uses robotics to build walls",
-   "url": "https://www.therobotreport.com/one-brick-at-a-time-how-monumental-uses-robotics-to-build-walls",
-   "source": "The Robot Report",
-   "org": [],
-   "topic": "robotics",
-   "tldr": "CEO Salar al Khafaji introduces podcast listeners to how Monumental is using robotics to build walls.  The post One brick at a time: How Monumental uses robotics to build walls appeared first on The Robot Report .",
-   "published": "2026-09-11T21:09:01.000Z",
-   "dupes": 1,
-   "score": 0.323,
-   "tier": 3
-  },
-  {
-   "id": "8b90bc8a3a6ac24cceb54641e53d3d14a7ddc9f7",
-   "title": "Learn how AVs and robotics are laying the groundwork for field deployments at RoboBusiness",
-   "url": "https://www.therobotreport.com/learn-how-avs-robotics-are-laying-groundwork-field-deployments-robobusiness",
-   "source": "The Robot Report",
-   "org": [],
-   "topic": "robotics",
-   "tldr": "ASI CEO Mel Torrie will explore why the intersection of autonomous vehicles and robotics will further revolutionize field deployments.  The post Learn how AVs and robotics are laying the groundwork for field deployments…",
-   "published": "2026-09-11T19:49:40.000Z",
-   "dupes": 1,
-   "score": 0.318,
-   "tier": 3
-  },
-  {
-   "id": "f8cd3e2d835082fa5f3f381789758264d714bdbd",
-   "title": "Apple's long-rumored foldable becomes reality with the $2,000 iPhone Duo",
-   "url": "https://arstechnica.com/gadgets/2026/09/apples-long-rumored-foldable-becomes-reality-with-the-2000-iphone-duo",
-   "source": "Ars Technica · Gadgets",
-   "org": [
-    "apple"
-   ],
-   "topic": "compute",
-   "tldr": "Apple's first foldable can be yours next month.",
-   "published": "2026-09-09T19:42:00.000Z",
-   "dupes": 1,
-   "score": 0.313,
+   "score": 0.397,
    "tier": 3
   },
   {
@@ -757,7 +634,7 @@
    "tldr": "AirPods 5 with noise cancellation is cheaper than its predecessor.",
    "published": "2026-09-09T18:58:24.000Z",
    "dupes": 1,
-   "score": 0.313,
+   "score": 0.396,
    "tier": 3
   },
   {
@@ -772,7 +649,7 @@
    "tldr": "New Apple Intelligence features, too.",
    "published": "2026-09-09T18:47:07.000Z",
    "dupes": 1,
-   "score": 0.313,
+   "score": 0.396,
    "tier": 3
   },
   {
@@ -787,7 +664,143 @@
    "tldr": "There's also a new thermal management system, reducing overheating.",
    "published": "2026-09-09T17:38:53.000Z",
    "dupes": 1,
-   "score": 0.312,
+   "score": 0.395,
+   "tier": 3
+  },
+  {
+   "id": "507a075c9a26389e1d5bbd764b3b74009b84cec7",
+   "title": "NVIDIA Brings Real-Time AI to Broadcast, Sports and Global Streaming at IBC",
+   "url": "https://blogs.nvidia.com/blog/ibc-news-2026",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "At the IBC conference, running Sept.  11-14 in Amsterdam, the creative, technology and business communities are coming together to turn ideas into action and discuss innovations across the media and entertainment…",
+   "published": "2026-09-09T16:00:42.000Z",
+   "dupes": 1,
+   "score": 0.387,
+   "tier": 3
+  },
+  {
+   "id": "bd1e1973469003371657bccfa73f9bce9ccc545b",
+   "title": "Oracle tries to appease Stargate data center opponents with renewables push",
+   "url": "https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions",
+   "source": "Ars Technica",
+   "org": [],
+   "topic": "compute",
+   "tldr": "Renewables pledge won’t change the Oracle and OpenAI data center’s use of gas.",
+   "published": "2026-09-11T18:22:22.000Z",
+   "dupes": 2,
+   "score": 0.385,
+   "tier": 3
+  },
+  {
+   "id": "c1660ca8e9985d18802843fa8ae49bb47ffd872b",
+   "title": "Rocket Report: Europe joins the commercial launch club; a Ravn X sighting?",
+   "url": "https://arstechnica.com/space/2026/09/rocket-report-europe-joins-the-commercial-launch-club-a-ravn-x-sighting",
+   "source": "Ars Technica",
+   "org": [],
+   "topic": "space",
+   "tldr": "\"We felt like now is the time to pour gas on that fire.\"",
+   "published": "2026-09-11T11:00:30.000Z",
+   "dupes": 2,
+   "score": 0.344,
+   "tier": 3
+  },
+  {
+   "id": "4ccf3f8eb5965f9da7b92319c9805475e4ecdf1e",
+   "title": "Some satellite companies still have an appetite for boutique launch services",
+   "url": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services",
+   "source": "Ars Technica",
+   "org": [],
+   "topic": "space",
+   "tldr": "\"Dedicated launch is pretty essential for us for most of our missions.\"",
+   "published": "2026-09-11T23:34:45.000Z",
+   "dupes": 1,
+   "score": 0.331,
+   "tier": 3
+  },
+  {
+   "id": "610be403d5e5cc224d3d1e2b79502cdffa2e0e79",
+   "title": "Help Refine Data from Space Telescopes with Artifact InSPECtor",
+   "url": "https://science.nasa.gov/get-involved/citizen-science/help-refine-data-from-space-telescopes-with-artifact-inspector",
+   "source": "NASA",
+   "org": [],
+   "topic": "space",
+   "tldr": "How do scientists studying space with data from a telescope hundreds of thousands of miles away know that what they are seeing is real?",
+   "published": "2026-09-11T19:48:09.000Z",
+   "dupes": 1,
+   "score": 0.326,
+   "tier": 3
+  },
+  {
+   "id": "4c67a72ea8b0e974f435da0264c52dcbc0a9464a",
+   "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+   "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data",
+   "source": "TechCrunch",
+   "org": [],
+   "topic": "robotics",
+   "tldr": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+   "published": "2026-09-11T22:58:17.000Z",
+   "dupes": 1,
+   "score": 0.321,
+   "tier": 3
+  },
+  {
+   "id": "59b964a51c3880dd047c63e8d5be063bdec43736",
+   "title": "A team of teams like never before: rehearsing a unique launch at ESA mission control",
+   "url": "https://www.esa.int/Enabling_Support/Operations/A_team_of_teams_like_never_before_rehearsing_a_unique_launch_at_ESA_mission_control",
+   "source": "ESA Space News",
+   "org": [
+    "esa"
+   ],
+   "topic": "space",
+   "tldr": "On 15 September, two spacecraft will leave Earth together aboard the same launcher from Europe’s spaceport in Kourou: FLEX, ESA’s photosynthesis mission, and Sentinel-3C, Copernicus’ newest satellite monitoring Earth’s…",
+   "published": "2026-09-11T08:00:00.000Z",
+   "dupes": 1,
+   "score": 0.319,
+   "tier": 3
+  },
+  {
+   "id": "c4ac593a508c63edd5e8413e5b53c5cec11731da",
+   "title": "PlayStation gambles with 18-rated Wolverine game - will it pay off?",
+   "url": "https://www.bbc.co.uk/news/articles/cy0zq2n9gggo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Technology",
+   "org": [
+    "sony"
+   ],
+   "topic": "gaming",
+   "tldr": "The BBC's Tom Gerken plays the hotly anticipated superhero game from Spider-Man makers Insomniac.",
+   "published": "2026-09-12T00:35:50.000Z",
+   "dupes": 1,
+   "score": 0.309,
+   "tier": 3
+  },
+  {
+   "id": "9be79c314e64846a0a07879c5e5f524f08a0d401",
+   "title": "One brick at a time: How Monumental uses robotics to build walls",
+   "url": "https://www.therobotreport.com/one-brick-at-a-time-how-monumental-uses-robotics-to-build-walls",
+   "source": "The Robot Report",
+   "org": [],
+   "topic": "robotics",
+   "tldr": "CEO Salar al Khafaji introduces podcast listeners to how Monumental is using robotics to build walls.  The post One brick at a time: How Monumental uses robotics to build walls appeared first on The Robot Report .",
+   "published": "2026-09-11T21:09:01.000Z",
+   "dupes": 1,
+   "score": 0.307,
+   "tier": 3
+  },
+  {
+   "id": "8b90bc8a3a6ac24cceb54641e53d3d14a7ddc9f7",
+   "title": "Learn how AVs and robotics are laying the groundwork for field deployments at RoboBusiness",
+   "url": "https://www.therobotreport.com/learn-how-avs-robotics-are-laying-groundwork-field-deployments-robobusiness",
+   "source": "The Robot Report",
+   "org": [],
+   "topic": "robotics",
+   "tldr": "ASI CEO Mel Torrie will explore why the intersection of autonomous vehicles and robotics will further revolutionize field deployments.  The post Learn how AVs and robotics are laying the groundwork for field deployments…",
+   "published": "2026-09-11T19:49:40.000Z",
+   "dupes": 1,
+   "score": 0.303,
    "tier": 3
   },
   {
@@ -800,7 +813,7 @@
    "tldr": "Saber Interactive has achieved a lot in the past few years, but the most noticeable recent news to come out of the the company was CEO Matthew Karch's unfiltered response to accusations that a writer had been replaced…",
    "published": "2026-09-11T12:40:00.000Z",
    "dupes": 2,
-   "score": 0.312,
+   "score": 0.301,
    "tier": 3
   },
   {
@@ -813,7 +826,7 @@
    "tldr": "Simple games gain rich strategies in the face of noise.",
    "published": "2026-09-11T21:41:16.000Z",
    "dupes": 1,
-   "score": 0.294,
+   "score": 0.28,
    "tier": 3
   },
   {
@@ -826,7 +839,7 @@
    "tldr": "Before the FCC put restrictions on foreign-made robots, it had already set similar restrictions on drones last year, noted Hylio.  The post How drone developers are navigating changing regulatory landscapes to help…",
    "published": "2026-09-11T12:21:16.000Z",
    "dupes": 1,
-   "score": 0.293,
+   "score": 0.28,
    "tier": 3
   },
   {
@@ -839,7 +852,7 @@
    "tldr": "At its annual Roblox Developer Conference (RDC), the company announced several new features, including new game-creation tools, expanded NPC capabilities, and the ability to make games available across platforms,…",
    "published": "2026-09-11T19:00:00.000Z",
    "dupes": 1,
-   "score": 0.279,
+   "score": 0.266,
    "tier": 3
   },
   {
@@ -852,7 +865,7 @@
    "tldr": "S.  backers.",
    "published": "2026-09-10T20:48:00.000Z",
    "dupes": 1,
-   "score": 0.274,
+   "score": 0.264,
    "tier": 3
   },
   {
@@ -865,7 +878,7 @@
    "tldr": "New details reveal the lawsuit involves three Universal Robots patents about robot interfaces, safety brakes, and joints.  The post Teradyne Robotics sues JAKA over 3 Universal Robots patents appeared first on The Robot…",
    "published": "2026-09-10T22:14:26.000Z",
    "dupes": 1,
-   "score": 0.255,
+   "score": 0.246,
    "tier": 3
   },
   {
@@ -878,7 +891,7 @@
    "tldr": "Swarmer, which has developed swarm software, plans to work with Ratel Robotics' unmanned ground vehicles in Ukraine.  The post Swarmer to acquire Ukrainian UGV maker Ratel Robotics for up to $224M appeared first on The…",
    "published": "2026-09-10T20:10:22.000Z",
    "dupes": 1,
-   "score": 0.251,
+   "score": 0.242,
    "tier": 3
   },
   {
@@ -891,7 +904,7 @@
    "tldr": "Comau's system incorporates its MyCo cobot, ROS2 software architecture, AI-powered vision systems, and a modular gripper.  The post Comau automates picking, handling, and palletizing for Decathlon appeared first on The…",
    "published": "2026-09-10T18:49:08.000Z",
    "dupes": 1,
-   "score": 0.248,
+   "score": 0.24,
    "tier": 3
   },
   {
@@ -906,7 +919,7 @@
    "tldr": "The market is pulling back on Unitree's $66 billion valuation from its debut on the Shanghai Stock Exchange just last month.  The post Unitree shares down 53% from IPO debut appeared first on The Robot Report .",
    "published": "2026-09-09T19:34:57.000Z",
    "dupes": 1,
-   "score": 0.211,
+   "score": 0.206,
    "tier": 3
   },
   {
@@ -919,7 +932,7 @@
    "tldr": "Vention's new Physical AI Lab will focus on advancing robotic manipulation from research to scalable production-line deployment.  The post Vention opens Physical AI Lab for manufacturing in Montreal appeared first on…",
    "published": "2026-09-09T15:41:50.000Z",
    "dupes": 1,
-   "score": 0.206,
+   "score": 0.202,
    "tier": 3
   },
   {
@@ -934,7 +947,7 @@
    "tldr": "Dynamic Creatures plants to create its own line of characters, and to re-create characters for specific brands and environments.  The post Boston Dynamics veteran launches Dynamic Creatures to bring characters to life…",
    "published": "2026-09-08T20:39:51.000Z",
    "dupes": 1,
-   "score": 0.189,
+   "score": 0.187,
    "tier": 3
   },
   {
@@ -947,7 +960,7 @@
    "tldr": "The remarkable progress in AI has brought robotics closer to machines capable of determining what they should do.  The next major advance may depend on whether their physical systems can execute those decisions…",
    "published": "2026-09-08T19:03:09.000Z",
    "dupes": 1,
-   "score": 0.188,
+   "score": 0.186,
    "tier": 3
   }
  ]

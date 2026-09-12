@@ -1,6 +1,21 @@
 {
- "generated": "2026-09-12T07:32:10.257Z",
+ "generated": "2026-09-12T11:51:43.688Z",
  "items": [
+  {
+   "id": "43166de57ac1e67a05696b7df6fff5d04f15ff71",
+   "title": "OpenAI just wants to win",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
+   "source": "The Verge AI",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics.  This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem.",
+   "published": "2026-09-12T11:00:00.000Z",
+   "dupes": 1,
+   "score": 0.539,
+   "tier": 1
+  },
   {
    "id": "17f9c1077b76606b651c4e3faa70d43868b1db20",
    "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
@@ -13,8 +28,8 @@
    "tldr": "",
    "published": "2026-09-11T23:17:42.000Z",
    "dupes": 1,
-   "score": 0.548,
-   "tier": 1
+   "score": 0.528,
+   "tier": 2
   },
   {
    "id": "ebc58e96076d3ee67a3ac48d2d4f532364392311",
@@ -28,7 +43,7 @@
    "tldr": "",
    "published": "2026-09-12T03:14:20.000Z",
    "dupes": 1,
-   "score": 0.547,
+   "score": 0.521,
    "tier": 2
   },
   {
@@ -43,22 +58,7 @@
    "tldr": "",
    "published": "2026-09-11T06:46:19.000Z",
    "dupes": 2,
-   "score": 0.535,
-   "tier": 2
-  },
-  {
-   "id": "c3aa33826442d0f0cc3fa5d142dd086e756ace1e",
-   "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-   "url": "https://openai.com/index/cognition-devin-testing-with-astra",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
-   "published": "2026-09-11T16:00:00.000Z",
-   "dupes": 1,
-   "score": 0.492,
+   "score": 0.514,
    "tier": 2
   },
   {
@@ -73,7 +73,22 @@
    "tldr": "",
    "published": "2026-09-11T18:24:55.000Z",
    "dupes": 1,
-   "score": 0.481,
+   "score": 0.465,
+   "tier": 2
+  },
+  {
+   "id": "c3aa33826442d0f0cc3fa5d142dd086e756ace1e",
+   "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+   "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+   "published": "2026-09-11T16:00:00.000Z",
+   "dupes": 1,
+   "score": 0.463,
    "tier": 2
   },
   {
@@ -88,20 +103,7 @@
    "tldr": "",
    "published": "2026-09-12T02:46:31.000Z",
    "dupes": 1,
-   "score": 0.481,
-   "tier": 2
-  },
-  {
-   "id": "a8ab16342f9ce031df4bbc52e5f6cf61e97ff365",
-   "title": "The EPA is planning to scrap public review rules for data center pollution",
-   "url": "https://capitalbnews.org/data-centers-permit-rules-epa",
-   "source": "Hacker News",
-   "org": [],
-   "topic": "compute",
-   "tldr": "",
-   "published": "2026-09-11T18:05:21.000Z",
-   "dupes": 1,
-   "score": 0.476,
+   "score": 0.437,
    "tier": 2
   },
   {
@@ -116,52 +118,7 @@
    "tldr": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
    "published": "2026-09-11T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.453,
-   "tier": 2
-  },
-  {
-   "id": "8e10c98735ba80c71c5537ee50f78014f813fe84",
-   "title": "Claude is only available to people over 18 years",
-   "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
-   "source": "Hacker News",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-11T10:48:00.000Z",
-   "dupes": 1,
-   "score": 0.452,
-   "tier": 2
-  },
-  {
-   "id": "c18234270271e78e47c5ce23c4b4c84482b5b95b",
-   "title": "Anthropic spent this week in hot water over cybersecurity",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
-   "source": "The Verge AI",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the attacks.  It reveals a string of incidents…",
-   "published": "2026-09-11T16:09:14.000Z",
-   "dupes": 1,
-   "score": 0.394,
-   "tier": 2
-  },
-  {
-   "id": "62d35db41d4e841b6c043f283c0e22634e78d445",
-   "title": "Meta says it’s changing AI suggestions after posing invasive personal questions",
-   "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
-   "source": "The Verge AI",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for personal information about a woman's young daughters, as reported earlier by Futurism.",
-   "published": "2026-09-11T14:25:21.000Z",
-   "dupes": 1,
-   "score": 0.381,
+   "score": 0.429,
    "tier": 2
   },
   {
@@ -176,22 +133,22 @@
    "tldr": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
    "published": "2026-09-10T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.376,
+   "score": 0.365,
    "tier": 2
   },
   {
-   "id": "822d4f35b50fcf84d376af723ec9a33d607c6f36",
-   "title": "ToolGrad: Efficient tool-use dataset generation with textual \"gradients\"",
-   "url": "https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients",
-   "source": "Google Research",
+   "id": "c18234270271e78e47c5ce23c4b4c84482b5b95b",
+   "title": "Anthropic spent this week in hot water over cybersecurity",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+   "source": "The Verge AI",
    "org": [
-    "google"
+    "anthropic"
    ],
    "topic": "ai",
-   "tldr": "Machine Intelligence",
-   "published": "2026-09-10T22:50:22.000Z",
+   "tldr": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the attacks.  It reveals a string of incidents…",
+   "published": "2026-09-11T16:09:14.000Z",
    "dupes": 1,
-   "score": 0.374,
+   "score": 0.364,
    "tier": 2
   },
   {
@@ -206,8 +163,23 @@
    "tldr": "Meet the Data agent in ChatGPT Work.  Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
    "published": "2026-09-10T15:00:00.000Z",
    "dupes": 1,
-   "score": 0.373,
-   "tier": 3
+   "score": 0.362,
+   "tier": 2
+  },
+  {
+   "id": "822d4f35b50fcf84d376af723ec9a33d607c6f36",
+   "title": "ToolGrad: Efficient tool-use dataset generation with textual \"gradients\"",
+   "url": "https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients",
+   "source": "Google Research",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Machine Intelligence",
+   "published": "2026-09-10T22:50:22.000Z",
+   "dupes": 1,
+   "score": 0.359,
+   "tier": 2
   },
   {
    "id": "19819179eb22f00dc2b7affc1329e2d20b222b7f",
@@ -224,7 +196,112 @@
     "model"
    ],
    "dupes": 2,
-   "score": 0.361,
+   "score": 0.354,
+   "tier": 2
+  },
+  {
+   "id": "62d35db41d4e841b6c043f283c0e22634e78d445",
+   "title": "Meta says it’s changing AI suggestions after posing invasive personal questions",
+   "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+   "source": "The Verge AI",
+   "org": [
+    "meta"
+   ],
+   "topic": "ai",
+   "tldr": "Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for personal information about a woman's young daughters, as reported earlier by Futurism.",
+   "published": "2026-09-11T14:25:21.000Z",
+   "dupes": 1,
+   "score": 0.353,
+   "tier": 3
+  },
+  {
+   "id": "016c3ec9b775a98e5ec43d6010b5a5132a940638",
+   "title": "Introducing ChatGPT for Financial Services",
+   "url": "https://openai.com/index/introducing-chatgpt-financial-services",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
+   "published": "2026-09-10T07:00:00.000Z",
+   "dupes": 1,
+   "score": 0.346,
+   "tier": 3
+  },
+  {
+   "id": "1ef5285e671d0ace6126abde2e7dec0b8255af8f",
+   "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+   "url": "https://openai.com/index/expanding-ai-access-us-government",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
+   "published": "2026-09-10T07:00:00.000Z",
+   "dupes": 1,
+   "score": 0.346,
+   "tier": 3
+  },
+  {
+   "id": "74f1f6122ab89e844c509ea1b9a5c231694eb865",
+   "title": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
+   "url": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Manufacturing floors, warehouses and production lines rarely stay fixed — tasks change, layouts shift and new products arrive, and most robots can’t keep up without significant reprogramming.  Skild AI’s new S1 robot…",
+   "published": "2026-09-10T16:30:35.000Z",
+   "dupes": 1,
+   "score": 0.341,
+   "tier": 3
+  },
+  {
+   "id": "94f3002b19f7a180072de7e5ea51b2b5768d2890",
+   "title": "Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With NVIDIA Technologies",
+   "url": "https://blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "The global robotaxi market — physical AI’s first commercial breakthrough — is projected to reach $400 billion by 2035, with over 6 million commercial vehicles in operation as driverless fleets are already moving people…",
+   "published": "2026-09-10T16:00:04.000Z",
+   "dupes": 1,
+   "score": 0.34,
+   "tier": 3
+  },
+  {
+   "id": "4e410dad70fb92989558aa8ff122fdd9cabd1589",
+   "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+   "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+   "published": "2026-09-10T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.335,
+   "tier": 3
+  },
+  {
+   "id": "2b26a8066576cc984b3694eea8e3d3f95cde781c",
+   "title": "Introducing the Agents API",
+   "url": "https://openai.com/index/introducing-the-agents-api",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+   "published": "2026-09-10T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.335,
    "tier": 3
   },
   {
@@ -240,82 +317,7 @@
    "tldr": "",
    "published": "2026-09-11T11:36:24.000Z",
    "dupes": 1,
-   "score": 0.359,
-   "tier": 3
-  },
-  {
-   "id": "6bbeb126525fbbf59d89873984cec4247d9079f3",
-   "title": "Google will buy half the electricity from one of Finland's nuclear power plants",
-   "url": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
-   "source": "Hacker News",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-11T00:42:41.000Z",
-   "dupes": 1,
-   "score": 0.357,
-   "tier": 3
-  },
-  {
-   "id": "016c3ec9b775a98e5ec43d6010b5a5132a940638",
-   "title": "Introducing ChatGPT for Financial Services",
-   "url": "https://openai.com/index/introducing-chatgpt-financial-services",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
-   "published": "2026-09-10T07:00:00.000Z",
-   "dupes": 1,
-   "score": 0.354,
-   "tier": 3
-  },
-  {
-   "id": "1ef5285e671d0ace6126abde2e7dec0b8255af8f",
-   "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-   "url": "https://openai.com/index/expanding-ai-access-us-government",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
-   "published": "2026-09-10T07:00:00.000Z",
-   "dupes": 1,
-   "score": 0.354,
-   "tier": 3
-  },
-  {
-   "id": "74f1f6122ab89e844c509ea1b9a5c231694eb865",
-   "title": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
-   "url": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Manufacturing floors, warehouses and production lines rarely stay fixed — tasks change, layouts shift and new products arrive, and most robots can’t keep up without significant reprogramming.  Skild AI’s new S1 robot…",
-   "published": "2026-09-10T16:30:35.000Z",
-   "dupes": 1,
-   "score": 0.353,
-   "tier": 3
-  },
-  {
-   "id": "94f3002b19f7a180072de7e5ea51b2b5768d2890",
-   "title": "Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With NVIDIA Technologies",
-   "url": "https://blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "The global robotaxi market — physical AI’s first commercial breakthrough — is projected to reach $400 billion by 2035, with over 6 million commercial vehicles in operation as driverless fleets are already moving people…",
-   "published": "2026-09-10T16:00:04.000Z",
-   "dupes": 1,
-   "score": 0.351,
+   "score": 0.334,
    "tier": 3
   },
   {
@@ -330,7 +332,7 @@
    "tldr": "AI inference chipmaker d-Matrix today announced it will use NVLink Fusion to connect its next-generation Raptor XPUs to NVIDIA’s AI infrastructure platform — joining a growing roster of ecosystem partners.",
    "published": "2026-09-10T13:00:21.000Z",
    "dupes": 1,
-   "score": 0.343,
+   "score": 0.333,
    "tier": 3
   },
   {
@@ -345,37 +347,7 @@
    "tldr": "Gear up: The latest PC games and major updates are ready to play on GeForce NOW this week.  0 Deep North update and Bus Simulator 27 — part of nine new titles joining the cloud.",
    "published": "2026-09-10T13:00:18.000Z",
    "dupes": 1,
-   "score": 0.343,
-   "tier": 3
-  },
-  {
-   "id": "4e410dad70fb92989558aa8ff122fdd9cabd1589",
-   "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-   "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-   "published": "2026-09-10T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.341,
-   "tier": 3
-  },
-  {
-   "id": "2b26a8066576cc984b3694eea8e3d3f95cde781c",
-   "title": "Introducing the Agents API",
-   "url": "https://openai.com/index/introducing-the-agents-api",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
-   "published": "2026-09-10T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.341,
+   "score": 0.333,
    "tier": 3
   },
   {
@@ -390,7 +362,7 @@
    "tldr": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
    "published": "2026-09-09T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.331,
+   "score": 0.327,
    "tier": 3
   },
   {
@@ -405,7 +377,7 @@
    "tldr": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
    "published": "2026-09-09T13:00:00.000Z",
    "dupes": 1,
-   "score": 0.327,
+   "score": 0.323,
    "tier": 3
   },
   {
@@ -420,7 +392,7 @@
    "tldr": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
    "published": "2026-09-09T11:00:00.000Z",
    "dupes": 1,
-   "score": 0.325,
+   "score": 0.321,
    "tier": 3
   },
   {
@@ -435,7 +407,7 @@
    "tldr": "6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
    "published": "2026-09-08T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.312,
+   "score": 0.311,
    "tier": 3
   },
   {
@@ -450,22 +422,7 @@
    "tldr": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
    "published": "2026-09-08T13:00:00.000Z",
    "dupes": 1,
-   "score": 0.311,
-   "tier": 3
-  },
-  {
-   "id": "f7dd334d631adf7ddc78e284901f1a7febd8ef6c",
-   "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-   "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
-   "source": "Google DeepMind",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
-   "published": "2026-09-08T14:00:15.000Z",
-   "dupes": 1,
-   "score": 0.311,
+   "score": 0.309,
    "tier": 3
   },
   {
@@ -480,7 +437,22 @@
    "tldr": "5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
    "published": "2026-09-08T11:30:00.000Z",
    "dupes": 1,
-   "score": 0.31,
+   "score": 0.309,
+   "tier": 3
+  },
+  {
+   "id": "f7dd334d631adf7ddc78e284901f1a7febd8ef6c",
+   "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+   "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
+   "source": "Google DeepMind",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+   "published": "2026-09-08T14:00:15.000Z",
+   "dupes": 1,
+   "score": 0.309,
    "tier": 3
   },
   {
@@ -495,7 +467,7 @@
    "tldr": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
    "published": "2026-09-08T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.31,
+   "score": 0.308,
    "tier": 3
   },
   {
@@ -513,7 +485,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.309,
+   "score": 0.308,
    "tier": 3
   },
   {
@@ -528,7 +500,7 @@
    "tldr": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
    "published": "2026-09-08T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.306,
+   "score": 0.305,
    "tier": 3
   },
   {
@@ -543,35 +515,7 @@
    "tldr": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.",
    "published": "2026-09-08T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.306,
-   "tier": 3
-  },
-  {
-   "id": "507a075c9a26389e1d5bbd764b3b74009b84cec7",
-   "title": "NVIDIA Brings Real-Time AI to Broadcast, Sports and Global Streaming at IBC",
-   "url": "https://blogs.nvidia.com/blog/ibc-news-2026",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "At the IBC conference, running Sept.  11-14 in Amsterdam, the creative, technology and business communities are coming together to turn ideas into action and discuss innovations across the media and entertainment…",
-   "published": "2026-09-09T16:00:42.000Z",
-   "dupes": 1,
    "score": 0.305,
-   "tier": 3
-  },
-  {
-   "id": "cb50b0c3c8564548d979474256b9454c00a370ea",
-   "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-   "url": "https://huggingface.co/blog/gradio-workflow-1111",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-10T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.304,
    "tier": 3
   },
   {
@@ -586,7 +530,7 @@
    "tldr": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
    "published": "2026-09-07T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.303,
+   "score": 0.302,
    "tier": 3
   },
   {
@@ -623,18 +567,31 @@
    "tier": 3
   },
   {
-   "id": "7204b0127f79a74e22553d4e94e8ddad956b07c6",
-   "title": "DeepSeek 4.1 Flash",
-   "url": "https://www.deepseek.com/en/news/deepseek-v4-1-flash",
-   "source": "HN · DeepSeek",
+   "id": "507a075c9a26389e1d5bbd764b3b74009b84cec7",
+   "title": "NVIDIA Brings Real-Time AI to Broadcast, Sports and Global Streaming at IBC",
+   "url": "https://blogs.nvidia.com/blog/ibc-news-2026",
+   "source": "NVIDIA Blog",
    "org": [
-    "deepseek"
+    "nvidia"
    ],
+   "topic": "compute",
+   "tldr": "At the IBC conference, running Sept.  11-14 in Amsterdam, the creative, technology and business communities are coming together to turn ideas into action and discuss innovations across the media and entertainment…",
+   "published": "2026-09-09T16:00:42.000Z",
+   "dupes": 1,
+   "score": 0.301,
+   "tier": 3
+  },
+  {
+   "id": "cb50b0c3c8564548d979474256b9454c00a370ea",
+   "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+   "url": "https://huggingface.co/blog/gradio-workflow-1111",
+   "source": "Hugging Face Blog",
+   "org": [],
    "topic": "ai",
    "tldr": "",
-   "published": "2026-09-11T00:34:20.000Z",
+   "published": "2026-09-10T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.3,
+   "score": 0.297,
    "tier": 3
   },
   {
@@ -647,7 +604,22 @@
    "tldr": "",
    "published": "2026-09-09T15:36:24.000Z",
    "dupes": 1,
-   "score": 0.292,
+   "score": 0.288,
+   "tier": 3
+  },
+  {
+   "id": "7204b0127f79a74e22553d4e94e8ddad956b07c6",
+   "title": "DeepSeek 4.1 Flash",
+   "url": "https://www.deepseek.com/en/news/deepseek-v4-1-flash",
+   "source": "HN · DeepSeek",
+   "org": [
+    "deepseek"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-11T00:34:20.000Z",
+   "dupes": 1,
+   "score": 0.284,
    "tier": 3
   },
   {
@@ -660,7 +632,7 @@
    "tldr": "",
    "published": "2026-09-08T14:23:07.000Z",
    "dupes": 1,
-   "score": 0.274,
+   "score": 0.272,
    "tier": 3
   },
   {
@@ -675,7 +647,7 @@
    "tldr": "Meta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools.  The company says its AI agent can \"take the busywork off your plate\" by helping you with online…",
    "published": "2026-09-10T15:00:00.000Z",
    "dupes": 1,
-   "score": 0.273,
+   "score": 0.262,
    "tier": 3
   },
   {
@@ -690,7 +662,7 @@
    "tldr": "Muse is a secure, private personal AI agent that proactively helps people meet their goals and suggests ideas.  The post Introducing Muse: The World’s First Personal AI Agent Built for Everyone appeared first on Meta…",
    "published": "2026-09-08T19:00:51.000Z",
    "dupes": 1,
-   "score": 0.264,
+   "score": 0.261,
    "tier": 3
   },
   {
@@ -705,22 +677,7 @@
    "tldr": "Another researcher is challenging OpenAI about the data driving its increasingly impressive array of mathematical discoveries.",
    "published": "2026-09-10T11:00:57.000Z",
    "dupes": 1,
-   "score": 0.263,
-   "tier": 3
-  },
-  {
-   "id": "1f2ecc4c6e8cf0b37fff94714fcf36951f9bb0b4",
-   "title": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
-   "url": "https://github.com/argonautlabsai/deltafin",
-   "source": "HN · Kimi",
-   "org": [
-    "moonshot"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-08T20:07:55.000Z",
-   "dupes": 1,
-   "score": 0.243,
+   "score": 0.253,
    "tier": 3
   }
  ]
