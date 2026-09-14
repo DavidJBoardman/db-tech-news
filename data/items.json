@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-13T23:57:43.416Z",
+ "generated": "2026-09-14T03:34:46.746Z",
  "items": [
   {
    "id": "12e9dd6851803557bf5ad9fd2920e7fa2e644576",
@@ -13,7 +13,7 @@
    "tldr": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
    "published": "2026-09-14T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.747,
+   "score": 0.73,
    "tier": 1
   },
   {
@@ -29,7 +29,7 @@
    "tldr": "Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles into OpenAI and Anthropic — his $90 billion firm is…",
    "published": "2026-09-13T21:30:00.000Z",
    "dupes": 1,
-   "score": 0.703,
+   "score": 0.686,
    "tier": 2
   },
   {
@@ -44,7 +44,7 @@
    "tldr": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
    "published": "2026-09-13T14:53:40.000Z",
    "dupes": 1,
-   "score": 0.673,
+   "score": 0.659,
    "tier": 2
   },
   {
@@ -59,7 +59,7 @@
    "tldr": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
    "published": "2026-09-12T20:19:16.000Z",
    "dupes": 2,
-   "score": 0.666,
+   "score": 0.657,
    "tier": 2
   },
   {
@@ -74,7 +74,7 @@
    "tldr": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
    "published": "2026-09-12T21:16:47.000Z",
    "dupes": 1,
-   "score": 0.614,
+   "score": 0.604,
    "tier": 2
   },
   {
@@ -89,7 +89,7 @@
    "tldr": "\" What would that actually look like?",
    "published": "2026-09-12T19:34:44.000Z",
    "dupes": 1,
-   "score": 0.609,
+   "score": 0.6,
    "tier": 2
   },
   {
@@ -103,21 +103,6 @@
    "topic": "ai",
    "tldr": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
    "published": "2026-09-11T16:00:00.000Z",
-   "dupes": 1,
-   "score": 0.587,
-   "tier": 2
-  },
-  {
-   "id": "4022c7a7f9b578837c325335412112df795ab45b",
-   "title": "OpenAI’s rogue AI tried to hack another company in May",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host.  Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack.",
-   "published": "2026-09-12T21:41:36.000Z",
    "dupes": 1,
    "score": 0.583,
    "tier": 2
@@ -134,22 +119,22 @@
    "tldr": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
    "published": "2026-09-11T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.58,
+   "score": 0.575,
    "tier": 2
   },
   {
-   "id": "63c0cf89a6d3bd7f8f497af39e7435d5ecb88b31",
-   "title": "Anthropic CEO says it’s time to pump the brakes on AI",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+   "id": "4022c7a7f9b578837c325335412112df795ab45b",
+   "title": "OpenAI’s rogue AI tried to hack another company in May",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
    "source": "The Verge AI",
    "org": [
-    "anthropic"
+    "openai"
    ],
    "topic": "ai",
-   "tldr": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a…",
-   "published": "2026-09-12T16:23:40.000Z",
+   "tldr": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host.  Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack.",
+   "published": "2026-09-12T21:41:36.000Z",
    "dupes": 1,
-   "score": 0.569,
+   "score": 0.573,
    "tier": 2
   },
   {
@@ -164,7 +149,7 @@
    "tldr": "\"I didn't know that AI could hallucinate facts,\" New Mexico defense lawyer says.",
    "published": "2026-09-11T19:34:09.000Z",
    "dupes": 1,
-   "score": 0.569,
+   "score": 0.563,
    "tier": 2
   },
   {
@@ -179,22 +164,37 @@
    "tldr": "The \"major malicious attack\" that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by researchers Spencer Kitts, Thomas Larsen, and Sydney Von Arx.",
    "published": "2026-09-12T09:07:56.000Z",
    "dupes": 1,
-   "score": 0.569,
+   "score": 0.562,
    "tier": 2
   },
   {
-   "id": "3c9a79c82f31124205db2b2584eb26cc6d3936ab",
-   "title": "OpenAI’s feud with mathematicians is only escalating",
-   "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating",
-   "source": "TechCrunch",
+   "id": "63c0cf89a6d3bd7f8f497af39e7435d5ecb88b31",
+   "title": "Anthropic CEO says it’s time to pump the brakes on AI",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+   "source": "The Verge AI",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a…",
+   "published": "2026-09-12T16:23:40.000Z",
+   "dupes": 1,
+   "score": 0.561,
+   "tier": 2
+  },
+  {
+   "id": "014159943e4d9643b524ba35091999ab979bfca3",
+   "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+   "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+   "source": "OpenAI Blog",
    "org": [
     "openai"
    ],
    "topic": "ai",
-   "tldr": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
-   "published": "2026-09-11T20:57:36.000Z",
+   "tldr": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
+   "published": "2026-09-10T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.563,
+   "score": 0.559,
    "tier": 2
   },
   {
@@ -209,7 +209,7 @@
    "tldr": "Anthropic says multiple threat groups, including the financially motivated and state-sponsored espionage groups linked to Russia and China, tried to abuse its Claude AI model for malicious purposes.",
    "published": "2026-09-11T20:19:09.000Z",
    "dupes": 1,
-   "score": 0.554,
+   "score": 0.548,
    "tier": 3
   },
   {
@@ -224,7 +224,7 @@
    "tldr": "ai (aka Zhipu), and MiniMax.  Knowledge distillation by itself is a legitimate training method.",
    "published": "2026-09-11T16:15:29.000Z",
    "dupes": 1,
-   "score": 0.54,
+   "score": 0.535,
    "tier": 3
   },
   {
@@ -239,7 +239,7 @@
    "tldr": "Anthropic has warned that cybercriminals and state-sponsored hackers alike are using its Claude models for cyber attacks, weapons design, propaganda, and mass surveillance between December 2025 and August 2026.",
    "published": "2026-09-11T14:29:47.000Z",
    "dupes": 1,
-   "score": 0.537,
+   "score": 0.533,
    "tier": 3
   },
   {
@@ -254,7 +254,7 @@
    "tldr": "Anthropic on Thursday revealed it disrupted a campaign mounted by a Russian state-sponsored threat actor that abused Claude for developing an AI-assisted workflow to get ahead of the detection curve.",
    "published": "2026-09-11T14:10:20.000Z",
    "dupes": 1,
-   "score": 0.537,
+   "score": 0.532,
    "tier": 3
   },
   {
@@ -269,7 +269,7 @@
    "tldr": "Anthropic on Wednesday disclosed a fourth incident in which its artificial intelligence (AI) model broke into real third-party systems, marking the latest in a growing list of cases that have raised concerns about the…",
    "published": "2026-09-10T07:04:01.000Z",
    "dupes": 1,
-   "score": 0.507,
+   "score": 0.505,
    "tier": 3
   },
   {
@@ -286,7 +286,7 @@
    "tldr": "S.  cybersecurity and intelligence agencies have accused China-based artificial intelligence (AI) companies of conducting \"systematic extraction\" of proprietary functionalities and capabilities of American frontier…",
    "published": "2026-09-09T09:32:26.000Z",
    "dupes": 1,
-   "score": 0.496,
+   "score": 0.495,
    "tier": 3
   },
   {
@@ -301,7 +301,7 @@
    "tldr": "Check Point Research said in a report published today that a single instruction planted in a ChatGPT conversation could cause ChatGPT to quietly work for an attacker while answering the user's question as usual.",
    "published": "2026-09-08T14:19:17.000Z",
    "dupes": 1,
-   "score": 0.49,
+   "score": 0.489,
    "tier": 3
   },
   {
@@ -316,7 +316,7 @@
    "tldr": "Microsoft says threat actors linked to ShinyHunters, Helix, and other extortion gangs are using passkey and single sign-on-themed social engineering attacks to compromise corporate Microsoft accounts and steal data from…",
    "published": "2026-09-11T17:26:50.000Z",
    "dupes": 2,
-   "score": 0.451,
+   "score": 0.433,
    "tier": 3
   },
   {
@@ -331,7 +331,7 @@
    "tldr": "Microsoft has disclosed details of two campaigns in which threat actors are abusing third-party email delivery infrastructure to blast financial fraud scam messages and using passkey-themed social engineering to breach…",
    "published": "2026-09-13T10:11:48.000Z",
    "dupes": 1,
-   "score": 0.439,
+   "score": 0.416,
    "tier": 3
   },
   {
@@ -346,7 +346,7 @@
    "tldr": "NASA asks US states to show them the money.",
    "published": "2026-09-11T16:20:43.000Z",
    "dupes": 2,
-   "score": 0.41,
+   "score": 0.395,
    "tier": 3
   },
   {
@@ -362,7 +362,7 @@
    "tldr": "",
    "published": "2026-09-13T14:25:13.000Z",
    "dupes": 1,
-   "score": 0.405,
+   "score": 0.386,
    "tier": 3
   },
   {
@@ -377,7 +377,7 @@
    "tldr": "Microsoft has fixed a bug that prevented Teams and Outlook from launching on ARM-based Windows devices after installing updates released since the August 2026 Patch Tuesday.",
    "published": "2026-09-11T09:39:37.000Z",
    "dupes": 1,
-   "score": 0.391,
+   "score": 0.373,
    "tier": 3
   },
   {
@@ -392,7 +392,7 @@
    "tldr": "Microsoft Corp.  today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever.",
    "published": "2026-09-08T21:44:22.000Z",
    "dupes": 1,
-   "score": 0.387,
+   "score": 0.371,
    "tier": 3
   },
   {
@@ -407,7 +407,7 @@
    "tldr": "Manufacturing floors, warehouses and production lines rarely stay fixed — tasks change, layouts shift and new products arrive, and most robots can’t keep up without significant reprogramming.  Skild AI’s new S1 robot…",
    "published": "2026-09-10T16:30:35.000Z",
    "dupes": 1,
-   "score": 0.37,
+   "score": 0.355,
    "tier": 3
   },
   {
@@ -422,7 +422,7 @@
    "tldr": "The global robotaxi market — physical AI’s first commercial breakthrough — is projected to reach $400 billion by 2035, with over 6 million commercial vehicles in operation as driverless fleets are already moving people…",
    "published": "2026-09-10T16:00:04.000Z",
    "dupes": 1,
-   "score": 0.369,
+   "score": 0.355,
    "tier": 3
   },
   {
@@ -437,7 +437,7 @@
    "tldr": "AI inference chipmaker d-Matrix today announced it will use NVLink Fusion to connect its next-generation Raptor XPUs to NVIDIA’s AI infrastructure platform — joining a growing roster of ecosystem partners.",
    "published": "2026-09-10T13:00:21.000Z",
    "dupes": 1,
-   "score": 0.368,
+   "score": 0.354,
    "tier": 3
   },
   {
@@ -452,7 +452,7 @@
    "tldr": "Gear up: The latest PC games and major updates are ready to play on GeForce NOW this week.  0 Deep North update and Bus Simulator 27 — part of nine new titles joining the cloud.",
    "published": "2026-09-10T13:00:18.000Z",
    "dupes": 1,
-   "score": 0.368,
+   "score": 0.354,
    "tier": 3
   },
   {
@@ -467,7 +467,7 @@
    "tldr": "Two galaxies merge at a furious rate in this Aug.  25, 2026, image of the II Zw 096 system.",
    "published": "2026-09-11T17:19:47.000Z",
    "dupes": 1,
-   "score": 0.366,
+   "score": 0.351,
    "tier": 3
   },
   {
@@ -482,7 +482,7 @@
    "tldr": "The science from every Moon rock sample, lunar dataset, and discovery produced through NASA’s Artemis program will be shared by the agency with the global scientific community.  That commitment is upheld by all 71…",
    "published": "2026-09-11T14:56:25.000Z",
    "dupes": 1,
-   "score": 0.365,
+   "score": 0.35,
    "tier": 3
   },
   {
@@ -497,7 +497,7 @@
    "tldr": "At the IBC conference, running Sept.  11-14 in Amsterdam, the creative, technology and business communities are coming together to turn ideas into action and discuss innovations across the media and entertainment…",
    "published": "2026-09-09T16:00:42.000Z",
    "dupes": 1,
-   "score": 0.362,
+   "score": 0.348,
    "tier": 3
   },
   {
@@ -512,7 +512,7 @@
    "tldr": "m.  EDT, Monday, Sept.",
    "published": "2026-09-10T21:11:32.000Z",
    "dupes": 1,
-   "score": 0.355,
+   "score": 0.341,
    "tier": 3
   },
   {
@@ -527,7 +527,7 @@
    "tldr": "Less than two weeks after an Executive Order was signed to create the first United States Space Academy, NASA-led work is in full swing to make the academy a reality and shape the future of America’s aerospace workforce…",
    "published": "2026-09-10T20:26:52.000Z",
    "dupes": 1,
-   "score": 0.355,
+   "score": 0.341,
    "tier": 3
   },
   {
@@ -542,7 +542,7 @@
    "tldr": "Search and rescue technology developed in part by NASA saved five lives",
    "published": "2026-09-10T20:12:39.000Z",
    "dupes": 1,
-   "score": 0.355,
+   "score": 0.341,
    "tier": 3
   },
   {
@@ -557,7 +557,67 @@
    "tldr": "Europe is looking inward, and perhaps to China, as the White House tries to cancel some NASA partnerships.",
    "published": "2026-09-10T19:09:29.000Z",
    "dupes": 1,
-   "score": 0.346,
+   "score": 0.333,
+   "tier": 3
+  },
+  {
+   "id": "f8cd3e2d835082fa5f3f381789758264d714bdbd",
+   "title": "Apple's long-rumored foldable becomes reality with the $2,000 iPhone Duo",
+   "url": "https://arstechnica.com/gadgets/2026/09/apples-long-rumored-foldable-becomes-reality-with-the-2000-iphone-duo",
+   "source": "Ars Technica · Gadgets",
+   "org": [
+    "apple"
+   ],
+   "topic": "compute",
+   "tldr": "Apple's first foldable can be yours next month.",
+   "published": "2026-09-09T19:42:00.000Z",
+   "dupes": 1,
+   "score": 0.318,
+   "tier": 3
+  },
+  {
+   "id": "0eafb300895fea7219d84d04a210f42e311b9e4a",
+   "title": "Apple debuts $129 AirPods 5 with better noise cancellation and transparency mode",
+   "url": "https://arstechnica.com/gadgets/2026/09/apple-debuts-129-airpods-5-with-better-noise-cancellation-and-transparency-mode",
+   "source": "Ars Technica · Gadgets",
+   "org": [
+    "apple"
+   ],
+   "topic": "compute",
+   "tldr": "AirPods 5 with noise cancellation is cheaper than its predecessor.",
+   "published": "2026-09-09T18:58:24.000Z",
+   "dupes": 1,
+   "score": 0.318,
+   "tier": 3
+  },
+  {
+   "id": "c3225c583b5c544785130b6f71e2ad8e2c8c4de7",
+   "title": "Apple starts preorders for Watch Series 12, Ultra 4 with new Health Sensing System",
+   "url": "https://arstechnica.com/gadgets/2026/09/apple-watch-series-12-ultra-4-have-wearables-most-accurate-heart-rate-sensing",
+   "source": "Ars Technica · Gadgets",
+   "org": [
+    "apple"
+   ],
+   "topic": "compute",
+   "tldr": "New Apple Intelligence features, too.",
+   "published": "2026-09-09T18:47:07.000Z",
+   "dupes": 1,
+   "score": 0.318,
+   "tier": 3
+  },
+  {
+   "id": "62ee1f7f12b64f1847eec1944d92f68474780032",
+   "title": "Apple's iPhone 18 Pro adds variable camera aperture and a more powerful chip",
+   "url": "https://arstechnica.com/gadgets/2026/09/apples-iphone-18-pro-adds-variable-camera-aperture-and-a-more-powerful-chip",
+   "source": "Ars Technica · Gadgets",
+   "org": [
+    "apple"
+   ],
+   "topic": "compute",
+   "tldr": "There's also a new thermal management system, reducing overheating.",
+   "published": "2026-09-09T17:38:53.000Z",
+   "dupes": 1,
+   "score": 0.318,
    "tier": 3
   },
   {
@@ -570,7 +630,7 @@
    "tldr": "The manufacturer has a service that lets owners repair their own equipment.",
    "published": "2026-09-13T11:00:41.000Z",
    "dupes": 1,
-   "score": 0.33,
+   "score": 0.317,
    "tier": 3
   },
   {
@@ -587,7 +647,33 @@
    "tldr": "Xbox will publish Kojima Productions' upcoming title Physint after the developer \"unexpectedly received notice from PlayStation Studios that they would cancel the Physint project\" in mid-June.",
    "published": "2026-09-10T07:34:19.000Z",
    "dupes": 1,
-   "score": 0.324,
+   "score": 0.31,
+   "tier": 3
+  },
+  {
+   "id": "f9ae5067e024ba65e1157ccac5ad26a0e26e272f",
+   "title": "I spent $4,000 on a robot dog from China",
+   "url": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china",
+   "source": "Ars Technica",
+   "org": [],
+   "topic": "robotics",
+   "tldr": "Unitree might be the world’s most important robotics company.",
+   "published": "2026-09-12T11:00:53.000Z",
+   "dupes": 2,
+   "score": 0.308,
+   "tier": 3
+  },
+  {
+   "id": "b4ccf0498a32866985a99ef8207397c9d4bc5cc5",
+   "title": "How autonomous fleets are changing what’s possible in American agriculture",
+   "url": "https://www.therobotreport.com/how-autonomous-fleets-are-changing-whats-possible-american-agriculture",
+   "source": "The Robot Report",
+   "org": [],
+   "topic": "robotics",
+   "tldr": "S.  Sugar and Everglades Equipment.",
+   "published": "2026-09-13T12:45:12.000Z",
+   "dupes": 1,
+   "score": 0.307,
    "tier": 3
   },
   {
@@ -603,33 +689,7 @@
    "tldr": "Blizzard Entertainment has secured a first union contract with parent company Microsoft, ratified by a workforce vote covering just under 1,900 staff.",
    "published": "2026-09-09T20:14:39.000Z",
    "dupes": 1,
-   "score": 0.321,
-   "tier": 3
-  },
-  {
-   "id": "b4ccf0498a32866985a99ef8207397c9d4bc5cc5",
-   "title": "How autonomous fleets are changing what’s possible in American agriculture",
-   "url": "https://www.therobotreport.com/how-autonomous-fleets-are-changing-whats-possible-american-agriculture",
-   "source": "The Robot Report",
-   "org": [],
-   "topic": "robotics",
-   "tldr": "S.  Sugar and Everglades Equipment.",
-   "published": "2026-09-13T12:45:12.000Z",
-   "dupes": 1,
-   "score": 0.32,
-   "tier": 3
-  },
-  {
-   "id": "f9ae5067e024ba65e1157ccac5ad26a0e26e272f",
-   "title": "I spent $4,000 on a robot dog from China",
-   "url": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china",
-   "source": "Ars Technica",
-   "org": [],
-   "topic": "robotics",
-   "tldr": "Unitree might be the world’s most important robotics company.",
-   "published": "2026-09-12T11:00:53.000Z",
-   "dupes": 2,
-   "score": 0.315,
+   "score": 0.307,
    "tier": 3
   },
   {
@@ -642,7 +702,7 @@
    "tldr": "Renewables pledge won’t change the Oracle and OpenAI data center’s use of gas.",
    "published": "2026-09-11T18:22:22.000Z",
    "dupes": 2,
-   "score": 0.302,
+   "score": 0.297,
    "tier": 3
   },
   {
@@ -655,7 +715,7 @@
    "tldr": "\"We felt like now is the time to pour gas on that fire.\"",
    "published": "2026-09-11T11:00:30.000Z",
    "dupes": 2,
-   "score": 0.277,
+   "score": 0.273,
    "tier": 3
   },
   {
@@ -668,7 +728,7 @@
    "tldr": "Ultrasound sensing can provide tactile perception for robotic hands while avoiding wear and tear, says UltraSense.  The post Ultrasound offers a scalable path to tactile intelligence for physical AI appeared first on…",
    "published": "2026-09-12T12:35:38.000Z",
    "dupes": 1,
-   "score": 0.251,
+   "score": 0.244,
    "tier": 3
   },
   {
@@ -681,7 +741,7 @@
    "tldr": "How do scientists studying space with data from a telescope hundreds of thousands of miles away know that what they are seeing is real?",
    "published": "2026-09-11T19:48:09.000Z",
    "dupes": 1,
-   "score": 0.244,
+   "score": 0.239,
    "tier": 3
   },
   {
@@ -694,7 +754,7 @@
    "tldr": "\"Dedicated launch is pretty essential for us for most of our missions.\"",
    "published": "2026-09-11T23:34:45.000Z",
    "dupes": 1,
-   "score": 0.242,
+   "score": 0.237,
    "tier": 3
   },
   {
@@ -707,7 +767,7 @@
    "tldr": "Saber Interactive has achieved a lot in the past few years, but the most noticeable recent news to come out of the the company was CEO Matthew Karch's unfiltered response to accusations that a writer had been replaced…",
    "published": "2026-09-11T12:40:00.000Z",
    "dupes": 2,
-   "score": 0.241,
+   "score": 0.237,
    "tier": 3
   },
   {
@@ -722,7 +782,7 @@
    "tldr": "On 15 September, two spacecraft will leave Earth together aboard the same launcher from Europe’s spaceport in Kourou: FLEX, ESA’s photosynthesis mission, and Sentinel-3C, Copernicus’ newest satellite monitoring Earth’s…",
    "published": "2026-09-11T08:00:00.000Z",
    "dupes": 1,
-   "score": 0.237,
+   "score": 0.232,
    "tier": 3
   },
   {
@@ -735,7 +795,7 @@
    "tldr": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
    "published": "2026-09-11T22:58:17.000Z",
    "dupes": 1,
-   "score": 0.234,
+   "score": 0.228,
    "tier": 3
   },
   {
@@ -750,66 +810,6 @@
    "tldr": "The European Space Agency’s Hera asteroid mission for planetary defence has a cartoon dinosaur for its mascot – because dinos were made extinct after an asteroid impact, but while they didn't have a space agency, people…",
    "published": "2026-09-10T14:00:00.000Z",
    "dupes": 1,
-   "score": 0.228,
-   "tier": 3
-  },
-  {
-   "id": "1cb567e40b7eeb546bae70a10e2b2e12732abef2",
-   "title": "Google complies with EU rules for travel searches, says the new results stink",
-   "url": "https://arstechnica.com/gadgets/2026/09/google-says-europe-is-making-it-roll-out-degraded-travel-search-results",
-   "source": "Ars Technica · Gadgets",
-   "org": [
-    "google"
-   ],
-   "topic": "compute",
-   "tldr": "The EU continues to go after Google search practices it sees as anticompetitive.",
-   "published": "2026-09-08T16:49:55.000Z",
-   "dupes": 1,
-   "score": 0.228,
-   "tier": 3
-  },
-  {
-   "id": "f8cd3e2d835082fa5f3f381789758264d714bdbd",
-   "title": "Apple's long-rumored foldable becomes reality with the $2,000 iPhone Duo",
-   "url": "https://arstechnica.com/gadgets/2026/09/apples-long-rumored-foldable-becomes-reality-with-the-2000-iphone-duo",
-   "source": "Ars Technica · Gadgets",
-   "org": [
-    "apple"
-   ],
-   "topic": "compute",
-   "tldr": "Apple's first foldable can be yours next month.",
-   "published": "2026-09-09T19:42:00.000Z",
-   "dupes": 1,
-   "score": 0.224,
-   "tier": 3
-  },
-  {
-   "id": "0eafb300895fea7219d84d04a210f42e311b9e4a",
-   "title": "Apple debuts $129 AirPods 5 with better noise cancellation and transparency mode",
-   "url": "https://arstechnica.com/gadgets/2026/09/apple-debuts-129-airpods-5-with-better-noise-cancellation-and-transparency-mode",
-   "source": "Ars Technica · Gadgets",
-   "org": [
-    "apple"
-   ],
-   "topic": "compute",
-   "tldr": "AirPods 5 with noise cancellation is cheaper than its predecessor.",
-   "published": "2026-09-09T18:58:24.000Z",
-   "dupes": 1,
-   "score": 0.224,
-   "tier": 3
-  },
-  {
-   "id": "c3225c583b5c544785130b6f71e2ad8e2c8c4de7",
-   "title": "Apple starts preorders for Watch Series 12, Ultra 4 with new Health Sensing System",
-   "url": "https://arstechnica.com/gadgets/2026/09/apple-watch-series-12-ultra-4-have-wearables-most-accurate-heart-rate-sensing",
-   "source": "Ars Technica · Gadgets",
-   "org": [
-    "apple"
-   ],
-   "topic": "compute",
-   "tldr": "New Apple Intelligence features, too.",
-   "published": "2026-09-09T18:47:07.000Z",
-   "dupes": 1,
    "score": 0.224,
    "tier": 3
   },
@@ -823,7 +823,7 @@
    "tldr": "CEO Salar al Khafaji introduces podcast listeners to how Monumental is using robotics to build walls.  The post One brick at a time: How Monumental uses robotics to build walls appeared first on The Robot Report .",
    "published": "2026-09-11T21:09:01.000Z",
    "dupes": 1,
-   "score": 0.223,
+   "score": 0.218,
    "tier": 3
   },
   {
@@ -836,7 +836,7 @@
    "tldr": "ASI CEO Mel Torrie will explore why the intersection of autonomous vehicles and robotics will further revolutionize field deployments.  The post Learn how AVs and robotics are laying the groundwork for field deployments…",
    "published": "2026-09-11T19:49:40.000Z",
    "dupes": 1,
-   "score": 0.221,
+   "score": 0.216,
    "tier": 3
   },
   {
@@ -851,7 +851,7 @@
    "tldr": "The BBC's Tom Gerken plays the hotly anticipated superhero game from Spider-Man makers Insomniac.",
    "published": "2026-09-12T00:35:50.000Z",
    "dupes": 1,
-   "score": 0.215,
+   "score": 0.209,
    "tier": 3
   },
   {
@@ -864,7 +864,7 @@
    "tldr": "Before the FCC put restrictions on foreign-made robots, it had already set similar restrictions on drones last year, noted Hylio.  The post How drone developers are navigating changing regulatory landscapes to help…",
    "published": "2026-09-11T12:21:16.000Z",
    "dupes": 1,
-   "score": 0.211,
+   "score": 0.207,
    "tier": 3
   },
   {
@@ -877,7 +877,7 @@
    "tldr": "Simple games gain rich strategies in the face of noise.",
    "published": "2026-09-11T21:41:16.000Z",
    "dupes": 1,
-   "score": 0.207,
+   "score": 0.202,
    "tier": 3
   },
   {
@@ -890,7 +890,7 @@
    "tldr": "The rise of unions in the video games industry has been a hot topic over the past decade, as more and more workers seek protection for their rights in the face of harsh working conditions and management shortcomings…",
    "published": "2026-09-11T15:59:00.000Z",
    "dupes": 1,
-   "score": 0.2,
+   "score": 0.196,
    "tier": 3
   },
   {
@@ -903,7 +903,7 @@
    "tldr": "New details reveal the lawsuit involves three Universal Robots patents about robot interfaces, safety brakes, and joints.  The post Teradyne Robotics sues JAKA over 3 Universal Robots patents appeared first on The Robot…",
    "published": "2026-09-10T22:14:26.000Z",
    "dupes": 1,
-   "score": 0.197,
+   "score": 0.194,
    "tier": 3
   },
   {
@@ -916,7 +916,7 @@
    "tldr": "Swarmer, which has developed swarm software, plans to work with Ratel Robotics' unmanned ground vehicles in Ukraine.  The post Swarmer to acquire Ukrainian UGV maker Ratel Robotics for up to $224M appeared first on The…",
    "published": "2026-09-10T20:10:22.000Z",
    "dupes": 1,
-   "score": 0.195,
+   "score": 0.192,
    "tier": 3
   },
   {
@@ -929,7 +929,7 @@
    "tldr": "Comau's system incorporates its MyCo cobot, ROS2 software architecture, AI-powered vision systems, and a modular gripper.  The post Comau automates picking, handling, and palletizing for Decathlon appeared first on The…",
    "published": "2026-09-10T18:49:08.000Z",
    "dupes": 1,
-   "score": 0.194,
+   "score": 0.191,
    "tier": 3
   },
   {
@@ -944,7 +944,7 @@
    "tldr": "The market is pulling back on Unitree's $66 billion valuation from its debut on the Shanghai Stock Exchange just last month.  The post Unitree shares down 53% from IPO debut appeared first on The Robot Report .",
    "published": "2026-09-09T19:34:57.000Z",
    "dupes": 1,
-   "score": 0.179,
+   "score": 0.178,
    "tier": 3
   },
   {
@@ -957,7 +957,7 @@
    "tldr": "Vention's new Physical AI Lab will focus on advancing robotic manipulation from research to scalable production-line deployment.  The post Vention opens Physical AI Lab for manufacturing in Montreal appeared first on…",
    "published": "2026-09-09T15:41:50.000Z",
    "dupes": 1,
-   "score": 0.177,
+   "score": 0.176,
    "tier": 3
   }
  ]
