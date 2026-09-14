@@ -1,6 +1,52 @@
 {
- "generated": "2026-09-14T20:08:40.013Z",
+ "generated": "2026-09-14T23:15:10.759Z",
  "items": [
+  {
+   "id": "20c44d5cd95efdf4e5c12aa6723ce10deec55fe3",
+   "title": "Microsoft releases emergency Windows updates to fix RDS failures",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-windows-updates-to-fix-rds-failures",
+   "source": "BleepingComputer",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "security",
+   "tldr": "Microsoft has released emergency out-of-band Windows updates to fix Remote Desktop Services failures caused by this month's security updates, along with Hyper-V and USB audio problems on some Windows versions.",
+   "published": "2026-09-14T20:52:18.000Z",
+   "dupes": 2,
+   "score": 0.75,
+   "tier": 1
+  },
+  {
+   "id": "b6599ce272d34be401cacfc80e342ede1ceff450",
+   "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+   "url": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai",
+   "source": "Ars Technica",
+   "org": [
+    "openai",
+    "apple"
+   ],
+   "topic": "ai",
+   "tldr": "Musk stops attacking Apple over ChatGPT integration but not OpenAI.",
+   "published": "2026-09-14T19:45:13.000Z",
+   "dupes": 1,
+   "score": 0.706,
+   "tier": 2
+  },
+  {
+   "id": "fbf3222df41700a6cffd41b5def0fece4cadace3",
+   "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+   "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says",
+   "source": "TechCrunch",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
+   "published": "2026-09-14T20:44:14.000Z",
+   "dupes": 1,
+   "score": 0.703,
+   "tier": 2
+  },
   {
    "id": "296d33defd03a1b2463973471461c0abc893e728",
    "title": "How Fyxer built an AI executive assistant people trust",
@@ -13,8 +59,23 @@
    "tldr": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
    "published": "2026-09-14T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.709,
-   "tier": 1
+   "score": 0.697,
+   "tier": 2
+  },
+  {
+   "id": "ff5ea042be82b4a92bdb9f03fc9e6929977b87d0",
+   "title": "Webinar 9/23: NASA CSDA Program Update 2026",
+   "url": "https://science.nasa.gov/science-research/earth-science/webinar-9-23-nasa-csda-program-update-2026",
+   "source": "NASA",
+   "org": [
+    "nasa"
+   ],
+   "topic": "space",
+   "tldr": "This webinar will provide an overview of the CSDA program’s goals and activities, including the new Cal/Val initiative, and more.",
+   "published": "2026-09-14T21:04:04.000Z",
+   "dupes": 1,
+   "score": 0.684,
+   "tier": 2
   },
   {
    "id": "dcb6185df4cbcfbec080033ac6744a29d2d198fa",
@@ -28,7 +89,7 @@
    "tldr": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as specific safety…",
    "published": "2026-09-14T16:27:53.000Z",
    "dupes": 1,
-   "score": 0.697,
+   "score": 0.683,
    "tier": 2
   },
   {
@@ -43,7 +104,7 @@
    "tldr": "If you're building an AI company, the question isn't whether foundation models will continue to evolve.  It's whether your company will continue creating value as they do.",
    "published": "2026-09-14T15:00:00.000Z",
    "dupes": 1,
-   "score": 0.69,
+   "score": 0.677,
    "tier": 2
   },
   {
@@ -61,7 +122,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.689,
+   "score": 0.675,
    "tier": 2
   },
   {
@@ -76,7 +137,7 @@
    "tldr": "A mass-scanning campaign targeting internet-exposed Vite development servers is attempting to steal cloud credentials and configurations from AWS and Azure deployments.",
    "published": "2026-09-14T16:15:58.000Z",
    "dupes": 1,
-   "score": 0.688,
+   "score": 0.674,
    "tier": 2
   },
   {
@@ -91,22 +152,7 @@
    "tldr": "The Republic of Djibouti became the 72nd nation and eighth African country to sign the Artemis Accords during a ceremony Monday at NASA Headquarters in Washington.  The Artemis Accords are the first set of practical…",
    "published": "2026-09-14T16:46:07.000Z",
    "dupes": 1,
-   "score": 0.679,
-   "tier": 2
-  },
-  {
-   "id": "94e98d922c0c527c1fcda5ed7e0c43cbd012d039",
-   "title": "NASA Kicks Off Inspiration Tour with Steelers vs. Falcons Game",
-   "url": "https://www.nasa.gov/image-article/nasa-kicks-off-inspiration-tour-with-steelers-vs-falcons-game",
-   "source": "NASA",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "Fans pose for a photo with an astronaut in the NASA Experience Zone at an NFL game between the Pittsburgh Steelers and the Atlanta Falcons at Acrisure Stadium, Sunday, Sept.  13, 2026, in Pittsburgh, Pennsylvania.",
-   "published": "2026-09-14T16:00:11.000Z",
-   "dupes": 1,
-   "score": 0.675,
+   "score": 0.665,
    "tier": 2
   },
   {
@@ -121,22 +167,23 @@
    "tldr": "",
    "published": "2026-09-14T16:09:45.000Z",
    "dupes": 1,
-   "score": 0.673,
+   "score": 0.664,
    "tier": 2
   },
   {
-   "id": "3d7563a4b3faaac6fa0085c689a975aadfb8405c",
-   "title": "Summer Training: Catching Up With NASA’s Astronaut Candidates",
-   "url": "https://www.nasa.gov/centers-and-facilities/johnson/summer-training-catching-up-with-nasas-astronaut-candidates",
-   "source": "NASA",
+   "id": "1422b753551b8ac236b3114b1e5c030235ed7cab",
+   "title": "Rocket Lab is seeing red about NASA's decision on a Mars spacecraft",
+   "url": "https://arstechnica.com/space/2026/09/rocket-lab-is-seeing-red-about-nasas-decision-on-a-mars-spacecraft",
+   "source": "Ars Technica · Space",
    "org": [
-    "nasa"
+    "nasa",
+    "rocket-lab"
    ],
    "topic": "space",
-   "tldr": "Did you spend part of your summer camping, hiking, at the pool, or in an aircraft?  So did NASA’s 2025 Astronaut Candidate Class.",
-   "published": "2026-09-14T15:00:00.000Z",
+   "tldr": "\"NASA’s award decision appears to be inconsistent with the eligibility criteria.\"",
+   "published": "2026-09-14T21:32:22.000Z",
    "dupes": 1,
-   "score": 0.671,
+   "score": 0.664,
    "tier": 2
   },
   {
@@ -151,8 +198,38 @@
    "tldr": "",
    "published": "2026-09-14T12:40:57.000Z",
    "dupes": 1,
-   "score": 0.668,
+   "score": 0.662,
    "tier": 2
+  },
+  {
+   "id": "94e98d922c0c527c1fcda5ed7e0c43cbd012d039",
+   "title": "NASA Kicks Off Inspiration Tour with Steelers vs. Falcons Game",
+   "url": "https://www.nasa.gov/image-article/nasa-kicks-off-inspiration-tour-with-steelers-vs-falcons-game",
+   "source": "NASA",
+   "org": [
+    "nasa"
+   ],
+   "topic": "space",
+   "tldr": "Fans pose for a photo with an astronaut in the NASA Experience Zone at an NFL game between the Pittsburgh Steelers and the Atlanta Falcons at Acrisure Stadium, Sunday, Sept.  13, 2026, in Pittsburgh, Pennsylvania.",
+   "published": "2026-09-14T16:00:11.000Z",
+   "dupes": 1,
+   "score": 0.662,
+   "tier": 3
+  },
+  {
+   "id": "3d7563a4b3faaac6fa0085c689a975aadfb8405c",
+   "title": "Summer Training: Catching Up With NASA’s Astronaut Candidates",
+   "url": "https://www.nasa.gov/centers-and-facilities/johnson/summer-training-catching-up-with-nasas-astronaut-candidates",
+   "source": "NASA",
+   "org": [
+    "nasa"
+   ],
+   "topic": "space",
+   "tldr": "Did you spend part of your summer camping, hiking, at the pool, or in an aircraft?  So did NASA’s 2025 Astronaut Candidate Class.",
+   "published": "2026-09-14T15:00:00.000Z",
+   "dupes": 1,
+   "score": 0.658,
+   "tier": 3
   },
   {
    "id": "12e9dd6851803557bf5ad9fd2920e7fa2e644576",
@@ -166,23 +243,8 @@
    "tldr": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
    "published": "2026-09-14T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.665,
-   "tier": 2
-  },
-  {
-   "id": "f87e49a9d77971d52822c45cc4ba1b0f3a35852d",
-   "title": "Microsoft: September updates cause RDS failures on Windows Server",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-cause-rds-failures-on-windows-server",
-   "source": "BleepingComputer",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "security",
-   "tldr": "Microsoft has confirmed reports that the September 2026 security updates cause Remote Desktop Services (RDS) failures on Windows Server systems.",
-   "published": "2026-09-14T09:50:25.000Z",
-   "dupes": 1,
-   "score": 0.66,
-   "tier": 2
+   "score": 0.656,
+   "tier": 3
   },
   {
    "id": "1bddf6190ba7cd2cf7bb079cec95a57e6873558d",
@@ -196,8 +258,8 @@
    "tldr": "Microsoft has confirmed that USB audio devices may fail on some Windows systems after installing the KB5124008and KB5124012 September 2026 security updates.",
    "published": "2026-09-14T08:08:16.000Z",
    "dupes": 1,
-   "score": 0.654,
-   "tier": 2
+   "score": 0.642,
+   "tier": 3
   },
   {
    "id": "4057d675f57a2bd75150b7bca387bcf1509b934e",
@@ -211,7 +273,37 @@
    "tldr": "Microsoft is publishing a 37-page \"humanist AI code of conduct\" today, amid growing safety concerns over AI model progress.",
    "published": "2026-09-14T13:00:00.000Z",
    "dupes": 1,
-   "score": 0.65,
+   "score": 0.637,
+   "tier": 3
+  },
+  {
+   "id": "f447d8cbcd59133f6f582f35f8f1a71e55832092",
+   "title": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
+   "url": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "As local models become more capable, AI agents can handle more work directly on a PC while keeping sensitive information on the device.  Portable Computer is a local version of the agent Perplexity Computer that plans…",
+   "published": "2026-09-14T15:00:52.000Z",
+   "dupes": 1,
+   "score": 0.619,
+   "tier": 3
+  },
+  {
+   "id": "e957c507988f322a6a17fdcb820c6987477d546c",
+   "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+   "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen",
+   "source": "TechCrunch",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
+   "published": "2026-09-14T21:51:02.000Z",
+   "dupes": 1,
+   "score": 0.619,
    "tier": 3
   },
   {
@@ -227,7 +319,22 @@
    "tldr": "Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles into OpenAI and Anthropic — his $90 billion firm is…",
    "published": "2026-09-13T21:30:00.000Z",
    "dupes": 1,
-   "score": 0.625,
+   "score": 0.616,
+   "tier": 3
+  },
+  {
+   "id": "befe6aeea420de7f9308650ed1883e5e0dca4a5f",
+   "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
+   "url": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance",
+   "source": "TechCrunch",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "The company also announced a product called Active Compute Fabric, a network technology that targets the fact that much GPU time is wasted waiting for data to arrive.",
+   "published": "2026-09-14T20:07:37.000Z",
+   "dupes": 1,
+   "score": 0.615,
    "tier": 3
   },
   {
@@ -242,37 +349,7 @@
    "tldr": "Microsoft has disclosed details of two campaigns in which threat actors are abusing third-party email delivery infrastructure to blast financial fraud scam messages and using passkey-themed social engineering to breach…",
    "published": "2026-09-13T10:11:48.000Z",
    "dupes": 1,
-   "score": 0.579,
-   "tier": 3
-  },
-  {
-   "id": "9e45ff75931a7d5d436fc25ba5e9a83c635fef44",
-   "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
-   "url": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
-   "published": "2026-09-13T14:53:40.000Z",
-   "dupes": 1,
-   "score": 0.574,
-   "tier": 3
-  },
-  {
-   "id": "5c0881f69a35cd1594e8d9e236c19cfdb260e8c0",
-   "title": "NASA moving at warp speed to set up US Space Academy",
-   "url": "https://arstechnica.com/space/2026/09/nasa-moving-at-warp-speed-to-set-up-us-space-academy",
-   "source": "Ars Technica",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "NASA asks US states to show them the money.",
-   "published": "2026-09-11T16:20:43.000Z",
-   "dupes": 2,
-   "score": 0.566,
+   "score": 0.572,
    "tier": 3
   },
   {
@@ -287,7 +364,7 @@
    "tldr": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
    "published": "2026-09-11T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.565,
+   "score": 0.562,
    "tier": 3
   },
   {
@@ -302,22 +379,7 @@
    "tldr": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
    "published": "2026-09-11T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.56,
-   "tier": 3
-  },
-  {
-   "id": "4a1f65fbb798046298bbb27d11c79786b4e4e86b",
-   "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-   "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
-   "published": "2026-09-12T21:16:47.000Z",
-   "dupes": 1,
-   "score": 0.555,
+   "score": 0.558,
    "tier": 3
   },
   {
@@ -332,37 +394,37 @@
    "tldr": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
    "published": "2026-09-10T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.549,
+   "score": 0.547,
    "tier": 3
   },
   {
-   "id": "f447d8cbcd59133f6f582f35f8f1a71e55832092",
-   "title": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
-   "url": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs",
+   "id": "74f1f6122ab89e844c509ea1b9a5c231694eb865",
+   "title": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
+   "url": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai",
    "source": "NVIDIA Blog",
    "org": [
     "nvidia"
    ],
    "topic": "compute",
-   "tldr": "As local models become more capable, AI agents can handle more work directly on a PC while keeping sensitive information on the device.  Portable Computer is a local version of the agent Perplexity Computer that plans…",
-   "published": "2026-09-14T15:00:52.000Z",
+   "tldr": "Manufacturing floors, warehouses and production lines rarely stay fixed — tasks change, layouts shift and new products arrive, and most robots can’t keep up without significant reprogramming.  Skild AI’s new S1 robot…",
+   "published": "2026-09-10T16:30:35.000Z",
    "dupes": 1,
-   "score": 0.54,
+   "score": 0.531,
    "tier": 3
   },
   {
-   "id": "befe6aeea420de7f9308650ed1883e5e0dca4a5f",
-   "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
-   "url": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance",
-   "source": "TechCrunch",
+   "id": "94f3002b19f7a180072de7e5ea51b2b5768d2890",
+   "title": "Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With NVIDIA Technologies",
+   "url": "https://blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform",
+   "source": "NVIDIA Blog",
    "org": [
     "nvidia"
    ],
    "topic": "compute",
-   "tldr": "Cornelis, a company creating networking technology to help AI chips communicate more effectively, announced Monday that it has raised $205 million.",
-   "published": "2026-09-14T20:07:37.000Z",
+   "tldr": "The global robotaxi market — physical AI’s first commercial breakthrough — is projected to reach $400 billion by 2035, with over 6 million commercial vehicles in operation as driverless fleets are already moving people…",
+   "published": "2026-09-10T16:00:04.000Z",
    "dupes": 1,
-   "score": 0.537,
+   "score": 0.531,
    "tier": 3
   },
   {
@@ -377,37 +439,52 @@
    "tldr": "The \"major malicious attack\" that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by researchers Spencer Kitts, Thomas Larsen, and Sydney Von Arx.",
    "published": "2026-09-12T09:07:56.000Z",
    "dupes": 1,
-   "score": 0.535,
+   "score": 0.531,
    "tier": 3
   },
   {
-   "id": "5cdb8a01a1af62832e23eb9830e7cb77392468b6",
-   "title": "Hackers abused Claude to extract secrets from 1.8M Android apps",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps",
-   "source": "BleepingComputer",
+   "id": "ea4d3b05d9ae69b7f5c955bd609b87be574d67a4",
+   "title": "d-Matrix Adopts NVIDIA NVLink Fusion for Rack-Scale XPU Deployment",
+   "url": "https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion",
+   "source": "NVIDIA Blog",
    "org": [
-    "anthropic"
+    "nvidia"
    ],
-   "topic": "security",
-   "tldr": "Anthropic says multiple threat groups, including the financially motivated and state-sponsored espionage groups linked to Russia and China, tried to abuse its Claude AI model for malicious purposes.",
-   "published": "2026-09-11T20:19:09.000Z",
+   "topic": "compute",
+   "tldr": "AI inference chipmaker d-Matrix today announced it will use NVLink Fusion to connect its next-generation Raptor XPUs to NVIDIA’s AI infrastructure platform — joining a growing roster of ecosystem partners.",
+   "published": "2026-09-10T13:00:21.000Z",
    "dupes": 1,
-   "score": 0.529,
+   "score": 0.53,
    "tier": 3
   },
   {
-   "id": "6924e22564811fb5bcdc8301865b185ddc46b54f",
-   "title": "Passkey-themed phishing attacks lead to Microsoft 365 data theft",
-   "url": "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft",
-   "source": "BleepingComputer",
+   "id": "d4bbe1e3ba12fda50062cf61bd1e099794716b20",
+   "title": "Boots on the Ground: ‘WARDOGS’ Goes All Out on GeForce NOW at Early-Access Launch",
+   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-wardogs",
+   "source": "NVIDIA Blog",
    "org": [
-    "microsoft"
+    "nvidia"
    ],
-   "topic": "security",
-   "tldr": "Microsoft says threat actors linked to ShinyHunters, Helix, and other extortion gangs are using passkey and single sign-on-themed social engineering attacks to compromise corporate Microsoft accounts and steal data from…",
-   "published": "2026-09-11T17:26:50.000Z",
+   "topic": "compute",
+   "tldr": "Gear up: The latest PC games and major updates are ready to play on GeForce NOW this week.  0 Deep North update and Bus Simulator 27 — part of nine new titles joining the cloud.",
+   "published": "2026-09-10T13:00:18.000Z",
    "dupes": 1,
-   "score": 0.526,
+   "score": 0.53,
+   "tier": 3
+  },
+  {
+   "id": "507a075c9a26389e1d5bbd764b3b74009b84cec7",
+   "title": "NVIDIA Brings Real-Time AI to Broadcast, Sports and Global Streaming at IBC",
+   "url": "https://blogs.nvidia.com/blog/ibc-news-2026",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "At the IBC conference, running Sept.  11-14 in Amsterdam, the creative, technology and business communities are coming together to turn ideas into action and discuss innovations across the media and entertainment…",
+   "published": "2026-09-09T16:00:42.000Z",
+   "dupes": 1,
+   "score": 0.523,
    "tier": 3
   },
   {
@@ -422,52 +499,7 @@
    "tldr": "Two galaxies merge at a furious rate in this Aug.  25, 2026, image of the II Zw 096 system.",
    "published": "2026-09-11T17:19:47.000Z",
    "dupes": 1,
-   "score": 0.523,
-   "tier": 3
-  },
-  {
-   "id": "394b762a6a3c3b13adbab5480fd309b02fd0b89d",
-   "title": "Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks",
-   "url": "https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html",
-   "source": "The Hacker News",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "security",
-   "tldr": "ai (aka Zhipu), and MiniMax.  Knowledge distillation by itself is a legitimate training method.",
-   "published": "2026-09-11T16:15:29.000Z",
-   "dupes": 1,
-   "score": 0.517,
-   "tier": 3
-  },
-  {
-   "id": "7d9c766ebea8ab0983f05f4fd55d2f655864d4a4",
-   "title": "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims",
-   "url": "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html",
-   "source": "The Hacker News",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "security",
-   "tldr": "Anthropic has warned that cybercriminals and state-sponsored hackers alike are using its Claude models for cyber attacks, weapons design, propaganda, and mass surveillance between December 2025 and August 2026.",
-   "published": "2026-09-11T14:29:47.000Z",
-   "dupes": 1,
-   "score": 0.516,
-   "tier": 3
-  },
-  {
-   "id": "4697000491090f0e9bf1e6dc62a7e870719163f7",
-   "title": "Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection",
-   "url": "https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html",
-   "source": "The Hacker News",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "security",
-   "tldr": "Anthropic on Thursday revealed it disrupted a campaign mounted by a Russian state-sponsored threat actor that abused Claude for developing an AI-assisted workflow to get ahead of the detection curve.",
-   "published": "2026-09-11T14:10:20.000Z",
-   "dupes": 1,
-   "score": 0.515,
+   "score": 0.52,
    "tier": 3
   },
   {
@@ -486,93 +518,93 @@
    "tier": 3
   },
   {
-   "id": "b8ff951625ab1b0efc02aedf6dce807f4c846b3f",
-   "title": "Valve opens waiting list for Steam Frame, starting at $1059",
-   "url": "https://www.gamesindustry.biz/valve-opens-waiting-list-for-steam-frame-starting-at-1059",
-   "source": "GamesIndustry.biz",
+   "id": "5c0881f69a35cd1594e8d9e236c19cfdb260e8c0",
+   "title": "NASA moving at warp speed to set up US Space Academy",
+   "url": "https://arstechnica.com/space/2026/09/nasa-moving-at-warp-speed-to-set-up-us-space-academy",
+   "source": "Ars Technica · Space",
    "org": [
-    "valve"
+    "nasa"
    ],
-   "topic": "gaming",
-   "tldr": "Valve has opened a waiting list for its new VR system, Steam Frame.",
-   "published": "2026-09-14T18:03:34.000Z",
-   "dupes": 2,
+   "topic": "space",
+   "tldr": "NASA asks US states to show them the money.",
+   "published": "2026-09-11T16:20:43.000Z",
+   "dupes": 1,
+   "score": 0.496,
+   "tier": 3
+  },
+  {
+   "id": "1c575186fad4b472e1965767d2dabdf75f209e0b",
+   "title": "Researcher Drops New Microsoft Defender PoC Showing ShieldBreak Patch Can Be Bypassed",
+   "url": "https://thehackernews.com/2026/09/researcher-drops-new-microsoft-defender.html",
+   "source": "The Hacker News",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "security",
+   "tldr": "The security researcher known as Chaotic Eclipse has dropped a proof-of-concept (PoC) for yet another zero-day in Microsoft Defender.  8), also called ShieldBreak, which the researcher reported last month.",
+   "published": "2026-09-09T06:47:27.000Z",
+   "dupes": 1,
+   "score": 0.488,
+   "tier": 3
+  },
+  {
+   "id": "0e5d9e729090e7b3fc36195f9dc0261a06a3bc16",
+   "title": "Microsoft Patches Record 974 Flaws, Including Two Exploited Windows Zero-Days",
+   "url": "https://thehackernews.com/2026/09/microsoft-patches-record-974-flaws.html",
+   "source": "The Hacker News",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "security",
+   "tldr": "Microsoft on Tuesday broke Patch Tuesday records by addressing an earth-shattering 974 vulnerabilities spanning its software portfolio, including two flaws that it said have been actively exploited in the wild.  These…",
+   "published": "2026-09-09T04:41:29.000Z",
+   "dupes": 1,
+   "score": 0.488,
+   "tier": 3
+  },
+  {
+   "id": "4a565ed211cb3c2a4963357f18a67725a4706b69",
+   "title": "ChatGPT Flaw Let a Planted Prompt Send a Victim's Gmail Data to Another Account",
+   "url": "https://thehackernews.com/2026/09/chatgpt-flaw-let-planted-prompt-send.html",
+   "source": "The Hacker News",
+   "org": [
+    "openai"
+   ],
+   "topic": "security",
+   "tldr": "Check Point Research said in a report published today that a single instruction planted in a ChatGPT conversation could cause ChatGPT to quietly work for an attacker while answering the user's question as usual.",
+   "published": "2026-09-08T14:19:17.000Z",
+   "dupes": 1,
+   "score": 0.485,
+   "tier": 3
+  },
+  {
+   "id": "5cdb8a01a1af62832e23eb9830e7cb77392468b6",
+   "title": "Hackers abused Claude to extract secrets from 1.8M Android apps",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps",
+   "source": "BleepingComputer",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "security",
+   "tldr": "Anthropic says multiple threat groups, including the financially motivated and state-sponsored espionage groups linked to Russia and China, tried to abuse its Claude AI model for malicious purposes.",
+   "published": "2026-09-11T20:19:09.000Z",
+   "dupes": 1,
    "score": 0.472,
    "tier": 3
   },
   {
-   "id": "74f1f6122ab89e844c509ea1b9a5c231694eb865",
-   "title": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
-   "url": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai",
-   "source": "NVIDIA Blog",
+   "id": "394b762a6a3c3b13adbab5480fd309b02fd0b89d",
+   "title": "Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks",
+   "url": "https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html",
+   "source": "The Hacker News",
    "org": [
-    "nvidia"
+    "anthropic"
    ],
-   "topic": "compute",
-   "tldr": "Manufacturing floors, warehouses and production lines rarely stay fixed — tasks change, layouts shift and new products arrive, and most robots can’t keep up without significant reprogramming.  Skild AI’s new S1 robot…",
-   "published": "2026-09-10T16:30:35.000Z",
+   "topic": "security",
+   "tldr": "ai (aka Zhipu), and MiniMax.  Knowledge distillation by itself is a legitimate training method.",
+   "published": "2026-09-11T16:15:29.000Z",
    "dupes": 1,
-   "score": 0.451,
-   "tier": 3
-  },
-  {
-   "id": "94f3002b19f7a180072de7e5ea51b2b5768d2890",
-   "title": "Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With NVIDIA Technologies",
-   "url": "https://blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "The global robotaxi market — physical AI’s first commercial breakthrough — is projected to reach $400 billion by 2035, with over 6 million commercial vehicles in operation as driverless fleets are already moving people…",
-   "published": "2026-09-10T16:00:04.000Z",
-   "dupes": 1,
-   "score": 0.451,
-   "tier": 3
-  },
-  {
-   "id": "ea4d3b05d9ae69b7f5c955bd609b87be574d67a4",
-   "title": "d-Matrix Adopts NVIDIA NVLink Fusion for Rack-Scale XPU Deployment",
-   "url": "https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "AI inference chipmaker d-Matrix today announced it will use NVLink Fusion to connect its next-generation Raptor XPUs to NVIDIA’s AI infrastructure platform — joining a growing roster of ecosystem partners.",
-   "published": "2026-09-10T13:00:21.000Z",
-   "dupes": 1,
-   "score": 0.45,
-   "tier": 3
-  },
-  {
-   "id": "d4bbe1e3ba12fda50062cf61bd1e099794716b20",
-   "title": "Boots on the Ground: ‘WARDOGS’ Goes All Out on GeForce NOW at Early-Access Launch",
-   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-wardogs",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Gear up: The latest PC games and major updates are ready to play on GeForce NOW this week.  0 Deep North update and Bus Simulator 27 — part of nine new titles joining the cloud.",
-   "published": "2026-09-10T13:00:18.000Z",
-   "dupes": 1,
-   "score": 0.45,
-   "tier": 3
-  },
-  {
-   "id": "507a075c9a26389e1d5bbd764b3b74009b84cec7",
-   "title": "NVIDIA Brings Real-Time AI to Broadcast, Sports and Global Streaming at IBC",
-   "url": "https://blogs.nvidia.com/blog/ibc-news-2026",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "At the IBC conference, running Sept.  11-14 in Amsterdam, the creative, technology and business communities are coming together to turn ideas into action and discuss innovations across the media and entertainment…",
-   "published": "2026-09-09T16:00:42.000Z",
-   "dupes": 1,
-   "score": 0.446,
+   "score": 0.462,
    "tier": 3
   },
   {
@@ -589,36 +621,21 @@
    "tldr": "Xbox will publish Kojima Productions' upcoming title Physint after the developer \"unexpectedly received notice from PlayStation Studios that they would cancel the Physint project\" in mid-June.",
    "published": "2026-09-10T07:34:19.000Z",
    "dupes": 1,
-   "score": 0.427,
-   "tier": 3
-  },
-  {
-   "id": "50a55c5189885af3674d0b4cc4f73eed4b944039",
-   "title": "ESA Space Environment Report 2026",
-   "url": "https://www.esa.int/Space_Safety/Space_Debris/ESA_Space_Environment_Report_2026",
-   "source": "ESA Space News",
-   "org": [
-    "esa"
-   ],
-   "topic": "space",
-   "tldr": "",
-   "published": "2026-09-14T08:52:00.000Z",
-   "dupes": 1,
    "score": 0.426,
    "tier": 3
   },
   {
-   "id": "9decac5f30960712c1ca616473666650e4a7ac96",
-   "title": "ESA’s FLEX mission reveals the secret glow of plants",
-   "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/ESA_s_FLEX_mission_reveals_the_secret_glow_of_plants",
-   "source": "ESA Space News",
+   "id": "8dae0ac969358dc04a3568a1b881cb382ffe5c53",
+   "title": "Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots",
+   "url": "https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots",
+   "source": "Ars Technica",
    "org": [
-    "esa"
+    "unitree"
    ],
-   "topic": "space",
-   "tldr": "Video: 00:06:30 Plants may look still and silent, but every leaf is constantly responding to its environment.  As plants photosynthesise, they emit an incredibly faint glow called fluorescence.",
-   "published": "2026-09-14T08:00:00.000Z",
-   "dupes": 1,
+   "topic": "robotics",
+   "tldr": "Wang Xingxing micromanaged Unitree to success—will his leadership style scale?",
+   "published": "2026-09-14T19:38:46.000Z",
+   "dupes": 2,
    "score": 0.424,
    "tier": 3
   },
@@ -635,7 +652,112 @@
    "tldr": "Blizzard Entertainment has secured a first union contract with parent company Microsoft, ratified by a workforce vote covering just under 1,900 staff.",
    "published": "2026-09-09T20:14:39.000Z",
    "dupes": 1,
-   "score": 0.424,
+   "score": 0.423,
+   "tier": 3
+  },
+  {
+   "id": "50a55c5189885af3674d0b4cc4f73eed4b944039",
+   "title": "ESA Space Environment Report 2026",
+   "url": "https://www.esa.int/Space_Safety/Space_Debris/ESA_Space_Environment_Report_2026",
+   "source": "ESA Space News",
+   "org": [
+    "esa"
+   ],
+   "topic": "space",
+   "tldr": "",
+   "published": "2026-09-14T08:52:00.000Z",
+   "dupes": 1,
+   "score": 0.408,
+   "tier": 3
+  },
+  {
+   "id": "9decac5f30960712c1ca616473666650e4a7ac96",
+   "title": "ESA’s FLEX mission reveals the secret glow of plants",
+   "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/ESA_s_FLEX_mission_reveals_the_secret_glow_of_plants",
+   "source": "ESA Space News",
+   "org": [
+    "esa"
+   ],
+   "topic": "space",
+   "tldr": "Video: 00:06:30 Plants may look still and silent, but every leaf is constantly responding to its environment.  As plants photosynthesise, they emit an incredibly faint glow called fluorescence.",
+   "published": "2026-09-14T08:00:00.000Z",
+   "dupes": 1,
+   "score": 0.407,
+   "tier": 3
+  },
+  {
+   "id": "f8cd3e2d835082fa5f3f381789758264d714bdbd",
+   "title": "Apple's long-rumored foldable becomes reality with the $2,000 iPhone Duo",
+   "url": "https://arstechnica.com/gadgets/2026/09/apples-long-rumored-foldable-becomes-reality-with-the-2000-iphone-duo",
+   "source": "Ars Technica · Gadgets",
+   "org": [
+    "apple"
+   ],
+   "topic": "compute",
+   "tldr": "Apple's first foldable can be yours next month.",
+   "published": "2026-09-09T19:42:00.000Z",
+   "dupes": 1,
+   "score": 0.397,
+   "tier": 3
+  },
+  {
+   "id": "0eafb300895fea7219d84d04a210f42e311b9e4a",
+   "title": "Apple debuts $129 AirPods 5 with better noise cancellation and transparency mode",
+   "url": "https://arstechnica.com/gadgets/2026/09/apple-debuts-129-airpods-5-with-better-noise-cancellation-and-transparency-mode",
+   "source": "Ars Technica · Gadgets",
+   "org": [
+    "apple"
+   ],
+   "topic": "compute",
+   "tldr": "AirPods 5 with noise cancellation is cheaper than its predecessor.",
+   "published": "2026-09-09T18:58:24.000Z",
+   "dupes": 1,
+   "score": 0.397,
+   "tier": 3
+  },
+  {
+   "id": "c3225c583b5c544785130b6f71e2ad8e2c8c4de7",
+   "title": "Apple starts preorders for Watch Series 12, Ultra 4 with new Health Sensing System",
+   "url": "https://arstechnica.com/gadgets/2026/09/apple-watch-series-12-ultra-4-have-wearables-most-accurate-heart-rate-sensing",
+   "source": "Ars Technica · Gadgets",
+   "org": [
+    "apple"
+   ],
+   "topic": "compute",
+   "tldr": "New Apple Intelligence features, too.",
+   "published": "2026-09-09T18:47:07.000Z",
+   "dupes": 1,
+   "score": 0.397,
+   "tier": 3
+  },
+  {
+   "id": "62ee1f7f12b64f1847eec1944d92f68474780032",
+   "title": "Apple's iPhone 18 Pro adds variable camera aperture and a more powerful chip",
+   "url": "https://arstechnica.com/gadgets/2026/09/apples-iphone-18-pro-adds-variable-camera-aperture-and-a-more-powerful-chip",
+   "source": "Ars Technica · Gadgets",
+   "org": [
+    "apple"
+   ],
+   "topic": "compute",
+   "tldr": "There's also a new thermal management system, reducing overheating.",
+   "published": "2026-09-09T17:38:53.000Z",
+   "dupes": 1,
+   "score": 0.396,
+   "tier": 3
+  },
+  {
+   "id": "b8ff951625ab1b0efc02aedf6dce807f4c846b3f",
+   "title": "Valve opens waiting list for Steam Frame, starting at $1059",
+   "url": "https://www.gamesindustry.biz/valve-opens-waiting-list-for-steam-frame-starting-at-1059",
+   "source": "GamesIndustry.biz",
+   "org": [
+    "valve"
+   ],
+   "topic": "gaming",
+   "tldr": "Valve has opened a waiting list for its new VR system, Steam Frame.",
+   "published": "2026-09-14T18:03:34.000Z",
+   "dupes": 1,
+   "score": 0.39,
    "tier": 3
   },
   {
@@ -650,35 +772,20 @@
    "tldr": "The BBC's Tom Gerken is hands-on with the latest virtual reality headset.",
    "published": "2026-09-14T17:05:31.000Z",
    "dupes": 1,
-   "score": 0.399,
+   "score": 0.381,
    "tier": 3
   },
   {
-   "id": "8dae0ac969358dc04a3568a1b881cb382ffe5c53",
-   "title": "Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots",
-   "url": "https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots",
-   "source": "Ars Technica · Gadgets",
-   "org": [
-    "unitree"
-   ],
-   "topic": "compute",
-   "tldr": "Wang Xingxing micromanaged Unitree to success—will his leadership style scale?",
-   "published": "2026-09-14T19:38:46.000Z",
-   "dupes": 1,
-   "score": 0.391,
-   "tier": 3
-  },
-  {
-   "id": "74b73d1a2e13e17bf6d3901c8e0276c5d10a60c0",
-   "title": "AI leaders want to hit the brakes after years of reckless speed",
-   "url": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed",
-   "source": "Ars Technica · Gadgets",
+   "id": "271ed910c735a4e4372d98793fd0c60da56994da",
+   "title": "Report covers advances in surgical robots, deploying warehouse automation in the real world",
+   "url": "https://www.therobotreport.com/report-covers-surgical-robot-advances-deploying-warehouse-automation-real-world",
+   "source": "The Robot Report",
    "org": [],
-   "topic": "compute",
-   "tldr": "Safety is the watchword, but there could be ulterior benefits for the industry.",
-   "published": "2026-09-14T19:06:13.000Z",
+   "topic": "robotics",
+   "tldr": "Learn from a surgical robotics case study and a discussion of how to best deploy mobile robots in the warehouse in this issue.  The post Report covers advances in surgical robots, deploying warehouse automation in the…",
+   "published": "2026-09-14T21:01:59.000Z",
    "dupes": 1,
-   "score": 0.382,
+   "score": 0.357,
    "tier": 3
   },
   {
@@ -691,20 +798,7 @@
    "tldr": "Join us for conversations about the tech, policies and business models required to build a functioning in-orbit logistics ecosystem The post Sept.  21: What Comes Next for On-Orbit Servicing?",
    "published": "2026-09-14T17:09:21.000Z",
    "dupes": 1,
-   "score": 0.369,
-   "tier": 3
-  },
-  {
-   "id": "d6357ee9c011cea315ad6c8895567a079884e010",
-   "title": "\"Offensively cheap\": Solar power is looking up",
-   "url": "https://arstechnica.com/gadgets/2026/09/offensively-cheap-solar-power-is-looking-up",
-   "source": "Ars Technica · Gadgets",
-   "org": [],
-   "topic": "compute",
-   "tldr": "Chinese-made panels on rooftops across the world are changing the facts of life for big utilities.",
-   "published": "2026-09-14T16:29:18.000Z",
-   "dupes": 1,
-   "score": 0.369,
+   "score": 0.355,
    "tier": 3
   },
   {
@@ -717,35 +811,7 @@
    "tldr": "Download our new mapping of every private space company valued at $1 billion or more.  The post Space’s growing billion-dollar club appeared first on SpaceNews .",
    "published": "2026-09-14T15:35:10.000Z",
    "dupes": 1,
-   "score": 0.362,
-   "tier": 3
-  },
-  {
-   "id": "59b964a51c3880dd047c63e8d5be063bdec43736",
-   "title": "A team of teams like never before: rehearsing a unique launch at ESA mission control",
-   "url": "https://www.esa.int/Enabling_Support/Operations/A_team_of_teams_like_never_before_rehearsing_a_unique_launch_at_ESA_mission_control",
-   "source": "ESA Space News",
-   "org": [
-    "esa"
-   ],
-   "topic": "space",
-   "tldr": "On 15 September, two spacecraft will leave Earth together aboard the same launcher from Europe’s spaceport in Kourou: FLEX, ESA’s photosynthesis mission, and Sentinel-3C, Copernicus’ newest satellite monitoring Earth’s…",
-   "published": "2026-09-11T08:00:00.000Z",
-   "dupes": 1,
-   "score": 0.358,
-   "tier": 3
-  },
-  {
-   "id": "14bf01c4a18a496b5124aa8629215814d930c06c",
-   "title": "Questions? Ask our Hera Space Companion!",
-   "url": "https://www.esa.int/Space_Safety/Hera/Questions_Ask_our_Hera_Space_Companion",
-   "source": "ESA Space News",
-   "org": [],
-   "topic": "space",
-   "tldr": "Meet a key member of our Hera asteroid mission team: the Hera Space Companion , not just an AI chatbot but a dynamic mission-linked communication platform, designed to make the European Space Agency’s first planetary…",
-   "published": "2026-09-14T14:00:00.000Z",
-   "dupes": 1,
-   "score": 0.355,
+   "score": 0.349,
    "tier": 3
   },
   {
@@ -758,7 +824,7 @@
    "tldr": "Universal Robots has released three new robot arms, a rebuilt core controller, a new AI-ready tool flange, and more.  The post Universal Robots launches its seventh generation robot platform at IMTS appeared first on…",
    "published": "2026-09-14T13:25:40.000Z",
    "dupes": 1,
-   "score": 0.338,
+   "score": 0.325,
    "tier": 3
   },
   {
@@ -774,37 +840,20 @@
    "tldr": "PlayStation reportedly discontinued its involvement with Kojima Productions' Physint due to \"concerns over budget, potential profitability, and exclusivity.\" Read more",
    "published": "2026-09-14T13:43:40.000Z",
    "dupes": 1,
-   "score": 0.331,
+   "score": 0.319,
    "tier": 3
   },
   {
-   "id": "c77c037d792fbb13e39778618ceec4844c513127",
-   "title": "Steam achievements for unreleased and unannounced games leak on aggregators such as Exophase and SteamDB",
-   "url": "https://www.gamesindustry.biz/steam-achievements-for-unreleased-and-unannounced-games-leak-on-aggregators-such-as-exophase-and-steamdb",
+   "id": "5a4edb4b86c2aec7077a1a146a295aa0b05a397e",
+   "title": "Level-5 CEO admits using generative AI in recent showcase",
+   "url": "https://www.gamesindustry.biz/level-5-ceo-admits-using-generative-ai-in-recent-showcase",
    "source": "GamesIndustry.biz",
-   "org": [
-    "valve"
-   ],
+   "org": [],
    "topic": "gaming",
-   "tldr": "Achievements for unreleased and unannounced games on Steam have been leaked, including Fable, Persona 6, Kingdom Hearts 4, and Control Resonant.",
-   "published": "2026-09-09T09:15:34.000Z",
+   "tldr": "Level-5 president and CEO Akihiro Hino has apologized after confirming that generative AI was used in the studio's recent digital showcase.",
+   "published": "2026-09-14T20:10:38.000Z",
    "dupes": 1,
-   "score": 0.324,
-   "tier": 3
-  },
-  {
-   "id": "1cb567e40b7eeb546bae70a10e2b2e12732abef2",
-   "title": "Google complies with EU rules for travel searches, says the new results stink",
-   "url": "https://arstechnica.com/gadgets/2026/09/google-says-europe-is-making-it-roll-out-degraded-travel-search-results",
-   "source": "Ars Technica · Gadgets",
-   "org": [
-    "google"
-   ],
-   "topic": "compute",
-   "tldr": "The EU continues to go after Google search practices it sees as anticompetitive.",
-   "published": "2026-09-08T16:49:55.000Z",
-   "dupes": 1,
-   "score": 0.294,
+   "score": 0.318,
    "tier": 3
   },
   {
@@ -816,19 +865,6 @@
    "topic": "robotics",
    "tldr": "Unitree might be the world’s most important robotics company.",
    "published": "2026-09-12T11:00:53.000Z",
-   "dupes": 2,
-   "score": 0.282,
-   "tier": 3
-  },
-  {
-   "id": "bd1e1973469003371657bccfa73f9bce9ccc545b",
-   "title": "Oracle tries to appease Stargate data center opponents with renewables push",
-   "url": "https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions",
-   "source": "Ars Technica",
-   "org": [],
-   "topic": "compute",
-   "tldr": "Renewables pledge won’t change the Oracle and OpenAI data center’s use of gas.",
-   "published": "2026-09-11T18:22:22.000Z",
    "dupes": 2,
    "score": 0.278,
    "tier": 3
@@ -845,7 +881,7 @@
    "tldr": "The market is pulling back on Unitree's $66 billion valuation from its debut on the Shanghai Stock Exchange just last month.  The post Unitree shares down 53% from IPO debut appeared first on The Robot Report .",
    "published": "2026-09-09T19:34:57.000Z",
    "dupes": 1,
-   "score": 0.272,
+   "score": 0.264,
    "tier": 3
   },
   {
@@ -858,7 +894,7 @@
    "tldr": "S.  Sugar and Everglades Equipment.",
    "published": "2026-09-13T12:45:12.000Z",
    "dupes": 1,
-   "score": 0.26,
+   "score": 0.253,
    "tier": 3
   },
   {
@@ -871,7 +907,7 @@
    "tldr": "Ultrasound sensing can provide tactile perception for robotic hands while avoiding wear and tear, says UltraSense.  The post Ultrasound offers a scalable path to tactile intelligence for physical AI appeared first on…",
    "published": "2026-09-12T12:35:38.000Z",
    "dupes": 1,
-   "score": 0.217,
+   "score": 0.213,
    "tier": 3
   },
   {
@@ -884,7 +920,7 @@
    "tldr": "CEO Salar al Khafaji introduces podcast listeners to how Monumental is using robotics to build walls.  The post One brick at a time: How Monumental uses robotics to build walls appeared first on The Robot Report .",
    "published": "2026-09-11T21:09:01.000Z",
    "dupes": 1,
-   "score": 0.199,
+   "score": 0.196,
    "tier": 3
   },
   {
@@ -897,7 +933,7 @@
    "tldr": "ASI CEO Mel Torrie will explore why the intersection of autonomous vehicles and robotics will further revolutionize field deployments.  The post Learn how AVs and robotics are laying the groundwork for field deployments…",
    "published": "2026-09-11T19:49:40.000Z",
    "dupes": 1,
-   "score": 0.198,
+   "score": 0.195,
    "tier": 3
   },
   {
@@ -910,7 +946,7 @@
    "tldr": "Before the FCC put restrictions on foreign-made robots, it had already set similar restrictions on drones last year, noted Hylio.  The post How drone developers are navigating changing regulatory landscapes to help…",
    "published": "2026-09-11T12:21:16.000Z",
    "dupes": 1,
-   "score": 0.192,
+   "score": 0.189,
    "tier": 3
   },
   {
@@ -923,7 +959,7 @@
    "tldr": "New details reveal the lawsuit involves three Universal Robots patents about robot interfaces, safety brakes, and joints.  The post Teradyne Robotics sues JAKA over 3 Universal Robots patents appeared first on The Robot…",
    "published": "2026-09-10T22:14:26.000Z",
    "dupes": 1,
-   "score": 0.183,
+   "score": 0.181,
    "tier": 3
   },
   {
@@ -936,33 +972,7 @@
    "tldr": "Swarmer, which has developed swarm software, plans to work with Ratel Robotics' unmanned ground vehicles in Ukraine.  The post Swarmer to acquire Ukrainian UGV maker Ratel Robotics for up to $224M appeared first on The…",
    "published": "2026-09-10T20:10:22.000Z",
    "dupes": 1,
-   "score": 0.181,
-   "tier": 3
-  },
-  {
-   "id": "ef5155a4b661ca4c30cbc33b7bdcda0a157fa0bb",
-   "title": "Comau automates picking, handling, and palletizing for Decathlon",
-   "url": "https://www.therobotreport.com/comau-automates-picking-handling-and-palletizing-for-decathlon",
-   "source": "The Robot Report",
-   "org": [],
-   "topic": "robotics",
-   "tldr": "Comau's system incorporates its MyCo cobot, ROS2 software architecture, AI-powered vision systems, and a modular gripper.  The post Comau automates picking, handling, and palletizing for Decathlon appeared first on The…",
-   "published": "2026-09-10T18:49:08.000Z",
-   "dupes": 1,
-   "score": 0.181,
-   "tier": 3
-  },
-  {
-   "id": "0867ead48f5dab32356454994a3b0d45b84d76de",
-   "title": "Vention opens Physical AI Lab for manufacturing in Montreal",
-   "url": "https://www.therobotreport.com/vention-opens-physical-ai-lab-manufacturing-montreal",
-   "source": "The Robot Report",
-   "org": [],
-   "topic": "robotics",
-   "tldr": "Vention's new Physical AI Lab will focus on advancing robotic manipulation from research to scalable production-line deployment.  The post Vention opens Physical AI Lab for manufacturing in Montreal appeared first on…",
-   "published": "2026-09-09T15:41:50.000Z",
-   "dupes": 1,
-   "score": 0.17,
+   "score": 0.18,
    "tier": 3
   }
  ]
