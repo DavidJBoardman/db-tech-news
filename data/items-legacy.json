@@ -1,21 +1,6 @@
 {
- "generated": "2026-09-17T05:38:33.592Z",
+ "generated": "2026-09-17T10:46:05.736Z",
  "items": [
-  {
-   "id": "57dd0cc73353ce5b30993b0d644093fdcd5af415",
-   "title": "DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression",
-   "url": "https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html",
-   "source": "Hacker News",
-   "org": [
-    "deepseek"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-17T01:39:47.000Z",
-   "dupes": 2,
-   "score": 0.576,
-   "tier": 1
-  },
   {
    "id": "bbe6c30a33c9c72e5780274d2c816d8c53a3bebe",
    "title": "Our framework for reporting model misalignment",
@@ -27,8 +12,23 @@
    "topic": "ai",
    "tldr": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
    "published": "2026-09-16T17:00:00.000Z",
+   "dupes": 2,
+   "score": 0.546,
+   "tier": 1
+  },
+  {
+   "id": "89bbdfee897665a8d3219237194e77f80fa5e342",
+   "title": "Nvidia announces native GPU programming in Rust",
+   "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels",
+   "source": "Hacker News",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "",
+   "published": "2026-09-16T11:15:53.000Z",
    "dupes": 1,
-   "score": 0.515,
+   "score": 0.492,
    "tier": 2
   },
   {
@@ -43,7 +43,22 @@
    "tldr": "S.  cities to build practical AI skills safely.",
    "published": "2026-09-16T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.507,
+   "score": 0.47,
+   "tier": 2
+  },
+  {
+   "id": "57dd0cc73353ce5b30993b0d644093fdcd5af415",
+   "title": "DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression",
+   "url": "https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html",
+   "source": "HN · DeepSeek",
+   "org": [
+    "deepseek"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-17T01:39:47.000Z",
+   "dupes": 1,
+   "score": 0.458,
    "tier": 2
   },
   {
@@ -58,22 +73,7 @@
    "tldr": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
    "published": "2026-09-16T13:00:00.000Z",
    "dupes": 1,
-   "score": 0.484,
-   "tier": 2
-  },
-  {
-   "id": "5c61363562f7eab427d1f2528cb08a4333f12cb9",
-   "title": "Microsoft’s commitment for AI in education; protecting students, strengthening learning",
-   "url": "https://blogs.microsoft.com/blog/2026/09/16/microsofts-commitment-for-ai-in-education",
-   "source": "Microsoft Blog",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "Microsoft has been in the business of education for five decades.  Since the earliest days of this company, we have worked alongside educators, students, families and educational leaders through each new wave of…",
-   "published": "2026-09-16T18:59:58.000Z",
-   "dupes": 1,
-   "score": 0.482,
+   "score": 0.451,
    "tier": 2
   },
   {
@@ -88,7 +88,22 @@
    "tldr": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
    "published": "2026-09-16T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.477,
+   "score": 0.446,
+   "tier": 2
+  },
+  {
+   "id": "5c61363562f7eab427d1f2528cb08a4333f12cb9",
+   "title": "Microsoft’s commitment for AI in education; protecting students, strengthening learning",
+   "url": "https://blogs.microsoft.com/blog/2026/09/16/microsofts-commitment-for-ai-in-education",
+   "source": "Microsoft Blog",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "Microsoft has been in the business of education for five decades.  Since the earliest days of this company, we have worked alongside educators, students, families and educational leaders through each new wave of…",
+   "published": "2026-09-16T18:59:58.000Z",
+   "dupes": 1,
+   "score": 0.441,
    "tier": 2
   },
   {
@@ -103,7 +118,22 @@
    "tldr": "System performance, efficient infrastructure scaling and continuous software optimization are key levers that determine AI inference economics.  Higher system performance means more tokens generated, resulting in higher…",
    "published": "2026-09-16T15:00:48.000Z",
    "dupes": 1,
-   "score": 0.474,
+   "score": 0.439,
+   "tier": 2
+  },
+  {
+   "id": "71646fffd914b4964a5115ce29a926b304e95bf4",
+   "title": "How workers are unlocking new ways of working",
+   "url": "https://openai.com/index/unlocking-new-ways-of-working",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+   "published": "2026-09-16T09:00:00.000Z",
+   "dupes": 1,
+   "score": 0.43,
    "tier": 2
   },
   {
@@ -119,22 +149,7 @@
    "tldr": "AI factories are the infrastructure of the intelligence era.  Scaling them responsibly will depend as much on innovation across the grid as inside the data center.",
    "published": "2026-09-16T13:00:33.000Z",
    "dupes": 1,
-   "score": 0.459,
-   "tier": 2
-  },
-  {
-   "id": "71646fffd914b4964a5115ce29a926b304e95bf4",
-   "title": "How workers are unlocking new ways of working",
-   "url": "https://openai.com/index/unlocking-new-ways-of-working",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
-   "published": "2026-09-16T09:00:00.000Z",
-   "dupes": 1,
-   "score": 0.458,
+   "score": 0.426,
    "tier": 2
   },
   {
@@ -149,7 +164,7 @@
    "tldr": "People and companies are using AI hardware and software to make life easier and more accessible for everyone.  That’s the case with smartARM, a Toronto-based startup developing a vision-first bionic arm prototype that…",
    "published": "2026-09-16T16:00:19.000Z",
    "dupes": 1,
-   "score": 0.457,
+   "score": 0.42,
    "tier": 2
   },
   {
@@ -162,37 +177,22 @@
    "tldr": "E-waste from the AI boom has been vastly underestimated, a new report warns.  By 2050, it could become enough trash to fill 23 million shipping containers - roughly enough 40-foot containers to circle the world six…",
    "published": "2026-09-16T20:40:46.000Z",
    "dupes": 1,
-   "score": 0.448,
+   "score": 0.403,
    "tier": 2
   },
   {
-   "id": "89bbdfee897665a8d3219237194e77f80fa5e342",
-   "title": "Nvidia announces native GPU programming in Rust",
-   "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels",
-   "source": "Hacker News",
+   "id": "fa1c7be3a7a05b8e4bc22be10d7d96496979d63e",
+   "title": "University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK",
+   "url": "https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2",
+   "source": "NVIDIA Blog",
    "org": [
     "nvidia"
    ],
    "topic": "compute",
-   "tldr": "",
-   "published": "2026-09-16T11:15:53.000Z",
+   "tldr": "K.  alone last year.",
+   "published": "2026-09-16T05:00:42.000Z",
    "dupes": 1,
-   "score": 0.446,
-   "tier": 2
-  },
-  {
-   "id": "7b209e90369c95fe8fe4d03e9bd38a033a700044",
-   "title": "The DeepMind Institute",
-   "url": "https://institute.deepmind.com/",
-   "source": "Hacker News",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-16T14:32:11.000Z",
-   "dupes": 1,
-   "score": 0.42,
+   "score": 0.386,
    "tier": 2
   },
   {
@@ -207,22 +207,7 @@
    "tldr": "Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data using the standardized Model Context Protocol.",
    "published": "2026-09-16T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.415,
-   "tier": 3
-  },
-  {
-   "id": "fa1c7be3a7a05b8e4bc22be10d7d96496979d63e",
-   "title": "University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK",
-   "url": "https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "K.  alone last year.",
-   "published": "2026-09-16T05:00:42.000Z",
-   "dupes": 1,
-   "score": 0.411,
+   "score": 0.377,
    "tier": 3
   },
   {
@@ -238,37 +223,7 @@
    "tldr": "Claude is getting a pair of new tools today: Docs and Slides.  They'll let you create documents and presentations through Claude chats, which you can export, edit, and share with other users.",
    "published": "2026-09-16T16:30:00.000Z",
    "dupes": 1,
-   "score": 0.411,
-   "tier": 3
-  },
-  {
-   "id": "5cae1aaa69b9ba5c4bbd58036d690c438dfb460d",
-   "title": "DeepSeek v4.1 Flash Uncensored",
-   "url": "https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8",
-   "source": "HN · DeepSeek",
-   "org": [
-    "deepseek"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-11T06:46:19.000Z",
-   "dupes": 2,
-   "score": 0.401,
-   "tier": 3
-  },
-  {
-   "id": "9217d7a4e10ec1f9cc28ecb17d912f89a9335549",
-   "title": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
-   "url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
-   "source": "HN · DeepSeek",
-   "org": [
-    "deepseek"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-16T12:19:55.000Z",
-   "dupes": 1,
-   "score": 0.391,
+   "score": 0.373,
    "tier": 3
   },
   {
@@ -283,7 +238,22 @@
    "tldr": "",
    "published": "2026-09-15T17:05:57.000Z",
    "dupes": 1,
-   "score": 0.386,
+   "score": 0.37,
+   "tier": 3
+  },
+  {
+   "id": "9217d7a4e10ec1f9cc28ecb17d912f89a9335549",
+   "title": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
+   "url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
+   "source": "HN · DeepSeek",
+   "org": [
+    "deepseek"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-16T12:19:55.000Z",
+   "dupes": 1,
+   "score": 0.37,
    "tier": 3
   },
   {
@@ -298,7 +268,7 @@
    "tldr": "Know everything.  Do anything.",
    "published": "2026-09-15T22:24:34.000Z",
    "dupes": 1,
-   "score": 0.38,
+   "score": 0.361,
    "tier": 3
   },
   {
@@ -313,7 +283,7 @@
    "tldr": "Algorithms & Theory",
    "published": "2026-09-15T20:00:35.000Z",
    "dupes": 1,
-   "score": 0.371,
+   "score": 0.354,
    "tier": 3
   },
   {
@@ -328,7 +298,7 @@
    "tldr": "On a sweltering August evening in Silicon Valley, as the sun dropped and air conditioning loads spiked, Silicon Valley Power sent a signal to an AI factory to adjust its power consumption.",
    "published": "2026-09-15T16:55:59.000Z",
    "dupes": 1,
-   "score": 0.36,
+   "score": 0.345,
    "tier": 3
   },
   {
@@ -343,7 +313,7 @@
    "tldr": "Ian Buck, vice president of hyperscale and high-performance computing at NVIDIA, Tuesday spoke on AI factory efficiency at the AI Infra Summit, the Santa Clara Convention Center event that has morphed into a Coachella…",
    "published": "2026-09-15T16:55:40.000Z",
    "dupes": 1,
-   "score": 0.36,
+   "score": 0.345,
    "tier": 3
   },
   {
@@ -356,7 +326,7 @@
    "tldr": "",
    "published": "2026-09-15T16:00:44.000Z",
    "dupes": 1,
-   "score": 0.345,
+   "score": 0.33,
    "tier": 3
   },
   {
@@ -374,22 +344,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.338,
-   "tier": 3
-  },
-  {
-   "id": "d69ce8689fec53b094c78b69553446ae59b42cfb",
-   "title": "Introducing Meta One: A Subscription Service With More Features and AI to Create, Connect, and Stand Out",
-   "url": "https://about.fb.com/news/2026/09/introducing-meta-one-subscription-service-more-features-ai",
-   "source": "Meta Newsroom",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "We're introducing Meta One, a new subscription service on Facebook, Instagram, WhatsApp, and Meta AI that offers more AI usage, enhanced expression features, and tools for creators and businesses.  The post Introducing…",
-   "published": "2026-09-15T15:00:59.000Z",
-   "dupes": 1,
-   "score": 0.329,
+   "score": 0.327,
    "tier": 3
   },
   {
@@ -404,7 +359,22 @@
    "tldr": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
    "published": "2026-09-14T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.328,
+   "score": 0.323,
+   "tier": 3
+  },
+  {
+   "id": "d69ce8689fec53b094c78b69553446ae59b42cfb",
+   "title": "Introducing Meta One: A Subscription Service With More Features and AI to Create, Connect, and Stand Out",
+   "url": "https://about.fb.com/news/2026/09/introducing-meta-one-subscription-service-more-features-ai",
+   "source": "Meta Newsroom",
+   "org": [
+    "meta"
+   ],
+   "topic": "ai",
+   "tldr": "We're introducing Meta One, a new subscription service on Facebook, Instagram, WhatsApp, and Meta AI that offers more AI usage, enhanced expression features, and tools for creators and businesses.  The post Introducing…",
+   "published": "2026-09-15T15:00:59.000Z",
+   "dupes": 1,
+   "score": 0.315,
    "tier": 3
   },
   {
@@ -419,37 +389,7 @@
    "tldr": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
    "published": "2026-09-14T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.318,
-   "tier": 3
-  },
-  {
-   "id": "f447d8cbcd59133f6f582f35f8f1a71e55832092",
-   "title": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
-   "url": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "As local models become more capable, AI agents can handle more work directly on a PC while keeping sensitive information on the device.  Portable Computer is a local version of the agent Perplexity Computer that plans…",
-   "published": "2026-09-14T15:00:52.000Z",
-   "dupes": 1,
-   "score": 0.306,
-   "tier": 3
-  },
-  {
-   "id": "c7d3c8aeae425678bc7fb8faf4c052a8482d89f7",
-   "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-   "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
-   "published": "2026-09-11T10:00:00.000Z",
-   "dupes": 1,
-   "score": 0.302,
+   "score": 0.314,
    "tier": 3
   },
   {
@@ -465,6 +405,21 @@
    "published": "2026-09-11T16:00:00.000Z",
    "dupes": 1,
    "score": 0.302,
+   "tier": 3
+  },
+  {
+   "id": "c7d3c8aeae425678bc7fb8faf4c052a8482d89f7",
+   "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+   "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+   "published": "2026-09-11T10:00:00.000Z",
+   "dupes": 1,
+   "score": 0.301,
    "tier": 3
   },
   {
@@ -498,48 +453,18 @@
    "tier": 3
   },
   {
-   "id": "016c3ec9b775a98e5ec43d6010b5a5132a940638",
-   "title": "Introducing ChatGPT for Financial Services",
-   "url": "https://openai.com/index/introducing-chatgpt-financial-services",
-   "source": "OpenAI Blog",
+   "id": "f447d8cbcd59133f6f582f35f8f1a71e55832092",
+   "title": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
+   "url": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs",
+   "source": "NVIDIA Blog",
    "org": [
-    "openai"
+    "nvidia"
    ],
-   "topic": "ai",
-   "tldr": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
-   "published": "2026-09-10T07:00:00.000Z",
+   "topic": "compute",
+   "tldr": "As local models become more capable, AI agents can handle more work directly on a PC while keeping sensitive information on the device.  Portable Computer is a local version of the agent Perplexity Computer that plans…",
+   "published": "2026-09-14T15:00:52.000Z",
    "dupes": 1,
    "score": 0.301,
-   "tier": 3
-  },
-  {
-   "id": "1ef5285e671d0ace6126abde2e7dec0b8255af8f",
-   "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-   "url": "https://openai.com/index/expanding-ai-access-us-government",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
-   "published": "2026-09-10T07:00:00.000Z",
-   "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
-   "id": "60e3714cb4a4ab5eb0a09123cdd0ff8355ce513c",
-   "title": "Meta’s new One subscriptions put a price on social media and AI",
-   "url": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
-   "source": "The Verge AI",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscriptions with extra AI usage.  Some of the new Meta One bundles were in testing…",
-   "published": "2026-09-15T15:00:00.000Z",
-   "dupes": 1,
-   "score": 0.279,
    "tier": 3
   },
   {
@@ -618,6 +543,21 @@
    "tier": 3
   },
   {
+   "id": "60e3714cb4a4ab5eb0a09123cdd0ff8355ce513c",
+   "title": "Meta’s new One subscriptions put a price on social media and AI",
+   "url": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
+   "source": "The Verge AI",
+   "org": [
+    "meta"
+   ],
+   "topic": "ai",
+   "tldr": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscriptions with extra AI usage.  Some of the new Meta One bundles were in testing…",
+   "published": "2026-09-15T15:00:00.000Z",
+   "dupes": 1,
+   "score": 0.265,
+   "tier": 3
+  },
+  {
    "id": "8d14c16069ee17f6e3c5572b0503a271b66a31be",
    "title": "Show HN: Warp – Run DeepSeek v4.1 Flash with 5 GB of RAM at 3.77 tok/s",
    "url": "https://github.com/sqliteai/warp",
@@ -629,7 +569,22 @@
    "tldr": "",
    "published": "2026-09-15T15:28:23.000Z",
    "dupes": 1,
-   "score": 0.27,
+   "score": 0.256,
+   "tier": 3
+  },
+  {
+   "id": "5cae1aaa69b9ba5c4bbd58036d690c438dfb460d",
+   "title": "DeepSeek v4.1 Flash Uncensored",
+   "url": "https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8",
+   "source": "HN · DeepSeek",
+   "org": [
+    "deepseek"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-11T06:46:19.000Z",
+   "dupes": 1,
+   "score": 0.201,
    "tier": 3
   },
   {
@@ -644,7 +599,7 @@
    "tldr": "",
    "published": "2026-09-11T00:34:20.000Z",
    "dupes": 1,
-   "score": 0.195,
+   "score": 0.198,
    "tier": 3
   },
   {
@@ -659,22 +614,7 @@
    "tldr": "",
    "published": "2026-09-12T02:46:31.000Z",
    "dupes": 1,
-   "score": 0.194,
-   "tier": 3
-  },
-  {
-   "id": "19819179eb22f00dc2b7affc1329e2d20b222b7f",
-   "title": "DeepSeek-v4.1-Exp",
-   "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
-   "source": "HN · DeepSeek",
-   "org": [
-    "deepseek"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-10T05:57:51.000Z",
-   "dupes": 1,
-   "score": 0.191,
+   "score": 0.195,
    "tier": 3
   }
  ]
