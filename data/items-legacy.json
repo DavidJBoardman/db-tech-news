@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-17T15:23:42.218Z",
+ "generated": "2026-09-17T19:08:38.086Z",
  "items": [
   {
    "id": "860d6759b6e0f3ecb84c6b7f3d191a6300db20da",
@@ -13,7 +13,7 @@
    "tldr": "A new creature-catching adventure is ready to stream from the cloud this week.  Pawprint Studio’s Aniimo arrives on GeForce NOW at launch, inviting gamers to explore the vibrant continent of Idyll across supported…",
    "published": "2026-09-17T13:00:55.000Z",
    "dupes": 1,
-   "score": 0.594,
+   "score": 0.551,
    "tier": 1
   },
   {
@@ -28,22 +28,20 @@
    "tldr": "AI is reshaping work faster than any organization has fully mastered.  Across industries, the conversation has shifted from what AI can do to how companies can use AI to create business value and expand what people are…",
    "published": "2026-09-17T14:00:05.000Z",
    "dupes": 1,
-   "score": 0.582,
+   "score": 0.537,
    "tier": 2
   },
   {
-   "id": "9e18d0564f59d834cc26f8d3aab246d132288cd0",
-   "title": "I had Gemini train its own replacement for $9",
-   "url": "https://www.petervijeh.com/projects/reddit-ner",
+   "id": "c5b599293df88b053e927c4062a9838423006bae",
+   "title": "Zettascale (YC S24) Is Hiring ASIC/FPGA Engineers to Build Chips for ASI",
+   "url": "https://zscc.ai/careers?job_id=109821",
    "source": "Hacker News",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
+   "org": [],
+   "topic": "compute",
    "tldr": "",
-   "published": "2026-09-17T13:17:16.000Z",
+   "published": "2026-09-17T17:00:59.000Z",
    "dupes": 1,
-   "score": 0.535,
+   "score": 0.522,
    "tier": 2
   },
   {
@@ -59,82 +57,7 @@
    "tldr": "Today, I’m talking with Mustafa Suleyman, the CEO of Microsoft AI.  As you’re no doubt aware, the biggest story in tech right now is the spiraling debate about AI safety and regulation.",
    "published": "2026-09-17T14:00:00.000Z",
    "dupes": 1,
-   "score": 0.532,
-   "tier": 2
-  },
-  {
-   "id": "89bbdfee897665a8d3219237194e77f80fa5e342",
-   "title": "Nvidia announces native GPU programming in Rust",
-   "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels",
-   "source": "Hacker News",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "",
-   "published": "2026-09-16T11:15:53.000Z",
-   "dupes": 1,
-   "score": 0.468,
-   "tier": 2
-  },
-  {
-   "id": "bbe6c30a33c9c72e5780274d2c816d8c53a3bebe",
-   "title": "Our framework for reporting model misalignment",
-   "url": "https://openai.com/index/model-misalignment-reporting-framework",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
-   "published": "2026-09-16T17:00:00.000Z",
-   "dupes": 1,
-   "score": 0.448,
-   "tier": 2
-  },
-  {
-   "id": "027811ca1632d0f58ec6aef4b1b0aab0357f132b",
-   "title": "Helping older adults use AI in everyday life",
-   "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "S.  cities to build practical AI skills safely.",
-   "published": "2026-09-16T16:00:00.000Z",
-   "dupes": 1,
-   "score": 0.442,
-   "tier": 2
-  },
-  {
-   "id": "52752974efc060afa422288cf05c3cab7e220271",
-   "title": "Reimagining advertising with AI",
-   "url": "https://openai.com/index/reimagining-advertising-with-ai",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
-   "published": "2026-09-16T13:00:00.000Z",
-   "dupes": 1,
-   "score": 0.427,
-   "tier": 2
-  },
-  {
-   "id": "5f7e182a53f2403bd5ecbae87163339c9ae49c2a",
-   "title": "How to connect AI usage to business value",
-   "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
-   "published": "2026-09-16T12:00:00.000Z",
-   "dupes": 1,
-   "score": 0.422,
+   "score": 0.487,
    "tier": 2
   },
   {
@@ -149,37 +72,97 @@
    "tldr": "",
    "published": "2026-09-17T01:39:47.000Z",
    "dupes": 1,
-   "score": 0.416,
+   "score": 0.476,
    "tier": 2
   },
   {
-   "id": "2539d6b605d7a972a89d55e74f283ecab815a265",
-   "title": "NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut",
-   "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference",
-   "source": "NVIDIA Blog",
+   "id": "a29db0108686e158aad8b60d4957838bd4c846e1",
+   "title": "Introducing the Life Sciences Verification Program",
+   "url": "https://www.anthropic.com/news/life-sciences-verification-program",
+   "source": "Anthropic News",
    "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "System performance, efficient infrastructure scaling and continuous software optimization are key levers that determine AI inference economics.  Higher system performance means more tokens generated, resulting in higher…",
-   "published": "2026-09-16T15:00:48.000Z",
-   "dupes": 1,
-   "score": 0.412,
-   "tier": 2
-  },
-  {
-   "id": "5c61363562f7eab427d1f2528cb08a4333f12cb9",
-   "title": "Microsoft’s commitment for AI in education; protecting students, strengthening learning",
-   "url": "https://blogs.microsoft.com/blog/2026/09/16/microsofts-commitment-for-ai-in-education",
-   "source": "Microsoft Blog",
-   "org": [
-    "microsoft"
+    "anthropic"
    ],
    "topic": "ai",
-   "tldr": "Microsoft has been in the business of education for five decades.  Since the earliest days of this company, we have worked alongside educators, students, families and educational leaders through each new wave of…",
-   "published": "2026-09-16T18:59:58.000Z",
+   "tldr": "",
+   "published": "2026-09-17T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.467,
+   "tier": 2
+  },
+  {
+   "id": "9217d7a4e10ec1f9cc28ecb17d912f89a9335549",
+   "title": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
+   "url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
+   "source": "HN · DeepSeek",
+   "org": [
+    "deepseek"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-16T12:19:55.000Z",
+   "dupes": 1,
+   "score": 0.444,
+   "tier": 2
+  },
+  {
+   "id": "bbe6c30a33c9c72e5780274d2c816d8c53a3bebe",
+   "title": "Our framework for reporting model misalignment",
+   "url": "https://openai.com/index/model-misalignment-reporting-framework",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+   "published": "2026-09-16T17:00:00.000Z",
+   "dupes": 1,
+   "score": 0.428,
+   "tier": 2
+  },
+  {
+   "id": "027811ca1632d0f58ec6aef4b1b0aab0357f132b",
+   "title": "Helping older adults use AI in everyday life",
+   "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "S.  cities to build practical AI skills safely.",
+   "published": "2026-09-16T16:00:00.000Z",
+   "dupes": 1,
+   "score": 0.423,
+   "tier": 2
+  },
+  {
+   "id": "52752974efc060afa422288cf05c3cab7e220271",
+   "title": "Reimagining advertising with AI",
+   "url": "https://openai.com/index/reimagining-advertising-with-ai",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+   "published": "2026-09-16T13:00:00.000Z",
    "dupes": 1,
    "score": 0.41,
+   "tier": 2
+  },
+  {
+   "id": "5f7e182a53f2403bd5ecbae87163339c9ae49c2a",
+   "title": "How to connect AI usage to business value",
+   "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+   "published": "2026-09-16T12:00:00.000Z",
+   "dupes": 1,
+   "score": 0.405,
    "tier": 2
   },
   {
@@ -194,8 +177,38 @@
    "tldr": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
    "published": "2026-09-16T09:00:00.000Z",
    "dupes": 1,
-   "score": 0.409,
+   "score": 0.394,
    "tier": 2
+  },
+  {
+   "id": "2539d6b605d7a972a89d55e74f283ecab815a265",
+   "title": "NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut",
+   "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "System performance, efficient infrastructure scaling and continuous software optimization are key levers that determine AI inference economics.  Higher system performance means more tokens generated, resulting in higher…",
+   "published": "2026-09-16T15:00:48.000Z",
+   "dupes": 1,
+   "score": 0.393,
+   "tier": 2
+  },
+  {
+   "id": "5c61363562f7eab427d1f2528cb08a4333f12cb9",
+   "title": "Microsoft’s commitment for AI in education; protecting students, strengthening learning",
+   "url": "https://blogs.microsoft.com/blog/2026/09/16/microsofts-commitment-for-ai-in-education",
+   "source": "Microsoft Blog",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "Microsoft has been in the business of education for five decades.  Since the earliest days of this company, we have worked alongside educators, students, families and educational leaders through each new wave of…",
+   "published": "2026-09-16T18:59:58.000Z",
+   "dupes": 1,
+   "score": 0.388,
+   "tier": 3
   },
   {
    "id": "29e73087bb68527ee99d8cc3c3deb1c8e793f123",
@@ -210,7 +223,7 @@
    "tldr": "AI factories are the infrastructure of the intelligence era.  Scaling them responsibly will depend as much on innovation across the grid as inside the data center.",
    "published": "2026-09-16T13:00:33.000Z",
    "dupes": 1,
-   "score": 0.402,
+   "score": 0.385,
    "tier": 3
   },
   {
@@ -225,20 +238,7 @@
    "tldr": "People and companies are using AI hardware and software to make life easier and more accessible for everyone.  That’s the case with smartARM, a Toronto-based startup developing a vision-first bionic arm prototype that…",
    "published": "2026-09-16T16:00:19.000Z",
    "dupes": 1,
-   "score": 0.392,
-   "tier": 3
-  },
-  {
-   "id": "be79f3048c92aa4e08ea760d6928aa333082084d",
-   "title": "The AI data center e-waste problem is huge — and getting bigger",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
-   "source": "The Verge AI",
-   "org": [],
-   "topic": "compute",
-   "tldr": "E-waste from the AI boom has been vastly underestimated, a new report warns.  By 2050, it could become enough trash to fill 23 million shipping containers - roughly enough 40-foot containers to circle the world six…",
-   "published": "2026-09-16T20:40:46.000Z",
-   "dupes": 1,
-   "score": 0.37,
+   "score": 0.373,
    "tier": 3
   },
   {
@@ -253,7 +253,7 @@
    "tldr": "K.  alone last year.",
    "published": "2026-09-16T05:00:42.000Z",
    "dupes": 1,
-   "score": 0.368,
+   "score": 0.356,
    "tier": 3
   },
   {
@@ -268,22 +268,20 @@
    "tldr": "",
    "published": "2026-09-15T17:05:57.000Z",
    "dupes": 1,
-   "score": 0.359,
+   "score": 0.351,
    "tier": 3
   },
   {
-   "id": "2306ad1a8f49503f0e07656e48d3e07b3ba86cba",
-   "title": "Google will now let any AI agent run your smart home",
-   "url": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+   "id": "be79f3048c92aa4e08ea760d6928aa333082084d",
+   "title": "The AI data center e-waste problem is huge — and getting bigger",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
    "source": "The Verge AI",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data using the standardized Model Context Protocol.",
-   "published": "2026-09-16T17:00:00.000Z",
+   "org": [],
+   "topic": "compute",
+   "tldr": "E-waste from the AI boom has been vastly underestimated, a new report warns.  By 2050, it could become enough trash to fill 23 million shipping containers - roughly enough 40-foot containers to circle the world six…",
+   "published": "2026-09-16T20:40:46.000Z",
    "dupes": 1,
-   "score": 0.348,
+   "score": 0.347,
    "tier": 3
   },
   {
@@ -298,7 +296,67 @@
    "tldr": "Know everything.  Do anything.",
    "published": "2026-09-15T22:24:34.000Z",
    "dupes": 1,
-   "score": 0.347,
+   "score": 0.338,
+   "tier": 3
+  },
+  {
+   "id": "883ac55269fa2125e25679530fc99ab5b677b741",
+   "title": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train",
+   "url": "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train",
+   "source": "Google Research",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Algorithms & Theory",
+   "published": "2026-09-15T20:00:35.000Z",
+   "dupes": 1,
+   "score": 0.332,
+   "tier": 3
+  },
+  {
+   "id": "2306ad1a8f49503f0e07656e48d3e07b3ba86cba",
+   "title": "Google will now let any AI agent run your smart home",
+   "url": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+   "source": "The Verge AI",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data using the standardized Model Context Protocol.",
+   "published": "2026-09-16T17:00:00.000Z",
+   "dupes": 1,
+   "score": 0.328,
+   "tier": 3
+  },
+  {
+   "id": "997c7e122b99b605a0ac0530a38eecc9cb28b79d",
+   "title": "From Megawatts to Tokens: How NVIDIA Maximizes AI Factory Production",
+   "url": "https://blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "On a sweltering August evening in Silicon Valley, as the sun dropped and air conditioning loads spiked, Silicon Valley Power sent a signal to an AI factory to adjust its power consumption.",
+   "published": "2026-09-15T16:55:59.000Z",
+   "dupes": 1,
+   "score": 0.326,
+   "tier": 3
+  },
+  {
+   "id": "5f6e3cec4e1997ba055b02c801471e8827da42ff",
+   "title": "AI Infra Summit: NVIDIA Vera Rubin and DSX Platform Advancements Showcase Energy Efficiencies of Optimizing Tokens Per Watt for AI Factories",
+   "url": "https://blogs.nvidia.com/blog/ai-infra-summit-vera-rubin-dsx-energy-efficiencies-tokens-per-watt-ai-factories",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Ian Buck, vice president of hyperscale and high-performance computing at NVIDIA, Tuesday spoke on AI factory efficiency at the AI Infra Summit, the Santa Clara Convention Center event that has morphed into a Coachella…",
+   "published": "2026-09-15T16:55:40.000Z",
+   "dupes": 1,
+   "score": 0.326,
    "tier": 3
   },
   {
@@ -314,67 +372,7 @@
    "tldr": "Claude is getting a pair of new tools today: Docs and Slides.  They'll let you create documents and presentations through Claude chats, which you can export, edit, and share with other users.",
    "published": "2026-09-16T16:30:00.000Z",
    "dupes": 1,
-   "score": 0.345,
-   "tier": 3
-  },
-  {
-   "id": "883ac55269fa2125e25679530fc99ab5b677b741",
-   "title": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train",
-   "url": "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train",
-   "source": "Google Research",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Algorithms & Theory",
-   "published": "2026-09-15T20:00:35.000Z",
-   "dupes": 1,
-   "score": 0.341,
-   "tier": 3
-  },
-  {
-   "id": "9217d7a4e10ec1f9cc28ecb17d912f89a9335549",
-   "title": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
-   "url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
-   "source": "HN · DeepSeek",
-   "org": [
-    "deepseek"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-16T12:19:55.000Z",
-   "dupes": 1,
-   "score": 0.341,
-   "tier": 3
-  },
-  {
-   "id": "997c7e122b99b605a0ac0530a38eecc9cb28b79d",
-   "title": "From Megawatts to Tokens: How NVIDIA Maximizes AI Factory Production",
-   "url": "https://blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "On a sweltering August evening in Silicon Valley, as the sun dropped and air conditioning loads spiked, Silicon Valley Power sent a signal to an AI factory to adjust its power consumption.",
-   "published": "2026-09-15T16:55:59.000Z",
-   "dupes": 1,
-   "score": 0.333,
-   "tier": 3
-  },
-  {
-   "id": "5f6e3cec4e1997ba055b02c801471e8827da42ff",
-   "title": "AI Infra Summit: NVIDIA Vera Rubin and DSX Platform Advancements Showcase Energy Efficiencies of Optimizing Tokens Per Watt for AI Factories",
-   "url": "https://blogs.nvidia.com/blog/ai-infra-summit-vera-rubin-dsx-energy-efficiencies-tokens-per-watt-ai-factories",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Ian Buck, vice president of hyperscale and high-performance computing at NVIDIA, Tuesday spoke on AI factory efficiency at the AI Infra Summit, the Santa Clara Convention Center event that has morphed into a Coachella…",
-   "published": "2026-09-15T16:55:40.000Z",
-   "dupes": 1,
-   "score": 0.333,
+   "score": 0.325,
    "tier": 3
   },
   {
@@ -389,20 +387,7 @@
    "tldr": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
    "published": "2026-09-14T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.319,
-   "tier": 3
-  },
-  {
-   "id": "16a7b27ed0ae9a7589c93514face6cdccc810d1c",
-   "title": "Your Agent Aced the Task. Will It Do It Again?",
-   "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-15T16:00:44.000Z",
-   "dupes": 1,
-   "score": 0.319,
+   "score": 0.317,
    "tier": 3
   },
   {
@@ -420,7 +405,20 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.318,
+   "score": 0.312,
+   "tier": 3
+  },
+  {
+   "id": "16a7b27ed0ae9a7589c93514face6cdccc810d1c",
+   "title": "Your Agent Aced the Task. Will It Do It Again?",
+   "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-15T16:00:44.000Z",
+   "dupes": 1,
+   "score": 0.311,
    "tier": 3
   },
   {
@@ -435,22 +433,7 @@
    "tldr": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
    "published": "2026-09-14T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.312,
-   "tier": 3
-  },
-  {
-   "id": "d69ce8689fec53b094c78b69553446ae59b42cfb",
-   "title": "Introducing Meta One: A Subscription Service With More Features and AI to Create, Connect, and Stand Out",
-   "url": "https://about.fb.com/news/2026/09/introducing-meta-one-subscription-service-more-features-ai",
-   "source": "Meta Newsroom",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "We're introducing Meta One, a new subscription service on Facebook, Instagram, WhatsApp, and Meta AI that offers more AI usage, enhanced expression features, and tools for creators and businesses.  The post Introducing…",
-   "published": "2026-09-15T15:00:59.000Z",
-   "dupes": 1,
-   "score": 0.304,
+   "score": 0.31,
    "tier": 3
   },
   {
@@ -484,18 +467,18 @@
    "tier": 3
   },
   {
-   "id": "014159943e4d9643b524ba35091999ab979bfca3",
-   "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-   "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-   "source": "OpenAI Blog",
+   "id": "d69ce8689fec53b094c78b69553446ae59b42cfb",
+   "title": "Introducing Meta One: A Subscription Service With More Features and AI to Create, Connect, and Stand Out",
+   "url": "https://about.fb.com/news/2026/09/introducing-meta-one-subscription-service-more-features-ai",
+   "source": "Meta Newsroom",
    "org": [
-    "openai"
+    "meta"
    ],
    "topic": "ai",
-   "tldr": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
-   "published": "2026-09-10T16:00:00.000Z",
+   "tldr": "We're introducing Meta One, a new subscription service on Facebook, Instagram, WhatsApp, and Meta AI that offers more AI usage, enhanced expression features, and tools for creators and businesses.  The post Introducing…",
+   "published": "2026-09-15T15:00:59.000Z",
    "dupes": 1,
-   "score": 0.301,
+   "score": 0.297,
    "tier": 3
   },
   {
@@ -510,7 +493,7 @@
    "tldr": "As local models become more capable, AI agents can handle more work directly on a PC while keeping sensitive information on the device.  Portable Computer is a local version of the agent Perplexity Computer that plans…",
    "published": "2026-09-14T15:00:52.000Z",
    "dupes": 1,
-   "score": 0.297,
+   "score": 0.294,
    "tier": 3
   },
   {
@@ -529,36 +512,6 @@
    "tier": 3
   },
   {
-   "id": "74f1f6122ab89e844c509ea1b9a5c231694eb865",
-   "title": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
-   "url": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Manufacturing floors, warehouses and production lines rarely stay fixed — tasks change, layouts shift and new products arrive, and most robots can’t keep up without significant reprogramming.  Skild AI’s new S1 robot…",
-   "published": "2026-09-10T16:30:35.000Z",
-   "dupes": 1,
-   "score": 0.276,
-   "tier": 3
-  },
-  {
-   "id": "94f3002b19f7a180072de7e5ea51b2b5768d2890",
-   "title": "Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With NVIDIA Technologies",
-   "url": "https://blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "The global robotaxi market — physical AI’s first commercial breakthrough — is projected to reach $400 billion by 2035, with over 6 million commercial vehicles in operation as driverless fleets are already moving people…",
-   "published": "2026-09-10T16:00:04.000Z",
-   "dupes": 1,
-   "score": 0.276,
-   "tier": 3
-  },
-  {
    "id": "8d14c16069ee17f6e3c5572b0503a271b66a31be",
    "title": "Show HN: Warp – Run DeepSeek v4.1 Flash with 5 GB of RAM at 3.77 tok/s",
    "url": "https://github.com/sqliteai/warp",
@@ -570,7 +523,7 @@
    "tldr": "",
    "published": "2026-09-15T15:28:23.000Z",
    "dupes": 1,
-   "score": 0.245,
+   "score": 0.247,
    "tier": 3
   },
   {
@@ -585,7 +538,7 @@
    "tldr": "",
    "published": "2026-09-11T06:46:19.000Z",
    "dupes": 1,
-   "score": 0.199,
+   "score": 0.241,
    "tier": 3
   },
   {
@@ -600,7 +553,7 @@
    "tldr": "",
    "published": "2026-09-11T00:34:20.000Z",
    "dupes": 1,
-   "score": 0.196,
+   "score": 0.227,
    "tier": 3
   },
   {
@@ -615,7 +568,7 @@
    "tldr": "",
    "published": "2026-09-12T02:46:31.000Z",
    "dupes": 1,
-   "score": 0.193,
+   "score": 0.209,
    "tier": 3
   }
  ]
