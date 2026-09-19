@@ -1,6 +1,21 @@
 {
- "generated": "2026-09-19T13:37:38.230Z",
+ "generated": "2026-09-19T16:57:52.058Z",
  "items": [
+  {
+   "id": "9eee1724b36d55796bc13fe322f4c741899c4130",
+   "title": "Google's Gemini AI hacked three companies in security test",
+   "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Technology",
+   "org": [
+    "google"
+   ],
+   "topic": "security",
+   "tldr": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
+   "published": "2026-09-19T13:39:32.000Z",
+   "dupes": 2,
+   "score": 0.754,
+   "tier": 1
+  },
   {
    "id": "1fc5f06ab4e0688ad83a56657feb3dc2d523dac4",
    "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
@@ -13,8 +28,24 @@
    "tldr": "",
    "published": "2026-09-19T06:41:44.000Z",
    "dupes": 1,
-   "score": 0.72,
-   "tier": 1
+   "score": 0.717,
+   "tier": 2
+  },
+  {
+   "id": "cc2fd48c518b89fdd196794b30fe53529c5a6992",
+   "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
+   "url": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
+   "source": "The Hacker News",
+   "org": [
+    "anthropic",
+    "openai"
+   ],
+   "topic": "security",
+   "tldr": "Three researchers at the security firm Hacktron used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository.…",
+   "published": "2026-09-19T13:28:35.000Z",
+   "dupes": 1,
+   "score": 0.682,
+   "tier": 2
   },
   {
    "id": "baf58204e2674475feb9a0daab09efd2d80424e2",
@@ -29,53 +60,7 @@
    "tldr": "Researchers used Claude to reach an OpenAI employee account and sensitive GitHub data.",
    "published": "2026-09-18T13:30:12.000Z",
    "dupes": 2,
-   "score": 0.684,
-   "tier": 2
-  },
-  {
-   "id": "cc2fd48c518b89fdd196794b30fe53529c5a6992",
-   "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
-   "url": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
-   "source": "The Hacker News",
-   "org": [
-    "anthropic",
-    "openai"
-   ],
-   "topic": "security",
-   "tldr": "Three researchers at the security firm Hacktron used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository.…",
-   "published": "2026-09-19T10:01:10.000Z",
-   "dupes": 1,
-   "score": 0.681,
-   "tier": 2
-  },
-  {
-   "id": "64adcb8eecb3d598a119990430bf0a02b816b4c6",
-   "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-   "url": "https://spectrum.ieee.org/llms-for-chip-design",
-   "source": "Hacker News",
-   "org": [
-    "openai"
-   ],
-   "topic": "compute",
-   "tldr": "",
-   "published": "2026-09-18T23:04:17.000Z",
-   "dupes": 1,
-   "score": 0.679,
-   "tier": 2
-  },
-  {
-   "id": "9eee1724b36d55796bc13fe322f4c741899c4130",
-   "title": "Google's Gemini AI hacked three companies in security test",
-   "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
-   "org": [
-    "google"
-   ],
-   "topic": "security",
-   "tldr": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
-   "published": "2026-09-19T04:27:11.000Z",
-   "dupes": 1,
-   "score": 0.673,
+   "score": 0.675,
    "tier": 2
   },
   {
@@ -90,55 +75,7 @@
    "tldr": "Google's Gemini model has become the latest artificial intelligence (AI) system to access the internet and break into other companies during a cybersecurity evaluation.  The development was first reported by The Wall…",
    "published": "2026-09-19T07:51:34.000Z",
    "dupes": 1,
-   "score": 0.672,
-   "tier": 2
-  },
-  {
-   "id": "87c74f1ab470656aac8d7fd0b748a8382e74909b",
-   "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
-   "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model",
-   "source": "Hacker News",
-   "org": [
-    "nasa"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-19T04:44:35.000Z",
-   "badges": [
-    "oss"
-   ],
-   "dupes": 1,
-   "score": 0.659,
-   "tier": 2
-  },
-  {
-   "id": "d6d9aec5a8799aa5c25fdc75da5b3c10cdd8d4f3",
-   "title": "Anthropic is operating a lab that conducts biology experiments",
-   "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments",
-   "source": "TechCrunch",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "AI leaders have been promising that AI is the key to curing human disease.  Anthropic researchers have also been warning that AI might kill us all.",
-   "published": "2026-09-18T23:13:31.000Z",
-   "dupes": 1,
-   "score": 0.653,
-   "tier": 2
-  },
-  {
-   "id": "c2855615ec11e2e3d19d93e4ff1bab3d6a7e7902",
-   "title": "MilleMiglia: A realistic instance generator for middle-mile logistics",
-   "url": "https://research.google/blog/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics",
-   "source": "Google Research",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Algorithms & Theory",
-   "published": "2026-09-18T17:46:09.000Z",
-   "dupes": 1,
-   "score": 0.65,
+   "score": 0.657,
    "tier": 2
   },
   {
@@ -153,22 +90,22 @@
    "tldr": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
    "published": "2026-09-18T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.649,
+   "score": 0.64,
    "tier": 2
   },
   {
-   "id": "58f2b0077885815965d55f1f2d8d2d1ef8ee8002",
-   "title": "Anthropic’s first embedded evaluator is … Accenture?",
-   "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture",
-   "source": "TechCrunch",
+   "id": "c2855615ec11e2e3d19d93e4ff1bab3d6a7e7902",
+   "title": "MilleMiglia: A realistic instance generator for middle-mile logistics",
+   "url": "https://research.google/blog/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics",
+   "source": "Google Research",
    "org": [
-    "anthropic"
+    "google"
    ],
    "topic": "ai",
-   "tldr": "Accenture is about to take on its most high-risk consulting engagement ever.",
-   "published": "2026-09-18T21:44:33.000Z",
+   "tldr": "Algorithms & Theory",
+   "published": "2026-09-18T17:46:09.000Z",
    "dupes": 1,
-   "score": 0.647,
+   "score": 0.64,
    "tier": 2
   },
   {
@@ -183,7 +120,22 @@
    "tldr": "Multiple family members can share data to help the agent make plans and complete tasks.",
    "published": "2026-09-17T20:24:34.000Z",
    "dupes": 2,
-   "score": 0.643,
+   "score": 0.637,
+   "tier": 2
+  },
+  {
+   "id": "d6d9aec5a8799aa5c25fdc75da5b3c10cdd8d4f3",
+   "title": "Anthropic is operating a lab that conducts biology experiments",
+   "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments",
+   "source": "TechCrunch",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "AI leaders have been promising that AI is the key to curing human disease.  Anthropic researchers have also been warning that AI might kill us all.",
+   "published": "2026-09-18T23:13:31.000Z",
+   "dupes": 1,
+   "score": 0.629,
    "tier": 2
   },
   {
@@ -198,7 +150,22 @@
    "tldr": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
    "published": "2026-09-18T18:49:30.000Z",
    "dupes": 1,
-   "score": 0.637,
+   "score": 0.627,
+   "tier": 2
+  },
+  {
+   "id": "58f2b0077885815965d55f1f2d8d2d1ef8ee8002",
+   "title": "Anthropic’s first embedded evaluator is … Accenture?",
+   "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture",
+   "source": "TechCrunch",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "Accenture is about to take on its most high-risk consulting engagement ever.",
+   "published": "2026-09-18T21:44:33.000Z",
+   "dupes": 1,
+   "score": 0.626,
    "tier": 2
   },
   {
@@ -213,8 +180,8 @@
    "tldr": "m.  EDT on Monday, Sept.",
    "published": "2026-09-18T19:56:08.000Z",
    "dupes": 1,
-   "score": 0.624,
-   "tier": 3
+   "score": 0.614,
+   "tier": 2
   },
   {
    "id": "47b87cc27bae1888aaa2407cd0a4b21cf9935957",
@@ -228,8 +195,8 @@
    "tldr": "",
    "published": "2026-09-18T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.619,
-   "tier": 3
+   "score": 0.612,
+   "tier": 2
   },
   {
    "id": "5961273880441045ff5e6a120416b11452a36abc",
@@ -243,7 +210,7 @@
    "tldr": "Using data from the Japan-led XRISM (X-ray Imaging and Spectroscopy Mission) observatory, astronomers have directly observed a giant star’s outflow, called a stellar wind, being captured by its compact companion and…",
    "published": "2026-09-18T18:02:53.000Z",
    "dupes": 1,
-   "score": 0.618,
+   "score": 0.609,
    "tier": 3
   },
   {
@@ -258,23 +225,7 @@
    "tldr": "Microsoft Teams will soon let administrators tweak the list of file extensions commonly associated with security threats to meet their company's security requirements.",
    "published": "2026-09-18T13:58:40.000Z",
    "dupes": 1,
-   "score": 0.614,
-   "tier": 3
-  },
-  {
-   "id": "7456d8000ebfebb29c1f5384d31ad16c6e65a8ee",
-   "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
-   "source": "The Verge AI",
-   "org": [
-    "openai",
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning.",
-   "published": "2026-09-18T21:07:24.000Z",
-   "dupes": 1,
-   "score": 0.613,
+   "score": 0.605,
    "tier": 3
   },
   {
@@ -290,7 +241,7 @@
    "tldr": "To continue regular crew transportation to the International Space Station, NASA has awarded SpaceX three additional missions through a contract modification.",
    "published": "2026-09-18T16:02:31.000Z",
    "dupes": 1,
-   "score": 0.612,
+   "score": 0.603,
    "tier": 3
   },
   {
@@ -305,7 +256,23 @@
    "tldr": "Fast-growing companies face countless recommendations for securing Google Workspace, but not every control provides the same value.  This webinar examines real-world breaches to explore which security controls matter…",
    "published": "2026-09-18T13:10:19.000Z",
    "dupes": 1,
-   "score": 0.612,
+   "score": 0.603,
+   "tier": 3
+  },
+  {
+   "id": "7456d8000ebfebb29c1f5384d31ad16c6e65a8ee",
+   "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+   "source": "The Verge AI",
+   "org": [
+    "openai",
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning.",
+   "published": "2026-09-18T21:07:24.000Z",
+   "dupes": 1,
+   "score": 0.602,
    "tier": 3
   },
   {
@@ -320,7 +287,7 @@
    "tldr": "Microsoft has resolved a known issue that causes incorrect alerts warning that Defender Antivirus was turned off after installing recent updates.",
    "published": "2026-09-18T12:16:32.000Z",
    "dupes": 1,
-   "score": 0.609,
+   "score": 0.6,
    "tier": 3
   },
   {
@@ -335,7 +302,7 @@
    "tldr": "Though the spiral galaxy in this new image from the NASA/ESA Hubble Space Telescope seems serene, it hides a chaotic secret.  This galaxy is NGC 4698, and it lies about 55 million light-years away in the constellation…",
    "published": "2026-09-18T13:38:12.000Z",
    "dupes": 1,
-   "score": 0.606,
+   "score": 0.597,
    "tier": 3
   },
   {
@@ -350,7 +317,7 @@
    "tldr": "Microsoft has released fixes for a maximum-severity security flaw in Azure AI Foundry that could be exploited to achieve privilege escalation.  No customer action is required.",
    "published": "2026-09-18T12:47:04.000Z",
    "dupes": 1,
-   "score": 0.603,
+   "score": 0.594,
    "tier": 3
   },
   {
@@ -365,7 +332,7 @@
    "tldr": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
    "published": "2026-09-17T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.597,
+   "score": 0.592,
    "tier": 3
   },
   {
@@ -380,7 +347,7 @@
    "tldr": "Education Innovation",
    "published": "2026-09-17T20:45:00.000Z",
    "dupes": 1,
-   "score": 0.597,
+   "score": 0.59,
    "tier": 3
   },
   {
@@ -395,7 +362,22 @@
    "tldr": "Microsoft has fixed a known issue that causes copy-and-paste failures for some Excel users after installing the September 2026 KB5002914 security update.",
    "published": "2026-09-18T07:35:31.000Z",
    "dupes": 1,
-   "score": 0.597,
+   "score": 0.589,
+   "tier": 3
+  },
+  {
+   "id": "a59b8440a154cac6e10e5aed06e5b2afa368ffba",
+   "title": "Microsoft exec called AI scraping the “largest theft of labor in human history”",
+   "url": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history",
+   "source": "Ars Technica",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "Microsoft, OpenAI emails reveal fear of AI “doom loop” killing news orgs.",
+   "published": "2026-09-17T20:10:41.000Z",
+   "dupes": 1,
+   "score": 0.581,
    "tier": 3
   },
   {
@@ -410,7 +392,7 @@
    "tldr": "OpenAI has presented new examples of what they call \"AI model misalignment\" from the past six months, including unauthorized file uploads, following self-generated instructions, hiding mistakes, and leveraging exposed…",
    "published": "2026-09-17T18:55:12.000Z",
    "dupes": 1,
-   "score": 0.569,
+   "score": 0.563,
    "tier": 3
   },
   {
@@ -425,7 +407,7 @@
    "tldr": "NASA has selected SpaceX to provide launch services for the agency’s StarBurst mission, a small satellite designed to investigate neutron star mergers and the origins of short gamma-ray bursts.",
    "published": "2026-09-17T20:37:09.000Z",
    "dupes": 1,
-   "score": 0.566,
+   "score": 0.56,
    "tier": 3
   },
   {
@@ -441,7 +423,7 @@
    "tldr": "Media accreditation is open for the next cargo launch that will deliver NASA science investigations, supplies, and equipment to the International Space Station.  The 35th SpaceX commercial resupply services mission to…",
    "published": "2026-09-17T18:32:30.000Z",
    "dupes": 1,
-   "score": 0.563,
+   "score": 0.557,
    "tier": 3
   },
   {
@@ -456,7 +438,7 @@
    "tldr": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
    "published": "2026-09-17T08:22:12.000Z",
    "dupes": 1,
-   "score": 0.559,
+   "score": 0.555,
    "tier": 3
   },
   {
@@ -471,7 +453,7 @@
    "tldr": "Fifty years ago, on Sept.  17, 1976—Constitution Day of America’s bicentennial year—NASA unveiled its first space shuttle orbiter, OV-101, to the public.",
    "published": "2026-09-17T15:22:42.000Z",
    "dupes": 1,
-   "score": 0.557,
+   "score": 0.552,
    "tier": 3
   },
   {
@@ -487,7 +469,7 @@
    "tldr": "AI factories are the infrastructure of the intelligence era.  Scaling them responsibly will depend as much on innovation across the grid as inside the data center.",
    "published": "2026-09-16T13:00:33.000Z",
    "dupes": 1,
-   "score": 0.552,
+   "score": 0.549,
    "tier": 3
   },
   {
@@ -502,7 +484,7 @@
    "tldr": "OpenAI on Wednesday disclosed six new instances of \"unexpected or concerning model behavior\" that took place over the past six months, while sharing a new framework for reporting, tracking, investigating, and disclosing…",
    "published": "2026-09-17T09:53:38.000Z",
    "dupes": 1,
-   "score": 0.546,
+   "score": 0.541,
    "tier": 3
   },
   {
@@ -518,7 +500,7 @@
    "tldr": "\"They should fly their capsule.",
    "published": "2026-09-17T14:37:37.000Z",
    "dupes": 1,
-   "score": 0.533,
+   "score": 0.528,
    "tier": 3
   },
   {
@@ -533,7 +515,7 @@
    "tldr": "Security researchers at Forever Security have shown that one ordinary browser extension could take control of the AI assistants built into five Chromium-based products: Gemini Live in Chrome, Perplexity Comet, Microsoft…",
    "published": "2026-09-16T14:36:44.000Z",
    "dupes": 1,
-   "score": 0.522,
+   "score": 0.518,
    "tier": 3
   },
   {
@@ -549,22 +531,7 @@
    "tldr": "\"NASA’s award decision appears to be inconsistent with the eligibility criteria.\"",
    "published": "2026-09-14T21:32:22.000Z",
    "dupes": 1,
-   "score": 0.478,
-   "tier": 3
-  },
-  {
-   "id": "956c7663208f43358d901b718cadec22e7a0a3c0",
-   "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
-   "url": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026",
-   "source": "TechCrunch",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026.",
-   "published": "2026-09-18T15:30:00.000Z",
-   "dupes": 1,
-   "score": 0.456,
+   "score": 0.477,
    "tier": 3
   },
   {
@@ -579,7 +546,7 @@
    "tldr": "“I can tell you SpaceX has already gone captive.\"",
    "published": "2026-09-18T11:00:11.000Z",
    "dupes": 2,
-   "score": 0.45,
+   "score": 0.434,
    "tier": 3
   },
   {
@@ -594,7 +561,22 @@
    "tldr": "A new creature-catching adventure is ready to stream from the cloud this week.  Pawprint Studio’s Aniimo arrives on GeForce NOW at launch, inviting gamers to explore the vibrant continent of Idyll across supported…",
    "published": "2026-09-17T13:00:55.000Z",
    "dupes": 1,
-   "score": 0.44,
+   "score": 0.363,
+   "tier": 3
+  },
+  {
+   "id": "b08a7a56b57c5a115e795167b27ec7f5318327b7",
+   "title": "ESA and The Pokémon Company International reveal Europe-wide exhibition and astronaut Pikachu experience",
+   "url": "https://www.esa.int/About_Us/Branding_and_Partnerships/ESA_and_The_Pokemon_Company_International_reveal_Europe-wide_exhibition_and_astronaut_Pikachu_experience",
+   "source": "ESA Space News",
+   "org": [
+    "esa"
+   ],
+   "topic": "space",
+   "tldr": "The European Space Agency (ESA) and The Pokémon Company International (TPCI) have launched an official collaboration to celebrate World Space Week 2026 from 4–10 October 2026.",
+   "published": "2026-09-18T22:01:00.000Z",
+   "dupes": 1,
+   "score": 0.363,
    "tier": 3
   },
   {
@@ -609,7 +591,20 @@
    "tldr": "System performance, efficient infrastructure scaling and continuous software optimization are key levers that determine AI inference economics.  Higher system performance means more tokens generated, resulting in higher…",
    "published": "2026-09-16T15:00:48.000Z",
    "dupes": 1,
-   "score": 0.426,
+   "score": 0.349,
+   "tier": 3
+  },
+  {
+   "id": "0376f8abdca2308d042189272aea3ead2b013068",
+   "title": "Hirebotics adds line tracking and linear rail capabilities to its cobots",
+   "url": "https://www.therobotreport.com/hirebotics-adds-line-tracking-linear-rail-capabilities-cobots",
+   "source": "The Robot Report",
+   "org": [],
+   "topic": "robotics",
+   "tldr": "Hirebotics said these new capabilities extend the working range of the cobots, giving manufacturers greater flexibility.  The post Hirebotics adds line tracking and linear rail capabilities to its cobots appeared first…",
+   "published": "2026-09-19T12:40:50.000Z",
+   "dupes": 1,
+   "score": 0.348,
    "tier": 3
   },
   {
@@ -624,7 +619,7 @@
    "tldr": "K.  alone last year.",
    "published": "2026-09-16T05:00:42.000Z",
    "dupes": 1,
-   "score": 0.421,
+   "score": 0.345,
    "tier": 3
   },
   {
@@ -639,7 +634,7 @@
    "tldr": "Know everything.  Do anything.",
    "published": "2026-09-15T22:24:34.000Z",
    "dupes": 1,
-   "score": 0.419,
+   "score": 0.343,
    "tier": 3
   },
   {
@@ -654,7 +649,7 @@
    "tldr": "On a sweltering August evening in Silicon Valley, as the sun dropped and air conditioning loads spiked, Silicon Valley Power sent a signal to an AI factory to adjust its power consumption.",
    "published": "2026-09-15T16:55:59.000Z",
    "dupes": 1,
-   "score": 0.417,
+   "score": 0.341,
    "tier": 3
   },
   {
@@ -669,7 +664,7 @@
    "tldr": "Ian Buck, vice president of hyperscale and high-performance computing at NVIDIA, Tuesday spoke on AI factory efficiency at the AI Infra Summit, the Santa Clara Convention Center event that has morphed into a Coachella…",
    "published": "2026-09-15T16:55:40.000Z",
    "dupes": 1,
-   "score": 0.417,
+   "score": 0.341,
    "tier": 3
   },
   {
@@ -687,7 +682,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.415,
+   "score": 0.339,
    "tier": 3
   },
   {
@@ -702,35 +697,7 @@
    "tldr": "As local models become more capable, AI agents can handle more work directly on a PC while keeping sensitive information on the device.  Portable Computer is a local version of the agent Perplexity Computer that plans…",
    "published": "2026-09-14T15:00:52.000Z",
    "dupes": 1,
-   "score": 0.411,
-   "tier": 3
-  },
-  {
-   "id": "b08a7a56b57c5a115e795167b27ec7f5318327b7",
-   "title": "ESA and The Pokémon Company International reveal Europe-wide exhibition and astronaut Pikachu experience",
-   "url": "https://www.esa.int/About_Us/Branding_and_Partnerships/ESA_and_The_Pokemon_Company_International_reveal_Europe-wide_exhibition_and_astronaut_Pikachu_experience",
-   "source": "ESA Space News",
-   "org": [
-    "esa"
-   ],
-   "topic": "space",
-   "tldr": "The European Space Agency (ESA) and The Pokémon Company International (TPCI) have launched an official collaboration to celebrate World Space Week 2026 from 4–10 October 2026.",
-   "published": "2026-09-18T22:01:00.000Z",
-   "dupes": 1,
-   "score": 0.378,
-   "tier": 3
-  },
-  {
-   "id": "0376f8abdca2308d042189272aea3ead2b013068",
-   "title": "Hirebotics adds line tracking and linear rail capabilities to its cobots",
-   "url": "https://www.therobotreport.com/hirebotics-adds-line-tracking-linear-rail-capabilities-cobots",
-   "source": "The Robot Report",
-   "org": [],
-   "topic": "robotics",
-   "tldr": "Hirebotics said these new capabilities extend the working range of the cobots, giving manufacturers greater flexibility.  The post Hirebotics adds line tracking and linear rail capabilities to its cobots appeared first…",
-   "published": "2026-09-19T12:40:50.000Z",
-   "dupes": 1,
-   "score": 0.363,
+   "score": 0.335,
    "tier": 3
   },
   {
@@ -745,7 +712,20 @@
    "tldr": "Reaching orbit would mark a significant milestone.",
    "published": "2026-09-15T18:48:08.000Z",
    "dupes": 1,
-   "score": 0.338,
+   "score": 0.325,
+   "tier": 3
+  },
+  {
+   "id": "86ab101ea267b8c468a8f88d16448292d1f17c2c",
+   "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+   "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes",
+   "source": "TechCrunch",
+   "org": [],
+   "topic": "gaming",
+   "tldr": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an…",
+   "published": "2026-09-19T15:00:00.000Z",
+   "dupes": 1,
+   "score": 0.316,
    "tier": 3
   },
   {
@@ -758,7 +738,7 @@
    "tldr": "An aircraft equipped with Joby Aviation's autonomy technology flew across the United States without a human pilot taking control at any point.",
    "published": "2026-09-18T17:26:41.000Z",
    "dupes": 1,
-   "score": 0.297,
+   "score": 0.288,
    "tier": 3
   },
   {
@@ -771,7 +751,7 @@
    "tldr": "The real robotics opportunity isn’t a humanoid in every home—it’s packaging robots for the jobs businesses need done today.  The post The picks-and-shovels strategy behind the robotics boom appeared first on The Robot…",
    "published": "2026-09-18T18:57:36.000Z",
    "dupes": 1,
-   "score": 0.294,
+   "score": 0.284,
    "tier": 3
   },
   {
@@ -784,7 +764,7 @@
    "tldr": "The deal has been rumored for a couple of months, but it is now being reviewed by the Committee on Foreign Investment in the United States.  The post SoftBank agrees to acquire Robotics and AI Institute appeared first…",
    "published": "2026-09-18T17:14:32.000Z",
    "dupes": 1,
-   "score": 0.289,
+   "score": 0.279,
    "tier": 3
   },
   {
@@ -797,7 +777,7 @@
    "tldr": "Sanjay Aggarwal and Betsy Mulé of F-Prime Capital will unveil the firm's State of Robotics Investments report at RoboBusiness.  The post F-Prime Capital to give insights on the state of robotics investments at…",
    "published": "2026-09-18T16:16:44.000Z",
    "dupes": 1,
-   "score": 0.286,
+   "score": 0.277,
    "tier": 3
   },
   {
@@ -810,46 +790,7 @@
    "tldr": "This is the last major test of the system before Icarus Robotics will be sending JOY the the ISS in early 2027.  The post Icarus Robotics flies ISS-bound robot in microgravity for the first time appeared first on The…",
    "published": "2026-09-18T13:07:45.000Z",
    "dupes": 1,
-   "score": 0.277,
-   "tier": 3
-  },
-  {
-   "id": "b4fd6b50ea9ceb987043bf8b363acdec7647133e",
-   "title": "Control Resonant | Critical Consensus",
-   "url": "https://www.gamesindustry.biz/control-resonant-critical-consensus",
-   "source": "GamesIndustry.biz",
-   "org": [],
-   "topic": "gaming",
-   "tldr": "Seven years after launching Control, Remedy returns to a paranatural Manhattan with Control Resonant.",
-   "published": "2026-09-18T16:15:36.000Z",
-   "dupes": 1,
-   "score": 0.26,
-   "tier": 3
-  },
-  {
-   "id": "5f36f7145b39c8840c38d170aa3ac6ed191aca6d",
-   "title": "\"They've watched so many people lose their jobs, that has an impact\" – Managing morale in the wake of layoffs",
-   "url": "https://www.gamesindustry.biz/theyve-watched-so-many-people-lose-their-jobs-that-has-an-impact-managing-morale-in-the-wake-of-layoffs",
-   "source": "GamesIndustry.biz",
-   "org": [],
-   "topic": "gaming",
-   "tldr": "With tens of thousands of jobs lost across industry in the past few years, to say this is a demoralising time to be working in video games would be something of an understatement.",
-   "published": "2026-09-18T15:52:17.000Z",
-   "dupes": 1,
-   "score": 0.259,
-   "tier": 3
-  },
-  {
-   "id": "b0a0cb444918519d39b6ffdad66679c1e79ac122",
-   "title": "Sessions on managing AI impact, neurodivergent teams and personal resilience confirmed for GamesIndustry.biz HR Summit",
-   "url": "https://www.gamesindustry.biz/sessions-on-managing-ai-impact-neurodivergent-teams-and-personal-resilience-confirmed-for-gamesindustrybiz-hr-summit",
-   "source": "GamesIndustry.biz",
-   "org": [],
-   "topic": "gaming",
-   "tldr": "biz HR Summit, sponsored by Amiqus , which will be held next month at the Royal Institution in London.",
-   "published": "2026-09-18T15:44:15.000Z",
-   "dupes": 1,
-   "score": 0.259,
+   "score": 0.269,
    "tier": 3
   },
   {
@@ -862,7 +803,46 @@
    "tldr": "Scaleout deploys decentralized AI-driven learning to military bases and drones.",
    "published": "2026-09-17T22:12:58.000Z",
    "dupes": 1,
-   "score": 0.258,
+   "score": 0.252,
+   "tier": 3
+  },
+  {
+   "id": "b4fd6b50ea9ceb987043bf8b363acdec7647133e",
+   "title": "Control Resonant | Critical Consensus",
+   "url": "https://www.gamesindustry.biz/control-resonant-critical-consensus",
+   "source": "GamesIndustry.biz",
+   "org": [],
+   "topic": "gaming",
+   "tldr": "Seven years after launching Control, Remedy returns to a paranatural Manhattan with Control Resonant.",
+   "published": "2026-09-18T16:15:36.000Z",
+   "dupes": 1,
+   "score": 0.252,
+   "tier": 3
+  },
+  {
+   "id": "5f36f7145b39c8840c38d170aa3ac6ed191aca6d",
+   "title": "\"They've watched so many people lose their jobs, that has an impact\" – Managing morale in the wake of layoffs",
+   "url": "https://www.gamesindustry.biz/theyve-watched-so-many-people-lose-their-jobs-that-has-an-impact-managing-morale-in-the-wake-of-layoffs",
+   "source": "GamesIndustry.biz",
+   "org": [],
+   "topic": "gaming",
+   "tldr": "With tens of thousands of jobs lost across industry in the past few years, to say this is a demoralising time to be working in video games would be something of an understatement.",
+   "published": "2026-09-18T15:52:17.000Z",
+   "dupes": 1,
+   "score": 0.251,
+   "tier": 3
+  },
+  {
+   "id": "b0a0cb444918519d39b6ffdad66679c1e79ac122",
+   "title": "Sessions on managing AI impact, neurodivergent teams and personal resilience confirmed for GamesIndustry.biz HR Summit",
+   "url": "https://www.gamesindustry.biz/sessions-on-managing-ai-impact-neurodivergent-teams-and-personal-resilience-confirmed-for-gamesindustrybiz-hr-summit",
+   "source": "GamesIndustry.biz",
+   "org": [],
+   "topic": "gaming",
+   "tldr": "biz HR Summit, sponsored by Amiqus , which will be held next month at the Royal Institution in London.",
+   "published": "2026-09-18T15:44:15.000Z",
+   "dupes": 1,
+   "score": 0.251,
    "tier": 3
   },
   {
@@ -875,7 +855,7 @@
    "tldr": "Training systems that allow robots to negotiate the real world are getting more sophisticated.",
    "published": "2026-09-17T23:00:47.000Z",
    "dupes": 1,
-   "score": 0.252,
+   "score": 0.246,
    "tier": 3
   },
   {
@@ -890,7 +870,7 @@
    "tldr": "Some may argue Grand Theft Auto 6 does not require a marketing campaign, but Take-Two Interactive president Strauss Zelnick emphasised that established brands need to maintain awareness.",
    "published": "2026-09-18T10:22:40.000Z",
    "dupes": 1,
-   "score": 0.252,
+   "score": 0.244,
    "tier": 3
   },
   {
@@ -903,20 +883,7 @@
    "tldr": "Swedish trade unions Unionen and Sveriges Ingenj&ouml;rer have issued a strike notice against King after executives rejected a proposed collective bargaining agreement last month .",
    "published": "2026-09-18T09:51:27.000Z",
    "dupes": 1,
-   "score": 0.245,
-   "tier": 3
-  },
-  {
-   "id": "83d942eea9b134ae08dd7f64274be83aaf93b161",
-   "title": "Dredge maker Black Salt Games establishes indie studio Team Trifold under new Saltworks Entertainment label",
-   "url": "https://www.gamesindustry.biz/black-salt-games-establishes-indie-studio-team-trifold-under-new-saltworks-entertainment-label",
-   "source": "GamesIndustry.biz",
-   "org": [],
-   "topic": "gaming",
-   "tldr": "Dredge creator Black Salt Games has launched a new studio, Team Trifold, alongside a new white-label publisher called Saltworks Entertainment which will provide services to both studios along with fellow New Zealand…",
-   "published": "2026-09-18T08:04:19.000Z",
-   "dupes": 1,
-   "score": 0.241,
+   "score": 0.238,
    "tier": 3
   },
   {
@@ -929,7 +896,7 @@
    "tldr": "When long-travel motion demands more than ball screws and linear motors can deliver, rack-and-pinion systems can offer a compelling combination of speed, precision, scalability, and cost.  Here’s when engineers should…",
    "published": "2026-09-17T18:34:16.000Z",
    "dupes": 1,
-   "score": 0.236,
+   "score": 0.23,
    "tier": 3
   },
   {
@@ -942,7 +909,7 @@
    "tldr": "The August 2026 Robotics Investments Report includes a table with all 162 investments rounds, complete with breakdowns by technology, country, funding stage, and more.  9B in August 2026 appeared first on The Robot…",
    "published": "2026-09-17T16:18:55.000Z",
    "dupes": 1,
-   "score": 0.232,
+   "score": 0.227,
    "tier": 3
   },
   {
@@ -955,7 +922,20 @@
    "tldr": "With its new program and its Robotics Capability Framework, Arm aims to bring more clarity and unity to the robotics industry.  The post Arm Total Design for Physical AI brings more than 80 developers together appeared…",
    "published": "2026-09-17T12:30:13.000Z",
    "dupes": 1,
-   "score": 0.226,
+   "score": 0.221,
+   "tier": 3
+  },
+  {
+   "id": "1fcf60fdf5f4ffc1ecc259547aef600a8393812a",
+   "title": "Iran strikes on Amazon data centers caused permanent loss of customer data",
+   "url": "https://arstechnica.com/gadgets/2026/09/iran-strikes-on-amazon-data-centers-caused-permanent-loss-of-customer-data",
+   "source": "Ars Technica · Gadgets",
+   "org": [],
+   "topic": "compute",
+   "tldr": "War damage to data centers exceeded what AWS services are designed to withstand.",
+   "published": "2026-09-16T16:40:11.000Z",
+   "dupes": 1,
+   "score": 0.208,
    "tier": 3
   },
   {
@@ -968,7 +948,22 @@
    "tldr": "OLogic CEO Ted Larson will explore the foundations of egocentric robot learning and the technical challenges involved in building these systems.  The post OLogic to share how robots can learn from human demonstrations…",
    "published": "2026-09-16T20:31:29.000Z",
    "dupes": 1,
-   "score": 0.205,
+   "score": 0.202,
+   "tier": 3
+  },
+  {
+   "id": "8dae0ac969358dc04a3568a1b881cb382ffe5c53",
+   "title": "Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots",
+   "url": "https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots",
+   "source": "Ars Technica · Gadgets",
+   "org": [
+    "unitree"
+   ],
+   "topic": "compute",
+   "tldr": "Wang Xingxing micromanaged Unitree to success—will his leadership style scale?",
+   "published": "2026-09-14T19:38:46.000Z",
+   "dupes": 1,
+   "score": 0.182,
    "tier": 3
   }
  ]
