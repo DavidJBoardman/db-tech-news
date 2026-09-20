@@ -1,6 +1,21 @@
 {
- "generated": "2026-09-20T02:45:44.844Z",
+ "generated": "2026-09-20T08:10:09.366Z",
  "items": [
+  {
+   "id": "738f3a26457d6485fc4a7f8981f0b4d77cfc2229",
+   "title": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
+   "url": "https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions",
+   "source": "Hacker News",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-20T05:46:19.000Z",
+   "dupes": 1,
+   "score": 0.523,
+   "tier": 1
+  },
   {
    "id": "607ffaad2d1c704d87910b94c9e6c695d3bc84c9",
    "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
@@ -13,8 +28,8 @@
    "tldr": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy.  Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes.",
    "published": "2026-09-19T20:44:40.000Z",
    "dupes": 1,
-   "score": 0.478,
-   "tier": 1
+   "score": 0.425,
+   "tier": 2
   },
   {
    "id": "66fb6faf12d493f74076c8158ba79760e3fd27a3",
@@ -28,7 +43,7 @@
    "tldr": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company.  The hacks happened during a test of the model's…",
    "published": "2026-09-19T15:25:03.000Z",
    "dupes": 1,
-   "score": 0.426,
+   "score": 0.384,
    "tier": 2
   },
   {
@@ -43,7 +58,7 @@
    "tldr": "",
    "published": "2026-09-18T00:11:44.000Z",
    "dupes": 1,
-   "score": 0.387,
+   "score": 0.378,
    "tier": 2
   },
   {
@@ -58,7 +73,7 @@
    "tldr": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
    "published": "2026-09-18T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.379,
+   "score": 0.364,
    "tier": 2
   },
   {
@@ -73,7 +88,7 @@
    "tldr": "Algorithms & Theory",
    "published": "2026-09-18T17:46:09.000Z",
    "dupes": 1,
-   "score": 0.373,
+   "score": 0.355,
    "tier": 2
   },
   {
@@ -88,7 +103,7 @@
    "tldr": "",
    "published": "2026-09-18T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.35,
+   "score": 0.34,
    "tier": 2
   },
   {
@@ -103,7 +118,7 @@
    "tldr": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
    "published": "2026-09-17T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.331,
+   "score": 0.325,
    "tier": 2
   },
   {
@@ -118,7 +133,7 @@
    "tldr": "",
    "published": "2026-09-17T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.32,
+   "score": 0.316,
    "tier": 2
   },
   {
@@ -133,52 +148,7 @@
    "tldr": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
    "published": "2026-09-17T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.32,
-   "tier": 2
-  },
-  {
-   "id": "6173cb1f27902e8cca3007ab450890bb529bcb5b",
-   "title": "The future of practice: Enabling teachers to create learning interactives with generative UI",
-   "url": "https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui",
-   "source": "Google Research",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Education Innovation",
-   "published": "2026-09-17T20:45:00.000Z",
-   "dupes": 1,
-   "score": 0.319,
-   "tier": 2
-  },
-  {
-   "id": "bbe6c30a33c9c72e5780274d2c816d8c53a3bebe",
-   "title": "Our framework for reporting model misalignment",
-   "url": "https://openai.com/index/model-misalignment-reporting-framework",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
-   "published": "2026-09-16T17:00:00.000Z",
-   "dupes": 1,
-   "score": 0.315,
-   "tier": 2
-  },
-  {
-   "id": "9217d7a4e10ec1f9cc28ecb17d912f89a9335549",
-   "title": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
-   "url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
-   "source": "HN · DeepSeek",
-   "org": [
-    "deepseek"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-16T12:19:55.000Z",
-   "dupes": 1,
-   "score": 0.315,
+   "score": 0.316,
    "tier": 2
   },
   {
@@ -193,8 +163,53 @@
    "tldr": "S.  cities to build practical AI skills safely.",
    "published": "2026-09-16T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.314,
+   "score": 0.312,
    "tier": 2
+  },
+  {
+   "id": "bbe6c30a33c9c72e5780274d2c816d8c53a3bebe",
+   "title": "Our framework for reporting model misalignment",
+   "url": "https://openai.com/index/model-misalignment-reporting-framework",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+   "published": "2026-09-16T17:00:00.000Z",
+   "dupes": 1,
+   "score": 0.312,
+   "tier": 2
+  },
+  {
+   "id": "9217d7a4e10ec1f9cc28ecb17d912f89a9335549",
+   "title": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
+   "url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
+   "source": "HN · DeepSeek",
+   "org": [
+    "deepseek"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-16T12:19:55.000Z",
+   "dupes": 1,
+   "score": 0.312,
+   "tier": 2
+  },
+  {
+   "id": "6173cb1f27902e8cca3007ab450890bb529bcb5b",
+   "title": "The future of practice: Enabling teachers to create learning interactives with generative UI",
+   "url": "https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui",
+   "source": "Google Research",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Education Innovation",
+   "published": "2026-09-17T20:45:00.000Z",
+   "dupes": 1,
+   "score": 0.311,
+   "tier": 3
   },
   {
    "id": "52752974efc060afa422288cf05c3cab7e220271",
@@ -208,7 +223,7 @@
    "tldr": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
    "published": "2026-09-16T13:00:00.000Z",
    "dupes": 1,
-   "score": 0.313,
+   "score": 0.31,
    "tier": 3
   },
   {
@@ -223,7 +238,7 @@
    "tldr": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
    "published": "2026-09-16T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.312,
+   "score": 0.31,
    "tier": 3
   },
   {
@@ -238,23 +253,7 @@
    "tldr": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
    "published": "2026-09-16T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.312,
-   "tier": 3
-  },
-  {
-   "id": "7456d8000ebfebb29c1f5384d31ad16c6e65a8ee",
-   "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
-   "source": "The Verge AI",
-   "org": [
-    "openai",
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning.",
-   "published": "2026-09-18T21:07:24.000Z",
-   "dupes": 1,
-   "score": 0.312,
+   "score": 0.31,
    "tier": 3
   },
   {
@@ -269,22 +268,7 @@
    "tldr": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
    "published": "2026-09-16T09:00:00.000Z",
    "dupes": 1,
-   "score": 0.311,
-   "tier": 3
-  },
-  {
-   "id": "860d6759b6e0f3ecb84c6b7f3d191a6300db20da",
-   "title": "Cute Critters Come to the Cloud: ‘Aniimo’ Launches on GeForce NOW",
-   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-aniimo",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "A new creature-catching adventure is ready to stream from the cloud this week.  Pawprint Studio’s Aniimo arrives on GeForce NOW at launch, inviting gamers to explore the vibrant continent of Idyll across supported…",
-   "published": "2026-09-17T13:00:55.000Z",
-   "dupes": 1,
-   "score": 0.307,
+   "score": 0.309,
    "tier": 3
   },
   {
@@ -299,22 +283,7 @@
    "tldr": "",
    "published": "2026-09-15T17:05:57.000Z",
    "dupes": 1,
-   "score": 0.306,
-   "tier": 3
-  },
-  {
-   "id": "7a7bb84cf160996ded075387da9d48448d32ae05",
-   "title": "Grok Voice Transcribe 2.0",
-   "url": "https://x.ai/news/grok-voice-transcribe-2",
-   "source": "HN · xAI",
-   "org": [
-    "xai"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-18T17:53:34.000Z",
-   "dupes": 1,
-   "score": 0.304,
+   "score": 0.305,
    "tier": 3
   },
   {
@@ -348,6 +317,37 @@
    "tier": 3
   },
   {
+   "id": "860d6759b6e0f3ecb84c6b7f3d191a6300db20da",
+   "title": "Cute Critters Come to the Cloud: ‘Aniimo’ Launches on GeForce NOW",
+   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-aniimo",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "A new creature-catching adventure is ready to stream from the cloud this week.  Pawprint Studio’s Aniimo arrives on GeForce NOW at launch, inviting gamers to explore the vibrant continent of Idyll across supported…",
+   "published": "2026-09-17T13:00:55.000Z",
+   "dupes": 1,
+   "score": 0.301,
+   "tier": 3
+  },
+  {
+   "id": "7456d8000ebfebb29c1f5384d31ad16c6e65a8ee",
+   "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+   "source": "The Verge AI",
+   "org": [
+    "openai",
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning.",
+   "published": "2026-09-18T21:07:24.000Z",
+   "dupes": 1,
+   "score": 0.291,
+   "tier": 3
+  },
+  {
    "id": "57dd0cc73353ce5b30993b0d644093fdcd5af415",
    "title": "DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression",
    "url": "https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html",
@@ -359,23 +359,7 @@
    "tldr": "",
    "published": "2026-09-17T01:39:47.000Z",
    "dupes": 1,
-   "score": 0.294,
-   "tier": 3
-  },
-  {
-   "id": "907e9d53087619686dbf6e92b18f5dd18f972a46",
-   "title": "Security researchers used Claude to help them hack into OpenAI",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
-   "source": "The Verge AI",
-   "org": [
-    "anthropic",
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "8 and 5, The Wall Street Journal reports.",
-   "published": "2026-09-18T15:30:16.000Z",
-   "dupes": 1,
-   "score": 0.29,
+   "score": 0.289,
    "tier": 3
   },
   {
@@ -390,7 +374,7 @@
    "tldr": "System performance, efficient infrastructure scaling and continuous software optimization are key levers that determine AI inference economics.  Higher system performance means more tokens generated, resulting in higher…",
    "published": "2026-09-16T15:00:48.000Z",
    "dupes": 1,
-   "score": 0.289,
+   "score": 0.286,
    "tier": 3
   },
   {
@@ -406,7 +390,22 @@
    "tldr": "AI factories are the infrastructure of the intelligence era.  Scaling them responsibly will depend as much on innovation across the grid as inside the data center.",
    "published": "2026-09-16T13:00:33.000Z",
    "dupes": 1,
-   "score": 0.288,
+   "score": 0.285,
+   "tier": 3
+  },
+  {
+   "id": "7a7bb84cf160996ded075387da9d48448d32ae05",
+   "title": "Grok Voice Transcribe 2.0",
+   "url": "https://x.ai/news/grok-voice-transcribe-2",
+   "source": "HN · xAI",
+   "org": [
+    "xai"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-18T17:53:34.000Z",
+   "dupes": 1,
+   "score": 0.285,
    "tier": 3
   },
   {
@@ -421,37 +420,7 @@
    "tldr": "K.  alone last year.",
    "published": "2026-09-16T05:00:42.000Z",
    "dupes": 1,
-   "score": 0.284,
-   "tier": 3
-  },
-  {
-   "id": "282315cad5df13bfa586658c55f21766d7ed63d2",
-   "title": "What we’ve learned from Microsoft’s own AI transformation",
-   "url": "https://blogs.microsoft.com/blog/2026/09/17/what-weve-learned-from-microsofts-own-ai-transformation",
-   "source": "Microsoft Blog",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "AI is reshaping work faster than any organization has fully mastered.  Across industries, the conversation has shifted from what AI can do to how companies can use AI to create business value and expand what people are…",
-   "published": "2026-09-17T14:00:05.000Z",
-   "dupes": 1,
-   "score": 0.284,
-   "tier": 3
-  },
-  {
-   "id": "883ac55269fa2125e25679530fc99ab5b677b741",
-   "title": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train",
-   "url": "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train",
-   "source": "Google Research",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Algorithms & Theory",
-   "published": "2026-09-15T20:00:00.000Z",
-   "dupes": 1,
-   "score": 0.282,
+   "score": 0.283,
    "tier": 3
   },
   {
@@ -466,7 +435,22 @@
    "tldr": "Know everything.  Do anything.",
    "published": "2026-09-15T22:24:34.000Z",
    "dupes": 1,
-   "score": 0.282,
+   "score": 0.281,
+   "tier": 3
+  },
+  {
+   "id": "883ac55269fa2125e25679530fc99ab5b677b741",
+   "title": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train",
+   "url": "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train",
+   "source": "Google Research",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Algorithms & Theory",
+   "published": "2026-09-15T20:00:00.000Z",
+   "dupes": 1,
+   "score": 0.28,
    "tier": 3
   },
   {
@@ -481,7 +465,7 @@
    "tldr": "On a sweltering August evening in Silicon Valley, as the sun dropped and air conditioning loads spiked, Silicon Valley Power sent a signal to an AI factory to adjust its power consumption.",
    "published": "2026-09-15T16:55:59.000Z",
    "dupes": 1,
-   "score": 0.281,
+   "score": 0.28,
    "tier": 3
   },
   {
@@ -496,7 +480,7 @@
    "tldr": "Ian Buck, vice president of hyperscale and high-performance computing at NVIDIA, Tuesday spoke on AI factory efficiency at the AI Infra Summit, the Santa Clara Convention Center event that has morphed into a Coachella…",
    "published": "2026-09-15T16:55:40.000Z",
    "dupes": 1,
-   "score": 0.281,
+   "score": 0.28,
    "tier": 3
   },
   {
@@ -533,6 +517,37 @@
    "tier": 3
   },
   {
+   "id": "282315cad5df13bfa586658c55f21766d7ed63d2",
+   "title": "What we’ve learned from Microsoft’s own AI transformation",
+   "url": "https://blogs.microsoft.com/blog/2026/09/17/what-weve-learned-from-microsofts-own-ai-transformation",
+   "source": "Microsoft Blog",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "AI is reshaping work faster than any organization has fully mastered.  Across industries, the conversation has shifted from what AI can do to how companies can use AI to create business value and expand what people are…",
+   "published": "2026-09-17T14:00:05.000Z",
+   "dupes": 1,
+   "score": 0.277,
+   "tier": 3
+  },
+  {
+   "id": "907e9d53087619686dbf6e92b18f5dd18f972a46",
+   "title": "Security researchers used Claude to help them hack into OpenAI",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
+   "source": "The Verge AI",
+   "org": [
+    "anthropic",
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "8 and 5, The Wall Street Journal reports.",
+   "published": "2026-09-18T15:30:16.000Z",
+   "dupes": 1,
+   "score": 0.273,
+   "tier": 3
+  },
+  {
    "id": "16a7b27ed0ae9a7589c93514face6cdccc810d1c",
    "title": "Your Agent Aced the Task. Will It Do It Again?",
    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
@@ -542,7 +557,7 @@
    "tldr": "",
    "published": "2026-09-15T16:00:44.000Z",
    "dupes": 1,
-   "score": 0.268,
+   "score": 0.267,
    "tier": 3
   },
   {
@@ -557,7 +572,7 @@
    "tldr": "Microsoft has been in the business of education for five decades.  Since the earliest days of this company, we have worked alongside educators, students, families and educational leaders through each new wave of…",
    "published": "2026-09-16T18:59:58.000Z",
    "dupes": 1,
-   "score": 0.266,
+   "score": 0.263,
    "tier": 3
   },
   {
@@ -572,7 +587,7 @@
    "tldr": "People and companies are using AI hardware and software to make life easier and more accessible for everyone.  That’s the case with smartARM, a Toronto-based startup developing a vision-first bionic arm prototype that…",
    "published": "2026-09-16T16:00:19.000Z",
    "dupes": 1,
-   "score": 0.264,
+   "score": 0.262,
    "tier": 3
   },
   {
@@ -587,7 +602,7 @@
    "tldr": "We're introducing Meta One, a new subscription service on Facebook, Instagram, WhatsApp, and Meta AI that offers more AI usage, enhanced expression features, and tools for creators and businesses.  The post Introducing…",
    "published": "2026-09-15T15:00:59.000Z",
    "dupes": 1,
-   "score": 0.256,
+   "score": 0.254,
    "tier": 3
   },
   {
@@ -602,7 +617,7 @@
    "tldr": "",
    "published": "2026-09-15T15:28:23.000Z",
    "dupes": 1,
-   "score": 0.202,
+   "score": 0.201,
    "tier": 3
   }
  ]
