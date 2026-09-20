@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-20T08:10:05.100Z",
+ "generated": "2026-09-20T13:08:39.870Z",
  "items": [
   {
    "id": "9eee1724b36d55796bc13fe322f4c741899c4130",
@@ -13,8 +13,38 @@
    "tldr": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
    "published": "2026-09-19T13:39:32.000Z",
    "dupes": 3,
-   "score": 0.669,
+   "score": 0.729,
    "tier": 1
+  },
+  {
+   "id": "be4dc97c2f8f4247b09f4e31ea6520dc51e74cc8",
+   "title": "Researchers escape OpenAI Codex sandbox to run commands on host",
+   "url": "https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host",
+   "source": "BleepingComputer",
+   "org": [
+    "openai"
+   ],
+   "topic": "security",
+   "tldr": "Researchers escaped OpenAI's Codex sandbox two ways, one running commands on a developer's machine from its most locked-down mode.  OpenAI has patched both.",
+   "published": "2026-09-20T12:00:00.000Z",
+   "dupes": 1,
+   "score": 0.701,
+   "tier": 2
+  },
+  {
+   "id": "a1e749a7f8ab8d68ab3eda96b5d58cc5e7ff7093",
+   "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
+   "url": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang",
+   "source": "Ars Technica",
+   "org": [
+    "google"
+   ],
+   "topic": "security",
+   "tldr": "Google’s threat intelligence group said it had a mole inside TeamPCP's inner circle.",
+   "published": "2026-09-20T11:07:00.000Z",
+   "dupes": 1,
+   "score": 0.669,
+   "tier": 2
   },
   {
    "id": "baf58204e2674475feb9a0daab09efd2d80424e2",
@@ -29,7 +59,7 @@
    "tldr": "Researchers used Claude to reach an OpenAI employee account and sensitive GitHub data.",
    "published": "2026-09-18T13:30:12.000Z",
    "dupes": 2,
-   "score": 0.64,
+   "score": 0.631,
    "tier": 2
   },
   {
@@ -45,22 +75,7 @@
    "tldr": "Three researchers at the security firm Hacktron used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository.…",
    "published": "2026-09-19T18:36:53.000Z",
    "dupes": 1,
-   "score": 0.64,
-   "tier": 2
-  },
-  {
-   "id": "738f3a26457d6485fc4a7f8981f0b4d77cfc2229",
-   "title": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-   "url": "https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions",
-   "source": "Hacker News",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-20T05:46:19.000Z",
-   "dupes": 1,
-   "score": 0.628,
+   "score": 0.622,
    "tier": 2
   },
   {
@@ -75,37 +90,37 @@
    "tldr": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
    "published": "2026-09-18T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.606,
-   "tier": 2
-  },
-  {
-   "id": "d6d9aec5a8799aa5c25fdc75da5b3c10cdd8d4f3",
-   "title": "Anthropic is operating a lab that conducts biology experiments",
-   "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments",
-   "source": "TechCrunch",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "AI leaders have been promising that AI is the key to curing human disease.  Anthropic researchers have also been warning that AI might kill us all.",
-   "published": "2026-09-18T23:13:31.000Z",
-   "dupes": 1,
    "score": 0.598,
    "tier": 2
   },
   {
-   "id": "58f2b0077885815965d55f1f2d8d2d1ef8ee8002",
-   "title": "Anthropic’s first embedded evaluator is … Accenture?",
-   "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture",
-   "source": "TechCrunch",
+   "id": "c2855615ec11e2e3d19d93e4ff1bab3d6a7e7902",
+   "title": "MilleMiglia: A realistic instance generator for middle-mile logistics",
+   "url": "https://research.google/blog/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics",
+   "source": "Google Research",
    "org": [
-    "anthropic"
+    "google"
    ],
    "topic": "ai",
-   "tldr": "Accenture is about to take on its most high-risk consulting engagement ever.",
-   "published": "2026-09-18T21:44:33.000Z",
+   "tldr": "Algorithms & Theory",
+   "published": "2026-09-18T17:46:09.000Z",
    "dupes": 1,
-   "score": 0.594,
+   "score": 0.592,
+   "tier": 2
+  },
+  {
+   "id": "71746d073e508b6a03b03454b40cad8a393378e2",
+   "title": "Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up",
+   "url": "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html",
+   "source": "The Hacker News",
+   "org": [
+    "google"
+   ],
+   "topic": "security",
+   "tldr": "Google's Gemini model has become the latest artificial intelligence (AI) system to access the internet and break into other companies during a cybersecurity evaluation.  The development was first reported by The Wall…",
+   "published": "2026-09-19T07:51:34.000Z",
+   "dupes": 1,
+   "score": 0.591,
    "tier": 2
   },
   {
@@ -120,22 +135,7 @@
    "tldr": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
    "published": "2026-09-18T18:49:30.000Z",
    "dupes": 1,
-   "score": 0.588,
-   "tier": 2
-  },
-  {
-   "id": "47b87cc27bae1888aaa2407cd0a4b21cf9935957",
-   "title": "Partnering with Accenture on embedded evaluation",
-   "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
-   "source": "Anthropic News",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-18T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.587,
+   "score": 0.578,
    "tier": 2
   },
   {
@@ -150,22 +150,37 @@
    "tldr": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
    "published": "2026-09-17T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.573,
+   "score": 0.568,
    "tier": 2
   },
   {
-   "id": "a29db0108686e158aad8b60d4957838bd4c846e1",
-   "title": "Introducing the Life Sciences Verification Program",
-   "url": "https://www.anthropic.com/news/life-sciences-verification-program",
-   "source": "Anthropic News",
+   "id": "6173cb1f27902e8cca3007ab450890bb529bcb5b",
+   "title": "The future of practice: Enabling teachers to create learning interactives with generative UI",
+   "url": "https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui",
+   "source": "Google Research",
    "org": [
-    "anthropic"
+    "google"
    ],
    "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-17T00:00:00.000Z",
+   "tldr": "Education Innovation",
+   "published": "2026-09-17T20:45:00.000Z",
    "dupes": 1,
-   "score": 0.562,
+   "score": 0.561,
+   "tier": 2
+  },
+  {
+   "id": "efe51460d1bf54a2301d47fee8a69b95f237e9cd",
+   "title": "Webinar: Which Google Workspace security controls actually matter?",
+   "url": "https://www.bleepingcomputer.com/news/security/webinar-which-google-workspace-security-controls-actually-matter",
+   "source": "BleepingComputer",
+   "org": [
+    "google"
+   ],
+   "topic": "security",
+   "tldr": "Fast-growing companies face countless recommendations for securing Google Workspace, but not every control provides the same value.  This webinar examines real-world breaches to explore which security controls matter…",
+   "published": "2026-09-18T13:10:19.000Z",
+   "dupes": 1,
+   "score": 0.56,
    "tier": 2
   },
   {
@@ -180,23 +195,7 @@
    "tldr": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
    "published": "2026-09-17T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.562,
-   "tier": 2
-  },
-  {
-   "id": "7456d8000ebfebb29c1f5384d31ad16c6e65a8ee",
-   "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
-   "source": "The Verge AI",
-   "org": [
-    "openai",
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning.",
-   "published": "2026-09-18T21:07:24.000Z",
-   "dupes": 1,
-   "score": 0.561,
+   "score": 0.558,
    "tier": 2
   },
   {
@@ -211,7 +210,7 @@
    "tldr": "S.  cities to build practical AI skills safely.",
    "published": "2026-09-16T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.556,
+   "score": 0.553,
    "tier": 3
   },
   {
@@ -226,67 +225,68 @@
    "tldr": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
    "published": "2026-09-16T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.556,
+   "score": 0.553,
    "tier": 3
   },
   {
-   "id": "e816d066d953809d95a1ff4880723d1f191380c7",
-   "title": "OpenAI details more cases of AI agents taking unauthorized actions",
-   "url": "https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions",
-   "source": "BleepingComputer",
-   "org": [
-    "openai"
-   ],
-   "topic": "security",
-   "tldr": "OpenAI has presented new examples of what they call \"AI model misalignment\" from the past six months, including unauthorized file uploads, following self-generated instructions, hiding mistakes, and leveraging exposed…",
-   "published": "2026-09-17T18:55:12.000Z",
-   "dupes": 1,
-   "score": 0.54,
-   "tier": 3
-  },
-  {
-   "id": "71746d073e508b6a03b03454b40cad8a393378e2",
-   "title": "Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up",
-   "url": "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html",
-   "source": "The Hacker News",
+   "id": "0683c017ff7a8854d4e20a4558b8a03a71e38236",
+   "title": "Google announces new experimental \"CC\" AI agent for families",
+   "url": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families",
+   "source": "Ars Technica",
    "org": [
     "google"
    ],
-   "topic": "security",
-   "tldr": "Google's Gemini model has become the latest artificial intelligence (AI) system to access the internet and break into other companies during a cybersecurity evaluation.  The development was first reported by The Wall…",
-   "published": "2026-09-19T07:51:34.000Z",
+   "topic": "ai",
+   "tldr": "Multiple family members can share data to help the agent make plans and complete tasks.",
+   "published": "2026-09-17T20:24:34.000Z",
    "dupes": 1,
-   "score": 0.534,
+   "score": 0.552,
    "tier": 3
   },
   {
-   "id": "a9b1fe27dfaf52a7c462f4d17886a64235a38119",
-   "title": "OpenAI Reveals Six Model Incidents Involving Hidden Failures and Unauthorized Uploads",
-   "url": "https://thehackernews.com/2026/09/openai-reveals-six-model-incidents.html",
-   "source": "The Hacker News",
+   "id": "52752974efc060afa422288cf05c3cab7e220271",
+   "title": "Reimagining advertising with AI",
+   "url": "https://openai.com/index/reimagining-advertising-with-ai",
+   "source": "OpenAI Blog",
    "org": [
     "openai"
    ],
-   "topic": "security",
-   "tldr": "OpenAI on Wednesday disclosed six new instances of \"unexpected or concerning model behavior\" that took place over the past six months, while sharing a new framework for reporting, tracking, investigating, and disclosing…",
-   "published": "2026-09-17T09:53:38.000Z",
+   "topic": "ai",
+   "tldr": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+   "published": "2026-09-16T13:00:00.000Z",
    "dupes": 1,
-   "score": 0.522,
+   "score": 0.551,
    "tier": 3
   },
   {
-   "id": "efe51460d1bf54a2301d47fee8a69b95f237e9cd",
-   "title": "Webinar: Which Google Workspace security controls actually matter?",
-   "url": "https://www.bleepingcomputer.com/news/security/webinar-which-google-workspace-security-controls-actually-matter",
-   "source": "BleepingComputer",
+   "id": "973a91148c502943f59fcd583aa0a6ef4561f570",
+   "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+   "url": "https://openai.com/index/hex-gpt-6-astra",
+   "source": "OpenAI Blog",
    "org": [
-    "google"
+    "openai"
    ],
-   "topic": "security",
-   "tldr": "Fast-growing companies face countless recommendations for securing Google Workspace, but not every control provides the same value.  This webinar examines real-world breaches to explore which security controls matter…",
-   "published": "2026-09-18T13:10:19.000Z",
+   "topic": "ai",
+   "tldr": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
+   "published": "2026-09-16T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.519,
+   "score": 0.55,
+   "tier": 3
+  },
+  {
+   "id": "7456d8000ebfebb29c1f5384d31ad16c6e65a8ee",
+   "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+   "source": "The Verge AI",
+   "org": [
+    "openai",
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning.",
+   "published": "2026-09-18T21:07:24.000Z",
+   "dupes": 1,
+   "score": 0.55,
    "tier": 3
   },
   {
@@ -302,22 +302,52 @@
    "tldr": "AI factories are the infrastructure of the intelligence era.  Scaling them responsibly will depend as much on innovation across the grid as inside the data center.",
    "published": "2026-09-16T13:00:33.000Z",
    "dupes": 1,
-   "score": 0.515,
+   "score": 0.535,
    "tier": 3
   },
   {
-   "id": "4bb4405e2752f505146b2925c1055206717e742b",
-   "title": "One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude",
-   "url": "https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html",
-   "source": "The Hacker News",
+   "id": "e816d066d953809d95a1ff4880723d1f191380c7",
+   "title": "OpenAI details more cases of AI agents taking unauthorized actions",
+   "url": "https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions",
+   "source": "BleepingComputer",
    "org": [
-    "anthropic"
+    "openai"
    ],
    "topic": "security",
-   "tldr": "Security researchers at Forever Security have shown that one ordinary browser extension could take control of the AI assistants built into five Chromium-based products: Gemini Live in Chrome, Perplexity Comet, Microsoft…",
-   "published": "2026-09-16T14:36:44.000Z",
+   "tldr": "OpenAI has presented new examples of what they call \"AI model misalignment\" from the past six months, including unauthorized file uploads, following self-generated instructions, hiding mistakes, and leveraging exposed…",
+   "published": "2026-09-17T18:55:12.000Z",
    "dupes": 1,
-   "score": 0.507,
+   "score": 0.535,
+   "tier": 3
+  },
+  {
+   "id": "a9b1fe27dfaf52a7c462f4d17886a64235a38119",
+   "title": "OpenAI Reveals Six Model Incidents Involving Hidden Failures and Unauthorized Uploads",
+   "url": "https://thehackernews.com/2026/09/openai-reveals-six-model-incidents.html",
+   "source": "The Hacker News",
+   "org": [
+    "openai"
+   ],
+   "topic": "security",
+   "tldr": "OpenAI on Wednesday disclosed six new instances of \"unexpected or concerning model behavior\" that took place over the past six months, while sharing a new framework for reporting, tracking, investigating, and disclosing…",
+   "published": "2026-09-17T09:53:38.000Z",
+   "dupes": 1,
+   "score": 0.518,
+   "tier": 3
+  },
+  {
+   "id": "6004b9f9f53e427728f31791e44996044d1f5bdf",
+   "title": "Google Patches Pixel Modem Flaw Amid Signs of Limited Targeted Exploitation",
+   "url": "https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html",
+   "source": "The Hacker News",
+   "org": [
+    "google"
+   ],
+   "topic": "security",
+   "tldr": "Google has disclosed that a high-severity security flaw in its Pixel Cellular Modem has come under exploitation in the wild.  0), is a privilege escalation flaw.",
+   "published": "2026-09-16T11:15:58.000Z",
+   "dupes": 1,
+   "score": 0.502,
    "tier": 3
   },
   {
@@ -332,7 +362,7 @@
    "tldr": "Microsoft Teams will soon let administrators tweak the list of file extensions commonly associated with security threats to meet their company's security requirements.",
    "published": "2026-09-18T13:58:40.000Z",
    "dupes": 1,
-   "score": 0.495,
+   "score": 0.459,
    "tier": 3
   },
   {
@@ -347,37 +377,7 @@
    "tldr": "Microsoft has resolved a known issue that causes incorrect alerts warning that Defender Antivirus was turned off after installing recent updates.",
    "published": "2026-09-18T12:16:32.000Z",
    "dupes": 1,
-   "score": 0.493,
-   "tier": 3
-  },
-  {
-   "id": "88d319b829f0eec9f8ba5f249982e920826b9955",
-   "title": "Microsoft fixes broken copy and paste for Excel 2016 users",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-copy-and-paste-for-excel-2016-users",
-   "source": "BleepingComputer",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "security",
-   "tldr": "Microsoft has fixed a known issue that causes copy-and-paste failures for some Excel users after installing the September 2026 KB5002914 security update.",
-   "published": "2026-09-18T07:35:31.000Z",
-   "dupes": 1,
-   "score": 0.489,
-   "tier": 3
-  },
-  {
-   "id": "d12dd718a0ca78aa68bf388b2b5ffbc0d8aca992",
-   "title": "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation",
-   "url": "https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html",
-   "source": "The Hacker News",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "security",
-   "tldr": "Microsoft has released fixes for a maximum-severity security flaw in Azure AI Foundry that could be exploited to achieve privilege escalation.  No customer action is required.",
-   "published": "2026-09-18T12:47:04.000Z",
-   "dupes": 1,
-   "score": 0.486,
+   "score": 0.458,
    "tier": 3
   },
   {
@@ -392,7 +392,7 @@
    "tldr": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
    "published": "2026-09-17T08:22:12.000Z",
    "dupes": 1,
-   "score": 0.482,
+   "score": 0.449,
    "tier": 3
   },
   {
@@ -407,7 +407,7 @@
    "tldr": "m.  EDT on Monday, Sept.",
    "published": "2026-09-18T19:56:08.000Z",
    "dupes": 1,
-   "score": 0.469,
+   "score": 0.438,
    "tier": 3
   },
   {
@@ -422,7 +422,7 @@
    "tldr": "Using data from the Japan-led XRISM (X-ray Imaging and Spectroscopy Mission) observatory, astronomers have directly observed a giant star’s outflow, called a stellar wind, being captured by its compact companion and…",
    "published": "2026-09-18T18:02:53.000Z",
    "dupes": 1,
-   "score": 0.467,
+   "score": 0.436,
    "tier": 3
   },
   {
@@ -438,7 +438,7 @@
    "tldr": "To continue regular crew transportation to the International Space Station, NASA has awarded SpaceX three additional missions through a contract modification.",
    "published": "2026-09-18T16:02:31.000Z",
    "dupes": 1,
-   "score": 0.465,
+   "score": 0.434,
    "tier": 3
   },
   {
@@ -453,7 +453,7 @@
    "tldr": "Though the spiral galaxy in this new image from the NASA/ESA Hubble Space Telescope seems serene, it hides a chaotic secret.  This galaxy is NGC 4698, and it lies about 55 million light-years away in the constellation…",
    "published": "2026-09-18T13:38:12.000Z",
    "dupes": 1,
-   "score": 0.463,
+   "score": 0.432,
    "tier": 3
   },
   {
@@ -468,7 +468,7 @@
    "tldr": "NASA has selected SpaceX to provide launch services for the agency’s StarBurst mission, a small satellite designed to investigate neutron star mergers and the origins of short gamma-ray bursts.",
    "published": "2026-09-17T20:37:09.000Z",
    "dupes": 1,
-   "score": 0.45,
+   "score": 0.421,
    "tier": 3
   },
   {
@@ -484,7 +484,7 @@
    "tldr": "Media accreditation is open for the next cargo launch that will deliver NASA science investigations, supplies, and equipment to the International Space Station.  The 35th SpaceX commercial resupply services mission to…",
    "published": "2026-09-17T18:32:30.000Z",
    "dupes": 1,
-   "score": 0.449,
+   "score": 0.42,
    "tier": 3
   },
   {
@@ -500,7 +500,7 @@
    "tldr": "\"They should fly their capsule.",
    "published": "2026-09-17T14:37:37.000Z",
    "dupes": 1,
-   "score": 0.423,
+   "score": 0.395,
    "tier": 3
   },
   {
@@ -516,7 +516,20 @@
    "tldr": "\"NASA’s award decision appears to be inconsistent with the eligibility criteria.\"",
    "published": "2026-09-14T21:32:22.000Z",
    "dupes": 1,
-   "score": 0.405,
+   "score": 0.378,
+   "tier": 3
+  },
+  {
+   "id": "3acf20d8bc231b2b556a929f227b2be551487293",
+   "title": "What do you do with a humanoid robot when it breaks down?",
+   "url": "https://www.therobotreport.com/what-do-you-do-with-a-humanoid-robot-when-it-breaks-down",
+   "source": "The Robot Report",
+   "org": [],
+   "topic": "robotics",
+   "tldr": "Decommissioning a humanoid robot is not a matter of traditional scrapping.  It's a highly technical, high-stakes surgical endeavor.",
+   "published": "2026-09-20T12:45:45.000Z",
+   "dupes": 1,
+   "score": 0.366,
    "tier": 3
   },
   {
@@ -531,7 +544,7 @@
    "tldr": "“I can tell you SpaceX has already gone captive.\"",
    "published": "2026-09-18T11:00:11.000Z",
    "dupes": 2,
-   "score": 0.372,
+   "score": 0.356,
    "tier": 3
   },
   {
@@ -546,7 +559,7 @@
    "tldr": "A new creature-catching adventure is ready to stream from the cloud this week.  Pawprint Studio’s Aniimo arrives on GeForce NOW at launch, inviting gamers to explore the vibrant continent of Idyll across supported…",
    "published": "2026-09-17T13:00:55.000Z",
    "dupes": 1,
-   "score": 0.312,
+   "score": 0.299,
    "tier": 3
   },
   {
@@ -561,7 +574,7 @@
    "tldr": "The European Space Agency (ESA) and The Pokémon Company International (TPCI) have launched an official collaboration to celebrate World Space Week 2026 from 4–10 October 2026.",
    "published": "2026-09-18T22:01:00.000Z",
    "dupes": 1,
-   "score": 0.307,
+   "score": 0.292,
    "tier": 3
   },
   {
@@ -576,7 +589,7 @@
    "tldr": "System performance, efficient infrastructure scaling and continuous software optimization are key levers that determine AI inference economics.  Higher system performance means more tokens generated, resulting in higher…",
    "published": "2026-09-16T15:00:48.000Z",
    "dupes": 1,
-   "score": 0.302,
+   "score": 0.29,
    "tier": 3
   },
   {
@@ -591,7 +604,7 @@
    "tldr": "K.  alone last year.",
    "published": "2026-09-16T05:00:42.000Z",
    "dupes": 1,
-   "score": 0.299,
+   "score": 0.288,
    "tier": 3
   },
   {
@@ -606,7 +619,7 @@
    "tldr": "Know everything.  Do anything.",
    "published": "2026-09-15T22:24:34.000Z",
    "dupes": 1,
-   "score": 0.298,
+   "score": 0.286,
    "tier": 3
   },
   {
@@ -621,7 +634,7 @@
    "tldr": "On a sweltering August evening in Silicon Valley, as the sun dropped and air conditioning loads spiked, Silicon Valley Power sent a signal to an AI factory to adjust its power consumption.",
    "published": "2026-09-15T16:55:59.000Z",
    "dupes": 1,
-   "score": 0.297,
+   "score": 0.285,
    "tier": 3
   },
   {
@@ -636,7 +649,7 @@
    "tldr": "Ian Buck, vice president of hyperscale and high-performance computing at NVIDIA, Tuesday spoke on AI factory efficiency at the AI Infra Summit, the Santa Clara Convention Center event that has morphed into a Coachella…",
    "published": "2026-09-15T16:55:40.000Z",
    "dupes": 1,
-   "score": 0.297,
+   "score": 0.285,
    "tier": 3
   },
   {
@@ -654,7 +667,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.295,
+   "score": 0.284,
    "tier": 3
   },
   {
@@ -669,7 +682,7 @@
    "tldr": "As local models become more capable, AI agents can handle more work directly on a PC while keeping sensitive information on the device.  Portable Computer is a local version of the agent Perplexity Computer that plans…",
    "published": "2026-09-14T15:00:52.000Z",
    "dupes": 1,
-   "score": 0.293,
+   "score": 0.282,
    "tier": 3
   },
   {
@@ -682,7 +695,7 @@
    "tldr": "Hirebotics said these new capabilities extend the working range of the cobots, giving manufacturers greater flexibility.  The post Hirebotics adds line tracking and linear rail capabilities to its cobots appeared first…",
    "published": "2026-09-19T12:40:50.000Z",
    "dupes": 1,
-   "score": 0.292,
+   "score": 0.277,
    "tier": 3
   },
   {
@@ -697,7 +710,7 @@
    "tldr": "The European Space Agency (ESA) has signed 18 consolidation contracts bringing together nearly 80 companies to study new secure and resilient connectivity services.  The contracts also cover associated mission concepts…",
    "published": "2026-09-17T08:07:00.000Z",
    "dupes": 1,
-   "score": 0.278,
+   "score": 0.267,
    "tier": 3
   },
   {
@@ -712,7 +725,7 @@
    "tldr": "On 16 September at its Industry Space Days 2026 event at ESA–ESTEC in the Netherlands, the European Space Agency (ESA) honoured three space companies with this year’s prestigious awards for excellence and innovation.",
    "published": "2026-09-17T07:10:00.000Z",
    "dupes": 1,
-   "score": 0.278,
+   "score": 0.266,
    "tier": 3
   },
   {
@@ -725,7 +738,7 @@
    "tldr": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an…",
    "published": "2026-09-19T15:00:00.000Z",
    "dupes": 1,
-   "score": 0.265,
+   "score": 0.252,
    "tier": 3
   },
   {
@@ -738,7 +751,7 @@
    "tldr": "The real robotics opportunity isn’t a humanoid in every home—it’s packaging robots for the jobs businesses need done today.  The post The picks-and-shovels strategy behind the robotics boom appeared first on The Robot…",
    "published": "2026-09-18T18:57:36.000Z",
    "dupes": 1,
-   "score": 0.247,
+   "score": 0.238,
    "tier": 3
   },
   {
@@ -751,7 +764,7 @@
    "tldr": "The deal has been rumored for a couple of months, but it is now being reviewed by the Committee on Foreign Investment in the United States.  The post SoftBank agrees to acquire Robotics and AI Institute appeared first…",
    "published": "2026-09-18T17:14:32.000Z",
    "dupes": 1,
-   "score": 0.244,
+   "score": 0.234,
    "tier": 3
   },
   {
@@ -764,7 +777,7 @@
    "tldr": "Sanjay Aggarwal and Betsy Mulé of F-Prime Capital will unveil the firm's State of Robotics Investments report at RoboBusiness.  The post F-Prime Capital to give insights on the state of robotics investments at…",
    "published": "2026-09-18T16:16:44.000Z",
    "dupes": 1,
-   "score": 0.242,
+   "score": 0.233,
    "tier": 3
   },
   {
@@ -777,7 +790,7 @@
    "tldr": "This is the last major test of the system before Icarus Robotics will be sending JOY the the ISS in early 2027.  The post Icarus Robotics flies ISS-bound robot in microgravity for the first time appeared first on The…",
    "published": "2026-09-18T13:07:45.000Z",
    "dupes": 1,
-   "score": 0.236,
+   "score": 0.228,
    "tier": 3
   },
   {
@@ -790,7 +803,7 @@
    "tldr": "Scaleout deploys decentralized AI-driven learning to military bases and drones.",
    "published": "2026-09-17T22:12:58.000Z",
    "dupes": 1,
-   "score": 0.229,
+   "score": 0.223,
    "tier": 3
   },
   {
@@ -803,7 +816,7 @@
    "tldr": "Training systems that allow robots to negotiate the real world are getting more sophisticated.",
    "published": "2026-09-17T23:00:47.000Z",
    "dupes": 1,
-   "score": 0.222,
+   "score": 0.216,
    "tier": 3
   },
   {
@@ -816,7 +829,7 @@
    "tldr": "Seven years after launching Control, Remedy returns to a paranatural Manhattan with Control Resonant.",
    "published": "2026-09-18T16:15:36.000Z",
    "dupes": 1,
-   "score": 0.222,
+   "score": 0.214,
    "tier": 3
   },
   {
@@ -829,7 +842,7 @@
    "tldr": "With tens of thousands of jobs lost across industry in the past few years, to say this is a demoralising time to be working in video games would be something of an understatement.",
    "published": "2026-09-18T15:52:17.000Z",
    "dupes": 1,
-   "score": 0.221,
+   "score": 0.213,
    "tier": 3
   },
   {
@@ -842,7 +855,7 @@
    "tldr": "biz HR Summit, sponsored by Amiqus , which will be held next month at the Royal Institution in London.",
    "published": "2026-09-18T15:44:15.000Z",
    "dupes": 1,
-   "score": 0.221,
+   "score": 0.213,
    "tier": 3
   },
   {
@@ -857,7 +870,7 @@
    "tldr": "Some may argue Grand Theft Auto 6 does not require a marketing campaign, but Take-Two Interactive president Strauss Zelnick emphasised that established brands need to maintain awareness.",
    "published": "2026-09-18T10:22:40.000Z",
    "dupes": 1,
-   "score": 0.216,
+   "score": 0.209,
    "tier": 3
   },
   {
@@ -870,7 +883,7 @@
    "tldr": "Swedish trade unions Unionen and Sveriges Ingenj&ouml;rer have issued a strike notice against King after executives rejected a proposed collective bargaining agreement last month .",
    "published": "2026-09-18T09:51:27.000Z",
    "dupes": 1,
-   "score": 0.212,
+   "score": 0.205,
    "tier": 3
   },
   {
@@ -883,7 +896,7 @@
    "tldr": "When long-travel motion demands more than ball screws and linear motors can deliver, rack-and-pinion systems can offer a compelling combination of speed, precision, scalability, and cost.  Here’s when engineers should…",
    "published": "2026-09-17T18:34:16.000Z",
    "dupes": 1,
-   "score": 0.209,
+   "score": 0.204,
    "tier": 3
   },
   {
@@ -896,7 +909,7 @@
    "tldr": "The August 2026 Robotics Investments Report includes a table with all 162 investments rounds, complete with breakdowns by technology, country, funding stage, and more.  9B in August 2026 appeared first on The Robot…",
    "published": "2026-09-17T16:18:55.000Z",
    "dupes": 1,
-   "score": 0.206,
+   "score": 0.201,
    "tier": 3
   },
   {
@@ -909,7 +922,7 @@
    "tldr": "With its new program and its Robotics Capability Framework, Arm aims to bring more clarity and unity to the robotics industry.  The post Arm Total Design for Physical AI brings more than 80 developers together appeared…",
    "published": "2026-09-17T12:30:13.000Z",
    "dupes": 1,
-   "score": 0.202,
+   "score": 0.198,
    "tier": 3
   },
   {
@@ -922,7 +935,7 @@
    "tldr": "War damage to data centers exceeded what AWS services are designed to withstand.",
    "published": "2026-09-16T16:40:11.000Z",
    "dupes": 1,
-   "score": 0.196,
+   "score": 0.193,
    "tier": 3
   },
   {
@@ -935,22 +948,7 @@
    "tldr": "OLogic CEO Ted Larson will explore the foundations of egocentric robot learning and the technical challenges involved in building these systems.  The post OLogic to share how robots can learn from human demonstrations…",
    "published": "2026-09-16T20:31:29.000Z",
    "dupes": 1,
-   "score": 0.189,
-   "tier": 3
-  },
-  {
-   "id": "609f382fbb82d2d3dcb5034ecfe15c8f3d7b6ce5",
-   "title": "The evolution of Digit: Agility Robotics’ journey from Cassie to Digit 5",
-   "url": "https://www.therobotreport.com/the-evolution-of-digit-agility-robotics-journey-from-cassie-to-digit-5",
-   "source": "The Robot Report",
-   "org": [
-    "agility"
-   ],
-   "topic": "robotics",
-   "tldr": "From Cassie, to five different versions of Digit, Agility Robotics has adapted its technology to fit industrial tasks.  The post The evolution of Digit: Agility Robotics’ journey from Cassie to Digit 5 appeared first on…",
-   "published": "2026-09-16T17:45:50.000Z",
-   "dupes": 1,
-   "score": 0.187,
+   "score": 0.186,
    "tier": 3
   },
   {
@@ -965,7 +963,7 @@
    "tldr": "Wang Xingxing micromanaged Unitree to success—will his leadership style scale?",
    "published": "2026-09-14T19:38:46.000Z",
    "dupes": 1,
-   "score": 0.177,
+   "score": 0.176,
    "tier": 3
   }
  ]

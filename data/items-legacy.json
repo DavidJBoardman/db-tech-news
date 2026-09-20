@@ -1,19 +1,22 @@
 {
- "generated": "2026-09-20T08:10:09.366Z",
+ "generated": "2026-09-20T13:08:44.756Z",
  "items": [
   {
-   "id": "738f3a26457d6485fc4a7f8981f0b4d77cfc2229",
-   "title": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-   "url": "https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions",
-   "source": "Hacker News",
+   "id": "1e91a14383e8d97d56a064664c91e5ad38160039",
+   "title": "New model on Hugging Face: Qwen/Qwen-Image-2.1-PE-I2I",
+   "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-PE-I2I",
+   "source": "HF · Qwen",
    "org": [
-    "anthropic"
+    "qwen"
    ],
    "topic": "ai",
    "tldr": "",
-   "published": "2026-09-20T05:46:19.000Z",
-   "dupes": 1,
-   "score": 0.523,
+   "published": "2026-09-20T08:46:47.000Z",
+   "badges": [
+    "model"
+   ],
+   "dupes": 3,
+   "score": 0.671,
    "tier": 1
   },
   {
@@ -28,22 +31,7 @@
    "tldr": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy.  Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes.",
    "published": "2026-09-19T20:44:40.000Z",
    "dupes": 1,
-   "score": 0.425,
-   "tier": 2
-  },
-  {
-   "id": "66fb6faf12d493f74076c8158ba79760e3fd27a3",
-   "title": "Gemini went rogue, hacked three companies, and Google hid it",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
-   "source": "The Verge AI",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company.  The hacks happened during a test of the model's…",
-   "published": "2026-09-19T15:25:03.000Z",
-   "dupes": 1,
-   "score": 0.384,
+   "score": 0.386,
    "tier": 2
   },
   {
@@ -58,7 +46,7 @@
    "tldr": "",
    "published": "2026-09-18T00:11:44.000Z",
    "dupes": 1,
-   "score": 0.378,
+   "score": 0.371,
    "tier": 2
   },
   {
@@ -73,7 +61,22 @@
    "tldr": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
    "published": "2026-09-18T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.364,
+   "score": 0.353,
+   "tier": 2
+  },
+  {
+   "id": "66fb6faf12d493f74076c8158ba79760e3fd27a3",
+   "title": "Gemini went rogue, hacked three companies, and Google hid it",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+   "source": "The Verge AI",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company.  The hacks happened during a test of the model's…",
+   "published": "2026-09-19T15:25:03.000Z",
+   "dupes": 1,
+   "score": 0.352,
    "tier": 2
   },
   {
@@ -88,7 +91,7 @@
    "tldr": "Algorithms & Theory",
    "published": "2026-09-18T17:46:09.000Z",
    "dupes": 1,
-   "score": 0.355,
+   "score": 0.341,
    "tier": 2
   },
   {
@@ -103,7 +106,7 @@
    "tldr": "",
    "published": "2026-09-18T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.34,
+   "score": 0.333,
    "tier": 2
   },
   {
@@ -118,7 +121,7 @@
    "tldr": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
    "published": "2026-09-17T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.325,
+   "score": 0.321,
    "tier": 2
   },
   {
@@ -133,7 +136,7 @@
    "tldr": "",
    "published": "2026-09-17T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.316,
+   "score": 0.313,
    "tier": 2
   },
   {
@@ -148,7 +151,7 @@
    "tldr": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
    "published": "2026-09-17T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.316,
+   "score": 0.313,
    "tier": 2
   },
   {
@@ -163,7 +166,7 @@
    "tldr": "S.  cities to build practical AI skills safely.",
    "published": "2026-09-16T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.312,
+   "score": 0.31,
    "tier": 2
   },
   {
@@ -178,7 +181,7 @@
    "tldr": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
    "published": "2026-09-16T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.312,
+   "score": 0.31,
    "tier": 2
   },
   {
@@ -193,23 +196,8 @@
    "tldr": "",
    "published": "2026-09-16T12:19:55.000Z",
    "dupes": 1,
-   "score": 0.312,
+   "score": 0.31,
    "tier": 2
-  },
-  {
-   "id": "6173cb1f27902e8cca3007ab450890bb529bcb5b",
-   "title": "The future of practice: Enabling teachers to create learning interactives with generative UI",
-   "url": "https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui",
-   "source": "Google Research",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Education Innovation",
-   "published": "2026-09-17T20:45:00.000Z",
-   "dupes": 1,
-   "score": 0.311,
-   "tier": 3
   },
   {
    "id": "52752974efc060afa422288cf05c3cab7e220271",
@@ -223,7 +211,7 @@
    "tldr": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
    "published": "2026-09-16T13:00:00.000Z",
    "dupes": 1,
-   "score": 0.31,
+   "score": 0.309,
    "tier": 3
   },
   {
@@ -238,7 +226,7 @@
    "tldr": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
    "published": "2026-09-16T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.31,
+   "score": 0.308,
    "tier": 3
   },
   {
@@ -253,7 +241,7 @@
    "tldr": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
    "published": "2026-09-16T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.31,
+   "score": 0.308,
    "tier": 3
   },
   {
@@ -268,7 +256,7 @@
    "tldr": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
    "published": "2026-09-16T09:00:00.000Z",
    "dupes": 1,
-   "score": 0.309,
+   "score": 0.307,
    "tier": 3
   },
   {
@@ -283,7 +271,22 @@
    "tldr": "",
    "published": "2026-09-15T17:05:57.000Z",
    "dupes": 1,
-   "score": 0.305,
+   "score": 0.304,
+   "tier": 3
+  },
+  {
+   "id": "6173cb1f27902e8cca3007ab450890bb529bcb5b",
+   "title": "The future of practice: Enabling teachers to create learning interactives with generative UI",
+   "url": "https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui",
+   "source": "Google Research",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Education Innovation",
+   "published": "2026-09-17T20:45:00.000Z",
+   "dupes": 1,
+   "score": 0.304,
    "tier": 3
   },
   {
@@ -298,7 +301,7 @@
    "tldr": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
    "published": "2026-09-14T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.302,
+   "score": 0.301,
    "tier": 3
   },
   {
@@ -328,23 +331,7 @@
    "tldr": "A new creature-catching adventure is ready to stream from the cloud this week.  Pawprint Studio’s Aniimo arrives on GeForce NOW at launch, inviting gamers to explore the vibrant continent of Idyll across supported…",
    "published": "2026-09-17T13:00:55.000Z",
    "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
-   "id": "7456d8000ebfebb29c1f5384d31ad16c6e65a8ee",
-   "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
-   "source": "The Verge AI",
-   "org": [
-    "openai",
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning.",
-   "published": "2026-09-18T21:07:24.000Z",
-   "dupes": 1,
-   "score": 0.291,
+   "score": 0.297,
    "tier": 3
   },
   {
@@ -359,7 +346,7 @@
    "tldr": "",
    "published": "2026-09-17T01:39:47.000Z",
    "dupes": 1,
-   "score": 0.289,
+   "score": 0.286,
    "tier": 3
   },
   {
@@ -374,7 +361,7 @@
    "tldr": "System performance, efficient infrastructure scaling and continuous software optimization are key levers that determine AI inference economics.  Higher system performance means more tokens generated, resulting in higher…",
    "published": "2026-09-16T15:00:48.000Z",
    "dupes": 1,
-   "score": 0.286,
+   "score": 0.284,
    "tier": 3
   },
   {
@@ -390,22 +377,7 @@
    "tldr": "AI factories are the infrastructure of the intelligence era.  Scaling them responsibly will depend as much on innovation across the grid as inside the data center.",
    "published": "2026-09-16T13:00:33.000Z",
    "dupes": 1,
-   "score": 0.285,
-   "tier": 3
-  },
-  {
-   "id": "7a7bb84cf160996ded075387da9d48448d32ae05",
-   "title": "Grok Voice Transcribe 2.0",
-   "url": "https://x.ai/news/grok-voice-transcribe-2",
-   "source": "HN · xAI",
-   "org": [
-    "xai"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-18T17:53:34.000Z",
-   "dupes": 1,
-   "score": 0.285,
+   "score": 0.284,
    "tier": 3
   },
   {
@@ -420,7 +392,7 @@
    "tldr": "K.  alone last year.",
    "published": "2026-09-16T05:00:42.000Z",
    "dupes": 1,
-   "score": 0.283,
+   "score": 0.281,
    "tier": 3
   },
   {
@@ -435,7 +407,7 @@
    "tldr": "Know everything.  Do anything.",
    "published": "2026-09-15T22:24:34.000Z",
    "dupes": 1,
-   "score": 0.281,
+   "score": 0.28,
    "tier": 3
   },
   {
@@ -450,7 +422,7 @@
    "tldr": "Algorithms & Theory",
    "published": "2026-09-15T20:00:00.000Z",
    "dupes": 1,
-   "score": 0.28,
+   "score": 0.279,
    "tier": 3
   },
   {
@@ -465,7 +437,7 @@
    "tldr": "On a sweltering August evening in Silicon Valley, as the sun dropped and air conditioning loads spiked, Silicon Valley Power sent a signal to an AI factory to adjust its power consumption.",
    "published": "2026-09-15T16:55:59.000Z",
    "dupes": 1,
-   "score": 0.28,
+   "score": 0.279,
    "tier": 3
   },
   {
@@ -480,7 +452,7 @@
    "tldr": "Ian Buck, vice president of hyperscale and high-performance computing at NVIDIA, Tuesday spoke on AI factory efficiency at the AI Infra Summit, the Santa Clara Convention Center event that has morphed into a Coachella…",
    "published": "2026-09-15T16:55:40.000Z",
    "dupes": 1,
-   "score": 0.28,
+   "score": 0.279,
    "tier": 3
   },
   {
@@ -498,7 +470,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.279,
+   "score": 0.278,
    "tier": 3
   },
   {
@@ -513,7 +485,23 @@
    "tldr": "As local models become more capable, AI agents can handle more work directly on a PC while keeping sensitive information on the device.  Portable Computer is a local version of the agent Perplexity Computer that plans…",
    "published": "2026-09-14T15:00:52.000Z",
    "dupes": 1,
-   "score": 0.277,
+   "score": 0.276,
+   "tier": 3
+  },
+  {
+   "id": "7456d8000ebfebb29c1f5384d31ad16c6e65a8ee",
+   "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+   "source": "The Verge AI",
+   "org": [
+    "openai",
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning.",
+   "published": "2026-09-18T21:07:24.000Z",
+   "dupes": 1,
+   "score": 0.275,
    "tier": 3
   },
   {
@@ -528,7 +516,65 @@
    "tldr": "AI is reshaping work faster than any organization has fully mastered.  Across industries, the conversation has shifted from what AI can do to how companies can use AI to create business value and expand what people are…",
    "published": "2026-09-17T14:00:05.000Z",
    "dupes": 1,
-   "score": 0.277,
+   "score": 0.273,
+   "tier": 3
+  },
+  {
+   "id": "7a7bb84cf160996ded075387da9d48448d32ae05",
+   "title": "Grok Voice Transcribe 2.0",
+   "url": "https://x.ai/news/grok-voice-transcribe-2",
+   "source": "HN · xAI",
+   "org": [
+    "xai"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-18T17:53:34.000Z",
+   "dupes": 1,
+   "score": 0.271,
+   "tier": 3
+  },
+  {
+   "id": "16a7b27ed0ae9a7589c93514face6cdccc810d1c",
+   "title": "Your Agent Aced the Task. Will It Do It Again?",
+   "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-15T16:00:44.000Z",
+   "dupes": 1,
+   "score": 0.266,
+   "tier": 3
+  },
+  {
+   "id": "5c61363562f7eab427d1f2528cb08a4333f12cb9",
+   "title": "Microsoft’s commitment for AI in education: Protecting students, strengthening learning",
+   "url": "https://blogs.microsoft.com/blog/2026/09/16/microsofts-commitment-for-ai-in-education",
+   "source": "Microsoft Blog",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "Microsoft has been in the business of education for five decades.  Since the earliest days of this company, we have worked alongside educators, students, families and educational leaders through each new wave of…",
+   "published": "2026-09-16T18:59:58.000Z",
+   "dupes": 1,
+   "score": 0.261,
+   "tier": 3
+  },
+  {
+   "id": "5b258133c86f274bd175c87f8d7079ee68e777e7",
+   "title": "Canadian Start-up smartARM Uses AI to Create Intuitive Bionic Prosthetics",
+   "url": "https://about.fb.com/news/2026/09/canadian-start-up-smartarm-uses-ai-to-create-intuitive-bionic-prosthetics",
+   "source": "Meta Newsroom",
+   "org": [
+    "meta"
+   ],
+   "topic": "ai",
+   "tldr": "People and companies are using AI hardware and software to make life easier and more accessible for everyone.  That’s the case with smartARM, a Toronto-based startup developing a vision-first bionic arm prototype that…",
+   "published": "2026-09-16T16:00:19.000Z",
+   "dupes": 1,
+   "score": 0.26,
    "tier": 3
   },
   {
@@ -544,50 +590,7 @@
    "tldr": "8 and 5, The Wall Street Journal reports.",
    "published": "2026-09-18T15:30:16.000Z",
    "dupes": 1,
-   "score": 0.273,
-   "tier": 3
-  },
-  {
-   "id": "16a7b27ed0ae9a7589c93514face6cdccc810d1c",
-   "title": "Your Agent Aced the Task. Will It Do It Again?",
-   "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-15T16:00:44.000Z",
-   "dupes": 1,
-   "score": 0.267,
-   "tier": 3
-  },
-  {
-   "id": "5c61363562f7eab427d1f2528cb08a4333f12cb9",
-   "title": "Microsoft’s commitment for AI in education: Protecting students, strengthening learning",
-   "url": "https://blogs.microsoft.com/blog/2026/09/16/microsofts-commitment-for-ai-in-education",
-   "source": "Microsoft Blog",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "Microsoft has been in the business of education for five decades.  Since the earliest days of this company, we have worked alongside educators, students, families and educational leaders through each new wave of…",
-   "published": "2026-09-16T18:59:58.000Z",
-   "dupes": 1,
-   "score": 0.263,
-   "tier": 3
-  },
-  {
-   "id": "5b258133c86f274bd175c87f8d7079ee68e777e7",
-   "title": "Canadian Start-up smartARM Uses AI to Create Intuitive Bionic Prosthetics",
-   "url": "https://about.fb.com/news/2026/09/canadian-start-up-smartarm-uses-ai-to-create-intuitive-bionic-prosthetics",
-   "source": "Meta Newsroom",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "People and companies are using AI hardware and software to make life easier and more accessible for everyone.  That’s the case with smartARM, a Toronto-based startup developing a vision-first bionic arm prototype that…",
-   "published": "2026-09-16T16:00:19.000Z",
-   "dupes": 1,
-   "score": 0.262,
+   "score": 0.26,
    "tier": 3
   },
   {
@@ -617,7 +620,7 @@
    "tldr": "",
    "published": "2026-09-15T15:28:23.000Z",
    "dupes": 1,
-   "score": 0.201,
+   "score": 0.2,
    "tier": 3
   }
  ]
