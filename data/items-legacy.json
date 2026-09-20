@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-20T21:43:26.607Z",
+ "generated": "2026-09-20T23:45:52.611Z",
  "items": [
   {
    "id": "81b3da03dd64eeb7ade30468836e4ff236b64347",
@@ -13,23 +13,8 @@
    "tldr": "",
    "published": "2026-09-20T15:18:44.000Z",
    "dupes": 1,
-   "score": 0.623,
+   "score": 0.603,
    "tier": 1
-  },
-  {
-   "id": "fc9a8f12e485244c6b0a2e48314b4ec0e5a0316f",
-   "title": "Qwen Image 2.1",
-   "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-   "source": "Hacker News",
-   "org": [
-    "qwen"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-20T13:09:25.000Z",
-   "dupes": 1,
-   "score": 0.591,
-   "tier": 2
   },
   {
    "id": "1e91a14383e8d97d56a064664c91e5ad38160039",
@@ -46,22 +31,37 @@
     "model"
    ],
    "dupes": 3,
-   "score": 0.588,
+   "score": 0.572,
    "tier": 2
   },
   {
-   "id": "2da09961cf122a2cd3874b5a60237c6fbffd7142",
-   "title": "OpenAI's Sam Altman to Brief UN Security Council Next Week",
-   "url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18",
+   "id": "fc9a8f12e485244c6b0a2e48314b4ec0e5a0316f",
+   "title": "Qwen Image 2.1",
+   "url": "https://qwen.ai/blog?id=qwen-image-2.1",
    "source": "Hacker News",
    "org": [
-    "openai"
+    "qwen"
    ],
    "topic": "ai",
    "tldr": "",
-   "published": "2026-09-20T20:32:43.000Z",
+   "published": "2026-09-20T13:09:25.000Z",
    "dupes": 1,
-   "score": 0.542,
+   "score": 0.563,
+   "tier": 2
+  },
+  {
+   "id": "69ce745967828d2ab81b8b3a737a200fa525fe9c",
+   "title": "Google's Open Agentic Orchestrator",
+   "url": "https://agentexecutor.io/",
+   "source": "Hacker News",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-20T22:32:43.000Z",
+   "dupes": 1,
+   "score": 0.551,
    "tier": 2
   },
   {
@@ -76,7 +76,7 @@
    "tldr": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades.",
    "published": "2026-09-20T18:50:18.000Z",
    "dupes": 1,
-   "score": 0.513,
+   "score": 0.49,
    "tier": 2
   },
   {
@@ -91,7 +91,7 @@
    "tldr": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
    "published": "2026-09-18T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.338,
+   "score": 0.335,
    "tier": 2
   },
   {
@@ -106,7 +106,7 @@
    "tldr": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy.  Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes.",
    "published": "2026-09-19T20:44:40.000Z",
    "dupes": 1,
-   "score": 0.334,
+   "score": 0.324,
    "tier": 2
   },
   {
@@ -121,7 +121,7 @@
    "tldr": "",
    "published": "2026-09-18T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.324,
+   "score": 0.322,
    "tier": 2
   },
   {
@@ -136,7 +136,7 @@
    "tldr": "Algorithms & Theory",
    "published": "2026-09-18T17:46:09.000Z",
    "dupes": 1,
-   "score": 0.322,
+   "score": 0.319,
    "tier": 2
   },
   {
@@ -151,7 +151,7 @@
    "tldr": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
    "published": "2026-09-17T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.315,
+   "score": 0.314,
    "tier": 2
   },
   {
@@ -185,18 +185,18 @@
    "tier": 2
   },
   {
-   "id": "66fb6faf12d493f74076c8158ba79760e3fd27a3",
-   "title": "Gemini went rogue, hacked three companies, and Google hid it",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
-   "source": "The Verge AI",
+   "id": "bbe6c30a33c9c72e5780274d2c816d8c53a3bebe",
+   "title": "Our framework for reporting model misalignment",
+   "url": "https://openai.com/index/model-misalignment-reporting-framework",
+   "source": "OpenAI Blog",
    "org": [
-    "google"
+    "openai"
    ],
    "topic": "ai",
-   "tldr": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company.  The hacks happened during a test of the model's…",
-   "published": "2026-09-19T15:25:03.000Z",
+   "tldr": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+   "published": "2026-09-16T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.309,
+   "score": 0.307,
    "tier": 2
   },
   {
@@ -211,22 +211,7 @@
    "tldr": "S.  cities to build practical AI skills safely.",
    "published": "2026-09-16T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.307,
-   "tier": 3
-  },
-  {
-   "id": "bbe6c30a33c9c72e5780274d2c816d8c53a3bebe",
-   "title": "Our framework for reporting model misalignment",
-   "url": "https://openai.com/index/model-misalignment-reporting-framework",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
-   "published": "2026-09-16T17:00:00.000Z",
-   "dupes": 1,
-   "score": 0.307,
+   "score": 0.306,
    "tier": 3
   },
   {
@@ -335,6 +320,21 @@
    "tier": 3
   },
   {
+   "id": "66fb6faf12d493f74076c8158ba79760e3fd27a3",
+   "title": "Gemini went rogue, hacked three companies, and Google hid it",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+   "source": "The Verge AI",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company.  The hacks happened during a test of the model's…",
+   "published": "2026-09-19T15:25:03.000Z",
+   "dupes": 1,
+   "score": 0.301,
+   "tier": 3
+  },
+  {
    "id": "6173cb1f27902e8cca3007ab450890bb529bcb5b",
    "title": "The future of practice: Enabling teachers to create learning interactives with generative UI",
    "url": "https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui",
@@ -346,7 +346,7 @@
    "tldr": "Education Innovation",
    "published": "2026-09-17T20:45:00.000Z",
    "dupes": 1,
-   "score": 0.296,
+   "score": 0.294,
    "tier": 3
   },
   {
@@ -361,22 +361,7 @@
    "tldr": "A new creature-catching adventure is ready to stream from the cloud this week.  Pawprint Studio’s Aniimo arrives on GeForce NOW at launch, inviting gamers to explore the vibrant continent of Idyll across supported…",
    "published": "2026-09-17T13:00:55.000Z",
    "dupes": 1,
-   "score": 0.291,
-   "tier": 3
-  },
-  {
-   "id": "635b267ac04d288743830b0b532d5ac2177c935f",
-   "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
-   "url": "https://cactuscompute.com/needle",
-   "source": "HN · DeepSeek",
-   "org": [
-    "deepseek"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-18T00:11:44.000Z",
-   "dupes": 1,
-   "score": 0.291,
+   "score": 0.289,
    "tier": 3
   },
   {
@@ -391,7 +376,7 @@
    "tldr": "System performance, efficient infrastructure scaling and continuous software optimization are key levers that determine AI inference economics.  Higher system performance means more tokens generated, resulting in higher…",
    "published": "2026-09-16T15:00:48.000Z",
    "dupes": 1,
-   "score": 0.282,
+   "score": 0.281,
    "tier": 3
   },
   {
@@ -422,21 +407,6 @@
    "tldr": "K.  alone last year.",
    "published": "2026-09-16T05:00:42.000Z",
    "dupes": 1,
-   "score": 0.28,
-   "tier": 3
-  },
-  {
-   "id": "a96e34c67a54fa0dca7234f7db23554cc740ade3",
-   "title": "‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce",
-   "url": "https://blogs.nvidia.com/blog/jensen-huang-dreamforce",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Know everything.  Do anything.",
-   "published": "2026-09-15T22:24:34.000Z",
-   "dupes": 1,
    "score": 0.279,
    "tier": 3
   },
@@ -451,6 +421,21 @@
    "topic": "ai",
    "tldr": "Algorithms & Theory",
    "published": "2026-09-15T20:00:00.000Z",
+   "dupes": 1,
+   "score": 0.278,
+   "tier": 3
+  },
+  {
+   "id": "a96e34c67a54fa0dca7234f7db23554cc740ade3",
+   "title": "‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce",
+   "url": "https://blogs.nvidia.com/blog/jensen-huang-dreamforce",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Know everything.  Do anything.",
+   "published": "2026-09-15T22:24:34.000Z",
    "dupes": 1,
    "score": 0.278,
    "tier": 3
@@ -519,6 +504,21 @@
    "tier": 3
   },
   {
+   "id": "635b267ac04d288743830b0b532d5ac2177c935f",
+   "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+   "url": "https://cactuscompute.com/needle",
+   "source": "HN · DeepSeek",
+   "org": [
+    "deepseek"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-18T00:11:44.000Z",
+   "dupes": 1,
+   "score": 0.276,
+   "tier": 3
+  },
+  {
    "id": "282315cad5df13bfa586658c55f21766d7ed63d2",
    "title": "What we’ve learned from Microsoft’s own AI transformation",
    "url": "https://blogs.microsoft.com/blog/2026/09/17/what-weve-learned-from-microsofts-own-ai-transformation",
@@ -530,7 +530,7 @@
    "tldr": "AI is reshaping work faster than any organization has fully mastered.  Across industries, the conversation has shifted from what AI can do to how companies can use AI to create business value and expand what people are…",
    "published": "2026-09-17T14:00:05.000Z",
    "dupes": 1,
-   "score": 0.266,
+   "score": 0.265,
    "tier": 3
   },
   {
@@ -558,7 +558,7 @@
    "tldr": "Microsoft has been in the business of education for five decades.  Since the earliest days of this company, we have worked alongside educators, students, families and educational leaders through each new wave of…",
    "published": "2026-09-16T18:59:58.000Z",
    "dupes": 1,
-   "score": 0.258,
+   "score": 0.257,
    "tier": 3
   },
   {
@@ -573,22 +573,22 @@
    "tldr": "People and companies are using AI hardware and software to make life easier and more accessible for everyone.  That’s the case with smartARM, a Toronto-based startup developing a vision-first bionic arm prototype that…",
    "published": "2026-09-16T16:00:19.000Z",
    "dupes": 1,
-   "score": 0.257,
+   "score": 0.256,
    "tier": 3
   },
   {
-   "id": "9217d7a4e10ec1f9cc28ecb17d912f89a9335549",
-   "title": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
-   "url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
-   "source": "HN · DeepSeek",
+   "id": "d69ce8689fec53b094c78b69553446ae59b42cfb",
+   "title": "Introducing Meta One: A Subscription Service With More Features and AI to Create, Connect, and Stand Out",
+   "url": "https://about.fb.com/news/2026/09/introducing-meta-one-subscription-service-more-features-ai",
+   "source": "Meta Newsroom",
    "org": [
-    "deepseek"
+    "meta"
    ],
    "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-16T12:19:55.000Z",
+   "tldr": "We're introducing Meta One, a new subscription service on Facebook, Instagram, WhatsApp, and Meta AI that offers more AI usage, enhanced expression features, and tools for creators and businesses.  The post Introducing…",
+   "published": "2026-09-15T15:00:59.000Z",
    "dupes": 1,
-   "score": 0.254,
+   "score": 0.252,
    "tier": 3
   },
   {
@@ -604,22 +604,22 @@
    "tldr": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning.",
    "published": "2026-09-18T21:07:24.000Z",
    "dupes": 1,
-   "score": 0.254,
+   "score": 0.25,
    "tier": 3
   },
   {
-   "id": "d69ce8689fec53b094c78b69553446ae59b42cfb",
-   "title": "Introducing Meta One: A Subscription Service With More Features and AI to Create, Connect, and Stand Out",
-   "url": "https://about.fb.com/news/2026/09/introducing-meta-one-subscription-service-more-features-ai",
-   "source": "Meta Newsroom",
+   "id": "9217d7a4e10ec1f9cc28ecb17d912f89a9335549",
+   "title": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
+   "url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
+   "source": "HN · DeepSeek",
    "org": [
-    "meta"
+    "deepseek"
    ],
    "topic": "ai",
-   "tldr": "We're introducing Meta One, a new subscription service on Facebook, Instagram, WhatsApp, and Meta AI that offers more AI usage, enhanced expression features, and tools for creators and businesses.  The post Introducing…",
-   "published": "2026-09-15T15:00:59.000Z",
+   "tldr": "",
+   "published": "2026-09-16T12:19:55.000Z",
    "dupes": 1,
-   "score": 0.253,
+   "score": 0.243,
    "tier": 3
   },
   {
@@ -634,7 +634,7 @@
    "tldr": "",
    "published": "2026-09-18T17:53:34.000Z",
    "dupes": 1,
-   "score": 0.245,
+   "score": 0.239,
    "tier": 3
   },
   {
@@ -649,7 +649,7 @@
    "tldr": "",
    "published": "2026-09-17T01:39:47.000Z",
    "dupes": 1,
-   "score": 0.242,
+   "score": 0.234,
    "tier": 3
   },
   {
@@ -664,7 +664,7 @@
    "tldr": "",
    "published": "2026-09-15T15:28:23.000Z",
    "dupes": 1,
-   "score": 0.196,
+   "score": 0.195,
    "tier": 3
   }
  ]
