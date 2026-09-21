@@ -1,6 +1,81 @@
 {
- "generated": "2026-09-21T15:16:07.952Z",
+ "generated": "2026-09-21T20:04:29.921Z",
  "items": [
+  {
+   "id": "81104d8861cf94c4a9d210c4e00f274552b2e569",
+   "title": "Grok 4.7",
+   "url": "https://x.ai/news/grok-4-7",
+   "source": "Hacker News",
+   "org": [
+    "xai"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-21T15:50:15.000Z",
+   "dupes": 2,
+   "score": 0.71,
+   "tier": 1
+  },
+  {
+   "id": "a78ca0813afec2372fe2604cfbf1a522b65f5e36",
+   "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
+   "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom",
+   "source": "Hacker News",
+   "org": [
+    "meta"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-21T17:00:23.000Z",
+   "dupes": 2,
+   "score": 0.624,
+   "tier": 2
+  },
+  {
+   "id": "8b64befa04990cc1214343c9f1d92c042bdbdbfa",
+   "title": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
+   "url": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Every AI factory needs power and cooling that fit its computing architecture.  As AI infrastructure expands, power, cooling, water, site and grid constraints are shaping what builders can deploy.",
+   "published": "2026-09-21T18:00:07.000Z",
+   "dupes": 1,
+   "score": 0.598,
+   "tier": 2
+  },
+  {
+   "id": "1bb9769be8b378da7ef3b3454c56e7f57effecb7",
+   "title": "Why Deploying Physical AI at Scale Demands Safety at Every Layer",
+   "url": "https://blogs.nvidia.com/blog/physical-ai-halos-safety",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Physical AI is moving rapidly from research to large-scale deployment.  By 2035, ABI Research projects an installed base of 49 million level 3-5 autonomous vehicles (AVs), while Omdia estimates that roughly 60 million…",
+   "published": "2026-09-21T16:00:46.000Z",
+   "dupes": 1,
+   "score": 0.574,
+   "tier": 2
+  },
+  {
+   "id": "7755df424d41324f7f58fb4aa1d4c9eca5dee11c",
+   "title": "From Enablement to Execution, Egypt’s AI Ecosystem Reaches Production Scale",
+   "url": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Today, Egypt’s AI builders gathered in the Grand Egyptian Museum for a reception that highlighted the nation’s rapidly growing AI ecosystem — spanning AI natives, developers, researchers, startups and enterprises —…",
+   "published": "2026-09-21T16:00:10.000Z",
+   "dupes": 1,
+   "score": 0.574,
+   "tier": 2
+  },
   {
    "id": "8bbe89e1845b81233a500bf9050ceacc3ec66138",
    "title": "AI Security Is an Engineering Problem — How to Solve It at Every Layer of the Agent Stack",
@@ -13,8 +88,94 @@
    "tldr": "AI security is an engineering problem.  That means defined security requirements, enforceable controls, named owners and evidence that protections work.",
    "published": "2026-09-21T14:51:34.000Z",
    "dupes": 1,
-   "score": 0.62,
-   "tier": 1
+   "score": 0.561,
+   "tier": 2
+  },
+  {
+   "id": "a7ca59844a94ccd6f8fa929c5c7dfde76ca3aff0",
+   "title": "Advisory Group on Mathematics and Artificial Intelligence",
+   "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+   "published": "2026-09-21T12:00:00.000Z",
+   "dupes": 1,
+   "score": 0.556,
+   "tier": 2
+  },
+  {
+   "id": "d37f5b2c59270d018304f874af1f138fa06f09fa",
+   "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+   "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+   "published": "2026-09-21T12:00:00.000Z",
+   "dupes": 1,
+   "score": 0.556,
+   "tier": 2
+  },
+  {
+   "id": "3a10b48ae769cffe76e82d425abe9d08f735acca",
+   "title": "Improving synthesis prediction of small molecules at scale with RetroChimera",
+   "url": "https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera",
+   "source": "Microsoft Research",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "Custom-made molecules are advancing medicine, materials, and agriculture, but producing them is slow and expensive.  A new Nature paper highlights RetroChimera, a predictive model that helps accelerate chemical…",
+   "published": "2026-09-21T15:30:19.000Z",
+   "dupes": 1,
+   "score": 0.556,
+   "tier": 2
+  },
+  {
+   "id": "77bc309a41b6e99625c17f8134f4b276ff3398ca",
+   "title": "Wall Street Is Growing Skeptical of the Data Center Boom",
+   "url": "https://www.nytimes.com/2026/09/21/business/ai-data-center-ipos.html",
+   "source": "Hacker News",
+   "org": [],
+   "topic": "compute",
+   "tldr": "",
+   "published": "2026-09-21T19:14:30.000Z",
+   "dupes": 1,
+   "score": 0.549,
+   "tier": 2
+  },
+  {
+   "id": "ce15132ee96b0e69896336e63f2d7dee4e72e333",
+   "title": "Raspberry Pi blocks changing RAM chips",
+   "url": "https://forums.raspberrypi.com/viewtopic.php?p=2380887",
+   "source": "Hacker News",
+   "org": [],
+   "topic": "compute",
+   "tldr": "",
+   "published": "2026-09-21T12:54:24.000Z",
+   "dupes": 1,
+   "score": 0.543,
+   "tier": 2
+  },
+  {
+   "id": "2c9792fbb14ae5db99d471df7e08a8d9eff4cc74",
+   "title": "Building standards for the next phase of AI",
+   "url": "https://openai.com/index/building-standards-next-phase-ai",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+   "published": "2026-09-21T10:00:00.000Z",
+   "dupes": 1,
+   "score": 0.537,
+   "tier": 2
   },
   {
    "id": "c701b57089c5bf6a94efedcee126de608bba33a3",
@@ -26,7 +187,7 @@
    "tldr": "",
    "published": "2026-09-21T13:44:34.000Z",
    "dupes": 1,
-   "score": 0.593,
+   "score": 0.537,
    "tier": 2
   },
   {
@@ -41,66 +202,56 @@
    "tldr": "Clean energy isn’t hard to come by, but the pace of large-scale adoption has historically been slow due to bottlenecks — including out-of-date infrastructure, elongated research and development timelines, and upfront…",
    "published": "2026-09-21T10:00:35.000Z",
    "dupes": 1,
-   "score": 0.561,
-   "tier": 2
+   "score": 0.513,
+   "tier": 3
   },
   {
-   "id": "8b69bfcc890513d497f73fa38152f757d5c193bc",
-   "title": "Meta bans ads for Virginia Woolf play in Spain",
-   "url": "https://www.theguardian.com/technology/2026/sep/21/meta-ban-virginia-woolf-a-room-of-ones-own-barcelona-teatre-raval",
-   "source": "Hacker News",
+   "id": "530db518a73a571777c529207d091f26be78d527",
+   "title": "Expanding OpenAI Academy with new learning paths",
+   "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+   "source": "OpenAI Blog",
    "org": [
-    "meta"
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
+   "published": "2026-09-21T07:00:00.000Z",
+   "dupes": 1,
+   "score": 0.512,
+   "tier": 3
+  },
+  {
+   "id": "c3d1c24d793e8bb3cff6833f95eedffc3ccc3f19",
+   "title": "Grok 4.7 Intelligence, Performance and Price Analysis",
+   "url": "https://artificialanalysis.ai/models/grok-4-7",
+   "source": "HN · xAI",
+   "org": [
+    "xai"
    ],
    "topic": "ai",
    "tldr": "",
-   "published": "2026-09-21T14:30:39.000Z",
+   "published": "2026-09-21T16:36:00.000Z",
    "dupes": 1,
-   "score": 0.548,
-   "tier": 2
+   "score": 0.498,
+   "tier": 3
   },
   {
-   "id": "53398a68537d81182bb139789d426c6bdaadeb5c",
-   "title": "The Claude Delusion",
-   "url": "https://pluralistic.net/2026/09/21/sunsetting",
-   "source": "Hacker News",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-21T14:30:24.000Z",
-   "dupes": 1,
-   "score": 0.542,
-   "tier": 2
-  },
-  {
-   "id": "ce15132ee96b0e69896336e63f2d7dee4e72e333",
-   "title": "Raspberry Pi blocks changing RAM chips",
-   "url": "https://forums.raspberrypi.com/viewtopic.php?p=2380887",
-   "source": "Hacker News",
-   "org": [],
-   "topic": "compute",
-   "tldr": "",
-   "published": "2026-09-21T12:54:24.000Z",
-   "dupes": 1,
-   "score": 0.541,
-   "tier": 2
-  },
-  {
-   "id": "69ce745967828d2ab81b8b3a737a200fa525fe9c",
-   "title": "AX – Google’s Open Agentic Orchestrator",
-   "url": "https://agentexecutor.io/",
+   "id": "8777ad2889911a71cba79aa82366e9412c34d6c4",
+   "title": "Noodle Gallery- Open-source, self-hosted alternative to Google Photos and Immich",
+   "url": "https://digitalescapetools.com/tools/noodlegallery.html",
    "source": "Hacker News",
    "org": [
     "google"
    ],
    "topic": "ai",
    "tldr": "",
-   "published": "2026-09-20T22:32:43.000Z",
+   "published": "2026-09-21T14:22:58.000Z",
+   "badges": [
+    "oss"
+   ],
    "dupes": 1,
-   "score": 0.508,
-   "tier": 2
+   "score": 0.496,
+   "tier": 3
   },
   {
    "id": "d1749ba76a98e7a548545e88aab7e9020497049a",
@@ -114,38 +265,23 @@
    "tldr": "6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
    "published": "2026-09-21T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.494,
-   "tier": 2
+   "score": 0.462,
+   "tier": 3
   },
   {
-   "id": "fbef9683fbad608de6920388c10ccfeaa6dc97c1",
-   "title": "Amazon blocks Meta’s Muse AI agent",
-   "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
-   "source": "The Verge AI",
+   "id": "1594232205bbc6cf44ecbbae5d94f0bf8dfacd4a",
+   "title": "DeepSeek is training a 2T-parameter model and plans to build an 8T-parameter one",
+   "url": "https://twitter.com/wallstengine/status/2101982843656388644",
+   "source": "HN · DeepSeek",
    "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports.",
-   "published": "2026-09-21T09:21:47.000Z",
-   "dupes": 1,
-   "score": 0.479,
-   "tier": 2
-  },
-  {
-   "id": "fc9a8f12e485244c6b0a2e48314b4ec0e5a0316f",
-   "title": "Qwen Image 2.1",
-   "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-   "source": "Hacker News",
-   "org": [
-    "qwen"
+    "deepseek"
    ],
    "topic": "ai",
    "tldr": "",
-   "published": "2026-09-20T13:09:25.000Z",
+   "published": "2026-09-21T13:06:29.000Z",
    "dupes": 1,
-   "score": 0.478,
-   "tier": 2
+   "score": 0.46,
+   "tier": 3
   },
   {
    "id": "eb792e0fc342008524956ef191d82691e9af6f91",
@@ -157,8 +293,8 @@
    "tldr": "",
    "published": "2026-09-21T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.457,
-   "tier": 2
+   "score": 0.424,
+   "tier": 3
   },
   {
    "id": "1e91a14383e8d97d56a064664c91e5ad38160039",
@@ -175,8 +311,8 @@
     "model"
    ],
    "dupes": 2,
-   "score": 0.421,
-   "tier": 2
+   "score": 0.402,
+   "tier": 3
   },
   {
    "id": "cb03d7f13be93465b98efb1a987ce0d9985eb021",
@@ -190,8 +326,8 @@
    "tldr": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades.",
    "published": "2026-09-20T18:50:18.000Z",
    "dupes": 1,
-   "score": 0.359,
-   "tier": 2
+   "score": 0.332,
+   "tier": 3
   },
   {
    "id": "559b0cf1119746d24724b9d0e19761800b6e48fa",
@@ -205,7 +341,7 @@
    "tldr": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
    "published": "2026-09-18T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.319,
+   "score": 0.316,
    "tier": 3
   },
   {
@@ -220,7 +356,7 @@
    "tldr": "",
    "published": "2026-09-18T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.312,
+   "score": 0.31,
    "tier": 3
   },
   {
@@ -235,7 +371,7 @@
    "tldr": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
    "published": "2026-09-17T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.308,
+   "score": 0.306,
    "tier": 3
   },
   {
@@ -250,7 +386,7 @@
    "tldr": "",
    "published": "2026-09-17T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.305,
+   "score": 0.304,
    "tier": 3
   },
   {
@@ -265,7 +401,7 @@
    "tldr": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
    "published": "2026-09-17T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.305,
+   "score": 0.304,
    "tier": 3
   },
   {
@@ -280,22 +416,7 @@
    "tldr": "S.  cities to build practical AI skills safely.",
    "published": "2026-09-16T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.304,
-   "tier": 3
-  },
-  {
-   "id": "bbe6c30a33c9c72e5780274d2c816d8c53a3bebe",
-   "title": "Our framework for reporting model misalignment",
-   "url": "https://openai.com/index/model-misalignment-reporting-framework",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
-   "published": "2026-09-16T17:00:00.000Z",
-   "dupes": 1,
-   "score": 0.304,
+   "score": 0.303,
    "tier": 3
   },
   {
@@ -344,6 +465,21 @@
    "tier": 3
   },
   {
+   "id": "bbe6c30a33c9c72e5780274d2c816d8c53a3bebe",
+   "title": "Our framework for reporting model misalignment",
+   "url": "https://openai.com/index/model-misalignment-reporting-framework",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+   "published": "2026-09-16T17:00:00.000Z",
+   "dupes": 1,
+   "score": 0.303,
+   "tier": 3
+  },
+  {
    "id": "71646fffd914b4964a5115ce29a926b304e95bf4",
    "title": "How workers are unlocking new ways of working",
    "url": "https://openai.com/index/unlocking-new-ways-of-working",
@@ -355,7 +491,7 @@
    "tldr": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
    "published": "2026-09-16T09:00:00.000Z",
    "dupes": 1,
-   "score": 0.303,
+   "score": 0.302,
    "tier": 3
   },
   {
@@ -385,7 +521,22 @@
    "tldr": "Algorithms & Theory",
    "published": "2026-09-18T17:46:09.000Z",
    "dupes": 1,
-   "score": 0.299,
+   "score": 0.295,
+   "tier": 3
+  },
+  {
+   "id": "635b267ac04d288743830b0b532d5ac2177c935f",
+   "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+   "url": "https://cactuscompute.com/needle",
+   "source": "HN · DeepSeek",
+   "org": [
+    "deepseek"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-18T00:11:44.000Z",
+   "dupes": 1,
+   "score": 0.294,
    "tier": 3
   },
   {
@@ -400,7 +551,7 @@
    "tldr": "Education Innovation",
    "published": "2026-09-17T20:45:00.000Z",
    "dupes": 1,
-   "score": 0.286,
+   "score": 0.284,
    "tier": 3
   },
   {
@@ -415,7 +566,7 @@
    "tldr": "A new creature-catching adventure is ready to stream from the cloud this week.  Pawprint Studio’s Aniimo arrives on GeForce NOW at launch, inviting gamers to explore the vibrant continent of Idyll across supported…",
    "published": "2026-09-17T13:00:55.000Z",
    "dupes": 1,
-   "score": 0.283,
+   "score": 0.282,
    "tier": 3
   },
   {
@@ -450,21 +601,6 @@
    "tier": 3
   },
   {
-   "id": "883ac55269fa2125e25679530fc99ab5b677b741",
-   "title": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train",
-   "url": "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train",
-   "source": "Google Research",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Algorithms & Theory",
-   "published": "2026-09-15T20:00:00.000Z",
-   "dupes": 1,
-   "score": 0.277,
-   "tier": 3
-  },
-  {
    "id": "fa1c7be3a7a05b8e4bc22be10d7d96496979d63e",
    "title": "University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK",
    "url": "https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2",
@@ -480,6 +616,21 @@
    "tier": 3
   },
   {
+   "id": "883ac55269fa2125e25679530fc99ab5b677b741",
+   "title": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train",
+   "url": "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train",
+   "source": "Google Research",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Algorithms & Theory",
+   "published": "2026-09-15T20:00:00.000Z",
+   "dupes": 1,
+   "score": 0.276,
+   "tier": 3
+  },
+  {
    "id": "a96e34c67a54fa0dca7234f7db23554cc740ade3",
    "title": "‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce",
    "url": "https://blogs.nvidia.com/blog/jensen-huang-dreamforce",
@@ -491,7 +642,7 @@
    "tldr": "Know everything.  Do anything.",
    "published": "2026-09-15T22:24:34.000Z",
    "dupes": 1,
-   "score": 0.277,
+   "score": 0.276,
    "tier": 3
   },
   {
@@ -543,21 +694,6 @@
    "tier": 3
   },
   {
-   "id": "607ffaad2d1c704d87910b94c9e6c695d3bc84c9",
-   "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
-   "source": "The Verge AI",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy.  Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes.",
-   "published": "2026-09-19T20:44:40.000Z",
-   "dupes": 1,
-   "score": 0.268,
-   "tier": 3
-  },
-  {
    "id": "16a7b27ed0ae9a7589c93514face6cdccc810d1c",
    "title": "Your Agent Aced the Task. Will It Do It Again?",
    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
@@ -568,6 +704,21 @@
    "published": "2026-09-15T16:00:44.000Z",
    "dupes": 1,
    "score": 0.264,
+   "tier": 3
+  },
+  {
+   "id": "9217d7a4e10ec1f9cc28ecb17d912f89a9335549",
+   "title": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
+   "url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
+   "source": "HN · DeepSeek",
+   "org": [
+    "deepseek"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-16T12:19:55.000Z",
+   "dupes": 1,
+   "score": 0.262,
    "tier": 3
   },
   {
@@ -582,22 +733,22 @@
    "tldr": "AI is reshaping work faster than any organization has fully mastered.  Across industries, the conversation has shifted from what AI can do to how companies can use AI to create business value and expand what people are…",
    "published": "2026-09-17T14:00:05.000Z",
    "dupes": 1,
-   "score": 0.258,
+   "score": 0.257,
    "tier": 3
   },
   {
-   "id": "66fb6faf12d493f74076c8158ba79760e3fd27a3",
-   "title": "Gemini went rogue, hacked three companies, and Google hid it",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+   "id": "607ffaad2d1c704d87910b94c9e6c695d3bc84c9",
+   "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
    "source": "The Verge AI",
    "org": [
-    "google"
+    "meta"
    ],
    "topic": "ai",
-   "tldr": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company.  The hacks happened during a test of the model's…",
-   "published": "2026-09-19T15:25:03.000Z",
+   "tldr": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy.  Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes.",
+   "published": "2026-09-19T20:44:40.000Z",
    "dupes": 1,
-   "score": 0.255,
+   "score": 0.257,
    "tier": 3
   },
   {
@@ -612,7 +763,7 @@
    "tldr": "Microsoft has been in the business of education for five decades.  Since the earliest days of this company, we have worked alongside educators, students, families and educational leaders through each new wave of…",
    "published": "2026-09-16T18:59:58.000Z",
    "dupes": 1,
-   "score": 0.254,
+   "score": 0.253,
    "tier": 3
   },
   {
@@ -627,7 +778,7 @@
    "tldr": "People and companies are using AI hardware and software to make life easier and more accessible for everyone.  That’s the case with smartARM, a Toronto-based startup developing a vision-first bionic arm prototype that…",
    "published": "2026-09-16T16:00:19.000Z",
    "dupes": 1,
-   "score": 0.254,
+   "score": 0.253,
    "tier": 3
   },
   {
@@ -646,33 +797,18 @@
    "tier": 3
   },
   {
-   "id": "635b267ac04d288743830b0b532d5ac2177c935f",
-   "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
-   "url": "https://cactuscompute.com/needle",
-   "source": "HN · DeepSeek",
+   "id": "66fb6faf12d493f74076c8158ba79760e3fd27a3",
+   "title": "Gemini went rogue, hacked three companies, and Google hid it",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+   "source": "The Verge AI",
    "org": [
-    "deepseek"
+    "google"
    ],
    "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-18T00:11:44.000Z",
+   "tldr": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company.  The hacks happened during a test of the model's…",
+   "published": "2026-09-19T15:25:03.000Z",
    "dupes": 1,
-   "score": 0.25,
-   "tier": 3
-  },
-  {
-   "id": "9217d7a4e10ec1f9cc28ecb17d912f89a9335549",
-   "title": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
-   "url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
-   "source": "HN · DeepSeek",
-   "org": [
-    "deepseek"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-16T12:19:55.000Z",
-   "dupes": 1,
-   "score": 0.228,
+   "score": 0.246,
    "tier": 3
   },
   {
@@ -687,7 +823,7 @@
    "tldr": "",
    "published": "2026-09-17T01:39:47.000Z",
    "dupes": 1,
-   "score": 0.221,
+   "score": 0.245,
    "tier": 3
   },
   {
@@ -702,7 +838,7 @@
    "tldr": "",
    "published": "2026-09-18T17:53:34.000Z",
    "dupes": 1,
-   "score": 0.218,
+   "score": 0.219,
    "tier": 3
   },
   {
@@ -717,7 +853,7 @@
    "tldr": "",
    "published": "2026-09-15T15:28:23.000Z",
    "dupes": 1,
-   "score": 0.192,
+   "score": 0.195,
    "tier": 3
   }
  ]
