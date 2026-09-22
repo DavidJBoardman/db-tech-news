@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-22T20:23:35.171Z",
+ "generated": "2026-09-22T23:06:57.427Z",
  "items": [
   {
    "id": "3d48e529ad7a20b189a9c01e1c4d34221cb0505e",
@@ -13,23 +13,8 @@
    "tldr": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
    "published": "2026-09-22T18:00:00.000Z",
    "dupes": 2,
-   "score": 0.811,
+   "score": 0.794,
    "tier": 1
-  },
-  {
-   "id": "0c90c73c08cf283551a15d6fbe9450700fca3b21",
-   "title": "Claude Opus 5.5",
-   "url": "https://www.anthropic.com/claude-opus-5-5",
-   "source": "Hacker News",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-22T16:29:05.000Z",
-   "dupes": 1,
-   "score": 0.651,
-   "tier": 2
   },
   {
    "id": "b6b1e4118cdbb52902a3c3f3fd0aba59eb85acae",
@@ -43,7 +28,55 @@
    "tldr": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
    "published": "2026-09-22T21:00:00.000Z",
    "dupes": 1,
-   "score": 0.65,
+   "score": 0.623,
+   "tier": 2
+  },
+  {
+   "id": "0c90c73c08cf283551a15d6fbe9450700fca3b21",
+   "title": "Claude Opus 5.5",
+   "url": "https://www.anthropic.com/claude-opus-5-5",
+   "source": "Hacker News",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-22T16:29:05.000Z",
+   "dupes": 1,
+   "score": 0.621,
+   "tier": 2
+  },
+  {
+   "id": "ee8f28d7bbe3c59888ac13fa1d8d751bde7811d1",
+   "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
+   "url": "https://foxscript.org/",
+   "source": "Hacker News",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-22T21:00:30.000Z",
+   "dupes": 1,
+   "score": 0.538,
+   "tier": 2
+  },
+  {
+   "id": "ce45d8dc0f6c9cea266aaff8936a7c1d1f57c615",
+   "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+   "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs.  prior models.",
+   "published": "2026-09-22T12:00:00.000Z",
+   "badges": [
+    "research"
+   ],
+   "dupes": 1,
+   "score": 0.528,
    "tier": 2
   },
   {
@@ -58,7 +91,7 @@
    "tldr": "",
    "published": "2026-09-22T13:52:15.000Z",
    "dupes": 1,
-   "score": 0.558,
+   "score": 0.52,
    "tier": 2
   },
   {
@@ -73,7 +106,7 @@
    "tldr": "",
    "published": "2026-09-22T16:51:31.000Z",
    "dupes": 1,
-   "score": 0.533,
+   "score": 0.505,
    "tier": 2
   },
   {
@@ -91,7 +124,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.528,
+   "score": 0.503,
    "tier": 2
   },
   {
@@ -106,7 +139,7 @@
    "tldr": "",
    "published": "2026-09-22T14:42:59.000Z",
    "dupes": 1,
-   "score": 0.52,
+   "score": 0.488,
    "tier": 2
   },
   {
@@ -119,7 +152,7 @@
    "tldr": "",
    "published": "2026-09-22T16:11:34.000Z",
    "dupes": 1,
-   "score": 0.513,
+   "score": 0.482,
    "tier": 2
   },
   {
@@ -135,7 +168,7 @@
    "tldr": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup.  The \"Horowitz Andreessen Academy\" will launch with 10…",
    "published": "2026-09-22T16:34:08.000Z",
    "dupes": 1,
-   "score": 0.502,
+   "score": 0.472,
    "tier": 2
   },
   {
@@ -150,7 +183,7 @@
    "tldr": "5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents.  5 comes with improvements to certain risky behaviors, including attempts to escape the company's testing sandbox.",
    "published": "2026-09-22T16:30:00.000Z",
    "dupes": 1,
-   "score": 0.501,
+   "score": 0.471,
    "tier": 2
   },
   {
@@ -165,7 +198,7 @@
    "tldr": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
    "published": "2026-09-22T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.46,
+   "score": 0.444,
    "tier": 2
   },
   {
@@ -180,8 +213,8 @@
    "tldr": "Meta has issued a patch for its Muse macOS app following the discovery of a zero-day vulnerability that could allow someone to take control of the AI agent.",
    "published": "2026-09-22T11:53:58.000Z",
    "dupes": 1,
-   "score": 0.452,
-   "tier": 2
+   "score": 0.427,
+   "tier": 3
   },
   {
    "id": "2960c64a019e48fb3e0b2c640d1f2581dcc831a5",
@@ -193,8 +226,8 @@
    "tldr": "",
    "published": "2026-09-22T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.422,
-   "tier": 2
+   "score": 0.406,
+   "tier": 3
   },
   {
    "id": "98acfe91fd30b730b364f1e1c322fe7898e567f8",
@@ -208,7 +241,7 @@
    "tldr": "",
    "published": "2026-09-22T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.422,
+   "score": 0.406,
    "tier": 3
   },
   {
@@ -221,52 +254,7 @@
    "tldr": "",
    "published": "2026-09-22T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.422,
-   "tier": 3
-  },
-  {
-   "id": "81104d8861cf94c4a9d210c4e00f274552b2e569",
-   "title": "Grok 4.7",
-   "url": "https://x.ai/news/grok-4-7",
-   "source": "HN · xAI",
-   "org": [
-    "xai"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-21T15:50:15.000Z",
-   "dupes": 1,
-   "score": 0.413,
-   "tier": 3
-  },
-  {
-   "id": "8b64befa04990cc1214343c9f1d92c042bdbdbfa",
-   "title": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
-   "url": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Every AI factory needs power and cooling that fit its computing architecture.  As AI infrastructure expands, power, cooling, water, site and grid constraints are shaping what builders can deploy.",
-   "published": "2026-09-21T18:00:07.000Z",
-   "dupes": 1,
-   "score": 0.402,
-   "tier": 3
-  },
-  {
-   "id": "a7ca59844a94ccd6f8fa929c5c7dfde76ca3aff0",
-   "title": "Advisory Group on Mathematics and Artificial Intelligence",
-   "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
-   "published": "2026-09-21T12:00:00.000Z",
-   "dupes": 1,
-   "score": 0.401,
+   "score": 0.406,
    "tier": 3
   },
   {
@@ -281,7 +269,37 @@
    "tldr": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
    "published": "2026-09-21T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.401,
+   "score": 0.391,
+   "tier": 3
+  },
+  {
+   "id": "a7ca59844a94ccd6f8fa929c5c7dfde76ca3aff0",
+   "title": "Advisory Group on Mathematics and Artificial Intelligence",
+   "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+   "published": "2026-09-21T12:00:00.000Z",
+   "dupes": 1,
+   "score": 0.391,
+   "tier": 3
+  },
+  {
+   "id": "8b64befa04990cc1214343c9f1d92c042bdbdbfa",
+   "title": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
+   "url": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Every AI factory needs power and cooling that fit its computing architecture.  As AI infrastructure expands, power, cooling, water, site and grid constraints are shaping what builders can deploy.",
+   "published": "2026-09-21T18:00:07.000Z",
+   "dupes": 1,
+   "score": 0.389,
    "tier": 3
   },
   {
@@ -296,7 +314,7 @@
    "tldr": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
    "published": "2026-09-21T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.393,
+   "score": 0.384,
    "tier": 3
   },
   {
@@ -311,7 +329,7 @@
    "tldr": "Physical AI is moving rapidly from research to large-scale deployment.  By 2035, ABI Research projects an installed base of 49 million level 3-5 autonomous vehicles (AVs), while Omdia estimates that roughly 60 million…",
    "published": "2026-09-21T16:00:46.000Z",
    "dupes": 1,
-   "score": 0.392,
+   "score": 0.381,
    "tier": 3
   },
   {
@@ -326,7 +344,22 @@
    "tldr": "Today, Egypt’s AI builders gathered in the Grand Egyptian Museum for a reception that highlighted the nation’s rapidly growing AI ecosystem — spanning AI natives, developers, researchers, startups and enterprises —…",
    "published": "2026-09-21T16:00:10.000Z",
    "dupes": 1,
-   "score": 0.392,
+   "score": 0.381,
+   "tier": 3
+  },
+  {
+   "id": "81104d8861cf94c4a9d210c4e00f274552b2e569",
+   "title": "Grok 4.7",
+   "url": "https://x.ai/news/grok-4-7",
+   "source": "HN · xAI",
+   "org": [
+    "xai"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-21T15:50:15.000Z",
+   "dupes": 1,
+   "score": 0.378,
    "tier": 3
   },
   {
@@ -341,7 +374,7 @@
    "tldr": "AI security is an engineering problem.  That means defined security requirements, enforceable controls, named owners and evidence that protections work.",
    "published": "2026-09-21T14:51:34.000Z",
    "dupes": 1,
-   "score": 0.387,
+   "score": 0.376,
    "tier": 3
   },
   {
@@ -356,7 +389,7 @@
    "tldr": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
    "published": "2026-09-21T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.383,
+   "score": 0.375,
    "tier": 3
   },
   {
@@ -371,20 +404,7 @@
    "tldr": "Custom-made molecules are advancing medicine, materials, and agriculture, but producing them is slow and expensive.  A new Nature paper highlights RetroChimera, a predictive model that helps accelerate chemical…",
    "published": "2026-09-21T15:30:19.000Z",
    "dupes": 1,
-   "score": 0.378,
-   "tier": 3
-  },
-  {
-   "id": "c701b57089c5bf6a94efedcee126de608bba33a3",
-   "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-   "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-21T13:44:34.000Z",
-   "dupes": 1,
-   "score": 0.37,
+   "score": 0.366,
    "tier": 3
   },
   {
@@ -399,7 +419,20 @@
    "tldr": "Clean energy isn’t hard to come by, but the pace of large-scale adoption has historically been slow due to bottlenecks — including out-of-date infrastructure, elongated research and development timelines, and upfront…",
    "published": "2026-09-21T10:00:35.000Z",
    "dupes": 1,
-   "score": 0.368,
+   "score": 0.359,
+   "tier": 3
+  },
+  {
+   "id": "c701b57089c5bf6a94efedcee126de608bba33a3",
+   "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+   "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-21T13:44:34.000Z",
+   "dupes": 1,
+   "score": 0.359,
    "tier": 3
   },
   {
@@ -414,7 +447,7 @@
    "tldr": "",
    "published": "2026-09-22T00:24:00.000Z",
    "dupes": 1,
-   "score": 0.367,
+   "score": 0.358,
    "tier": 3
   },
   {
@@ -429,7 +462,7 @@
    "tldr": "6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
    "published": "2026-09-21T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.363,
+   "score": 0.357,
    "tier": 3
   },
   {
@@ -447,7 +480,7 @@
     "model"
    ],
    "dupes": 2,
-   "score": 0.348,
+   "score": 0.344,
    "tier": 3
   },
   {
@@ -460,7 +493,7 @@
    "tldr": "California Gov.  Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times.",
    "published": "2026-09-21T20:29:45.000Z",
    "dupes": 1,
-   "score": 0.339,
+   "score": 0.326,
    "tier": 3
   },
   {
@@ -473,22 +506,7 @@
    "tldr": "",
    "published": "2026-09-21T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.326,
-   "tier": 3
-  },
-  {
-   "id": "c3d1c24d793e8bb3cff6833f95eedffc3ccc3f19",
-   "title": "Grok 4.7 Intelligence, Performance and Price Analysis",
-   "url": "https://artificialanalysis.ai/models/grok-4-7",
-   "source": "HN · xAI",
-   "org": [
-    "xai"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-21T16:36:00.000Z",
-   "dupes": 1,
-   "score": 0.31,
+   "score": 0.32,
    "tier": 3
   },
   {
@@ -522,21 +540,6 @@
    "tier": 3
   },
   {
-   "id": "a29db0108686e158aad8b60d4957838bd4c846e1",
-   "title": "Introducing the Life Sciences Verification Program",
-   "url": "https://www.anthropic.com/news/life-sciences-verification-program",
-   "source": "Anthropic News",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-17T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.302,
-   "tier": 3
-  },
-  {
    "id": "964ae1dd0facf551105fd30a5745d11e7b39c4c1",
    "title": "How Cooley is accelerating IPO work with ChatGPT",
    "url": "https://openai.com/index/cooley-gopublic",
@@ -552,6 +555,21 @@
    "tier": 3
   },
   {
+   "id": "a29db0108686e158aad8b60d4957838bd4c846e1",
+   "title": "Introducing the Life Sciences Verification Program",
+   "url": "https://www.anthropic.com/news/life-sciences-verification-program",
+   "source": "Anthropic News",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-17T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.301,
+   "tier": 3
+  },
+  {
    "id": "363bbead77de9f9f7dbfde1a4706ff9439e8bd8d",
    "title": "Introducing Astra for Law",
    "url": "https://openai.com/index/astra-for-law",
@@ -563,7 +581,7 @@
    "tldr": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
    "published": "2026-09-17T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.302,
+   "score": 0.301,
    "tier": 3
   },
   {
@@ -657,6 +675,21 @@
    "tier": 3
   },
   {
+   "id": "c3d1c24d793e8bb3cff6833f95eedffc3ccc3f19",
+   "title": "Grok 4.7 Intelligence, Performance and Price Analysis",
+   "url": "https://artificialanalysis.ai/models/grok-4-7",
+   "source": "HN · xAI",
+   "org": [
+    "xai"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-21T16:36:00.000Z",
+   "dupes": 1,
+   "score": 0.297,
+   "tier": 3
+  },
+  {
    "id": "1594232205bbc6cf44ecbbae5d94f0bf8dfacd4a",
    "title": "DeepSeek is training a 2T-parameter model and plans to build an 8T-parameter one",
    "url": "https://twitter.com/wallstengine/status/2101982843656388644",
@@ -668,22 +701,7 @@
    "tldr": "",
    "published": "2026-09-21T13:06:29.000Z",
    "dupes": 1,
-   "score": 0.295,
-   "tier": 3
-  },
-  {
-   "id": "fbef9683fbad608de6920388c10ccfeaa6dc97c1",
-   "title": "Amazon blocks Meta’s Muse AI agent",
-   "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
-   "source": "The Verge AI",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports.",
-   "published": "2026-09-21T09:21:47.000Z",
-   "dupes": 1,
-   "score": 0.291,
+   "score": 0.284,
    "tier": 3
   },
   {
@@ -698,7 +716,22 @@
    "tldr": "Algorithms & Theory",
    "published": "2026-09-18T17:46:09.000Z",
    "dupes": 1,
-   "score": 0.283,
+   "score": 0.282,
+   "tier": 3
+  },
+  {
+   "id": "fbef9683fbad608de6920388c10ccfeaa6dc97c1",
+   "title": "Amazon blocks Meta’s Muse AI agent",
+   "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+   "source": "The Verge AI",
+   "org": [
+    "meta"
+   ],
+   "topic": "ai",
+   "tldr": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports.",
+   "published": "2026-09-21T09:21:47.000Z",
+   "dupes": 1,
+   "score": 0.282,
    "tier": 3
   },
   {
@@ -728,7 +761,7 @@
    "tldr": "A new creature-catching adventure is ready to stream from the cloud this week.  Pawprint Studio’s Aniimo arrives on GeForce NOW at launch, inviting gamers to explore the vibrant continent of Idyll across supported…",
    "published": "2026-09-17T13:00:55.000Z",
    "dupes": 1,
-   "score": 0.278,
+   "score": 0.277,
    "tier": 3
   },
   {
@@ -778,21 +811,6 @@
    "tier": 3
   },
   {
-   "id": "a96e34c67a54fa0dca7234f7db23554cc740ade3",
-   "title": "‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce",
-   "url": "https://blogs.nvidia.com/blog/jensen-huang-dreamforce",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Know everything.  Do anything.",
-   "published": "2026-09-15T22:24:34.000Z",
-   "dupes": 1,
-   "score": 0.276,
-   "tier": 3
-  },
-  {
    "id": "282315cad5df13bfa586658c55f21766d7ed63d2",
    "title": "What we’ve learned from Microsoft’s own AI transformation",
    "url": "https://blogs.microsoft.com/blog/2026/09/17/what-weve-learned-from-microsofts-own-ai-transformation",
@@ -803,21 +821,6 @@
    "topic": "ai",
    "tldr": "AI is reshaping work faster than any organization has fully mastered.  Across industries, the conversation has shifted from what AI can do to how companies can use AI to create business value and expand what people are…",
    "published": "2026-09-17T14:00:05.000Z",
-   "dupes": 1,
-   "score": 0.253,
-   "tier": 3
-  },
-  {
-   "id": "cb03d7f13be93465b98efb1a987ce0d9985eb021",
-   "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-   "source": "The Verge AI",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "ai",
-   "tldr": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades.",
-   "published": "2026-09-20T18:50:18.000Z",
    "dupes": 1,
    "score": 0.252,
    "tier": 3
@@ -864,7 +867,7 @@
    "tldr": "",
    "published": "2026-09-18T00:11:44.000Z",
    "dupes": 1,
-   "score": 0.235,
+   "score": 0.225,
    "tier": 3
   },
   {
@@ -879,7 +882,7 @@
    "tldr": "",
    "published": "2026-09-16T12:19:55.000Z",
    "dupes": 1,
-   "score": 0.221,
+   "score": 0.214,
    "tier": 3
   },
   {
@@ -894,7 +897,7 @@
    "tldr": "",
    "published": "2026-09-17T01:39:47.000Z",
    "dupes": 1,
-   "score": 0.213,
+   "score": 0.208,
    "tier": 3
   }
  ]
