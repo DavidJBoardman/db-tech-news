@@ -1,6 +1,21 @@
 {
- "generated": "2026-09-23T12:50:42.700Z",
+ "generated": "2026-09-23T17:37:36.196Z",
  "items": [
+  {
+   "id": "914ed32ad555468de89f3d16f259b4585854b78e",
+   "title": "Gemini 3.8 text-to-speech says hello",
+   "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
+   "source": "Google DeepMind",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-23T15:25:14.000Z",
+   "dupes": 2,
+   "score": 0.692,
+   "tier": 1
+  },
   {
    "id": "3d48e529ad7a20b189a9c01e1c4d34221cb0505e",
    "title": "Introducing GPT-6 Sol and Luna",
@@ -13,8 +28,38 @@
    "tldr": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
    "published": "2026-09-22T18:00:00.000Z",
    "dupes": 2,
-   "score": 0.681,
-   "tier": 1
+   "score": 0.651,
+   "tier": 2
+  },
+  {
+   "id": "9d02eeb8cef10808bb224046e0ec327197d56b1e",
+   "title": "Two years of OpenAI Academy",
+   "url": "https://openai.com/index/two-years-of-openai-academy",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+   "published": "2026-09-23T16:00:00.000Z",
+   "dupes": 1,
+   "score": 0.629,
+   "tier": 2
+  },
+  {
+   "id": "cd8117c6d35f983b0412afe669291075935696f1",
+   "title": "Advancing Private AI Compute with secure, server-side memory",
+   "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory",
+   "source": "Google DeepMind",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+   "published": "2026-09-23T16:00:57.000Z",
+   "dupes": 1,
+   "score": 0.629,
+   "tier": 2
   },
   {
    "id": "1d77064cbebb782f18a0731cbc2f9d09624e05c9",
@@ -28,12 +73,72 @@
    "tldr": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
    "published": "2026-09-23T13:00:00.000Z",
    "dupes": 1,
-   "score": 0.65,
+   "score": 0.593,
+   "tier": 2
+  },
+  {
+   "id": "fc7b4c2bae45ce13658d4734101a2d40227c8735",
+   "title": "Offloaded inference for real-world physical AI robotics",
+   "url": "https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics",
+   "source": "Microsoft Research",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "Robots are getting smarter, but how can their hardware match that growth?  New Microsoft Research findings show that moving AI inference beyond the robot can improve task success, boost efficiency, and support more…",
+   "published": "2026-09-23T16:01:36.000Z",
+   "dupes": 1,
+   "score": 0.592,
+   "tier": 2
+  },
+  {
+   "id": "526089110df3fe81f8e712c0f8f7dffea7a44f53",
+   "title": "Sakeena Fiza Helps NVIDIA Hardware Succeed at Scale",
+   "url": "https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "When Sakeena Fiza describes her work as a validation engineer at NVIDIA, she does so in terms more befitting a detective story than a world-class engineering lab.  “Validation engineers look in the shadows and shine a…",
+   "published": "2026-09-23T15:00:32.000Z",
+   "dupes": 1,
+   "score": 0.591,
+   "tier": 2
+  },
+  {
+   "id": "a4dec25709f445f41a2e4b476feab07a51386cc0",
+   "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+   "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+   "source": "Hugging Face Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-23T13:17:01.000Z",
+   "dupes": 1,
+   "score": 0.559,
+   "tier": 2
+  },
+  {
+   "id": "18c511d8742ebf23313dd2fbe68814dbe7124e17",
+   "title": "GPT-6 Astra has gained the ability to drive a car",
+   "url": "https://drivingbench.com/",
+   "source": "Hacker News",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-23T15:14:22.000Z",
+   "dupes": 1,
+   "score": 0.534,
    "tier": 2
   },
   {
    "id": "a877a4ca213122afa12d52968535fbae9cc63d72",
-   "title": "Claude Code reads AGENTS.md only when telemetry is on",
+   "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
    "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on",
    "source": "Hacker News",
    "org": [
@@ -43,67 +148,7 @@
    "tldr": "",
    "published": "2026-09-23T12:15:33.000Z",
    "dupes": 1,
-   "score": 0.547,
-   "tier": 2
-  },
-  {
-   "id": "8164c6c3cf2010a5a1e2000fb86c696fd015937b",
-   "title": "OpenAI is enlisting an influencer army to make it look 'good for the world'",
-   "url": "https://www.businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9",
-   "source": "Hacker News",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-23T12:32:00.000Z",
-   "dupes": 1,
-   "score": 0.546,
-   "tier": 2
-  },
-  {
-   "id": "6fd27f05163752d01846d7d7fe0a1d805167f2ff",
-   "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI has hired three former Patreon execs to anchor its product strategy for creators.  After starting the creator subscription platform 13 years ago, co-founder and technology chief Sam Yam announced on X that he's…",
-   "published": "2026-09-23T11:02:39.000Z",
-   "dupes": 1,
-   "score": 0.527,
-   "tier": 2
-  },
-  {
-   "id": "09a0c6dbf1c6c00d5fb73a47cc29663a5b36542b",
-   "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-   "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
-   "published": "2026-09-23T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.513,
-   "tier": 2
-  },
-  {
-   "id": "4d5959d698eba06a55dd15a8c6d38c0129b1bbb8",
-   "title": "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia",
-   "url": "https://blogs.nvidia.com/blog/ai-day-singapore",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "NVIDIA AI Day Singapore, which takes place Sept.  22-23 at the Raffles City Convention Centre, is offering attendees opportunities to explore the hands-on training, expert-led sessions and advanced tools to accelerate…",
-   "published": "2026-09-23T02:30:22.000Z",
-   "dupes": 1,
-   "score": 0.51,
+   "score": 0.517,
    "tier": 2
   },
   {
@@ -118,8 +163,53 @@
    "tldr": "",
    "published": "2026-09-22T16:29:05.000Z",
    "dupes": 1,
-   "score": 0.51,
+   "score": 0.483,
    "tier": 2
+  },
+  {
+   "id": "09a0c6dbf1c6c00d5fb73a47cc29663a5b36542b",
+   "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+   "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
+   "published": "2026-09-23T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.478,
+   "tier": 2
+  },
+  {
+   "id": "6fd27f05163752d01846d7d7fe0a1d805167f2ff",
+   "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
+   "source": "The Verge AI",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI has hired three former Patreon execs to anchor its product strategy for creators.  After starting the creator subscription platform 13 years ago, cofounder and technology chief Sam Yam announced on X that he's…",
+   "published": "2026-09-23T11:02:39.000Z",
+   "dupes": 1,
+   "score": 0.472,
+   "tier": 2
+  },
+  {
+   "id": "4d5959d698eba06a55dd15a8c6d38c0129b1bbb8",
+   "title": "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia",
+   "url": "https://blogs.nvidia.com/blog/ai-day-singapore",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "NVIDIA AI Day Singapore, which takes place Sept.  22-23 at the Raffles City Convention Centre, is offering attendees opportunities to explore the hands-on training, expert-led sessions and advanced tools to accelerate…",
+   "published": "2026-09-23T02:30:22.000Z",
+   "dupes": 1,
+   "score": 0.471,
+   "tier": 3
   },
   {
    "id": "b6b1e4118cdbb52902a3c3f3fd0aba59eb85acae",
@@ -133,8 +223,8 @@
    "tldr": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
    "published": "2026-09-22T21:00:00.000Z",
    "dupes": 1,
-   "score": 0.49,
-   "tier": 2
+   "score": 0.458,
+   "tier": 3
   },
   {
    "id": "ce45d8dc0f6c9cea266aaff8936a7c1d1f57c615",
@@ -151,8 +241,8 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.434,
-   "tier": 2
+   "score": 0.412,
+   "tier": 3
   },
   {
    "id": "ee8f28d7bbe3c59888ac13fa1d8d751bde7811d1",
@@ -166,23 +256,8 @@
    "tldr": "",
    "published": "2026-09-22T21:00:30.000Z",
    "dupes": 1,
-   "score": 0.424,
-   "tier": 2
-  },
-  {
-   "id": "0ab4ac60a8fbe21a17043d213d72f872d6d72c86",
-   "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward.",
-   "published": "2026-09-23T00:17:17.000Z",
-   "dupes": 1,
-   "score": 0.416,
-   "tier": 2
+   "score": 0.396,
+   "tier": 3
   },
   {
    "id": "81bdeb67aab163b2c005784bb8bdeed6457582a2",
@@ -199,8 +274,8 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.41,
-   "tier": 2
+   "score": 0.387,
+   "tier": 3
   },
   {
    "id": "0f1ff99a4515acfca8e0752b510fb1314cb7b618",
@@ -214,22 +289,22 @@
    "tldr": "",
    "published": "2026-09-22T13:52:15.000Z",
    "dupes": 1,
-   "score": 0.408,
+   "score": 0.382,
    "tier": 3
   },
   {
-   "id": "cdb477377ba300062c26aa1b9c595544eac3e6cd",
-   "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
-   "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
-   "source": "Hacker News",
+   "id": "0ab4ac60a8fbe21a17043d213d72f872d6d72c86",
+   "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+   "source": "The Verge AI",
    "org": [
-    "anthropic"
+    "openai"
    ],
    "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-22T16:51:31.000Z",
+   "tldr": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward.",
+   "published": "2026-09-23T00:17:17.000Z",
    "dupes": 1,
-   "score": 0.391,
+   "score": 0.38,
    "tier": 3
   },
   {
@@ -244,7 +319,108 @@
    "tldr": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
    "published": "2026-09-22T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.385,
+   "score": 0.37,
+   "tier": 3
+  },
+  {
+   "id": "a7ca59844a94ccd6f8fa929c5c7dfde76ca3aff0",
+   "title": "Advisory Group on Mathematics and Artificial Intelligence",
+   "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+   "published": "2026-09-21T12:00:00.000Z",
+   "dupes": 1,
+   "score": 0.344,
+   "tier": 3
+  },
+  {
+   "id": "d37f5b2c59270d018304f874af1f138fa06f09fa",
+   "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+   "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+   "published": "2026-09-21T12:00:00.000Z",
+   "dupes": 1,
+   "score": 0.344,
+   "tier": 3
+  },
+  {
+   "id": "2c9792fbb14ae5db99d471df7e08a8d9eff4cc74",
+   "title": "Building standards for the next phase of AI",
+   "url": "https://openai.com/index/building-standards-next-phase-ai",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+   "published": "2026-09-21T10:00:00.000Z",
+   "dupes": 1,
+   "score": 0.341,
+   "tier": 3
+  },
+  {
+   "id": "530db518a73a571777c529207d091f26be78d527",
+   "title": "Expanding OpenAI Academy with new learning paths",
+   "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
+   "published": "2026-09-21T07:00:00.000Z",
+   "dupes": 1,
+   "score": 0.337,
+   "tier": 3
+  },
+  {
+   "id": "2960c64a019e48fb3e0b2c640d1f2581dcc831a5",
+   "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+   "url": "https://huggingface.co/blog/evaleval-aisi",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-22T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.333,
+   "tier": 3
+  },
+  {
+   "id": "98acfe91fd30b730b364f1e1c322fe7898e567f8",
+   "title": "Transformers now runs llama.cpp quants",
+   "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+   "source": "Hugging Face Blog",
+   "org": [
+    "meta"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-22T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.333,
+   "tier": 3
+  },
+  {
+   "id": "fb8ad85c459c0cb6d64cfdd858f1393829b3e36c",
+   "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+   "url": "https://huggingface.co/blog/omlx",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-22T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.333,
    "tier": 3
   },
   {
@@ -260,7 +436,7 @@
    "tldr": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup.  The \"Horowitz Andreessen Academy\" will launch with 10…",
    "published": "2026-09-22T16:34:08.000Z",
    "dupes": 1,
-   "score": 0.36,
+   "score": 0.333,
    "tier": 3
   },
   {
@@ -275,108 +451,7 @@
    "tldr": "5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents.  5 comes with improvements to certain risky behaviors, including attempts to escape the company's testing sandbox.",
    "published": "2026-09-22T16:30:00.000Z",
    "dupes": 1,
-   "score": 0.36,
-   "tier": 3
-  },
-  {
-   "id": "d37f5b2c59270d018304f874af1f138fa06f09fa",
-   "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-   "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
-   "published": "2026-09-21T12:00:00.000Z",
-   "dupes": 1,
-   "score": 0.353,
-   "tier": 3
-  },
-  {
-   "id": "a7ca59844a94ccd6f8fa929c5c7dfde76ca3aff0",
-   "title": "Advisory Group on Mathematics and Artificial Intelligence",
-   "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
-   "published": "2026-09-21T12:00:00.000Z",
-   "dupes": 1,
-   "score": 0.353,
-   "tier": 3
-  },
-  {
-   "id": "2c9792fbb14ae5db99d471df7e08a8d9eff4cc74",
-   "title": "Building standards for the next phase of AI",
-   "url": "https://openai.com/index/building-standards-next-phase-ai",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
-   "published": "2026-09-21T10:00:00.000Z",
-   "dupes": 1,
-   "score": 0.349,
-   "tier": 3
-  },
-  {
-   "id": "2960c64a019e48fb3e0b2c640d1f2581dcc831a5",
-   "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-   "url": "https://huggingface.co/blog/evaleval-aisi",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-22T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.347,
-   "tier": 3
-  },
-  {
-   "id": "98acfe91fd30b730b364f1e1c322fe7898e567f8",
-   "title": "Transformers now runs llama.cpp quants",
-   "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-   "source": "Hugging Face Blog",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-22T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.347,
-   "tier": 3
-  },
-  {
-   "id": "fb8ad85c459c0cb6d64cfdd858f1393829b3e36c",
-   "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
-   "url": "https://huggingface.co/blog/omlx",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-22T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.347,
-   "tier": 3
-  },
-  {
-   "id": "530db518a73a571777c529207d091f26be78d527",
-   "title": "Expanding OpenAI Academy with new learning paths",
-   "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
-   "published": "2026-09-21T07:00:00.000Z",
-   "dupes": 1,
-   "score": 0.344,
+   "score": 0.333,
    "tier": 3
   },
   {
@@ -391,52 +466,7 @@
    "tldr": "Every AI factory needs power and cooling that fit its computing architecture.  As AI infrastructure expands, power, cooling, water, site and grid constraints are shaping what builders can deploy.",
    "published": "2026-09-21T18:00:07.000Z",
    "dupes": 1,
-   "score": 0.342,
-   "tier": 3
-  },
-  {
-   "id": "1bb9769be8b378da7ef3b3454c56e7f57effecb7",
-   "title": "Why Deploying Physical AI at Scale Demands Safety at Every Layer",
-   "url": "https://blogs.nvidia.com/blog/physical-ai-halos-safety",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Physical AI is moving rapidly from research to large-scale deployment.  By 2035, ABI Research projects an installed base of 49 million level 3-5 autonomous vehicles (AVs), while Omdia estimates that roughly 60 million…",
-   "published": "2026-09-21T16:00:46.000Z",
-   "dupes": 1,
-   "score": 0.337,
-   "tier": 3
-  },
-  {
-   "id": "7755df424d41324f7f58fb4aa1d4c9eca5dee11c",
-   "title": "From Enablement to Execution, Egypt’s AI Ecosystem Reaches Production Scale",
-   "url": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Today, Egypt’s AI builders gathered in the Grand Egyptian Museum for a reception that highlighted the nation’s rapidly growing AI ecosystem — spanning AI natives, developers, researchers, startups and enterprises —…",
-   "published": "2026-09-21T16:00:10.000Z",
-   "dupes": 1,
-   "score": 0.337,
-   "tier": 3
-  },
-  {
-   "id": "8bbe89e1845b81233a500bf9050ceacc3ec66138",
-   "title": "AI Security Is an Engineering Problem — How to Solve It at Every Layer of the Agent Stack",
-   "url": "https://blogs.nvidia.com/blog/ai-security-agent-stack",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "AI security is an engineering problem.  That means defined security requirements, enforceable controls, named owners and evidence that protections work.",
-   "published": "2026-09-21T14:51:34.000Z",
-   "dupes": 1,
-   "score": 0.335,
+   "score": 0.331,
    "tier": 3
   },
   {
@@ -451,22 +481,7 @@
    "tldr": "6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
    "published": "2026-09-21T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.334,
-   "tier": 3
-  },
-  {
-   "id": "6ab491a44d134ad8bad5ba9c865ff9af3961b0fd",
-   "title": "Meta patches Muse exploit that let attackers control the AI agent",
-   "url": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
-   "source": "The Verge AI",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "Meta has issued a patch for its Muse macOS app following the discovery of a zero-day vulnerability that could allow someone to take control of the AI agent.",
-   "published": "2026-09-22T11:53:58.000Z",
-   "dupes": 1,
-   "score": 0.334,
+   "score": 0.328,
    "tier": 3
   },
   {
@@ -484,7 +499,52 @@
     "model"
    ],
    "dupes": 2,
-   "score": 0.331,
+   "score": 0.328,
+   "tier": 3
+  },
+  {
+   "id": "1bb9769be8b378da7ef3b3454c56e7f57effecb7",
+   "title": "Why Deploying Physical AI at Scale Demands Safety at Every Layer",
+   "url": "https://blogs.nvidia.com/blog/physical-ai-halos-safety",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Physical AI is moving rapidly from research to large-scale deployment.  By 2035, ABI Research projects an installed base of 49 million level 3-5 autonomous vehicles (AVs), while Omdia estimates that roughly 60 million…",
+   "published": "2026-09-21T16:00:46.000Z",
+   "dupes": 1,
+   "score": 0.327,
+   "tier": 3
+  },
+  {
+   "id": "7755df424d41324f7f58fb4aa1d4c9eca5dee11c",
+   "title": "From Enablement to Execution, Egypt’s AI Ecosystem Reaches Production Scale",
+   "url": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Today, Egypt’s AI builders gathered in the Grand Egyptian Museum for a reception that highlighted the nation’s rapidly growing AI ecosystem — spanning AI natives, developers, researchers, startups and enterprises —…",
+   "published": "2026-09-21T16:00:10.000Z",
+   "dupes": 1,
+   "score": 0.327,
+   "tier": 3
+  },
+  {
+   "id": "8bbe89e1845b81233a500bf9050ceacc3ec66138",
+   "title": "AI Security Is an Engineering Problem — How to Solve It at Every Layer of the Agent Stack",
+   "url": "https://blogs.nvidia.com/blog/ai-security-agent-stack",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "AI security is an engineering problem.  That means defined security requirements, enforceable controls, named owners and evidence that protections work.",
+   "published": "2026-09-21T14:51:34.000Z",
+   "dupes": 1,
+   "score": 0.325,
    "tier": 3
   },
   {
@@ -499,7 +559,7 @@
    "tldr": "Clean energy isn’t hard to come by, but the pace of large-scale adoption has historically been slow due to bottlenecks — including out-of-date infrastructure, elongated research and development timelines, and upfront…",
    "published": "2026-09-21T10:00:35.000Z",
    "dupes": 1,
-   "score": 0.324,
+   "score": 0.316,
    "tier": 3
   },
   {
@@ -514,7 +574,22 @@
    "tldr": "Custom-made molecules are advancing medicine, materials, and agriculture, but producing them is slow and expensive.  A new Nature paper highlights RetroChimera, a predictive model that helps accelerate chemical…",
    "published": "2026-09-21T15:30:19.000Z",
    "dupes": 1,
-   "score": 0.324,
+   "score": 0.313,
+   "tier": 3
+  },
+  {
+   "id": "6ab491a44d134ad8bad5ba9c865ff9af3961b0fd",
+   "title": "Meta patches Muse exploit that let attackers control the AI agent",
+   "url": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
+   "source": "The Verge AI",
+   "org": [
+    "meta"
+   ],
+   "topic": "ai",
+   "tldr": "Meta has issued a patch for its Muse macOS app following the discovery of a zero-day vulnerability that could allow someone to take control of the AI agent.",
+   "published": "2026-09-22T11:53:58.000Z",
+   "dupes": 1,
+   "score": 0.311,
    "tier": 3
   },
   {
@@ -527,7 +602,7 @@
    "tldr": "",
    "published": "2026-09-21T13:44:34.000Z",
    "dupes": 1,
-   "score": 0.32,
+   "score": 0.31,
    "tier": 3
   },
   {
@@ -606,51 +681,6 @@
    "tier": 3
   },
   {
-   "id": "027811ca1632d0f58ec6aef4b1b0aab0357f132b",
-   "title": "Helping older adults use AI in everyday life",
-   "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "S.  cities to build practical AI skills safely.",
-   "published": "2026-09-16T16:00:00.000Z",
-   "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
-   "id": "52752974efc060afa422288cf05c3cab7e220271",
-   "title": "Reimagining advertising with AI",
-   "url": "https://openai.com/index/reimagining-advertising-with-ai",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
-   "published": "2026-09-16T13:00:00.000Z",
-   "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
-   "id": "bbe6c30a33c9c72e5780274d2c816d8c53a3bebe",
-   "title": "Our framework for reporting model misalignment",
-   "url": "https://openai.com/index/model-misalignment-reporting-framework",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
-   "published": "2026-09-16T17:00:00.000Z",
-   "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
    "id": "eb792e0fc342008524956ef191d82691e9af6f91",
    "title": "tokenizers v1: encode, decode and scaling, measured",
    "url": "https://huggingface.co/blog/tokenizers-v1",
@@ -660,7 +690,7 @@
    "tldr": "",
    "published": "2026-09-21T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.296,
+   "score": 0.29,
    "tier": 3
   },
   {
@@ -675,7 +705,7 @@
    "tldr": "Algorithms & Theory",
    "published": "2026-09-18T17:46:09.000Z",
    "dupes": 1,
-   "score": 0.279,
+   "score": 0.278,
    "tier": 3
   },
   {
@@ -709,37 +739,6 @@
    "tier": 3
   },
   {
-   "id": "2539d6b605d7a972a89d55e74f283ecab815a265",
-   "title": "NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut",
-   "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "System performance, efficient infrastructure scaling and continuous software optimization are key levers that determine AI inference economics.  Higher system performance means more tokens generated, resulting in higher…",
-   "published": "2026-09-16T15:00:48.000Z",
-   "dupes": 1,
-   "score": 0.276,
-   "tier": 3
-  },
-  {
-   "id": "29e73087bb68527ee99d8cc3c3deb1c8e793f123",
-   "title": "Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers",
-   "url": "https://blogs.nvidia.com/blog/ai-energy-management-alliance",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia",
-    "google"
-   ],
-   "topic": "compute",
-   "tldr": "AI factories are the infrastructure of the intelligence era.  Scaling them responsibly will depend as much on innovation across the grid as inside the data center.",
-   "published": "2026-09-16T13:00:33.000Z",
-   "dupes": 1,
-   "score": 0.276,
-   "tier": 3
-  },
-  {
    "id": "c4d22e79dcded9e544fb80b4ec0fd429876815f1",
    "title": "California tightens rules on AI data center energy and water use",
    "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
@@ -749,22 +748,7 @@
    "tldr": "California Gov.  Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times.",
    "published": "2026-09-21T20:29:45.000Z",
    "dupes": 1,
-   "score": 0.274,
-   "tier": 3
-  },
-  {
-   "id": "c3d1c24d793e8bb3cff6833f95eedffc3ccc3f19",
-   "title": "Grok 4.7 Intelligence, Performance and Price Analysis",
-   "url": "https://artificialanalysis.ai/models/grok-4-7",
-   "source": "HN · xAI",
-   "org": [
-    "xai"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-21T16:36:00.000Z",
-   "dupes": 1,
-   "score": 0.252,
+   "score": 0.262,
    "tier": 3
   },
   {
@@ -798,21 +782,6 @@
    "tier": 3
   },
   {
-   "id": "5b258133c86f274bd175c87f8d7079ee68e777e7",
-   "title": "Canadian Start-up smartARM Uses AI to Create Intuitive Bionic Prosthetics",
-   "url": "https://about.fb.com/news/2026/09/canadian-start-up-smartarm-uses-ai-to-create-intuitive-bionic-prosthetics",
-   "source": "Meta Newsroom",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "People and companies are using AI hardware and software to make life easier and more accessible for everyone.  That’s the case with smartARM, a Toronto-based startup developing a vision-first bionic arm prototype that…",
-   "published": "2026-09-16T16:00:19.000Z",
-   "dupes": 1,
-   "score": 0.251,
-   "tier": 3
-  },
-  {
    "id": "1594232205bbc6cf44ecbbae5d94f0bf8dfacd4a",
    "title": "DeepSeek is training a 2T-parameter model and plans to build an 8T-parameter one",
    "url": "https://twitter.com/wallstengine/status/2101982843656388644",
@@ -824,7 +793,7 @@
    "tldr": "",
    "published": "2026-09-21T13:06:29.000Z",
    "dupes": 1,
-   "score": 0.244,
+   "score": 0.235,
    "tier": 3
   },
   {
@@ -839,7 +808,7 @@
    "tldr": "",
    "published": "2026-09-18T00:11:44.000Z",
    "dupes": 1,
-   "score": 0.211,
+   "score": 0.21,
    "tier": 3
   },
   {

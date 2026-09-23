@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-23T12:50:36.909Z",
+ "generated": "2026-09-23T17:37:31.633Z",
  "items": [
   {
    "id": "3d48e529ad7a20b189a9c01e1c4d34221cb0505e",
@@ -13,8 +13,23 @@
    "tldr": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
    "published": "2026-09-22T18:00:00.000Z",
    "dupes": 2,
-   "score": 0.804,
+   "score": 0.788,
    "tier": 1
+  },
+  {
+   "id": "9d02eeb8cef10808bb224046e0ec327197d56b1e",
+   "title": "Two years of OpenAI Academy",
+   "url": "https://openai.com/index/two-years-of-openai-academy",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+   "published": "2026-09-23T16:00:00.000Z",
+   "dupes": 1,
+   "score": 0.739,
+   "tier": 2
   },
   {
    "id": "1d77064cbebb782f18a0731cbc2f9d09624e05c9",
@@ -28,22 +43,67 @@
    "tldr": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
    "published": "2026-09-23T13:00:00.000Z",
    "dupes": 1,
-   "score": 0.747,
+   "score": 0.725,
    "tier": 2
   },
   {
-   "id": "504b1f32a4a3b53d1390b6cf9ed470a4d58b715c",
-   "title": "OpenAI gives cyber defence tools to Ukraine",
-   "url": "https://www.bbc.co.uk/news/articles/c90kly26d7pzo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
+   "id": "526089110df3fe81f8e712c0f8f7dffea7a44f53",
+   "title": "Sakeena Fiza Helps NVIDIA Hardware Succeed at Scale",
+   "url": "https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza",
+   "source": "NVIDIA Blog",
    "org": [
-    "openai"
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "When Sakeena Fiza describes her work as a validation engineer at NVIDIA, she does so in terms more befitting a detective story than a world-class engineering lab.  “Validation engineers look in the shadows and shine a…",
+   "published": "2026-09-23T15:00:32.000Z",
+   "dupes": 1,
+   "score": 0.718,
+   "tier": 2
+  },
+  {
+   "id": "fc7b4c2bae45ce13658d4734101a2d40227c8735",
+   "title": "Offloaded inference for real-world physical AI robotics",
+   "url": "https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics",
+   "source": "Microsoft Research",
+   "org": [
+    "microsoft"
    ],
    "topic": "ai",
-   "tldr": "Ukraine will get access to OpenAI's advanced GPT 5.6 Sol model under the deal - a rival to Anthropic's Mythos and Fable",
-   "published": "2026-09-23T12:01:37.000Z",
+   "tldr": "Robots are getting smarter, but how can their hardware match that growth?  New Microsoft Research findings show that moving AI inference beyond the robot can improve task success, boost efficiency, and support more…",
+   "published": "2026-09-23T16:01:36.000Z",
    "dupes": 1,
-   "score": 0.711,
+   "score": 0.715,
+   "tier": 2
+  },
+  {
+   "id": "914ed32ad555468de89f3d16f259b4585854b78e",
+   "title": "Gemini 3.8 text-to-speech says hello",
+   "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
+   "source": "Google DeepMind",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-23T15:25:14.000Z",
+   "dupes": 2,
+   "score": 0.703,
+   "tier": 2
+  },
+  {
+   "id": "a4dec25709f445f41a2e4b476feab07a51386cc0",
+   "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+   "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+   "source": "Hugging Face Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-23T13:17:01.000Z",
+   "dupes": 1,
+   "score": 0.702,
    "tier": 2
   },
   {
@@ -58,206 +118,38 @@
    "tldr": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.",
    "published": "2026-09-22T19:45:47.000Z",
    "dupes": 2,
-   "score": 0.706,
-   "tier": 2
-  },
-  {
-   "id": "69dbcc53eb81878631452428fb6e91df4ff42840",
-   "title": "Microsoft: September Windows updates break Always On VPN connections",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-windows-updates-break-always-on-vpn-connections",
-   "source": "BleepingComputer",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "security",
-   "tldr": "Microsoft warned that the September 2026 security updates may also break Always On VPN connections on some Windows 11 systems.",
-   "published": "2026-09-23T11:18:13.000Z",
-   "dupes": 1,
-   "score": 0.699,
-   "tier": 2
-  },
-  {
-   "id": "3c9fd6ef7413f1c4ce994a29796a999e5cdacfa0",
-   "title": "Anthropic and OpenAI Models Still Attempt Restricted Actions in Safety Tests",
-   "url": "https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html",
-   "source": "The Hacker News",
-   "org": [
-    "anthropic",
-    "openai"
-   ],
-   "topic": "security",
-   "tldr": "Anthropic and OpenAI on Tuesday announced new models, with both artificial intelligence (AI) companies noting that they are continuing to invest in improving alignment to combat risky behavior.",
-   "published": "2026-09-23T11:47:13.000Z",
-   "dupes": 1,
-   "score": 0.694,
-   "tier": 2
-  },
-  {
-   "id": "09a0c6dbf1c6c00d5fb73a47cc29663a5b36542b",
-   "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-   "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
-   "published": "2026-09-23T00:00:00.000Z",
-   "dupes": 1,
    "score": 0.691,
    "tier": 2
   },
   {
-   "id": "a877a4ca213122afa12d52968535fbae9cc63d72",
-   "title": "Claude Code reads AGENTS.md only when telemetry is on",
-   "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on",
-   "source": "Hacker News",
+   "id": "504b1f32a4a3b53d1390b6cf9ed470a4d58b715c",
+   "title": "OpenAI gives cyber defence tools to Ukraine",
+   "url": "https://www.bbc.co.uk/news/articles/c90kly26d7pzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Technology",
    "org": [
-    "anthropic"
+    "openai"
    ],
    "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-23T12:15:33.000Z",
+   "tldr": "Ukraine will get access to OpenAI's advanced GPT 5.6 Sol model under the deal - a rival to Anthropic's Mythos and Fable",
+   "published": "2026-09-23T12:01:37.000Z",
    "dupes": 1,
-   "score": 0.683,
+   "score": 0.688,
    "tier": 2
   },
   {
-   "id": "8164c6c3cf2010a5a1e2000fb86c696fd015937b",
-   "title": "OpenAI is enlisting an influencer army to make it look 'good for the world'",
-   "url": "https://www.businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9",
+   "id": "18c511d8742ebf23313dd2fbe68814dbe7124e17",
+   "title": "GPT-6 Astra has gained the ability to drive a car",
+   "url": "https://drivingbench.com/",
    "source": "Hacker News",
    "org": [
     "openai"
    ],
    "topic": "ai",
    "tldr": "",
-   "published": "2026-09-23T12:32:00.000Z",
+   "published": "2026-09-23T15:14:22.000Z",
    "dupes": 1,
-   "score": 0.682,
+   "score": 0.679,
    "tier": 2
-  },
-  {
-   "id": "b6b1e4118cdbb52902a3c3f3fd0aba59eb85acae",
-   "title": "Better prompt caching for GPT-6",
-   "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
-   "published": "2026-09-22T21:00:00.000Z",
-   "dupes": 1,
-   "score": 0.68,
-   "tier": 2
-  },
-  {
-   "id": "0c90c73c08cf283551a15d6fbe9450700fca3b21",
-   "title": "Claude Opus 5.5",
-   "url": "https://www.anthropic.com/claude-opus-5-5",
-   "source": "Hacker News",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-22T16:29:05.000Z",
-   "dupes": 1,
-   "score": 0.68,
-   "tier": 2
-  },
-  {
-   "id": "6fd27f05163752d01846d7d7fe0a1d805167f2ff",
-   "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI has hired three former Patreon execs to anchor its product strategy for creators.  After starting the creator subscription platform 13 years ago, co-founder and technology chief Sam Yam announced on X that he's…",
-   "published": "2026-09-23T11:02:39.000Z",
-   "dupes": 1,
-   "score": 0.674,
-   "tier": 2
-  },
-  {
-   "id": "cdb477377ba300062c26aa1b9c595544eac3e6cd",
-   "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
-   "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
-   "source": "Hacker News",
-   "org": [
-    "anthropic",
-    "xai"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-22T16:51:31.000Z",
-   "dupes": 2,
-   "score": 0.672,
-   "tier": 2
-  },
-  {
-   "id": "f5352ddaaf0c28461e1bcb1b4f09e5b986f4b3b2",
-   "title": "New Windows Defender zero-day blocks Microsoft antivirus updates",
-   "url": "https://www.bleepingcomputer.com/news/security/new-windows-defender-zero-day-blocks-microsoft-antivirus-updates",
-   "source": "BleepingComputer",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "security",
-   "tldr": "Over the weekend, security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) released another Microsoft Defender zero-day exploit that blocks antivirus updates.",
-   "published": "2026-09-22T09:55:11.000Z",
-   "dupes": 2,
-   "score": 0.66,
-   "tier": 3
-  },
-  {
-   "id": "f7a9a3b0af71cc656e579fe154486928a7ae6cb2",
-   "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
-   "url": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money",
-   "source": "Ars Technica",
-   "org": [
-    "anthropic",
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "The frontier AI model race has entered its comparison shopping phase.",
-   "published": "2026-09-22T21:25:18.000Z",
-   "dupes": 1,
-   "score": 0.657,
-   "tier": 3
-  },
-  {
-   "id": "f069687e4a1d7fdbdacddbe1843bebf33db307ba",
-   "title": "Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises",
-   "url": "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html",
-   "source": "The Hacker News",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "security",
-   "tldr": "S.",
-   "published": "2026-09-22T17:03:31.000Z",
-   "dupes": 1,
-   "score": 0.618,
-   "tier": 3
-  },
-  {
-   "id": "9015ee31b13c0bf7cd9108cdd4eba08a9bfc669c",
-   "title": "SharePoint Flaw Initially Listed as Spoofing by Microsoft Enables Authenticated RCE",
-   "url": "https://thehackernews.com/2026/09/sharepoint-flaw-initially-listed-as.html",
-   "source": "The Hacker News",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "security",
-   "tldr": "5 actually enables authenticated remote code execution, according to full technical details published today by Viettel Cyber Security researcher Dinh Ho Anh Khoa.  The flaw, CVE-2026-65660, affects SharePoint Server…",
-   "published": "2026-09-22T11:17:41.000Z",
-   "dupes": 1,
-   "score": 0.601,
-   "tier": 3
   },
   {
    "id": "81bdeb67aab163b2c005784bb8bdeed6457582a2",
@@ -274,22 +166,53 @@
     "oss"
    ],
    "dupes": 2,
-   "score": 0.573,
-   "tier": 3
+   "score": 0.677,
+   "tier": 2
   },
   {
-   "id": "98fe946df30dd12793a090c43f3dd871a7a7ad71",
-   "title": "Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR",
-   "url": "https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html",
-   "source": "The Hacker News",
+   "id": "69dbcc53eb81878631452428fb6e91df4ff42840",
+   "title": "Microsoft: September Windows updates break Always On VPN connections",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-windows-updates-break-always-on-vpn-connections",
+   "source": "BleepingComputer",
    "org": [
     "microsoft"
    ],
    "topic": "security",
-   "tldr": "A fake LastPass Authenticator installer offered on GitHub installs a Windows kernel driver that shuts off antivirus and other security software before a password stealer runs if a victim downloads and runs it,…",
-   "published": "2026-09-21T17:31:01.000Z",
+   "tldr": "Microsoft warned that the September 2026 security updates may also break Always On VPN connections on some Windows 11 systems.",
+   "published": "2026-09-23T11:18:13.000Z",
    "dupes": 1,
-   "score": 0.56,
+   "score": 0.677,
+   "tier": 2
+  },
+  {
+   "id": "09a0c6dbf1c6c00d5fb73a47cc29663a5b36542b",
+   "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+   "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
+   "published": "2026-09-23T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.673,
+   "tier": 2
+  },
+  {
+   "id": "3c9fd6ef7413f1c4ce994a29796a999e5cdacfa0",
+   "title": "Anthropic and OpenAI Models Still Attempt Restricted Actions in Safety Tests",
+   "url": "https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html",
+   "source": "The Hacker News",
+   "org": [
+    "anthropic",
+    "openai"
+   ],
+   "topic": "security",
+   "tldr": "Anthropic and OpenAI on Tuesday announced new models, with both artificial intelligence (AI) companies noting that they are continuing to invest in improving alignment to combat risky behavior.",
+   "published": "2026-09-23T11:47:13.000Z",
+   "dupes": 1,
+   "score": 0.671,
    "tier": 3
   },
   {
@@ -304,100 +227,67 @@
    "tldr": "NVIDIA AI Day Singapore, which takes place Sept.  22-23 at the Raffles City Convention Centre, is offering attendees opportunities to explore the hands-on training, expert-led sessions and advanced tools to accelerate…",
    "published": "2026-09-23T02:30:22.000Z",
    "dupes": 1,
-   "score": 0.543,
+   "score": 0.666,
    "tier": 3
   },
   {
-   "id": "3c6594a0310351071a90e6aff4bf67bcfb178b89",
-   "title": "Shuffling the deck chairs: Xbox continues its \"reset\" with dramatic restructuring",
-   "url": "https://arstechnica.com/gaming/2026/09/shuffling-the-deck-chairs-xbox-continues-its-reset-with-dramatic-restructuring",
-   "source": "Ars Technica",
+   "id": "0c90c73c08cf283551a15d6fbe9450700fca3b21",
+   "title": "Claude Opus 5.5",
+   "url": "https://www.anthropic.com/claude-opus-5-5",
+   "source": "Hacker News",
    "org": [
-    "microsoft"
+    "anthropic"
    ],
-   "topic": "gaming",
-   "tldr": "Activision gets Halo , Obsidian becomes part of Bethesda, and more internal shake-ups.",
-   "published": "2026-09-22T15:30:53.000Z",
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-22T16:29:05.000Z",
    "dupes": 1,
-   "score": 0.523,
+   "score": 0.666,
    "tier": 3
   },
   {
-   "id": "40efd595a667734f6bcf15b18f446efce4702d77",
-   "title": "Xbox transfers Rare and Halo franchise to Activision, proposes closure of Ninja Theory, and confirms another 268 roles cut amid studio restructure",
-   "url": "https://www.gamesindustry.biz/xbox-transfers-rare-and-halo-franchise-to-activision-proposes-closure-of-ninja-theory-and-confirms-another-268-roles-cut-amid-studio-restructure",
-   "source": "GamesIndustry.biz",
+   "id": "b6b1e4118cdbb52902a3c3f3fd0aba59eb85acae",
+   "title": "Better prompt caching for GPT-6",
+   "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+   "source": "OpenAI Blog",
    "org": [
-    "microsoft",
-    "activision"
-   ],
-   "topic": "gaming",
-   "tldr": "Original story: Xbox has transferred legendary UK studio Rare and ownership of the Halo franchise to Activision, announced the imminent closure of Ninja Theory, and enacted sweeping cuts at Halo Studios.  The news was…",
-   "published": "2026-09-22T14:06:00.000Z",
-   "dupes": 1,
-   "score": 0.519,
-   "tier": 3
-  },
-  {
-   "id": "3542fc562ddb1af9d3e6457d6369a3f92cd0a4ff",
-   "title": "Call of Duty's Activision to make next Halo game as Xbox cuts more jobs",
-   "url": "https://www.bbc.co.uk/news/articles/cvj64gz74ky4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
-   "org": [
-    "microsoft",
-    "activision"
-   ],
-   "topic": "gaming",
-   "tldr": "The news comes as part of a \"reset\" announced by Xbox in July, with 3,600 planned job losses overall.",
-   "published": "2026-09-22T14:51:39.000Z",
-   "dupes": 1,
-   "score": 0.514,
-   "tier": 3
-  },
-  {
-   "id": "cc2fd48c518b89fdd196794b30fe53529c5a6992",
-   "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
-   "url": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
-   "source": "The Hacker News",
-   "org": [
-    "anthropic",
     "openai"
    ],
-   "topic": "security",
-   "tldr": "Three researchers at the security firm Hacktron used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository.…",
-   "published": "2026-09-19T18:36:53.000Z",
+   "topic": "ai",
+   "tldr": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+   "published": "2026-09-22T21:00:00.000Z",
    "dupes": 1,
-   "score": 0.506,
+   "score": 0.664,
    "tier": 3
   },
   {
-   "id": "f8b6d533ac77053232cf5b6300395db3ac09d6de",
-   "title": "Xbox reportedly set to announce second round of layoffs this week",
-   "url": "https://www.gamesindustry.biz/xbox-reportedly-set-to-announce-second-round-of-layoffs-this-week",
-   "source": "GamesIndustry.biz",
+   "id": "0ea9514218e134d126cf992cb59cf61a03564a62",
+   "title": "NASA’s Hubble Seeks Lensed Supernova, Marks 200,000 Orbits",
+   "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-seeks-lensed-supernova-marks-200000-orbits",
+   "source": "NASA",
    "org": [
-    "microsoft"
+    "nasa"
    ],
-   "topic": "gaming",
-   "tldr": "UPDATE: Microsoft has confirmed the loss of 268 jobs amid a sweeping reorganisation of its internal studios , including the proposed closure of Ninja Theory.",
-   "published": "2026-09-22T07:55:38.000Z",
+   "topic": "space",
+   "tldr": "NASA’s Hubble Space Telescope completed its 200,000th orbit around Earth on Sept.  19, marking another new milestone for an observatory that continues to transform our understanding of the universe.",
+   "published": "2026-09-23T13:55:34.000Z",
    "dupes": 1,
-   "score": 0.505,
+   "score": 0.641,
    "tier": 3
   },
   {
-   "id": "8b64befa04990cc1214343c9f1d92c042bdbdbfa",
-   "title": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
-   "url": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling",
-   "source": "NVIDIA Blog",
+   "id": "190bab9889299ed561deb12ee3df7d73563ab942",
+   "title": "Former NASA chief sounds alarm on China's lunar \"exploration\" plans",
+   "url": "https://arstechnica.com/space/2026/09/former-nasa-chief-sounds-alarm-on-chinas-lunar-exploration-plans",
+   "source": "Ars Technica · Space",
    "org": [
-    "nvidia"
+    "nasa"
    ],
-   "topic": "compute",
-   "tldr": "Every AI factory needs power and cooling that fit its computing architecture.  As AI infrastructure expands, power, cooling, water, site and grid constraints are shaping what builders can deploy.",
-   "published": "2026-09-21T18:00:07.000Z",
+   "topic": "space",
+   "tldr": "\"Beijing's intended strategy is to dominate the high ground of the twenty-first century.\"",
+   "published": "2026-09-23T17:10:58.000Z",
    "dupes": 1,
-   "score": 0.496,
+   "score": 0.626,
    "tier": 3
   },
   {
@@ -415,22 +305,37 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.496,
+   "score": 0.604,
    "tier": 3
   },
   {
-   "id": "7755df424d41324f7f58fb4aa1d4c9eca5dee11c",
-   "title": "From Enablement to Execution, Egypt’s AI Ecosystem Reaches Production Scale",
-   "url": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem",
-   "source": "NVIDIA Blog",
+   "id": "f069687e4a1d7fdbdacddbe1843bebf33db307ba",
+   "title": "Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises",
+   "url": "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html",
+   "source": "The Hacker News",
    "org": [
-    "nvidia"
+    "microsoft"
    ],
-   "topic": "compute",
-   "tldr": "Today, Egypt’s AI builders gathered in the Grand Egyptian Museum for a reception that highlighted the nation’s rapidly growing AI ecosystem — spanning AI natives, developers, researchers, startups and enterprises —…",
-   "published": "2026-09-21T16:00:10.000Z",
+   "topic": "security",
+   "tldr": "S.",
+   "published": "2026-09-22T17:03:31.000Z",
    "dupes": 1,
-   "score": 0.494,
+   "score": 0.604,
+   "tier": 3
+  },
+  {
+   "id": "d1d540cc10415e578fd67d2e344a8512059c285a",
+   "title": "Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates",
+   "url": "https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html",
+   "source": "The Hacker News",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "security",
+   "tldr": "A zero-day proof-of-concept tool that stops Microsoft Defender from installing platform and signature updates by filling all available disk space was published on GitHub on September 19.  The tool, called BigDiskBuster,…",
+   "published": "2026-09-22T16:14:04.000Z",
+   "dupes": 1,
+   "score": 0.601,
    "tier": 3
   },
   {
@@ -445,67 +350,52 @@
    "tldr": "Using NASA’s Chandra X-ray Observatory, researchers found mysterious objects that give off unusually low-energy X-rays but intense levels of ultraviolet radiation.  One of the galaxies they studied, M101, is pictured…",
    "published": "2026-09-22T15:40:48.000Z",
    "dupes": 1,
-   "score": 0.493,
+   "score": 0.6,
    "tier": 3
   },
   {
-   "id": "d12dd718a0ca78aa68bf388b2b5ffbc0d8aca992",
-   "title": "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation",
-   "url": "https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html",
+   "id": "9015ee31b13c0bf7cd9108cdd4eba08a9bfc669c",
+   "title": "SharePoint Flaw Initially Listed as Spoofing by Microsoft Enables Authenticated RCE",
+   "url": "https://thehackernews.com/2026/09/sharepoint-flaw-initially-listed-as.html",
    "source": "The Hacker News",
    "org": [
     "microsoft"
    ],
    "topic": "security",
-   "tldr": "Microsoft has released fixes for a maximum-severity security flaw in Azure AI Foundry that could be exploited to achieve privilege escalation.  No customer action is required.",
-   "published": "2026-09-18T12:47:04.000Z",
+   "tldr": "5 actually enables authenticated remote code execution, according to full technical details published today by Viettel Cyber Security researcher Dinh Ho Anh Khoa.  The flaw, CVE-2026-65660, affects SharePoint Server…",
+   "published": "2026-09-22T11:17:41.000Z",
    "dupes": 1,
-   "score": 0.493,
+   "score": 0.588,
    "tier": 3
   },
   {
-   "id": "05cf064d60e49be2a68d8318a549a7c6976315d9",
-   "title": "NASA Astronaut to Answer Questions from New Hampshire Students",
-   "url": "https://www.nasa.gov/learning-resources/nasa-astronaut-to-answer-questions-from-new-hampshire-students",
-   "source": "NASA",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "Editor’s Note: This feature was updated Sept.  22, 2026, to note the time change for the in-flight call with students.",
-   "published": "2026-09-22T13:38:53.000Z",
-   "dupes": 1,
-   "score": 0.49,
-   "tier": 3
-  },
-  {
-   "id": "1ca691988404841d2ac67dafb271e7b3d0395a64",
-   "title": "5 Companies Using NVIDIA AI for Clean Energy",
-   "url": "https://blogs.nvidia.com/blog/clean-energy-nvidia-ai",
+   "id": "8b64befa04990cc1214343c9f1d92c042bdbdbfa",
+   "title": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
+   "url": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling",
    "source": "NVIDIA Blog",
    "org": [
     "nvidia"
    ],
    "topic": "compute",
-   "tldr": "Clean energy isn’t hard to come by, but the pace of large-scale adoption has historically been slow due to bottlenecks — including out-of-date infrastructure, elongated research and development timelines, and upfront…",
-   "published": "2026-09-21T10:00:35.000Z",
+   "tldr": "Every AI factory needs power and cooling that fit its computing architecture.  As AI infrastructure expands, power, cooling, water, site and grid constraints are shaping what builders can deploy.",
+   "published": "2026-09-21T18:00:07.000Z",
    "dupes": 1,
-   "score": 0.489,
+   "score": 0.584,
    "tier": 3
   },
   {
-   "id": "29d5f15551dff7ef99b6df2a0229456b495db45a",
-   "title": "One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into a Backdoor",
-   "url": "https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html",
-   "source": "The Hacker News",
+   "id": "7755df424d41324f7f58fb4aa1d4c9eca5dee11c",
+   "title": "From Enablement to Execution, Egypt’s AI Ecosystem Reaches Production Scale",
+   "url": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem",
+   "source": "NVIDIA Blog",
    "org": [
-    "meta"
+    "nvidia"
    ],
-   "topic": "security",
-   "tldr": "Malware already running on a Mac can quietly take over Meta's Muse assistant and use the broad access its owner granted the app, security researcher Patrick Wardle has shown in a proof-of-concept released on September…",
-   "published": "2026-09-22T06:33:57.000Z",
-   "dupes": 2,
-   "score": 0.482,
+   "topic": "compute",
+   "tldr": "Today, Egypt’s AI builders gathered in the Grand Egyptian Museum for a reception that highlighted the nation’s rapidly growing AI ecosystem — spanning AI natives, developers, researchers, startups and enterprises —…",
+   "published": "2026-09-21T16:00:10.000Z",
+   "dupes": 1,
+   "score": 0.581,
    "tier": 3
   },
   {
@@ -520,7 +410,52 @@
    "tldr": "\"There was absolutely a time where we were trying to make everyone happy.\"",
    "published": "2026-09-22T11:00:37.000Z",
    "dupes": 1,
-   "score": 0.479,
+   "score": 0.581,
+   "tier": 3
+  },
+  {
+   "id": "1ca691988404841d2ac67dafb271e7b3d0395a64",
+   "title": "5 Companies Using NVIDIA AI for Clean Energy",
+   "url": "https://blogs.nvidia.com/blog/clean-energy-nvidia-ai",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Clean energy isn’t hard to come by, but the pace of large-scale adoption has historically been slow due to bottlenecks — including out-of-date infrastructure, elongated research and development timelines, and upfront…",
+   "published": "2026-09-21T10:00:35.000Z",
+   "dupes": 1,
+   "score": 0.572,
+   "tier": 3
+  },
+  {
+   "id": "98fe946df30dd12793a090c43f3dd871a7a7ad71",
+   "title": "Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR",
+   "url": "https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html",
+   "source": "The Hacker News",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "security",
+   "tldr": "A fake LastPass Authenticator installer offered on GitHub installs a Windows kernel driver that shuts off antivirus and other security software before a password stealer runs if a victim downloads and runs it,…",
+   "published": "2026-09-21T17:31:01.000Z",
+   "dupes": 1,
+   "score": 0.551,
+   "tier": 3
+  },
+  {
+   "id": "2a6260ae36a8474615d388d5e7b26f3ab568bbee",
+   "title": "Google Fined €403 Million Over GDPR Violations Tied to Location Data",
+   "url": "https://thehackernews.com/2026/09/google-fined-403-million-over-gdpr.html",
+   "source": "The Hacker News",
+   "org": [
+    "google"
+   ],
+   "topic": "security",
+   "tldr": "Google has been fined €403 million for breaking the EU's data protection law, the GDPR, in the way three of its features handled people's location data from May 2018 to February 2020.  Ireland's Data Protection…",
+   "published": "2026-09-21T16:57:31.000Z",
+   "dupes": 1,
+   "score": 0.525,
    "tier": 3
   },
   {
@@ -535,66 +470,310 @@
    "tldr": "A new creature-catching adventure is ready to stream from the cloud this week.  Pawprint Studio’s Aniimo arrives on GeForce NOW at launch, inviting gamers to explore the vibrant continent of Idyll across supported…",
    "published": "2026-09-17T13:00:55.000Z",
    "dupes": 1,
-   "score": 0.458,
+   "score": 0.518,
    "tier": 3
   },
   {
-   "id": "2539d6b605d7a972a89d55e74f283ecab815a265",
-   "title": "NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut",
-   "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "System performance, efficient infrastructure scaling and continuous software optimization are key levers that determine AI inference economics.  Higher system performance means more tokens generated, resulting in higher…",
-   "published": "2026-09-16T15:00:48.000Z",
-   "dupes": 1,
-   "score": 0.456,
-   "tier": 3
-  },
-  {
-   "id": "29e73087bb68527ee99d8cc3c3deb1c8e793f123",
-   "title": "Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers",
-   "url": "https://blogs.nvidia.com/blog/ai-energy-management-alliance",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia",
-    "google"
-   ],
-   "topic": "compute",
-   "tldr": "AI factories are the infrastructure of the intelligence era.  Scaling them responsibly will depend as much on innovation across the grid as inside the data center.",
-   "published": "2026-09-16T13:00:33.000Z",
-   "dupes": 1,
-   "score": 0.456,
-   "tier": 3
-  },
-  {
-   "id": "9bed1d609cbba6c84e61e3aa1cd84e16d3fae26e",
-   "title": "Webinar tomorrow: Inside real-world Google Workspace breaches",
-   "url": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-inside-real-world-google-workspace-breaches",
-   "source": "BleepingComputer",
+   "id": "9eee1724b36d55796bc13fe322f4c741899c4130",
+   "title": "Google's Gemini AI hacked three companies in security test",
+   "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Technology",
    "org": [
     "google"
    ],
    "topic": "security",
-   "tldr": "Tomorrow's webinar examines real Google Workspace breaches involving social engineering and malicious OAuth applications, from initial access through the critical first hours of incident response.  Learn which security…",
-   "published": "2026-09-22T12:57:07.000Z",
+   "tldr": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
+   "published": "2026-09-19T13:39:32.000Z",
    "dupes": 1,
-   "score": 0.436,
+   "score": 0.515,
    "tier": 3
   },
   {
-   "id": "38f0f41bad5753eae9f3f94bb90e9cd3a5ba3610",
-   "title": "Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data",
-   "url": "https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data",
+   "id": "3c6594a0310351071a90e6aff4bf67bcfb178b89",
+   "title": "Shuffling the deck chairs: Xbox continues its \"reset\" with dramatic restructuring",
+   "url": "https://arstechnica.com/gaming/2026/09/shuffling-the-deck-chairs-xbox-continues-its-reset-with-dramatic-restructuring",
+   "source": "Ars Technica",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "gaming",
+   "tldr": "Activision gets Halo , Obsidian becomes part of Bethesda, and more internal shake-ups.",
+   "published": "2026-09-22T15:30:53.000Z",
+   "dupes": 1,
+   "score": 0.511,
+   "tier": 3
+  },
+  {
+   "id": "40efd595a667734f6bcf15b18f446efce4702d77",
+   "title": "Xbox transfers Rare and Halo franchise to Activision, proposes closure of Ninja Theory, and confirms another 268 roles cut amid studio restructure",
+   "url": "https://www.gamesindustry.biz/xbox-transfers-rare-and-halo-franchise-to-activision-proposes-closure-of-ninja-theory-and-confirms-another-268-roles-cut-amid-studio-restructure",
+   "source": "GamesIndustry.biz",
+   "org": [
+    "microsoft",
+    "activision"
+   ],
+   "topic": "gaming",
+   "tldr": "Original story: Xbox has transferred legendary UK studio Rare and ownership of the Halo franchise to Activision, announced the imminent closure of Ninja Theory, and enacted sweeping cuts at Halo Studios.  The news was…",
+   "published": "2026-09-22T14:06:00.000Z",
+   "dupes": 1,
+   "score": 0.508,
+   "tier": 3
+  },
+  {
+   "id": "3542fc562ddb1af9d3e6457d6369a3f92cd0a4ff",
+   "title": "Call of Duty's Activision to make next Halo game as Xbox cuts more jobs",
+   "url": "https://www.bbc.co.uk/news/articles/cvj64gz74ky4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Technology",
+   "org": [
+    "microsoft",
+    "activision"
+   ],
+   "topic": "gaming",
+   "tldr": "The news comes as part of a \"reset\" announced by Xbox in July, with 3,600 planned job losses overall.",
+   "published": "2026-09-22T14:51:39.000Z",
+   "dupes": 1,
+   "score": 0.503,
+   "tier": 3
+  },
+  {
+   "id": "cc2fd48c518b89fdd196794b30fe53529c5a6992",
+   "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
+   "url": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
+   "source": "The Hacker News",
+   "org": [
+    "anthropic",
+    "openai"
+   ],
+   "topic": "security",
+   "tldr": "Three researchers at the security firm Hacktron used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository.…",
+   "published": "2026-09-19T18:36:53.000Z",
+   "dupes": 1,
+   "score": 0.503,
+   "tier": 3
+  },
+  {
+   "id": "71746d073e508b6a03b03454b40cad8a393378e2",
+   "title": "Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up",
+   "url": "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html",
+   "source": "The Hacker News",
+   "org": [
+    "google"
+   ],
+   "topic": "security",
+   "tldr": "Google's Gemini model has become the latest artificial intelligence (AI) system to access the internet and break into other companies during a cybersecurity evaluation.  The development was first reported by The Wall…",
+   "published": "2026-09-19T07:51:34.000Z",
+   "dupes": 1,
+   "score": 0.498,
+   "tier": 3
+  },
+  {
+   "id": "f8b6d533ac77053232cf5b6300395db3ac09d6de",
+   "title": "Xbox reportedly set to announce second round of layoffs this week",
+   "url": "https://www.gamesindustry.biz/xbox-reportedly-set-to-announce-second-round-of-layoffs-this-week",
+   "source": "GamesIndustry.biz",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "gaming",
+   "tldr": "UPDATE: Microsoft has confirmed the loss of 268 jobs amid a sweeping reorganisation of its internal studios , including the proposed closure of Ninja Theory.",
+   "published": "2026-09-22T07:55:38.000Z",
+   "dupes": 1,
+   "score": 0.495,
+   "tier": 3
+  },
+  {
+   "id": "d12dd718a0ca78aa68bf388b2b5ffbc0d8aca992",
+   "title": "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation",
+   "url": "https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html",
+   "source": "The Hacker News",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "security",
+   "tldr": "Microsoft has released fixes for a maximum-severity security flaw in Azure AI Foundry that could be exploited to achieve privilege escalation.  No customer action is required.",
+   "published": "2026-09-18T12:47:04.000Z",
+   "dupes": 1,
+   "score": 0.491,
+   "tier": 3
+  },
+  {
+   "id": "cd4448ddd0244b7c4d68298bfaa712899e7d0992",
+   "title": "After being sidelined, Boeing's Starliner to get starring role in NASA's spaceflight plans",
+   "url": "https://arstechnica.com/space/2026/09/nasa-to-order-more-starliner-missions-and-help-certify-a-new-rocket-to-keep-it-flying",
+   "source": "Ars Technica · Space",
+   "org": [
+    "nasa",
+    "boeing"
+   ],
+   "topic": "space",
+   "tldr": "\"They should fly their capsule.",
+   "published": "2026-09-17T14:37:37.000Z",
+   "dupes": 1,
+   "score": 0.47,
+   "tier": 3
+  },
+  {
+   "id": "29d5f15551dff7ef99b6df2a0229456b495db45a",
+   "title": "One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into a Backdoor",
+   "url": "https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html",
+   "source": "The Hacker News",
+   "org": [
+    "meta"
+   ],
+   "topic": "security",
+   "tldr": "Malware already running on a Mac can quietly take over Meta's Muse assistant and use the broad access its owner granted the app, security researcher Patrick Wardle has shown in a proof-of-concept released on September…",
+   "published": "2026-09-22T06:33:57.000Z",
+   "dupes": 2,
+   "score": 0.452,
+   "tier": 3
+  },
+  {
+   "id": "8d510648dc205c1d19227975fea95eda45eed179",
+   "title": "Age of Empires developer World's Edge hit with layoffs following move to Activision",
+   "url": "https://www.gamesindustry.biz/age-of-empires-developer-worlds-edge-hit-with-layoffs-following-move-to-activision",
+   "source": "GamesIndustry.biz",
+   "org": [
+    "activision"
+   ],
+   "topic": "gaming",
+   "tldr": "Age of Empires studio World's Edge has been hit with layoffs following its transition to Activision, with \"just under half\" of employees affected.",
+   "published": "2026-09-23T13:56:13.000Z",
+   "dupes": 1,
+   "score": 0.435,
+   "tier": 3
+  },
+  {
+   "id": "803310dba13217ee0dd200b200df6657745ebd35",
+   "title": "A new report from Europe raises serious alarms about orbital collisions",
+   "url": "https://arstechnica.com/space/2026/09/there-are-now-17000-satellites-in-orbit-and-growing-should-we-be-concerned",
+   "source": "Ars Technica",
+   "org": [],
+   "topic": "space",
+   "tldr": "\"I think we are going to lose the ability to use certain orbits.\"",
+   "published": "2026-09-23T11:00:17.000Z",
+   "dupes": 2,
+   "score": 0.405,
+   "tier": 3
+  },
+  {
+   "id": "3abdb770a90e65db1d052757bad1f104803b5dc7",
+   "title": "Shannon Lucid’s Record-Setting Mission Aboard Mir",
+   "url": "https://www.nasa.gov/image-article/shannon-lucids-record-setting-mission-aboard-mir",
+   "source": "NASA",
+   "org": [],
+   "topic": "space",
+   "tldr": "Shannon Lucid’s Record-Setting Mission Aboard Mir Three days before returning to Earth, Shannon W.  Lucid—who joined NASA in 1978 as one of its first six female astronauts—checked in on wheat growing in the Svet…",
+   "published": "2026-09-23T16:03:37.000Z",
+   "dupes": 1,
+   "score": 0.383,
+   "tier": 3
+  },
+  {
+   "id": "1a698fa33bfd26b22fd0dcaa3f550257ee919a05",
+   "title": "FFA 2026 Hyperwall Schedule",
+   "url": "https://science.nasa.gov/earth/ffa-2026-hyperwall-schedule",
+   "source": "NASA",
+   "org": [],
+   "topic": "space",
+   "tldr": "FFA 2026 Hyperwall Schedule",
+   "published": "2026-09-23T14:58:13.000Z",
+   "dupes": 1,
+   "score": 0.378,
+   "tier": 3
+  },
+  {
+   "id": "4d7f17de6bcb458cac676094398cd38156b5cf68",
+   "title": "Activision cites data claiming cheating in games is an $8.5bn industry; 69% of online multiplayer studios consider cheating \"a significant or very significant problem\"",
+   "url": "https://www.gamesindustry.biz/activision-cites-data-claiming-cheating-in-games-is-an-85bn-industry-69-of-online-multiplayer-studios-consider-cheating-a-significant-or-very-significant-problem",
+   "source": "GamesIndustry.biz",
+   "org": [
+    "activision"
+   ],
+   "topic": "gaming",
+   "tldr": "5 billion industry.",
+   "published": "2026-09-21T13:27:45.000Z",
+   "dupes": 1,
+   "score": 0.378,
+   "tier": 3
+  },
+  {
+   "id": "49c24ceaab397321cc3d466dee95e4091f9ea1bf",
+   "title": "Risk of Hydrazine Use Following Freeze–Thaw Exposure",
+   "url": "https://www.nasa.gov/general/risk-of-hydrazine-use-following-freeze-thaw-exposure",
+   "source": "NASA",
+   "org": [],
+   "topic": "space",
+   "tldr": "For more information, contact Jonathan E.  gov Download the PDF version The purpose of this Technical Bulletin is to communicate the risks associated with freeze–thaw cycles in hydrazine monopropellant systems and to…",
+   "published": "2026-09-23T14:31:58.000Z",
+   "dupes": 1,
+   "score": 0.376,
+   "tier": 3
+  },
+  {
+   "id": "456ecce5fc5f73cc2536b61bc00d8c06d72fd84e",
+   "title": "Ethereal Space Awarded NOAA SBEM Task Order 1",
+   "url": "https://spacenews.com/ethereal-space-awarded-noaa-sbem-task-order-1",
+   "source": "SpaceNews",
+   "org": [],
+   "topic": "space",
+   "tldr": "DENVER, Colorado – September 2026 – Ethereal Space, Inc.  0 Space-Based Environmental Monitoring (SBEM) program, following NOAA’s […] The post Ethereal Space Awarded NOAA SBEM Task Order 1 appeared first on SpaceNews .",
+   "published": "2026-09-23T15:18:10.000Z",
+   "dupes": 1,
+   "score": 0.372,
+   "tier": 3
+  },
+  {
+   "id": "5a9f3b8cb08cac616c69e42fbcfbde968ab5ddcf",
+   "title": "PitPro’s first tire-changing robot goes live in Canada",
+   "url": "https://techcrunch.com/2026/09/23/pitpros-first-tire-changing-robot-goes-live-in-canada",
    "source": "TechCrunch",
    "org": [],
-   "topic": "security",
-   "tldr": "The theft of agents' personal information could present a major counterintelligence threat, where agents and their families are extorted into cooperating with a foreign government.",
-   "published": "2026-09-22T18:40:30.000Z",
-   "dupes": 3,
-   "score": 0.43,
+   "topic": "robotics",
+   "tldr": "The startup says its automated system can change four tires in under 15 minutes.",
+   "published": "2026-09-23T13:00:00.000Z",
+   "dupes": 1,
+   "score": 0.354,
+   "tier": 3
+  },
+  {
+   "id": "a895a9b18de726f19f32dc960cfe3633191e1d98",
+   "title": "First switch on for ESA-JAXA Ramses asteroid mission",
+   "url": "https://www.esa.int/Space_Safety/Planetary_Defence/First_switch_on_for_ESA-JAXA_Ramses_asteroid_mission",
+   "source": "ESA Space News",
+   "org": [
+    "esa"
+   ],
+   "topic": "space",
+   "tldr": "The European Space Agency’s and Japan Aerospace Exploration Agency’s Ramses planetary defence spacecraft has been turned on for the first time by its prime contractor – marking a major milestone in its time-critical…",
+   "published": "2026-09-23T11:17:00.000Z",
+   "dupes": 1,
+   "score": 0.354,
+   "tier": 3
+  },
+  {
+   "id": "d67347c6bcef55f9fa4c210d461999487478929d",
+   "title": "Helicon brings automation to high-volume composites manufacturing",
+   "url": "https://www.therobotreport.com/helicon-brings-automation-high-volume-composites-manufacturing",
+   "source": "The Robot Report",
+   "org": [],
+   "topic": "robotics",
+   "tldr": "Helicon has obtained seed funding to use automation to cut composite manufacturing lead times from months to weeks.  The post Helicon brings automation to high-volume composites manufacturing appeared first on The Robot…",
+   "published": "2026-09-23T12:30:48.000Z",
+   "dupes": 1,
+   "score": 0.344,
+   "tier": 3
+  },
+  {
+   "id": "b3b317c9759b6a2d0d3bc97ec0e53c998188ad54",
+   "title": "State of Humanoids keynote brings industry leaders to RoboBusiness",
+   "url": "https://www.therobotreport.com/state-of-humanoids-keynote-brings-industry-leaders-robobusiness",
+   "source": "The Robot Report",
+   "org": [],
+   "topic": "robotics",
+   "tldr": "At RoboBusiness, industry leaders will discuss the state of humanoids as the robots transition from demos to real industrial deployments.  The post State of Humanoids keynote brings industry leaders to RoboBusiness…",
+   "published": "2026-09-23T12:25:11.000Z",
+   "dupes": 1,
+   "score": 0.344,
    "tier": 3
   },
   {
@@ -612,185 +791,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.43,
-   "tier": 3
-  },
-  {
-   "id": "3a67f6fa3e511994651c1111f44af8c269763df0",
-   "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
-   "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai",
-   "source": "TechCrunch",
-   "org": [
-    "qualcomm"
-   ],
-   "topic": "compute",
-   "tldr": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
-   "published": "2026-09-22T20:00:00.000Z",
-   "dupes": 1,
-   "score": 0.427,
-   "tier": 3
-  },
-  {
-   "id": "803310dba13217ee0dd200b200df6657745ebd35",
-   "title": "A new report from Europe raises serious alarms about orbital collisions",
-   "url": "https://arstechnica.com/space/2026/09/there-are-now-17000-satellites-in-orbit-and-growing-should-we-be-concerned",
-   "source": "Ars Technica",
-   "org": [],
-   "topic": "space",
-   "tldr": "\"I think we are going to lose the ability to use certain orbits.\"",
-   "published": "2026-09-23T11:00:17.000Z",
-   "dupes": 2,
-   "score": 0.426,
-   "tier": 3
-  },
-  {
-   "id": "969ad1b26f390579fd92535817d9f6a61673d099",
-   "title": "Exploit Released for Unpatched Ubuntu Linux Flaw Enabling Host-Root Container Escape",
-   "url": "https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html",
-   "source": "The Hacker News",
-   "org": [],
-   "topic": "security",
-   "tldr": "A use-after-free in the Linux kernel's AF_UNIX socket subsystem can be used to escape a container and gain root on the host, security firm DepthFirst said in research published September 22.  04 LTS releases.",
-   "published": "2026-09-23T11:12:18.000Z",
-   "dupes": 2,
-   "score": 0.426,
-   "tier": 3
-  },
-  {
-   "id": "cd4448ddd0244b7c4d68298bfaa712899e7d0992",
-   "title": "After being sidelined, Boeing's Starliner to get starring role in NASA's spaceflight plans",
-   "url": "https://arstechnica.com/space/2026/09/nasa-to-order-more-starliner-missions-and-help-certify-a-new-rocket-to-keep-it-flying",
-   "source": "Ars Technica · Space",
-   "org": [
-    "nasa",
-    "boeing"
-   ],
-   "topic": "space",
-   "tldr": "\"They should fly their capsule.",
-   "published": "2026-09-17T14:37:37.000Z",
-   "dupes": 1,
-   "score": 0.409,
-   "tier": 3
-  },
-  {
-   "id": "a895a9b18de726f19f32dc960cfe3633191e1d98",
-   "title": "First switch on for ESA-JAXA Ramses asteroid mission",
-   "url": "https://www.esa.int/Space_Safety/Planetary_Defence/First_switch_on_for_ESA-JAXA_Ramses_asteroid_mission",
-   "source": "ESA Space News",
-   "org": [
-    "esa"
-   ],
-   "topic": "space",
-   "tldr": "The European Space Agency’s and Japan Aerospace Exploration Agency’s Ramses planetary defence spacecraft has been turned on for the first time by its prime contractor – marking a major milestone in its time-critical…",
-   "published": "2026-09-23T11:17:00.000Z",
-   "dupes": 1,
-   "score": 0.375,
-   "tier": 3
-  },
-  {
-   "id": "b3b317c9759b6a2d0d3bc97ec0e53c998188ad54",
-   "title": "State of Humanoids keynote brings industry leaders to RoboBusiness",
-   "url": "https://www.therobotreport.com/state-of-humanoids-keynote-brings-industry-leaders-robobusiness",
-   "source": "The Robot Report",
-   "org": [],
-   "topic": "robotics",
-   "tldr": "At RoboBusiness, industry leaders will discuss the state of humanoids as the robots transition from demos to real industrial deployments.  The post State of Humanoids keynote brings industry leaders to RoboBusiness…",
-   "published": "2026-09-23T12:25:11.000Z",
-   "dupes": 1,
-   "score": 0.366,
-   "tier": 3
-  },
-  {
-   "id": "fadaefc8c541b0d18e8d9a3508ca80376157d95f",
-   "title": "A hitchhiker’s guide to Hera’s target asteroids",
-   "url": "https://www.esa.int/Space_Safety/Hera/A_hitchhiker_s_guide_to_Hera_s_target_asteroids",
-   "source": "ESA Space News",
-   "org": [],
-   "topic": "space",
-   "tldr": "Currently speeding through deep space at 12 km/s relative to Earth, ESA’s Hera spacecraft is due to reach its target Dimorphos asteroid this November.  But if an astronaut were magically teleported onto the…",
-   "published": "2026-09-23T08:10:00.000Z",
-   "dupes": 1,
-   "score": 0.361,
-   "tier": 3
-  },
-  {
-   "id": "cdadba2732de09b2efaa168433209198d120330f",
-   "title": "Boom Year for Desert Blooms",
-   "url": "https://science.nasa.gov/earth/earth-observatory/boom-year-for-desert-blooms",
-   "source": "NASA",
-   "org": [],
-   "topic": "space",
-   "tldr": "Carpets of wildflowers burst from arid, ochre-colored land in Western Australia following winter rains.",
-   "published": "2026-09-23T04:01:00.000Z",
-   "dupes": 1,
-   "score": 0.352,
-   "tier": 3
-  },
-  {
-   "id": "db383b1e27061e12eded5a07224bc4e2e5538b55",
-   "title": "Curiosity Blog, Sols 5010-5015: Checking out the Bands",
-   "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5010-5015-checking-out-the-bands",
-   "source": "NASA",
-   "org": [],
-   "topic": "space",
-   "tldr": "Catherine O’Connell-Cooper, APXS Strategic Planner and Payload Uplink/Downlink Lead, University New Brunswick, NB, Canada Earth planning date: Friday, Sept.  11, 2026 This week we had two planning days (Tuesday and…",
-   "published": "2026-09-23T00:40:16.000Z",
-   "dupes": 1,
-   "score": 0.339,
-   "tier": 3
-  },
-  {
-   "id": "640292073834f77155f9c35b804556233531de06",
-   "title": "Risks of Decompression Sickness and Venous Thromboembolism during Spaceflight and Patent Foramen Ovale Implications",
-   "url": "https://www.nasa.gov/organizations/ochmo/risks-of-decompression-sickness-and-venous-thromboembolism-during-spaceflight-and-patent-foramen-ovale-implications",
-   "source": "NASA",
-   "org": [],
-   "topic": "space",
-   "tldr": "NASA’s Office of the Chief Health and Medical Officer formed a working group in August 2026 to review the most recent data related to extravehicular activity (EVA) prebreathe testing and decompression sickness (DCS)…",
-   "published": "2026-09-22T19:19:45.000Z",
-   "dupes": 1,
-   "score": 0.321,
-   "tier": 3
-  },
-  {
-   "id": "dc8b697f76a1294c78922a5e9fc20021f5fc3503",
-   "title": "Discord re-launches age verification following backlash over privacy concerns",
-   "url": "https://www.gamesindustry.biz/discord-re-launches-age-verification-following-backlash-over-privacy-concerns",
-   "source": "GamesIndustry.biz",
-   "org": [],
-   "topic": "gaming",
-   "tldr": "Discord has re-launched its age verification process for all users, introducing alternative methods that do not require video selfies or ID.",
-   "published": "2026-09-23T10:11:43.000Z",
-   "dupes": 1,
-   "score": 0.32,
-   "tier": 3
-  },
-  {
-   "id": "51115ff327ecf623f73daae759d4eae1b3b6a3df",
-   "title": "a16z is challenging Silicon Valley’s love for drop-outs by launching a school",
-   "url": "https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school",
-   "source": "TechCrunch",
-   "org": [],
-   "topic": "compute",
-   "tldr": "This academy for promising high school grads is somewhere between a trade school, Y Combinator, and Peter Thiel's Fellowship Program.",
-   "published": "2026-09-22T18:24:34.000Z",
-   "dupes": 1,
-   "score": 0.319,
-   "tier": 3
-  },
-  {
-   "id": "4d7f17de6bcb458cac676094398cd38156b5cf68",
-   "title": "Activision cites data claiming cheating in games is an $8.5bn industry; 69% of online multiplayer studios consider cheating \"a significant or very significant problem\"",
-   "url": "https://www.gamesindustry.biz/activision-cites-data-claiming-cheating-in-games-is-an-85bn-industry-69-of-online-multiplayer-studios-consider-cheating-a-significant-or-very-significant-problem",
-   "source": "GamesIndustry.biz",
-   "org": [
-    "activision"
-   ],
-   "topic": "gaming",
-   "tldr": "5 billion industry.",
-   "published": "2026-09-21T13:27:45.000Z",
-   "dupes": 1,
-   "score": 0.315,
+   "score": 0.34,
    "tier": 3
   },
   {
@@ -803,20 +804,7 @@
    "tldr": "You don't even need a Creative Cloud login to edit clips, but AI features cost extra.",
    "published": "2026-09-22T19:08:58.000Z",
    "dupes": 1,
-   "score": 0.313,
-   "tier": 3
-  },
-  {
-   "id": "d55b681e0c22eb81df2285a4af5b0465c161d6a1",
-   "title": "Military milestone: Ukrainian naval drone sinks Russian kamikaze drone boat",
-   "url": "https://arstechnica.com/gadgets/2026/09/military-milestone-ukrainian-naval-drone-sinks-russian-kamikaze-drone-boat",
-   "source": "Ars Technica",
-   "org": [],
-   "topic": "robotics",
-   "tldr": "Drone boat battle occurs as Ukraine and Russia target Black Sea ports and ships.",
-   "published": "2026-09-21T21:07:05.000Z",
-   "dupes": 2,
-   "score": 0.31,
+   "score": 0.298,
    "tier": 3
   },
   {
@@ -829,7 +817,7 @@
    "tldr": "Toyota's push comes as automakers race to develop and deploy humanoid robots.",
    "published": "2026-09-22T17:06:16.000Z",
    "dupes": 1,
-   "score": 0.306,
+   "score": 0.292,
    "tier": 3
   },
   {
@@ -842,33 +830,7 @@
    "tldr": "Dyson admits a component issue but won't say what's failing in its $500 toothbrush.",
    "published": "2026-09-22T13:33:16.000Z",
    "dupes": 1,
-   "score": 0.295,
-   "tier": 3
-  },
-  {
-   "id": "2bcfe814794480c4bcfb7ff89296a7318e3b1741",
-   "title": "AstroForge is putting AI in command of its next spacecraft",
-   "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft",
-   "source": "TechCrunch",
-   "org": [],
-   "topic": "space",
-   "tldr": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe.",
-   "published": "2026-09-22T15:00:00.000Z",
-   "dupes": 1,
-   "score": 0.292,
-   "tier": 3
-  },
-  {
-   "id": "e5bfcbc26e07ef0eb5caed12b20864608280eaa0",
-   "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
-   "url": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage",
-   "source": "TechCrunch",
-   "org": [],
-   "topic": "robotics",
-   "tldr": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026.  Register before September 25 to save up to $200, plus get a second pass at 50%…",
-   "published": "2026-09-22T14:30:00.000Z",
-   "dupes": 1,
-   "score": 0.291,
+   "score": 0.282,
    "tier": 3
   },
   {
@@ -881,7 +843,33 @@
    "tldr": "With Intrinsic Core, the company is making key parts of its manipulation platform available to robotics developers.  The post Intrinsic open sources key parts of its platform for easier development appeared first on The…",
    "published": "2026-09-22T11:55:37.000Z",
    "dupes": 1,
-   "score": 0.276,
+   "score": 0.264,
+   "tier": 3
+  },
+  {
+   "id": "d55b681e0c22eb81df2285a4af5b0465c161d6a1",
+   "title": "Military milestone: Ukrainian naval drone sinks Russian kamikaze drone boat",
+   "url": "https://arstechnica.com/gadgets/2026/09/military-milestone-ukrainian-naval-drone-sinks-russian-kamikaze-drone-boat",
+   "source": "Ars Technica · Gadgets",
+   "org": [],
+   "topic": "compute",
+   "tldr": "Drone boat battle occurs as Ukraine and Russia target Black Sea ports and ships.",
+   "published": "2026-09-21T21:07:05.000Z",
+   "dupes": 1,
+   "score": 0.246,
+   "tier": 3
+  },
+  {
+   "id": "b5ed081379650f8176dbfef7bf72feff36ba00e4",
+   "title": "Googlebooks launch October 4 starting at $899—here are the five models you can preorder today",
+   "url": "https://arstechnica.com/gadgets/2026/09/googlebook-laptops-launch-october-4-starting-at-899-preorders-for-five-models-live-today",
+   "source": "Ars Technica · Gadgets",
+   "org": [],
+   "topic": "compute",
+   "tldr": "Googlebooks offer premium hardware and deep smartphone integration, but you may not like the price.",
+   "published": "2026-09-21T13:00:11.000Z",
+   "dupes": 1,
+   "score": 0.232,
    "tier": 3
   },
   {
@@ -894,7 +882,20 @@
    "tldr": "At Laguna Seca, Unimore Racing won the Indy Autonomous Challenge, marking the IAC's first autonomous car overtakes on a road course.  The post IAC completes autonomous racing event at Laguna Seca appeared first on The…",
    "published": "2026-09-21T18:02:09.000Z",
    "dupes": 1,
-   "score": 0.236,
+   "score": 0.228,
+   "tier": 3
+  },
+  {
+   "id": "c4d22e79dcded9e544fb80b4ec0fd429876815f1",
+   "title": "California tightens rules on AI data center energy and water use",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+   "source": "The Verge AI",
+   "org": [],
+   "topic": "compute",
+   "tldr": "California Gov.  Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times.",
+   "published": "2026-09-21T20:29:45.000Z",
+   "dupes": 1,
+   "score": 0.221,
    "tier": 3
   },
   {
@@ -909,7 +910,7 @@
    "tldr": "The new Robotics Metaplant Application Center is training humanoids as part of Hyundai's Metaplant America in Georgia.  The post Boston Dynamics opens Metaplant Application Center to train Atlas humanoids appeared first…",
    "published": "2026-09-21T12:59:00.000Z",
    "dupes": 1,
-   "score": 0.228,
+   "score": 0.221,
    "tier": 3
   },
   {
@@ -922,7 +923,7 @@
    "tldr": "Decommissioning a humanoid robot is not a matter of traditional scrapping.  It's a highly technical, high-stakes surgical endeavor.",
    "published": "2026-09-20T12:45:45.000Z",
    "dupes": 1,
-   "score": 0.198,
+   "score": 0.194,
    "tier": 3
   },
   {
@@ -935,7 +936,7 @@
    "tldr": "Hirebotics said these new capabilities extend the working range of the cobots, giving manufacturers greater flexibility.  The post Hirebotics adds line tracking and linear rail capabilities to its cobots appeared first…",
    "published": "2026-09-19T12:40:50.000Z",
    "dupes": 1,
-   "score": 0.181,
+   "score": 0.179,
    "tier": 3
   },
   {
@@ -948,7 +949,7 @@
    "tldr": "Training systems that allow robots to negotiate the real world are getting more sophisticated.",
    "published": "2026-09-17T23:00:47.000Z",
    "dupes": 1,
-   "score": 0.176,
+   "score": 0.175,
    "tier": 3
   },
   {
@@ -961,7 +962,7 @@
    "tldr": "The real robotics opportunity isn’t a humanoid in every home—it’s packaging robots for the jobs businesses need done today.  The post The picks-and-shovels strategy behind the robotics boom appeared first on The Robot…",
    "published": "2026-09-18T18:57:36.000Z",
    "dupes": 1,
-   "score": 0.174,
+   "score": 0.172,
    "tier": 3
   }
  ]
