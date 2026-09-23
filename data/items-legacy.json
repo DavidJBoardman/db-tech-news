@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-23T20:55:47.495Z",
+ "generated": "2026-09-23T23:23:40.494Z",
  "items": [
   {
    "id": "914ed32ad555468de89f3d16f259b4585854b78e",
@@ -13,37 +13,37 @@
    "tldr": "",
    "published": "2026-09-23T15:25:14.000Z",
    "dupes": 2,
-   "score": 0.662,
+   "score": 0.7,
    "tier": 1
   },
   {
-   "id": "3d48e529ad7a20b189a9c01e1c4d34221cb0505e",
-   "title": "Introducing GPT-6 Sol and Luna",
-   "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-   "source": "OpenAI Blog",
+   "id": "f82afb648776b0979dfc3530a9c045662279b45f",
+   "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+   "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+   "source": "Anthropic News",
    "org": [
-    "openai"
+    "anthropic"
    ],
    "topic": "ai",
-   "tldr": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
-   "published": "2026-09-22T18:00:00.000Z",
+   "tldr": "",
+   "published": "2026-09-23T00:00:00.000Z",
    "dupes": 2,
-   "score": 0.633,
+   "score": 0.645,
    "tier": 2
   },
   {
-   "id": "cd8117c6d35f983b0412afe669291075935696f1",
-   "title": "Advancing Private AI Compute with secure, server-side memory",
-   "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory",
-   "source": "Google DeepMind",
+   "id": "a877a4ca213122afa12d52968535fbae9cc63d72",
+   "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
+   "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on",
+   "source": "Hacker News",
    "org": [
-    "google"
+    "anthropic"
    ],
    "topic": "ai",
-   "tldr": "Introducing private, server-side memory to Private AI Compute for personal AI.",
-   "published": "2026-09-23T16:00:57.000Z",
+   "tldr": "",
+   "published": "2026-09-23T12:15:33.000Z",
    "dupes": 1,
-   "score": 0.59,
+   "score": 0.578,
    "tier": 2
   },
   {
@@ -58,7 +58,22 @@
    "tldr": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
    "published": "2026-09-23T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.589,
+   "score": 0.563,
+   "tier": 2
+  },
+  {
+   "id": "cd8117c6d35f983b0412afe669291075935696f1",
+   "title": "Advancing Private AI Compute with secure, server-side memory",
+   "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory",
+   "source": "Google DeepMind",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+   "published": "2026-09-23T16:00:57.000Z",
+   "dupes": 1,
+   "score": 0.563,
    "tier": 2
   },
   {
@@ -73,7 +88,22 @@
    "tldr": "",
    "published": "2026-09-23T18:41:40.000Z",
    "dupes": 1,
-   "score": 0.584,
+   "score": 0.555,
+   "tier": 2
+  },
+  {
+   "id": "7d998d11cb8bbc6130e160f77b6fcff3b443e3db",
+   "title": "Once Claude can measure something, it can make it faster",
+   "url": "https://claude.dev/blog/how-we-made-claude-ai-faster",
+   "source": "Hacker News",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-23T19:23:40.000Z",
+   "dupes": 1,
+   "score": 0.546,
    "tier": 2
   },
   {
@@ -88,7 +118,7 @@
    "tldr": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
    "published": "2026-09-23T13:00:00.000Z",
    "dupes": 1,
-   "score": 0.558,
+   "score": 0.535,
    "tier": 2
   },
   {
@@ -103,22 +133,22 @@
    "tldr": "When Sakeena Fiza describes her work as a validation engineer at NVIDIA, she does so in terms more befitting a detective story than a world-class engineering lab.  “Validation engineers look in the shadows and shine a…",
    "published": "2026-09-23T15:00:32.000Z",
    "dupes": 1,
-   "score": 0.554,
+   "score": 0.528,
    "tier": 2
   },
   {
-   "id": "fc7b4c2bae45ce13658d4734101a2d40227c8735",
-   "title": "Offloaded inference for real-world physical AI robotics",
-   "url": "https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics",
-   "source": "Microsoft Research",
+   "id": "01d4e543c9419cead77e21595bfd0d3a6b2682b8",
+   "title": "Sam Altman’s remarks at the United Nations Security Council",
+   "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+   "source": "OpenAI Blog",
    "org": [
-    "microsoft"
+    "openai"
    ],
    "topic": "ai",
-   "tldr": "Robots are getting smarter, but how can their hardware match that growth?  New Microsoft Research findings show that moving AI inference beyond the robot can improve task success, boost efficiency, and support more…",
-   "published": "2026-09-23T16:01:36.000Z",
+   "tldr": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+   "published": "2026-09-23T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.552,
+   "score": 0.526,
    "tier": 2
   },
   {
@@ -133,7 +163,7 @@
    "tldr": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
    "published": "2026-09-23T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.548,
+   "score": 0.526,
    "tier": 2
   },
   {
@@ -148,7 +178,7 @@
    "tldr": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
    "published": "2026-09-23T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.548,
+   "score": 0.526,
    "tier": 2
   },
   {
@@ -163,38 +193,23 @@
    "tldr": "6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs.  1.",
    "published": "2026-09-23T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.548,
+   "score": 0.526,
    "tier": 2
   },
   {
-   "id": "f82afb648776b0979dfc3530a9c045662279b45f",
-   "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-   "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-   "source": "Anthropic News",
+   "id": "fc7b4c2bae45ce13658d4734101a2d40227c8735",
+   "title": "Offloaded inference for real-world physical AI robotics",
+   "url": "https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics",
+   "source": "Microsoft Research",
    "org": [
-    "anthropic"
+    "microsoft"
    ],
    "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-23T00:00:00.000Z",
-   "dupes": 2,
-   "score": 0.54,
-   "tier": 2
-  },
-  {
-   "id": "7d998d11cb8bbc6130e160f77b6fcff3b443e3db",
-   "title": "How we made claude.ai 3x faster in two weeks",
-   "url": "https://claude.dev/blog/how-we-made-claude-ai-faster",
-   "source": "Hacker News",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-23T19:23:40.000Z",
+   "tldr": "Robots are getting smarter, but how can their hardware match that growth?  New Microsoft Research findings show that moving AI inference beyond the robot can improve task success, boost efficiency, and support more…",
+   "published": "2026-09-23T16:01:36.000Z",
    "dupes": 1,
-   "score": 0.536,
-   "tier": 2
+   "score": 0.526,
+   "tier": 3
   },
   {
    "id": "1d5a9cc2d9509da81910cada203eb369287e9e13",
@@ -208,22 +223,7 @@
    "tldr": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
    "published": "2026-09-23T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.53,
-   "tier": 3
-  },
-  {
-   "id": "54336ea97e9aec13fd90cb04c24969505cb244c6",
-   "title": "Meta’s AI agent is a cute little guy who’s great at spending my money",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping",
-   "source": "The Verge AI",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "Modern life comes with an unending, auto-populating to-do list.  It never ceases to amaze me how I can be doing nothing at all, minding my own business, and suddenly something needs to be taken care of.",
-   "published": "2026-09-23T19:00:00.000Z",
-   "dupes": 1,
-   "score": 0.525,
+   "score": 0.509,
    "tier": 3
   },
   {
@@ -238,52 +238,7 @@
    "tldr": "Anthropic says its AI Claude has \"autonomously discovered\" a new enzyme system similar to machinery behind the powerful gene-editing tool Crispr.  It's the first result from Anthropic's newly-launched wet lab and an…",
    "published": "2026-09-23T18:00:00.000Z",
    "dupes": 1,
-   "score": 0.513,
-   "tier": 3
-  },
-  {
-   "id": "18c511d8742ebf23313dd2fbe68814dbe7124e17",
-   "title": "GPT-6 Astra has gained the ability to drive a car",
-   "url": "https://drivingbench.com/",
-   "source": "Hacker News",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-23T15:14:22.000Z",
-   "dupes": 1,
-   "score": 0.502,
-   "tier": 3
-  },
-  {
-   "id": "a877a4ca213122afa12d52968535fbae9cc63d72",
-   "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
-   "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on",
-   "source": "Hacker News",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-23T12:15:33.000Z",
-   "dupes": 1,
-   "score": 0.486,
-   "tier": 3
-  },
-  {
-   "id": "0c90c73c08cf283551a15d6fbe9450700fca3b21",
-   "title": "Claude Opus 5.5",
-   "url": "https://www.anthropic.com/claude-opus-5-5",
-   "source": "Hacker News",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-22T16:29:05.000Z",
-   "dupes": 1,
-   "score": 0.467,
+   "score": 0.484,
    "tier": 3
   },
   {
@@ -298,7 +253,7 @@
    "tldr": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster.",
    "published": "2026-09-23T01:00:00.000Z",
    "dupes": 1,
-   "score": 0.462,
+   "score": 0.448,
    "tier": 3
   },
   {
@@ -313,7 +268,7 @@
    "tldr": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
    "published": "2026-09-23T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.456,
+   "score": 0.442,
    "tier": 3
   },
   {
@@ -328,7 +283,7 @@
    "tldr": "NVIDIA AI Day Singapore, which takes place Sept.  22-23 at the Raffles City Convention Centre, is offering attendees opportunities to explore the hands-on training, expert-led sessions and advanced tools to accelerate…",
    "published": "2026-09-23T02:30:22.000Z",
    "dupes": 1,
-   "score": 0.447,
+   "score": 0.432,
    "tier": 3
   },
   {
@@ -343,7 +298,7 @@
    "tldr": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
    "published": "2026-09-22T21:00:00.000Z",
    "dupes": 1,
-   "score": 0.439,
+   "score": 0.427,
    "tier": 3
   },
   {
@@ -358,7 +313,22 @@
    "tldr": "OpenAI has hired three former Patreon execs to anchor its product strategy for creators.  After starting the creator subscription platform 13 years ago, cofounder and technology chief Sam Yam announced on X that he's…",
    "published": "2026-09-23T11:02:39.000Z",
    "dupes": 1,
-   "score": 0.439,
+   "score": 0.418,
+   "tier": 3
+  },
+  {
+   "id": "3d48e529ad7a20b189a9c01e1c4d34221cb0505e",
+   "title": "Introducing GPT-6 Sol and Luna",
+   "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+   "published": "2026-09-22T18:00:00.000Z",
+   "dupes": 1,
+   "score": 0.413,
    "tier": 3
   },
   {
@@ -376,7 +346,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.398,
+   "score": 0.39,
    "tier": 3
   },
   {
@@ -394,22 +364,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.374,
-   "tier": 3
-  },
-  {
-   "id": "0f1ff99a4515acfca8e0752b510fb1314cb7b618",
-   "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-   "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
-   "source": "Hacker News",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-22T13:52:15.000Z",
-   "dupes": 1,
-   "score": 0.367,
+   "score": 0.365,
    "tier": 3
   },
   {
@@ -424,7 +379,7 @@
    "tldr": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
    "published": "2026-09-22T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.362,
+   "score": 0.356,
    "tier": 3
   },
   {
@@ -439,22 +394,7 @@
    "tldr": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward.",
    "published": "2026-09-23T00:17:17.000Z",
    "dupes": 1,
-   "score": 0.358,
-   "tier": 3
-  },
-  {
-   "id": "a7ca59844a94ccd6f8fa929c5c7dfde76ca3aff0",
-   "title": "Advisory Group on Mathematics and Artificial Intelligence",
-   "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
-   "published": "2026-09-21T12:00:00.000Z",
-   "dupes": 1,
-   "score": 0.339,
+   "score": 0.344,
    "tier": 3
   },
   {
@@ -469,7 +409,22 @@
    "tldr": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
    "published": "2026-09-21T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.339,
+   "score": 0.336,
+   "tier": 3
+  },
+  {
+   "id": "a7ca59844a94ccd6f8fa929c5c7dfde76ca3aff0",
+   "title": "Advisory Group on Mathematics and Artificial Intelligence",
+   "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+   "published": "2026-09-21T12:00:00.000Z",
+   "dupes": 1,
+   "score": 0.336,
    "tier": 3
   },
   {
@@ -484,7 +439,7 @@
    "tldr": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
    "published": "2026-09-21T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.336,
+   "score": 0.333,
    "tier": 3
   },
   {
@@ -499,7 +454,7 @@
    "tldr": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
    "published": "2026-09-21T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.332,
+   "score": 0.329,
    "tier": 3
   },
   {
@@ -517,7 +472,7 @@
     "model"
    ],
    "dupes": 2,
-   "score": 0.326,
+   "score": 0.325,
    "tier": 3
   },
   {
@@ -532,48 +487,7 @@
    "tldr": "6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
    "published": "2026-09-21T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.325,
-   "tier": 3
-  },
-  {
-   "id": "2960c64a019e48fb3e0b2c640d1f2581dcc831a5",
-   "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-   "url": "https://huggingface.co/blog/evaleval-aisi",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-22T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.325,
-   "tier": 3
-  },
-  {
-   "id": "98acfe91fd30b730b364f1e1c322fe7898e567f8",
-   "title": "Transformers now runs llama.cpp quants",
-   "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-   "source": "Hugging Face Blog",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-22T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.325,
-   "tier": 3
-  },
-  {
-   "id": "fb8ad85c459c0cb6d64cfdd858f1393829b3e36c",
-   "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
-   "url": "https://huggingface.co/blog/omlx",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-22T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.325,
+   "score": 0.322,
    "tier": 3
   },
   {
@@ -588,7 +502,48 @@
    "tldr": "Every AI factory needs power and cooling that fit its computing architecture.  As AI infrastructure expands, power, cooling, water, site and grid constraints are shaping what builders can deploy.",
    "published": "2026-09-21T18:00:07.000Z",
    "dupes": 1,
-   "score": 0.324,
+   "score": 0.32,
+   "tier": 3
+  },
+  {
+   "id": "2960c64a019e48fb3e0b2c640d1f2581dcc831a5",
+   "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+   "url": "https://huggingface.co/blog/evaleval-aisi",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-22T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.319,
+   "tier": 3
+  },
+  {
+   "id": "98acfe91fd30b730b364f1e1c322fe7898e567f8",
+   "title": "Transformers now runs llama.cpp quants",
+   "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+   "source": "Hugging Face Blog",
+   "org": [
+    "meta"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-22T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.319,
+   "tier": 3
+  },
+  {
+   "id": "fb8ad85c459c0cb6d64cfdd858f1393829b3e36c",
+   "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+   "url": "https://huggingface.co/blog/omlx",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-22T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.319,
    "tier": 3
   },
   {
@@ -603,7 +558,7 @@
    "tldr": "Physical AI is moving rapidly from research to large-scale deployment.  By 2035, ABI Research projects an installed base of 49 million level 3-5 autonomous vehicles (AVs), while Omdia estimates that roughly 60 million…",
    "published": "2026-09-21T16:00:46.000Z",
    "dupes": 1,
-   "score": 0.321,
+   "score": 0.316,
    "tier": 3
   },
   {
@@ -618,7 +573,7 @@
    "tldr": "Today, Egypt’s AI builders gathered in the Grand Egyptian Museum for a reception that highlighted the nation’s rapidly growing AI ecosystem — spanning AI natives, developers, researchers, startups and enterprises —…",
    "published": "2026-09-21T16:00:10.000Z",
    "dupes": 1,
-   "score": 0.321,
+   "score": 0.316,
    "tier": 3
   },
   {
@@ -633,7 +588,22 @@
    "tldr": "AI security is an engineering problem.  That means defined security requirements, enforceable controls, named owners and evidence that protections work.",
    "published": "2026-09-21T14:51:34.000Z",
    "dupes": 1,
-   "score": 0.319,
+   "score": 0.315,
+   "tier": 3
+  },
+  {
+   "id": "1ca691988404841d2ac67dafb271e7b3d0395a64",
+   "title": "5 Companies Using NVIDIA AI for Clean Energy",
+   "url": "https://blogs.nvidia.com/blog/clean-energy-nvidia-ai",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Clean energy isn’t hard to come by, but the pace of large-scale adoption has historically been slow due to bottlenecks — including out-of-date infrastructure, elongated research and development timelines, and upfront…",
+   "published": "2026-09-21T10:00:35.000Z",
+   "dupes": 1,
+   "score": 0.308,
    "tier": 3
   },
   {
@@ -649,7 +619,7 @@
    "tldr": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup.  The \"Horowitz Andreessen Academy\" will launch with 10…",
    "published": "2026-09-22T16:34:08.000Z",
    "dupes": 1,
-   "score": 0.317,
+   "score": 0.307,
    "tier": 3
   },
   {
@@ -664,22 +634,7 @@
    "tldr": "5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents.  5 comes with improvements to certain risky behaviors, including attempts to escape the company's testing sandbox.",
    "published": "2026-09-22T16:30:00.000Z",
    "dupes": 1,
-   "score": 0.317,
-   "tier": 3
-  },
-  {
-   "id": "1ca691988404841d2ac67dafb271e7b3d0395a64",
-   "title": "5 Companies Using NVIDIA AI for Clean Energy",
-   "url": "https://blogs.nvidia.com/blog/clean-energy-nvidia-ai",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Clean energy isn’t hard to come by, but the pace of large-scale adoption has historically been slow due to bottlenecks — including out-of-date infrastructure, elongated research and development timelines, and upfront…",
-   "published": "2026-09-21T10:00:35.000Z",
-   "dupes": 1,
-   "score": 0.311,
+   "score": 0.307,
    "tier": 3
   },
   {
@@ -694,35 +649,7 @@
    "tldr": "Custom-made molecules are advancing medicine, materials, and agriculture, but producing them is slow and expensive.  A new Nature paper highlights RetroChimera, a predictive model that helps accelerate chemical…",
    "published": "2026-09-21T15:30:19.000Z",
    "dupes": 1,
-   "score": 0.307,
-   "tier": 3
-  },
-  {
-   "id": "c701b57089c5bf6a94efedcee126de608bba33a3",
-   "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-   "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-21T13:44:34.000Z",
-   "dupes": 1,
-   "score": 0.304,
-   "tier": 3
-  },
-  {
-   "id": "47b87cc27bae1888aaa2407cd0a4b21cf9935957",
-   "title": "Partnering with Accenture on embedded evaluation",
-   "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
-   "source": "Anthropic News",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-18T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.302,
+   "score": 0.303,
    "tier": 3
   },
   {
@@ -738,6 +665,21 @@
    "published": "2026-09-18T12:00:00.000Z",
    "dupes": 1,
    "score": 0.302,
+   "tier": 3
+  },
+  {
+   "id": "47b87cc27bae1888aaa2407cd0a4b21cf9935957",
+   "title": "Partnering with Accenture on embedded evaluation",
+   "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+   "source": "Anthropic News",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-18T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.301,
    "tier": 3
   },
   {
@@ -786,6 +728,19 @@
    "tier": 3
   },
   {
+   "id": "c701b57089c5bf6a94efedcee126de608bba33a3",
+   "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+   "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-21T13:44:34.000Z",
+   "dupes": 1,
+   "score": 0.301,
+   "tier": 3
+  },
+  {
    "id": "eb792e0fc342008524956ef191d82691e9af6f91",
    "title": "tokenizers v1: encode, decode and scaling, measured",
    "url": "https://huggingface.co/blog/tokenizers-v1",
@@ -795,7 +750,7 @@
    "tldr": "",
    "published": "2026-09-21T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.287,
+   "score": 0.285,
    "tier": 3
   },
   {
@@ -844,6 +799,21 @@
    "tier": 3
   },
   {
+   "id": "635b267ac04d288743830b0b532d5ac2177c935f",
+   "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+   "url": "https://cactuscompute.com/needle",
+   "source": "HN · DeepSeek",
+   "org": [
+    "deepseek"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-18T00:11:44.000Z",
+   "dupes": 1,
+   "score": 0.27,
+   "tier": 3
+  },
+  {
    "id": "282315cad5df13bfa586658c55f21766d7ed63d2",
    "title": "What we’ve learned from Microsoft’s own AI transformation",
    "url": "https://blogs.microsoft.com/blog/2026/09/17/what-weve-learned-from-microsofts-own-ai-transformation",
@@ -859,6 +829,21 @@
    "tier": 3
   },
   {
+   "id": "57dd0cc73353ce5b30993b0d644093fdcd5af415",
+   "title": "DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression",
+   "url": "https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html",
+   "source": "HN · DeepSeek",
+   "org": [
+    "deepseek"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-17T01:39:47.000Z",
+   "dupes": 1,
+   "score": 0.233,
+   "tier": 3
+  },
+  {
    "id": "1594232205bbc6cf44ecbbae5d94f0bf8dfacd4a",
    "title": "DeepSeek is training a 2T-parameter model and plans to build an 8T-parameter one",
    "url": "https://twitter.com/wallstengine/status/2101982843656388644",
@@ -871,36 +856,6 @@
    "published": "2026-09-21T13:06:29.000Z",
    "dupes": 1,
    "score": 0.229,
-   "tier": 3
-  },
-  {
-   "id": "635b267ac04d288743830b0b532d5ac2177c935f",
-   "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
-   "url": "https://cactuscompute.com/needle",
-   "source": "HN · DeepSeek",
-   "org": [
-    "deepseek"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-18T00:11:44.000Z",
-   "dupes": 1,
-   "score": 0.209,
-   "tier": 3
-  },
-  {
-   "id": "57dd0cc73353ce5b30993b0d644093fdcd5af415",
-   "title": "DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression",
-   "url": "https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html",
-   "source": "HN · DeepSeek",
-   "org": [
-    "deepseek"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-17T01:39:47.000Z",
-   "dupes": 1,
-   "score": 0.199,
    "tier": 3
   }
  ]
