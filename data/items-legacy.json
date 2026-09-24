@@ -1,34 +1,62 @@
 {
- "generated": "2026-09-24T12:48:04.876Z",
+ "generated": "2026-09-24T17:40:57.128Z",
  "items": [
   {
-   "id": "f82afb648776b0979dfc3530a9c045662279b45f",
-   "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-   "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-   "source": "Anthropic News",
+   "id": "91625e27c986178e2308de52eb60b059744b6568",
+   "title": "Introducing Gemini 3.8 Live with Live Avatar",
+   "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar",
+   "source": "Google DeepMind",
    "org": [
-    "anthropic"
+    "google"
    ],
    "topic": "ai",
    "tldr": "",
-   "published": "2026-09-23T00:00:00.000Z",
-   "dupes": 2,
-   "score": 0.597,
+   "published": "2026-09-24T16:20:39.000Z",
+   "dupes": 1,
+   "score": 0.632,
    "tier": 1
   },
   {
-   "id": "2091cb5ac2f20846b922d592fa9578e03b3bd58b",
-   "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
-   "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai",
-   "source": "Hacker News",
+   "id": "692ba329b6883f275c858aed56de12eaf35287dc",
+   "title": "How Open Science Can Help Researchers Prepare for the Next Pandemic",
+   "url": "https://blogs.nvidia.com/blog/open-protein-dataset",
+   "source": "NVIDIA Blog",
    "org": [
-    "meta"
+    "nvidia"
    ],
+   "topic": "compute",
+   "tldr": "When COVID-19 emerged, scientists had a crucial advantage: Decades of prior research on coronaviruses meant they understood the virus’ key proteins well enough to design vaccines in record time.  The next pandemic may…",
+   "published": "2026-09-24T14:00:50.000Z",
+   "dupes": 1,
+   "score": 0.579,
+   "tier": 2
+  },
+  {
+   "id": "c2a53f2332725b781693c84def77fa7ae32bea17",
+   "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+   "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+   "source": "Hugging Face Blog",
+   "org": [],
    "topic": "ai",
    "tldr": "",
-   "published": "2026-09-24T08:23:03.000Z",
+   "published": "2026-09-24T14:08:57.000Z",
    "dupes": 1,
-   "score": 0.558,
+   "score": 0.568,
+   "tier": 2
+  },
+  {
+   "id": "224d91d20912afda6c99bfb8c8c1e3c382a6ad0c",
+   "title": "Contain the Chaos: ‘CONTROL Resonant’ Launches on GeForce NOW",
+   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-control-resonant",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "A warped Manhattan is waiting in the cloud this week.  Remedy Entertainment’s CONTROL Resonant brings Dylan Faden’s extraordinary abilities and a paranatural crisis to GeForce NOW at launch.",
+   "published": "2026-09-24T13:00:36.000Z",
+   "dupes": 1,
+   "score": 0.567,
    "tier": 2
   },
   {
@@ -44,67 +72,80 @@
    "tldr": "",
    "published": "2026-09-24T11:54:38.000Z",
    "dupes": 1,
-   "score": 0.541,
+   "score": 0.552,
    "tier": 2
   },
   {
-   "id": "7230613e317e42f31588069e61034170d3fa593e",
-   "title": "OpenAI agents hacked an Australian government website in search for data",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data",
+   "id": "091e61d14291c59ce718f1f23be4489b8af8e345",
+   "title": "It’s sinister that Meta’s Muse AI mascot is so cute",
+   "url": "https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute",
    "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI's artificial intelligence agents hacked an Australian government website and attempted to breach numerous other government and university websites.",
-   "published": "2026-09-24T11:52:32.000Z",
-   "dupes": 1,
-   "score": 0.538,
-   "tier": 2
-  },
-  {
-   "id": "0f4cc22088a63b981fb20b88b2cac8288ba76056",
-   "title": "Meta VR Glasses",
-   "url": "https://www.meta.com/vr-glasses",
-   "source": "Hacker News",
    "org": [
     "meta"
    ],
    "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-23T23:47:56.000Z",
+   "tldr": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life.  Opt in for Optimizer here.",
+   "published": "2026-09-24T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.507,
+   "score": 0.541,
    "tier": 2
   },
   {
-   "id": "864189f9e259ba6cab319dc56675b7f69592471a",
-   "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
-   "url": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
+   "id": "28c22099eaa7a291a1c1a7941e1cb1f2e3b01add",
+   "title": "Oracle invokes force majeure on New Mexico AI data center",
+   "url": "https://qz.com/oracle-force-majeure-new-mexico-ai-data-center-092426",
+   "source": "Hacker News",
+   "org": [],
+   "topic": "compute",
+   "tldr": "",
+   "published": "2026-09-24T15:58:40.000Z",
+   "dupes": 1,
+   "score": 0.539,
+   "tier": 2
+  },
+  {
+   "id": "69d34719f9a17ab36a959a365bf31f80b9ec5f71",
+   "title": "Gemini can now call businesses for you so you don’t have to wait on hold",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls",
    "source": "The Verge AI",
    "org": [
     "google"
    ],
    "topic": "ai",
-   "tldr": "Google is reportedly nearing the launch of its long awaited Gemini 4 model, after dawdling behind rival developers on flagship AI releases.",
-   "published": "2026-09-24T09:04:18.000Z",
+   "tldr": "Google's launching an \"early experiment\" feature on Pixel 11 that lets users delegate local business calls to Gemini, like making a reservation, checking if a product is in stock, or rescheduling an appointment.",
+   "published": "2026-09-24T16:04:31.000Z",
    "dupes": 1,
-   "score": 0.503,
+   "score": 0.529,
    "tier": 2
   },
   {
-   "id": "58f5982d3852952178d28f754017eee177644e78",
-   "title": "OpenAI agent hacked Australian government website, PM says",
-   "url": "https://www.bbc.com/news/live/cvgl73pxgndwt",
-   "source": "Hacker News",
+   "id": "bd3f02787fa0480ec2e46c10718a4656e81707bd",
+   "title": "Google is sending an AI satellite into space next week",
+   "url": "https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher",
+   "source": "The Verge AI",
    "org": [
-    "openai"
+    "google"
    ],
    "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-24T02:44:48.000Z",
+   "tldr": "Google is getting ready to launch a satellite with its AI processors to test how well they perform in space, as reported earlier by The New York Times.  The move is part of Google's Project Suncatcher, the company's…",
+   "published": "2026-09-24T14:15:17.000Z",
    "dupes": 1,
-   "score": 0.463,
+   "score": 0.507,
+   "tier": 2
+  },
+  {
+   "id": "752f2436c805c12b96ff18550e34eb0fc37ea160",
+   "title": "Meta’s Muse AI Charms can interact with each other",
+   "url": "https://www.theverge.com/tech/999944/meta-muse-charm-ai-interact-5g-modem",
+   "source": "The Verge AI",
+   "org": [
+    "meta"
+   ],
+   "topic": "ai",
+   "tldr": "Meta's handheld AI gadget, called the Muse Charm, will be able to recognize and interact with other nearby Charms when it launches later this year.  That's according to a report from Bloomberg, which includes more…",
+   "published": "2026-09-24T13:31:43.000Z",
+   "dupes": 1,
+   "score": 0.498,
    "tier": 2
   },
   {
@@ -119,7 +160,7 @@
    "tldr": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
    "published": "2026-09-23T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.457,
+   "score": 0.43,
    "tier": 2
   },
   {
@@ -134,7 +175,7 @@
    "tldr": "Introducing private, server-side memory to Private AI Compute for personal AI.",
    "published": "2026-09-23T16:00:57.000Z",
    "dupes": 1,
-   "score": 0.457,
+   "score": 0.43,
    "tier": 2
   },
   {
@@ -149,22 +190,7 @@
    "tldr": "",
    "published": "2026-09-23T15:25:14.000Z",
    "dupes": 1,
-   "score": 0.454,
-   "tier": 2
-  },
-  {
-   "id": "3f642246397ea0e4a622ed4df1a65a0b18fd860b",
-   "title": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest",
-   "url": "https://github.com/nestrilabs/virtio-nvgpu",
-   "source": "Hacker News",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "",
-   "published": "2026-09-24T01:02:23.000Z",
-   "dupes": 1,
-   "score": 0.448,
+   "score": 0.427,
    "tier": 2
   },
   {
@@ -179,23 +205,8 @@
    "tldr": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
    "published": "2026-09-23T13:00:00.000Z",
    "dupes": 1,
-   "score": 0.44,
-   "tier": 2
-  },
-  {
-   "id": "a70f8ac64edfa547f2b1b0f634ede27f1f21d7d5",
-   "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-   "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-   "source": "Hugging Face Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-23T18:41:40.000Z",
-   "dupes": 1,
-   "score": 0.437,
-   "tier": 2
+   "score": 0.416,
+   "tier": 3
   },
   {
    "id": "01d4e543c9419cead77e21595bfd0d3a6b2682b8",
@@ -209,7 +220,7 @@
    "tldr": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
    "published": "2026-09-23T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.435,
+   "score": 0.412,
    "tier": 3
   },
   {
@@ -224,7 +235,7 @@
    "tldr": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
    "published": "2026-09-23T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.435,
+   "score": 0.412,
    "tier": 3
   },
   {
@@ -239,7 +250,7 @@
    "tldr": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
    "published": "2026-09-23T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.435,
+   "score": 0.412,
    "tier": 3
   },
   {
@@ -254,22 +265,22 @@
    "tldr": "6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs.  1.",
    "published": "2026-09-23T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.435,
+   "score": 0.412,
    "tier": 3
   },
   {
-   "id": "526089110df3fe81f8e712c0f8f7dffea7a44f53",
-   "title": "Sakeena Fiza Helps NVIDIA Hardware Succeed at Scale",
-   "url": "https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza",
-   "source": "NVIDIA Blog",
+   "id": "a70f8ac64edfa547f2b1b0f634ede27f1f21d7d5",
+   "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+   "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+   "source": "Hugging Face Blog",
    "org": [
     "nvidia"
    ],
-   "topic": "compute",
-   "tldr": "When Sakeena Fiza describes her work as a validation engineer at NVIDIA, she does so in terms more befitting a detective story than a world-class engineering lab.  “Validation engineers look in the shadows and shine a…",
-   "published": "2026-09-23T15:00:32.000Z",
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-23T18:41:40.000Z",
    "dupes": 1,
-   "score": 0.426,
+   "score": 0.407,
    "tier": 3
   },
   {
@@ -284,7 +295,22 @@
    "tldr": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
    "published": "2026-09-23T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.425,
+   "score": 0.403,
+   "tier": 3
+  },
+  {
+   "id": "526089110df3fe81f8e712c0f8f7dffea7a44f53",
+   "title": "Sakeena Fiza Helps NVIDIA Hardware Succeed at Scale",
+   "url": "https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "When Sakeena Fiza describes her work as a validation engineer at NVIDIA, she does so in terms more befitting a detective story than a world-class engineering lab.  “Validation engineers look in the shadows and shine a…",
+   "published": "2026-09-23T15:00:32.000Z",
+   "dupes": 1,
+   "score": 0.4,
    "tier": 3
   },
   {
@@ -299,97 +325,7 @@
    "tldr": "Robots are getting smarter, but how can their hardware match that growth?  New Microsoft Research findings show that moving AI inference beyond the robot can improve task success, boost efficiency, and support more…",
    "published": "2026-09-23T16:01:36.000Z",
    "dupes": 1,
-   "score": 0.42,
-   "tier": 3
-  },
-  {
-   "id": "6330e9855670eee094cbe404794539cfe6eefd45",
-   "title": "Meta is making a standalone Muse AI gadget",
-   "url": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
-   "source": "The Verge AI",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "Meta is building a dedicated hardware device for its new Muse AI agent.  The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of tonight's Meta Connect presentation.",
-   "published": "2026-09-24T00:15:20.000Z",
-   "dupes": 1,
-   "score": 0.416,
-   "tier": 3
-  },
-  {
-   "id": "14d2985af4197e865143595a3cb71e18eac37307",
-   "title": "Muse is coming to Meta smart glasses",
-   "url": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features",
-   "source": "The Verge AI",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "Just a couple of weeks after launching Muse, Meta announced that it's \"working on\" bringing the agent to its smart glasses, including the new glasses it unveiled at Meta Connect.",
-   "published": "2026-09-23T23:40:56.000Z",
-   "dupes": 1,
-   "score": 0.411,
-   "tier": 3
-  },
-  {
-   "id": "a5a216ee8f8e938ce9a82f650a933fd9ab6efd93",
-   "title": "Meta ditches the camera on its newest smart glasses",
-   "url": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026",
-   "source": "The Verge AI",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "Walking around Meta Connect 2026, everyone's sporting smart glasses in all sorts of shapes, colors, and sizes.  It's a marked difference here, a tech bubble where \"pervert glasses\" are not a concern.",
-   "published": "2026-09-23T23:37:17.000Z",
-   "dupes": 1,
-   "score": 0.411,
-   "tier": 3
-  },
-  {
-   "id": "395f29300605d9e6f336653ef8d81f771ef08420",
-   "title": "Meta is making Muse more powerful and will let you video chat with it, too",
-   "url": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026",
-   "source": "The Verge AI",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "Meta is quickly iterating on its new Muse AI agent, announcing a bunch of updates today that make the bot more capable and able to chat with you in more ways.  Muse agents are getting their own email addresses that they…",
-   "published": "2026-09-23T23:19:42.000Z",
-   "dupes": 1,
-   "score": 0.408,
-   "tier": 3
-  },
-  {
-   "id": "be0bf243840e12cf93061abb20bdffc9d9258551",
-   "title": "Meta Connect 2026: The biggest news and announcements",
-   "url": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements",
-   "source": "The Verge AI",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "It’s about time for Meta Connect, the company’s annual product launch event.  This year, given the company’s major focus on AI and wearables like smart glasses, it seems likely that we’ll see updates from CEO Mark…",
-   "published": "2026-09-23T22:45:00.000Z",
-   "dupes": 1,
-   "score": 0.404,
-   "tier": 3
-  },
-  {
-   "id": "cb0c28937af7ed15912980d618ba36efd0ed07ac",
-   "title": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch",
-   "url": "https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote",
-   "source": "The Verge AI",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "It's time once again for Meta's annual September product launch event, and The Verge is on the ground in Menlo Park to cover the show live.",
-   "published": "2026-09-23T22:30:00.000Z",
-   "dupes": 1,
-   "score": 0.402,
+   "score": 0.393,
    "tier": 3
   },
   {
@@ -404,7 +340,7 @@
    "tldr": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries.",
    "published": "2026-09-23T02:00:00.000Z",
    "dupes": 1,
-   "score": 0.392,
+   "score": 0.376,
    "tier": 3
   },
   {
@@ -419,7 +355,22 @@
    "tldr": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster.",
    "published": "2026-09-23T01:00:00.000Z",
    "dupes": 1,
-   "score": 0.388,
+   "score": 0.373,
+   "tier": 3
+  },
+  {
+   "id": "f82afb648776b0979dfc3530a9c045662279b45f",
+   "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+   "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+   "source": "Anthropic News",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-23T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.37,
    "tier": 3
   },
   {
@@ -434,22 +385,7 @@
    "tldr": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
    "published": "2026-09-23T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.385,
-   "tier": 3
-  },
-  {
-   "id": "37bf32ade2e16d21d529ab63231e67228a960d6e",
-   "title": "Introducing Ray-Ban Meta Audio and More AI Glasses Styles",
-   "url": "https://about.fb.com/news/2026/09/introducing-ray-ban-meta-audio-glasses-new-styles-plus-muse",
-   "source": "Meta Newsroom",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "Today at Connect, we introduced Ray-Ban Meta Audio, our first-ever audio glasses, and our biggest expansion of AI glasses.  The post Introducing Ray-Ban Meta Audio and More AI Glasses Styles appeared first on Meta…",
-   "published": "2026-09-23T11:36:25.000Z",
-   "dupes": 1,
-   "score": 0.383,
+   "score": 0.37,
    "tier": 3
   },
   {
@@ -464,37 +400,22 @@
    "tldr": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
    "published": "2026-09-22T21:00:00.000Z",
    "dupes": 1,
-   "score": 0.376,
+   "score": 0.363,
    "tier": 3
   },
   {
-   "id": "54336ea97e9aec13fd90cb04c24969505cb244c6",
-   "title": "Meta’s AI agent is a cute little guy who’s great at spending my money",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping",
-   "source": "The Verge AI",
+   "id": "37bf32ade2e16d21d529ab63231e67228a960d6e",
+   "title": "Introducing Ray-Ban Meta Audio and More AI Glasses Styles",
+   "url": "https://about.fb.com/news/2026/09/introducing-ray-ban-meta-audio-glasses-new-styles-plus-muse",
+   "source": "Meta Newsroom",
    "org": [
     "meta"
    ],
    "topic": "ai",
-   "tldr": "Modern life comes with an unending, auto-populating to-do list.  It never ceases to amaze me how I can be doing nothing at all, minding my own business, and suddenly something needs to be taken care of.",
-   "published": "2026-09-23T19:00:00.000Z",
+   "tldr": "Today at Connect, we introduced Ray-Ban Meta Audio, our first-ever audio glasses, and our biggest expansion of AI glasses.  The post Introducing Ray-Ban Meta Audio and More AI Glasses Styles appeared first on Meta…",
+   "published": "2026-09-23T11:36:25.000Z",
    "dupes": 1,
-   "score": 0.376,
-   "tier": 3
-  },
-  {
-   "id": "4d5959d698eba06a55dd15a8c6d38c0129b1bbb8",
-   "title": "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia",
-   "url": "https://blogs.nvidia.com/blog/ai-day-singapore",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "NVIDIA AI Day Singapore, which takes place Sept.  22-23 at the Raffles City Convention Centre, is offering attendees opportunities to explore the hands-on training, expert-led sessions and advanced tools to accelerate…",
-   "published": "2026-09-23T02:30:22.000Z",
-   "dupes": 1,
-   "score": 0.368,
+   "score": 0.36,
    "tier": 3
   },
   {
@@ -509,7 +430,22 @@
    "tldr": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
    "published": "2026-09-22T18:00:00.000Z",
    "dupes": 1,
-   "score": 0.367,
+   "score": 0.356,
+   "tier": 3
+  },
+  {
+   "id": "4d5959d698eba06a55dd15a8c6d38c0129b1bbb8",
+   "title": "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia",
+   "url": "https://blogs.nvidia.com/blog/ai-day-singapore",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "NVIDIA AI Day Singapore, which takes place Sept.  22-23 at the Raffles City Convention Centre, is offering attendees opportunities to explore the hands-on training, expert-led sessions and advanced tools to accelerate…",
+   "published": "2026-09-23T02:30:22.000Z",
+   "dupes": 1,
+   "score": 0.352,
    "tier": 3
   },
   {
@@ -527,7 +463,22 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.353,
+   "score": 0.344,
+   "tier": 3
+  },
+  {
+   "id": "635b267ac04d288743830b0b532d5ac2177c935f",
+   "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+   "url": "https://cactuscompute.com/needle",
+   "source": "HN · DeepSeek",
+   "org": [
+    "deepseek"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-18T00:11:44.000Z",
+   "dupes": 1,
+   "score": 0.338,
    "tier": 3
   },
   {
@@ -542,7 +493,7 @@
    "tldr": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
    "published": "2026-09-22T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.334,
+   "score": 0.328,
    "tier": 3
   },
   {
@@ -560,52 +511,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.328,
-   "tier": 3
-  },
-  {
-   "id": "d37f5b2c59270d018304f874af1f138fa06f09fa",
-   "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-   "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
-   "published": "2026-09-21T12:00:00.000Z",
-   "dupes": 1,
-   "score": 0.321,
-   "tier": 3
-  },
-  {
-   "id": "a7ca59844a94ccd6f8fa929c5c7dfde76ca3aff0",
-   "title": "Advisory Group on Mathematics and Artificial Intelligence",
-   "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
-   "published": "2026-09-21T12:00:00.000Z",
-   "dupes": 1,
-   "score": 0.321,
-   "tier": 3
-  },
-  {
-   "id": "2c9792fbb14ae5db99d471df7e08a8d9eff4cc74",
-   "title": "Building standards for the next phase of AI",
-   "url": "https://openai.com/index/building-standards-next-phase-ai",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
-   "published": "2026-09-21T10:00:00.000Z",
-   "dupes": 1,
-   "score": 0.32,
+   "score": 0.319,
    "tier": 3
   },
   {
@@ -623,7 +529,52 @@
     "model"
    ],
    "dupes": 2,
-   "score": 0.32,
+   "score": 0.319,
+   "tier": 3
+  },
+  {
+   "id": "d37f5b2c59270d018304f874af1f138fa06f09fa",
+   "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+   "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+   "published": "2026-09-21T12:00:00.000Z",
+   "dupes": 1,
+   "score": 0.318,
+   "tier": 3
+  },
+  {
+   "id": "a7ca59844a94ccd6f8fa929c5c7dfde76ca3aff0",
+   "title": "Advisory Group on Mathematics and Artificial Intelligence",
+   "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+   "published": "2026-09-21T12:00:00.000Z",
+   "dupes": 1,
+   "score": 0.318,
+   "tier": 3
+  },
+  {
+   "id": "2c9792fbb14ae5db99d471df7e08a8d9eff4cc74",
+   "title": "Building standards for the next phase of AI",
+   "url": "https://openai.com/index/building-standards-next-phase-ai",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+   "published": "2026-09-21T10:00:00.000Z",
+   "dupes": 1,
+   "score": 0.316,
    "tier": 3
   },
   {
@@ -638,7 +589,7 @@
    "tldr": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
    "published": "2026-09-21T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.317,
+   "score": 0.314,
    "tier": 3
   },
   {
@@ -653,22 +604,7 @@
    "tldr": "6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
    "published": "2026-09-21T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.313,
-   "tier": 3
-  },
-  {
-   "id": "8b64befa04990cc1214343c9f1d92c042bdbdbfa",
-   "title": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
-   "url": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Every AI factory needs power and cooling that fit its computing architecture.  As AI infrastructure expands, power, cooling, water, site and grid constraints are shaping what builders can deploy.",
-   "published": "2026-09-21T18:00:07.000Z",
-   "dupes": 1,
-   "score": 0.302,
+   "score": 0.311,
    "tier": 3
   },
   {
@@ -702,6 +638,21 @@
    "tier": 3
   },
   {
+   "id": "8b64befa04990cc1214343c9f1d92c042bdbdbfa",
+   "title": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
+   "url": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Every AI factory needs power and cooling that fit its computing architecture.  As AI infrastructure expands, power, cooling, water, site and grid constraints are shaping what builders can deploy.",
+   "published": "2026-09-21T18:00:07.000Z",
+   "dupes": 1,
+   "score": 0.297,
+   "tier": 3
+  },
+  {
    "id": "1bb9769be8b378da7ef3b3454c56e7f57effecb7",
    "title": "Why Deploying Physical AI at Scale Demands Safety at Every Layer",
    "url": "https://blogs.nvidia.com/blog/physical-ai-halos-safety",
@@ -713,7 +664,7 @@
    "tldr": "Physical AI is moving rapidly from research to large-scale deployment.  By 2035, ABI Research projects an installed base of 49 million level 3-5 autonomous vehicles (AVs), while Omdia estimates that roughly 60 million…",
    "published": "2026-09-21T16:00:46.000Z",
    "dupes": 1,
-   "score": 0.3,
+   "score": 0.296,
    "tier": 3
   },
   {
@@ -728,7 +679,7 @@
    "tldr": "Today, Egypt’s AI builders gathered in the Grand Egyptian Museum for a reception that highlighted the nation’s rapidly growing AI ecosystem — spanning AI natives, developers, researchers, startups and enterprises —…",
    "published": "2026-09-21T16:00:10.000Z",
    "dupes": 1,
-   "score": 0.3,
+   "score": 0.296,
    "tier": 3
   },
   {
@@ -743,48 +694,7 @@
    "tldr": "AI security is an engineering problem.  That means defined security requirements, enforceable controls, named owners and evidence that protections work.",
    "published": "2026-09-21T14:51:34.000Z",
    "dupes": 1,
-   "score": 0.299,
-   "tier": 3
-  },
-  {
-   "id": "2960c64a019e48fb3e0b2c640d1f2581dcc831a5",
-   "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-   "url": "https://huggingface.co/blog/evaleval-aisi",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-22T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.296,
-   "tier": 3
-  },
-  {
-   "id": "98acfe91fd30b730b364f1e1c322fe7898e567f8",
-   "title": "Transformers now runs llama.cpp quants",
-   "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-   "source": "Hugging Face Blog",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-22T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.296,
-   "tier": 3
-  },
-  {
-   "id": "fb8ad85c459c0cb6d64cfdd858f1393829b3e36c",
-   "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
-   "url": "https://huggingface.co/blog/omlx",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-22T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.296,
+   "score": 0.295,
    "tier": 3
   },
   {
@@ -799,7 +709,48 @@
    "tldr": "Clean energy isn’t hard to come by, but the pace of large-scale adoption has historically been slow due to bottlenecks — including out-of-date infrastructure, elongated research and development timelines, and upfront…",
    "published": "2026-09-21T10:00:35.000Z",
    "dupes": 1,
-   "score": 0.295,
+   "score": 0.291,
+   "tier": 3
+  },
+  {
+   "id": "2960c64a019e48fb3e0b2c640d1f2581dcc831a5",
+   "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+   "url": "https://huggingface.co/blog/evaleval-aisi",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-22T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.29,
+   "tier": 3
+  },
+  {
+   "id": "98acfe91fd30b730b364f1e1c322fe7898e567f8",
+   "title": "Transformers now runs llama.cpp quants",
+   "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+   "source": "Hugging Face Blog",
+   "org": [
+    "meta"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-22T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.29,
+   "tier": 3
+  },
+  {
+   "id": "fb8ad85c459c0cb6d64cfdd858f1393829b3e36c",
+   "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+   "url": "https://huggingface.co/blog/omlx",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-22T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.29,
    "tier": 3
   },
   {
@@ -814,7 +765,7 @@
    "tldr": "Custom-made molecules are advancing medicine, materials, and agriculture, but producing them is slow and expensive.  A new Nature paper highlights RetroChimera, a predictive model that helps accelerate chemical…",
    "published": "2026-09-21T15:30:19.000Z",
    "dupes": 1,
-   "score": 0.287,
+   "score": 0.283,
    "tier": 3
   },
   {
@@ -827,7 +778,7 @@
    "tldr": "",
    "published": "2026-09-21T13:44:34.000Z",
    "dupes": 1,
-   "score": 0.285,
+   "score": 0.281,
    "tier": 3
   },
   {
@@ -842,7 +793,7 @@
    "tldr": "Algorithms & Theory",
    "published": "2026-09-18T17:46:09.000Z",
    "dupes": 1,
-   "score": 0.277,
+   "score": 0.276,
    "tier": 3
   },
   {
@@ -861,21 +812,6 @@
    "tier": 3
   },
   {
-   "id": "860d6759b6e0f3ecb84c6b7f3d191a6300db20da",
-   "title": "Cute Critters Come to the Cloud: ‘Aniimo’ Launches on GeForce NOW",
-   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-aniimo",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "A new creature-catching adventure is ready to stream from the cloud this week.  Pawprint Studio’s Aniimo arrives on GeForce NOW at launch, inviting gamers to explore the vibrant continent of Idyll across supported…",
-   "published": "2026-09-17T13:00:55.000Z",
-   "dupes": 1,
-   "score": 0.276,
-   "tier": 3
-  },
-  {
    "id": "eb792e0fc342008524956ef191d82691e9af6f91",
    "title": "tokenizers v1: encode, decode and scaling, measured",
    "url": "https://huggingface.co/blog/tokenizers-v1",
@@ -885,22 +821,22 @@
    "tldr": "",
    "published": "2026-09-21T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.276,
+   "score": 0.274,
    "tier": 3
   },
   {
-   "id": "282315cad5df13bfa586658c55f21766d7ed63d2",
-   "title": "What we’ve learned from Microsoft’s own AI transformation",
-   "url": "https://blogs.microsoft.com/blog/2026/09/17/what-weve-learned-from-microsofts-own-ai-transformation",
-   "source": "Microsoft Blog",
+   "id": "1594232205bbc6cf44ecbbae5d94f0bf8dfacd4a",
+   "title": "DeepSeek is training a 2T-parameter model and plans to build an 8T-parameter one",
+   "url": "https://twitter.com/wallstengine/status/2101982843656388644",
+   "source": "HN · DeepSeek",
    "org": [
-    "microsoft"
+    "deepseek"
    ],
    "topic": "ai",
-   "tldr": "AI is reshaping work faster than any organization has fully mastered.  Across industries, the conversation has shifted from what AI can do to how companies can use AI to create business value and expand what people are…",
-   "published": "2026-09-17T14:00:05.000Z",
+   "tldr": "",
+   "published": "2026-09-21T13:06:29.000Z",
    "dupes": 1,
-   "score": 0.251,
+   "score": 0.213,
    "tier": 3
   }
  ]
