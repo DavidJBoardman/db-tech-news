@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-27T08:54:41.704Z",
+ "generated": "2026-09-27T14:29:56.125Z",
  "items": [
   {
    "id": "9fe0a063f817f4e3989b0ad768d4afe700eb7361",
@@ -13,23 +13,8 @@
    "tldr": "",
    "published": "2026-09-27T06:19:33.000Z",
    "dupes": 1,
-   "score": 0.686,
+   "score": 0.725,
    "tier": 1
-  },
-  {
-   "id": "509ed64d4f6b6a203d951321dd02741f2303959b",
-   "title": "OpenAI's AI agents accidentally uploaded user-provided images to third-party sites",
-   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites",
-   "source": "BleepingComputer",
-   "org": [
-    "openai"
-   ],
-   "topic": "security",
-   "tldr": "OpenAI says its AI agents uploaded user-provided images to third-party image-hosting services while carrying out research and evaluation tasks.",
-   "published": "2026-09-26T12:28:41.000Z",
-   "dupes": 1,
-   "score": 0.624,
-   "tier": 2
   },
   {
    "id": "d2d497e5eee41848c95c5b8ff6ce37155518b6a0",
@@ -43,7 +28,37 @@
    "tldr": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
    "published": "2026-09-25T19:00:00.000Z",
    "dupes": 1,
-   "score": 0.619,
+   "score": 0.608,
+   "tier": 2
+  },
+  {
+   "id": "509ed64d4f6b6a203d951321dd02741f2303959b",
+   "title": "OpenAI's AI agents accidentally uploaded user-provided images to third-party sites",
+   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites",
+   "source": "BleepingComputer",
+   "org": [
+    "openai"
+   ],
+   "topic": "security",
+   "tldr": "OpenAI says its AI agents uploaded user-provided images to third-party image-hosting services while carrying out research and evaluation tasks.",
+   "published": "2026-09-26T12:28:41.000Z",
+   "dupes": 1,
+   "score": 0.608,
+   "tier": 2
+  },
+  {
+   "id": "67344ae5706fe025578c3efc1e88a8369ecaab6a",
+   "title": "Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors",
+   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors",
+   "source": "BleepingComputer",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "security",
+   "tldr": "Anthropic has just announced a new Claude Marketplace, and it brings all AI-related tools into one place, including plugins, connectors, agents, and more.",
+   "published": "2026-09-27T13:38:40.000Z",
+   "dupes": 1,
+   "score": 0.597,
    "tier": 2
   },
   {
@@ -58,7 +73,7 @@
    "tldr": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models.  The decision was made…",
    "published": "2026-09-26T16:34:59.000Z",
    "dupes": 1,
-   "score": 0.614,
+   "score": 0.596,
    "tier": 2
   },
   {
@@ -73,22 +88,7 @@
    "tldr": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
    "published": "2026-09-26T02:50:56.000Z",
    "dupes": 1,
-   "score": 0.605,
-   "tier": 2
-  },
-  {
-   "id": "8f4c3ca6f7aa7106dae47970970aed369b109ec7",
-   "title": "Microsoft pauses KB5002907 update after Office license deactivations",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations",
-   "source": "BleepingComputer",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "security",
-   "tldr": "Microsoft has paused the rollout of the KB5002907 Microsoft 365 update after users report that it deactivated, or in some cases completely removed, perpetual Office 2016 and Office 2019 installations.",
-   "published": "2026-09-26T15:50:38.000Z",
-   "dupes": 1,
-   "score": 0.603,
+   "score": 0.592,
    "tier": 2
   },
   {
@@ -103,37 +103,7 @@
    "tldr": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
    "published": "2026-09-25T22:20:47.000Z",
    "dupes": 1,
-   "score": 0.594,
-   "tier": 2
-  },
-  {
-   "id": "c75a43ae6d3df938d8d458d403e98d1830a681fe",
-   "title": "Introducing the new Copilot with Home, Code and Autopilot",
-   "url": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot",
-   "source": "Microsoft Blog",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the flow of human ambition.  Today we’re introducing the new Copilot to…",
-   "published": "2026-09-25T12:03:50.000Z",
-   "dupes": 1,
-   "score": 0.573,
-   "tier": 2
-  },
-  {
-   "id": "9366ee5bcbcd905705720b4a431f841e12f419cb",
-   "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
-   "url": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc",
-   "source": "Ars Technica · Gadgets",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "compute",
-   "tldr": "Microsoft's new Surface laptops forgo Copilot+ PC branding.",
-   "published": "2026-09-25T17:57:37.000Z",
-   "dupes": 1,
-   "score": 0.573,
+   "score": 0.582,
    "tier": 2
   },
   {
@@ -148,37 +118,22 @@
    "tldr": "OpenAI appears to be preparing a new ChatGPT Pro Max subscription that could cost $500 per month, but it's unclear when it'll begin rolling out.",
    "published": "2026-09-25T14:54:33.000Z",
    "dupes": 1,
-   "score": 0.57,
+   "score": 0.56,
    "tier": 2
   },
   {
-   "id": "06ec839e3fa404dec5b0ac78488a7764148ba153",
-   "title": "Microsoft plans to deprecate Windows Deployment Services",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-windows-deployment-services-after-windows-server-2025",
+   "id": "48c40a07e0746ad8ad3a6f929f3a088db6e81561",
+   "title": "Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer",
+   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer",
    "source": "BleepingComputer",
    "org": [
-    "microsoft"
+    "anthropic"
    ],
    "topic": "security",
-   "tldr": "Microsoft announced it will deprecate the Windows Deployment Services (WDS) server role starting with the next Windows Server release.",
-   "published": "2026-09-25T12:40:59.000Z",
+   "tldr": "5 appears to be changing how it writes, with new analysis showing fewer obvious AI writing patterns, shorter sentences, and simpler wording compared with Opus 5.",
+   "published": "2026-09-26T16:26:58.000Z",
    "dupes": 1,
-   "score": 0.566,
-   "tier": 2
-  },
-  {
-   "id": "6952c82e0ef9ac01e6b27473e64718bab23dc064",
-   "title": "Microsoft: Recent Windows updates cause desktop loading issues",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-desktop-loading-issues",
-   "source": "BleepingComputer",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "security",
-   "tldr": "Microsoft has confirmed that some users may experience desktop loading issues, including black screens, after installing the August 2026 preview updates and subsequent updates.",
-   "published": "2026-09-25T10:30:38.000Z",
-   "dupes": 1,
-   "score": 0.562,
+   "score": 0.554,
    "tier": 2
   },
   {
@@ -193,7 +148,7 @@
    "tldr": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
    "published": "2026-09-23T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.555,
+   "score": 0.552,
    "tier": 2
   },
   {
@@ -208,8 +163,8 @@
    "tldr": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
    "published": "2026-09-23T13:00:00.000Z",
    "dupes": 1,
-   "score": 0.553,
-   "tier": 3
+   "score": 0.55,
+   "tier": 2
   },
   {
    "id": "01d4e543c9419cead77e21595bfd0d3a6b2682b8",
@@ -223,8 +178,8 @@
    "tldr": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
    "published": "2026-09-23T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.553,
-   "tier": 3
+   "score": 0.55,
+   "tier": 2
   },
   {
    "id": "f7558dc5c9de5bb5fdc77d93f9ea026683eaa31f",
@@ -238,8 +193,8 @@
    "tldr": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
    "published": "2026-09-23T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.553,
-   "tier": 3
+   "score": 0.55,
+   "tier": 2
   },
   {
    "id": "7357353a1f1d61a65439dd9d37ded36b9953529a",
@@ -253,7 +208,7 @@
    "tldr": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
    "published": "2026-09-23T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.553,
+   "score": 0.55,
    "tier": 3
   },
   {
@@ -268,7 +223,22 @@
    "tldr": "6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs.  1.",
    "published": "2026-09-23T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.553,
+   "score": 0.55,
+   "tier": 3
+  },
+  {
+   "id": "1d5a9cc2d9509da81910cada203eb369287e9e13",
+   "title": "Introducing MentalHealthBench",
+   "url": "https://openai.com/index/introducing-mentalhealthbench",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
+   "published": "2026-09-23T10:00:00.000Z",
+   "dupes": 1,
+   "score": 0.549,
    "tier": 3
   },
   {
@@ -283,7 +253,37 @@
    "tldr": "The BBC’s North America technology correspondent Lily Jamali explains how the Medicare breach happened, and why it matters.",
    "published": "2026-09-24T05:18:26.000Z",
    "dupes": 1,
-   "score": 0.533,
+   "score": 0.529,
+   "tier": 3
+  },
+  {
+   "id": "7e3a4ec05708e76d1e6d4b009916b6e0bd0ac8d0",
+   "title": "Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions",
+   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-up-to-250-in-free-claude-code-credits-but-only-for-cloud-sessions",
+   "source": "BleepingComputer",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "security",
+   "tldr": "Anthropic now allows you to run Claude Code via cloud sessions without signing up for the research preview, and it's offering up to $250 in free usage credits, so more users can give it a try.",
+   "published": "2026-09-25T16:00:00.000Z",
+   "dupes": 1,
+   "score": 0.525,
+   "tier": 3
+  },
+  {
+   "id": "8f4c3ca6f7aa7106dae47970970aed369b109ec7",
+   "title": "Microsoft pauses KB5002907 update after Office license deactivations",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations",
+   "source": "BleepingComputer",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "security",
+   "tldr": "Microsoft has paused the rollout of the KB5002907 Microsoft 365 update after users report that it deactivated, or in some cases completely removed, perpetual Office 2016 and Office 2019 installations.",
+   "published": "2026-09-26T15:50:38.000Z",
+   "dupes": 1,
+   "score": 0.518,
    "tier": 3
   },
   {
@@ -298,22 +298,7 @@
    "tldr": "An AI agent on an internal OpenAI research task bypassed access controls on an Australian government Medicare statistics portal in June, Prime Minister Anthony Albanese said.  The portal publishes aggregate figures,…",
    "published": "2026-09-24T07:07:25.000Z",
    "dupes": 1,
-   "score": 0.519,
-   "tier": 3
-  },
-  {
-   "id": "5c57edabe6c0ec2ece6e05c503a45b07e7c37ffc",
-   "title": "TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords",
-   "url": "https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html",
-   "source": "The Hacker News",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "security",
-   "tldr": "Cybersecurity researchers have disclosed details of an active TeamFiltration campaign codenamed UNK_CondorFiltration that has targeted over 5,700 accounts across 28 Microsoft 365 tenants.  According to Proofpoint, the…",
-   "published": "2026-09-24T06:32:03.000Z",
-   "dupes": 1,
-   "score": 0.518,
+   "score": 0.514,
    "tier": 3
   },
   {
@@ -329,7 +314,52 @@
    "tldr": "Anthropic and OpenAI on Tuesday announced new models, with both artificial intelligence (AI) companies noting that they are continuing to invest in improving alignment to combat risky behavior.",
    "published": "2026-09-23T11:47:13.000Z",
    "dupes": 1,
-   "score": 0.505,
+   "score": 0.501,
+   "tier": 3
+  },
+  {
+   "id": "9366ee5bcbcd905705720b4a431f841e12f419cb",
+   "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
+   "url": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc",
+   "source": "Ars Technica · Gadgets",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "compute",
+   "tldr": "Microsoft's new Surface laptops forgo Copilot+ PC branding.",
+   "published": "2026-09-25T17:57:37.000Z",
+   "dupes": 1,
+   "score": 0.492,
+   "tier": 3
+  },
+  {
+   "id": "06ec839e3fa404dec5b0ac78488a7764148ba153",
+   "title": "Microsoft plans to deprecate Windows Deployment Services",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-windows-deployment-services-after-windows-server-2025",
+   "source": "BleepingComputer",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "security",
+   "tldr": "Microsoft announced it will deprecate the Windows Deployment Services (WDS) server role starting with the next Windows Server release.",
+   "published": "2026-09-25T12:40:59.000Z",
+   "dupes": 1,
+   "score": 0.487,
+   "tier": 3
+  },
+  {
+   "id": "5c57edabe6c0ec2ece6e05c503a45b07e7c37ffc",
+   "title": "TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords",
+   "url": "https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html",
+   "source": "The Hacker News",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "security",
+   "tldr": "Cybersecurity researchers have disclosed details of an active TeamFiltration campaign codenamed UNK_CondorFiltration that has targeted over 5,700 accounts across 28 Microsoft 365 tenants.  According to Proofpoint, the…",
+   "published": "2026-09-24T06:32:03.000Z",
+   "dupes": 1,
+   "score": 0.461,
    "tier": 3
   },
   {
@@ -344,52 +374,7 @@
    "tldr": "S.",
    "published": "2026-09-22T17:03:31.000Z",
    "dupes": 1,
-   "score": 0.496,
-   "tier": 3
-  },
-  {
-   "id": "d1d540cc10415e578fd67d2e344a8512059c285a",
-   "title": "Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates",
-   "url": "https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html",
-   "source": "The Hacker News",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "security",
-   "tldr": "A zero-day proof-of-concept tool that stops Microsoft Defender from installing platform and signature updates by filling all available disk space was published on GitHub on September 19.  The tool, called BigDiskBuster,…",
-   "published": "2026-09-22T16:14:04.000Z",
-   "dupes": 1,
-   "score": 0.495,
-   "tier": 3
-  },
-  {
-   "id": "9015ee31b13c0bf7cd9108cdd4eba08a9bfc669c",
-   "title": "SharePoint Flaw Initially Listed as Spoofing by Microsoft Enables Authenticated RCE",
-   "url": "https://thehackernews.com/2026/09/sharepoint-flaw-initially-listed-as.html",
-   "source": "The Hacker News",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "security",
-   "tldr": "5 actually enables authenticated remote code execution, according to full technical details published today by Viettel Cyber Security researcher Dinh Ho Anh Khoa.  The flaw, CVE-2026-65660, affects SharePoint Server…",
-   "published": "2026-09-22T11:17:41.000Z",
-   "dupes": 1,
-   "score": 0.494,
-   "tier": 3
-  },
-  {
-   "id": "1f17f6143163667830784b92b92dafa726593227",
-   "title": "Microsoft files patent for \"ad-credit\" system to show ads on PC and Xbox without disrupting gameplay",
-   "url": "https://www.gamesindustry.biz/microsoft-files-patent-for-ad-credit-system-to-show-ads-on-pc-and-xbox-without-disrupting-gameplay",
-   "source": "GamesIndustry.biz",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "gaming",
-   "tldr": "Microsoft has patented an \"ad-credit\" system to display adverts and announcements during PC and Xbox game sessions without disrupting gameplay.",
-   "published": "2026-09-24T07:56:51.000Z",
-   "dupes": 1,
-   "score": 0.446,
+   "score": 0.451,
    "tier": 3
   },
   {
@@ -405,7 +390,7 @@
    "tldr": "m.  EDT on Monday, Sept.",
    "published": "2026-09-25T22:06:50.000Z",
    "dupes": 1,
-   "score": 0.434,
+   "score": 0.403,
    "tier": 3
   },
   {
@@ -420,7 +405,7 @@
    "tldr": "S.  Department of State officials present.",
    "published": "2026-09-25T19:53:03.000Z",
    "dupes": 1,
-   "score": 0.432,
+   "score": 0.401,
    "tier": 3
   },
   {
@@ -435,7 +420,22 @@
    "tldr": "Spacecraft propulsion traditionally relies on volatile fuels and separate, bulky systems for different types of maneuvering in space.  NASA is working to change that paradigm.",
    "published": "2026-09-25T19:36:10.000Z",
    "dupes": 1,
-   "score": 0.431,
+   "score": 0.401,
+   "tier": 3
+  },
+  {
+   "id": "1f17f6143163667830784b92b92dafa726593227",
+   "title": "Microsoft files patent for \"ad-credit\" system to show ads on PC and Xbox without disrupting gameplay",
+   "url": "https://www.gamesindustry.biz/microsoft-files-patent-for-ad-credit-system-to-show-ads-on-pc-and-xbox-without-disrupting-gameplay",
+   "source": "GamesIndustry.biz",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "gaming",
+   "tldr": "Microsoft has patented an \"ad-credit\" system to display adverts and announcements during PC and Xbox game sessions without disrupting gameplay.",
+   "published": "2026-09-24T07:56:51.000Z",
+   "dupes": 1,
+   "score": 0.398,
    "tier": 3
   },
   {
@@ -450,7 +450,22 @@
    "tldr": "Google's experimental orbital data center will have four TPUs and only run for 15 minutes at a time.",
    "published": "2026-09-24T16:16:34.000Z",
    "dupes": 1,
-   "score": 0.426,
+   "score": 0.393,
+   "tier": 3
+  },
+  {
+   "id": "6bbd55d5028cfd2f2b9eb7d1adecd11f8df544d5",
+   "title": "With PRIMA, NASA will try to build a billion-dollar space telescope in record time",
+   "url": "https://arstechnica.com/space/2026/09/nasa-green-lights-billion-dollar-infrared-observatory-for-launch-in-early-2030s",
+   "source": "Ars Technica",
+   "org": [
+    "nasa"
+   ],
+   "topic": "space",
+   "tldr": "NASA's PRIMA mission will use spare parts from Webb to do major science at a lower cost.",
+   "published": "2026-09-25T14:07:46.000Z",
+   "dupes": 1,
+   "score": 0.389,
    "tier": 3
   },
   {
@@ -466,7 +481,7 @@
    "tldr": "Original story: Xbox has transferred legendary UK studio Rare and ownership of the Halo franchise to Activision, announced the imminent closure of Ninja Theory, and enacted sweeping cuts at Halo Studios.  The news was…",
    "published": "2026-09-22T14:06:00.000Z",
    "dupes": 1,
-   "score": 0.425,
+   "score": 0.389,
    "tier": 3
   },
   {
@@ -481,52 +496,7 @@
    "tldr": "UPDATE: Microsoft has confirmed the loss of 268 jobs amid a sweeping reorganisation of its internal studios , including the proposed closure of Ninja Theory.",
    "published": "2026-09-22T07:55:38.000Z",
    "dupes": 1,
-   "score": 0.423,
-   "tier": 3
-  },
-  {
-   "id": "6bbd55d5028cfd2f2b9eb7d1adecd11f8df544d5",
-   "title": "With PRIMA, NASA will try to build a billion-dollar space telescope in record time",
-   "url": "https://arstechnica.com/space/2026/09/nasa-green-lights-billion-dollar-infrared-observatory-for-launch-in-early-2030s",
-   "source": "Ars Technica",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "NASA's PRIMA mission will use spare parts from Webb to do major science at a lower cost.",
-   "published": "2026-09-25T14:07:46.000Z",
-   "dupes": 1,
-   "score": 0.418,
-   "tier": 3
-  },
-  {
-   "id": "e186cb5fb2252d9bcbae3c5ad6fa8574f4ed9507",
-   "title": "NASA chief concerned China may deny access to parts of Moon's south pole",
-   "url": "https://arstechnica.com/space/2026/09/nasa-chief-concerned-china-may-deny-access-to-parts-of-south-pole",
-   "source": "Ars Technica · Space",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "\"If you come up short with who comes down the ladder first, the impact is felt around the world.\"",
-   "published": "2026-09-24T14:57:50.000Z",
-   "dupes": 1,
-   "score": 0.386,
-   "tier": 3
-  },
-  {
-   "id": "190bab9889299ed561deb12ee3df7d73563ab942",
-   "title": "Former NASA chief sounds alarm on China's lunar \"exploration\" plans",
-   "url": "https://arstechnica.com/space/2026/09/former-nasa-chief-sounds-alarm-on-chinas-lunar-exploration-plans",
-   "source": "Ars Technica · Space",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "\"Beijing's intended strategy is to dominate the high ground of the twenty-first century.\"",
-   "published": "2026-09-23T17:10:58.000Z",
-   "dupes": 1,
-   "score": 0.377,
+   "score": 0.388,
    "tier": 3
   },
   {
@@ -541,7 +511,50 @@
    "tldr": "Meta has revealed two AI-powered game tools that let players develop 2D and 3D games using prompts on mobile devices and browsers.",
    "published": "2026-09-25T13:07:11.000Z",
    "dupes": 1,
-   "score": 0.319,
+   "score": 0.376,
+   "tier": 3
+  },
+  {
+   "id": "e186cb5fb2252d9bcbae3c5ad6fa8574f4ed9507",
+   "title": "NASA chief concerned China may deny access to parts of Moon's south pole",
+   "url": "https://arstechnica.com/space/2026/09/nasa-chief-concerned-china-may-deny-access-to-parts-of-south-pole",
+   "source": "Ars Technica · Space",
+   "org": [
+    "nasa"
+   ],
+   "topic": "space",
+   "tldr": "\"If you come up short with who comes down the ladder first, the impact is felt around the world.\"",
+   "published": "2026-09-24T14:57:50.000Z",
+   "dupes": 1,
+   "score": 0.359,
+   "tier": 3
+  },
+  {
+   "id": "fa82093cd448075d62d1e5236cb65be9f849b4c7",
+   "title": "Asimov’s laws are not enough to keep robotics and AI safe",
+   "url": "https://www.therobotreport.com/asimovs-laws-are-not-enough-keep-robotics-ai-safe",
+   "source": "The Robot Report",
+   "org": [],
+   "topic": "robotics",
+   "tldr": "Asimov's fictional Three Laws of Robotics famously set safeguards, and tech observers today raise similar concerns about AI.  The post Asimov’s laws are not enough to keep robotics and AI safe appeared first on The…",
+   "published": "2026-09-27T12:26:44.000Z",
+   "dupes": 1,
+   "score": 0.358,
+   "tier": 3
+  },
+  {
+   "id": "190bab9889299ed561deb12ee3df7d73563ab942",
+   "title": "Former NASA chief sounds alarm on China's lunar \"exploration\" plans",
+   "url": "https://arstechnica.com/space/2026/09/former-nasa-chief-sounds-alarm-on-chinas-lunar-exploration-plans",
+   "source": "Ars Technica · Space",
+   "org": [
+    "nasa"
+   ],
+   "topic": "space",
+   "tldr": "\"Beijing's intended strategy is to dominate the high ground of the twenty-first century.\"",
+   "published": "2026-09-23T17:10:58.000Z",
+   "dupes": 1,
+   "score": 0.351,
    "tier": 3
   },
   {
@@ -554,7 +567,7 @@
    "tldr": "2026-2027 DWU: Middle School Design Challenge Overview The 2026-2027 challenge theme is, “Fueling Flight Design Challenge: New Energy Systems.” As more and more aircraft are a part of the US’ National Airspace System…",
    "published": "2026-09-25T17:20:51.000Z",
    "dupes": 2,
-   "score": 0.317,
+   "score": 0.307,
    "tier": 3
   },
   {
@@ -567,7 +580,7 @@
    "tldr": "\"There is always a tension that comes with seeing the first of anything fly.\"",
    "published": "2026-09-25T15:35:23.000Z",
    "dupes": 2,
-   "score": 0.307,
+   "score": 0.297,
    "tier": 3
   },
   {
@@ -582,7 +595,7 @@
    "tldr": "When COVID-19 emerged, scientists had a crucial advantage: Decades of prior research on coronaviruses meant they understood the virus’ key proteins well enough to design vaccines in record time.  The next pandemic may…",
    "published": "2026-09-24T14:00:50.000Z",
    "dupes": 1,
-   "score": 0.304,
+   "score": 0.29,
    "tier": 3
   },
   {
@@ -597,7 +610,7 @@
    "tldr": "A warped Manhattan is waiting in the cloud this week.  Remedy Entertainment’s CONTROL Resonant brings Dylan Faden’s extraordinary abilities and a paranatural crisis to GeForce NOW at launch.",
    "published": "2026-09-24T13:00:36.000Z",
    "dupes": 1,
-   "score": 0.303,
+   "score": 0.29,
    "tier": 3
   },
   {
@@ -610,7 +623,7 @@
    "tldr": "\"The customer got comfortable with a high reliability and a low price.\"",
    "published": "2026-09-25T11:00:10.000Z",
    "dupes": 2,
-   "score": 0.298,
+   "score": 0.29,
    "tier": 3
   },
   {
@@ -625,7 +638,7 @@
    "tldr": "When Sakeena Fiza describes her work as a validation engineer at NVIDIA, she does so in terms more befitting a detective story than a world-class engineering lab.  “Validation engineers look in the shadows and shine a…",
    "published": "2026-09-23T15:00:32.000Z",
    "dupes": 1,
-   "score": 0.294,
+   "score": 0.281,
    "tier": 3
   },
   {
@@ -640,20 +653,7 @@
    "tldr": "NVIDIA AI Day Singapore, which takes place Sept.  22-23 at the Raffles City Convention Centre, is offering attendees opportunities to explore the hands-on training, expert-led sessions and advanced tools to accelerate…",
    "published": "2026-09-23T02:30:22.000Z",
    "dupes": 1,
-   "score": 0.29,
-   "tier": 3
-  },
-  {
-   "id": "f02a186cd3e5b1377989ae143b9c93b109aab469",
-   "title": "From 14 cities to 15,000: What it will take to scale robotaxis?",
-   "url": "https://www.therobotreport.com/from-14-cities-to-15000-what-it-will-take-to-scale-robotaxis",
-   "source": "The Robot Report",
-   "org": [],
-   "topic": "robotics",
-   "tldr": "While robotaxis prove their driving ability, scaling the industry globally requires solving the unglamorous challenge of fast, local vehicle servicing.  The post From 14 cities to 15,000: What it will take to scale…",
-   "published": "2026-09-26T12:34:55.000Z",
-   "dupes": 1,
-   "score": 0.289,
+   "score": 0.278,
    "tier": 3
   },
   {
@@ -671,7 +671,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.287,
+   "score": 0.276,
    "tier": 3
   },
   {
@@ -686,7 +686,7 @@
    "tldr": "Every AI factory needs power and cooling that fit its computing architecture.  As AI infrastructure expands, power, cooling, water, site and grid constraints are shaping what builders can deploy.",
    "published": "2026-09-21T18:00:07.000Z",
    "dupes": 1,
-   "score": 0.285,
+   "score": 0.273,
    "tier": 3
   },
   {
@@ -701,7 +701,7 @@
    "tldr": "Today, Egypt’s AI builders gathered in the Grand Egyptian Museum for a reception that highlighted the nation’s rapidly growing AI ecosystem — spanning AI natives, developers, researchers, startups and enterprises —…",
    "published": "2026-09-21T16:00:10.000Z",
    "dupes": 1,
-   "score": 0.284,
+   "score": 0.273,
    "tier": 3
   },
   {
@@ -716,7 +716,20 @@
    "tldr": "Clean energy isn’t hard to come by, but the pace of large-scale adoption has historically been slow due to bottlenecks — including out-of-date infrastructure, elongated research and development timelines, and upfront…",
    "published": "2026-09-21T10:00:35.000Z",
    "dupes": 1,
-   "score": 0.284,
+   "score": 0.273,
+   "tier": 3
+  },
+  {
+   "id": "f02a186cd3e5b1377989ae143b9c93b109aab469",
+   "title": "From 14 cities to 15,000: What it will take to scale robotaxis?",
+   "url": "https://www.therobotreport.com/from-14-cities-to-15000-what-it-will-take-to-scale-robotaxis",
+   "source": "The Robot Report",
+   "org": [],
+   "topic": "robotics",
+   "tldr": "While robotaxis prove their driving ability, scaling the industry globally requires solving the unglamorous challenge of fast, local vehicle servicing.  The post From 14 cities to 15,000: What it will take to scale…",
+   "published": "2026-09-26T12:34:55.000Z",
+   "dupes": 1,
+   "score": 0.273,
    "tier": 3
   },
   {
@@ -731,7 +744,7 @@
    "tldr": "The European Space Agency (ESA), Italy’s Museo Galileo - Institute and Museum of the History of Science, and the European Commission (EC) have partnered to uncover the surprising and far-reaching connections between the…",
    "published": "2026-09-25T09:00:00.000Z",
    "dupes": 1,
-   "score": 0.282,
+   "score": 0.269,
    "tier": 3
   },
   {
@@ -746,7 +759,7 @@
    "tldr": "Get ready to celebrate BepiColombo ’s arrival at Mercury.  Craft a welcoming message that could be a drawing, song, poem or any other art form and stand a chance to win a trip to mission control!",
    "published": "2026-09-24T13:00:00.000Z",
    "dupes": 1,
-   "score": 0.269,
+   "score": 0.258,
    "tier": 3
   },
   {
@@ -761,7 +774,7 @@
    "tldr": "Despite challenges, Tesla aims for 1,000 Optimus robots per week by end of 2026.",
    "published": "2026-09-25T21:10:51.000Z",
    "dupes": 1,
-   "score": 0.265,
+   "score": 0.254,
    "tier": 3
   },
   {
@@ -774,7 +787,7 @@
    "tldr": "We might be long past the days of games companies raising eye-watering figures on Kickstarter, but the platform is still a viable way to raise money to fund &ndash; at last part of &ndash; your game.",
    "published": "2026-09-25T12:00:00.000Z",
    "dupes": 2,
-   "score": 0.259,
+   "score": 0.251,
    "tier": 3
   },
   {
@@ -787,7 +800,7 @@
    "tldr": "Muju Earth Technologies has developed a deceptively simply pod that can save farmers money while improving crop yields.",
    "published": "2026-09-25T17:30:00.000Z",
    "dupes": 1,
-   "score": 0.25,
+   "score": 0.24,
    "tier": 3
   },
   {
@@ -800,7 +813,7 @@
    "tldr": "The new facility will produce products that power Amazon's fulfillment and robotics network across North America.  The post Amazon to invest $100M in new Indiana manufacturing facility appeared first on The Robot Report…",
    "published": "2026-09-25T18:59:01.000Z",
    "dupes": 1,
-   "score": 0.246,
+   "score": 0.235,
    "tier": 3
   },
   {
@@ -813,7 +826,7 @@
    "tldr": "Rather than training one model to do everything, General Robotics composes specialized capabilities—helping robots adapt across tasks and form factors.  The post General Robotics is betting on modular intelligence, not…",
    "published": "2026-09-25T18:43:22.000Z",
    "dupes": 1,
-   "score": 0.245,
+   "score": 0.235,
    "tier": 3
   },
   {
@@ -828,7 +841,7 @@
    "tldr": "Agility Robotics is exploring a range of robot designs and form factors, including wheels, to address different operating environments and customer needs.  The post Agility Robotics, maker of Digit humanoid, exploring…",
    "published": "2026-09-25T14:08:27.000Z",
    "dupes": 1,
-   "score": 0.236,
+   "score": 0.227,
    "tier": 3
   },
   {
@@ -841,7 +854,7 @@
    "tldr": "Labor availability, costs, productivity, and efficiency are common concerns of farmers that technology can address, according to CNH.  The post Farmers are facing more pressure; CNH says robotics can help appeared first…",
    "published": "2026-09-25T12:18:36.000Z",
    "dupes": 1,
-   "score": 0.233,
+   "score": 0.224,
    "tier": 3
   },
   {
@@ -854,7 +867,7 @@
    "tldr": "One of gaming's biggest horror franchises has come to the UK.  Can it live up to the original?",
    "published": "2026-09-25T23:34:20.000Z",
    "dupes": 1,
-   "score": 0.227,
+   "score": 0.217,
    "tier": 3
   },
   {
@@ -867,7 +880,7 @@
    "tldr": "Where do America's X-plane projects fit in an era of cheap drones?",
    "published": "2026-09-24T23:03:53.000Z",
    "dupes": 1,
-   "score": 0.221,
+   "score": 0.215,
    "tier": 3
   },
   {
@@ -880,7 +893,7 @@
    "tldr": "F-Droid's Android app store has been rebuilt from the ground up.",
    "published": "2026-09-24T19:30:42.000Z",
    "dupes": 1,
-   "score": 0.22,
+   "score": 0.214,
    "tier": 3
   },
   {
@@ -893,7 +906,7 @@
    "tldr": "Ukraine’s Operation Vivaldi has erased Russian gains with the help of robots.",
    "published": "2026-09-24T18:39:47.000Z",
    "dupes": 1,
-   "score": 0.219,
+   "score": 0.213,
    "tier": 3
   },
   {
@@ -906,7 +919,7 @@
    "tldr": "S.  and Germany are also significant markets, found the IFR.",
    "published": "2026-09-24T20:15:51.000Z",
    "dupes": 1,
-   "score": 0.21,
+   "score": 0.204,
    "tier": 3
   },
   {
@@ -919,7 +932,7 @@
    "tldr": "Epson Robots has expanded its six-axis robot line with the AX6, a lightweight force- and power-limited arm.  The post Epson introduces AX6 cobot with compact design, no-code programming appeared first on The Robot…",
    "published": "2026-09-24T14:51:07.000Z",
    "dupes": 1,
-   "score": 0.204,
+   "score": 0.199,
    "tier": 3
   },
   {
@@ -932,7 +945,7 @@
    "tldr": "ANYbotics partnered with dormakaba and LEGIC Identsystems to enable the ANYmal quadruped to gain access like a badged employee.  The post ANYbotics opens the door for inspections with ANYmal robots appeared first on The…",
    "published": "2026-09-24T13:27:58.000Z",
    "dupes": 1,
-   "score": 0.203,
+   "score": 0.197,
    "tier": 3
   },
   {
@@ -945,20 +958,7 @@
    "tldr": "The Disney+ ad-free plan is now more expensive than Netflix's.",
    "published": "2026-09-23T21:18:53.000Z",
    "dupes": 1,
-   "score": 0.199,
-   "tier": 3
-  },
-  {
-   "id": "aebb1061f91ef89af59d1f3cfb7cea1722493321",
-   "title": "With the new VENTUNO Q board, Arduino hopes to make robotics development easier",
-   "url": "https://www.therobotreport.com/new-ventuno-q-board-arduino-hopes-make-robotics-development-easier",
-   "source": "The Robot Report",
-   "org": [],
-   "topic": "robotics",
-   "tldr": "While this is the first intentional step by Arduino into robotics, the company has over 20 years of experience working with robotics developers.  The post With the new VENTUNO Q board, Arduino hopes to make robotics…",
-   "published": "2026-09-23T18:04:35.000Z",
-   "dupes": 1,
-   "score": 0.187,
+   "score": 0.195,
    "tier": 3
   }
  ]
