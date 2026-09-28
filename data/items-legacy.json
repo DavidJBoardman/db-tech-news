@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-27T21:47:17.679Z",
+ "generated": "2026-09-28T00:12:28.120Z",
  "items": [
   {
    "id": "3bd40c5dcc31f1689cdcee0bd64a92d01fdf5b55",
@@ -13,8 +13,23 @@
    "tldr": "",
    "published": "2026-09-27T20:12:54.000Z",
    "dupes": 1,
-   "score": 0.665,
+   "score": 0.65,
    "tier": 1
+  },
+  {
+   "id": "ed2cbcca51ab9ede81af9f405ffd3dec46bf0c5b",
+   "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+   "source": "The Verge AI",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June.",
+   "published": "2026-09-27T17:21:07.000Z",
+   "dupes": 1,
+   "score": 0.469,
+   "tier": 2
   },
   {
    "id": "755e3dc914b204950e3af86d8f234aa2075806a5",
@@ -31,22 +46,7 @@
     "paper"
    ],
    "dupes": 1,
-   "score": 0.459,
-   "tier": 2
-  },
-  {
-   "id": "e6f2eebb259b95fc153b0afefeeb32259046c30a",
-   "title": "Faster prompt lookup drafting in llama.cpp",
-   "url": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp",
-   "source": "Hacker News",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-26T19:57:24.000Z",
-   "dupes": 1,
-   "score": 0.356,
+   "score": 0.374,
    "tier": 2
   },
   {
@@ -61,7 +61,22 @@
    "tldr": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
    "published": "2026-09-25T19:00:00.000Z",
    "dupes": 1,
-   "score": 0.35,
+   "score": 0.345,
+   "tier": 2
+  },
+  {
+   "id": "e6f2eebb259b95fc153b0afefeeb32259046c30a",
+   "title": "Faster prompt lookup drafting in llama.cpp",
+   "url": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp",
+   "source": "Hacker News",
+   "org": [
+    "meta"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-26T19:57:24.000Z",
+   "dupes": 1,
+   "score": 0.333,
    "tier": 2
   },
   {
@@ -76,22 +91,7 @@
    "tldr": "",
    "published": "2026-09-24T16:20:39.000Z",
    "dupes": 1,
-   "score": 0.318,
-   "tier": 2
-  },
-  {
-   "id": "819e92326da0d8d2b38ba2b151babb7a6b581fba",
-   "title": "OpenAI pauses training of its ‘most capable models’",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models.  The decision was made…",
-   "published": "2026-09-26T16:34:59.000Z",
-   "dupes": 1,
-   "score": 0.314,
+   "score": 0.316,
    "tier": 2
   },
   {
@@ -106,37 +106,7 @@
    "tldr": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
    "published": "2026-09-23T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.307,
-   "tier": 2
-  },
-  {
-   "id": "cd8117c6d35f983b0412afe669291075935696f1",
-   "title": "Advancing Private AI Compute with secure, server-side memory",
-   "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory",
-   "source": "Google DeepMind",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Introducing private, server-side memory to Private AI Compute for personal AI.",
-   "published": "2026-09-23T16:00:57.000Z",
-   "dupes": 1,
-   "score": 0.307,
-   "tier": 2
-  },
-  {
-   "id": "914ed32ad555468de89f3d16f259b4585854b78e",
-   "title": "Gemini 3.8 text-to-speech says hello",
-   "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
-   "source": "Google DeepMind",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-23T15:25:14.000Z",
-   "dupes": 1,
-   "score": 0.307,
+   "score": 0.306,
    "tier": 2
   },
   {
@@ -155,6 +125,36 @@
    "tier": 2
   },
   {
+   "id": "cd8117c6d35f983b0412afe669291075935696f1",
+   "title": "Advancing Private AI Compute with secure, server-side memory",
+   "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory",
+   "source": "Google DeepMind",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+   "published": "2026-09-23T16:00:57.000Z",
+   "dupes": 1,
+   "score": 0.306,
+   "tier": 2
+  },
+  {
+   "id": "914ed32ad555468de89f3d16f259b4585854b78e",
+   "title": "Gemini 3.8 text-to-speech says hello",
+   "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
+   "source": "Google DeepMind",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-23T15:25:14.000Z",
+   "dupes": 1,
+   "score": 0.306,
+   "tier": 2
+  },
+  {
    "id": "01d4e543c9419cead77e21595bfd0d3a6b2682b8",
    "title": "Sam Altman’s remarks at the United Nations Security Council",
    "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
@@ -166,7 +166,7 @@
    "tldr": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
    "published": "2026-09-23T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.306,
+   "score": 0.305,
    "tier": 2
   },
   {
@@ -181,7 +181,7 @@
    "tldr": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
    "published": "2026-09-23T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.306,
+   "score": 0.305,
    "tier": 2
   },
   {
@@ -196,7 +196,7 @@
    "tldr": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
    "published": "2026-09-23T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.306,
+   "score": 0.305,
    "tier": 2
   },
   {
@@ -211,7 +211,7 @@
    "tldr": "6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs.  1.",
    "published": "2026-09-23T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.306,
+   "score": 0.305,
    "tier": 3
   },
   {
@@ -226,22 +226,7 @@
    "tldr": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
    "published": "2026-09-23T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.306,
-   "tier": 3
-  },
-  {
-   "id": "f82afb648776b0979dfc3530a9c045662279b45f",
-   "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-   "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-   "source": "Anthropic News",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-23T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.304,
+   "score": 0.305,
    "tier": 3
   },
   {
@@ -275,6 +260,36 @@
    "tier": 3
   },
   {
+   "id": "819e92326da0d8d2b38ba2b151babb7a6b581fba",
+   "title": "OpenAI pauses training of its ‘most capable models’",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+   "source": "The Verge AI",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models.  The decision was made…",
+   "published": "2026-09-26T16:34:59.000Z",
+   "dupes": 1,
+   "score": 0.304,
+   "tier": 3
+  },
+  {
+   "id": "f82afb648776b0979dfc3530a9c045662279b45f",
+   "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+   "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+   "source": "Anthropic News",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-23T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.303,
+   "tier": 3
+  },
+  {
    "id": "09a0c6dbf1c6c00d5fb73a47cc29663a5b36542b",
    "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
    "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
@@ -286,7 +301,7 @@
    "tldr": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
    "published": "2026-09-23T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.304,
+   "score": 0.303,
    "tier": 3
   },
   {
@@ -413,21 +428,6 @@
    "tier": 3
   },
   {
-   "id": "d1749ba76a98e7a548545e88aab7e9020497049a",
-   "title": "V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna",
-   "url": "https://openai.com/index/v7",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
-   "published": "2026-09-21T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
    "id": "97e64618c0b233d7869322be07484137b91a27ca",
    "title": "Automating coherent long-form video generation",
    "url": "https://research.google/blog/coherent-long-form-video-generation",
@@ -439,7 +439,7 @@
    "tldr": "Generative AI",
    "published": "2026-09-24T19:40:00.000Z",
    "dupes": 1,
-   "score": 0.295,
+   "score": 0.293,
    "tier": 3
   },
   {
@@ -454,7 +454,7 @@
    "tldr": "When COVID-19 emerged, scientists had a crucial advantage: Decades of prior research on coronaviruses meant they understood the virus’ key proteins well enough to design vaccines in record time.  The next pandemic may…",
    "published": "2026-09-24T14:00:50.000Z",
    "dupes": 1,
-   "score": 0.291,
+   "score": 0.29,
    "tier": 3
   },
   {
@@ -469,7 +469,7 @@
    "tldr": "A warped Manhattan is waiting in the cloud this week.  Remedy Entertainment’s CONTROL Resonant brings Dylan Faden’s extraordinary abilities and a paranatural crisis to GeForce NOW at launch.",
    "published": "2026-09-24T13:00:36.000Z",
    "dupes": 1,
-   "score": 0.291,
+   "score": 0.289,
    "tier": 3
   },
   {
@@ -484,7 +484,7 @@
    "tldr": "We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the flow of human ambition.  Today we’re introducing the new Copilot to…",
    "published": "2026-09-25T12:03:50.000Z",
    "dupes": 1,
-   "score": 0.288,
+   "score": 0.285,
    "tier": 3
   },
   {
@@ -499,7 +499,7 @@
    "tldr": "When Sakeena Fiza describes her work as a validation engineer at NVIDIA, she does so in terms more befitting a detective story than a world-class engineering lab.  “Validation engineers look in the shadows and shine a…",
    "published": "2026-09-23T15:00:32.000Z",
    "dupes": 1,
-   "score": 0.282,
+   "score": 0.281,
    "tier": 3
   },
   {
@@ -518,19 +518,6 @@
    "tier": 3
   },
   {
-   "id": "c2a53f2332725b781693c84def77fa7ae32bea17",
-   "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-   "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-24T14:08:57.000Z",
-   "dupes": 1,
-   "score": 0.279,
-   "tier": 3
-  },
-  {
    "id": "81bdeb67aab163b2c005784bb8bdeed6457582a2",
    "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
    "url": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics",
@@ -544,6 +531,19 @@
    "badges": [
     "oss"
    ],
+   "dupes": 1,
+   "score": 0.277,
+   "tier": 3
+  },
+  {
+   "id": "c2a53f2332725b781693c84def77fa7ae32bea17",
+   "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+   "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-24T14:08:57.000Z",
    "dupes": 1,
    "score": 0.277,
    "tier": 3
@@ -654,21 +654,6 @@
    "tier": 3
   },
   {
-   "id": "3a10b48ae769cffe76e82d425abe9d08f735acca",
-   "title": "Improving synthesis prediction of small molecules at scale with RetroChimera",
-   "url": "https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera",
-   "source": "Microsoft Research",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "Custom-made molecules are advancing medicine, materials, and agriculture, but producing them is slow and expensive.  A new Nature paper highlights RetroChimera, a predictive model that helps accelerate chemical…",
-   "published": "2026-09-21T15:30:19.000Z",
-   "dupes": 1,
-   "score": 0.264,
-   "tier": 3
-  },
-  {
    "id": "2960c64a019e48fb3e0b2c640d1f2581dcc831a5",
    "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
    "url": "https://huggingface.co/blog/evaleval-aisi",
@@ -710,6 +695,21 @@
    "tier": 3
   },
   {
+   "id": "3a10b48ae769cffe76e82d425abe9d08f735acca",
+   "title": "Improving synthesis prediction of small molecules at scale with RetroChimera",
+   "url": "https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera",
+   "source": "Microsoft Research",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "Custom-made molecules are advancing medicine, materials, and agriculture, but producing them is slow and expensive.  A new Nature paper highlights RetroChimera, a predictive model that helps accelerate chemical…",
+   "published": "2026-09-21T15:30:19.000Z",
+   "dupes": 1,
+   "score": 0.263,
+   "tier": 3
+  },
+  {
    "id": "c701b57089c5bf6a94efedcee126de608bba33a3",
    "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
    "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
@@ -718,19 +718,6 @@
    "topic": "ai",
    "tldr": "",
    "published": "2026-09-21T13:44:34.000Z",
-   "dupes": 1,
-   "score": 0.264,
-   "tier": 3
-  },
-  {
-   "id": "eb792e0fc342008524956ef191d82691e9af6f91",
-   "title": "tokenizers v1: encode, decode and scaling, measured",
-   "url": "https://huggingface.co/blog/tokenizers-v1",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-21T00:00:00.000Z",
    "dupes": 1,
    "score": 0.263,
    "tier": 3
@@ -747,7 +734,7 @@
    "tldr": "Today at Connect, we introduced Ray-Ban Meta Audio, our first-ever audio glasses, and our biggest expansion of AI glasses.  The post Introducing Ray-Ban Meta Audio and More AI Glasses Styles appeared first on Meta…",
    "published": "2026-09-23T11:36:25.000Z",
    "dupes": 1,
-   "score": 0.256,
+   "score": 0.255,
    "tier": 3
   },
   {
@@ -762,7 +749,22 @@
    "tldr": "Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users.",
    "published": "2026-09-25T16:49:53.000Z",
    "dupes": 1,
-   "score": 0.246,
+   "score": 0.241,
+   "tier": 3
+  },
+  {
+   "id": "c8e3d7194865630a1b9d5b77c9a0e1bc3a915ad3",
+   "title": "A New Experiment Meta-Strategy",
+   "url": "https://chillphysicsenjoyer.substack.com/p/a-new-experiment-meta-strategy",
+   "source": "Hacker News",
+   "org": [
+    "meta"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-25T13:20:04.000Z",
+   "dupes": 1,
+   "score": 0.238,
    "tier": 3
   },
   {
@@ -777,7 +779,7 @@
    "tldr": "A few years back, I was at a beachside Easter egg hunt, watching my kids dash through sand dunes searching for sweet treats.  My phone buzzed in my pocket; I ignored it.",
    "published": "2026-09-25T13:00:00.000Z",
    "dupes": 1,
-   "score": 0.239,
+   "score": 0.236,
    "tier": 3
   },
   {
@@ -792,7 +794,7 @@
    "tldr": "After teasing its new Copilot \"super app\" last month, Microsoft is officially unveiling it today.  The redesigned Copilot app bundles three AI capabilities into a single interface of chat, coding, and agents.",
    "published": "2026-09-25T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.238,
+   "score": 0.234,
    "tier": 3
   },
   {
@@ -806,21 +808,6 @@
    "topic": "ai",
    "tldr": "8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time.  The \"Live Avatar\" will lip-sync and show different facial expressions during conversations, but…",
    "published": "2026-09-24T19:59:26.000Z",
-   "dupes": 1,
-   "score": 0.22,
-   "tier": 3
-  },
-  {
-   "id": "18e7444965179a134bbddfa0b5c803f3ed27577f",
-   "title": "Meta is going to let you build games with AI right on your phone",
-   "url": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
-   "source": "The Verge AI",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "Meta has a new plan to get people to make games for its Horizon social platform.  The company today announced two new development tools that will let you create games with AI prompts: Horizon Create, a mobile app, and…",
-   "published": "2026-09-24T17:52:29.000Z",
    "dupes": 1,
    "score": 0.219,
    "tier": 3
@@ -837,7 +824,7 @@
    "tldr": "",
    "published": "2026-09-21T13:06:29.000Z",
    "dupes": 1,
-   "score": 0.194,
+   "score": 0.191,
    "tier": 3
   }
  ]
