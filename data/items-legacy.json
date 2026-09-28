@@ -1,6 +1,96 @@
 {
- "generated": "2026-09-28T12:33:42.552Z",
+ "generated": "2026-09-28T19:56:16.648Z",
  "items": [
+  {
+   "id": "33bc6e5e5e9c40c7e6e7cdbbc8ace4b7bf404713",
+   "title": "So long Google, and thanks for all the nudes",
+   "url": "https://lecaro.me/20260921-google-less.html",
+   "source": "Hacker News",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-28T18:04:47.000Z",
+   "dupes": 1,
+   "score": 0.536,
+   "tier": 1
+  },
+  {
+   "id": "4d987bc13622185da0c1d1a33b355a7220ba6479",
+   "title": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
+   "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
+   "source": "Hacker News",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-28T17:33:34.000Z",
+   "dupes": 1,
+   "score": 0.526,
+   "tier": 2
+  },
+  {
+   "id": "216d56bba26ca4582d8ff48331ecc3408f226836",
+   "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+   "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+   "published": "2026-09-28T07:00:00.000Z",
+   "dupes": 1,
+   "score": 0.513,
+   "tier": 2
+  },
+  {
+   "id": "523d5e9de5b0c404a2ab449f4743ea4042c69b5f",
+   "title": "Florida seeks a ban on ChatGPT acting like a person",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
+   "source": "The Verge AI",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from \"giving ChatGPT false human attributes,\" a few months after Florida sued the AI company over safety concerns.",
+   "published": "2026-09-28T17:00:23.000Z",
+   "dupes": 1,
+   "score": 0.513,
+   "tier": 2
+  },
+  {
+   "id": "c5ed54694a4a2d5e0e1501e66b00cf4c64123849",
+   "title": "OpenAI keeps bulldozing mathematicians",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
+   "source": "The Verge AI",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathematics, then colossally screw up announcing them.  OpenAI is now trying to do…",
+   "published": "2026-09-28T17:00:00.000Z",
+   "dupes": 1,
+   "score": 0.513,
+   "tier": 2
+  },
+  {
+   "id": "b3c63653c45b425b164822d4918897b66b7bdaa6",
+   "title": "MongoDB CEO resigns to join Meta",
+   "url": "https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28",
+   "source": "Hacker News",
+   "org": [
+    "meta"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-28T14:54:21.000Z",
+   "dupes": 1,
+   "score": 0.508,
+   "tier": 2
+  },
   {
    "id": "9552195c964ddb7b23252953cea23af16e9f5c33",
    "title": "Holo4: powering generalist computer-use agents",
@@ -11,8 +101,8 @@
    "tldr": "",
    "published": "2026-09-28T09:44:05.000Z",
    "dupes": 1,
-   "score": 0.576,
-   "tier": 1
+   "score": 0.499,
+   "tier": 2
   },
   {
    "id": "3bd40c5dcc31f1689cdcee0bd64a92d01fdf5b55",
@@ -26,7 +116,22 @@
    "tldr": "",
    "published": "2026-09-27T20:12:54.000Z",
    "dupes": 1,
-   "score": 0.537,
+   "score": 0.49,
+   "tier": 2
+  },
+  {
+   "id": "fa45a29570c32d230e345cbed6341f9b552bfdcd",
+   "title": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
+   "url": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
+   "source": "The Verge AI",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "ai",
+   "tldr": "Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a wave of rogue hacking incidents, as reported earlier by Reuters.",
+   "published": "2026-09-28T13:36:06.000Z",
+   "dupes": 1,
+   "score": 0.474,
    "tier": 2
   },
   {
@@ -41,22 +146,7 @@
    "tldr": "",
    "published": "2026-09-28T02:05:13.000Z",
    "dupes": 1,
-   "score": 0.52,
-   "tier": 2
-  },
-  {
-   "id": "9f284effa55e58c2a067b7232f07862e11f394da",
-   "title": "Prompting Claude Opus 5.5",
-   "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
-   "source": "Hacker News",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-28T07:33:29.000Z",
-   "dupes": 1,
-   "score": 0.503,
+   "score": 0.464,
    "tier": 2
   },
   {
@@ -71,7 +161,7 @@
    "tldr": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June.",
    "published": "2026-09-27T17:21:07.000Z",
    "dupes": 1,
-   "score": 0.367,
+   "score": 0.326,
    "tier": 2
   },
   {
@@ -86,7 +176,7 @@
    "tldr": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
    "published": "2026-09-25T19:00:00.000Z",
    "dupes": 1,
-   "score": 0.328,
+   "score": 0.321,
    "tier": 2
   },
   {
@@ -101,7 +191,7 @@
    "tldr": "",
    "published": "2026-09-24T16:20:39.000Z",
    "dupes": 1,
-   "score": 0.31,
+   "score": 0.308,
    "tier": 2
   },
   {
@@ -116,8 +206,8 @@
    "tldr": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
    "published": "2026-09-23T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.304,
-   "tier": 2
+   "score": 0.303,
+   "tier": 3
   },
   {
    "id": "1d77064cbebb782f18a0731cbc2f9d09624e05c9",
@@ -131,53 +221,8 @@
    "tldr": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
    "published": "2026-09-23T13:00:00.000Z",
    "dupes": 1,
-   "score": 0.304,
-   "tier": 2
-  },
-  {
-   "id": "cd8117c6d35f983b0412afe669291075935696f1",
-   "title": "Advancing Private AI Compute with secure, server-side memory",
-   "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory",
-   "source": "Google DeepMind",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Introducing private, server-side memory to Private AI Compute for personal AI.",
-   "published": "2026-09-23T16:00:57.000Z",
-   "dupes": 1,
-   "score": 0.304,
-   "tier": 2
-  },
-  {
-   "id": "914ed32ad555468de89f3d16f259b4585854b78e",
-   "title": "Gemini 3.8 text-to-speech says hello",
-   "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
-   "source": "Google DeepMind",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-23T15:25:14.000Z",
-   "dupes": 1,
-   "score": 0.304,
-   "tier": 2
-  },
-  {
-   "id": "01d4e543c9419cead77e21595bfd0d3a6b2682b8",
-   "title": "Sam Altman’s remarks at the United Nations Security Council",
-   "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-   "published": "2026-09-23T12:00:00.000Z",
-   "dupes": 1,
    "score": 0.303,
-   "tier": 2
+   "tier": 3
   },
   {
    "id": "f7558dc5c9de5bb5fdc77d93f9ea026683eaa31f",
@@ -192,7 +237,7 @@
    "published": "2026-09-23T12:00:00.000Z",
    "dupes": 1,
    "score": 0.303,
-   "tier": 2
+   "tier": 3
   },
   {
    "id": "7357353a1f1d61a65439dd9d37ded36b9953529a",
@@ -225,16 +270,46 @@
    "tier": 3
   },
   {
-   "id": "1d5a9cc2d9509da81910cada203eb369287e9e13",
-   "title": "Introducing MentalHealthBench",
-   "url": "https://openai.com/index/introducing-mentalhealthbench",
+   "id": "01d4e543c9419cead77e21595bfd0d3a6b2682b8",
+   "title": "Sam Altman’s remarks at the United Nations Security Council",
+   "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
    "source": "OpenAI Blog",
    "org": [
     "openai"
    ],
    "topic": "ai",
-   "tldr": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
-   "published": "2026-09-23T10:00:00.000Z",
+   "tldr": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+   "published": "2026-09-23T12:00:00.000Z",
+   "dupes": 1,
+   "score": 0.303,
+   "tier": 3
+  },
+  {
+   "id": "cd8117c6d35f983b0412afe669291075935696f1",
+   "title": "Advancing Private AI Compute with secure, server-side memory",
+   "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory",
+   "source": "Google DeepMind",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+   "published": "2026-09-23T16:00:57.000Z",
+   "dupes": 1,
+   "score": 0.303,
+   "tier": 3
+  },
+  {
+   "id": "914ed32ad555468de89f3d16f259b4585854b78e",
+   "title": "Gemini 3.8 text-to-speech says hello",
+   "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
+   "source": "Google DeepMind",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-23T15:25:14.000Z",
    "dupes": 1,
    "score": 0.303,
    "tier": 3
@@ -250,6 +325,21 @@
    "topic": "ai",
    "tldr": "",
    "published": "2026-09-23T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.302,
+   "tier": 3
+  },
+  {
+   "id": "1d5a9cc2d9509da81910cada203eb369287e9e13",
+   "title": "Introducing MentalHealthBench",
+   "url": "https://openai.com/index/introducing-mentalhealthbench",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
+   "published": "2026-09-23T10:00:00.000Z",
    "dupes": 1,
    "score": 0.302,
    "tier": 3
@@ -311,7 +401,7 @@
    "tldr": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
    "published": "2026-09-22T21:00:00.000Z",
    "dupes": 1,
-   "score": 0.302,
+   "score": 0.301,
    "tier": 3
   },
   {
@@ -326,7 +416,7 @@
    "tldr": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
    "published": "2026-09-22T18:00:00.000Z",
    "dupes": 1,
-   "score": 0.302,
+   "score": 0.301,
    "tier": 3
   },
   {
@@ -363,24 +453,6 @@
    "tier": 3
   },
   {
-   "id": "755e3dc914b204950e3af86d8f234aa2075806a5",
-   "title": "DeepSeek Elastic Compute (DSec)",
-   "url": "https://arxiv.org/abs/2609.22978",
-   "source": "HN · DeepSeek",
-   "org": [
-    "deepseek"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-26T18:22:41.000Z",
-   "badges": [
-    "paper"
-   ],
-   "dupes": 1,
-   "score": 0.29,
-   "tier": 3
-  },
-  {
    "id": "97e64618c0b233d7869322be07484137b91a27ca",
    "title": "Automating coherent long-form video generation",
    "url": "https://research.google/blog/coherent-long-form-video-generation",
@@ -392,7 +464,7 @@
    "tldr": "Generative AI",
    "published": "2026-09-24T19:40:00.000Z",
    "dupes": 1,
-   "score": 0.286,
+   "score": 0.284,
    "tier": 3
   },
   {
@@ -407,7 +479,7 @@
    "tldr": "When COVID-19 emerged, scientists had a crucial advantage: Decades of prior research on coronaviruses meant they understood the virus’ key proteins well enough to design vaccines in record time.  The next pandemic may…",
    "published": "2026-09-24T14:00:50.000Z",
    "dupes": 1,
-   "score": 0.284,
+   "score": 0.282,
    "tier": 3
   },
   {
@@ -422,7 +494,7 @@
    "tldr": "A warped Manhattan is waiting in the cloud this week.  Remedy Entertainment’s CONTROL Resonant brings Dylan Faden’s extraordinary abilities and a paranatural crisis to GeForce NOW at launch.",
    "published": "2026-09-24T13:00:36.000Z",
    "dupes": 1,
-   "score": 0.284,
+   "score": 0.282,
    "tier": 3
   },
   {
@@ -437,7 +509,7 @@
    "tldr": "When Sakeena Fiza describes her work as a validation engineer at NVIDIA, she does so in terms more befitting a detective story than a world-class engineering lab.  “Validation engineers look in the shadows and shine a…",
    "published": "2026-09-23T15:00:32.000Z",
    "dupes": 1,
-   "score": 0.279,
+   "score": 0.278,
    "tier": 3
   },
   {
@@ -474,66 +546,6 @@
    "tier": 3
   },
   {
-   "id": "8b64befa04990cc1214343c9f1d92c042bdbdbfa",
-   "title": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
-   "url": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Every AI factory needs power and cooling that fit its computing architecture.  As AI infrastructure expands, power, cooling, water, site and grid constraints are shaping what builders can deploy.",
-   "published": "2026-09-21T18:00:07.000Z",
-   "dupes": 1,
-   "score": 0.276,
-   "tier": 3
-  },
-  {
-   "id": "1bb9769be8b378da7ef3b3454c56e7f57effecb7",
-   "title": "Why Deploying Physical AI at Scale Demands Safety at Every Layer",
-   "url": "https://blogs.nvidia.com/blog/physical-ai-halos-safety",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Physical AI is moving rapidly from research to large-scale deployment.  By 2035, ABI Research projects an installed base of 49 million level 3-5 autonomous vehicles (AVs), while Omdia estimates that roughly 60 million…",
-   "published": "2026-09-21T16:00:46.000Z",
-   "dupes": 1,
-   "score": 0.276,
-   "tier": 3
-  },
-  {
-   "id": "7755df424d41324f7f58fb4aa1d4c9eca5dee11c",
-   "title": "From Enablement to Execution, Egypt’s AI Ecosystem Reaches Production Scale",
-   "url": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Today, Egypt’s AI builders gathered in the Grand Egyptian Museum for a reception that highlighted the nation’s rapidly growing AI ecosystem — spanning AI natives, developers, researchers, startups and enterprises —…",
-   "published": "2026-09-21T16:00:10.000Z",
-   "dupes": 1,
-   "score": 0.276,
-   "tier": 3
-  },
-  {
-   "id": "8bbe89e1845b81233a500bf9050ceacc3ec66138",
-   "title": "AI Security Is an Engineering Problem — How to Solve It at Every Layer of the Agent Stack",
-   "url": "https://blogs.nvidia.com/blog/ai-security-agent-stack",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "AI security is an engineering problem.  That means defined security requirements, enforceable controls, named owners and evidence that protections work.",
-   "published": "2026-09-21T14:51:34.000Z",
-   "dupes": 1,
-   "score": 0.276,
-   "tier": 3
-  },
-  {
    "id": "c2a53f2332725b781693c84def77fa7ae32bea17",
    "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
@@ -543,7 +555,25 @@
    "tldr": "",
    "published": "2026-09-24T14:08:57.000Z",
    "dupes": 1,
-   "score": 0.272,
+   "score": 0.269,
+   "tier": 3
+  },
+  {
+   "id": "755e3dc914b204950e3af86d8f234aa2075806a5",
+   "title": "DeepSeek Elastic Compute (DSec)",
+   "url": "https://arxiv.org/abs/2609.22978",
+   "source": "HN · DeepSeek",
+   "org": [
+    "deepseek"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-26T18:22:41.000Z",
+   "badges": [
+    "paper"
+   ],
+   "dupes": 1,
+   "score": 0.267,
    "tier": 3
   },
   {
@@ -558,7 +588,7 @@
    "tldr": "We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the flow of human ambition.  Today we’re introducing the new Copilot to…",
    "published": "2026-09-25T12:03:50.000Z",
    "dupes": 1,
-   "score": 0.271,
+   "score": 0.266,
    "tier": 3
   },
   {
@@ -573,7 +603,7 @@
    "tldr": "",
    "published": "2026-09-23T18:41:40.000Z",
    "dupes": 1,
-   "score": 0.267,
+   "score": 0.266,
    "tier": 3
   },
   {
@@ -588,37 +618,7 @@
    "tldr": "Robots are getting smarter, but how can their hardware match that growth?  New Microsoft Research findings show that moving AI inference beyond the robot can improve task success, boost efficiency, and support more…",
    "published": "2026-09-23T16:01:36.000Z",
    "dupes": 1,
-   "score": 0.266,
-   "tier": 3
-  },
-  {
-   "id": "819e92326da0d8d2b38ba2b151babb7a6b581fba",
-   "title": "OpenAI pauses training of its ‘most capable models’",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models.  The decision was made…",
-   "published": "2026-09-26T16:34:59.000Z",
-   "dupes": 1,
-   "score": 0.264,
-   "tier": 3
-  },
-  {
-   "id": "3a10b48ae769cffe76e82d425abe9d08f735acca",
-   "title": "Improving synthesis prediction of small molecules at scale with RetroChimera",
-   "url": "https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera",
-   "source": "Microsoft Research",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "Custom-made molecules are advancing medicine, materials, and agriculture, but producing them is slow and expensive.  A new Nature paper highlights RetroChimera, a predictive model that helps accelerate chemical…",
-   "published": "2026-09-21T15:30:19.000Z",
-   "dupes": 1,
-   "score": 0.263,
+   "score": 0.265,
    "tier": 3
   },
   {
@@ -663,19 +663,6 @@
    "tier": 3
   },
   {
-   "id": "c701b57089c5bf6a94efedcee126de608bba33a3",
-   "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-   "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-21T13:44:34.000Z",
-   "dupes": 1,
-   "score": 0.263,
-   "tier": 3
-  },
-  {
    "id": "37bf32ade2e16d21d529ab63231e67228a960d6e",
    "title": "Introducing Ray-Ban Meta Audio and More AI Glasses Styles",
    "url": "https://about.fb.com/news/2026/09/introducing-ray-ban-meta-audio-glasses-new-styles-plus-muse",
@@ -687,7 +674,22 @@
    "tldr": "Today at Connect, we introduced Ray-Ban Meta Audio, our first-ever audio glasses, and our biggest expansion of AI glasses.  The post Introducing Ray-Ban Meta Audio and More AI Glasses Styles appeared first on Meta…",
    "published": "2026-09-23T11:36:25.000Z",
    "dupes": 1,
-   "score": 0.253,
+   "score": 0.252,
+   "tier": 3
+  },
+  {
+   "id": "819e92326da0d8d2b38ba2b151babb7a6b581fba",
+   "title": "OpenAI pauses training of its ‘most capable models’",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+   "source": "The Verge AI",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models.  The decision was made…",
+   "published": "2026-09-26T16:34:59.000Z",
+   "dupes": 1,
+   "score": 0.248,
    "tier": 3
   },
   {
@@ -702,67 +704,7 @@
    "tldr": "Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users.",
    "published": "2026-09-25T16:49:53.000Z",
    "dupes": 1,
-   "score": 0.226,
-   "tier": 3
-  },
-  {
-   "id": "f5e0462c8aedb2aaa5b08e28d0a5b744f4ba919b",
-   "title": "Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test",
-   "url": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review",
-   "source": "The Verge AI",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "A few years back, I was at a beachside Easter egg hunt, watching my kids dash through sand dunes searching for sweet treats.  My phone buzzed in my pocket; I ignored it.",
-   "published": "2026-09-25T13:00:00.000Z",
-   "dupes": 1,
-   "score": 0.222,
-   "tier": 3
-  },
-  {
-   "id": "c9b6dd7b22a4e54aff34394a04ef52f31f0b544c",
-   "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
-   "url": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
-   "source": "The Verge AI",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "After teasing its new Copilot \"super app\" last month, Microsoft is officially unveiling it today.  The redesigned Copilot app bundles three AI capabilities into a single interface of chat, coding, and agents.",
-   "published": "2026-09-25T12:00:00.000Z",
-   "dupes": 1,
-   "score": 0.221,
-   "tier": 3
-  },
-  {
-   "id": "ee9698a7fdb9719d73f9d3d67cd10a4b622112bf",
-   "title": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
-   "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-   "source": "The Verge AI",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time.  The \"Live Avatar\" will lip-sync and show different facial expressions during conversations, but…",
-   "published": "2026-09-24T19:59:26.000Z",
-   "dupes": 1,
-   "score": 0.212,
-   "tier": 3
-  },
-  {
-   "id": "1594232205bbc6cf44ecbbae5d94f0bf8dfacd4a",
-   "title": "DeepSeek is training a 2T-parameter model and plans to build an 8T-parameter one",
-   "url": "https://twitter.com/wallstengine/status/2101982843656388644",
-   "source": "HN · DeepSeek",
-   "org": [
-    "deepseek"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-21T13:06:29.000Z",
-   "dupes": 1,
-   "score": 0.189,
+   "score": 0.219,
    "tier": 3
   }
  ]
