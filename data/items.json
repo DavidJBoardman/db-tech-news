@@ -1,24 +1,72 @@
 {
- "generated": "2026-09-28T19:56:10.689Z",
+ "generated": "2026-09-29T00:08:02.213Z",
  "items": [
   {
-   "id": "4d987bc13622185da0c1d1a33b355a7220ba6479",
-   "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
-   "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
+   "id": "46fca61f4990eac9bdf32beada2eaa587bf178c5",
+   "title": "Nvidia launches new platform for reining in rogue AI agents",
+   "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents",
+   "source": "TechCrunch",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to the problem.",
+   "published": "2026-09-28T18:31:23.000Z",
+   "dupes": 2,
+   "score": 0.735,
+   "tier": 1
+  },
+  {
+   "id": "39067a424f034e73e74aa68319de49ab7a9709c4",
+   "title": "OpenAI reportedly ditches model over safety concerns",
+   "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns",
    "source": "TechCrunch",
    "org": [
     "openai"
    ],
    "topic": "ai",
-   "tldr": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming.",
-   "published": "2026-09-28T17:09:02.000Z",
-   "dupes": 2,
-   "score": 0.76,
-   "tier": 1
+   "tldr": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
+   "published": "2026-09-28T23:39:20.000Z",
+   "dupes": 1,
+   "score": 0.713,
+   "tier": 2
+  },
+  {
+   "id": "05d139314aaff1713259c531a0487b6bd21078d7",
+   "title": "One year in: How Microsoft Research Asia – Singapore is advancing research, partnership and talent for real-world impact",
+   "url": "https://www.microsoft.com/en-us/research/blog/one-year-in-how-microsoft-research-asia-singapore-is-advancing-research-partnership-and-talent-for-real-world-impact",
+   "source": "Microsoft Research",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "Since launching a year ago, the Microsoft Research Asia — Singapore lab has established a strong foundation, deepened collaboration across government, academia, and industry, and explored how frontier AI research can…",
+   "published": "2026-09-28T21:00:00.000Z",
+   "badges": [
+    "research"
+   ],
+   "dupes": 1,
+   "score": 0.708,
+   "tier": 2
+  },
+  {
+   "id": "309d3a4f83f0a0172713e6f2d151ff0a078ebc12",
+   "title": "Florida invokes extinction fears in legal bid to halt OpenAI development",
+   "url": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development",
+   "source": "Ars Technica",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "State says LLMs threaten civilization as \"the greatest public nuisance ever created.\"",
+   "published": "2026-09-28T20:49:39.000Z",
+   "dupes": 1,
+   "score": 0.707,
+   "tier": 2
   },
   {
    "id": "17799407ebad5b3a859fc8e9fb863f1d87bc87ee",
-   "title": "NASA, for the time being, is unable to move the space station's large robotic arm",
+   "title": "NASA 'troubleshooting' transporter for space station's robotic arm [Updated]",
    "url": "https://arstechnica.com/space/2026/09/nasa-for-the-time-being-is-unable-to-move-the-space-stations-large-robotic-armthe-large-robotic-arm-on-the-international-space-station-has-stopped-working",
    "source": "Ars Technica",
    "org": [
@@ -28,7 +76,22 @@
    "tldr": "NASA isn't saying much.  The problem may be temporary.",
    "published": "2026-09-28T16:03:50.000Z",
    "dupes": 2,
-   "score": 0.721,
+   "score": 0.704,
+   "tier": 2
+  },
+  {
+   "id": "d6fa27c327baa5713dd26ad8082228b2f184b136",
+   "title": "Experts worry about Nvidia's AI chip sales in China and influence over Trump",
+   "url": "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows",
+   "source": "Ars Technica",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "China is reportedly mulling letting ByteDance, Alibaba buy banned Nvidia chips.",
+   "published": "2026-09-28T21:49:10.000Z",
+   "dupes": 1,
+   "score": 0.696,
    "tier": 2
   },
   {
@@ -43,7 +106,22 @@
    "tldr": "US Government websites among \"dozens of third parties\" OpenAI has recently notified.",
    "published": "2026-09-28T16:43:18.000Z",
    "dupes": 1,
-   "score": 0.707,
+   "score": 0.688,
+   "tier": 2
+  },
+  {
+   "id": "4d987bc13622185da0c1d1a33b355a7220ba6479",
+   "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+   "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
+   "source": "TechCrunch",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming.",
+   "published": "2026-09-28T17:09:02.000Z",
+   "dupes": 1,
+   "score": 0.682,
    "tier": 2
   },
   {
@@ -55,25 +133,40 @@
     "google"
    ],
    "topic": "ai",
-   "tldr": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents.",
+   "tldr": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature that built task-specific agents.",
    "published": "2026-09-28T17:29:50.000Z",
    "dupes": 1,
-   "score": 0.703,
+   "score": 0.677,
    "tier": 2
   },
   {
-   "id": "ae75203c7827634ccc4f23a8e40d06cf5f9aba67",
-   "title": "Google seemingly confirms plans to kill ChromeOS in 2034",
-   "url": "https://arstechnica.com/gadgets/2026/09/google-seemingly-confirms-plans-to-kill-chromeos-in-2034",
-   "source": "Ars Technica · Gadgets",
+   "id": "216d56bba26ca4582d8ff48331ecc3408f226836",
+   "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+   "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+   "published": "2026-09-28T07:00:00.000Z",
+   "dupes": 1,
+   "score": 0.675,
+   "tier": 2
+  },
+  {
+   "id": "fce6153568f315a1ead0b7f2bccfe6f8bd8caf79",
+   "title": "Updated Google Maps shows destruction of the city of Rafah",
+   "url": "https://twitter.com/AliAbunimah/status/2103890594137309425",
+   "source": "Hacker News",
    "org": [
     "google"
    ],
-   "topic": "compute",
-   "tldr": "Google support maps out how Googlebooks can take over where ChromeOS left off.",
-   "published": "2026-09-28T18:04:59.000Z",
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-28T15:32:18.000Z",
    "dupes": 1,
-   "score": 0.698,
+   "score": 0.674,
    "tier": 2
   },
   {
@@ -89,7 +182,7 @@
    "tldr": "On Monday, NASA and Boeing provided an update on the company’s Starliner spacecraft, including adding additional crew missions and certifying a new rocket for crew transportation to low Earth orbit.  “We are living…",
    "published": "2026-09-28T19:26:57.000Z",
    "dupes": 1,
-   "score": 0.692,
+   "score": 0.673,
    "tier": 2
   },
   {
@@ -104,38 +197,23 @@
    "tldr": "On Sept.  30, 1946, five National Advisory Committee of Aeronautics (NACA) engineers arrived at Muroc Army Airfield in California’s high desert to achieve supersonic flight for the first time.",
    "published": "2026-09-28T19:20:01.000Z",
    "dupes": 1,
-   "score": 0.692,
+   "score": 0.673,
    "tier": 2
   },
   {
-   "id": "216d56bba26ca4582d8ff48331ecc3408f226836",
-   "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-   "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
-   "published": "2026-09-28T07:00:00.000Z",
-   "dupes": 1,
-   "score": 0.69,
-   "tier": 2
-  },
-  {
-   "id": "26cc36978970074fef377924a29c415ba8a91f0a",
-   "title": "RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims",
-   "url": "https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html",
-   "source": "The Hacker News",
+   "id": "ae75203c7827634ccc4f23a8e40d06cf5f9aba67",
+   "title": "Google seemingly confirms plans to kill ChromeOS in 2034",
+   "url": "https://arstechnica.com/gadgets/2026/09/google-seemingly-confirms-plans-to-kill-chromeos-in-2034",
+   "source": "Ars Technica · Gadgets",
    "org": [
     "google"
    ],
-   "topic": "security",
-   "tldr": "RatHat's operators build and publish the Android banking trojan and control infected phones from a web console, according to security company Cleafy.  Cleafy has traced nearly 100 deployments of that console since April…",
-   "published": "2026-09-28T17:38:33.000Z",
+   "topic": "compute",
+   "tldr": "Google support maps out how Googlebooks can take over where ChromeOS left off.",
+   "published": "2026-09-28T18:04:59.000Z",
    "dupes": 1,
-   "score": 0.688,
-   "tier": 2
+   "score": 0.67,
+   "tier": 3
   },
   {
    "id": "21a555d4ed916ad6159322e8ee2a42b04a8b94c7",
@@ -149,8 +227,8 @@
    "tldr": "The JadePuffer ransomware operator is targeting Azure tenants with agent-driven attacks that conduct reconnaissance, steal credentials, and destroy core components.",
    "published": "2026-09-28T15:49:27.000Z",
    "dupes": 1,
-   "score": 0.687,
-   "tier": 2
+   "score": 0.669,
+   "tier": 3
   },
   {
    "id": "acfe3d0063fa9a4884bc414c34b2883c8479e178",
@@ -164,8 +242,8 @@
    "tldr": "A commercial mission to boost NASA’s Swift observatory concluded without raising the spacecraft’s orbit, but the agency and industry vendor gained valuable experience that will benefit future in-space servicing programs.",
    "published": "2026-09-28T17:44:33.000Z",
    "dupes": 1,
-   "score": 0.684,
-   "tier": 2
+   "score": 0.666,
+   "tier": 3
   },
   {
    "id": "ca6d89c27fc0a2e0cd8211dc2490e8ea6edf75cf",
@@ -179,23 +257,53 @@
    "tldr": "“Microsoft claims to want to be a good neighbor, but the jury is still out.\"",
    "published": "2026-09-28T11:00:09.000Z",
    "dupes": 1,
-   "score": 0.682,
-   "tier": 2
+   "score": 0.665,
+   "tier": 3
   },
   {
-   "id": "33bc6e5e5e9c40c7e6e7cdbbc8ace4b7bf404713",
-   "title": "So long Google, and thanks for all the nudes",
-   "url": "https://lecaro.me/20260921-google-less.html",
+   "id": "b48cf3b3b7844eddd68a2235941bca8a4ed77934",
+   "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+   "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner",
+   "source": "TechCrunch",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
+   "published": "2026-09-28T18:00:00.000Z",
+   "dupes": 1,
+   "score": 0.664,
+   "tier": 3
+  },
+  {
+   "id": "0f54998cd8495315589219c515b761e6990cdd20",
+   "title": "Nvidia wants to put a watchdog chip next to every AI agent",
+   "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
    "source": "Hacker News",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "",
+   "published": "2026-09-28T15:46:36.000Z",
+   "dupes": 1,
+   "score": 0.663,
+   "tier": 3
+  },
+  {
+   "id": "26cc36978970074fef377924a29c415ba8a91f0a",
+   "title": "RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims",
+   "url": "https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html",
+   "source": "The Hacker News",
    "org": [
     "google"
    ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-28T18:04:47.000Z",
+   "topic": "security",
+   "tldr": "RatHat's operators build and publish the Android banking trojan and control infected phones from a web console, according to security company Cleafy.  Cleafy has traced nearly 100 deployments of that console since April…",
+   "published": "2026-09-28T17:38:33.000Z",
    "dupes": 1,
-   "score": 0.679,
-   "tier": 2
+   "score": 0.661,
+   "tier": 3
   },
   {
    "id": "810796743ed18c966e7d68d98ed6698614a0f6ba",
@@ -209,7 +317,7 @@
    "tldr": "Marking a significant expansion in the number of signatories to the Artemis Accords, NASA welcomed Albania, Croatia, Côte d’Ivoire, and San Marino, bringing total participation to 76 countries.",
    "published": "2026-09-28T16:26:45.000Z",
    "dupes": 1,
-   "score": 0.678,
+   "score": 0.66,
    "tier": 3
   },
   {
@@ -224,22 +332,22 @@
    "tldr": "Editor’s Note: This advisory was updated on Sept.  28, 2026, with ticketing information for the public.",
    "published": "2026-09-28T16:16:40.000Z",
    "dupes": 1,
-   "score": 0.678,
+   "score": 0.66,
    "tier": 3
   },
   {
-   "id": "7627b64443e10e0d8938aa75b673ac143846704a",
-   "title": "OpenAI’s AI agents need to catch up",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
-   "source": "The Verge AI",
+   "id": "daef1e4c7c82ef2dc060cd1bf7965f5855603814",
+   "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
+   "url": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026",
+   "source": "TechCrunch",
    "org": [
-    "openai"
+    "anthropic"
    ],
    "topic": "ai",
-   "tldr": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents.  On Tuesday,…",
-   "published": "2026-09-28T18:45:00.000Z",
+   "tldr": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026.  Register to join and get 50% off a second pass.",
+   "published": "2026-09-28T15:30:00.000Z",
    "dupes": 1,
-   "score": 0.677,
+   "score": 0.659,
    "tier": 3
   },
   {
@@ -255,7 +363,22 @@
    "tldr": "Four crew members are set to launch to the International Space Station as part of NASA’s SpaceX Crew-13 mission to perform research, technology demonstrations, and maintenance aboard the orbiting laboratory.",
    "published": "2026-09-28T16:09:09.000Z",
    "dupes": 1,
-   "score": 0.677,
+   "score": 0.659,
+   "tier": 3
+  },
+  {
+   "id": "7627b64443e10e0d8938aa75b673ac143846704a",
+   "title": "OpenAI’s AI agents need to catch up",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
+   "source": "The Verge AI",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents.  On Tuesday,…",
+   "published": "2026-09-28T18:45:00.000Z",
+   "dupes": 1,
+   "score": 0.657,
    "tier": 3
   },
   {
@@ -270,52 +393,22 @@
    "tldr": "The NASA ORBIT (Opportunities in Research, Business, Innovation, and Technology for the Workforce) Challenge invites university and community college students nationwide to work with real NASA intellectual property and…",
    "published": "2026-09-28T14:56:39.000Z",
    "dupes": 1,
-   "score": 0.672,
+   "score": 0.654,
    "tier": 3
   },
   {
-   "id": "3bd40c5dcc31f1689cdcee0bd64a92d01fdf5b55",
-   "title": "When did Google get so weird?",
-   "url": "https://sancho.bearblog.dev/google-weird",
-   "source": "Hacker News",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-27T20:12:54.000Z",
-   "dupes": 1,
-   "score": 0.67,
-   "tier": 3
-  },
-  {
-   "id": "523d5e9de5b0c404a2ab449f4743ea4042c69b5f",
-   "title": "Florida seeks a ban on ChatGPT acting like a person",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
-   "source": "The Verge AI",
+   "id": "914f14710638400cde9510287d4bbd1675b89081",
+   "title": "Are you a Codex Original?",
+   "url": "https://openai.com/form/codex-originals",
+   "source": "OpenAI Blog",
    "org": [
     "openai"
    ],
    "topic": "ai",
-   "tldr": "Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from \"giving ChatGPT false human attributes,\" a few months after Florida sued the AI company over safety concerns.",
-   "published": "2026-09-28T17:00:23.000Z",
+   "tldr": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things.  If you want to be a part of the next chapter of the Codex Originals program, tell us more…",
+   "published": "2026-09-28T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.669,
-   "tier": 3
-  },
-  {
-   "id": "c5ed54694a4a2d5e0e1501e66b00cf4c64123849",
-   "title": "OpenAI keeps bulldozing mathematicians",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathematics, then colossally screw up announcing them.  OpenAI is now trying to do…",
-   "published": "2026-09-28T17:00:00.000Z",
-   "dupes": 1,
-   "score": 0.669,
+   "score": 0.653,
    "tier": 3
   },
   {
@@ -330,97 +423,7 @@
    "tldr": "Kristie Foster paved her road to becoming a NASA civil servant with literal miles of dedication.  Her work at the agency’s Stennis Space Center near Bay St.",
    "published": "2026-09-28T13:00:00.000Z",
    "dupes": 1,
-   "score": 0.664,
-   "tier": 3
-  },
-  {
-   "id": "b2d877fcb67a5cac43e6e2ca4f9095f4215eb60d",
-   "title": "JADEPUFFER-Linked Attackers Used Compromised Service Principals to Delete Azure Resources",
-   "url": "https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html",
-   "source": "The Hacker News",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "security",
-   "tldr": "The threat actor known as JADEPUFFER has been observed orchestrating destructive actions within a Microsoft Azure environment using compromised service principals.  Microsoft, which is tracking the activity under the…",
-   "published": "2026-09-28T09:08:21.000Z",
-   "dupes": 1,
-   "score": 0.65,
-   "tier": 3
-  },
-  {
-   "id": "46fca61f4990eac9bdf32beada2eaa587bf178c5",
-   "title": "Nvidia launches new platform for reining in rogue AI agents",
-   "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents",
-   "source": "TechCrunch",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem.",
-   "published": "2026-09-28T18:31:23.000Z",
-   "dupes": 2,
-   "score": 0.648,
-   "tier": 3
-  },
-  {
-   "id": "c6402b9070623e1903925f70cd964b888e2d8fe2",
-   "title": "OpenAI is preparing “o,” an always-on ChatGPT assistant that could handle email",
-   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email",
-   "source": "BleepingComputer",
-   "org": [
-    "openai"
-   ],
-   "topic": "security",
-   "tldr": "OpenAI is testing a new always-on assistant called \"o\", and references to the unannounced feature briefly showed up on the company's website.",
-   "published": "2026-09-27T23:40:39.000Z",
-   "dupes": 1,
-   "score": 0.625,
-   "tier": 3
-  },
-  {
-   "id": "b48cf3b3b7844eddd68a2235941bca8a4ed77934",
-   "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
-   "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner",
-   "source": "TechCrunch",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
-   "published": "2026-09-28T18:00:00.000Z",
-   "dupes": 1,
-   "score": 0.598,
-   "tier": 3
-  },
-  {
-   "id": "daef1e4c7c82ef2dc060cd1bf7965f5855603814",
-   "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
-   "url": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026",
-   "source": "TechCrunch",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026.  Register to join and get 50% off a second pass.",
-   "published": "2026-09-28T15:30:00.000Z",
-   "dupes": 1,
-   "score": 0.592,
-   "tier": 3
-  },
-  {
-   "id": "ed2cbcca51ab9ede81af9f405ffd3dec46bf0c5b",
-   "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June.",
-   "published": "2026-09-27T17:21:07.000Z",
-   "dupes": 1,
-   "score": 0.582,
+   "score": 0.647,
    "tier": 3
   },
   {
@@ -435,37 +438,52 @@
    "tldr": "Gecko Robotics is using the new NVIDIA Open Agent Safety Platform to ensure the secure autonomous control of systems.  The post Gecko Robotics works with NVIDIA to add AI agent security and control appeared first on The…",
    "published": "2026-09-28T17:41:32.000Z",
    "dupes": 1,
-   "score": 0.554,
+   "score": 0.636,
    "tier": 3
   },
   {
-   "id": "8f4c3ca6f7aa7106dae47970970aed369b109ec7",
-   "title": "Microsoft pauses KB5002907 update after Office license deactivations",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations",
-   "source": "BleepingComputer",
+   "id": "b2d877fcb67a5cac43e6e2ca4f9095f4215eb60d",
+   "title": "JADEPUFFER-Linked Attackers Used Compromised Service Principals to Delete Azure Resources",
+   "url": "https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html",
+   "source": "The Hacker News",
    "org": [
     "microsoft"
    ],
    "topic": "security",
-   "tldr": "Microsoft has paused the rollout of the KB5002907 Microsoft 365 update after users report that it deactivated, or in some cases completely removed, perpetual Office 2016 and Office 2019 installations.",
-   "published": "2026-09-26T15:50:38.000Z",
+   "tldr": "The threat actor known as JADEPUFFER has been observed orchestrating destructive actions within a Microsoft Azure environment using compromised service principals.  Microsoft, which is tracking the activity under the…",
+   "published": "2026-09-28T09:08:21.000Z",
    "dupes": 1,
-   "score": 0.553,
+   "score": 0.635,
    "tier": 3
   },
   {
-   "id": "c8316c2e759c356e8f1fb2ca82e743a6e0ee80c7",
-   "title": "Microsoft boss Nadella says Xbox has to invent \"sustainable business model\"",
-   "url": "https://www.gamesindustry.biz/microsoft-boss-nadella-says-xbox-has-to-invent-sustainable-business-model",
-   "source": "GamesIndustry.biz",
+   "id": "c6402b9070623e1903925f70cd964b888e2d8fe2",
+   "title": "OpenAI is preparing “o,” an always-on ChatGPT assistant that could handle email",
+   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email",
+   "source": "BleepingComputer",
    "org": [
-    "microsoft"
+    "openai"
    ],
-   "topic": "gaming",
-   "tldr": "The CEO of Microsoft, Satya Nadella, has said that the company's Xbox division needs to \"invent\" the correct \"sustainable business model\" to allow it to reach more and more people with its games.",
-   "published": "2026-09-28T09:05:32.000Z",
+   "topic": "security",
+   "tldr": "OpenAI is testing a new always-on assistant called \"o\", and references to the unannounced feature briefly showed up on the company's website.",
+   "published": "2026-09-27T23:40:39.000Z",
    "dupes": 1,
-   "score": 0.553,
+   "score": 0.612,
+   "tier": 3
+  },
+  {
+   "id": "4b4cfee992d3fc3ebf5879192b981769aada39dd",
+   "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+   "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
+   "source": "TechCrunch",
+   "org": [
+    "amd"
+   ],
+   "topic": "compute",
+   "tldr": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.",
+   "published": "2026-09-28T20:39:33.000Z",
+   "dupes": 1,
+   "score": 0.607,
    "tier": 3
   },
   {
@@ -480,22 +498,7 @@
    "tldr": "Anthropic has just announced a new Claude Marketplace, and it brings all AI-related tools into one place, including plugins, connectors, agents, and more.",
    "published": "2026-09-27T13:38:40.000Z",
    "dupes": 1,
-   "score": 0.538,
-   "tier": 3
-  },
-  {
-   "id": "9366ee5bcbcd905705720b4a431f841e12f419cb",
-   "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
-   "url": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc",
-   "source": "Ars Technica · Gadgets",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "compute",
-   "tldr": "Microsoft's new Surface laptops forgo Copilot+ PC branding.",
-   "published": "2026-09-25T17:57:37.000Z",
-   "dupes": 1,
-   "score": 0.527,
+   "score": 0.586,
    "tier": 3
   },
   {
@@ -510,37 +513,22 @@
    "tldr": "5 appears to be changing how it writes, with new analysis showing fewer obvious AI writing patterns, shorter sentences, and simpler wording compared with Opus 5.",
    "published": "2026-09-26T16:26:58.000Z",
    "dupes": 1,
-   "score": 0.516,
+   "score": 0.548,
    "tier": 3
   },
   {
-   "id": "6bbd55d5028cfd2f2b9eb7d1adecd11f8df544d5",
-   "title": "With PRIMA, NASA will try to build a billion-dollar space telescope in record time",
-   "url": "https://arstechnica.com/space/2026/09/nasa-green-lights-billion-dollar-infrared-observatory-for-launch-in-early-2030s",
-   "source": "Ars Technica",
+   "id": "c8316c2e759c356e8f1fb2ca82e743a6e0ee80c7",
+   "title": "Microsoft boss Nadella says Xbox has to invent \"sustainable business model\"",
+   "url": "https://www.gamesindustry.biz/microsoft-boss-nadella-says-xbox-has-to-invent-sustainable-business-model",
+   "source": "GamesIndustry.biz",
    "org": [
-    "nasa"
+    "microsoft"
    ],
-   "topic": "space",
-   "tldr": "NASA's PRIMA mission will use spare parts from Webb to do major science at a lower cost.",
-   "published": "2026-09-25T14:07:46.000Z",
+   "topic": "gaming",
+   "tldr": "The CEO of Microsoft, Satya Nadella, has said that the company's Xbox division needs to \"invent\" the correct \"sustainable business model\" to allow it to reach more and more people with its games.",
+   "published": "2026-09-28T09:05:32.000Z",
    "dupes": 1,
-   "score": 0.512,
-   "tier": 3
-  },
-  {
-   "id": "90eb340ee81f73905b8fb64a2980a88666c83aef",
-   "title": "What you need to know about the OpenAI Australian government hack",
-   "url": "https://www.bbc.co.uk/news/videos/cwe8ekyzdjvlo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
-   "org": [
-    "openai"
-   ],
-   "topic": "security",
-   "tldr": "The BBC’s North America technology correspondent Lily Jamali explains how the Medicare breach happened, and why it matters.",
-   "published": "2026-09-24T05:18:26.000Z",
-   "dupes": 1,
-   "score": 0.512,
+   "score": 0.54,
    "tier": 3
   },
   {
@@ -555,7 +543,7 @@
    "tldr": "When COVID-19 emerged, scientists had a crucial advantage: Decades of prior research on coronaviruses meant they understood the virus’ key proteins well enough to design vaccines in record time.  The next pandemic may…",
    "published": "2026-09-24T14:00:50.000Z",
    "dupes": 1,
-   "score": 0.51,
+   "score": 0.53,
    "tier": 3
   },
   {
@@ -570,7 +558,22 @@
    "tldr": "A warped Manhattan is waiting in the cloud this week.  Remedy Entertainment’s CONTROL Resonant brings Dylan Faden’s extraordinary abilities and a paranatural crisis to GeForce NOW at launch.",
    "published": "2026-09-24T13:00:36.000Z",
    "dupes": 1,
-   "score": 0.51,
+   "score": 0.53,
+   "tier": 3
+  },
+  {
+   "id": "9366ee5bcbcd905705720b4a431f841e12f419cb",
+   "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
+   "url": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc",
+   "source": "Ars Technica · Gadgets",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "compute",
+   "tldr": "Microsoft's new Surface laptops forgo Copilot+ PC branding.",
+   "published": "2026-09-25T17:57:37.000Z",
+   "dupes": 1,
+   "score": 0.523,
    "tier": 3
   },
   {
@@ -585,7 +588,7 @@
    "tldr": "When Sakeena Fiza describes her work as a validation engineer at NVIDIA, she does so in terms more befitting a detective story than a world-class engineering lab.  “Validation engineers look in the shadows and shine a…",
    "published": "2026-09-23T15:00:32.000Z",
    "dupes": 1,
-   "score": 0.506,
+   "score": 0.522,
    "tier": 3
   },
   {
@@ -600,7 +603,37 @@
    "tldr": "NVIDIA AI Day Singapore, which takes place Sept.  22-23 at the Raffles City Convention Centre, is offering attendees opportunities to explore the hands-on training, expert-led sessions and advanced tools to accelerate…",
    "published": "2026-09-23T02:30:22.000Z",
    "dupes": 1,
-   "score": 0.504,
+   "score": 0.519,
+   "tier": 3
+  },
+  {
+   "id": "d0389279f56227f3aa2cc930c8000964f6bfcf8c",
+   "title": "Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials",
+   "url": "https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html",
+   "source": "The Hacker News",
+   "org": [
+    "amd"
+   ],
+   "topic": "security",
+   "tldr": "The Psychedelic Stealer malware distributed via compromised Ukrainian websites using ClickFix-style Cloudflare verification checks is part of a wider malware-as-a-service (MaaS) platform called Lunex.  The new findings…",
+   "published": "2026-09-26T18:22:52.000Z",
+   "dupes": 1,
+   "score": 0.519,
+   "tier": 3
+  },
+  {
+   "id": "a3d2403e03866b3ef28772d978425863c552682a",
+   "title": "Boeing \"incredibly excited\" to serve as nation's only astronaut transportation",
+   "url": "https://arstechnica.com/space/2026/09/boeing-incredibly-excited-to-serve-as-nations-only-astronaut-transportation",
+   "source": "Ars Technica",
+   "org": [
+    "boeing"
+   ],
+   "topic": "space",
+   "tldr": "\"We couldn't provide detailed pricing to the CLD suppliers.\"",
+   "published": "2026-09-28T22:24:33.000Z",
+   "dupes": 2,
+   "score": 0.518,
    "tier": 3
   },
   {
@@ -618,7 +651,22 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.503,
+   "score": 0.517,
+   "tier": 3
+  },
+  {
+   "id": "90eb340ee81f73905b8fb64a2980a88666c83aef",
+   "title": "What you need to know about the OpenAI Australian government hack",
+   "url": "https://www.bbc.co.uk/news/videos/cwe8ekyzdjvlo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Technology",
+   "org": [
+    "openai"
+   ],
+   "topic": "security",
+   "tldr": "The BBC’s North America technology correspondent Lily Jamali explains how the Medicare breach happened, and why it matters.",
+   "published": "2026-09-24T05:18:26.000Z",
+   "dupes": 1,
+   "score": 0.51,
    "tier": 3
   },
   {
@@ -633,7 +681,7 @@
    "tldr": "An AI agent on an internal OpenAI research task bypassed access controls on an Australian government Medicare statistics portal in June, Prime Minister Anthony Albanese said.  The portal publishes aggregate figures,…",
    "published": "2026-09-24T07:07:25.000Z",
    "dupes": 1,
-   "score": 0.497,
+   "score": 0.495,
    "tier": 3
   },
   {
@@ -648,7 +696,7 @@
    "tldr": "Cybersecurity researchers have disclosed details of an active TeamFiltration campaign codenamed UNK_CondorFiltration that has targeted over 5,700 accounts across 28 Microsoft 365 tenants.  According to Proofpoint, the…",
    "published": "2026-09-24T06:32:03.000Z",
    "dupes": 1,
-   "score": 0.497,
+   "score": 0.495,
    "tier": 3
   },
   {
@@ -664,22 +712,7 @@
    "tldr": "Anthropic and OpenAI on Tuesday announced new models, with both artificial intelligence (AI) companies noting that they are continuing to invest in improving alignment to combat risky behavior.",
    "published": "2026-09-23T11:47:13.000Z",
    "dupes": 1,
-   "score": 0.49,
-   "tier": 3
-  },
-  {
-   "id": "f069687e4a1d7fdbdacddbe1843bebf33db307ba",
-   "title": "Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises",
-   "url": "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html",
-   "source": "The Hacker News",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "security",
-   "tldr": "S.",
-   "published": "2026-09-22T17:03:31.000Z",
-   "dupes": 1,
-   "score": 0.486,
+   "score": 0.489,
    "tier": 3
   },
   {
@@ -694,7 +727,7 @@
    "tldr": "Google's experimental orbital data center will have four TPUs and only run for 15 minutes at a time.",
    "published": "2026-09-24T16:16:34.000Z",
    "dupes": 1,
-   "score": 0.484,
+   "score": 0.482,
    "tier": 3
   },
   {
@@ -709,7 +742,7 @@
    "tldr": "\"If you come up short with who comes down the ladder first, the impact is felt around the world.\"",
    "published": "2026-09-24T14:57:50.000Z",
    "dupes": 1,
-   "score": 0.483,
+   "score": 0.481,
    "tier": 3
   },
   {
@@ -724,7 +757,7 @@
    "tldr": "Microsoft has patented an \"ad-credit\" system to display adverts and announcements during PC and Xbox game sessions without disrupting gameplay.",
    "published": "2026-09-24T07:56:51.000Z",
    "dupes": 1,
-   "score": 0.427,
+   "score": 0.426,
    "tier": 3
   },
   {
@@ -770,20 +803,20 @@
    "tldr": "Sony Interactive Entertainment is reportedly surveying developers to find out their thoughts on the decision to end disc support for its PlayStation console.",
    "published": "2026-09-28T15:23:57.000Z",
    "dupes": 1,
-   "score": 0.396,
+   "score": 0.374,
    "tier": 3
   },
   {
-   "id": "64617338d43054610b46720b6ebda048cf680229",
-   "title": "Physical AI chip developer SiMa AI hits $1.45B valuation",
-   "url": "https://techcrunch.com/2026/09/28/physical-ai-chip-developer-sima-ai-hits-1-45b-valuation",
-   "source": "TechCrunch",
+   "id": "981976b31624b6956944e6f093a9cd0c3192a526",
+   "title": "Japan's Keio confirms ransomware attack disrupted business systems",
+   "url": "https://www.bleepingcomputer.com/news/security/japans-keio-confirms-ransomware-attack-disrupted-business-systems",
+   "source": "BleepingComputer",
    "org": [],
-   "topic": "compute",
-   "tldr": "The edge computing startup raised a $150 million Series C led by Fidelity and Amplify.",
-   "published": "2026-09-28T15:29:21.000Z",
+   "topic": "security",
+   "tldr": "Keio Corporation (Keio), a major private railway operator in Japan, said its network was hit by a ransomware attack over the weekend, disrupting some of its business systems.",
+   "published": "2026-09-28T20:56:47.000Z",
    "dupes": 1,
-   "score": 0.374,
+   "score": 0.371,
    "tier": 3
   },
   {
@@ -798,7 +831,20 @@
    "tldr": "Meta has revealed two AI-powered game tools that let players develop 2D and 3D games using prompts on mobile devices and browsers.",
    "published": "2026-09-25T13:07:11.000Z",
    "dupes": 1,
-   "score": 0.345,
+   "score": 0.325,
+   "tier": 3
+  },
+  {
+   "id": "53a35f707ddc0dd255c35de17db82a375dfedf48",
+   "title": "Robonomics on the threshold: Economic autonomy, smart cities, and crypto wallets for humanoids",
+   "url": "https://www.therobotreport.com/robotics-threshold-economic-autonomy-crypto-wallets-humanoids",
+   "source": "The Robot Report",
+   "org": [],
+   "topic": "robotics",
+   "tldr": "Economics is both a robotics impetus and a constraint, as systems make deliveries on streets or do chores in households.  The post Robonomics on the threshold: Economic autonomy, smart cities, and crypto wallets for…",
+   "published": "2026-09-28T13:56:56.000Z",
+   "dupes": 1,
+   "score": 0.324,
    "tier": 3
   },
   {
@@ -811,20 +857,7 @@
    "tldr": "Asimov's fictional Three Laws of Robotics famously set safeguards, and tech observers today raise similar concerns about AI.  The post Asimov’s laws are not enough to keep robotics and AI safe appeared first on The…",
    "published": "2026-09-27T12:26:44.000Z",
    "dupes": 1,
-   "score": 0.26,
-   "tier": 3
-  },
-  {
-   "id": "f02a186cd3e5b1377989ae143b9c93b109aab469",
-   "title": "From 14 cities to 15,000: What it will take to scale robotaxis?",
-   "url": "https://www.therobotreport.com/from-14-cities-to-15000-what-it-will-take-to-scale-robotaxis",
-   "source": "The Robot Report",
-   "org": [],
-   "topic": "robotics",
-   "tldr": "While robotaxis prove their driving ability, scaling the industry globally requires solving the unglamorous challenge of fast, local vehicle servicing.  The post From 14 cities to 15,000: What it will take to scale…",
-   "published": "2026-09-26T12:34:55.000Z",
-   "dupes": 1,
-   "score": 0.217,
+   "score": 0.25,
    "tier": 3
   },
   {
@@ -839,7 +872,20 @@
    "tldr": "Despite challenges, Tesla aims for 1,000 Optimus robots per week by end of 2026.",
    "published": "2026-09-25T21:10:51.000Z",
    "dupes": 1,
-   "score": 0.215,
+   "score": 0.211,
+   "tier": 3
+  },
+  {
+   "id": "f02a186cd3e5b1377989ae143b9c93b109aab469",
+   "title": "From 14 cities to 15,000: What it will take to scale robotaxis?",
+   "url": "https://www.therobotreport.com/from-14-cities-to-15000-what-it-will-take-to-scale-robotaxis",
+   "source": "The Robot Report",
+   "org": [],
+   "topic": "robotics",
+   "tldr": "While robotaxis prove their driving ability, scaling the industry globally requires solving the unglamorous challenge of fast, local vehicle servicing.  The post From 14 cities to 15,000: What it will take to scale…",
+   "published": "2026-09-26T12:34:55.000Z",
+   "dupes": 1,
+   "score": 0.211,
    "tier": 3
   },
   {
@@ -852,7 +898,7 @@
    "tldr": "The new facility will produce products that power Amazon's fulfillment and robotics network across North America.  The post Amazon to invest $100M in new Indiana manufacturing facility appeared first on The Robot Report…",
    "published": "2026-09-25T18:59:01.000Z",
    "dupes": 1,
-   "score": 0.197,
+   "score": 0.194,
    "tier": 3
   },
   {
@@ -865,7 +911,7 @@
    "tldr": "Rather than training one model to do everything, General Robotics composes specialized capabilities—helping robots adapt across tasks and form factors.  The post General Robotics is betting on modular intelligence, not…",
    "published": "2026-09-25T18:43:22.000Z",
    "dupes": 1,
-   "score": 0.197,
+   "score": 0.194,
    "tier": 3
   },
   {
@@ -880,7 +926,7 @@
    "tldr": "Agility Robotics is exploring a range of robot designs and form factors, including wheels, to address different operating environments and customer needs.  The post Agility Robotics, maker of Digit humanoid, exploring…",
    "published": "2026-09-25T14:08:27.000Z",
    "dupes": 1,
-   "score": 0.193,
+   "score": 0.19,
    "tier": 3
   },
   {
@@ -893,7 +939,7 @@
    "tldr": "Labor availability, costs, productivity, and efficiency are common concerns of farmers that technology can address, according to CNH.  The post Farmers are facing more pressure; CNH says robotics can help appeared first…",
    "published": "2026-09-25T12:18:36.000Z",
    "dupes": 1,
-   "score": 0.192,
+   "score": 0.189,
    "tier": 3
   },
   {
@@ -906,33 +952,7 @@
    "tldr": "Where do America's X-plane projects fit in an era of cheap drones?",
    "published": "2026-09-24T23:03:53.000Z",
    "dupes": 1,
-   "score": 0.191,
-   "tier": 3
-  },
-  {
-   "id": "8fd21630c2877c1409efaae933f1cb038cad6870",
-   "title": "F-Droid gets its biggest update in a decade with new UI and smoother app installs",
-   "url": "https://arstechnica.com/gadgets/2026/09/f-droid-gets-its-biggest-update-in-a-decade-with-new-ui-and-smoother-app-installs",
-   "source": "Ars Technica · Gadgets",
-   "org": [],
-   "topic": "compute",
-   "tldr": "F-Droid's Android app store has been rebuilt from the ground up.",
-   "published": "2026-09-24T19:30:42.000Z",
-   "dupes": 1,
-   "score": 0.191,
-   "tier": 3
-  },
-  {
-   "id": "e3bd0408b33504b6c98caccab582ed807517ad5c",
-   "title": "Robots make combat airdrops, clear mines as Ukraine defeats Russian pincer",
-   "url": "https://arstechnica.com/gadgets/2026/09/robots-make-combat-airdrops-clear-mines-as-ukraine-defeats-russian-pincer",
-   "source": "Ars Technica · Gadgets",
-   "org": [],
-   "topic": "compute",
-   "tldr": "Ukraine’s Operation Vivaldi has erased Russian gains with the help of robots.",
-   "published": "2026-09-24T18:39:47.000Z",
-   "dupes": 1,
-   "score": 0.19,
+   "score": 0.188,
    "tier": 3
   },
   {
@@ -945,7 +965,7 @@
    "tldr": "S.  and Germany are also significant markets, found the IFR.",
    "published": "2026-09-24T20:15:51.000Z",
    "dupes": 1,
-   "score": 0.182,
+   "score": 0.179,
    "tier": 3
   },
   {
@@ -958,20 +978,7 @@
    "tldr": "Epson Robots has expanded its six-axis robot line with the AX6, a lightweight force- and power-limited arm.  The post Epson introduces AX6 cobot with compact design, no-code programming appeared first on The Robot…",
    "published": "2026-09-24T14:51:07.000Z",
    "dupes": 1,
-   "score": 0.179,
-   "tier": 3
-  },
-  {
-   "id": "8fda947f5a30e333e896d5de1fa63b1d88188c6a",
-   "title": "ANYbotics opens the door for inspections with ANYmal robots",
-   "url": "https://www.therobotreport.com/anybotics-opens-the-door-for-inspections-with-anymal-robots",
-   "source": "The Robot Report",
-   "org": [],
-   "topic": "robotics",
-   "tldr": "ANYbotics partnered with dormakaba and LEGIC Identsystems to enable the ANYmal quadruped to gain access like a badged employee.  The post ANYbotics opens the door for inspections with ANYmal robots appeared first on The…",
-   "published": "2026-09-24T13:27:58.000Z",
-   "dupes": 1,
-   "score": 0.178,
+   "score": 0.177,
    "tier": 3
   }
  ]
