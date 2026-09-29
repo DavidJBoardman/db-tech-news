@@ -1,20 +1,35 @@
 {
- "generated": "2026-09-29T00:08:09.048Z",
+ "generated": "2026-09-29T05:57:18.147Z",
  "items": [
   {
-   "id": "b3c63653c45b425b164822d4918897b66b7bdaa6",
-   "title": "MongoDB CEO resigns to join Meta",
-   "url": "https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28",
+   "id": "fce6153568f315a1ead0b7f2bccfe6f8bd8caf79",
+   "title": "Updated Google Maps shows destruction of the city of Rafah",
+   "url": "https://twitter.com/AliAbunimah/status/2103890594137309425",
    "source": "Hacker News",
    "org": [
-    "meta"
+    "google"
    ],
    "topic": "ai",
    "tldr": "",
-   "published": "2026-09-28T14:54:21.000Z",
+   "published": "2026-09-28T15:32:18.000Z",
    "dupes": 1,
-   "score": 0.594,
+   "score": 0.551,
    "tier": 1
+  },
+  {
+   "id": "cfe8e900401f31bb533781d0249e35adbec60569",
+   "title": "How we will do better for Australia",
+   "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+   "published": "2026-09-28T19:00:00.000Z",
+   "dupes": 1,
+   "score": 0.53,
+   "tier": 2
   },
   {
    "id": "05d139314aaff1713259c531a0487b6bd21078d7",
@@ -31,37 +46,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.573,
-   "tier": 2
-  },
-  {
-   "id": "1f454f3eb76173237862b7d57f81ece7c2399b0b",
-   "title": "Anthropic's IPO prospectus shows AI vision, surging costs",
-   "url": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28",
-   "source": "Hacker News",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-28T23:40:59.000Z",
-   "dupes": 1,
-   "score": 0.55,
-   "tier": 2
-  },
-  {
-   "id": "fce6153568f315a1ead0b7f2bccfe6f8bd8caf79",
-   "title": "Updated Google Maps shows destruction of the city of Rafah",
-   "url": "https://twitter.com/AliAbunimah/status/2103890594137309425",
-   "source": "Hacker News",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-28T15:32:18.000Z",
-   "dupes": 1,
-   "score": 0.514,
+   "score": 0.51,
    "tier": 2
   },
   {
@@ -76,22 +61,7 @@
    "tldr": "",
    "published": "2026-09-28T15:46:36.000Z",
    "dupes": 1,
-   "score": 0.494,
-   "tier": 2
-  },
-  {
-   "id": "7627b64443e10e0d8938aa75b673ac143846704a",
-   "title": "OpenAI’s AI agents need to catch up",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents.  On Tuesday,…",
-   "published": "2026-09-28T18:45:00.000Z",
-   "dupes": 1,
-   "score": 0.484,
+   "score": 0.459,
    "tier": 2
   },
   {
@@ -106,7 +76,35 @@
    "tldr": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
    "published": "2026-09-28T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.481,
+   "score": 0.445,
+   "tier": 2
+  },
+  {
+   "id": "7627b64443e10e0d8938aa75b673ac143846704a",
+   "title": "OpenAI’s AI agents need to catch up",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
+   "source": "The Verge AI",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents.  On Tuesday,…",
+   "published": "2026-09-28T18:45:00.000Z",
+   "dupes": 1,
+   "score": 0.427,
+   "tier": 2
+  },
+  {
+   "id": "9552195c964ddb7b23252953cea23af16e9f5c33",
+   "title": "Holo4: powering generalist computer-use agents",
+   "url": "https://huggingface.co/blog/Hcompany/holo4",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-28T09:44:05.000Z",
+   "dupes": 1,
+   "score": 0.423,
    "tier": 2
   },
   {
@@ -121,7 +119,7 @@
    "tldr": "Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from \"giving ChatGPT false human attributes,\" a few months after Florida sued the AI company over safety concerns.",
    "published": "2026-09-28T17:00:23.000Z",
    "dupes": 1,
-   "score": 0.466,
+   "score": 0.413,
    "tier": 2
   },
   {
@@ -136,20 +134,7 @@
    "tldr": "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathematics, then colossally screw up announcing them.  OpenAI is now trying to do…",
    "published": "2026-09-28T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.466,
-   "tier": 2
-  },
-  {
-   "id": "9552195c964ddb7b23252953cea23af16e9f5c33",
-   "title": "Holo4: powering generalist computer-use agents",
-   "url": "https://huggingface.co/blog/Hcompany/holo4",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-28T09:44:05.000Z",
-   "dupes": 1,
-   "score": 0.464,
+   "score": 0.413,
    "tier": 2
   },
   {
@@ -164,7 +149,7 @@
    "tldr": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things.  If you want to be a part of the next chapter of the Codex Originals program, tell us more…",
    "published": "2026-09-28T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.438,
+   "score": 0.41,
    "tier": 2
   },
   {
@@ -179,7 +164,7 @@
    "tldr": "6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
    "published": "2026-09-28T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.438,
+   "score": 0.41,
    "tier": 2
   },
   {
@@ -194,7 +179,7 @@
    "tldr": "Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a wave of rogue hacking incidents, as reported earlier by Reuters.",
    "published": "2026-09-28T13:36:06.000Z",
    "dupes": 1,
-   "score": 0.433,
+   "score": 0.386,
    "tier": 2
   },
   {
@@ -212,8 +197,8 @@
     "paper"
    ],
    "dupes": 1,
-   "score": 0.382,
-   "tier": 3
+   "score": 0.35,
+   "tier": 2
   },
   {
    "id": "d2d497e5eee41848c95c5b8ff6ce37155518b6a0",
@@ -227,22 +212,7 @@
    "tldr": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
    "published": "2026-09-25T19:00:00.000Z",
    "dupes": 1,
-   "score": 0.318,
-   "tier": 3
-  },
-  {
-   "id": "ed2cbcca51ab9ede81af9f405ffd3dec46bf0c5b",
-   "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June.",
-   "published": "2026-09-27T17:21:07.000Z",
-   "dupes": 1,
-   "score": 0.307,
+   "score": 0.314,
    "tier": 3
   },
   {
@@ -257,7 +227,7 @@
    "tldr": "",
    "published": "2026-09-24T16:20:39.000Z",
    "dupes": 1,
-   "score": 0.306,
+   "score": 0.305,
    "tier": 3
   },
   {
@@ -272,22 +242,7 @@
    "tldr": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
    "published": "2026-09-23T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.303,
-   "tier": 3
-  },
-  {
-   "id": "cd8117c6d35f983b0412afe669291075935696f1",
-   "title": "Advancing Private AI Compute with secure, server-side memory",
-   "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory",
-   "source": "Google DeepMind",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Introducing private, server-side memory to Private AI Compute for personal AI.",
-   "published": "2026-09-23T16:00:57.000Z",
-   "dupes": 1,
-   "score": 0.303,
+   "score": 0.302,
    "tier": 3
   },
   {
@@ -306,15 +261,15 @@
    "tier": 3
   },
   {
-   "id": "01d4e543c9419cead77e21595bfd0d3a6b2682b8",
-   "title": "Sam Altman’s remarks at the United Nations Security Council",
-   "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+   "id": "7cff1964bf19497febe21e95b7591534842c3957",
+   "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+   "url": "https://openai.com/index/ringg",
    "source": "OpenAI Blog",
    "org": [
     "openai"
    ],
    "topic": "ai",
-   "tldr": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+   "tldr": "6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs.  1.",
    "published": "2026-09-23T12:00:00.000Z",
    "dupes": 1,
    "score": 0.302,
@@ -351,15 +306,15 @@
    "tier": 3
   },
   {
-   "id": "7cff1964bf19497febe21e95b7591534842c3957",
-   "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-   "url": "https://openai.com/index/ringg",
+   "id": "01d4e543c9419cead77e21595bfd0d3a6b2682b8",
+   "title": "Sam Altman’s remarks at the United Nations Security Council",
+   "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
    "source": "OpenAI Blog",
    "org": [
     "openai"
    ],
    "topic": "ai",
-   "tldr": "6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs.  1.",
+   "tldr": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
    "published": "2026-09-23T12:00:00.000Z",
    "dupes": 1,
    "score": 0.302,
@@ -376,6 +331,21 @@
    "topic": "ai",
    "tldr": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
    "published": "2026-09-23T10:00:00.000Z",
+   "dupes": 1,
+   "score": 0.302,
+   "tier": 3
+  },
+  {
+   "id": "cd8117c6d35f983b0412afe669291075935696f1",
+   "title": "Advancing Private AI Compute with secure, server-side memory",
+   "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory",
+   "source": "Google DeepMind",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+   "published": "2026-09-23T16:00:57.000Z",
    "dupes": 1,
    "score": 0.302,
    "tier": 3
@@ -504,6 +474,21 @@
    "tier": 3
   },
   {
+   "id": "ed2cbcca51ab9ede81af9f405ffd3dec46bf0c5b",
+   "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+   "source": "The Verge AI",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June.",
+   "published": "2026-09-27T17:21:07.000Z",
+   "dupes": 1,
+   "score": 0.285,
+   "tier": 3
+  },
+  {
    "id": "97e64618c0b233d7869322be07484137b91a27ca",
    "title": "Automating coherent long-form video generation",
    "url": "https://research.google/blog/coherent-long-form-video-generation",
@@ -515,7 +500,7 @@
    "tldr": "Generative AI",
    "published": "2026-09-24T19:40:00.000Z",
    "dupes": 1,
-   "score": 0.282,
+   "score": 0.281,
    "tier": 3
   },
   {
@@ -530,7 +515,7 @@
    "tldr": "When COVID-19 emerged, scientists had a crucial advantage: Decades of prior research on coronaviruses meant they understood the virus’ key proteins well enough to design vaccines in record time.  The next pandemic may…",
    "published": "2026-09-24T14:00:50.000Z",
    "dupes": 1,
-   "score": 0.281,
+   "score": 0.28,
    "tier": 3
   },
   {
@@ -545,7 +530,7 @@
    "tldr": "A warped Manhattan is waiting in the cloud this week.  Remedy Entertainment’s CONTROL Resonant brings Dylan Faden’s extraordinary abilities and a paranatural crisis to GeForce NOW at launch.",
    "published": "2026-09-24T13:00:36.000Z",
    "dupes": 1,
-   "score": 0.281,
+   "score": 0.28,
    "tier": 3
   },
   {
@@ -606,7 +591,7 @@
    "tldr": "",
    "published": "2026-09-24T14:08:57.000Z",
    "dupes": 1,
-   "score": 0.268,
+   "score": 0.267,
    "tier": 3
   },
   {
@@ -651,7 +636,7 @@
    "tldr": "We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the flow of human ambition.  Today we’re introducing the new Copilot to…",
    "published": "2026-09-25T12:03:50.000Z",
    "dupes": 1,
-   "score": 0.264,
+   "score": 0.261,
    "tier": 3
   },
   {
