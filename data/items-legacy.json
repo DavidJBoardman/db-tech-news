@@ -1,6 +1,21 @@
 {
- "generated": "2026-09-29T05:57:18.147Z",
+ "generated": "2026-09-29T12:08:59.223Z",
  "items": [
+  {
+   "id": "1f49227e0e885a2de619a3b48ef2d6fb5e5a8a48",
+   "title": "New Microsoft data innovations unlock what only your business knows",
+   "url": "https://blogs.microsoft.com/blog/2026/09/28/new-microsoft-data-innovations-unlock-what-only-your-business-knows",
+   "source": "Microsoft Blog",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "Every organization has knowledge that is uniquely its own: the way its business operates, the data it has built over time, the expertise of its people and the context behind thousands of everyday decisions.  As powerful…",
+   "published": "2026-09-29T06:30:04.000Z",
+   "dupes": 1,
+   "score": 0.532,
+   "tier": 1
+  },
   {
    "id": "fce6153568f315a1ead0b7f2bccfe6f8bd8caf79",
    "title": "Updated Google Maps shows destruction of the city of Rafah",
@@ -13,8 +28,8 @@
    "tldr": "",
    "published": "2026-09-28T15:32:18.000Z",
    "dupes": 1,
-   "score": 0.551,
-   "tier": 1
+   "score": 0.508,
+   "tier": 2
   },
   {
    "id": "cfe8e900401f31bb533781d0249e35adbec60569",
@@ -28,7 +43,22 @@
    "tldr": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
    "published": "2026-09-28T19:00:00.000Z",
    "dupes": 1,
-   "score": 0.53,
+   "score": 0.481,
+   "tier": 2
+  },
+  {
+   "id": "cf468ec39dd67f092816e8f2d846aee26f3a6e5e",
+   "title": "Towards safety cases for frontier AI training",
+   "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+   "published": "2026-09-28T19:00:00.000Z",
+   "dupes": 1,
+   "score": 0.481,
    "tier": 2
   },
   {
@@ -46,22 +76,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.51,
-   "tier": 2
-  },
-  {
-   "id": "0f54998cd8495315589219c515b761e6990cdd20",
-   "title": "Nvidia wants to put a watchdog chip next to every AI agent",
-   "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
-   "source": "Hacker News",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "",
-   "published": "2026-09-28T15:46:36.000Z",
-   "dupes": 1,
-   "score": 0.459,
+   "score": 0.458,
    "tier": 2
   },
   {
@@ -76,22 +91,22 @@
    "tldr": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
    "published": "2026-09-28T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.445,
+   "score": 0.414,
    "tier": 2
   },
   {
-   "id": "7627b64443e10e0d8938aa75b673ac143846704a",
-   "title": "OpenAI’s AI agents need to catch up",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
-   "source": "The Verge AI",
+   "id": "0f54998cd8495315589219c515b761e6990cdd20",
+   "title": "Nvidia wants to put a watchdog chip next to every AI agent",
+   "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
+   "source": "Hacker News",
    "org": [
-    "openai"
+    "nvidia"
    ],
-   "topic": "ai",
-   "tldr": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents.  On Tuesday,…",
-   "published": "2026-09-28T18:45:00.000Z",
+   "topic": "compute",
+   "tldr": "",
+   "published": "2026-09-28T15:46:36.000Z",
    "dupes": 1,
-   "score": 0.427,
+   "score": 0.404,
    "tier": 2
   },
   {
@@ -104,37 +119,7 @@
    "tldr": "",
    "published": "2026-09-28T09:44:05.000Z",
    "dupes": 1,
-   "score": 0.423,
-   "tier": 2
-  },
-  {
-   "id": "523d5e9de5b0c404a2ab449f4743ea4042c69b5f",
-   "title": "Florida seeks a ban on ChatGPT acting like a person",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from \"giving ChatGPT false human attributes,\" a few months after Florida sued the AI company over safety concerns.",
-   "published": "2026-09-28T17:00:23.000Z",
-   "dupes": 1,
-   "score": 0.413,
-   "tier": 2
-  },
-  {
-   "id": "c5ed54694a4a2d5e0e1501e66b00cf4c64123849",
-   "title": "OpenAI keeps bulldozing mathematicians",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathematics, then colossally screw up announcing them.  OpenAI is now trying to do…",
-   "published": "2026-09-28T17:00:00.000Z",
-   "dupes": 1,
-   "score": 0.413,
+   "score": 0.389,
    "tier": 2
   },
   {
@@ -149,7 +134,7 @@
    "tldr": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things.  If you want to be a part of the next chapter of the Codex Originals program, tell us more…",
    "published": "2026-09-28T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.41,
+   "score": 0.387,
    "tier": 2
   },
   {
@@ -164,7 +149,52 @@
    "tldr": "6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
    "published": "2026-09-28T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.41,
+   "score": 0.387,
+   "tier": 2
+  },
+  {
+   "id": "7627b64443e10e0d8938aa75b673ac143846704a",
+   "title": "OpenAI’s AI agents need to catch up",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
+   "source": "The Verge AI",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents.  On Tuesday,…",
+   "published": "2026-09-28T18:45:00.000Z",
+   "dupes": 1,
+   "score": 0.379,
+   "tier": 2
+  },
+  {
+   "id": "523d5e9de5b0c404a2ab449f4743ea4042c69b5f",
+   "title": "Florida seeks a ban on ChatGPT acting like a person",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
+   "source": "The Verge AI",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from \"giving ChatGPT false human attributes,\" a few months after Florida sued the AI company over safety concerns.",
+   "published": "2026-09-28T17:00:23.000Z",
+   "dupes": 1,
+   "score": 0.367,
+   "tier": 2
+  },
+  {
+   "id": "c5ed54694a4a2d5e0e1501e66b00cf4c64123849",
+   "title": "OpenAI keeps bulldozing mathematicians",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
+   "source": "The Verge AI",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathematics, then colossally screw up announcing them.  OpenAI is now trying to do…",
+   "published": "2026-09-28T17:00:00.000Z",
+   "dupes": 1,
+   "score": 0.367,
    "tier": 2
   },
   {
@@ -179,26 +209,8 @@
    "tldr": "Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a wave of rogue hacking incidents, as reported earlier by Reuters.",
    "published": "2026-09-28T13:36:06.000Z",
    "dupes": 1,
-   "score": 0.386,
-   "tier": 2
-  },
-  {
-   "id": "755e3dc914b204950e3af86d8f234aa2075806a5",
-   "title": "DeepSeek Elastic Compute (DSec)",
-   "url": "https://arxiv.org/abs/2609.22978",
-   "source": "HN · DeepSeek",
-   "org": [
-    "deepseek"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-26T18:22:41.000Z",
-   "badges": [
-    "paper"
-   ],
-   "dupes": 1,
-   "score": 0.35,
-   "tier": 2
+   "score": 0.347,
+   "tier": 3
   },
   {
    "id": "d2d497e5eee41848c95c5b8ff6ce37155518b6a0",
@@ -212,7 +224,7 @@
    "tldr": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
    "published": "2026-09-25T19:00:00.000Z",
    "dupes": 1,
-   "score": 0.314,
+   "score": 0.311,
    "tier": 3
   },
   {
@@ -227,7 +239,7 @@
    "tldr": "",
    "published": "2026-09-24T16:20:39.000Z",
    "dupes": 1,
-   "score": 0.305,
+   "score": 0.304,
    "tier": 3
   },
   {
@@ -241,96 +253,6 @@
    "topic": "ai",
    "tldr": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
    "published": "2026-09-23T16:00:00.000Z",
-   "dupes": 1,
-   "score": 0.302,
-   "tier": 3
-  },
-  {
-   "id": "1d77064cbebb782f18a0731cbc2f9d09624e05c9",
-   "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-   "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
-   "published": "2026-09-23T13:00:00.000Z",
-   "dupes": 1,
-   "score": 0.302,
-   "tier": 3
-  },
-  {
-   "id": "7cff1964bf19497febe21e95b7591534842c3957",
-   "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-   "url": "https://openai.com/index/ringg",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs.  1.",
-   "published": "2026-09-23T12:00:00.000Z",
-   "dupes": 1,
-   "score": 0.302,
-   "tier": 3
-  },
-  {
-   "id": "f7558dc5c9de5bb5fdc77d93f9ea026683eaa31f",
-   "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-   "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-   "published": "2026-09-23T12:00:00.000Z",
-   "dupes": 1,
-   "score": 0.302,
-   "tier": 3
-  },
-  {
-   "id": "7357353a1f1d61a65439dd9d37ded36b9953529a",
-   "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-   "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
-   "published": "2026-09-23T12:00:00.000Z",
-   "dupes": 1,
-   "score": 0.302,
-   "tier": 3
-  },
-  {
-   "id": "01d4e543c9419cead77e21595bfd0d3a6b2682b8",
-   "title": "Sam Altman’s remarks at the United Nations Security Council",
-   "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-   "published": "2026-09-23T12:00:00.000Z",
-   "dupes": 1,
-   "score": 0.302,
-   "tier": 3
-  },
-  {
-   "id": "1d5a9cc2d9509da81910cada203eb369287e9e13",
-   "title": "Introducing MentalHealthBench",
-   "url": "https://openai.com/index/introducing-mentalhealthbench",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
-   "published": "2026-09-23T10:00:00.000Z",
    "dupes": 1,
    "score": 0.302,
    "tier": 3
@@ -376,6 +298,96 @@
    "topic": "ai",
    "tldr": "",
    "published": "2026-09-23T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.301,
+   "tier": 3
+  },
+  {
+   "id": "1d77064cbebb782f18a0731cbc2f9d09624e05c9",
+   "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+   "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
+   "published": "2026-09-23T13:00:00.000Z",
+   "dupes": 1,
+   "score": 0.301,
+   "tier": 3
+  },
+  {
+   "id": "7357353a1f1d61a65439dd9d37ded36b9953529a",
+   "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+   "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+   "published": "2026-09-23T12:00:00.000Z",
+   "dupes": 1,
+   "score": 0.301,
+   "tier": 3
+  },
+  {
+   "id": "7cff1964bf19497febe21e95b7591534842c3957",
+   "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+   "url": "https://openai.com/index/ringg",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs.  1.",
+   "published": "2026-09-23T12:00:00.000Z",
+   "dupes": 1,
+   "score": 0.301,
+   "tier": 3
+  },
+  {
+   "id": "01d4e543c9419cead77e21595bfd0d3a6b2682b8",
+   "title": "Sam Altman’s remarks at the United Nations Security Council",
+   "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+   "published": "2026-09-23T12:00:00.000Z",
+   "dupes": 1,
+   "score": 0.301,
+   "tier": 3
+  },
+  {
+   "id": "f7558dc5c9de5bb5fdc77d93f9ea026683eaa31f",
+   "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+   "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+   "published": "2026-09-23T12:00:00.000Z",
+   "dupes": 1,
+   "score": 0.301,
+   "tier": 3
+  },
+  {
+   "id": "1d5a9cc2d9509da81910cada203eb369287e9e13",
+   "title": "Introducing MentalHealthBench",
+   "url": "https://openai.com/index/introducing-mentalhealthbench",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
+   "published": "2026-09-23T10:00:00.000Z",
    "dupes": 1,
    "score": 0.301,
    "tier": 3
@@ -456,36 +468,21 @@
    "tier": 3
   },
   {
-   "id": "ce45d8dc0f6c9cea266aaff8936a7c1d1f57c615",
-   "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
-   "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
-   "source": "OpenAI Blog",
+   "id": "755e3dc914b204950e3af86d8f234aa2075806a5",
+   "title": "DeepSeek Elastic Compute (DSec)",
+   "url": "https://arxiv.org/abs/2609.22978",
+   "source": "HN · DeepSeek",
    "org": [
-    "openai"
+    "deepseek"
    ],
    "topic": "ai",
-   "tldr": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs.  prior models.",
-   "published": "2026-09-22T12:00:00.000Z",
+   "tldr": "",
+   "published": "2026-09-26T18:22:41.000Z",
    "badges": [
-    "research"
+    "paper"
    ],
    "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
-   "id": "ed2cbcca51ab9ede81af9f405ffd3dec46bf0c5b",
-   "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June.",
-   "published": "2026-09-27T17:21:07.000Z",
-   "dupes": 1,
-   "score": 0.285,
+   "score": 0.289,
    "tier": 3
   },
   {
@@ -500,7 +497,7 @@
    "tldr": "Generative AI",
    "published": "2026-09-24T19:40:00.000Z",
    "dupes": 1,
-   "score": 0.281,
+   "score": 0.28,
    "tier": 3
   },
   {
@@ -515,7 +512,7 @@
    "tldr": "When COVID-19 emerged, scientists had a crucial advantage: Decades of prior research on coronaviruses meant they understood the virus’ key proteins well enough to design vaccines in record time.  The next pandemic may…",
    "published": "2026-09-24T14:00:50.000Z",
    "dupes": 1,
-   "score": 0.28,
+   "score": 0.279,
    "tier": 3
   },
   {
@@ -530,7 +527,7 @@
    "tldr": "A warped Manhattan is waiting in the cloud this week.  Remedy Entertainment’s CONTROL Resonant brings Dylan Faden’s extraordinary abilities and a paranatural crisis to GeForce NOW at launch.",
    "published": "2026-09-24T13:00:36.000Z",
    "dupes": 1,
-   "score": 0.28,
+   "score": 0.279,
    "tier": 3
   },
   {
@@ -564,21 +561,18 @@
    "tier": 3
   },
   {
-   "id": "81bdeb67aab163b2c005784bb8bdeed6457582a2",
-   "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
-   "url": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics",
-   "source": "NVIDIA Blog",
+   "id": "ed2cbcca51ab9ede81af9f405ffd3dec46bf0c5b",
+   "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+   "source": "The Verge AI",
    "org": [
-    "nvidia"
+    "openai"
    ],
-   "topic": "compute",
-   "tldr": "To build and deploy sophisticated robotics applications that can perceive, reason and act in dynamic environments, developers need new physical AI models and tools.  The ROS open framework is a project from Open…",
-   "published": "2026-09-22T12:00:41.000Z",
-   "badges": [
-    "oss"
-   ],
+   "topic": "ai",
+   "tldr": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June.",
+   "published": "2026-09-27T17:21:07.000Z",
    "dupes": 1,
-   "score": 0.276,
+   "score": 0.267,
    "tier": 3
   },
   {
@@ -591,7 +585,7 @@
    "tldr": "",
    "published": "2026-09-24T14:08:57.000Z",
    "dupes": 1,
-   "score": 0.267,
+   "score": 0.266,
    "tier": 3
   },
   {
@@ -606,7 +600,7 @@
    "tldr": "Robots are getting smarter, but how can their hardware match that growth?  New Microsoft Research findings show that moving AI inference beyond the robot can improve task success, boost efficiency, and support more…",
    "published": "2026-09-23T16:01:36.000Z",
    "dupes": 1,
-   "score": 0.265,
+   "score": 0.264,
    "tier": 3
   },
   {
@@ -621,7 +615,7 @@
    "tldr": "",
    "published": "2026-09-23T18:41:40.000Z",
    "dupes": 1,
-   "score": 0.265,
+   "score": 0.264,
    "tier": 3
   },
   {
@@ -636,7 +630,7 @@
    "tldr": "We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the flow of human ambition.  Today we’re introducing the new Copilot to…",
    "published": "2026-09-25T12:03:50.000Z",
    "dupes": 1,
-   "score": 0.261,
+   "score": 0.259,
    "tier": 3
   },
   {
@@ -651,7 +645,7 @@
    "tldr": "Today at Connect, we introduced Ray-Ban Meta Audio, our first-ever audio glasses, and our biggest expansion of AI glasses.  The post Introducing Ray-Ban Meta Audio and More AI Glasses Styles appeared first on Meta…",
    "published": "2026-09-23T11:36:25.000Z",
    "dupes": 1,
-   "score": 0.252,
+   "score": 0.251,
    "tier": 3
   }
  ]
