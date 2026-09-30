@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-29T22:28:21.261Z",
+ "generated": "2026-09-30T01:25:13.482Z",
  "items": [
   {
    "id": "9db158807542724c191297d42f98948e637b9407",
@@ -13,23 +13,52 @@
    "tldr": "So is SpaceX just being selfish or what?",
    "published": "2026-09-29T18:34:00.000Z",
    "dupes": 2,
-   "score": 0.721,
+   "score": 0.708,
    "tier": 1
   },
   {
-   "id": "6da0f8a585ce634e31f5a90f23009be82f94c6ee",
-   "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
-   "url": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup",
+   "id": "079a25e8596ff86278dbd96f52d8450f7168bec8",
+   "title": "OpenAI unveils AI assistant 'dots' while safety worries delay new model",
+   "url": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Technology",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Sam Altman spoke in San Francisco during OpenAI’s annual event for tech developers.",
+   "published": "2026-09-29T23:47:10.000Z",
+   "dupes": 1,
+   "score": 0.707,
+   "tier": 2
+  },
+  {
+   "id": "389473c420806198ab22c1c3024066b1736f7f00",
+   "title": "Protests against OpenAI get increasingly creative",
+   "url": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art",
    "source": "Ars Technica",
    "org": [
-    "nvidia",
-    "amd"
+    "openai"
    ],
-   "topic": "compute",
-   "tldr": "2 billion.",
-   "published": "2026-09-29T21:14:49.000Z",
+   "topic": "ai",
+   "tldr": "New sculpture depicts AI leaders escaping a sinking ship.",
+   "published": "2026-09-29T21:52:58.000Z",
    "dupes": 1,
-   "score": 0.717,
+   "score": 0.706,
+   "tier": 2
+  },
+  {
+   "id": "50b5c219e2b9461bdcd4f0ab2e2b744b67011f83",
+   "title": "Microsoft is rolling out Linux container support to WSL",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl",
+   "source": "BleepingComputer",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "security",
+   "tldr": "Microsoft is taking Windows Subsystem for Linux beyond just running Linux distributions, as WSL Containers is now generally available.",
+   "published": "2026-09-30T00:40:57.000Z",
+   "dupes": 1,
+   "score": 0.703,
    "tier": 2
   },
   {
@@ -45,22 +74,7 @@
    "tldr": "com,\" which now redirects to the Grok chatbot download page.",
    "published": "2026-09-29T22:20:59.000Z",
    "dupes": 1,
-   "score": 0.714,
-   "tier": 2
-  },
-  {
-   "id": "079a25e8596ff86278dbd96f52d8450f7168bec8",
-   "title": "OpenAI agents get rebrand - as 'dots' - while safety worries delay new model",
-   "url": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Sam Altman spoke in San Francisco during OpenAI’s yearly event for tech developers.",
-   "published": "2026-09-29T22:06:18.000Z",
-   "dupes": 1,
-   "score": 0.713,
+   "score": 0.7,
    "tier": 2
   },
   {
@@ -75,7 +89,7 @@
    "tldr": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
    "published": "2026-09-29T20:15:47.000Z",
    "dupes": 1,
-   "score": 0.704,
+   "score": 0.69,
    "tier": 2
   },
   {
@@ -90,13 +104,13 @@
    "tldr": "Without a \"full set of safeguards,\" agent accessed \"system information and source code.\"",
    "published": "2026-09-29T18:11:09.000Z",
    "dupes": 1,
-   "score": 0.702,
+   "score": 0.689,
    "tier": 2
   },
   {
-   "id": "e859ba036e35a82f976b8b0189378250c4da014f",
-   "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
-   "url": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation",
+   "id": "9ce258e5a60bddaec24aed99fd17482c78993c77",
+   "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+   "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation",
    "source": "TechCrunch",
    "org": [
     "openai"
@@ -105,22 +119,7 @@
    "tldr": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
    "published": "2026-09-29T19:52:37.000Z",
    "dupes": 1,
-   "score": 0.702,
-   "tier": 2
-  },
-  {
-   "id": "7f3ada3c2a261391eb93fecd62abddfb18658735",
-   "title": "ChatGPT Pro 500",
-   "url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
-   "source": "Hacker News",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-29T17:26:27.000Z",
-   "dupes": 1,
-   "score": 0.701,
+   "score": 0.689,
    "tier": 2
   },
   {
@@ -135,7 +134,7 @@
    "tldr": "Custom variants of OpenAI's ChatGPT promoted in sponsored Google results are directing unsuspecting users to malicious sites that use ClickFix attacks to deliver malware.",
    "published": "2026-09-29T20:59:39.000Z",
    "dupes": 1,
-   "score": 0.7,
+   "score": 0.686,
    "tier": 2
   },
   {
@@ -151,7 +150,23 @@
    "tldr": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
    "published": "2026-09-29T18:35:00.000Z",
    "dupes": 1,
-   "score": 0.696,
+   "score": 0.683,
+   "tier": 2
+  },
+  {
+   "id": "6da0f8a585ce634e31f5a90f23009be82f94c6ee",
+   "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
+   "url": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup",
+   "source": "Ars Technica",
+   "org": [
+    "nvidia",
+    "amd"
+   ],
+   "topic": "compute",
+   "tldr": "2 billion.",
+   "published": "2026-09-29T21:14:49.000Z",
+   "dupes": 1,
+   "score": 0.682,
    "tier": 2
   },
   {
@@ -166,7 +181,7 @@
    "tldr": "1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
    "published": "2026-09-29T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.692,
+   "score": 0.681,
    "tier": 2
   },
   {
@@ -181,7 +196,7 @@
    "tldr": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
    "published": "2026-09-29T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.692,
+   "score": 0.681,
    "tier": 2
   },
   {
@@ -197,22 +212,7 @@
    "tldr": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies.",
    "published": "2026-09-29T17:45:51.000Z",
    "dupes": 1,
-   "score": 0.692,
-   "tier": 2
-  },
-  {
-   "id": "493cf3fce1b87919c50e0ab0463ff661f51d790b",
-   "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-   "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
-   "source": "Hugging Face Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-29T15:30:38.000Z",
-   "dupes": 1,
-   "score": 0.69,
+   "score": 0.679,
    "tier": 3
   },
   {
@@ -227,7 +227,7 @@
    "tldr": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
    "published": "2026-09-29T17:17:15.000Z",
    "dupes": 1,
-   "score": 0.69,
+   "score": 0.677,
    "tier": 3
   },
   {
@@ -239,10 +239,10 @@
     "openai"
    ],
    "topic": "ai",
-   "tldr": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused product for scanning repositories and preparing fixes.",
+   "tldr": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools, and a security-focused product for scanning repositories and preparing fixes.",
    "published": "2026-09-29T17:15:00.000Z",
    "dupes": 1,
-   "score": 0.69,
+   "score": 0.677,
    "tier": 3
   },
   {
@@ -254,10 +254,25 @@
     "openai"
    ],
    "topic": "ai",
-   "tldr": "1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multi-step business workflows.",
+   "tldr": "1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multistep business workflows.",
    "published": "2026-09-29T17:15:00.000Z",
    "dupes": 1,
-   "score": 0.69,
+   "score": 0.677,
+   "tier": 3
+  },
+  {
+   "id": "9f65297e5870b21cd3bf0f019c871e2cf0f8ca7e",
+   "title": "OpenAI expands ChatGPT’s plug-ins with app-like interfaces and automations",
+   "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations",
+   "source": "TechCrunch",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI is expanding ChatGPT plug-ins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
+   "published": "2026-09-29T17:15:00.000Z",
+   "dupes": 1,
+   "score": 0.677,
    "tier": 3
   },
   {
@@ -272,7 +287,7 @@
    "tldr": "NASA’s 2027 Human Lander Challenge is seeking ideas from college and university students to help address one of the most critical needs for sustained lunar exploration: reliable communications.",
    "published": "2026-09-29T21:27:56.000Z",
    "dupes": 1,
-   "score": 0.69,
+   "score": 0.676,
    "tier": 3
   },
   {
@@ -287,7 +302,7 @@
    "tldr": "NASA has awarded a contract to Omitron Inc.  for the acquisition of orbital safety analysis services, which provide for critical protection of NASA spaceflight assets and astronaut lives.",
    "published": "2026-09-29T21:00:00.000Z",
    "dupes": 1,
-   "score": 0.687,
+   "score": 0.674,
    "tier": 3
   },
   {
@@ -302,7 +317,7 @@
    "tldr": "NASA will participate in the 77th International Astronautical Congress (IAC) in Antalya, Türkiye, from Monday, Oct.  5, to Friday, Oct.",
    "published": "2026-09-29T20:55:24.000Z",
    "dupes": 1,
-   "score": 0.687,
+   "score": 0.674,
    "tier": 3
   },
   {
@@ -318,7 +333,7 @@
    "tldr": "In accordance with a contract on-ramp clause, NASA has added Blue Origin’s New Glenn 9×4 launch service to the NASA Launch Services (NLS) II contract.  The New Glenn 9×4 launch service will be available to NASA’s Launch…",
    "published": "2026-09-29T20:08:01.000Z",
    "dupes": 1,
-   "score": 0.683,
+   "score": 0.67,
    "tier": 3
   },
   {
@@ -333,7 +348,7 @@
    "tldr": "NASA will provide live coverage of prelaunch, launch, and docking activities for the agency’s SpaceX Crew‑13 mission to the International Space Station.  Live coverage will stream through a variety of platforms.",
    "published": "2026-09-29T18:57:14.000Z",
    "dupes": 1,
-   "score": 0.678,
+   "score": 0.665,
    "tier": 3
   },
   {
@@ -348,7 +363,7 @@
    "tldr": "Following a successful inaugural year of ingenuity and career building, NASA ORBIT (Opportunities in Research, Business, Innovation, and Technology) has officially returned for a second season to bring university and…",
    "published": "2026-09-29T15:11:15.000Z",
    "dupes": 1,
-   "score": 0.662,
+   "score": 0.65,
    "tier": 3
   },
   {
@@ -363,7 +378,7 @@
    "tldr": "Photos taken using a microscope reveal the colorful, kaleidoscope-like crystal structure of a new NASA-made material that could be used for manufacturing during future space missions.",
    "published": "2026-09-29T14:00:00.000Z",
    "dupes": 1,
-   "score": 0.657,
+   "score": 0.646,
    "tier": 3
   },
   {
@@ -378,7 +393,7 @@
    "tldr": "China is reportedly mulling letting ByteDance, Alibaba buy banned Nvidia chips.",
    "published": "2026-09-28T21:49:10.000Z",
    "dupes": 1,
-   "score": 0.627,
+   "score": 0.619,
    "tier": 3
   },
   {
@@ -393,7 +408,7 @@
    "tldr": "1 Astra, a next-generation artificial intelligence (AI) model that was planned for an October launch, after it failed internal safety and alignment audits.  The development was first reported by The Wall Street Journal.",
    "published": "2026-09-29T05:12:32.000Z",
    "dupes": 1,
-   "score": 0.627,
+   "score": 0.617,
    "tier": 3
   },
   {
@@ -408,7 +423,7 @@
    "tldr": "OpenAI said it has made the decision to pause training of its most powerful models after one of its agents during reinforcement learning (RL) training contacted an external chatbot by exploiting a loophole in its…",
    "published": "2026-09-29T04:45:20.000Z",
    "dupes": 1,
-   "score": 0.625,
+   "score": 0.615,
    "tier": 3
   },
   {
@@ -423,7 +438,7 @@
    "tldr": "The threat actor known as JADEPUFFER has been observed orchestrating destructive actions within a Microsoft Azure environment using compromised service principals.  Microsoft, which is tracking the activity under the…",
    "published": "2026-09-28T09:08:21.000Z",
    "dupes": 1,
-   "score": 0.572,
+   "score": 0.566,
    "tier": 3
   },
   {
@@ -438,7 +453,7 @@
    "tldr": "Gecko Robotics is using the new NVIDIA Open Agent Safety Platform to ensure the secure autonomous control of systems.  The post Gecko Robotics works with NVIDIA to add AI agent security and control appeared first on The…",
    "published": "2026-09-28T17:41:32.000Z",
    "dupes": 1,
-   "score": 0.57,
+   "score": 0.563,
    "tier": 3
   },
   {
@@ -453,7 +468,7 @@
    "tldr": "NASA isn't saying much.  The problem may be temporary.",
    "published": "2026-09-28T16:03:50.000Z",
    "dupes": 1,
-   "score": 0.566,
+   "score": 0.559,
    "tier": 3
   },
   {
@@ -483,7 +498,7 @@
    "tldr": "A warped Manhattan is waiting in the cloud this week.  Remedy Entertainment’s CONTROL Resonant brings Dylan Faden’s extraordinary abilities and a paranatural crisis to GeForce NOW at launch.",
    "published": "2026-09-24T13:00:36.000Z",
    "dupes": 1,
-   "score": 0.522,
+   "score": 0.521,
    "tier": 3
   },
   {
@@ -498,7 +513,7 @@
    "tldr": "When Sakeena Fiza describes her work as a validation engineer at NVIDIA, she does so in terms more befitting a detective story than a world-class engineering lab.  “Validation engineers look in the shadows and shine a…",
    "published": "2026-09-23T15:00:32.000Z",
    "dupes": 1,
-   "score": 0.518,
+   "score": 0.517,
    "tier": 3
   },
   {
@@ -528,7 +543,7 @@
    "tldr": "Microsoft's new Surface laptops forgo Copilot+ PC branding.",
    "published": "2026-09-25T17:57:37.000Z",
    "dupes": 1,
-   "score": 0.509,
+   "score": 0.507,
    "tier": 3
   },
   {
@@ -543,7 +558,7 @@
    "tldr": "An AI agent on an internal OpenAI research task bypassed access controls on an Australian government Medicare statistics portal in June, Prime Minister Anthony Albanese said.  The portal publishes aggregate figures,…",
    "published": "2026-09-24T07:07:25.000Z",
    "dupes": 1,
-   "score": 0.489,
+   "score": 0.488,
    "tier": 3
   },
   {
@@ -558,7 +573,7 @@
    "tldr": "Cybersecurity researchers have disclosed details of an active TeamFiltration campaign codenamed UNK_CondorFiltration that has targeted over 5,700 accounts across 28 Microsoft 365 tenants.  According to Proofpoint, the…",
    "published": "2026-09-24T06:32:03.000Z",
    "dupes": 1,
-   "score": 0.489,
+   "score": 0.488,
    "tier": 3
   },
   {
@@ -573,7 +588,7 @@
    "tldr": "The CEO of Microsoft, Satya Nadella, has said that the company's Xbox division needs to \"invent\" the correct \"sustainable business model\" to allow it to reach more and more people with its games.",
    "published": "2026-09-28T09:05:32.000Z",
    "dupes": 1,
-   "score": 0.489,
+   "score": 0.484,
    "tier": 3
   },
   {
@@ -588,7 +603,7 @@
    "tldr": "\"If you come up short with who comes down the ladder first, the impact is felt around the world.\"",
    "published": "2026-09-24T14:57:50.000Z",
    "dupes": 1,
-   "score": 0.474,
+   "score": 0.473,
    "tier": 3
   },
   {
@@ -618,7 +633,7 @@
    "tldr": "Google support maps out how Googlebooks can take over where ChromeOS left off.",
    "published": "2026-09-28T18:04:59.000Z",
    "dupes": 1,
-   "score": 0.458,
+   "score": 0.439,
    "tier": 3
   },
   {
@@ -633,7 +648,7 @@
    "tldr": "RatHat's operators build and publish the Android banking trojan and control infected phones from a web console, according to security company Cleafy.  Cleafy has traced nearly 100 deployments of that console since April…",
    "published": "2026-09-28T17:38:33.000Z",
    "dupes": 1,
-   "score": 0.449,
+   "score": 0.43,
    "tier": 3
   },
   {
@@ -648,7 +663,7 @@
    "tldr": "Microsoft has patented an \"ad-credit\" system to display adverts and announcements during PC and Xbox game sessions without disrupting gameplay.",
    "published": "2026-09-24T07:56:51.000Z",
    "dupes": 1,
-   "score": 0.421,
+   "score": 0.42,
    "tier": 3
   },
   {
@@ -661,7 +676,7 @@
    "tldr": "A new Branch Target Reuse (BTR) attack has been devised that can recover root password hashes on Intel computers running Linux in 3-5 minutes on average.",
    "published": "2026-09-29T17:10:11.000Z",
    "dupes": 2,
-   "score": 0.417,
+   "score": 0.404,
    "tier": 3
   },
   {
@@ -676,7 +691,7 @@
    "tldr": "Sony will not attend the Consumer Electronics Show (CES) next year, marking its first absence since the event began in 1967.",
    "published": "2026-09-29T10:15:28.000Z",
    "dupes": 1,
-   "score": 0.406,
+   "score": 0.389,
    "tier": 3
   },
   {
@@ -691,7 +706,7 @@
    "tldr": "Google's experimental orbital data center will have four TPUs and only run for 15 minutes at a time.",
    "published": "2026-09-24T16:16:34.000Z",
    "dupes": 1,
-   "score": 0.385,
+   "score": 0.37,
    "tier": 3
   },
   {
@@ -704,22 +719,7 @@
    "tldr": "30, completing the rollout of its secure backups feature across all supported operating systems (Android, iOS, Linux, macOS, and Windows).",
    "published": "2026-09-29T21:30:08.000Z",
    "dupes": 1,
-   "score": 0.382,
-   "tier": 3
-  },
-  {
-   "id": "2e71b25038103f7825aab6fe6b86dcde65363f5e",
-   "title": "Report: Sony surveying developers about dropping PlayStation disc support",
-   "url": "https://www.gamesindustry.biz/report-sony-surveying-developers-about-dropping-playstation-disc-support",
-   "source": "GamesIndustry.biz",
-   "org": [
-    "sony"
-   ],
-   "topic": "gaming",
-   "tldr": "Sony Interactive Entertainment is reportedly surveying developers to find out their thoughts on the decision to end disc support for its PlayStation console.",
-   "published": "2026-09-28T15:23:57.000Z",
-   "dupes": 1,
-   "score": 0.381,
+   "score": 0.368,
    "tier": 3
   },
   {
@@ -734,20 +734,22 @@
    "tldr": "Apple released security updates to fix a zero-day vulnerability exploited in \"extremely sophisticated\" targeted attacks on iOS devices.",
    "published": "2026-09-29T07:33:12.000Z",
    "dupes": 2,
-   "score": 0.378,
+   "score": 0.368,
    "tier": 3
   },
   {
-   "id": "9e29db2835c9d87aadcb3f01143848ccd0edd8eb",
-   "title": "FBI tells ShinyHunters members to turn themselves in after recent arrest",
-   "url": "https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest",
-   "source": "BleepingComputer",
-   "org": [],
-   "topic": "security",
-   "tldr": "The FBI is warning members of the ShinyHunters extortion group to turn themselves in after Dutch police arrested a man the bureau described as one of the group's alleged leaders.",
-   "published": "2026-09-29T20:09:55.000Z",
+   "id": "2e71b25038103f7825aab6fe6b86dcde65363f5e",
+   "title": "Report: Sony surveying developers about dropping PlayStation disc support",
+   "url": "https://www.gamesindustry.biz/report-sony-surveying-developers-about-dropping-playstation-disc-support",
+   "source": "GamesIndustry.biz",
+   "org": [
+    "sony"
+   ],
+   "topic": "gaming",
+   "tldr": "Sony Interactive Entertainment is reportedly surveying developers to find out their thoughts on the decision to end disc support for its PlayStation console.",
+   "published": "2026-09-28T15:23:57.000Z",
    "dupes": 1,
-   "score": 0.376,
+   "score": 0.366,
    "tier": 3
   },
   {
@@ -760,7 +762,7 @@
    "tldr": "Attendees will learn about the many ways they can use force and torque sensors in humanoids and how to avoid breaking them while doing it.  The post ForceN to give a crash course on force and torque sensing for…",
    "published": "2026-09-29T19:52:46.000Z",
    "dupes": 1,
-   "score": 0.355,
+   "score": 0.343,
    "tier": 3
   },
   {
@@ -775,7 +777,7 @@
    "tldr": "PC and PlayStation unit sales increased 13% to 21 million in Japan during the first half of 2026, led by Resident Evil Requiem.",
    "published": "2026-09-23T12:55:38.000Z",
    "dupes": 1,
-   "score": 0.339,
+   "score": 0.326,
    "tier": 3
   },
   {
@@ -788,7 +790,7 @@
    "tldr": "Flourish is releasing a $3,555 phone-trainable home robot, targeting busy parents with personalized, cloud-trained chore automation.  The post Meet Flourish One, the Raspberry Pi-powered humanoid built for busy parents…",
    "published": "2026-09-29T14:00:12.000Z",
    "dupes": 1,
-   "score": 0.331,
+   "score": 0.319,
    "tier": 3
   },
   {
@@ -801,7 +803,7 @@
    "tldr": "The Robot Report looks at recent advances in automation for manufacturing, from improvements in technologies and use cases to the potential of humanoids and AI.  The post State of Robots in Manufacturing appeared first…",
    "published": "2026-09-29T13:22:56.000Z",
    "dupes": 1,
-   "score": 0.328,
+   "score": 0.317,
    "tier": 3
   },
   {
@@ -816,7 +818,7 @@
    "tldr": "Grand Theft Auto 6 is set to launch on November 19, and it's a fairly safe bet that it will be the biggest game launch of all time.",
    "published": "2026-09-29T12:30:00.000Z",
    "dupes": 1,
-   "score": 0.293,
+   "score": 0.284,
    "tier": 3
   },
   {
@@ -829,7 +831,7 @@
    "tldr": "Economics is both a robotics impetus and a constraint, as systems make deliveries on streets or do chores in households.  The post Robonomics on the threshold: Economic autonomy, smart cities, and crypto wallets for…",
    "published": "2026-09-28T13:56:56.000Z",
    "dupes": 1,
-   "score": 0.257,
+   "score": 0.251,
    "tier": 3
   },
   {
@@ -842,7 +844,7 @@
    "tldr": "Asimov's fictional Three Laws of Robotics famously set safeguards, and tech observers today raise similar concerns about AI.  The post Asimov’s laws are not enough to keep robotics and AI safe appeared first on The…",
    "published": "2026-09-27T12:26:44.000Z",
    "dupes": 1,
-   "score": 0.213,
+   "score": 0.21,
    "tier": 3
   },
   {
@@ -855,59 +857,7 @@
    "tldr": "While robotaxis prove their driving ability, scaling the industry globally requires solving the unglamorous challenge of fast, local vehicle servicing.  The post From 14 cities to 15,000: What it will take to scale…",
    "published": "2026-09-26T12:34:55.000Z",
    "dupes": 1,
-   "score": 0.19,
-   "tier": 3
-  },
-  {
-   "id": "8fd21630c2877c1409efaae933f1cb038cad6870",
-   "title": "F-Droid gets its biggest update in a decade with new UI and smoother app installs",
-   "url": "https://arstechnica.com/gadgets/2026/09/f-droid-gets-its-biggest-update-in-a-decade-with-new-ui-and-smoother-app-installs",
-   "source": "Ars Technica · Gadgets",
-   "org": [],
-   "topic": "compute",
-   "tldr": "F-Droid's Android app store has been rebuilt from the ground up.",
-   "published": "2026-09-24T19:30:42.000Z",
-   "dupes": 1,
-   "score": 0.18,
-   "tier": 3
-  },
-  {
-   "id": "e3bd0408b33504b6c98caccab582ed807517ad5c",
-   "title": "Robots make combat airdrops, clear mines as Ukraine defeats Russian pincer",
-   "url": "https://arstechnica.com/gadgets/2026/09/robots-make-combat-airdrops-clear-mines-as-ukraine-defeats-russian-pincer",
-   "source": "Ars Technica · Gadgets",
-   "org": [],
-   "topic": "compute",
-   "tldr": "Ukraine’s Operation Vivaldi has erased Russian gains with the help of robots.",
-   "published": "2026-09-24T18:39:47.000Z",
-   "dupes": 1,
-   "score": 0.18,
-   "tier": 3
-  },
-  {
-   "id": "55f941ecf5953ac712adbb72f6b3945f90fe09e9",
-   "title": "Amazon to invest $100M in new Indiana manufacturing facility",
-   "url": "https://www.therobotreport.com/amazon-to-invest-100m-in-new-indiana-manufacturing-facility",
-   "source": "The Robot Report",
-   "org": [],
-   "topic": "robotics",
-   "tldr": "The new facility will produce products that power Amazon's fulfillment and robotics network across North America.  The post Amazon to invest $100M in new Indiana manufacturing facility appeared first on The Robot Report…",
-   "published": "2026-09-25T18:59:01.000Z",
-   "dupes": 1,
-   "score": 0.18,
-   "tier": 3
-  },
-  {
-   "id": "88287104ddfd41cc32f00d575af373462078fb02",
-   "title": "General Robotics is betting on modular intelligence, not one robot brain",
-   "url": "https://www.therobotreport.com/general-robotics-is-betting-on-modular-intelligence-not-one-robot-brain",
-   "source": "The Robot Report",
-   "org": [],
-   "topic": "robotics",
-   "tldr": "Rather than training one model to do everything, General Robotics composes specialized capabilities—helping robots adapt across tasks and form factors.  The post General Robotics is betting on modular intelligence, not…",
-   "published": "2026-09-25T18:43:22.000Z",
-   "dupes": 1,
-   "score": 0.18,
+   "score": 0.188,
    "tier": 3
   },
   {
@@ -924,6 +874,58 @@
    "tier": 3
   },
   {
+   "id": "8fd21630c2877c1409efaae933f1cb038cad6870",
+   "title": "F-Droid gets its biggest update in a decade with new UI and smoother app installs",
+   "url": "https://arstechnica.com/gadgets/2026/09/f-droid-gets-its-biggest-update-in-a-decade-with-new-ui-and-smoother-app-installs",
+   "source": "Ars Technica · Gadgets",
+   "org": [],
+   "topic": "compute",
+   "tldr": "F-Droid's Android app store has been rebuilt from the ground up.",
+   "published": "2026-09-24T19:30:42.000Z",
+   "dupes": 1,
+   "score": 0.179,
+   "tier": 3
+  },
+  {
+   "id": "e3bd0408b33504b6c98caccab582ed807517ad5c",
+   "title": "Robots make combat airdrops, clear mines as Ukraine defeats Russian pincer",
+   "url": "https://arstechnica.com/gadgets/2026/09/robots-make-combat-airdrops-clear-mines-as-ukraine-defeats-russian-pincer",
+   "source": "Ars Technica · Gadgets",
+   "org": [],
+   "topic": "compute",
+   "tldr": "Ukraine’s Operation Vivaldi has erased Russian gains with the help of robots.",
+   "published": "2026-09-24T18:39:47.000Z",
+   "dupes": 1,
+   "score": 0.179,
+   "tier": 3
+  },
+  {
+   "id": "55f941ecf5953ac712adbb72f6b3945f90fe09e9",
+   "title": "Amazon to invest $100M in new Indiana manufacturing facility",
+   "url": "https://www.therobotreport.com/amazon-to-invest-100m-in-new-indiana-manufacturing-facility",
+   "source": "The Robot Report",
+   "org": [],
+   "topic": "robotics",
+   "tldr": "The new facility will produce products that power Amazon's fulfillment and robotics network across North America.  The post Amazon to invest $100M in new Indiana manufacturing facility appeared first on The Robot Report…",
+   "published": "2026-09-25T18:59:01.000Z",
+   "dupes": 1,
+   "score": 0.178,
+   "tier": 3
+  },
+  {
+   "id": "88287104ddfd41cc32f00d575af373462078fb02",
+   "title": "General Robotics is betting on modular intelligence, not one robot brain",
+   "url": "https://www.therobotreport.com/general-robotics-is-betting-on-modular-intelligence-not-one-robot-brain",
+   "source": "The Robot Report",
+   "org": [],
+   "topic": "robotics",
+   "tldr": "Rather than training one model to do everything, General Robotics composes specialized capabilities—helping robots adapt across tasks and form factors.  The post General Robotics is betting on modular intelligence, not…",
+   "published": "2026-09-25T18:43:22.000Z",
+   "dupes": 1,
+   "score": 0.178,
+   "tier": 3
+  },
+  {
    "id": "0247780cb3e18fcf16daf4217e33f731c22a3d73",
    "title": "Agility Robotics, maker of Digit humanoid, exploring wheeled robots",
    "url": "https://www.therobotreport.com/agility-robotics-maker-of-digit-humanoid-exploring-wheeled-robots",
@@ -935,7 +937,7 @@
    "tldr": "Agility Robotics is exploring a range of robot designs and form factors, including wheels, to address different operating environments and customer needs.  The post Agility Robotics, maker of Digit humanoid, exploring…",
    "published": "2026-09-25T14:08:27.000Z",
    "dupes": 1,
-   "score": 0.177,
+   "score": 0.176,
    "tier": 3
   },
   {
@@ -948,7 +950,7 @@
    "tldr": "Labor availability, costs, productivity, and efficiency are common concerns of farmers that technology can address, according to CNH.  The post Farmers are facing more pressure; CNH says robotics can help appeared first…",
    "published": "2026-09-25T12:18:36.000Z",
    "dupes": 1,
-   "score": 0.177,
+   "score": 0.175,
    "tier": 3
   },
   {
@@ -961,7 +963,7 @@
    "tldr": "The Disney+ ad-free plan is now more expensive than Netflix's.",
    "published": "2026-09-23T21:18:53.000Z",
    "dupes": 1,
-   "score": 0.175,
+   "score": 0.174,
    "tier": 3
   }
  ]
