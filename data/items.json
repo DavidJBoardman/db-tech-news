@@ -1,19 +1,19 @@
 {
- "generated": "2026-10-03T11:05:35.949Z",
+ "generated": "2026-10-03T15:10:47.452Z",
  "items": [
   {
-   "id": "fc1c6e27930ec3efc943259e6724febeaea23b8b",
-   "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI",
-   "url": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai",
-   "source": "Ars Technica",
+   "id": "91c2390ce603b2e9cae996744deb8751df70c722",
+   "title": "An OpenAI safety employee has quit and is sounding the alarm",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+   "source": "The Verge AI",
    "org": [
-    "nvidia"
+    "openai"
    ],
-   "topic": "compute",
-   "tldr": "99.",
-   "published": "2026-10-02T14:52:16.000Z",
-   "dupes": 2,
-   "score": 0.692,
+   "topic": "ai",
+   "tldr": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI.  This week, he resigned from his position and is now speaking out in an editorial in The Atlantic.",
+   "published": "2026-10-03T14:31:56.000Z",
+   "dupes": 1,
+   "score": 0.68,
    "tier": 1
   },
   {
@@ -28,52 +28,22 @@
    "tldr": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
    "published": "2026-10-02T16:15:00.000Z",
    "dupes": 1,
-   "score": 0.669,
+   "score": 0.657,
    "tier": 2
   },
   {
-   "id": "de0a1dfa7625500ae17f350e27bef87cf080ad6f",
-   "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
-   "url": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge",
+   "id": "fc1c6e27930ec3efc943259e6724febeaea23b8b",
+   "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI",
+   "url": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai",
    "source": "Ars Technica",
    "org": [
-    "google"
+    "nvidia"
    ],
-   "topic": "ai",
-   "tldr": "The court acknowledges AI search comes with consequences, but it's not an antitrust issue.",
-   "published": "2026-10-01T20:11:55.000Z",
+   "topic": "compute",
+   "tldr": "99.",
+   "published": "2026-10-02T14:52:16.000Z",
    "dupes": 2,
-   "score": 0.648,
-   "tier": 2
-  },
-  {
-   "id": "575ad95effd7644fbd994d843e5b28c3600921e7",
-   "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
-   "url": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china",
-   "source": "Ars Technica",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Nvidia’s chip-smuggling problem won’t go away as arrests continue.",
-   "published": "2026-10-02T18:39:36.000Z",
-   "dupes": 1,
-   "score": 0.643,
-   "tier": 2
-  },
-  {
-   "id": "d4e3054526b7ef033e96d8479a3fdd107a1e02b7",
-   "title": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-   "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Local AI is becoming more useful by the token.  As AI agents move from experiments into everyday development, increasingly capable open models are shrinking to fit on more devices, giving builders more to run locally.",
-   "published": "2026-10-02T13:00:39.000Z",
-   "dupes": 1,
-   "score": 0.642,
+   "score": 0.651,
    "tier": 2
   },
   {
@@ -88,7 +58,7 @@
    "tldr": "As part of NASA’s ongoing Inspiration Tour, NASA astronaut Christina Koch will highlight America’s strengths in space exploration and aeronautics innovation at the Philadelphia Eagles vs.  Los Angeles Rams game in…",
    "published": "2026-10-02T19:54:54.000Z",
    "dupes": 1,
-   "score": 0.633,
+   "score": 0.619,
    "tier": 2
   },
   {
@@ -104,7 +74,7 @@
    "tldr": "NASA’s SpaceX Crew-12 mission is ending, with the crew scheduled to return in early October.",
    "published": "2026-10-02T19:30:00.000Z",
    "dupes": 1,
-   "score": 0.631,
+   "score": 0.618,
    "tier": 2
   },
   {
@@ -119,22 +89,7 @@
    "tldr": "The engineering development unit for NASA’s DAVINCI (Deep Atmosphere Venus Investigation of Noble gases, Chemistry, and Imaging) probe is photographed prior to a major thermal evaluation.",
    "published": "2026-10-02T19:00:36.000Z",
    "dupes": 1,
-   "score": 0.63,
-   "tier": 2
-  },
-  {
-   "id": "b7a4cac8ba6383ef00eb155d573a5b760752b18f",
-   "title": "Toward provably private learning from federated data",
-   "url": "https://research.google/blog/toward-provably-private-learning-from-federated-data",
-   "source": "Google Research",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Mobile Systems",
-   "published": "2026-10-02T14:57:41.000Z",
-   "dupes": 1,
-   "score": 0.627,
+   "score": 0.617,
    "tier": 2
   },
   {
@@ -149,7 +104,7 @@
    "tldr": "6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
    "published": "2026-10-02T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.625,
+   "score": 0.616,
    "tier": 2
   },
   {
@@ -164,7 +119,7 @@
    "tldr": "Lee esta nota de prensa en inglés aquí.  La NASA busca líderes para uno de los puestos más prestigiosos de la Tierra en el ámbito de los vuelos espaciales tripulados: director de vuelo en el control de misión del Centro…",
    "published": "2026-10-02T16:36:25.000Z",
    "dupes": 1,
-   "score": 0.622,
+   "score": 0.61,
    "tier": 2
   },
   {
@@ -179,22 +134,7 @@
    "tldr": "Groundbreaking tests at NASA’s Langley Research Center in Hampton, Virginia, are paving the way for new wind tunnel capabilities for designing the aircraft technologies of the future.",
    "published": "2026-10-02T16:10:55.000Z",
    "dupes": 1,
-   "score": 0.62,
-   "tier": 2
-  },
-  {
-   "id": "0187384e2210539a7fd11be8beff2ca8f4baaa8d",
-   "title": "Gemini ending free use of Flash and Pro models",
-   "url": "https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and",
-   "source": "Hacker News",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-10-03T09:13:19.000Z",
-   "dupes": 1,
-   "score": 0.619,
+   "score": 0.608,
    "tier": 2
   },
   {
@@ -209,38 +149,8 @@
    "tldr": "NASA is seeking leaders for one of the most esteemed positions on Earth for human spaceflight: flight director in mission control at the agency’s Johnson Space Center in Houston.  This role is critical to advancing…",
    "published": "2026-10-02T15:49:26.000Z",
    "dupes": 1,
-   "score": 0.619,
-   "tier": 3
-  },
-  {
-   "id": "47338c90f337d6c59bfe25bce8f99a3cb8aa0e7c",
-   "title": "OpenAI fires workers for 'mishandling sensitive information'",
-   "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "The former employees were investigated for sharing data with an outside AI evaluation group.",
-   "published": "2026-10-02T08:20:32.000Z",
-   "dupes": 1,
-   "score": 0.614,
-   "tier": 3
-  },
-  {
-   "id": "5028b5fce3747e84c2f5a32b9d8efd3c223c6101",
-   "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "It's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding.  But unlike the ultra-approachable Meta Muse, Dots feel very much like using workplace…",
-   "published": "2026-10-02T18:00:00.000Z",
-   "dupes": 1,
-   "score": 0.611,
-   "tier": 3
+   "score": 0.607,
+   "tier": 2
   },
   {
    "id": "7e67b43cf9d0e609b77c8416e1333d34aa00dfc5",
@@ -254,7 +164,67 @@
    "tldr": "Advanced AI may matter most for the routine work behind breakthrough ideas.  Explore why execution could shape the next economy and the pace of progress.",
    "published": "2026-10-01T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.61,
+   "score": 0.603,
+   "tier": 2
+  },
+  {
+   "id": "47338c90f337d6c59bfe25bce8f99a3cb8aa0e7c",
+   "title": "OpenAI fires workers for 'mishandling sensitive information'",
+   "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Technology",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "The former employees were investigated for sharing data with an outside AI evaluation group.",
+   "published": "2026-10-02T08:20:32.000Z",
+   "dupes": 1,
+   "score": 0.603,
+   "tier": 2
+  },
+  {
+   "id": "575ad95effd7644fbd994d843e5b28c3600921e7",
+   "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
+   "url": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china",
+   "source": "Ars Technica",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Nvidia’s chip-smuggling problem won’t go away as arrests continue.",
+   "published": "2026-10-02T18:39:36.000Z",
+   "dupes": 1,
+   "score": 0.602,
+   "tier": 2
+  },
+  {
+   "id": "a80484c2d5849bdb14051812d38a301cb6633866",
+   "title": "How Albertsons Companies is reimagining retail from the inside out",
+   "url": "https://openai.com/index/albertsons-reimagining-retail",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Albertsons Cos.  is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+   "published": "2026-10-01T16:00:00.000Z",
+   "dupes": 1,
+   "score": 0.601,
+   "tier": 3
+  },
+  {
+   "id": "d4e3054526b7ef033e96d8479a3fdd107a1e02b7",
+   "title": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+   "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Local AI is becoming more useful by the token.  As AI agents move from experiments into everyday development, increasingly capable open models are shrinking to fit on more devices, giving builders more to run locally.",
+   "published": "2026-10-02T13:00:39.000Z",
+   "dupes": 1,
+   "score": 0.601,
    "tier": 3
   },
   {
@@ -269,37 +239,7 @@
    "tldr": "",
    "published": "2026-10-01T22:22:21.000Z",
    "dupes": 1,
-   "score": 0.609,
-   "tier": 3
-  },
-  {
-   "id": "7732b6c00457772a373920ce74b34dbd21c748a8",
-   "title": "OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling",
-   "url": "https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html",
-   "source": "The Hacker News",
-   "org": [
-    "openai"
-   ],
-   "topic": "security",
-   "tldr": "OpenAI has parted ways with three members of its safety team after they leaked private information in violation of company policies, The Wall Street Journal reported.  \"We have parted ways with three individuals for…",
-   "published": "2026-10-02T12:23:15.000Z",
-   "dupes": 1,
-   "score": 0.609,
-   "tier": 3
-  },
-  {
-   "id": "a80484c2d5849bdb14051812d38a301cb6633866",
-   "title": "How Albertsons Companies is reimagining retail from the inside out",
-   "url": "https://openai.com/index/albertsons-reimagining-retail",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Albertsons Cos.  is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
-   "published": "2026-10-01T16:00:00.000Z",
-   "dupes": 1,
-   "score": 0.608,
+   "score": 0.6,
    "tier": 3
   },
   {
@@ -315,37 +255,37 @@
    "tldr": "GPT-6 Astra Ultrafast, running on NVIDIA Blackwell GPUs, is available now in the OpenAI API and to eligible ChatGPT Work and Codex users.  Accelerated by inference optimizations through OpenAI’s models that tap into the…",
    "published": "2026-10-01T23:44:13.000Z",
    "dupes": 1,
-   "score": 0.608,
+   "score": 0.599,
    "tier": 3
   },
   {
-   "id": "7b8f1a5082f97b794589006f9f3fe4d8deafa3e0",
-   "title": "Fall Into 25 New Games on GeForce NOW This October",
-   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-october-2026-games-list",
-   "source": "NVIDIA Blog",
+   "id": "5028b5fce3747e84c2f5a32b9d8efd3c223c6101",
+   "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+   "source": "The Verge AI",
    "org": [
-    "nvidia"
+    "openai"
    ],
-   "topic": "compute",
-   "tldr": "Spooky season is streaming in.  Alongside falling leaves, pumpkin spice and everything nice, 25 new games are joining GeForce NOW throughout October, including six ready to play this week.",
-   "published": "2026-10-01T13:00:54.000Z",
+   "topic": "ai",
+   "tldr": "It's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding.  But unlike the ultra-approachable Meta Muse, Dots feel very much like using workplace…",
+   "published": "2026-10-02T18:00:00.000Z",
    "dupes": 1,
-   "score": 0.587,
+   "score": 0.598,
    "tier": 3
   },
   {
-   "id": "326e46109846299bb8c9c22254cc12ff6a99ee6a",
-   "title": "Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment",
-   "url": "https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories",
-   "source": "NVIDIA Blog",
+   "id": "7732b6c00457772a373920ce74b34dbd21c748a8",
+   "title": "OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling",
+   "url": "https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html",
+   "source": "The Hacker News",
    "org": [
-    "nvidia"
+    "openai"
    ],
-   "topic": "compute",
-   "tldr": "AI factories are built by the megawatt, even by the gigawatt.  Each megawatt factory costs roughly $60 million, and AI factory operators will only commit capital on that scale with a clear view of the return on…",
-   "published": "2026-10-01T13:00:49.000Z",
+   "topic": "security",
+   "tldr": "OpenAI has parted ways with three members of its safety team after they leaked private information in violation of company policies, The Wall Street Journal reported.  \"We have parted ways with three individuals for…",
+   "published": "2026-10-02T12:23:15.000Z",
    "dupes": 1,
-   "score": 0.587,
+   "score": 0.597,
    "tier": 3
   },
   {
@@ -360,22 +300,67 @@
    "tldr": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
    "published": "2026-10-01T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.583,
+   "score": 0.578,
    "tier": 3
   },
   {
-   "id": "311e095023e6d9fdea75b7af8141f43c4a663c77",
-   "title": "Gemini 4 Argon: our next era of frontier intelligence",
-   "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence",
-   "source": "Google DeepMind",
+   "id": "7b8f1a5082f97b794589006f9f3fe4d8deafa3e0",
+   "title": "Fall Into 25 New Games on GeForce NOW This October",
+   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-october-2026-games-list",
+   "source": "NVIDIA Blog",
    "org": [
-    "google"
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Spooky season is streaming in.  Alongside falling leaves, pumpkin spice and everything nice, 25 new games are joining GeForce NOW throughout October, including six ready to play this week.",
+   "published": "2026-10-01T13:00:54.000Z",
+   "dupes": 1,
+   "score": 0.575,
+   "tier": 3
+  },
+  {
+   "id": "326e46109846299bb8c9c22254cc12ff6a99ee6a",
+   "title": "Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment",
+   "url": "https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "AI factories are built by the megawatt, even by the gigawatt.  Each megawatt factory costs roughly $60 million, and AI factory operators will only commit capital on that scale with a clear view of the return on…",
+   "published": "2026-10-01T13:00:49.000Z",
+   "dupes": 1,
+   "score": 0.575,
+   "tier": 3
+  },
+  {
+   "id": "6a91381a429232e70fbbeaf70fa7952678ddb1b1",
+   "title": "Disrupting a coordinated model-distillation campaign",
+   "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
    ],
    "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-30T20:01:45.000Z",
+   "tldr": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+   "published": "2026-09-30T10:30:00.000Z",
    "dupes": 1,
-   "score": 0.578,
+   "score": 0.564,
+   "tier": 3
+  },
+  {
+   "id": "b5e5e43443d214dfc5c67f06481473dd2e532493",
+   "title": "Helping small businesses put AI to work",
+   "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
+   "published": "2026-09-30T10:00:00.000Z",
+   "dupes": 1,
+   "score": 0.564,
    "tier": 3
   },
   {
@@ -390,7 +375,7 @@
    "tldr": "Bringing together the world’s brightest minds and the latest accelerated computing technology leads to powerful breakthroughs that help tackle some of the biggest research problems.  To foster such innovation, the…",
    "published": "2026-09-30T17:00:21.000Z",
    "dupes": 1,
-   "score": 0.559,
+   "score": 0.554,
    "tier": 3
   },
   {
@@ -405,7 +390,22 @@
    "tldr": "Building on nearly a decade of co-engineering, CoreWeave has built NVIDIA compute, networking and software into a cloud purpose-built for AI that’s still returning on investment across multiple generations of…",
    "published": "2026-09-30T15:00:00.000Z",
    "dupes": 1,
-   "score": 0.557,
+   "score": 0.553,
+   "tier": 3
+  },
+  {
+   "id": "19db7cc5ca5cc5ea9756742a5f11d351db2a9625",
+   "title": "DevDay 2026 Recap",
+   "url": "https://openai.com/index/devday-2026-recap",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+   "published": "2026-09-29T10:00:00.000Z",
+   "dupes": 1,
+   "score": 0.548,
    "tier": 3
   },
   {
@@ -421,22 +421,7 @@
    "tldr": "OpenAI on Wednesday said it identified and disrupted a coordinated distillation campaign that was designed to illicitly extract protected reasoning from its artificial intelligence (AI) models.  A \"core cluster of the…",
    "published": "2026-10-01T10:42:36.000Z",
    "dupes": 1,
-   "score": 0.551,
-   "tier": 3
-  },
-  {
-   "id": "1787a1140b4f924ef360f6fd77ddb9d79a9b6a10",
-   "title": "Google Rolls Out Gemini 4 Argon to Trusted Cyber Defenders, Plans Guardrail-Free Version",
-   "url": "https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html",
-   "source": "The Hacker News",
-   "org": [
-    "google"
-   ],
-   "topic": "security",
-   "tldr": "Google on Wednesday announced its latest frontier artificial intelligence (AI) model, Gemini 4 Argon, that it said is being rolled out to a set of trusted cyber defenders through its Fairwind Program.",
-   "published": "2026-10-01T07:49:36.000Z",
-   "dupes": 1,
-   "score": 0.546,
+   "score": 0.544,
    "tier": 3
   },
   {
@@ -451,37 +436,7 @@
    "tldr": "Threat actors are abusing ChatGPT Custom GPTs to disguise them as legitimate product offerings and direct unsuspecting victims to malicious sites that employ ClickFix lures to deliver malware.  Huntress, which observed…",
    "published": "2026-09-30T15:00:15.000Z",
    "dupes": 1,
-   "score": 0.525,
-   "tier": 3
-  },
-  {
-   "id": "e8aa5c1d26878c11c2138aa362a9d46a535ce584",
-   "title": "Microsoft’s X account hacked in crypto pump-and-dump scheme",
-   "url": "https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme",
-   "source": "BleepingComputer",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "security",
-   "tldr": "On Thursday, unknown attackers hijacked the official Microsoft account on X, which has over 13 million followers, in what appeared to be a pump-and-dump scheme promoting a crypto token.",
-   "published": "2026-10-02T09:29:56.000Z",
-   "dupes": 1,
-   "score": 0.516,
-   "tier": 3
-  },
-  {
-   "id": "ae75203c7827634ccc4f23a8e40d06cf5f9aba67",
-   "title": "Google seemingly confirms plans to kill ChromeOS in 2034",
-   "url": "https://arstechnica.com/gadgets/2026/09/google-seemingly-confirms-plans-to-kill-chromeos-in-2034",
-   "source": "Ars Technica · Gadgets",
-   "org": [
-    "google"
-   ],
-   "topic": "compute",
-   "tldr": "Google support maps out how Googlebooks can take over where ChromeOS left off.",
-   "published": "2026-09-28T18:04:59.000Z",
-   "dupes": 1,
-   "score": 0.503,
+   "score": 0.521,
    "tier": 3
   },
   {
@@ -496,7 +451,7 @@
    "tldr": "1 Astra, a next-generation artificial intelligence (AI) model that was planned for an October launch, after it failed internal safety and alignment audits.  The development was first reported by The Wall Street Journal.",
    "published": "2026-09-29T05:12:32.000Z",
    "dupes": 1,
-   "score": 0.5,
+   "score": 0.498,
    "tier": 3
   },
   {
@@ -511,37 +466,7 @@
    "tldr": "OpenAI said it has made the decision to pause training of its most powerful models after one of its agents during reinforcement learning (RL) training contacted an external chatbot by exploiting a loophole in its…",
    "published": "2026-09-29T04:45:20.000Z",
    "dupes": 1,
-   "score": 0.5,
-   "tier": 3
-  },
-  {
-   "id": "0e48fe7d5b76af18af66700cbe34e53c1a367a41",
-   "title": "Microsoft says threat actors are ahead in the early AI race",
-   "url": "https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race",
-   "source": "BleepingComputer",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "security",
-   "tldr": "Microsoft says cyberattackers are currently benefiting from artificial intelligence faster than defenders, allowing threat actors to speed up vulnerability discovery, malware development, and post-compromise activity…",
-   "published": "2026-10-01T19:32:47.000Z",
-   "dupes": 1,
    "score": 0.498,
-   "tier": 3
-  },
-  {
-   "id": "26cc36978970074fef377924a29c415ba8a91f0a",
-   "title": "RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims",
-   "url": "https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html",
-   "source": "The Hacker News",
-   "org": [
-    "google"
-   ],
-   "topic": "security",
-   "tldr": "RatHat's operators build and publish the Android banking trojan and control infected phones from a web console, according to security company Cleafy.  Cleafy has traced nearly 100 deployments of that console since April…",
-   "published": "2026-09-28T17:38:33.000Z",
-   "dupes": 1,
-   "score": 0.495,
    "tier": 3
   },
   {
@@ -556,22 +481,22 @@
    "tldr": "So is SpaceX just being selfish or what?",
    "published": "2026-09-29T18:34:00.000Z",
    "dupes": 1,
-   "score": 0.49,
+   "score": 0.487,
    "tier": 3
   },
   {
-   "id": "433216dbf590c11071bb406b74a49b1792876253",
-   "title": "Microsoft enables Windows settings backup by default for orgs",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-settings-backup-by-default-for-orgs",
+   "id": "e8aa5c1d26878c11c2138aa362a9d46a535ce584",
+   "title": "Microsoft’s X account hacked in crypto pump-and-dump scheme",
+   "url": "https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme",
    "source": "BleepingComputer",
    "org": [
     "microsoft"
    ],
    "topic": "security",
-   "tldr": "Microsoft announced that Windows settings backup and restore is now enabled by default on all Microsoft Entra-joined or Microsoft Entra hybrid-joined enterprise systems upgraded to Windows 11 26H2.",
-   "published": "2026-10-01T11:14:28.000Z",
+   "tldr": "On Thursday, unknown attackers hijacked the official Microsoft account on X, which has over 13 million followers, in what appeared to be a pump-and-dump scheme promoting a crypto token.",
+   "published": "2026-10-02T09:29:56.000Z",
    "dupes": 1,
-   "score": 0.49,
+   "score": 0.484,
    "tier": 3
   },
   {
@@ -586,7 +511,37 @@
    "tldr": "NASA isn't saying much.  The problem may be temporary.",
    "published": "2026-09-28T16:03:50.000Z",
    "dupes": 1,
-   "score": 0.477,
+   "score": 0.476,
+   "tier": 3
+  },
+  {
+   "id": "0e48fe7d5b76af18af66700cbe34e53c1a367a41",
+   "title": "Microsoft says threat actors are ahead in the early AI race",
+   "url": "https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race",
+   "source": "BleepingComputer",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "security",
+   "tldr": "Microsoft says cyberattackers are currently benefiting from artificial intelligence faster than defenders, allowing threat actors to speed up vulnerability discovery, malware development, and post-compromise activity…",
+   "published": "2026-10-01T19:32:47.000Z",
+   "dupes": 1,
+   "score": 0.468,
+   "tier": 3
+  },
+  {
+   "id": "433216dbf590c11071bb406b74a49b1792876253",
+   "title": "Microsoft enables Windows settings backup by default for orgs",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-settings-backup-by-default-for-orgs",
+   "source": "BleepingComputer",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "security",
+   "tldr": "Microsoft announced that Windows settings backup and restore is now enabled by default on all Microsoft Entra-joined or Microsoft Entra hybrid-joined enterprise systems upgraded to Windows 11 26H2.",
+   "published": "2026-10-01T11:14:28.000Z",
+   "dupes": 1,
+   "score": 0.461,
    "tier": 3
   },
   {
@@ -601,7 +556,7 @@
    "tldr": "RUN researchers traced a US-focused CSuite phishing campaign across 351 sandbox analyses, with 51% of submissions coming from the United States.  Technology, manufacturing, government, and consulting organizations…",
    "published": "2026-09-30T10:45:00.000Z",
    "dupes": 1,
-   "score": 0.466,
+   "score": 0.439,
    "tier": 3
   },
   {
@@ -616,7 +571,7 @@
    "tldr": "The threat actor known as JADEPUFFER has been observed orchestrating destructive actions within a Microsoft Azure environment using compromised service principals.  Microsoft, which is tracking the activity under the…",
    "published": "2026-09-28T09:08:21.000Z",
    "dupes": 1,
-   "score": 0.452,
+   "score": 0.425,
    "tier": 3
   },
   {
@@ -632,7 +587,35 @@
    "tldr": "Blue Origin seeks FAA approval for up to 50 New Glenn launches and 50 booster landings per year.",
    "published": "2026-10-02T13:54:34.000Z",
    "dupes": 1,
-   "score": 0.416,
+   "score": 0.394,
+   "tier": 3
+  },
+  {
+   "id": "1787a1140b4f924ef360f6fd77ddb9d79a9b6a10",
+   "title": "Google Rolls Out Gemini 4 Argon to Trusted Cyber Defenders, Plans Guardrail-Free Version",
+   "url": "https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html",
+   "source": "The Hacker News",
+   "org": [
+    "google"
+   ],
+   "topic": "security",
+   "tldr": "Google on Wednesday announced its latest frontier artificial intelligence (AI) model, Gemini 4 Argon, that it said is being rolled out to a set of trusted cyber defenders through its Fairwind Program.",
+   "published": "2026-10-01T07:49:36.000Z",
+   "dupes": 1,
+   "score": 0.39,
+   "tier": 3
+  },
+  {
+   "id": "105cd8d4a6e7d0bc06b929ba6e1a31dc1343bb3c",
+   "title": "Danish university DTU breach exposes data of up to 200,000 people",
+   "url": "https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people",
+   "source": "BleepingComputer",
+   "org": [],
+   "topic": "security",
+   "tldr": "The Technical University of Denmark (DTU) says information belonging to up to 200,000 users may have been exposed after hackers accessed its identity and access management system and downloaded a large amount of data.",
+   "published": "2026-10-03T14:35:20.000Z",
+   "dupes": 1,
+   "score": 0.384,
    "tier": 3
   },
   {
@@ -647,7 +630,7 @@
    "tldr": "Xbox CEO Asha Sharma has pushed back on speculation that Microsoft could spin off its games division, telling the New York Times : \"Xbox is not for sale.\" Read more",
    "published": "2026-09-30T17:43:08.000Z",
    "dupes": 1,
-   "score": 0.405,
+   "score": 0.382,
    "tier": 3
   },
   {
@@ -662,7 +645,35 @@
    "tldr": "With Crew-13, Jessica Watkins became the first Black woman to lead a mission into space.",
    "published": "2026-10-01T22:07:33.000Z",
    "dupes": 1,
-   "score": 0.396,
+   "score": 0.376,
+   "tier": 3
+  },
+  {
+   "id": "ae75203c7827634ccc4f23a8e40d06cf5f9aba67",
+   "title": "Google seemingly confirms plans to kill ChromeOS in 2034",
+   "url": "https://arstechnica.com/gadgets/2026/09/google-seemingly-confirms-plans-to-kill-chromeos-in-2034",
+   "source": "Ars Technica · Gadgets",
+   "org": [
+    "google"
+   ],
+   "topic": "compute",
+   "tldr": "Google support maps out how Googlebooks can take over where ChromeOS left off.",
+   "published": "2026-09-28T18:04:59.000Z",
+   "dupes": 1,
+   "score": 0.374,
+   "tier": 3
+  },
+  {
+   "id": "fd447d5ccac23652fbaa0b09f725a4cd3b5b3e66",
+   "title": "The dawn of the age of the exoskeleton",
+   "url": "https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton",
+   "source": "Ars Technica · Gadgets",
+   "org": [],
+   "topic": "compute",
+   "tldr": "The devices continue to show noticeable benefits for users in various real-world tasks.",
+   "published": "2026-10-03T11:15:33.000Z",
+   "dupes": 1,
+   "score": 0.368,
    "tier": 3
   },
   {
@@ -677,7 +688,20 @@
    "tldr": "The CEO of Microsoft, Satya Nadella, has said that the company's Xbox division needs to \"invent\" the correct \"sustainable business model\" to allow it to reach more and more people with its games.",
    "published": "2026-09-28T09:05:32.000Z",
    "dupes": 1,
-   "score": 0.39,
+   "score": 0.368,
+   "tier": 3
+  },
+  {
+   "id": "8d58d390d39a9088e94c51f66f4dca88295d484a",
+   "title": "The physical AI race will be won in the patent office",
+   "url": "https://www.therobotreport.com/physical-ai-race-will-be-won-in-patent-office",
+   "source": "The Robot Report",
+   "org": [],
+   "topic": "robotics",
+   "tldr": "Patent protection is important for robotics startups, but they should be strategic in determining what IP is important, says Lightbringer.  The post The physical AI race will be won in the patent office appeared first…",
+   "published": "2026-10-03T14:30:07.000Z",
+   "dupes": 1,
+   "score": 0.364,
    "tier": 3
   },
   {
@@ -690,7 +714,7 @@
    "tldr": "Amazon praised for ending NDAs but slammed for downplaying data center pollution.",
    "published": "2026-10-02T20:30:27.000Z",
    "dupes": 1,
-   "score": 0.34,
+   "score": 0.326,
    "tier": 3
   },
   {
@@ -703,7 +727,7 @@
    "tldr": "In mobile robotics, software, safety, and fleet management are becoming just as important as the robot itself, according to an OMROM project manager.  The post Inside Omron’s next-generation LD mobile robots appeared…",
    "published": "2026-10-02T23:01:36.000Z",
    "dupes": 1,
-   "score": 0.317,
+   "score": 0.303,
    "tier": 3
   },
   {
@@ -716,20 +740,7 @@
    "tldr": "Bonus: Every Electric’s batteries are beloved by household cats.",
    "published": "2026-10-02T17:20:21.000Z",
    "dupes": 1,
-   "score": 0.313,
-   "tier": 3
-  },
-  {
-   "id": "b20c1290dc12eac7cc13d51764f2bb5e16323b55",
-   "title": "Eli Lilly, Purdue to share field learnings on human robot interaction at RoboBusiness",
-   "url": "https://www.therobotreport.com/eli-lilly-purdue-to-share-field-learnings-on-human-robot-interaction-at-robobusiness",
-   "source": "The Robot Report",
-   "org": [],
-   "topic": "robotics",
-   "tldr": "Experts from Eli Lilly and Purdue University will reveal findings about the perception of robots on the manufacturing floor.  The post Eli Lilly, Purdue to share field learnings on human robot interaction at…",
-   "published": "2026-10-02T21:12:14.000Z",
-   "dupes": 1,
-   "score": 0.31,
+   "score": 0.3,
    "tier": 3
   },
   {
@@ -742,20 +753,20 @@
    "tldr": "biz HR Summit.  The awards were generously sponsored by Amiqus, Playground Games, IO Interactive, Games London and Special Effect.",
    "published": "2026-10-02T14:55:28.000Z",
    "dupes": 2,
-   "score": 0.308,
+   "score": 0.298,
    "tier": 3
   },
   {
-   "id": "7152beea464bad6872b53d9f485efb5d15653385",
-   "title": "Runway introduces Praxis-1 world action model for robotics",
-   "url": "https://www.therobotreport.com/runway-introduces-praxis-1-world-action-model-robotics",
+   "id": "b20c1290dc12eac7cc13d51764f2bb5e16323b55",
+   "title": "Eli Lilly, Purdue to share field learnings on human robot interaction at RoboBusiness",
+   "url": "https://www.therobotreport.com/eli-lilly-purdue-to-share-field-learnings-on-human-robot-interaction-at-robobusiness",
    "source": "The Robot Report",
    "org": [],
    "topic": "robotics",
-   "tldr": "When Runway does release Praxis-1 publicly, it plans to ship it with open weights rather than as a closed model.  The post Runway introduces Praxis-1 world action model for robotics appeared first on The Robot Report .",
-   "published": "2026-10-02T18:32:13.000Z",
+   "tldr": "Experts from Eli Lilly and Purdue University will reveal findings about the perception of robots on the manufacturing floor.  The post Eli Lilly, Purdue to share field learnings on human robot interaction at…",
+   "published": "2026-10-02T21:12:14.000Z",
    "dupes": 1,
-   "score": 0.301,
+   "score": 0.297,
    "tier": 3
   },
   {
@@ -768,7 +779,20 @@
    "tldr": "Week in images: 28 Sep - 2 Oct 2026 Discover our week through the lens",
    "published": "2026-10-02T13:10:00.000Z",
    "dupes": 1,
-   "score": 0.3,
+   "score": 0.288,
+   "tier": 3
+  },
+  {
+   "id": "7152beea464bad6872b53d9f485efb5d15653385",
+   "title": "Runway introduces Praxis-1 world action model for robotics",
+   "url": "https://www.therobotreport.com/runway-introduces-praxis-1-world-action-model-robotics",
+   "source": "The Robot Report",
+   "org": [],
+   "topic": "robotics",
+   "tldr": "When Runway does release Praxis-1 publicly, it plans to ship it with open weights rather than as a closed model.  The post Runway introduces Praxis-1 world action model for robotics appeared first on The Robot Report .",
+   "published": "2026-10-02T18:32:13.000Z",
+   "dupes": 1,
+   "score": 0.288,
    "tier": 3
   },
   {
@@ -781,22 +805,7 @@
    "tldr": "A newer program has been operational since 2011, and the next generation could launch within 12 months.",
    "published": "2026-10-02T17:32:14.000Z",
    "dupes": 1,
-   "score": 0.298,
-   "tier": 3
-  },
-  {
-   "id": "3c4d594bb41a9638771a5cc16ab60b8f6109590f",
-   "title": "TCL is right to question Samsung’s use of the term “Mini LED”",
-   "url": "https://arstechnica.com/gadgets/2026/10/tcl-is-right-to-question-samsungs-use-of-the-term-mini-led",
-   "source": "Ars Technica · Gadgets",
-   "org": [
-    "samsung"
-   ],
-   "topic": "compute",
-   "tldr": "Can it be Mini LED without a FALD backlight?",
-   "published": "2026-10-02T10:30:11.000Z",
-   "dupes": 1,
-   "score": 0.292,
+   "score": 0.285,
    "tier": 3
   },
   {
@@ -809,7 +818,7 @@
    "tldr": "Submit now to be part of the Robotics Startup Radar, which brings together some of the most promising robotics startups.  The post Calling robotics startups: Submissions for the 2026 Robotics Startup Radar close soon…",
    "published": "2026-10-02T14:00:59.000Z",
    "dupes": 1,
-   "score": 0.287,
+   "score": 0.276,
    "tier": 3
   },
   {
@@ -822,7 +831,7 @@
    "tldr": "biz HR Summit took place on October 1, and one topic that came up again and again at sessions throughout the day was generative AI and the impact it's having on the workplace.",
    "published": "2026-10-02T14:29:12.000Z",
    "dupes": 1,
-   "score": 0.262,
+   "score": 0.252,
    "tier": 3
   },
   {
@@ -835,7 +844,7 @@
    "tldr": "Bungie co-founder Jason Jones and Destiny 2 narrative director Margaret Stohl have launched a new transmedia studio called Stone Kite.",
    "published": "2026-10-02T13:54:44.000Z",
    "dupes": 1,
-   "score": 0.261,
+   "score": 0.251,
    "tier": 3
   },
   {
@@ -848,7 +857,7 @@
    "tldr": "Reigns and Card Shark developer Nerial has announced its closure as it enters \"hibernation mode.\" Read more",
    "published": "2026-10-02T11:19:13.000Z",
    "dupes": 1,
-   "score": 0.254,
+   "score": 0.245,
    "tier": 3
   },
   {
@@ -863,7 +872,7 @@
    "tldr": "Boston Dynamics engineers taped their pinkies and ring fingers together for a day to learn what they weren’t able to do.  The post Boston Dynamics drops pinkie on new humanoid hand appeared first on The Robot Report .",
    "published": "2026-10-01T17:52:51.000Z",
    "dupes": 1,
-   "score": 0.239,
+   "score": 0.232,
    "tier": 3
   },
   {
@@ -876,7 +885,7 @@
    "tldr": "As humanoid robots move from research labs into factories, warehouses, homes, and other shared spaces, accurate physical feedback becomes crucial.  The post Precision In Motion.",
    "published": "2026-10-01T15:29:55.000Z",
    "dupes": 1,
-   "score": 0.235,
+   "score": 0.228,
    "tier": 3
   },
   {
@@ -889,7 +898,7 @@
    "tldr": "A robot can follow its safety rules and still act on manipulated information.  See what this means for robot safety and how teams can strengthen their testing and evidence.",
    "published": "2026-10-01T15:02:19.000Z",
    "dupes": 1,
-   "score": 0.234,
+   "score": 0.227,
    "tier": 3
   },
   {
@@ -902,7 +911,7 @@
    "tldr": "With the $100 million it raised earlier this month, Maven Robotics is looking towards mass producing its mobile manipulator robot.  The post How Maven Robotics plans to automate industrial work, one task at a time…",
    "published": "2026-10-01T12:30:39.000Z",
    "dupes": 1,
-   "score": 0.23,
+   "score": 0.223,
    "tier": 3
   },
   {
@@ -915,7 +924,7 @@
    "tldr": "ANYbotics designed Shift to help maintenance teams run industrial inspections, detect failing equipment, and turn data into work orders.  The post ANYbotics launches Shift to streamline robot fleet operations, scale…",
    "published": "2026-10-01T07:59:59.000Z",
    "dupes": 1,
-   "score": 0.223,
+   "score": 0.217,
    "tier": 3
   },
   {
@@ -928,7 +937,7 @@
    "tldr": "The initiative for engineers includes a news desk, a conference, research, and an advisory board, grounded in trusted editorial brands.  The post The Robot Report parent Arrowfly launches AI for Engineers platform,…",
    "published": "2026-09-30T14:03:31.000Z",
    "dupes": 1,
-   "score": 0.201,
+   "score": 0.197,
    "tier": 3
   },
   {
@@ -941,20 +950,7 @@
    "tldr": "Innodata uses Vicon cameras to measure movements with sub-millimeter accuracy and to collect real-world training data for robots.  The post Innodata opens motion-capture lab to help humanoids move more like people…",
    "published": "2026-09-30T12:59:12.000Z",
    "dupes": 1,
-   "score": 0.2,
-   "tier": 3
-  },
-  {
-   "id": "75e95b29de6e923ddca3d87de5d0c5ae00184e45",
-   "title": "Tackling construction labor shortages: ASI and SoftBank partner on autonomous fleets",
-   "url": "https://www.therobotreport.com/tackling-construction-labor-shortages-asi-softbank-partner-autonomous-fleets",
-   "source": "The Robot Report",
-   "org": [],
-   "topic": "robotics",
-   "tldr": "ASI and SoftBank join forces with $225M to scale brand-agnostic autonomous heavy equipment across infrastructure projects.  The post Tackling construction labor shortages: ASI and SoftBank partner on autonomous fleets…",
-   "published": "2026-09-30T12:30:17.000Z",
-   "dupes": 1,
-   "score": 0.2,
+   "score": 0.196,
    "tier": 3
   }
  ]
