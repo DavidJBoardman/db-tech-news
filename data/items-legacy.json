@@ -1,6 +1,34 @@
 {
- "generated": "2026-10-03T18:45:54.174Z",
+ "generated": "2026-10-03T21:56:36.115Z",
  "items": [
+  {
+   "id": "fc994d69ad09d9fe606a29c733bdd1a093f98374",
+   "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+   "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
+   "source": "Hacker News",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-10-03T18:29:30.000Z",
+   "dupes": 1,
+   "score": 0.536,
+   "tier": 1
+  },
+  {
+   "id": "970fe36e94cb40b93e5fd373ed19718eb389b93f",
+   "title": "Vx – One Language, Every Chip",
+   "url": "https://vxlang.org/",
+   "source": "Hacker News",
+   "org": [],
+   "topic": "compute",
+   "tldr": "",
+   "published": "2026-10-03T17:23:20.000Z",
+   "dupes": 1,
+   "score": 0.51,
+   "tier": 2
+  },
   {
    "id": "91c2390ce603b2e9cae996744deb8751df70c722",
    "title": "An OpenAI safety employee has quit and is sounding the alarm",
@@ -13,8 +41,8 @@
    "tldr": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI.  This week, he resigned from his position and is now speaking out in an editorial in The Atlantic.",
    "published": "2026-10-03T14:31:56.000Z",
    "dupes": 1,
-   "score": 0.497,
-   "tier": 1
+   "score": 0.463,
+   "tier": 2
   },
   {
    "id": "f971099ae709779368ae735047ef266d3e2d0338",
@@ -28,7 +56,7 @@
    "tldr": "",
    "published": "2026-10-03T08:40:38.000Z",
    "dupes": 1,
-   "score": 0.441,
+   "score": 0.413,
    "tier": 2
   },
   {
@@ -43,7 +71,7 @@
    "tldr": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
    "published": "2026-10-02T16:15:00.000Z",
    "dupes": 1,
-   "score": 0.426,
+   "score": 0.412,
    "tier": 2
   },
   {
@@ -58,7 +86,7 @@
    "tldr": "",
    "published": "2026-10-02T03:11:20.000Z",
    "dupes": 1,
-   "score": 0.414,
+   "score": 0.405,
    "tier": 2
   },
   {
@@ -73,7 +101,7 @@
    "tldr": "Mobile Systems",
    "published": "2026-10-02T14:57:41.000Z",
    "dupes": 1,
-   "score": 0.395,
+   "score": 0.381,
    "tier": 2
   },
   {
@@ -88,7 +116,7 @@
    "tldr": "Local AI is becoming more useful by the token.  As AI agents move from experiments into everyday development, increasingly capable open models are shrinking to fit on more devices, giving builders more to run locally.",
    "published": "2026-10-02T13:00:39.000Z",
    "dupes": 1,
-   "score": 0.386,
+   "score": 0.373,
    "tier": 2
   },
   {
@@ -101,7 +129,7 @@
    "tldr": "",
    "published": "2026-10-02T15:19:50.000Z",
    "dupes": 1,
-   "score": 0.384,
+   "score": 0.37,
    "tier": 2
   },
   {
@@ -116,7 +144,7 @@
    "tldr": "",
    "published": "2026-10-02T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.367,
+   "score": 0.36,
    "tier": 2
   },
   {
@@ -131,22 +159,7 @@
    "tldr": "6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
    "published": "2026-10-02T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.367,
-   "tier": 2
-  },
-  {
-   "id": "c0a74765cc53d7bd62464407a196ced079bf1514",
-   "title": "Meta open sources code to let you make Muse AI gadgets",
-   "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
-   "source": "The Verge AI",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced.",
-   "published": "2026-10-02T21:08:37.000Z",
-   "dupes": 1,
-   "score": 0.352,
+   "score": 0.36,
    "tier": 2
   },
   {
@@ -161,7 +174,7 @@
    "tldr": "Advanced AI may matter most for the routine work behind breakthrough ideas.  Explore why execution could shape the next economy and the pace of progress.",
    "published": "2026-10-01T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.351,
+   "score": 0.346,
    "tier": 2
   },
   {
@@ -176,8 +189,23 @@
    "tldr": "Albertsons Cos.  is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
    "published": "2026-10-01T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.35,
+   "score": 0.344,
    "tier": 2
+  },
+  {
+   "id": "c0a74765cc53d7bd62464407a196ced079bf1514",
+   "title": "Meta open sources code to let you make Muse AI gadgets",
+   "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+   "source": "The Verge AI",
+   "org": [
+    "meta"
+   ],
+   "topic": "ai",
+   "tldr": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced.",
+   "published": "2026-10-02T21:08:37.000Z",
+   "dupes": 1,
+   "score": 0.335,
+   "tier": 3
   },
   {
    "id": "9128069ece23e43b9f4b5ca895fde9a90207ada9",
@@ -192,8 +220,8 @@
    "tldr": "GPT-6 Astra Ultrafast, running on NVIDIA Blackwell GPUs, is available now in the OpenAI API and to eligible ChatGPT Work and Codex users.  Accelerated by inference optimizations through OpenAI’s models that tap into the…",
    "published": "2026-10-01T23:44:13.000Z",
    "dupes": 1,
-   "score": 0.342,
-   "tier": 2
+   "score": 0.334,
+   "tier": 3
   },
   {
    "id": "a885ed61f54a415a08d1866acde4d0ebc6368a44",
@@ -205,22 +233,7 @@
    "tldr": "",
    "published": "2026-10-02T04:01:31.000Z",
    "dupes": 1,
-   "score": 0.341,
-   "tier": 3
-  },
-  {
-   "id": "5028b5fce3747e84c2f5a32b9d8efd3c223c6101",
-   "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "It's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding.  But unlike the ultra-approachable Meta Muse, Dots feel very much like using workplace…",
-   "published": "2026-10-02T18:00:00.000Z",
-   "dupes": 1,
-   "score": 0.335,
+   "score": 0.332,
    "tier": 3
   },
   {
@@ -235,7 +248,7 @@
    "tldr": "",
    "published": "2026-10-01T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.327,
+   "score": 0.324,
    "tier": 3
   },
   {
@@ -250,7 +263,7 @@
    "tldr": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
    "published": "2026-10-01T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.327,
+   "score": 0.324,
    "tier": 3
   },
   {
@@ -265,7 +278,22 @@
    "tldr": "",
    "published": "2026-09-30T20:01:45.000Z",
    "dupes": 1,
-   "score": 0.323,
+   "score": 0.32,
+   "tier": 3
+  },
+  {
+   "id": "5028b5fce3747e84c2f5a32b9d8efd3c223c6101",
+   "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+   "source": "The Verge AI",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "It's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding.  But unlike the ultra-approachable Meta Muse, Dots feel very much like using workplace…",
+   "published": "2026-10-02T18:00:00.000Z",
+   "dupes": 1,
+   "score": 0.319,
    "tier": 3
   },
   {
@@ -280,37 +308,7 @@
    "tldr": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
    "published": "2026-09-30T15:03:07.000Z",
    "dupes": 1,
-   "score": 0.319,
-   "tier": 3
-  },
-  {
-   "id": "7b8f1a5082f97b794589006f9f3fe4d8deafa3e0",
-   "title": "Fall Into 25 New Games on GeForce NOW This October",
-   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-october-2026-games-list",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Spooky season is streaming in.  Alongside falling leaves, pumpkin spice and everything nice, 25 new games are joining GeForce NOW throughout October, including six ready to play this week.",
-   "published": "2026-10-01T13:00:54.000Z",
-   "dupes": 1,
-   "score": 0.319,
-   "tier": 3
-  },
-  {
-   "id": "326e46109846299bb8c9c22254cc12ff6a99ee6a",
-   "title": "Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment",
-   "url": "https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "AI factories are built by the megawatt, even by the gigawatt.  Each megawatt factory costs roughly $60 million, and AI factory operators will only commit capital on that scale with a clear view of the return on…",
-   "published": "2026-10-01T13:00:49.000Z",
-   "dupes": 1,
-   "score": 0.319,
+   "score": 0.317,
    "tier": 3
   },
   {
@@ -325,7 +323,7 @@
    "tldr": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
    "published": "2026-09-30T10:30:00.000Z",
    "dupes": 1,
-   "score": 0.316,
+   "score": 0.314,
    "tier": 3
   },
   {
@@ -340,20 +338,37 @@
    "tldr": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
    "published": "2026-09-30T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.316,
+   "score": 0.314,
    "tier": 3
   },
   {
-   "id": "f829ccaecea00650b0aadce3b81dddc1a8180407",
-   "title": "If a data center is camouflaged in the woods, will anyone hate it?",
-   "url": "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry",
-   "source": "The Verge AI",
-   "org": [],
+   "id": "7b8f1a5082f97b794589006f9f3fe4d8deafa3e0",
+   "title": "Fall Into 25 New Games on GeForce NOW This October",
+   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-october-2026-games-list",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
    "topic": "compute",
-   "tldr": "San Antonio City Councilmember Ric Galvan remembers when data centers first arrived in his city in the 2000s, looking like relatively unassuming office buildings.  But that's changed in recent years, as data centers…",
-   "published": "2026-10-02T12:00:00.000Z",
+   "tldr": "Spooky season is streaming in.  Alongside falling leaves, pumpkin spice and everything nice, 25 new games are joining GeForce NOW throughout October, including six ready to play this week.",
+   "published": "2026-10-01T13:00:54.000Z",
    "dupes": 1,
-   "score": 0.307,
+   "score": 0.314,
+   "tier": 3
+  },
+  {
+   "id": "326e46109846299bb8c9c22254cc12ff6a99ee6a",
+   "title": "Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment",
+   "url": "https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "AI factories are built by the megawatt, even by the gigawatt.  Each megawatt factory costs roughly $60 million, and AI factory operators will only commit capital on that scale with a clear view of the return on…",
+   "published": "2026-10-01T13:00:49.000Z",
+   "dupes": 1,
+   "score": 0.314,
    "tier": 3
   },
   {
@@ -368,7 +383,7 @@
    "tldr": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
    "published": "2026-09-29T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.306,
+   "score": 0.305,
    "tier": 3
   },
   {
@@ -383,7 +398,7 @@
    "tldr": "1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
    "published": "2026-09-29T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.306,
+   "score": 0.305,
    "tier": 3
   },
   {
@@ -458,7 +473,7 @@
    "tldr": "6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
    "published": "2026-09-28T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.302,
+   "score": 0.301,
    "tier": 3
   },
   {
@@ -473,37 +488,20 @@
    "tldr": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things.  If you want to be a part of the next chapter of the Codex Originals program, tell us more…",
    "published": "2026-09-28T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.302,
+   "score": 0.301,
    "tier": 3
   },
   {
-   "id": "13846157201a6e18da5f52ff21c5396ac01f446f",
-   "title": "Microsoft 365 and LinkedIn leadership update",
-   "url": "https://blogs.microsoft.com/blog/2026/10/01/microsoft-365-and-linkedin-leadership-update",
-   "source": "Microsoft Blog",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "Satya Nadella, Chairman and CEO, and Ryan Roslansky, Executive Vice President of LinkedIn and Microsoft 365, shared the below communications with Microsoft and LinkedIn employees this morning.  SATYA NADELLA MESSAGE…",
-   "published": "2026-10-01T15:03:27.000Z",
+   "id": "f829ccaecea00650b0aadce3b81dddc1a8180407",
+   "title": "If a data center is camouflaged in the woods, will anyone hate it?",
+   "url": "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry",
+   "source": "The Verge AI",
+   "org": [],
+   "topic": "compute",
+   "tldr": "San Antonio City Councilmember Ric Galvan remembers when data centers first arrived in his city in the 2000s, looking like relatively unassuming office buildings.  But that's changed in recent years, as data centers…",
+   "published": "2026-10-02T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.298,
-   "tier": 3
-  },
-  {
-   "id": "4e55e8317825e60494f70eea9899d58b0d901e27",
-   "title": "Announcing Ranveer Singh as Brand Ambassador for Ray-Ban and Ray-Ban Meta in India along with Exciting New Updates to our AI Glasses",
-   "url": "https://about.fb.com/news/2026/10/announcing-ranveer-singh-as-brand-ambassador-for-ray-ban-and-ray-ban-meta-in-india-along-with-exciting-new-updates-to-our-ai-glasses",
-   "source": "Meta Newsroom",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "Ranveer Singh becomes the first Brand Ambassador for Ray-Ban and Ray-Ban Meta in India.  The post Announcing Ranveer Singh as Brand Ambassador for Ray-Ban and Ray-Ban Meta in India along with Exciting New Updates to our…",
-   "published": "2026-10-01T14:16:04.000Z",
-   "dupes": 1,
-   "score": 0.296,
+   "score": 0.295,
    "tier": 3
   },
   {
@@ -518,7 +516,7 @@
    "tldr": "Bringing together the world’s brightest minds and the latest accelerated computing technology leads to powerful breakthroughs that help tackle some of the biggest research problems.  To foster such innovation, the…",
    "published": "2026-09-30T17:00:21.000Z",
    "dupes": 1,
-   "score": 0.295,
+   "score": 0.293,
    "tier": 3
   },
   {
@@ -533,7 +531,37 @@
    "tldr": "Building on nearly a decade of co-engineering, CoreWeave has built NVIDIA compute, networking and software into a cloud purpose-built for AI that’s still returning on investment across multiple generations of…",
    "published": "2026-09-30T15:00:00.000Z",
    "dupes": 1,
-   "score": 0.294,
+   "score": 0.292,
+   "tier": 3
+  },
+  {
+   "id": "13846157201a6e18da5f52ff21c5396ac01f446f",
+   "title": "Microsoft 365 and LinkedIn leadership update",
+   "url": "https://blogs.microsoft.com/blog/2026/10/01/microsoft-365-and-linkedin-leadership-update",
+   "source": "Microsoft Blog",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "Satya Nadella, Chairman and CEO, and Ryan Roslansky, Executive Vice President of LinkedIn and Microsoft 365, shared the below communications with Microsoft and LinkedIn employees this morning.  SATYA NADELLA MESSAGE…",
+   "published": "2026-10-01T15:03:27.000Z",
+   "dupes": 1,
+   "score": 0.292,
+   "tier": 3
+  },
+  {
+   "id": "4e55e8317825e60494f70eea9899d58b0d901e27",
+   "title": "Announcing Ranveer Singh as Brand Ambassador for Ray-Ban and Ray-Ban Meta in India along with Exciting New Updates to our AI Glasses",
+   "url": "https://about.fb.com/news/2026/10/announcing-ranveer-singh-as-brand-ambassador-for-ray-ban-and-ray-ban-meta-in-india-along-with-exciting-new-updates-to-our-ai-glasses",
+   "source": "Meta Newsroom",
+   "org": [
+    "meta"
+   ],
+   "topic": "ai",
+   "tldr": "Ranveer Singh becomes the first Brand Ambassador for Ray-Ban and Ray-Ban Meta in India.  The post Announcing Ranveer Singh as Brand Ambassador for Ray-Ban and Ray-Ban Meta in India along with Exciting New Updates to our…",
+   "published": "2026-10-01T14:16:04.000Z",
+   "dupes": 1,
+   "score": 0.291,
    "tier": 3
   },
   {
@@ -548,7 +576,7 @@
    "tldr": "Algorithms & Theory",
    "published": "2026-09-29T18:38:27.000Z",
    "dupes": 1,
-   "score": 0.284,
+   "score": 0.283,
    "tier": 3
   },
   {
@@ -563,7 +591,7 @@
    "tldr": "Extreme space-weather events can damage power systems on Earth and degrade GPS accuracy and satellite operations.  A new machine learning system can predict where damage is likely to occur 30-60 minutes before a storm…",
    "published": "2026-09-30T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.282,
+   "score": 0.28,
    "tier": 3
   },
   {
@@ -576,7 +604,7 @@
    "tldr": "",
    "published": "2026-09-30T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.273,
+   "score": 0.272,
    "tier": 3
   },
   {
@@ -594,7 +622,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.27,
+   "score": 0.269,
    "tier": 3
   },
   {
@@ -609,7 +637,7 @@
    "tldr": "",
    "published": "2026-09-29T15:30:38.000Z",
    "dupes": 1,
-   "score": 0.27,
+   "score": 0.269,
    "tier": 3
   },
   {
