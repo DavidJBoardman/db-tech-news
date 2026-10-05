@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-05T02:12:26.091Z",
+ "generated": "2026-10-05T09:21:40.788Z",
  "items": [
   {
    "id": "71b92d7d124804e826ae9850830a356ceef5cc18",
@@ -15,8 +15,8 @@
    "badges": [
     "oss"
    ],
-   "dupes": 1,
-   "score": 0.667,
+   "dupes": 2,
+   "score": 0.647,
    "tier": 1
   },
   {
@@ -31,7 +31,7 @@
    "tldr": "",
    "published": "2026-10-04T19:37:05.000Z",
    "dupes": 1,
-   "score": 0.665,
+   "score": 0.597,
    "tier": 2
   },
   {
@@ -49,7 +49,7 @@
     "model"
    ],
    "dupes": 1,
-   "score": 0.651,
+   "score": 0.579,
    "tier": 2
   },
   {
@@ -64,67 +64,7 @@
    "tldr": "Google's Gemini could soon access any file on your macOS device, open apps, browse the web, and perform actions without asking for permission every time.",
    "published": "2026-10-03T23:12:34.000Z",
    "dupes": 1,
-   "score": 0.605,
-   "tier": 2
-  },
-  {
-   "id": "f143fce070e10faaa5ef865cec65fdaa7c95016b",
-   "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-   "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken",
-   "source": "TechCrunch",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
-   "published": "2026-10-03T16:30:01.000Z",
-   "dupes": 1,
-   "score": 0.587,
-   "tier": 2
-  },
-  {
-   "id": "8e206c4d9ed6ea5b326e3f64cf71247a89bf9979",
-   "title": "A model guide for the GPT-6 family",
-   "url": "https://openai.com/index/practical-guide-building-gpt-6",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
-   "published": "2026-10-02T16:15:00.000Z",
-   "dupes": 1,
-   "score": 0.585,
-   "tier": 2
-  },
-  {
-   "id": "a70cd1e7aaeabe098919c12d4936ab35f795710f",
-   "title": "Mapping the Gaps in NASA’s Return to the Moon, featuring Richard Spolzino",
-   "url": "https://www.nasa.gov/general/mapping-the-gaps-in-nasas-return-to-the-moon-featuring-richard-spolzino",
-   "source": "NASA",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "’” That’s how Richard Spolzino describes the thing he’s chasing.  Not a title, not a specific mission, not even NASA itself, just the ability to point at something real and know his work made it possible.",
-   "published": "2026-10-04T19:10:59.000Z",
-   "dupes": 1,
-   "score": 0.583,
-   "tier": 2
-  },
-  {
-   "id": "a97398f76ee518bf736bd99bb5eae108305b51c5",
-   "title": "Chatham scales its capital markets expertise with OpenAI",
-   "url": "https://openai.com/index/chatham-financial",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
-   "published": "2026-10-02T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.567,
+   "score": 0.551,
    "tier": 2
   },
   {
@@ -139,7 +79,67 @@
    "tldr": "Mobile Systems",
    "published": "2026-10-02T14:57:41.000Z",
    "dupes": 1,
-   "score": 0.567,
+   "score": 0.548,
+   "tier": 2
+  },
+  {
+   "id": "311e095023e6d9fdea75b7af8141f43c4a663c77",
+   "title": "Gemini 4 Argon: our next era of frontier intelligence",
+   "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence",
+   "source": "Google DeepMind",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-30T20:01:45.000Z",
+   "dupes": 1,
+   "score": 0.545,
+   "tier": 2
+  },
+  {
+   "id": "396b95f3429cd00be03ab452f9bb2d2a88583950",
+   "title": "Introducing SynthID Bio",
+   "url": "https://deepmind.google/blog/introducing-synthid-bio",
+   "source": "Google DeepMind",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+   "published": "2026-09-30T15:03:07.000Z",
+   "dupes": 1,
+   "score": 0.543,
+   "tier": 2
+  },
+  {
+   "id": "8e206c4d9ed6ea5b326e3f64cf71247a89bf9979",
+   "title": "A model guide for the GPT-6 family",
+   "url": "https://openai.com/index/practical-guide-building-gpt-6",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+   "published": "2026-10-02T16:15:00.000Z",
+   "dupes": 1,
+   "score": 0.535,
+   "tier": 2
+  },
+  {
+   "id": "a97398f76ee518bf736bd99bb5eae108305b51c5",
+   "title": "Chatham scales its capital markets expertise with OpenAI",
+   "url": "https://openai.com/index/chatham-financial",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+   "published": "2026-10-02T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.527,
    "tier": 2
   },
   {
@@ -154,7 +154,7 @@
    "tldr": "Advanced AI may matter most for the routine work behind breakthrough ideas.  Explore why execution could shape the next economy and the pace of progress.",
    "published": "2026-10-01T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.561,
+   "score": 0.524,
    "tier": 2
   },
   {
@@ -169,22 +169,37 @@
    "tldr": "Albertsons Cos.  is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
    "published": "2026-10-01T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.56,
+   "score": 0.524,
    "tier": 2
   },
   {
-   "id": "91c2390ce603b2e9cae996744deb8751df70c722",
-   "title": "An OpenAI safety employee has quit and is sounding the alarm",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
-   "source": "The Verge AI",
+   "id": "f143fce070e10faaa5ef865cec65fdaa7c95016b",
+   "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+   "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken",
+   "source": "TechCrunch",
    "org": [
     "openai"
    ],
    "topic": "ai",
-   "tldr": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI.  This week, he resigned from his position and is now speaking out in an editorial in The Atlantic.",
-   "published": "2026-10-03T14:31:56.000Z",
+   "tldr": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+   "published": "2026-10-03T16:30:01.000Z",
    "dupes": 1,
-   "score": 0.552,
+   "score": 0.522,
+   "tier": 2
+  },
+  {
+   "id": "663c72fb0ad38118e860b0ffce879b2c69a92b42",
+   "title": "How Diffusion Controller unifies and simplifies AI image generation",
+   "url": "https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation",
+   "source": "Google Research",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Algorithms & Theory",
+   "published": "2026-09-29T18:38:27.000Z",
+   "dupes": 1,
+   "score": 0.521,
    "tier": 2
   },
   {
@@ -199,8 +214,8 @@
    "tldr": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
    "published": "2026-10-01T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.55,
-   "tier": 2
+   "score": 0.52,
+   "tier": 3
   },
   {
    "id": "9128069ece23e43b9f4b5ca895fde9a90207ada9",
@@ -215,52 +230,37 @@
    "tldr": "GPT-6 Astra Ultrafast, running on NVIDIA Blackwell GPUs, is available now in the OpenAI API and to eligible ChatGPT Work and Codex users.  Accelerated by inference optimizations through OpenAI’s models that tap into the…",
    "published": "2026-10-01T23:44:13.000Z",
    "dupes": 1,
-   "score": 0.55,
+   "score": 0.511,
    "tier": 3
   },
   {
-   "id": "311e095023e6d9fdea75b7af8141f43c4a663c77",
-   "title": "Gemini 4 Argon: our next era of frontier intelligence",
-   "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence",
-   "source": "Google DeepMind",
+   "id": "1787a1140b4f924ef360f6fd77ddb9d79a9b6a10",
+   "title": "Google Rolls Out Gemini 4 Argon to Trusted Cyber Defenders, Plans Guardrail-Free Version",
+   "url": "https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html",
+   "source": "The Hacker News",
    "org": [
     "google"
    ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-30T20:01:45.000Z",
+   "topic": "security",
+   "tldr": "Google on Wednesday announced its latest frontier artificial intelligence (AI) model, Gemini 4 Argon, that it said is being rolled out to a set of trusted cyber defenders through its Fairwind Program.",
+   "published": "2026-10-01T07:49:36.000Z",
    "dupes": 1,
-   "score": 0.548,
+   "score": 0.502,
    "tier": 3
   },
   {
-   "id": "396b95f3429cd00be03ab452f9bb2d2a88583950",
-   "title": "Introducing SynthID Bio",
-   "url": "https://deepmind.google/blog/introducing-synthid-bio",
-   "source": "Google DeepMind",
+   "id": "ae75203c7827634ccc4f23a8e40d06cf5f9aba67",
+   "title": "Google seemingly confirms plans to kill ChromeOS in 2034",
+   "url": "https://arstechnica.com/gadgets/2026/09/google-seemingly-confirms-plans-to-kill-chromeos-in-2034",
+   "source": "Ars Technica · Gadgets",
    "org": [
     "google"
    ],
-   "topic": "ai",
-   "tldr": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
-   "published": "2026-09-30T15:03:07.000Z",
+   "topic": "compute",
+   "tldr": "Google support maps out how Googlebooks can take over where ChromeOS left off.",
+   "published": "2026-09-28T18:04:59.000Z",
    "dupes": 1,
-   "score": 0.546,
-   "tier": 3
-  },
-  {
-   "id": "0e65ede8101bb185c712a874c0c67544dcf115ad",
-   "title": "Milt Windler, NASA flight director who helped save Apollo 13, dies at 94",
-   "url": "https://arstechnica.com/space/2026/10/milt-windler-nasa-flight-director-who-helped-save-apollo-13-dies-at-94",
-   "source": "Ars Technica",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "\"...we were making history.\"",
-   "published": "2026-10-03T19:45:17.000Z",
-   "dupes": 1,
-   "score": 0.537,
+   "score": 0.493,
    "tier": 3
   },
   {
@@ -275,98 +275,37 @@
    "tldr": "OpenAI has parted ways with three members of its safety team after they leaked private information in violation of company policies, The Wall Street Journal reported.  \"We have parted ways with three individuals for…",
    "published": "2026-10-02T12:23:15.000Z",
    "dupes": 1,
-   "score": 0.532,
+   "score": 0.485,
    "tier": 3
   },
   {
-   "id": "41ae9811694df68744b013461d46524145579329",
-   "title": "NASA Astronaut Christina Koch to Join NFL Fans in Philadelphia",
-   "url": "https://www.nasa.gov/news-release/nasa-astronaut-christina-koch-to-join-nfl-fans-in-philadelphia",
+   "id": "26cc36978970074fef377924a29c415ba8a91f0a",
+   "title": "RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims",
+   "url": "https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html",
+   "source": "The Hacker News",
+   "org": [
+    "google"
+   ],
+   "topic": "security",
+   "tldr": "RatHat's operators build and publish the Android banking trojan and control infected phones from a web console, according to security company Cleafy.  Cleafy has traced nearly 100 deployments of that console since April…",
+   "published": "2026-09-28T17:38:33.000Z",
+   "dupes": 1,
+   "score": 0.484,
+   "tier": 3
+  },
+  {
+   "id": "a70cd1e7aaeabe098919c12d4936ab35f795710f",
+   "title": "Mapping the Gaps in NASA’s Return to the Moon, featuring Richard Spolzino",
+   "url": "https://www.nasa.gov/general/mapping-the-gaps-in-nasas-return-to-the-moon-featuring-richard-spolzino",
    "source": "NASA",
    "org": [
     "nasa"
    ],
    "topic": "space",
-   "tldr": "As part of NASA’s ongoing Inspiration Tour, NASA astronaut Christina Koch will highlight America’s strengths in space exploration and aeronautics innovation at the Philadelphia Eagles vs.  Los Angeles Rams game in…",
-   "published": "2026-10-02T19:54:54.000Z",
+   "tldr": "’” That’s how Richard Spolzino describes the thing he’s chasing.  Not a title, not a specific mission, not even NASA itself, just the ability to point at something real and know his work made it possible.",
+   "published": "2026-10-04T19:10:59.000Z",
    "dupes": 1,
-   "score": 0.522,
-   "tier": 3
-  },
-  {
-   "id": "0fc66d89955fc8b43fb25207783dc790ed56a6ab",
-   "title": "Heading Home: NASA’s SpaceX Crew-12 Concludes Station Science Mission",
-   "url": "https://www.nasa.gov/missions/station/iss-research/heading-home-nasas-spacex-crew-12-concludes-station-science-mission",
-   "source": "NASA",
-   "org": [
-    "nasa",
-    "spacex"
-   ],
-   "topic": "space",
-   "tldr": "NASA’s SpaceX Crew-12 mission is ending, with the crew scheduled to return in early October.",
-   "published": "2026-10-02T19:30:00.000Z",
-   "dupes": 1,
-   "score": 0.522,
-   "tier": 3
-  },
-  {
-   "id": "edebbfcc7b929b31483f8882533f015bcbbc452e",
-   "title": "NASA’s DAVINCI Probe Can Stand the Heat",
-   "url": "https://www.nasa.gov/image-article/nasas-davinci-probe-can-stand-the-heat",
-   "source": "NASA",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "The engineering development unit for NASA’s DAVINCI (Deep Atmosphere Venus Investigation of Noble gases, Chemistry, and Imaging) probe is photographed prior to a major thermal evaluation.",
-   "published": "2026-10-02T19:00:36.000Z",
-   "dupes": 1,
-   "score": 0.521,
-   "tier": 3
-  },
-  {
-   "id": "aa07b198f299d2210be19a61303945681649a455",
-   "title": "La NASA abre solicitudes para próxima promoción de directores de vuelo",
-   "url": "https://www.nasa.gov/news-release/la-nasa-abre-solicitudes-para-proxima-promocion-de-directores-de-vuelo",
-   "source": "NASA",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "Lee esta nota de prensa en inglés aquí.  La NASA busca líderes para uno de los puestos más prestigiosos de la Tierra en el ámbito de los vuelos espaciales tripulados: director de vuelo en el control de misión del Centro…",
-   "published": "2026-10-02T16:36:25.000Z",
-   "dupes": 1,
-   "score": 0.52,
-   "tier": 3
-  },
-  {
-   "id": "2554c50cb06537b81d1129939dc1863627349f6f",
-   "title": "NASA Model Wing Lights Up During First Pressure Sensitive Paint Tests",
-   "url": "https://www.nasa.gov/centers-and-facilities/langley/nasa-model-wing-lights-up-during-first-pressure-sensitive-paint-tests",
-   "source": "NASA",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "Groundbreaking tests at NASA’s Langley Research Center in Hampton, Virginia, are paving the way for new wind tunnel capabilities for designing the aircraft technologies of the future.",
-   "published": "2026-10-02T16:10:55.000Z",
-   "dupes": 1,
-   "score": 0.52,
-   "tier": 3
-  },
-  {
-   "id": "01c2e89d13f2c8b7e1759732fb27211f1b40e706",
-   "title": "NASA Opens Applications for Next Class of Flight Directors",
-   "url": "https://www.nasa.gov/news-release/nasa-opens-applications-for-next-class-of-flight-directors",
-   "source": "NASA",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "NASA is seeking leaders for one of the most esteemed positions on Earth for human spaceflight: flight director in mission control at the agency’s Johnson Space Center in Houston.  This role is critical to advancing…",
-   "published": "2026-10-02T15:49:26.000Z",
-   "dupes": 1,
-   "score": 0.519,
+   "score": 0.477,
    "tier": 3
   },
   {
@@ -382,22 +321,7 @@
    "tldr": "OpenAI on Wednesday said it identified and disrupted a coordinated distillation campaign that was designed to illicitly extract protected reasoning from its artificial intelligence (AI) models.  A \"core cluster of the…",
    "published": "2026-10-01T10:42:36.000Z",
    "dupes": 1,
-   "score": 0.508,
-   "tier": 3
-  },
-  {
-   "id": "1787a1140b4f924ef360f6fd77ddb9d79a9b6a10",
-   "title": "Google Rolls Out Gemini 4 Argon to Trusted Cyber Defenders, Plans Guardrail-Free Version",
-   "url": "https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html",
-   "source": "The Hacker News",
-   "org": [
-    "google"
-   ],
-   "topic": "security",
-   "tldr": "Google on Wednesday announced its latest frontier artificial intelligence (AI) model, Gemini 4 Argon, that it said is being rolled out to a set of trusted cyber defenders through its Fairwind Program.",
-   "published": "2026-10-01T07:49:36.000Z",
-   "dupes": 1,
-   "score": 0.506,
+   "score": 0.474,
    "tier": 3
   },
   {
@@ -412,22 +336,7 @@
    "tldr": "Threat actors are abusing ChatGPT Custom GPTs to disguise them as legitimate product offerings and direct unsuspecting victims to malicious sites that employ ClickFix lures to deliver malware.  Huntress, which observed…",
    "published": "2026-09-30T15:00:15.000Z",
    "dupes": 1,
-   "score": 0.497,
-   "tier": 3
-  },
-  {
-   "id": "ae75203c7827634ccc4f23a8e40d06cf5f9aba67",
-   "title": "Google seemingly confirms plans to kill ChromeOS in 2034",
-   "url": "https://arstechnica.com/gadgets/2026/09/google-seemingly-confirms-plans-to-kill-chromeos-in-2034",
-   "source": "Ars Technica · Gadgets",
-   "org": [
-    "google"
-   ],
-   "topic": "compute",
-   "tldr": "Google support maps out how Googlebooks can take over where ChromeOS left off.",
-   "published": "2026-09-28T18:04:59.000Z",
-   "dupes": 1,
-   "score": 0.494,
+   "score": 0.47,
    "tier": 3
   },
   {
@@ -442,7 +351,7 @@
    "tldr": "1 Astra, a next-generation artificial intelligence (AI) model that was planned for an October launch, after it failed internal safety and alignment audits.  The development was first reported by The Wall Street Journal.",
    "published": "2026-09-29T05:12:32.000Z",
    "dupes": 1,
-   "score": 0.487,
+   "score": 0.465,
    "tier": 3
   },
   {
@@ -457,52 +366,83 @@
    "tldr": "OpenAI said it has made the decision to pause training of its most powerful models after one of its agents during reinforcement learning (RL) training contacted an external chatbot by exploiting a loophole in its…",
    "published": "2026-09-29T04:45:20.000Z",
    "dupes": 1,
-   "score": 0.487,
+   "score": 0.465,
    "tier": 3
   },
   {
-   "id": "26cc36978970074fef377924a29c415ba8a91f0a",
-   "title": "RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims",
-   "url": "https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html",
-   "source": "The Hacker News",
-   "org": [
-    "google"
-   ],
-   "topic": "security",
-   "tldr": "RatHat's operators build and publish the Android banking trojan and control infected phones from a web console, according to security company Cleafy.  Cleafy has traced nearly 100 deployments of that console since April…",
-   "published": "2026-09-28T17:38:33.000Z",
-   "dupes": 1,
-   "score": 0.485,
-   "tier": 3
-  },
-  {
-   "id": "9db158807542724c191297d42f98948e637b9407",
-   "title": "NASA has a Dragon dilemma, and there appear to be no good answers",
-   "url": "https://arstechnica.com/space/2026/09/nasa-has-a-dragon-dilemma-and-there-appear-to-be-no-good-answers",
-   "source": "Ars Technica · Space",
+   "id": "0e65ede8101bb185c712a874c0c67544dcf115ad",
+   "title": "Milt Windler, NASA flight director who helped save Apollo 13, dies at 94",
+   "url": "https://arstechnica.com/space/2026/10/milt-windler-nasa-flight-director-who-helped-save-apollo-13-dies-at-94",
+   "source": "Ars Technica",
    "org": [
     "nasa"
    ],
    "topic": "space",
-   "tldr": "So is SpaceX just being selfish or what?",
-   "published": "2026-09-29T18:34:00.000Z",
+   "tldr": "\"...we were making history.\"",
+   "published": "2026-10-03T19:45:17.000Z",
    "dupes": 1,
-   "score": 0.474,
+   "score": 0.437,
    "tier": 3
   },
   {
-   "id": "17799407ebad5b3a859fc8e9fb863f1d87bc87ee",
-   "title": "NASA 'troubleshooting' transporter for space station's robotic arm [Updated]",
-   "url": "https://arstechnica.com/space/2026/09/nasa-for-the-time-being-is-unable-to-move-the-space-stations-large-robotic-armthe-large-robotic-arm-on-the-international-space-station-has-stopped-working",
-   "source": "Ars Technica · Space",
+   "id": "41ae9811694df68744b013461d46524145579329",
+   "title": "NASA Astronaut Christina Koch to Join NFL Fans in Philadelphia",
+   "url": "https://www.nasa.gov/news-release/nasa-astronaut-christina-koch-to-join-nfl-fans-in-philadelphia",
+   "source": "NASA",
    "org": [
     "nasa"
    ],
    "topic": "space",
-   "tldr": "NASA isn't saying much.  The problem may be temporary.",
-   "published": "2026-09-28T16:03:50.000Z",
+   "tldr": "As part of NASA’s ongoing Inspiration Tour, NASA astronaut Christina Koch will highlight America’s strengths in space exploration and aeronautics innovation at the Philadelphia Eagles vs.  Los Angeles Rams game in…",
+   "published": "2026-10-02T19:54:54.000Z",
    "dupes": 1,
-   "score": 0.469,
+   "score": 0.425,
+   "tier": 3
+  },
+  {
+   "id": "0fc66d89955fc8b43fb25207783dc790ed56a6ab",
+   "title": "Heading Home: NASA’s SpaceX Crew-12 Concludes Station Science Mission",
+   "url": "https://www.nasa.gov/missions/station/iss-research/heading-home-nasas-spacex-crew-12-concludes-station-science-mission",
+   "source": "NASA",
+   "org": [
+    "nasa",
+    "spacex"
+   ],
+   "topic": "space",
+   "tldr": "NASA’s SpaceX Crew-12 mission is ending, with the crew scheduled to return in early October.",
+   "published": "2026-10-02T19:30:00.000Z",
+   "dupes": 1,
+   "score": 0.425,
+   "tier": 3
+  },
+  {
+   "id": "edebbfcc7b929b31483f8882533f015bcbbc452e",
+   "title": "NASA’s DAVINCI Probe Can Stand the Heat",
+   "url": "https://www.nasa.gov/image-article/nasas-davinci-probe-can-stand-the-heat",
+   "source": "NASA",
+   "org": [
+    "nasa"
+   ],
+   "topic": "space",
+   "tldr": "The engineering development unit for NASA’s DAVINCI (Deep Atmosphere Venus Investigation of Noble gases, Chemistry, and Imaging) probe is photographed prior to a major thermal evaluation.",
+   "published": "2026-10-02T19:00:36.000Z",
+   "dupes": 1,
+   "score": 0.425,
+   "tier": 3
+  },
+  {
+   "id": "aa07b198f299d2210be19a61303945681649a455",
+   "title": "La NASA abre solicitudes para próxima promoción de directores de vuelo",
+   "url": "https://www.nasa.gov/news-release/la-nasa-abre-solicitudes-para-proxima-promocion-de-directores-de-vuelo",
+   "source": "NASA",
+   "org": [
+    "nasa"
+   ],
+   "topic": "space",
+   "tldr": "Lee esta nota de prensa en inglés aquí.  La NASA busca líderes para uno de los puestos más prestigiosos de la Tierra en el ámbito de los vuelos espaciales tripulados: director de vuelo en el control de misión del Centro…",
+   "published": "2026-10-02T16:36:25.000Z",
+   "dupes": 1,
+   "score": 0.423,
    "tier": 3
   },
   {
@@ -517,7 +457,78 @@
    "tldr": "99.",
    "published": "2026-10-02T14:52:16.000Z",
    "dupes": 2,
-   "score": 0.422,
+   "score": 0.394,
+   "tier": 3
+  },
+  {
+   "id": "f62bffeddac90ed38388b2316fe50c1e6f4426dc",
+   "title": "Citrix patches NetScaler SAML zero-day exploited in attacks",
+   "url": "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks",
+   "source": "BleepingComputer",
+   "org": [],
+   "topic": "security",
+   "tldr": "Citrix has released emergency updates for a new NetScaler denial-of-service vulnerability tracked as CVE-2026-88779 that has been exploited in zero-day attacks, with researchers investigating whether it can also be…",
+   "published": "2026-10-04T21:58:01.000Z",
+   "dupes": 2,
+   "score": 0.391,
+   "tier": 3
+  },
+  {
+   "id": "9db158807542724c191297d42f98948e637b9407",
+   "title": "NASA has a Dragon dilemma, and there appear to be no good answers",
+   "url": "https://arstechnica.com/space/2026/09/nasa-has-a-dragon-dilemma-and-there-appear-to-be-no-good-answers",
+   "source": "Ars Technica · Space",
+   "org": [
+    "nasa"
+   ],
+   "topic": "space",
+   "tldr": "So is SpaceX just being selfish or what?",
+   "published": "2026-09-29T18:34:00.000Z",
+   "dupes": 1,
+   "score": 0.381,
+   "tier": 3
+  },
+  {
+   "id": "17799407ebad5b3a859fc8e9fb863f1d87bc87ee",
+   "title": "NASA 'troubleshooting' transporter for space station's robotic arm [Updated]",
+   "url": "https://arstechnica.com/space/2026/09/nasa-for-the-time-being-is-unable-to-move-the-space-stations-large-robotic-armthe-large-robotic-arm-on-the-international-space-station-has-stopped-working",
+   "source": "Ars Technica · Space",
+   "org": [
+    "nasa"
+   ],
+   "topic": "space",
+   "tldr": "NASA isn't saying much.  The problem may be temporary.",
+   "published": "2026-09-28T16:03:50.000Z",
+   "dupes": 1,
+   "score": 0.379,
+   "tier": 3
+  },
+  {
+   "id": "b6117bdf123513b54beca8ec528855c7b589b15e",
+   "title": "Moon-Like Madagascar",
+   "url": "https://science.nasa.gov/earth/earth-observatory/moon-like-madagascar",
+   "source": "NASA",
+   "org": [],
+   "topic": "space",
+   "tldr": "A bright lens of anorthosite, a rock type prevalent on the lunar surface, is cradled within sheared rocks in the country’s south.",
+   "published": "2026-10-05T04:01:00.000Z",
+   "dupes": 1,
+   "score": 0.366,
+   "tier": 3
+  },
+  {
+   "id": "2ad00ca140a778e8fac9a2f3123b799d109d0397",
+   "title": "Capcom aims to enhance its propriety RE Engine with AI to accelerate efficiency in QA, debugging, and data processing",
+   "url": "https://www.gamesindustry.biz/capcom-aims-to-enhance-its-propriety-re-engine-with-ai-to-accelerate-efficiency-in-qa-debugging-and-data-processing",
+   "source": "GamesIndustry.biz",
+   "org": [
+    "capcom"
+   ],
+   "topic": "gaming",
+   "tldr": "Capcom has announced a multi-phase project to adapt its proprietary RE Engine into an \"AI-generation engine\" to streamline development and optimise performance.",
+   "published": "2026-10-05T08:29:51.000Z",
+   "dupes": 1,
+   "score": 0.361,
    "tier": 3
   },
   {
@@ -532,7 +543,7 @@
    "tldr": "S.  think tanks, universities, and legal sector organizations.",
    "published": "2026-10-04T07:20:32.000Z",
    "dupes": 1,
-   "score": 0.4,
+   "score": 0.347,
    "tier": 3
   },
   {
@@ -547,7 +558,7 @@
    "tldr": "Local AI is becoming more useful by the token.  As AI agents move from experiments into everyday development, increasingly capable open models are shrinking to fit on more devices, giving builders more to run locally.",
    "published": "2026-10-02T13:00:39.000Z",
    "dupes": 1,
-   "score": 0.374,
+   "score": 0.346,
    "tier": 3
   },
   {
@@ -562,7 +573,7 @@
    "tldr": "Nvidia’s chip-smuggling problem won’t go away as arrests continue.",
    "published": "2026-10-02T18:39:36.000Z",
    "dupes": 1,
-   "score": 0.369,
+   "score": 0.341,
    "tier": 3
   },
   {
@@ -575,20 +586,7 @@
    "tldr": "Written by Lucy Thompson, Senior Research Scientist, University of New Brunswick, Canada Earth planning date: Friday, Sept.  25, 2026 Before we landed, the area of Gale crater that we planned to explore was divided up…",
    "published": "2026-10-04T21:13:07.000Z",
    "dupes": 1,
-   "score": 0.368,
-   "tier": 3
-  },
-  {
-   "id": "f62bffeddac90ed38388b2316fe50c1e6f4426dc",
-   "title": "Citrix patches NetScaler SAML zero-day exploited in attacks",
-   "url": "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks",
-   "source": "BleepingComputer",
-   "org": [],
-   "topic": "security",
-   "tldr": "Citrix has released emergency updates for a new NetScaler denial-of-service vulnerability tracked as CVE-2026-88779 that has been exploited in zero-day attacks, with researchers investigating whether it can also be…",
-   "published": "2026-10-04T21:58:01.000Z",
-   "dupes": 1,
-   "score": 0.366,
+   "score": 0.339,
    "tier": 3
   },
   {
@@ -603,7 +601,7 @@
    "tldr": "Spooky season is streaming in.  Alongside falling leaves, pumpkin spice and everything nice, 25 new games are joining GeForce NOW throughout October, including six ready to play this week.",
    "published": "2026-10-01T13:00:54.000Z",
    "dupes": 1,
-   "score": 0.362,
+   "score": 0.336,
    "tier": 3
   },
   {
@@ -618,22 +616,7 @@
    "tldr": "AI factories are built by the megawatt, even by the gigawatt.  Each megawatt factory costs roughly $60 million, and AI factory operators will only commit capital on that scale with a clear view of the return on…",
    "published": "2026-10-01T13:00:49.000Z",
    "dupes": 1,
-   "score": 0.362,
-   "tier": 3
-  },
-  {
-   "id": "e8aa5c1d26878c11c2138aa362a9d46a535ce584",
-   "title": "Microsoft’s X account hacked in crypto pump-and-dump scheme",
-   "url": "https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme",
-   "source": "BleepingComputer",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "security",
-   "tldr": "On Thursday, unknown attackers hijacked the official Microsoft account on X, which has over 13 million followers, in what appeared to be a pump-and-dump scheme promoting a crypto token.",
-   "published": "2026-10-02T09:29:56.000Z",
-   "dupes": 1,
-   "score": 0.36,
+   "score": 0.336,
    "tier": 3
   },
   {
@@ -648,7 +631,7 @@
    "tldr": "Bringing together the world’s brightest minds and the latest accelerated computing technology leads to powerful breakthroughs that help tackle some of the biggest research problems.  To foster such innovation, the…",
    "published": "2026-09-30T17:00:21.000Z",
    "dupes": 1,
-   "score": 0.356,
+   "score": 0.331,
    "tier": 3
   },
   {
@@ -663,22 +646,37 @@
    "tldr": "Building on nearly a decade of co-engineering, CoreWeave has built NVIDIA compute, networking and software into a cloud purpose-built for AI that’s still returning on investment across multiple generations of…",
    "published": "2026-09-30T15:00:00.000Z",
    "dupes": 1,
-   "score": 0.356,
+   "score": 0.33,
    "tier": 3
   },
   {
-   "id": "0e48fe7d5b76af18af66700cbe34e53c1a367a41",
-   "title": "Microsoft says threat actors are ahead in the early AI race",
-   "url": "https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race",
+   "id": "35c6cc06809bc5c437247909c47fbd3b84833070",
+   "title": "Anthropic asks Claude users to share voice data for AI model training",
+   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training",
+   "source": "BleepingComputer",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "security",
+   "tldr": "Anthropic has started asking Claude users to voluntarily share their voice conversations to help train and improve its AI models.",
+   "published": "2026-10-04T10:53:21.000Z",
+   "dupes": 1,
+   "score": 0.324,
+   "tier": 3
+  },
+  {
+   "id": "e8aa5c1d26878c11c2138aa362a9d46a535ce584",
+   "title": "Microsoft’s X account hacked in crypto pump-and-dump scheme",
+   "url": "https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme",
    "source": "BleepingComputer",
    "org": [
     "microsoft"
    ],
    "topic": "security",
-   "tldr": "Microsoft says cyberattackers are currently benefiting from artificial intelligence faster than defenders, allowing threat actors to speed up vulnerability discovery, malware development, and post-compromise activity…",
-   "published": "2026-10-01T19:32:47.000Z",
+   "tldr": "On Thursday, unknown attackers hijacked the official Microsoft account on X, which has over 13 million followers, in what appeared to be a pump-and-dump scheme promoting a crypto token.",
+   "published": "2026-10-02T09:29:56.000Z",
    "dupes": 1,
-   "score": 0.353,
+   "score": 0.314,
    "tier": 3
   },
   {
@@ -691,7 +689,20 @@
    "tldr": "Cyber and physical security threats are rapidly evolving, but robotics and AI can evolve to meet them, writes a columnist.  The post How robotics and physical AI can responsibly tackle key physical security challenges…",
    "published": "2026-10-04T12:52:11.000Z",
    "dupes": 1,
-   "score": 0.312,
+   "score": 0.289,
+   "tier": 3
+  },
+  {
+   "id": "d442265d45586f0c44757e18d65ce306946b900b",
+   "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+   "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas",
+   "source": "TechCrunch",
+   "org": [],
+   "topic": "compute",
+   "tldr": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+   "published": "2026-10-03T18:43:57.000Z",
+   "dupes": 1,
+   "score": 0.265,
    "tier": 3
   },
   {
@@ -706,35 +717,20 @@
    "tldr": "Xbox CEO Asha Sharma has pushed back on speculation that Microsoft could spin off its games division, telling the New York Times : \"Xbox is not for sale.\" Read more",
    "published": "2026-09-30T17:43:08.000Z",
    "dupes": 1,
-   "score": 0.296,
+   "score": 0.26,
    "tier": 3
   },
   {
-   "id": "c8316c2e759c356e8f1fb2ca82e743a6e0ee80c7",
-   "title": "Microsoft boss Nadella says Xbox has to invent \"sustainable business model\"",
-   "url": "https://www.gamesindustry.biz/microsoft-boss-nadella-says-xbox-has-to-invent-sustainable-business-model",
-   "source": "GamesIndustry.biz",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "gaming",
-   "tldr": "The CEO of Microsoft, Satya Nadella, has said that the company's Xbox division needs to \"invent\" the correct \"sustainable business model\" to allow it to reach more and more people with its games.",
-   "published": "2026-09-28T09:05:32.000Z",
-   "dupes": 1,
-   "score": 0.29,
-   "tier": 3
-  },
-  {
-   "id": "d442265d45586f0c44757e18d65ce306946b900b",
-   "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-   "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas",
-   "source": "TechCrunch",
+   "id": "fd447d5ccac23652fbaa0b09f725a4cd3b5b3e66",
+   "title": "The dawn of the age of the exoskeleton",
+   "url": "https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton",
+   "source": "Ars Technica · Gadgets",
    "org": [],
    "topic": "compute",
-   "tldr": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
-   "published": "2026-10-03T18:43:57.000Z",
+   "tldr": "The devices continue to show noticeable benefits for users in various real-world tasks.",
+   "published": "2026-10-03T11:15:33.000Z",
    "dupes": 1,
-   "score": 0.281,
+   "score": 0.243,
    "tier": 3
   },
   {
@@ -750,20 +746,7 @@
    "tldr": "Blue Origin seeks FAA approval for up to 50 New Glenn launches and 50 booster landings per year.",
    "published": "2026-10-02T13:54:34.000Z",
    "dupes": 1,
-   "score": 0.272,
-   "tier": 3
-  },
-  {
-   "id": "fd447d5ccac23652fbaa0b09f725a4cd3b5b3e66",
-   "title": "The dawn of the age of the exoskeleton",
-   "url": "https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton",
-   "source": "Ars Technica · Gadgets",
-   "org": [],
-   "topic": "compute",
-   "tldr": "The devices continue to show noticeable benefits for users in various real-world tasks.",
-   "published": "2026-10-03T11:15:33.000Z",
-   "dupes": 1,
-   "score": 0.256,
+   "score": 0.242,
    "tier": 3
   },
   {
@@ -776,7 +759,7 @@
    "tldr": "Patent protection is important for robotics startups, but they should be strategic in determining what IP is important, says Lightbringer.  The post The physical AI race will be won in the patent office appeared first…",
    "published": "2026-10-03T14:30:07.000Z",
    "dupes": 1,
-   "score": 0.25,
+   "score": 0.236,
    "tier": 3
   },
   {
@@ -789,7 +772,20 @@
    "tldr": "biz HR Summit.  The awards were generously sponsored by Amiqus, Playground Games, IO Interactive, Games London and Special Effect.",
    "published": "2026-10-02T14:55:28.000Z",
    "dupes": 2,
-   "score": 0.241,
+   "score": 0.234,
+   "tier": 3
+  },
+  {
+   "id": "dbcef61bba8b3d9a0bebb0359209562ffeda6fe7",
+   "title": "Week in images: 28 Sep - 2 Oct 2026",
+   "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_28_Sep_-_2_Oct_2026",
+   "source": "ESA Space News",
+   "org": [],
+   "topic": "space",
+   "tldr": "Week in images: 28 Sep - 2 Oct 2026 Discover our week through the lens",
+   "published": "2026-10-02T13:10:00.000Z",
+   "dupes": 1,
+   "score": 0.217,
    "tier": 3
   },
   {
@@ -802,7 +798,7 @@
    "tldr": "In mobile robotics, software, safety, and fleet management are becoming just as important as the robot itself, according to an OMROM project manager.  The post Inside Omron’s next-generation LD mobile robots appeared…",
    "published": "2026-10-02T23:01:36.000Z",
    "dupes": 1,
-   "score": 0.223,
+   "score": 0.213,
    "tier": 3
   },
   {
@@ -815,7 +811,7 @@
    "tldr": "Experts from Eli Lilly and Purdue University will reveal findings about the perception of robots on the manufacturing floor.  The post Eli Lilly, Purdue to share field learnings on human robot interaction at…",
    "published": "2026-10-02T21:12:14.000Z",
    "dupes": 1,
-   "score": 0.22,
+   "score": 0.211,
    "tier": 3
   },
   {
@@ -828,7 +824,7 @@
    "tldr": "When Runway does release Praxis-1 publicly, it plans to ship it with open weights rather than as a closed model.  The post Runway introduces Praxis-1 world action model for robotics appeared first on The Robot Report .",
    "published": "2026-10-02T18:32:13.000Z",
    "dupes": 1,
-   "score": 0.216,
+   "score": 0.208,
    "tier": 3
   },
   {
@@ -841,7 +837,7 @@
    "tldr": "Submit now to be part of the Robotics Startup Radar, which brings together some of the most promising robotics startups.  The post Calling robotics startups: Submissions for the 2026 Robotics Startup Radar close soon…",
    "published": "2026-10-02T14:00:59.000Z",
    "dupes": 1,
-   "score": 0.211,
+   "score": 0.203,
    "tier": 3
   },
   {
@@ -854,7 +850,7 @@
    "tldr": "biz HR Summit took place on October 1, and one topic that came up again and again at sessions throughout the day was generative AI and the impact it's having on the workplace.",
    "published": "2026-10-02T14:29:12.000Z",
    "dupes": 1,
-   "score": 0.195,
+   "score": 0.189,
    "tier": 3
   },
   {
@@ -867,20 +863,7 @@
    "tldr": "Bungie co-founder Jason Jones and Destiny 2 narrative director Margaret Stohl have launched a new transmedia studio called Stone Kite.",
    "published": "2026-10-02T13:54:44.000Z",
    "dupes": 1,
-   "score": 0.195,
-   "tier": 3
-  },
-  {
-   "id": "ee17748a19e506681c1f5a59b5ef76a014c36524",
-   "title": "Reigns developer Nerial closes following \"significant trading losses\" over past two years",
-   "url": "https://www.gamesindustry.biz/reigns-developer-nerial-closes-following-significant-trading-losses-over-past-two-years",
-   "source": "GamesIndustry.biz",
-   "org": [],
-   "topic": "gaming",
-   "tldr": "Reigns and Card Shark developer Nerial has announced its closure as it enters \"hibernation mode.\" Read more",
-   "published": "2026-10-02T11:19:13.000Z",
-   "dupes": 1,
-   "score": 0.192,
+   "score": 0.188,
    "tier": 3
   },
   {
@@ -895,7 +878,20 @@
    "tldr": "Boston Dynamics engineers taped their pinkies and ring fingers together for a day to learn what they weren’t able to do.  The post Boston Dynamics drops pinkie on new humanoid hand appeared first on The Robot Report .",
    "published": "2026-10-01T17:52:51.000Z",
    "dupes": 1,
-   "score": 0.191,
+   "score": 0.186,
+   "tier": 3
+  },
+  {
+   "id": "ee17748a19e506681c1f5a59b5ef76a014c36524",
+   "title": "Reigns developer Nerial closes following \"significant trading losses\" over past two years",
+   "url": "https://www.gamesindustry.biz/reigns-developer-nerial-closes-following-significant-trading-losses-over-past-two-years",
+   "source": "GamesIndustry.biz",
+   "org": [],
+   "topic": "gaming",
+   "tldr": "Reigns and Card Shark developer Nerial has announced its closure as it enters \"hibernation mode.\" Read more",
+   "published": "2026-10-02T11:19:13.000Z",
+   "dupes": 1,
+   "score": 0.186,
    "tier": 3
   },
   {
@@ -908,7 +904,7 @@
    "tldr": "As humanoid robots move from research labs into factories, warehouses, homes, and other shared spaces, accurate physical feedback becomes crucial.  The post Precision In Motion.",
    "published": "2026-10-01T15:29:55.000Z",
    "dupes": 1,
-   "score": 0.19,
+   "score": 0.185,
    "tier": 3
   },
   {
@@ -921,7 +917,7 @@
    "tldr": "A robot can follow its safety rules and still act on manipulated information.  See what this means for robot safety and how teams can strengthen their testing and evidence.",
    "published": "2026-10-01T15:02:19.000Z",
    "dupes": 1,
-   "score": 0.189,
+   "score": 0.185,
    "tier": 3
   },
   {
@@ -934,7 +930,7 @@
    "tldr": "With the $100 million it raised earlier this month, Maven Robotics is looking towards mass producing its mobile manipulator robot.  The post How Maven Robotics plans to automate industrial work, one task at a time…",
    "published": "2026-10-01T12:30:39.000Z",
    "dupes": 1,
-   "score": 0.188,
+   "score": 0.183,
    "tier": 3
   },
   {
@@ -947,7 +943,7 @@
    "tldr": "ANYbotics designed Shift to help maintenance teams run industrial inspections, detect failing equipment, and turn data into work orders.  The post ANYbotics launches Shift to streamline robot fleet operations, scale…",
    "published": "2026-10-01T07:59:59.000Z",
    "dupes": 1,
-   "score": 0.185,
+   "score": 0.181,
    "tier": 3
   },
   {
@@ -960,7 +956,7 @@
    "tldr": "The initiative for engineers includes a news desk, a conference, research, and an advisory board, grounded in trusted editorial brands.  The post The Robot Report parent Arrowfly launches AI for Engineers platform,…",
    "published": "2026-09-30T14:03:31.000Z",
    "dupes": 1,
-   "score": 0.176,
+   "score": 0.173,
    "tier": 3
   }
  ]
