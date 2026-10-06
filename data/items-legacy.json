@@ -1,6 +1,66 @@
 {
- "generated": "2026-10-06T14:19:06.273Z",
+ "generated": "2026-10-06T19:38:11.637Z",
  "items": [
+  {
+   "id": "60ef2af305e795fe7c29ac5334b70c4a29353c7c",
+   "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+   "url": "https://openai.com/index/atlassian-partnership",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+   "published": "2026-10-06T16:00:00.000Z",
+   "dupes": 1,
+   "score": 0.604,
+   "tier": 1
+  },
+  {
+   "id": "dd8e89899cf09fcd59f30cd197e321f925254b88",
+   "title": "Meta’s Muse is an adorable privacy and security dumpster fire",
+   "url": "https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire",
+   "source": "Hacker News",
+   "org": [
+    "meta"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-10-06T12:45:49.000Z",
+   "dupes": 1,
+   "score": 0.577,
+   "tier": 2
+  },
+  {
+   "id": "c2e7917438d64d4a3a7d6f83b0f494dde4a558d0",
+   "title": "What AI gets wrong and what failure teaches us",
+   "url": "https://www.microsoft.com/en-us/research/podcast/what-ai-gets-wrong-and-what-failure-teaches-us",
+   "source": "Microsoft Research",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "Jennifer Neville did not want to go into computer science—but that’s exactly where she landed.  Neville discusses the starts and stops that led to her professional sweet spot and her work identifying “surprising…",
+   "published": "2026-10-06T16:19:06.000Z",
+   "dupes": 1,
+   "score": 0.571,
+   "tier": 2
+  },
+  {
+   "id": "2e0aae10ded81ffeb3f9661cf20ca688cf4c8e61",
+   "title": "Unlocking Earth AI’s planetary geospatial foundation models for global public health",
+   "url": "https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health",
+   "source": "Google Research",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Earth AI",
+   "published": "2026-10-06T15:05:11.000Z",
+   "dupes": 1,
+   "score": 0.569,
+   "tier": 2
+  },
   {
    "id": "be7f8737364ef7474fe31256239eb0260ba463d4",
    "title": "Why Telecom Operators Are Building Their AI Strategy on Open Models",
@@ -13,22 +73,48 @@
    "tldr": "Telecom operators are increasingly building their AI strategies on open models — and the reasons go beyond mere cost.  Open models give telcos the ability to trust, control and customize AI across their most critical…",
    "published": "2026-10-06T13:00:19.000Z",
    "dupes": 1,
-   "score": 0.608,
-   "tier": 1
+   "score": 0.546,
+   "tier": 2
   },
   {
-   "id": "dd8e89899cf09fcd59f30cd197e321f925254b88",
-   "title": "Meta's Muse Is an Adorable Privacy and Security Dumpster Fire",
-   "url": "https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire",
-   "source": "Hacker News",
+   "id": "9964af802e9c5fdee2b956b6ca12adb5b9c62816",
+   "title": "Advancing computer use with Ironclad",
+   "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+   "source": "OpenAI Blog",
    "org": [
-    "meta"
+    "openai"
    ],
    "topic": "ai",
-   "tldr": "",
-   "published": "2026-10-06T12:45:49.000Z",
+   "tldr": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
+   "published": "2026-10-06T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.562,
+   "score": 0.541,
+   "tier": 2
+  },
+  {
+   "id": "ec9915c4fbdd328c884dba2e7d30a23ee328f548",
+   "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+   "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+   "source": "Hacker News",
+   "org": [],
+   "topic": "compute",
+   "tldr": "",
+   "published": "2026-10-05T21:00:21.000Z",
+   "dupes": 1,
+   "score": 0.496,
+   "tier": 2
+  },
+  {
+   "id": "085f7195b66fbb80632f8437f70931eb86f50b67",
+   "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+   "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-10-06T06:44:39.000Z",
+   "dupes": 1,
+   "score": 0.476,
    "tier": 2
   },
   {
@@ -43,33 +129,22 @@
    "tldr": "Starting on October 9th, anyone using Google Gemini on a free plan will be limited to the Flash Lite model.  99/month Google AI Plus subscription to access the standard Flash model.",
    "published": "2026-10-06T13:19:01.000Z",
    "dupes": 1,
-   "score": 0.537,
+   "score": 0.474,
    "tier": 2
   },
   {
-   "id": "ec9915c4fbdd328c884dba2e7d30a23ee328f548",
-   "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-   "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-   "source": "Hacker News",
-   "org": [],
-   "topic": "compute",
-   "tldr": "",
-   "published": "2026-10-05T21:00:21.000Z",
-   "dupes": 1,
-   "score": 0.527,
-   "tier": 2
-  },
-  {
-   "id": "085f7195b66fbb80632f8437f70931eb86f50b67",
-   "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-   "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-   "source": "Hugging Face Blog",
-   "org": [],
+   "id": "a22a6ca92e5c69fdf01eef5e96b283f5b72e4fc3",
+   "title": "Expanding the Cyber Verification Program",
+   "url": "https://www.anthropic.com/news/cyber-verification-program",
+   "source": "Anthropic News",
+   "org": [
+    "anthropic"
+   ],
    "topic": "ai",
    "tldr": "",
-   "published": "2026-10-06T06:44:39.000Z",
+   "published": "2026-10-06T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.524,
+   "score": 0.464,
    "tier": 2
   },
   {
@@ -81,10 +156,10 @@
     "google"
    ],
    "topic": "ai",
-   "tldr": "Education Innovation",
-   "published": "2026-10-05T21:08:31.000Z",
+   "tldr": "Generative AI",
+   "published": "2026-10-05T21:08:00.000Z",
    "dupes": 1,
-   "score": 0.456,
+   "score": 0.422,
    "tier": 2
   },
   {
@@ -99,7 +174,7 @@
    "tldr": "How OpenAI is approaching text watermarking under EU rules.  Learn where watermarks apply, how detection works, and why access starts with researchers.",
    "published": "2026-10-05T15:00:00.000Z",
    "dupes": 1,
-   "score": 0.443,
+   "score": 0.416,
    "tier": 2
   },
   {
@@ -114,7 +189,7 @@
    "tldr": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
    "published": "2026-10-05T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.418,
+   "score": 0.396,
    "tier": 2
   },
   {
@@ -129,8 +204,8 @@
    "tldr": "Breast cancer is the most commonly diagnosed cancer among American women — yet the gaps in care are wide.  A majority of women over age 40 skip the recommended annual screening.",
    "published": "2026-10-05T13:00:57.000Z",
    "dupes": 1,
-   "score": 0.407,
-   "tier": 2
+   "score": 0.383,
+   "tier": 3
   },
   {
    "id": "fb1f3dca95af1a8c2c62d33bccc6fdbdc2340b7f",
@@ -144,8 +219,8 @@
    "tldr": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family.",
    "published": "2026-10-05T23:09:55.000Z",
    "dupes": 1,
-   "score": 0.395,
-   "tier": 2
+   "score": 0.359,
+   "tier": 3
   },
   {
    "id": "e3d6a6e5d9a351b0a9ff129756e4bb78748ed0aa",
@@ -159,8 +234,8 @@
    "tldr": "Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it \"can confirm that we have discovered some activity\" by \"rogue\"…",
    "published": "2026-10-05T19:05:19.000Z",
    "dupes": 1,
-   "score": 0.367,
-   "tier": 2
+   "score": 0.336,
+   "tier": 3
   },
   {
    "id": "773083672101122dd4b437049409786a87d7ce24",
@@ -174,23 +249,8 @@
    "tldr": "An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first.  OpenAI says its textGrain watermarking \"matched or exceeded\" other…",
    "published": "2026-10-05T18:08:39.000Z",
    "dupes": 1,
-   "score": 0.361,
-   "tier": 2
-  },
-  {
-   "id": "cf94a559a112605973d2c9317f6647c1c19c443d",
-   "title": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user’s suicide",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "An OpenAI publicist tried to change the topic of CEO Sam Altman's interview with Vanity Fair's Mark Guiducci after the editor brought up a ChatGPT user's suicide.  When Guiducci confronted Altman about the incident, the…",
-   "published": "2026-10-05T16:55:42.000Z",
-   "dupes": 1,
-   "score": 0.354,
-   "tier": 2
+   "score": 0.331,
+   "tier": 3
   },
   {
    "id": "4c41d0de1f5c2ad6fe377091b353d8982f5cb0d1",
@@ -204,7 +264,22 @@
    "tldr": "",
    "published": "2026-10-02T03:11:20.000Z",
    "dupes": 1,
-   "score": 0.343,
+   "score": 0.325,
+   "tier": 3
+  },
+  {
+   "id": "cf94a559a112605973d2c9317f6647c1c19c443d",
+   "title": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user’s suicide",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
+   "source": "The Verge AI",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "An OpenAI publicist tried to change the topic of CEO Sam Altman's interview with Vanity Fair's Mark Guiducci after the editor brought up a ChatGPT user's suicide.  When Guiducci confronted Altman about the incident, the…",
+   "published": "2026-10-05T16:55:42.000Z",
+   "dupes": 1,
+   "score": 0.325,
    "tier": 3
   },
   {
@@ -219,7 +294,7 @@
    "tldr": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
    "published": "2026-10-02T16:15:00.000Z",
    "dupes": 1,
-   "score": 0.309,
+   "score": 0.308,
    "tier": 3
   },
   {
@@ -234,7 +309,7 @@
    "tldr": "",
    "published": "2026-10-02T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.305,
+   "score": 0.304,
    "tier": 3
   },
   {
@@ -249,7 +324,7 @@
    "tldr": "6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
    "published": "2026-10-02T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.305,
+   "score": 0.304,
    "tier": 3
   },
   {
@@ -264,7 +339,7 @@
    "tldr": "Advanced AI may matter most for the routine work behind breakthrough ideas.  Explore why execution could shape the next economy and the pace of progress.",
    "published": "2026-10-01T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.304,
+   "score": 0.303,
    "tier": 3
   },
   {
@@ -279,7 +354,7 @@
    "tldr": "Albertsons Cos.  is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
    "published": "2026-10-01T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.304,
+   "score": 0.303,
    "tier": 3
   },
   {
@@ -308,21 +383,6 @@
    "topic": "ai",
    "tldr": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
    "published": "2026-10-01T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.302,
-   "tier": 3
-  },
-  {
-   "id": "311e095023e6d9fdea75b7af8141f43c4a663c77",
-   "title": "Gemini 4 Argon: our next era of frontier intelligence",
-   "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence",
-   "source": "Google DeepMind",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-30T20:01:45.000Z",
    "dupes": 1,
    "score": 0.302,
    "tier": 3
@@ -358,6 +418,21 @@
    "tier": 3
   },
   {
+   "id": "311e095023e6d9fdea75b7af8141f43c4a663c77",
+   "title": "Gemini 4 Argon: our next era of frontier intelligence",
+   "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence",
+   "source": "Google DeepMind",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-09-30T20:01:45.000Z",
+   "dupes": 1,
+   "score": 0.301,
+   "tier": 3
+  },
+  {
    "id": "396b95f3429cd00be03ab452f9bb2d2a88583950",
    "title": "Introducing SynthID Bio",
    "url": "https://deepmind.google/blog/introducing-synthid-bio",
@@ -382,7 +457,7 @@
    "tldr": "",
    "published": "2026-10-03T22:56:48.000Z",
    "dupes": 1,
-   "score": 0.293,
+   "score": 0.287,
    "tier": 3
   },
   {
@@ -397,7 +472,7 @@
    "tldr": "Mobile Systems",
    "published": "2026-10-02T14:57:41.000Z",
    "dupes": 1,
-   "score": 0.284,
+   "score": 0.282,
    "tier": 3
   },
   {
@@ -412,7 +487,7 @@
    "tldr": "Local AI is becoming more useful by the token.  As AI agents move from experiments into everyday development, increasingly capable open models are shrinking to fit on more devices, giving builders more to run locally.",
    "published": "2026-10-02T13:00:39.000Z",
    "dupes": 1,
-   "score": 0.283,
+   "score": 0.282,
    "tier": 3
   },
   {
@@ -428,7 +503,7 @@
    "tldr": "GPT-6 Astra Ultrafast, running on NVIDIA Blackwell GPUs, is available now in the OpenAI API and to eligible ChatGPT Work and Codex users.  Accelerated by inference optimizations through OpenAI’s models that tap into the…",
    "published": "2026-10-01T23:44:13.000Z",
    "dupes": 1,
-   "score": 0.28,
+   "score": 0.279,
    "tier": 3
   },
   {
@@ -473,21 +548,6 @@
    "tldr": "Bringing together the world’s brightest minds and the latest accelerated computing technology leads to powerful breakthroughs that help tackle some of the biggest research problems.  To foster such innovation, the…",
    "published": "2026-09-30T17:00:21.000Z",
    "dupes": 1,
-   "score": 0.277,
-   "tier": 3
-  },
-  {
-   "id": "663c72fb0ad38118e860b0ffce879b2c69a92b42",
-   "title": "How Diffusion Controller unifies and simplifies AI image generation",
-   "url": "https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation",
-   "source": "Google Research",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Algorithms & Theory",
-   "published": "2026-09-29T18:38:27.000Z",
-   "dupes": 1,
    "score": 0.276,
    "tier": 3
   },
@@ -516,7 +576,7 @@
    "tldr": "",
    "published": "2026-10-02T15:19:50.000Z",
    "dupes": 1,
-   "score": 0.272,
+   "score": 0.27,
    "tier": 3
   },
   {
@@ -529,7 +589,7 @@
    "tldr": "",
    "published": "2026-10-02T04:01:31.000Z",
    "dupes": 1,
-   "score": 0.268,
+   "score": 0.267,
    "tier": 3
   },
   {
@@ -561,21 +621,6 @@
    "tier": 3
   },
   {
-   "id": "493cf3fce1b87919c50e0ab0463ff661f51d790b",
-   "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-   "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
-   "source": "Hugging Face Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-09-29T15:30:38.000Z",
-   "dupes": 1,
-   "score": 0.263,
-   "tier": 3
-  },
-  {
    "id": "13846157201a6e18da5f52ff21c5396ac01f446f",
    "title": "Microsoft 365 and LinkedIn leadership update",
    "url": "https://blogs.microsoft.com/blog/2026/10/01/microsoft-365-and-linkedin-leadership-update",
@@ -587,7 +632,7 @@
    "tldr": "Satya Nadella, Chairman and CEO, and Ryan Roslansky, Executive Vice President of LinkedIn and Microsoft 365, shared the below communications with Microsoft and LinkedIn employees this morning.  SATYA NADELLA MESSAGE…",
    "published": "2026-10-01T15:03:27.000Z",
    "dupes": 1,
-   "score": 0.254,
+   "score": 0.253,
    "tier": 3
   },
   {
@@ -617,7 +662,7 @@
    "tldr": "",
    "published": "2026-10-03T14:04:27.000Z",
    "dupes": 1,
-   "score": 0.243,
+   "score": 0.251,
    "tier": 3
   },
   {
@@ -632,7 +677,7 @@
    "tldr": "",
    "published": "2026-10-03T08:40:38.000Z",
    "dupes": 1,
-   "score": 0.222,
+   "score": 0.217,
    "tier": 3
   },
   {
@@ -647,7 +692,7 @@
    "tldr": "",
    "published": "2026-10-02T16:56:33.000Z",
    "dupes": 1,
-   "score": 0.201,
+   "score": 0.199,
    "tier": 3
   }
  ]
