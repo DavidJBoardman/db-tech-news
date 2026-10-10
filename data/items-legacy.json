@@ -1,17 +1,19 @@
 {
- "generated": "2026-10-10T12:48:49.190Z",
+ "generated": "2026-10-10T17:34:33.308Z",
  "items": [
   {
-   "id": "43ef54e74d2760825c3095138c358b1ef26e90ae",
-   "title": "Impactful scheduling for GPU clusters",
-   "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "compute",
-   "tldr": "",
-   "published": "2026-10-09T15:20:29.000Z",
+   "id": "0decde66c5ee642f4b2199f4eac556d234595585",
+   "title": "Anthropic is cutting off its internal evaluations from the internet",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+   "source": "The Verge AI",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations.  In a report Friday, the company detailed \"unintended model…",
+   "published": "2026-10-10T14:41:16.000Z",
    "dupes": 1,
-   "score": 0.416,
+   "score": 0.513,
    "tier": 1
   },
   {
@@ -26,7 +28,7 @@
    "tldr": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
    "published": "2026-10-09T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.411,
+   "score": 0.392,
    "tier": 2
   },
   {
@@ -41,52 +43,20 @@
    "tldr": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
    "published": "2026-10-09T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.411,
-   "tier": 2
-  },
-  {
-   "id": "0ad44f3ce5c4ad25082fd4438e3b56019b8cc624",
-   "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
-   "source": "The Verge AI",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc.",
-   "published": "2026-10-09T21:15:38.000Z",
-   "dupes": 1,
    "score": 0.392,
    "tier": 2
   },
   {
-   "id": "d07dddd55da287047600ce8c5507834507fbc9ea",
-   "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results OpenAI abruptly dropped on the field…",
-   "published": "2026-10-09T19:09:44.000Z",
-   "dupes": 1,
-   "score": 0.377,
-   "tier": 2
-  },
-  {
-   "id": "f33b64fe9640bfa04378fc5d415b9d6579728c61",
-   "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
-   "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out",
-   "source": "HN · DeepSeek",
-   "org": [
-    "deepseek"
-   ],
-   "topic": "ai",
+   "id": "43ef54e74d2760825c3095138c358b1ef26e90ae",
+   "title": "Impactful scheduling for GPU clusters",
+   "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "compute",
    "tldr": "",
-   "published": "2026-10-08T00:14:48.000Z",
+   "published": "2026-10-09T15:20:29.000Z",
    "dupes": 1,
-   "score": 0.371,
+   "score": 0.39,
    "tier": 2
   },
   {
@@ -101,7 +71,37 @@
    "tldr": "We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
    "published": "2026-10-06T00:00:00.000Z",
    "dupes": 2,
-   "score": 0.368,
+   "score": 0.367,
+   "tier": 2
+  },
+  {
+   "id": "f33b64fe9640bfa04378fc5d415b9d6579728c61",
+   "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+   "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out",
+   "source": "HN · DeepSeek",
+   "org": [
+    "deepseek"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-10-08T00:14:48.000Z",
+   "dupes": 1,
+   "score": 0.366,
+   "tier": 2
+  },
+  {
+   "id": "0ad44f3ce5c4ad25082fd4438e3b56019b8cc624",
+   "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+   "source": "The Verge AI",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc.",
+   "published": "2026-10-09T21:15:38.000Z",
+   "dupes": 1,
+   "score": 0.36,
    "tier": 2
   },
   {
@@ -116,7 +116,22 @@
    "tldr": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
    "published": "2026-10-08T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.362,
+   "score": 0.352,
+   "tier": 2
+  },
+  {
+   "id": "d07dddd55da287047600ce8c5507834507fbc9ea",
+   "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+   "source": "The Verge AI",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results OpenAI abruptly dropped on the field…",
+   "published": "2026-10-09T19:09:44.000Z",
+   "dupes": 1,
+   "score": 0.348,
    "tier": 2
   },
   {
@@ -131,7 +146,7 @@
    "tldr": "5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
    "published": "2026-10-08T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.353,
+   "score": 0.344,
    "tier": 2
   },
   {
@@ -146,7 +161,22 @@
    "tldr": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed.  It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
    "published": "2026-10-08T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.353,
+   "score": 0.344,
+   "tier": 2
+  },
+  {
+   "id": "1112027d5901b6f1dfea35c8c3f63382b87eaa06",
+   "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+   "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended.  Developers are combining frontier AI models with NVIDIA…",
+   "published": "2026-10-08T21:06:35.000Z",
+   "dupes": 1,
+   "score": 0.338,
    "tier": 2
   },
   {
@@ -164,22 +194,7 @@
     "model"
    ],
    "dupes": 1,
-   "score": 0.352,
-   "tier": 2
-  },
-  {
-   "id": "1112027d5901b6f1dfea35c8c3f63382b87eaa06",
-   "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-   "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended.  Developers are combining frontier AI models with NVIDIA…",
-   "published": "2026-10-08T21:06:35.000Z",
-   "dupes": 1,
-   "score": 0.351,
+   "score": 0.335,
    "tier": 2
   },
   {
@@ -194,8 +209,8 @@
    "tldr": "",
    "published": "2026-10-08T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.334,
-   "tier": 2
+   "score": 0.328,
+   "tier": 3
   },
   {
    "id": "26f5049650b43a59d73f96eb79b5070801d88f60",
@@ -209,7 +224,7 @@
    "tldr": "",
    "published": "2026-10-08T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.334,
+   "score": 0.328,
    "tier": 3
   },
   {
@@ -224,7 +239,7 @@
    "tldr": "",
    "published": "2026-10-08T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.334,
+   "score": 0.328,
    "tier": 3
   },
   {
@@ -239,7 +254,7 @@
    "tldr": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
    "published": "2026-10-08T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.334,
+   "score": 0.328,
    "tier": 3
   },
   {
@@ -254,22 +269,7 @@
    "tldr": "Gears of War: E-Day leads the charge on GeForce NOW this week, bringing Marcus Fenix and Dom Santiago’s first fight against the Locust Horde to the cloud with GeForce RTX-powered performance.",
    "published": "2026-10-08T13:00:46.000Z",
    "dupes": 1,
-   "score": 0.331,
-   "tier": 3
-  },
-  {
-   "id": "15717a6b7c9a1b047c70cda2f0ac956421670e2d",
-   "title": "OpenAI doubles down on decision to fire three AI safety researchers",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post on X on Friday, the company said Jasmine Wang, Tomek Korbak…",
-   "published": "2026-10-09T09:48:26.000Z",
-   "dupes": 1,
-   "score": 0.324,
+   "score": 0.321,
    "tier": 3
   },
   {
@@ -284,7 +284,7 @@
    "tldr": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
    "published": "2026-10-07T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.321,
+   "score": 0.318,
    "tier": 3
   },
   {
@@ -299,22 +299,7 @@
    "tldr": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
    "published": "2026-10-07T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.317,
-   "tier": 3
-  },
-  {
-   "id": "b6898643467f316efb60803b7ee66fb15caf8916",
-   "title": "Debunking the Biggest Data Center Myths",
-   "url": "https://about.fb.com/news/2026/10/debunking-the-biggest-data-center-myths",
-   "source": "Meta Newsroom",
-   "org": [
-    "meta"
-   ],
-   "topic": "compute",
-   "tldr": "Developer and content creator Tom Shaw breaks down three of the biggest myths about data centers.  The post Debunking the Biggest Data Center Myths appeared first on Meta Newsroom .",
-   "published": "2026-10-08T16:53:24.000Z",
-   "dupes": 1,
-   "score": 0.314,
+   "score": 0.315,
    "tier": 3
   },
   {
@@ -329,7 +314,7 @@
    "tldr": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
    "published": "2026-10-07T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.313,
+   "score": 0.311,
    "tier": 3
   },
   {
@@ -344,7 +329,7 @@
    "tldr": "",
    "published": "2026-10-06T19:57:04.000Z",
    "dupes": 1,
-   "score": 0.311,
+   "score": 0.31,
    "tier": 3
   },
   {
@@ -359,7 +344,7 @@
    "tldr": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
    "published": "2026-10-06T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.31,
+   "score": 0.308,
    "tier": 3
   },
   {
@@ -377,7 +362,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.308,
+   "score": 0.307,
    "tier": 3
   },
   {
@@ -392,7 +377,7 @@
    "tldr": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
    "published": "2026-10-06T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.308,
+   "score": 0.307,
    "tier": 3
   },
   {
@@ -407,7 +392,22 @@
    "tldr": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
    "published": "2026-10-06T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.308,
+   "score": 0.306,
+   "tier": 3
+  },
+  {
+   "id": "b6898643467f316efb60803b7ee66fb15caf8916",
+   "title": "Debunking the Biggest Data Center Myths",
+   "url": "https://about.fb.com/news/2026/10/debunking-the-biggest-data-center-myths",
+   "source": "Meta Newsroom",
+   "org": [
+    "meta"
+   ],
+   "topic": "compute",
+   "tldr": "Developer and content creator Tom Shaw breaks down three of the biggest myths about data centers.  The post Debunking the Biggest Data Center Myths appeared first on Meta Newsroom .",
+   "published": "2026-10-08T16:53:24.000Z",
+   "dupes": 1,
+   "score": 0.304,
    "tier": 3
   },
   {
@@ -422,22 +422,7 @@
    "tldr": "How OpenAI is approaching text watermarking under EU rules.  Learn where watermarks apply, how detection works, and why access starts with researchers.",
    "published": "2026-10-05T15:00:00.000Z",
    "dupes": 1,
-   "score": 0.304,
-   "tier": 3
-  },
-  {
-   "id": "5b37e56ce04370424c17be57d4d011b1dbe03de4",
-   "title": "Does better work always mean better workers?",
-   "url": "https://research.google/blog/does-better-work-always-mean-better-workers",
-   "source": "Google Research",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-10-07T20:19:57.000Z",
-   "dupes": 1,
-   "score": 0.304,
+   "score": 0.303,
    "tier": 3
   },
   {
@@ -456,6 +441,51 @@
    "tier": 3
   },
   {
+   "id": "15717a6b7c9a1b047c70cda2f0ac956421670e2d",
+   "title": "OpenAI doubles down on decision to fire three AI safety researchers",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+   "source": "The Verge AI",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post on X on Friday, the company said Jasmine Wang, Tomek Korbak…",
+   "published": "2026-10-09T09:48:26.000Z",
+   "dupes": 1,
+   "score": 0.303,
+   "tier": 3
+  },
+  {
+   "id": "0d06585bc057bc1a3b5c883a88fbc70a20434925",
+   "title": "Mxc: Microsoft Execution Containers version 1.0.0",
+   "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents",
+   "source": "Hacker News",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-10-09T06:52:49.000Z",
+   "dupes": 1,
+   "score": 0.301,
+   "tier": 3
+  },
+  {
+   "id": "5b37e56ce04370424c17be57d4d011b1dbe03de4",
+   "title": "Does better work always mean better workers?",
+   "url": "https://research.google/blog/does-better-work-always-mean-better-workers",
+   "source": "Google Research",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-10-07T20:19:57.000Z",
+   "dupes": 1,
+   "score": 0.299,
+   "tier": 3
+  },
+  {
    "id": "6f02344687c47731230e191ac23438080c909b1a",
    "title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
    "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event",
@@ -468,7 +498,7 @@
    "tldr": "At a Microsoft event in San Francisco on Wednesday, NVIDIA founder and CEO Jensen Huang and Microsoft CEO Satya Nadella outlined how NVIDIA and Microsoft are co-engineering hardware and software for AI agents to run on…",
    "published": "2026-10-07T18:45:28.000Z",
    "dupes": 1,
-   "score": 0.303,
+   "score": 0.298,
    "tier": 3
   },
   {
@@ -481,7 +511,7 @@
    "tldr": "",
    "published": "2026-10-08T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.296,
+   "score": 0.291,
    "tier": 3
   },
   {
@@ -496,7 +526,7 @@
    "tldr": "Meta donates 1,000 Ray-Ban Meta AI glasses to four Singapore community organisations to help persons with disabilities.  The post Meta Donates 1,000 AI Glasses to Singapore’s Disability Community appeared first on Meta…",
    "published": "2026-10-08T05:49:36.000Z",
    "dupes": 1,
-   "score": 0.292,
+   "score": 0.285,
    "tier": 3
   },
   {
@@ -509,35 +539,7 @@
    "tldr": "",
    "published": "2026-10-07T16:54:33.000Z",
    "dupes": 1,
-   "score": 0.288,
-   "tier": 3
-  },
-  {
-   "id": "c7de22c7db255c599990e44f6b90d91a46504196",
-   "title": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
-   "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses",
-   "source": "Microsoft Research",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "Training AI agents with reinforcement learning can be challenging because their tools, context, and decision-making are managed by complex frameworks.  Agent Lightning connects existing agents to RL training, making it…",
-   "published": "2026-10-07T16:00:00.000Z",
-   "dupes": 1,
-   "score": 0.287,
-   "tier": 3
-  },
-  {
-   "id": "91ed3eb235f3237ff9cccd6baf519581daaddeca",
-   "title": "Introducing Falcon ASR",
-   "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-10-07T13:21:03.000Z",
-   "dupes": 1,
-   "score": 0.285,
+   "score": 0.284,
    "tier": 3
   },
   {
@@ -552,7 +554,22 @@
    "tldr": "Earth AI",
    "published": "2026-10-06T15:05:11.000Z",
    "dupes": 1,
-   "score": 0.284,
+   "score": 0.283,
+   "tier": 3
+  },
+  {
+   "id": "c7de22c7db255c599990e44f6b90d91a46504196",
+   "title": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
+   "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses",
+   "source": "Microsoft Research",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "Training AI agents with reinforcement learning can be challenging because their tools, context, and decision-making are managed by complex frameworks.  Agent Lightning connects existing agents to RL training, making it…",
+   "published": "2026-10-07T16:00:00.000Z",
+   "dupes": 1,
+   "score": 0.283,
    "tier": 3
   },
   {
@@ -567,7 +584,20 @@
    "tldr": "Telecom operators are increasingly building their AI strategies on open models — and the reasons go beyond mere cost.  Open models give telcos the ability to trust, control and customize AI across their most critical…",
    "published": "2026-10-06T13:00:19.000Z",
    "dupes": 1,
-   "score": 0.284,
+   "score": 0.282,
+   "tier": 3
+  },
+  {
+   "id": "91ed3eb235f3237ff9cccd6baf519581daaddeca",
+   "title": "Introducing Falcon ASR",
+   "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-10-07T13:21:03.000Z",
+   "dupes": 1,
+   "score": 0.281,
    "tier": 3
   },
   {
@@ -580,22 +610,7 @@
    "tldr": "",
    "published": "2026-10-07T12:45:31.000Z",
    "dupes": 1,
-   "score": 0.284,
-   "tier": 3
-  },
-  {
-   "id": "12cf730ba9e93470ce84a3d4768ad6cecb00d4c5",
-   "title": "Why Data Centers Are Such a Big Part of Meta’s AI Approach",
-   "url": "https://about.fb.com/news/2026/10/meta-data-centers-ai-approach",
-   "source": "Meta Newsroom",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "Developer and creator Tom Shaw sat down with Meta’s Head of Infrastructure, Santosh Janardhan, to talk about why we need data centers and how Meta is leading the charge to build them.  The post Why Data Centers Are Such…",
-   "published": "2026-10-07T23:19:30.000Z",
-   "dupes": 1,
-   "score": 0.283,
+   "score": 0.281,
    "tier": 3
   },
   {
@@ -610,7 +625,7 @@
    "tldr": "Generative AI",
    "published": "2026-10-05T21:08:00.000Z",
    "dupes": 1,
-   "score": 0.28,
+   "score": 0.279,
    "tier": 3
   },
   {
@@ -629,21 +644,18 @@
    "tier": 3
   },
   {
-   "id": "df7e5433800bf1dd9b858dc837a8c701f4429b72",
-   "title": "Anthropic launches free AI security scans for open-source projects",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
-   "source": "The Verge AI",
+   "id": "12cf730ba9e93470ce84a3d4768ad6cecb00d4c5",
+   "title": "Why Data Centers Are Such a Big Part of Meta’s AI Approach",
+   "url": "https://about.fb.com/news/2026/10/meta-data-centers-ai-approach",
+   "source": "Meta Newsroom",
    "org": [
-    "anthropic"
+    "meta"
    ],
    "topic": "ai",
-   "tldr": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner.",
-   "published": "2026-10-08T21:53:51.000Z",
-   "badges": [
-    "oss"
-   ],
+   "tldr": "Developer and creator Tom Shaw sat down with Meta’s Head of Infrastructure, Santosh Janardhan, to talk about why we need data centers and how Meta is leading the charge to build them.  The post Why Data Centers Are Such…",
+   "published": "2026-10-07T23:19:30.000Z",
    "dupes": 1,
-   "score": 0.278,
+   "score": 0.277,
    "tier": 3
   },
   {
@@ -658,22 +670,25 @@
    "tldr": "Jennifer Neville did not want to go into computer science—but that’s exactly where she landed.  Neville discusses the starts and stops that led to her professional sweet spot and her work identifying “surprising…",
    "published": "2026-10-06T16:19:06.000Z",
    "dupes": 1,
-   "score": 0.272,
+   "score": 0.271,
    "tier": 3
   },
   {
-   "id": "a08ca06c855430228e083a9fb8511ab29bf355b1",
-   "title": "USA Today becomes the latest publisher to sue OpenAI",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
+   "id": "df7e5433800bf1dd9b858dc837a8c701f4429b72",
+   "title": "Anthropic launches free AI security scans for open-source projects",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
    "source": "The Verge AI",
    "org": [
-    "openai"
+    "anthropic"
    ],
    "topic": "ai",
-   "tldr": ", along with the several local newspapers it owns, is suing OpenAI over claims that the company copied \"hundreds of thousands\" of articles to train its AI models, as reported earlier by Reuters.",
-   "published": "2026-10-08T17:58:33.000Z",
+   "tldr": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner.",
+   "published": "2026-10-08T21:53:51.000Z",
+   "badges": [
+    "oss"
+   ],
    "dupes": 1,
-   "score": 0.267,
+   "score": 0.265,
    "tier": 3
   },
   {
