@@ -1,6 +1,21 @@
 {
- "generated": "2026-10-09T20:12:10.853Z",
+ "generated": "2026-10-10T00:09:34.921Z",
  "items": [
+  {
+   "id": "2a1c784f84b947c8fbc8fceccc3f2149b4119b96",
+   "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+   "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
+   "source": "TechCrunch",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+   "published": "2026-10-09T19:36:56.000Z",
+   "dupes": 2,
+   "score": 0.748,
+   "tier": 1
+  },
   {
    "id": "301544ff1a07499c14f9c3afe5266f0a2f65b9ef",
    "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
@@ -13,8 +28,38 @@
    "tldr": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
    "published": "2026-10-08T20:04:26.000Z",
    "dupes": 2,
-   "score": 0.756,
-   "tier": 1
+   "score": 0.745,
+   "tier": 2
+  },
+  {
+   "id": "dcdb848fb53a5c9792ecaf97bc23296368995353",
+   "title": "NASA issues long-awaited call to industry for private space stations",
+   "url": "https://arstechnica.com/space/2026/10/nasa-issues-long-awaited-call-to-industry-for-private-space-stations",
+   "source": "Ars Technica",
+   "org": [
+    "nasa"
+   ],
+   "topic": "space",
+   "tldr": "\"We’ve made it clear that NASA will never give up its presence in low Earth orbit.\"",
+   "published": "2026-10-09T21:34:09.000Z",
+   "dupes": 2,
+   "score": 0.727,
+   "tier": 2
+  },
+  {
+   "id": "d587fa318b28c3aad10a44883635716c7f8a2470",
+   "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
+   "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google",
+   "source": "Ars Technica",
+   "org": [
+    "google"
+   ],
+   "topic": "robotics",
+   "tldr": "One damaged data center has supercomputers used for training Yandex’s AI model.",
+   "published": "2026-10-09T22:04:07.000Z",
+   "dupes": 2,
+   "score": 0.723,
+   "tier": 2
   },
   {
    "id": "04cd634844344647bfa6fb9dab2041ad464ca6c3",
@@ -31,52 +76,7 @@
     "oss"
    ],
    "dupes": 2,
-   "score": 0.719,
-   "tier": 2
-  },
-  {
-   "id": "2a1c784f84b947c8fbc8fceccc3f2149b4119b96",
-   "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-   "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
-   "source": "TechCrunch",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
-   "published": "2026-10-09T19:36:56.000Z",
-   "dupes": 1,
-   "score": 0.712,
-   "tier": 2
-  },
-  {
-   "id": "edd58468d564448f5fe7e63ada47c987b79bf809",
-   "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-   "url": "https://openai.com/index/sophos",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-   "published": "2026-10-09T07:00:00.000Z",
-   "dupes": 1,
-   "score": 0.689,
-   "tier": 2
-  },
-  {
-   "id": "90995f7dbc9c26746d9c1348259bf95f75d89e72",
-   "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-   "url": "https://openai.com/index/asana-browser-agent",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-   "published": "2026-10-09T07:00:00.000Z",
-   "dupes": 1,
-   "score": 0.689,
+   "score": 0.703,
    "tier": 2
   },
   {
@@ -91,7 +91,68 @@
    "tldr": "",
    "published": "2026-10-09T18:38:44.000Z",
    "dupes": 1,
-   "score": 0.686,
+   "score": 0.689,
+   "tier": 2
+  },
+  {
+   "id": "89b1c5b22d3988e012feb98de085948fa8578516",
+   "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks",
+   "source": "BleepingComputer",
+   "org": [
+    "anthropic",
+    "google"
+   ],
+   "topic": "security",
+   "tldr": "Hackers are abusing legitimate Bing search-result redirects as click URLs in Google search ads to direct users to fake Claude installers that deliver ClickFix attacks.",
+   "published": "2026-10-09T20:31:37.000Z",
+   "dupes": 1,
+   "score": 0.689,
+   "tier": 2
+  },
+  {
+   "id": "ddc81823b7e00aa7976b64e85275743fb62f501c",
+   "title": "OpenAI mistranslated mathematics into code for its Navier-Stokes proof",
+   "url": "https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof",
+   "source": "Hacker News",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-10-09T21:25:09.000Z",
+   "dupes": 1,
+   "score": 0.677,
+   "tier": 2
+  },
+  {
+   "id": "edd58468d564448f5fe7e63ada47c987b79bf809",
+   "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+   "url": "https://openai.com/index/sophos",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+   "published": "2026-10-09T07:00:00.000Z",
+   "dupes": 1,
+   "score": 0.675,
+   "tier": 2
+  },
+  {
+   "id": "90995f7dbc9c26746d9c1348259bf95f75d89e72",
+   "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+   "url": "https://openai.com/index/asana-browser-agent",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+   "published": "2026-10-09T07:00:00.000Z",
+   "dupes": 1,
+   "score": 0.675,
    "tier": 2
   },
   {
@@ -106,7 +167,7 @@
    "tldr": "NASA is advancing American leadership in space by taking the next step toward a future where commercial space stations lead the way in low Earth orbit.  On Friday, the agency released its final Request for Proposals…",
    "published": "2026-10-09T18:11:44.000Z",
    "dupes": 1,
-   "score": 0.685,
+   "score": 0.668,
    "tier": 2
   },
   {
@@ -121,7 +182,7 @@
    "tldr": "The firm said users can no longer engage in \"sustained and needless\" abusive behaviour towards the tech.",
    "published": "2026-10-09T12:34:27.000Z",
    "dupes": 1,
-   "score": 0.679,
+   "score": 0.663,
    "tier": 2
   },
   {
@@ -136,7 +197,7 @@
    "tldr": "NASA is testing heat shields that can keep astronauts safe as they return from missions to the Moon and Mars in an unusual way: by taking out the trash.",
    "published": "2026-10-09T16:59:24.000Z",
    "dupes": 1,
-   "score": 0.679,
+   "score": 0.663,
    "tier": 2
   },
   {
@@ -151,8 +212,8 @@
    "tldr": "\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results OpenAI abruptly dropped on the field…",
    "published": "2026-10-09T19:09:44.000Z",
    "dupes": 1,
-   "score": 0.678,
-   "tier": 2
+   "score": 0.659,
+   "tier": 3
   },
   {
    "id": "8e250ba036a1ca0b3cc72d0342547f336134ba21",
@@ -166,8 +227,8 @@
    "tldr": "The AI firm instead claims the researchers were fired for mishandling sensitive information.",
    "published": "2026-10-09T09:30:49.000Z",
    "dupes": 1,
-   "score": 0.667,
-   "tier": 2
+   "score": 0.652,
+   "tier": 3
   },
   {
    "id": "2ce4fb4e00ced6defc27ec00c193d2e3cdf11b67",
@@ -181,8 +242,8 @@
    "tldr": "Threat actors have been observed exploiting two recently disclosed flaws in the AhsayCBS backup utility to seize control of affected devices and deploy web shells and XMRig cryptocurrency miners.",
    "published": "2026-10-09T12:47:26.000Z",
    "dupes": 1,
-   "score": 0.664,
-   "tier": 2
+   "score": 0.648,
+   "tier": 3
   },
   {
    "id": "74ab20392a04ba687b97d5d94d98de7b00bdfd7f",
@@ -196,8 +257,8 @@
    "tldr": "Microsoft says devices running unsupported versions of Windows will stop receiving security updates after next year's Windows Update certificate rotation.",
    "published": "2026-10-09T10:12:24.000Z",
    "dupes": 1,
-   "score": 0.662,
-   "tier": 2
+   "score": 0.646,
+   "tier": 3
   },
   {
    "id": "112b5f00879d4fef3be367032aa59a57159f98cd",
@@ -211,22 +272,22 @@
    "tldr": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
    "published": "2026-10-08T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.642,
+   "score": 0.632,
    "tier": 3
   },
   {
-   "id": "15717a6b7c9a1b047c70cda2f0ac956421670e2d",
-   "title": "OpenAI doubles down on decision to fire three AI safety researchers",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
-   "source": "The Verge AI",
+   "id": "e3f3090fc550f0c0abf6fc4cca257722883aea1f",
+   "title": "Three Teams Demonstrate Remote Hacks of Fully Patched Google Pixel 10 at Pwn2Own",
+   "url": "https://thehackernews.com/2026/10/three-teams-demonstrate-remote-hacks-of.html",
+   "source": "The Hacker News",
    "org": [
-    "openai"
+    "google"
    ],
-   "topic": "ai",
-   "tldr": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post on X on Friday, the company said Jasmine Wang, Tomek Korbak…",
-   "published": "2026-10-09T09:48:26.000Z",
+   "topic": "security",
+   "tldr": "Three research teams broke into Google's Pixel 10 on October 8 at Pwn2Own Ireland, a hacking contest in Cork whose rules require every target to be fully patched.  The contest pays researchers to show working exploits…",
+   "published": "2026-10-09T08:26:17.000Z",
    "dupes": 1,
-   "score": 0.636,
+   "score": 0.632,
    "tier": 3
   },
   {
@@ -241,7 +302,7 @@
    "tldr": "5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
    "published": "2026-10-08T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.632,
+   "score": 0.622,
    "tier": 3
   },
   {
@@ -256,7 +317,7 @@
    "tldr": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed.  It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
    "published": "2026-10-08T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.632,
+   "score": 0.622,
    "tier": 3
   },
   {
@@ -271,7 +332,7 @@
    "tldr": "m.  EDT, Thursday, Oct.",
    "published": "2026-10-08T20:22:12.000Z",
    "dupes": 1,
-   "score": 0.606,
+   "score": 0.595,
    "tier": 3
   },
   {
@@ -286,7 +347,7 @@
    "tldr": "Editor’s note: This release was updated Oct.  8, 2026 with the formal name of the summit.",
    "published": "2026-10-08T19:40:00.000Z",
    "dupes": 1,
-   "score": 0.604,
+   "score": 0.594,
    "tier": 3
   },
   {
@@ -301,7 +362,7 @@
    "tldr": "A new NASA-supported spacecraft will get up close to satellites that are no longer in service, demonstrating technologies that could support future in-space repairs and reduce orbital debris.  The Small Spacecraft…",
    "published": "2026-10-08T18:56:25.000Z",
    "dupes": 1,
-   "score": 0.602,
+   "score": 0.592,
    "tier": 3
   },
   {
@@ -316,7 +377,7 @@
    "tldr": "NASA’s SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of Reionization, and Ices Explorer) space telescope is shedding light on brown dwarfs, celestial objects that blur the line between stars and…",
    "published": "2026-10-08T18:22:48.000Z",
    "dupes": 1,
-   "score": 0.601,
+   "score": 0.59,
    "tier": 3
   },
   {
@@ -332,7 +393,7 @@
    "tldr": "At a Microsoft event in San Francisco on Wednesday, NVIDIA founder and CEO Jensen Huang and Microsoft CEO Satya Nadella outlined how NVIDIA and Microsoft are co-engineering hardware and software for AI agents to run on…",
    "published": "2026-10-07T18:45:28.000Z",
    "dupes": 1,
-   "score": 0.581,
+   "score": 0.575,
    "tier": 3
   },
   {
@@ -347,37 +408,22 @@
    "tldr": "Get ready for more AI in your Windows and more AI on the desktop.",
    "published": "2026-10-08T00:00:24.000Z",
    "dupes": 1,
-   "score": 0.566,
+   "score": 0.559,
    "tier": 3
   },
   {
-   "id": "fe6a8c17ea70daa8f4d568b00e7521d11a7c426a",
-   "title": "Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen",
-   "url": "https://www.bbc.co.uk/news/articles/ck9dzpw4ll8po?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
+   "id": "b9f5e1afc2dd31df6a62ebd1e3587bd93b17f538",
+   "title": "Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains",
+   "url": "https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html",
+   "source": "The Hacker News",
    "org": [
-    "nvidia"
+    "google"
    ],
-   "topic": "compute",
-   "tldr": "Firmus said it had made the decision due to \"recent market volatility and prevailing market conditions\".",
-   "published": "2026-10-09T07:14:30.000Z",
+   "topic": "security",
+   "tldr": "Attackers compromised three country-code top-level domains (ccTLDs) and obtained unauthorized HTTPS certificates for several Google domains, Google said on October 6.  as (American Samoa) was put at risk.",
+   "published": "2026-10-07T18:48:17.000Z",
    "dupes": 1,
-   "score": 0.546,
-   "tier": 3
-  },
-  {
-   "id": "1112027d5901b6f1dfea35c8c3f63382b87eaa06",
-   "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-   "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended.  Developers are combining frontier AI models with NVIDIA…",
-   "published": "2026-10-08T21:06:35.000Z",
-   "dupes": 1,
-   "score": 0.545,
+   "score": 0.543,
    "tier": 3
   },
   {
@@ -392,22 +438,7 @@
    "tldr": "Anthropic on Tuesday said it's expanding a program that allows vetted cybersecurity professionals to test its advanced artificial intelligence (AI) models with reduced safeguards and blocking classifiers, as the company…",
    "published": "2026-10-07T08:07:38.000Z",
    "dupes": 1,
-   "score": 0.534,
-   "tier": 3
-  },
-  {
-   "id": "6b3eb2e65b9806fa375357b432a4ed8d3dc2352e",
-   "title": "Rally Up: ‘Gears of War: E-Day’ Launches on GeForce NOW",
-   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-gears-of-war-e-day",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Gears of War: E-Day leads the charge on GeForce NOW this week, bringing Marcus Fenix and Dom Santiago’s first fight against the Locust Horde to the cloud with GeForce RTX-powered performance.",
-   "published": "2026-10-08T13:00:46.000Z",
-   "dupes": 1,
-   "score": 0.533,
+   "score": 0.529,
    "tier": 3
   },
   {
@@ -424,7 +455,7 @@
    "tldr": "Cybersecurity researchers have disclosed details of a \"human-operated phishing platform\" that impersonates advertising products for artificial intelligence (AI) chatbots like Google Gemini, Anthropic Claude, OpenAI…",
    "published": "2026-10-06T18:38:55.000Z",
    "dupes": 1,
-   "score": 0.519,
+   "score": 0.516,
    "tier": 3
   },
   {
@@ -439,155 +470,7 @@
    "tldr": "The Wikimedia Foundation, which hosts Wikipedia, has confirmed that it has discovered activity by rogue OpenAI agents on its platforms, including unsuccessful efforts to compromise Etherpad, a public note-taking tool,…",
    "published": "2026-10-06T11:26:25.000Z",
    "dupes": 1,
-   "score": 0.513,
-   "tier": 3
-  },
-  {
-   "id": "cb207012cadc4c9d5a75e9548cfb84b6316e69e4",
-   "title": "Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes",
-   "url": "https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html",
-   "source": "The Hacker News",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "security",
-   "tldr": "Microsoft has released out-of-band security updates to address a high-severity flaw in Microsoft Exchange Server that could allow an attacker to escalate privileges under certain conditions.  8 on the CVSS scoring…",
-   "published": "2026-10-05T16:21:52.000Z",
-   "dupes": 1,
-   "score": 0.501,
-   "tier": 3
-  },
-  {
-   "id": "f589f556b04636a8946ee9306bc58e049a37daa0",
-   "title": "Xbox announces new XP division to deliver transmedia spinoffs including film, TV, and theme parks",
-   "url": "https://www.gamesindustry.biz/xbox-announces-new-xp-division-to-deliver-transmedia-spinoffs-including-film-tv-and-theme-parks",
-   "source": "GamesIndustry.biz",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "gaming",
-   "tldr": "Xbox has announced a new XP business unit, dedicated to transmedia brand extensions, including the Fallout TV series and the Minecraft World theme park.",
-   "published": "2026-10-08T12:18:40.000Z",
-   "dupes": 1,
-   "score": 0.499,
-   "tier": 3
-  },
-  {
-   "id": "95abd2184698e3b946272efc58902358fbdd134f",
-   "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
-   "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots",
-   "source": "Ars Technica",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "robotics",
-   "tldr": "Full-stack safety solution for physical AI is being used by robotics companies.",
-   "published": "2026-10-08T11:15:33.000Z",
-   "dupes": 1,
-   "score": 0.497,
-   "tier": 3
-  },
-  {
-   "id": "a2beb8a05eac6abd5707ed6d8542f71c205fc309",
-   "title": "From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps",
-   "url": "https://blogs.nvidia.com/blog/ai-breast-cancer-startups",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Breast cancer is the most commonly diagnosed cancer among American women — yet the gaps in care are wide.  A majority of women over age 40 skip the recommended annual screening.",
-   "published": "2026-10-05T13:00:57.000Z",
-   "dupes": 1,
-   "score": 0.489,
-   "tier": 3
-  },
-  {
-   "id": "e3f3090fc550f0c0abf6fc4cca257722883aea1f",
-   "title": "Three Teams Demonstrate Remote Hacks of Fully Patched Google Pixel 10 at Pwn2Own",
-   "url": "https://thehackernews.com/2026/10/three-teams-demonstrate-remote-hacks-of.html",
-   "source": "The Hacker News",
-   "org": [
-    "google"
-   ],
-   "topic": "security",
-   "tldr": "Three research teams broke into Google's Pixel 10 on October 8 at Pwn2Own Ireland, a hacking contest in Cork whose rules require every target to be fully patched.  The contest pays researchers to show working exploits…",
-   "published": "2026-10-09T08:26:17.000Z",
-   "dupes": 1,
-   "score": 0.481,
-   "tier": 3
-  },
-  {
-   "id": "fbf178618638cd97c2695ea973ddda5896e45a64",
-   "title": "Asha Sharma reportedly informs staff that Xbox has \"started to return to growth\" during internal town hall",
-   "url": "https://www.gamesindustry.biz/asha-sharma-reportedly-informs-staff-that-xbox-has-started-to-return-to-growth-during-internal-town-hall",
-   "source": "GamesIndustry.biz",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "gaming",
-   "tldr": "Xbox CEO Asha Sharma reportedly held an internal town hall, telling staff that \"after an all time low, we've started to return to growth.\" Read more",
-   "published": "2026-10-07T10:59:12.000Z",
-   "dupes": 1,
-   "score": 0.461,
-   "tier": 3
-  },
-  {
-   "id": "576be91069016d6536cc15ab754ccb0854e41985",
-   "title": "Rocket Report: A rare Falcon 9 scrub; is it just about Vulcan's time to shine?",
-   "url": "https://arstechnica.com/space/2026/10/rocket-report-a-rare-falcon-9-scrub-is-it-just-about-vulcans-time-to-shine",
-   "source": "Ars Technica",
-   "org": [
-    "spacex"
-   ],
-   "topic": "space",
-   "tldr": "\"I can say we’re weeks away from launching on Vulcan.\"",
-   "published": "2026-10-09T11:00:57.000Z",
-   "dupes": 2,
-   "score": 0.455,
-   "tier": 3
-  },
-  {
-   "id": "b9f5e1afc2dd31df6a62ebd1e3587bd93b17f538",
-   "title": "Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains",
-   "url": "https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html",
-   "source": "The Hacker News",
-   "org": [
-    "google"
-   ],
-   "topic": "security",
-   "tldr": "Attackers compromised three country-code top-level domains (ccTLDs) and obtained unauthorized HTTPS certificates for several Google domains, Google said on October 6.  as (American Samoa) was put at risk.",
-   "published": "2026-10-07T18:48:17.000Z",
-   "dupes": 1,
-   "score": 0.431,
-   "tier": 3
-  },
-  {
-   "id": "bcb3bc81b655a2064618c9aa7c04e0a1c09c900a",
-   "title": "FBI arrests another suspected ShinyHunters hacker after agency breach",
-   "url": "https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach",
-   "source": "BleepingComputer",
-   "org": [],
-   "topic": "security",
-   "tldr": "The FBI has arrested another suspected member of the ShinyHunters extortion group believed to be involved in the recent breach of FBI systems, Director Kash Patel announced Friday.",
-   "published": "2026-10-09T17:02:29.000Z",
-   "dupes": 2,
-   "score": 0.427,
-   "tier": 3
-  },
-  {
-   "id": "b6898643467f316efb60803b7ee66fb15caf8916",
-   "title": "Debunking the Biggest Data Center Myths",
-   "url": "https://about.fb.com/news/2026/10/debunking-the-biggest-data-center-myths",
-   "source": "Meta Newsroom",
-   "org": [
-    "meta"
-   ],
-   "topic": "compute",
-   "tldr": "Developer and content creator Tom Shaw breaks down three of the biggest myths about data centers.  The post Debunking the Biggest Data Center Myths appeared first on Meta Newsroom .",
-   "published": "2026-10-08T16:53:24.000Z",
-   "dupes": 1,
-   "score": 0.422,
+   "score": 0.51,
    "tier": 3
   },
   {
@@ -605,33 +488,168 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.411,
+   "score": 0.509,
    "tier": 3
   },
   {
-   "id": "f44d8716a377ce801db8ce60fcc6e2c32d829eb6",
-   "title": "Citrix warns admins to patch new NetScaler RCE flaw immediately",
-   "url": "https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-patch-new-netscaler-rce-flaw-immediately",
+   "id": "cb207012cadc4c9d5a75e9548cfb84b6316e69e4",
+   "title": "Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes",
+   "url": "https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html",
+   "source": "The Hacker News",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "security",
+   "tldr": "Microsoft has released out-of-band security updates to address a high-severity flaw in Microsoft Exchange Server that could allow an attacker to escalate privileges under certain conditions.  8 on the CVSS scoring…",
+   "published": "2026-10-05T16:21:52.000Z",
+   "dupes": 1,
+   "score": 0.499,
+   "tier": 3
+  },
+  {
+   "id": "f589f556b04636a8946ee9306bc58e049a37daa0",
+   "title": "Xbox announces new XP division to deliver transmedia spinoffs including film, TV, and theme parks",
+   "url": "https://www.gamesindustry.biz/xbox-announces-new-xp-division-to-deliver-transmedia-spinoffs-including-film-tv-and-theme-parks",
+   "source": "GamesIndustry.biz",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "gaming",
+   "tldr": "Xbox has announced a new XP business unit, dedicated to transmedia brand extensions, including the Fallout TV series and the Minecraft World theme park.",
+   "published": "2026-10-08T12:18:40.000Z",
+   "dupes": 1,
+   "score": 0.491,
+   "tier": 3
+  },
+  {
+   "id": "1112027d5901b6f1dfea35c8c3f63382b87eaa06",
+   "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+   "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended.  Developers are combining frontier AI models with NVIDIA…",
+   "published": "2026-10-08T21:06:35.000Z",
+   "dupes": 1,
+   "score": 0.468,
+   "tier": 3
+  },
+  {
+   "id": "fe6a8c17ea70daa8f4d568b00e7521d11a7c426a",
+   "title": "Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen",
+   "url": "https://www.bbc.co.uk/news/articles/ck9dzpw4ll8po?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Technology",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Firmus said it had made the decision due to \"recent market volatility and prevailing market conditions\".",
+   "published": "2026-10-09T07:14:30.000Z",
+   "dupes": 1,
+   "score": 0.468,
+   "tier": 3
+  },
+  {
+   "id": "6b3eb2e65b9806fa375357b432a4ed8d3dc2352e",
+   "title": "Rally Up: ‘Gears of War: E-Day’ Launches on GeForce NOW",
+   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-gears-of-war-e-day",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Gears of War: E-Day leads the charge on GeForce NOW this week, bringing Marcus Fenix and Dom Santiago’s first fight against the Locust Horde to the cloud with GeForce RTX-powered performance.",
+   "published": "2026-10-08T13:00:46.000Z",
+   "dupes": 1,
+   "score": 0.458,
+   "tier": 3
+  },
+  {
+   "id": "fbf178618638cd97c2695ea973ddda5896e45a64",
+   "title": "Asha Sharma reportedly informs staff that Xbox has \"started to return to growth\" during internal town hall",
+   "url": "https://www.gamesindustry.biz/asha-sharma-reportedly-informs-staff-that-xbox-has-started-to-return-to-growth-during-internal-town-hall",
+   "source": "GamesIndustry.biz",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "gaming",
+   "tldr": "Xbox CEO Asha Sharma reportedly held an internal town hall, telling staff that \"after an all time low, we've started to return to growth.\" Read more",
+   "published": "2026-10-07T10:59:12.000Z",
+   "dupes": 1,
+   "score": 0.456,
+   "tier": 3
+  },
+  {
+   "id": "576be91069016d6536cc15ab754ccb0854e41985",
+   "title": "Rocket Report: A rare Falcon 9 scrub; is it just about Vulcan's time to shine?",
+   "url": "https://arstechnica.com/space/2026/10/rocket-report-a-rare-falcon-9-scrub-is-it-just-about-vulcans-time-to-shine",
+   "source": "Ars Technica",
+   "org": [
+    "spacex"
+   ],
+   "topic": "space",
+   "tldr": "\"I can say we’re weeks away from launching on Vulcan.\"",
+   "published": "2026-10-09T11:00:57.000Z",
+   "dupes": 2,
+   "score": 0.435,
+   "tier": 3
+  },
+  {
+   "id": "a2beb8a05eac6abd5707ed6d8542f71c205fc309",
+   "title": "From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps",
+   "url": "https://blogs.nvidia.com/blog/ai-breast-cancer-startups",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Breast cancer is the most commonly diagnosed cancer among American women — yet the gaps in care are wide.  A majority of women over age 40 skip the recommended annual screening.",
+   "published": "2026-10-05T13:00:57.000Z",
+   "dupes": 1,
+   "score": 0.417,
+   "tier": 3
+  },
+  {
+   "id": "bcb3bc81b655a2064618c9aa7c04e0a1c09c900a",
+   "title": "FBI arrests another suspected ShinyHunters hacker after agency breach",
+   "url": "https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach",
    "source": "BleepingComputer",
    "org": [],
    "topic": "security",
-   "tldr": "Citrix has warned IT administrators to patch systems immediately against a new critical vulnerability affecting NetScaler ADC networking appliances and NetScaler Gateway secure remote access solutions.",
-   "published": "2026-10-09T08:27:42.000Z",
+   "tldr": "The FBI has arrested another suspected member of the ShinyHunters extortion group believed to be involved in the recent breach of FBI systems, Director Kash Patel announced Friday.",
+   "published": "2026-10-09T17:02:29.000Z",
    "dupes": 2,
-   "score": 0.39,
+   "score": 0.409,
    "tier": 3
   },
   {
-   "id": "d88308f9717685b76840cb9a4e026e14d9a642d3",
-   "title": "PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023",
-   "url": "https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023",
+   "id": "b6898643467f316efb60803b7ee66fb15caf8916",
+   "title": "Debunking the Biggest Data Center Myths",
+   "url": "https://about.fb.com/news/2026/10/debunking-the-biggest-data-center-myths",
+   "source": "Meta Newsroom",
+   "org": [
+    "meta"
+   ],
+   "topic": "compute",
+   "tldr": "Developer and content creator Tom Shaw breaks down three of the biggest myths about data centers.  The post Debunking the Biggest Data Center Myths appeared first on Meta Newsroom .",
+   "published": "2026-10-08T16:53:24.000Z",
+   "dupes": 1,
+   "score": 0.4,
+   "tier": 3
+  },
+  {
+   "id": "3aba3f2d9e72a8062ad4e1c3d2fa4f6d33fcf847",
+   "title": "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis",
+   "url": "https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis",
    "source": "Ars Technica · Gadgets",
    "org": [],
    "topic": "compute",
-   "tldr": "\"The current decline may be just the beginning of a new downward cycle.\"",
-   "published": "2026-10-09T18:54:52.000Z",
+   "tldr": "Stylish upcycling, with a retro flare, at Spain's Museo de Historia de la Computación.",
+   "published": "2026-10-09T21:51:12.000Z",
    "dupes": 1,
-   "score": 0.381,
+   "score": 0.376,
    "tier": 3
   },
   {
@@ -644,7 +662,7 @@
    "tldr": "",
    "published": "2026-10-09T15:20:29.000Z",
    "dupes": 1,
-   "score": 0.38,
+   "score": 0.362,
    "tier": 3
   },
   {
@@ -659,7 +677,20 @@
    "tldr": "\"These led to conjunctions of tens of meters to hundreds of meters.",
    "published": "2026-10-08T21:37:32.000Z",
    "dupes": 1,
-   "score": 0.38,
+   "score": 0.362,
+   "tier": 3
+  },
+  {
+   "id": "d88308f9717685b76840cb9a4e026e14d9a642d3",
+   "title": "PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023",
+   "url": "https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023",
+   "source": "Ars Technica · Gadgets",
+   "org": [],
+   "topic": "compute",
+   "tldr": "\"The current decline may be just the beginning of a new downward cycle.\"",
+   "published": "2026-10-09T18:54:52.000Z",
+   "dupes": 1,
+   "score": 0.362,
    "tier": 3
   },
   {
@@ -672,7 +703,7 @@
    "tldr": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year.  Secrecy has fueled community backlash against AI infrastructure,…",
    "published": "2026-10-09T16:56:42.000Z",
    "dupes": 1,
-   "score": 0.379,
+   "score": 0.361,
    "tier": 3
   },
   {
@@ -685,7 +716,7 @@
    "tldr": "Debian Linux has put a call out for artist submissions for its next release: Forky.",
    "published": "2026-10-09T18:33:26.000Z",
    "dupes": 1,
-   "score": 0.379,
+   "score": 0.36,
    "tier": 3
   },
   {
@@ -701,7 +732,7 @@
    "tldr": "Sony has agreed to transfer 419 global VR patents to Meta, with 180 patents filed in the US under an agreement signed in December 2025.",
    "published": "2026-10-09T10:50:02.000Z",
    "dupes": 1,
-   "score": 0.378,
+   "score": 0.358,
    "tier": 3
   },
   {
@@ -716,7 +747,7 @@
    "tldr": "The Robot Report spoke with Alberto Rodriguez, the director of robot behavior for Atlas at Boston Dynamics, about the humanoid's new hand.  The post Boston Dynamics gives more insight into its redesigned humanoid hand…",
    "published": "2026-10-09T16:59:57.000Z",
    "dupes": 1,
-   "score": 0.372,
+   "score": 0.354,
    "tier": 3
   },
   {
@@ -729,7 +760,7 @@
    "tldr": "Galaxies warp and multiply as if in a house of mirrors in this image from NASA’s James Webb Space Telescope released on Sept.  29, 2026.",
    "published": "2026-10-09T13:57:24.000Z",
    "dupes": 1,
-   "score": 0.362,
+   "score": 0.347,
    "tier": 3
   },
   {
@@ -742,7 +773,7 @@
    "tldr": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.",
    "published": "2026-10-09T16:45:00.000Z",
    "dupes": 1,
-   "score": 0.359,
+   "score": 0.342,
    "tier": 3
   },
   {
@@ -755,33 +786,7 @@
    "tldr": "Week in images: 05-09 October 2026 Discover our week through the lens",
    "published": "2026-10-09T13:15:00.000Z",
    "dupes": 1,
-   "score": 0.352,
-   "tier": 3
-  },
-  {
-   "id": "ce34549d6232df96f4297eb34347367983af04d8",
-   "title": "Amazon builds 1,000th satellite, will launch space internet service by end of year",
-   "url": "https://arstechnica.com/space/2026/10/amazon-builds-1000th-satellite-is-weeks-away-from-space-internet-rollout",
-   "source": "Ars Technica",
-   "org": [],
-   "topic": "space",
-   "tldr": "\"If this was easy, everybody else would be doing it.\"",
-   "published": "2026-10-08T15:28:36.000Z",
-   "dupes": 2,
-   "score": 0.334,
-   "tier": 3
-  },
-  {
-   "id": "a4f9cf5841173fd8a5710c05697e9fc57b344cab",
-   "title": "Groceryshop 2026 shows that retail robots are ready to scale, use AI",
-   "url": "https://www.therobotreport.com/groceryshop-2026-shows-retail-robots-ready-scale-use-ai",
-   "source": "The Robot Report",
-   "org": [],
-   "topic": "robotics",
-   "tldr": "Groceryshop 2026 not only featured mobile robots for taking inventory, but it also showed how retail automation is evolving.  The post Groceryshop 2026 shows that retail robots are ready to scale, use AI appeared first…",
-   "published": "2026-10-09T12:25:47.000Z",
-   "dupes": 1,
-   "score": 0.333,
+   "score": 0.336,
    "tier": 3
   },
   {
@@ -794,7 +799,20 @@
    "tldr": "Image: This image from Copernicus Sentinel-2, acquired on 5 April 2026, shows the Etosha National Park in northern Namibia.",
    "published": "2026-10-09T08:00:00.000Z",
    "dupes": 1,
-   "score": 0.332,
+   "score": 0.318,
+   "tier": 3
+  },
+  {
+   "id": "a4f9cf5841173fd8a5710c05697e9fc57b344cab",
+   "title": "Groceryshop 2026 shows that retail robots are ready to scale, use AI",
+   "url": "https://www.therobotreport.com/groceryshop-2026-shows-retail-robots-ready-scale-use-ai",
+   "source": "The Robot Report",
+   "org": [],
+   "topic": "robotics",
+   "tldr": "Groceryshop 2026 not only featured mobile robots for taking inventory, but it also showed how retail automation is evolving.  The post Groceryshop 2026 shows that retail robots are ready to scale, use AI appeared first…",
+   "published": "2026-10-09T12:25:47.000Z",
+   "dupes": 1,
+   "score": 0.318,
    "tier": 3
   },
   {
@@ -807,7 +825,7 @@
    "tldr": "Undead Labs studio boss Philip Holt is \"reluctant to share\" how many employees the developer lost when it became independent of Xbox.",
    "published": "2026-10-09T13:58:18.000Z",
    "dupes": 1,
-   "score": 0.306,
+   "score": 0.293,
    "tier": 3
   },
   {
@@ -820,20 +838,7 @@
    "tldr": "Paramount Pictures is adapting a live-action film set in the Cyberpunk 2077 universe.",
    "published": "2026-10-09T12:54:02.000Z",
    "dupes": 1,
-   "score": 0.302,
-   "tier": 3
-  },
-  {
-   "id": "668ed97105efc19d08d612091783128e35558153",
-   "title": "Let's Encrypt cuts certificate lifetimes to 64 days starting February 2027",
-   "url": "https://arstechnica.com/gadgets/2026/10/lets-encrypt-cuts-certificate-lifetimes-to-64-days-starting-february-2027",
-   "source": "Ars Technica · Gadgets",
-   "org": [],
-   "topic": "compute",
-   "tldr": "Free SSL/TLS certificate lifetimes reduce to 64 days in February.",
-   "published": "2026-10-08T19:57:17.000Z",
-   "dupes": 1,
-   "score": 0.293,
+   "score": 0.289,
    "tier": 3
   },
   {
@@ -848,7 +853,7 @@
    "tldr": "Before Boston Dynamics, Prasad served as senior vice president and head scientist for Alexa and artificial general intelligence at Amazon.  The post Boston Dynamics appoints former Amazon exec Rohit Prasad as new CEO…",
    "published": "2026-10-06T21:00:30.000Z",
    "dupes": 1,
-   "score": 0.293,
+   "score": 0.281,
    "tier": 3
   },
   {
@@ -861,7 +866,7 @@
    "tldr": "Nordisk Games has announced a publishing agreement between its subsidiaries Avalanche Studios Group and Supermassive Games.",
    "published": "2026-10-09T08:51:01.000Z",
    "dupes": 1,
-   "score": 0.289,
+   "score": 0.277,
    "tier": 3
   },
   {
@@ -874,7 +879,7 @@
    "tldr": "SafeWorld’s platform provides testing and simulation software to help enterprises evaluate and deploy robots safely and responsibly.  The post SafeWorld emerges from stealth to build, deploy robot safety simulation…",
    "published": "2026-10-08T21:09:48.000Z",
    "dupes": 1,
-   "score": 0.281,
+   "score": 0.271,
    "tier": 3
   },
   {
@@ -887,7 +892,7 @@
    "tldr": "ai trained its foundation models using its unsupervised 'deep teaching' methodology to master the structure of the physical world itself.  ai reaches $70M in signed commercial contracts for its foundation models…",
    "published": "2026-10-08T15:55:31.000Z",
    "dupes": 1,
-   "score": 0.267,
+   "score": 0.258,
    "tier": 3
   },
   {
@@ -903,7 +908,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.261,
+   "score": 0.252,
    "tier": 3
   },
   {
@@ -916,7 +921,7 @@
    "tldr": "The Schneider Electric acquisition of PTC gives it a 'digital thread' from design through operations, but it needs to integrate data and software, says Interact Analysis.  The post PTC acquisition positions Schneider…",
    "published": "2026-10-07T21:07:53.000Z",
    "dupes": 1,
-   "score": 0.229,
+   "score": 0.223,
    "tier": 3
   },
   {
@@ -929,7 +934,7 @@
    "tldr": "Teradyne Robotics and Elite Robots have settled their software dispute, ending the legal case without disclosing the terms of the agreement.  The post Teradyne Robotics, Elite Robots settle cobot dispute appeared first…",
    "published": "2026-10-07T16:20:52.000Z",
    "dupes": 1,
-   "score": 0.222,
+   "score": 0.216,
    "tier": 3
   },
   {
@@ -942,7 +947,7 @@
    "tldr": "Cloud seeding is gaining attention as countries look to boost rainfall - will drones help?",
    "published": "2026-10-07T07:09:32.000Z",
    "dupes": 1,
-   "score": 0.217,
+   "score": 0.213,
    "tier": 3
   },
   {
@@ -955,7 +960,7 @@
    "tldr": "Attendees will learn how integrated actuators can reduce engineering effort by simplifying system integration.  The post Harmonic Drive to share how integrated actuators can reduce engineering at RoboBusiness appeared…",
    "published": "2026-10-07T12:24:09.000Z",
    "dupes": 1,
-   "score": 0.216,
+   "score": 0.211,
    "tier": 3
   }
  ]
