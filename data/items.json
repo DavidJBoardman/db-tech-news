@@ -1,185 +1,79 @@
 {
- "generated": "2026-10-12T07:48:28.576Z",
+ "generated": "2026-10-12T17:12:42.569Z",
  "items": [
   {
-   "id": "ce7cbe0fa785220744768fc34b8ca03b368b422e",
-   "title": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
-   "url": "https://github.com/SaarthurR/atticus-mac",
-   "source": "Hacker News",
+   "id": "181049058bc1c54f752223f1e274bdf4bfcacef4",
+   "title": "Simulating student learning for better AI tutoring",
+   "url": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring",
+   "source": "Microsoft Research",
    "org": [
-    "anthropic"
+    "microsoft"
    ],
    "topic": "ai",
-   "tldr": "",
-   "published": "2026-10-12T00:15:12.000Z",
+   "tldr": "StudentSim is a research system for evaluating and improving AI tutoring tools before they are tested with learners.  It models how individuals may engage with tutors, giving feedback to improve tutor performance across…",
+   "published": "2026-10-12T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.709,
+   "score": 0.717,
    "tier": 1
   },
   {
-   "id": "a703ac68fcb486200fc7e3a027a0b0b33a85e769",
-   "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-   "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach.",
-   "published": "2026-10-10T10:06:23.000Z",
-   "dupes": 2,
-   "score": 0.627,
-   "tier": 2
-  },
-  {
-   "id": "9a30bde8c66d5d876345219758ce1e7ef29280a3",
-   "title": "ARTEX AI, Claude agents used in cyberattacks on South Korean banks",
-   "url": "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks",
-   "source": "BleepingComputer",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "security",
-   "tldr": "The cyberattacks that shook the South Korean financial sector earlier this month were launched by a Chinese hacker using the ARTEX AI penetration testing suite and Claude agents.",
-   "published": "2026-10-10T14:16:17.000Z",
-   "dupes": 2,
-   "score": 0.626,
-   "tier": 2
-  },
-  {
-   "id": "a22a6ca92e5c69fdf01eef5e96b283f5b72e4fc3",
-   "title": "Expanding the Cyber Verification Program",
-   "url": "https://www.anthropic.com/news/cyber-verification-program",
-   "source": "Anthropic News",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
-   "published": "2026-10-06T00:00:00.000Z",
-   "dupes": 2,
-   "score": 0.589,
-   "tier": 2
-  },
-  {
-   "id": "6cd6f5cc677d305a1a62e63c5e7f64075a42fc73",
-   "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-   "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead",
+   "id": "5974203bb3c7b557bf41531f2a5bd630c35cc434",
+   "title": "Microsoft president says UK is best placed to drive AI regulation",
+   "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation",
    "source": "TechCrunch",
    "org": [
-    "anthropic"
+    "microsoft"
    ],
    "topic": "ai",
-   "tldr": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
-   "published": "2026-10-10T00:18:32.000Z",
+   "tldr": "Microsoft President Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+   "published": "2026-10-12T15:31:19.000Z",
    "dupes": 1,
-   "score": 0.556,
+   "score": 0.707,
    "tier": 2
   },
   {
-   "id": "ebcd6167a2366d08a65f2a07f39f34580512e345",
-   "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
-   "url": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
-   "source": "The Hacker News",
+   "id": "87249271f53fa37dbac4bbd5855c8f44b62a8f61",
+   "title": "Microsoft to expand Azure Maia system to multi-gigawatt deployments",
+   "url": "https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments",
+   "source": "Microsoft Blog",
    "org": [
-    "anthropic"
-   ],
-   "topic": "security",
-   "tldr": "Anthropic on Friday said it's cutting off live internet access for all its internal evaluations following the discovery of new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior and…",
-   "published": "2026-10-10T09:18:45.000Z",
-   "dupes": 1,
-   "score": 0.554,
-   "tier": 2
-  },
-  {
-   "id": "0decde66c5ee642f4b2199f4eac556d234595585",
-   "title": "Anthropic is cutting off its internal evaluations from the internet",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
-   "source": "The Verge AI",
-   "org": [
-    "anthropic"
+    "microsoft"
    ],
    "topic": "ai",
-   "tldr": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations.  In a report Friday, the company detailed \"unintended model…",
-   "published": "2026-10-10T14:41:16.000Z",
+   "tldr": "Azure Maia 200 now in production; Azure Maia 300 coming in 2027 As we move into the era of Super Intelligence, Microsoft is entering a new phase of infrastructure.  We will scale our Azure Maia family to multi-gigawatt…",
+   "published": "2026-10-12T13:01:29.000Z",
    "dupes": 1,
-   "score": 0.548,
+   "score": 0.695,
    "tier": 2
   },
   {
-   "id": "7a238471d7092596655199c19a93e82f369e2aa9",
-   "title": "2026 Usage Policy update",
-   "url": "https://www.anthropic.com/news/2026-usage-policy-update",
-   "source": "Anthropic News",
+   "id": "280ae80917c40ca60a3e628ccd1a92614f7ed077",
+   "title": "Deep dive into Azure Maia 300 architecture",
+   "url": "https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture",
+   "source": "Hacker News",
    "org": [
-    "anthropic"
+    "microsoft"
    ],
    "topic": "ai",
    "tldr": "",
-   "published": "2026-10-08T00:00:00.000Z",
+   "published": "2026-10-12T14:45:44.000Z",
    "dupes": 1,
-   "score": 0.547,
+   "score": 0.689,
    "tier": 2
   },
   {
-   "id": "26f5049650b43a59d73f96eb79b5070801d88f60",
-   "title": "Building on our commitment to American scientific discovery",
-   "url": "https://www.anthropic.com/news/genesis-mission-commitment",
-   "source": "Anthropic News",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-10-08T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.547,
-   "tier": 2
-  },
-  {
-   "id": "db9c355075ab2255375e8cccd40454cd5d83003d",
-   "title": "Introducing the Anthropic Cyber Mission",
-   "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
-   "source": "Anthropic News",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-10-08T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.547,
-   "tier": 2
-  },
-  {
-   "id": "89b1c5b22d3988e012feb98de085948fa8578516",
-   "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks",
+   "id": "b6787b08ad8ae810510fcc17bb7cc4cc99c21d62",
+   "title": "Microsoft: Windows 11 23H2 reaches end of support in 30 days",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-23h2-reaches-end-of-support-in-30-days",
    "source": "BleepingComputer",
    "org": [
-    "anthropic",
-    "google"
+    "microsoft"
    ],
    "topic": "security",
-   "tldr": "Hackers are abusing legitimate Bing search-result redirects as click URLs in Google search ads to direct users to fake Claude installers that deliver ClickFix attacks.",
-   "published": "2026-10-09T20:31:37.000Z",
+   "tldr": "Microsoft has reminded customers that systems running Windows 11 23H2 Enterprise, Education, and IoT Enterprise editions will stop receiving security updates next month.",
+   "published": "2026-10-12T11:58:33.000Z",
    "dupes": 1,
-   "score": 0.543,
-   "tier": 2
-  },
-  {
-   "id": "753fc11ffd6907b37d821af28efc79b2fd6f0772",
-   "title": "Anthropic bans users from being 'cruel' to its AI systems",
-   "url": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "The firm said users can no longer engage in \"sustained and needless\" abusive behaviour towards the tech.",
-   "published": "2026-10-09T12:34:27.000Z",
-   "dupes": 1,
-   "score": 0.542,
+   "score": 0.682,
    "tier": 2
   },
   {
@@ -194,8 +88,341 @@
    "tldr": "Brad Smith calls for global rules on AI, and says the UK is in the \"best position\" to lead the charge.",
    "published": "2026-10-12T07:47:37.000Z",
    "dupes": 1,
-   "score": 0.541,
+   "score": 0.672,
    "tier": 2
+  },
+  {
+   "id": "f35a073890448086210a56d286ed4f1281adabb4",
+   "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+   "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+   "source": "The Verge AI",
+   "org": [
+    "nvidia",
+    "microsoft"
+   ],
+   "topic": "compute",
+   "tldr": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services.  Maia 300 not only improves the cost and efficiency of…",
+   "published": "2026-10-12T13:00:00.000Z",
+   "dupes": 1,
+   "score": 0.663,
+   "tier": 2
+  },
+  {
+   "id": "64b8fb1d42bf98f3a680959222748007b3e37dfa",
+   "title": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
+   "url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "As AI factories grow from megawatts to gigawatts, building them takes more than advanced computing.  Open standards are helping the industry scale AI infrastructure faster, more efficiently and more reliably.",
+   "published": "2026-10-12T15:00:25.000Z",
+   "dupes": 1,
+   "score": 0.647,
+   "tier": 2
+  },
+  {
+   "id": "3cbe75ba0f77b59a6a1f86adf11ffa96991f699f",
+   "title": "I Found a $90k Remote Code Execution Vulnerability in Google",
+   "url": "https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce",
+   "source": "Hacker News",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-10-12T07:28:53.000Z",
+   "dupes": 1,
+   "score": 0.586,
+   "tier": 2
+  },
+  {
+   "id": "2c9728d3318bed23628c85911ba40b59de81514d",
+   "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+   "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake",
+   "source": "TechCrunch",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+   "published": "2026-10-10T21:47:51.000Z",
+   "dupes": 1,
+   "score": 0.576,
+   "tier": 2
+  },
+  {
+   "id": "a22a6ca92e5c69fdf01eef5e96b283f5b72e4fc3",
+   "title": "Expanding the Cyber Verification Program",
+   "url": "https://www.anthropic.com/news/cyber-verification-program",
+   "source": "Anthropic News",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
+   "published": "2026-10-06T00:00:00.000Z",
+   "dupes": 2,
+   "score": 0.569,
+   "tier": 2
+  },
+  {
+   "id": "a703ac68fcb486200fc7e3a027a0b0b33a85e769",
+   "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+   "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Technology",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach.",
+   "published": "2026-10-10T10:06:23.000Z",
+   "dupes": 2,
+   "score": 0.566,
+   "tier": 2
+  },
+  {
+   "id": "9a30bde8c66d5d876345219758ce1e7ef29280a3",
+   "title": "ARTEX AI, Claude agents used in cyberattacks on South Korean banks",
+   "url": "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks",
+   "source": "BleepingComputer",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "security",
+   "tldr": "The cyberattacks that shook the South Korean financial sector earlier this month were launched by a Chinese hacker using the ARTEX AI penetration testing suite and Claude agents.",
+   "published": "2026-10-10T14:16:17.000Z",
+   "dupes": 2,
+   "score": 0.561,
+   "tier": 2
+  },
+  {
+   "id": "d261b6b9e669cf36d547dea5788a9f7e30811bf2",
+   "title": "CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records",
+   "url": "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html",
+   "source": "The Hacker News",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "security",
+   "tldr": "Cybersecurity researchers have disclosed details of a two-pronged artificial intelligence (AI)-augmented initial access campaign targeting WordPress sites, e-commerce platforms, and critical infrastructure entities in…",
+   "published": "2026-10-12T07:26:12.000Z",
+   "dupes": 1,
+   "score": 0.553,
+   "tier": 3
+  },
+  {
+   "id": "b2ceafcb70e0c624d701836ebbc0d3fe9d5a6b7e",
+   "title": "Google announces the Fitbit Edge, a middle ground between Pixel Watch 5 and Fitbit Air",
+   "url": "https://arstechnica.com/gadgets/2026/10/google-announces-the-fitbit-edge-a-middle-ground-between-pixel-watch-5-and-fitbit-air",
+   "source": "Ars Technica · Gadgets",
+   "org": [
+    "google"
+   ],
+   "topic": "compute",
+   "tldr": "The Fitbit Edge offers more than the Air, but it's not a real smartwatch.",
+   "published": "2026-10-12T13:00:52.000Z",
+   "dupes": 1,
+   "score": 0.544,
+   "tier": 3
+  },
+  {
+   "id": "1112027d5901b6f1dfea35c8c3f63382b87eaa06",
+   "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+   "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended.  Developers are combining frontier AI models with NVIDIA…",
+   "published": "2026-10-08T21:06:35.000Z",
+   "dupes": 1,
+   "score": 0.537,
+   "tier": 3
+  },
+  {
+   "id": "6b3eb2e65b9806fa375357b432a4ed8d3dc2352e",
+   "title": "Rally Up: ‘Gears of War: E-Day’ Launches on GeForce NOW",
+   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-gears-of-war-e-day",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Gears of War: E-Day leads the charge on GeForce NOW this week, bringing Marcus Fenix and Dom Santiago’s first fight against the Locust Horde to the cloud with GeForce RTX-powered performance.",
+   "published": "2026-10-08T13:00:46.000Z",
+   "dupes": 1,
+   "score": 0.533,
+   "tier": 3
+  },
+  {
+   "id": "fe6a8c17ea70daa8f4d568b00e7521d11a7c426a",
+   "title": "Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen",
+   "url": "https://www.bbc.co.uk/news/articles/ck9dzpw4ll8po?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Technology",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Firmus said it had made the decision due to \"recent market volatility and prevailing market conditions\".",
+   "published": "2026-10-09T07:14:30.000Z",
+   "dupes": 1,
+   "score": 0.528,
+   "tier": 3
+  },
+  {
+   "id": "32e3eac6b4d240f3885410646ebeaa75a0ce7bdf",
+   "title": "Nvidia reportedly ends GeForce RTX 5090 graphics card production",
+   "url": "https://www.gamesindustry.biz/nvidia-reportedly-ends-geforce-rtx-5090-graphics-card-production",
+   "source": "GamesIndustry.biz",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "gaming",
+   "tldr": "Nvidia has reportedly stopped manufacturing the GeForce RTX 5090, including the D variants made for the Chinese market.",
+   "published": "2026-10-12T16:17:15.000Z",
+   "dupes": 1,
+   "score": 0.527,
+   "tier": 3
+  },
+  {
+   "id": "6f02344687c47731230e191ac23438080c909b1a",
+   "title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
+   "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia",
+    "microsoft"
+   ],
+   "topic": "compute",
+   "tldr": "At a Microsoft event in San Francisco on Wednesday, NVIDIA founder and CEO Jensen Huang and Microsoft CEO Satya Nadella outlined how NVIDIA and Microsoft are co-engineering hardware and software for AI agents to run on…",
+   "published": "2026-10-07T18:45:28.000Z",
+   "dupes": 1,
+   "score": 0.525,
+   "tier": 3
+  },
+  {
+   "id": "7a238471d7092596655199c19a93e82f369e2aa9",
+   "title": "2026 Usage Policy update",
+   "url": "https://www.anthropic.com/news/2026-usage-policy-update",
+   "source": "Anthropic News",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-10-08T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.519,
+   "tier": 3
+  },
+  {
+   "id": "26f5049650b43a59d73f96eb79b5070801d88f60",
+   "title": "Building on our commitment to American scientific discovery",
+   "url": "https://www.anthropic.com/news/genesis-mission-commitment",
+   "source": "Anthropic News",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-10-08T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.519,
+   "tier": 3
+  },
+  {
+   "id": "db9c355075ab2255375e8cccd40454cd5d83003d",
+   "title": "Introducing the Anthropic Cyber Mission",
+   "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
+   "source": "Anthropic News",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-10-08T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.519,
+   "tier": 3
+  },
+  {
+   "id": "2ce4fb4e00ced6defc27ec00c193d2e3cdf11b67",
+   "title": "Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge",
+   "url": "https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html",
+   "source": "The Hacker News",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "security",
+   "tldr": "Threat actors have been observed exploiting two recently disclosed flaws in the AhsayCBS backup utility to seize control of affected devices and deploy web shells and XMRig cryptocurrency miners.",
+   "published": "2026-10-09T12:47:26.000Z",
+   "dupes": 1,
+   "score": 0.517,
+   "tier": 3
+  },
+  {
+   "id": "d587fa318b28c3aad10a44883635716c7f8a2470",
+   "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
+   "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google",
+   "source": "Ars Technica",
+   "org": [
+    "google"
+   ],
+   "topic": "robotics",
+   "tldr": "One damaged data center has supercomputers used for training Yandex’s AI model.",
+   "published": "2026-10-09T22:04:07.000Z",
+   "dupes": 2,
+   "score": 0.51,
+   "tier": 3
+  },
+  {
+   "id": "b7d1e3ccac451e409d0ec9851ce1cd0ec1adf630",
+   "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
+   "url": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes",
+   "source": "Ars Technica · Gadgets",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "compute",
+   "tldr": "Get ready for more AI in your Windows and more AI on the desktop.",
+   "published": "2026-10-08T00:00:24.000Z",
+   "dupes": 1,
+   "score": 0.503,
+   "tier": 3
+  },
+  {
+   "id": "89b1c5b22d3988e012feb98de085948fa8578516",
+   "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks",
+   "source": "BleepingComputer",
+   "org": [
+    "anthropic",
+    "google"
+   ],
+   "topic": "security",
+   "tldr": "Hackers are abusing legitimate Bing search-result redirects as click URLs in Google search ads to direct users to fake Claude installers that deliver ClickFix attacks.",
+   "published": "2026-10-09T20:31:37.000Z",
+   "dupes": 1,
+   "score": 0.494,
+   "tier": 3
+  },
+  {
+   "id": "ebcd6167a2366d08a65f2a07f39f34580512e345",
+   "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
+   "url": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
+   "source": "The Hacker News",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "security",
+   "tldr": "Anthropic on Friday said it's cutting off live internet access for all its internal evaluations until further notice following the discovery of new incidents in which its artificial intelligence (AI) models exhibited…",
+   "published": "2026-10-10T09:18:45.000Z",
+   "dupes": 1,
+   "score": 0.494,
+   "tier": 3
   },
   {
    "id": "04cd634844344647bfa6fb9dab2041ad464ca6c3",
@@ -212,22 +439,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.526,
-   "tier": 3
-  },
-  {
-   "id": "778ab122b6ef9260b6e465550fb532d73d5724a8",
-   "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-   "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet",
-   "source": "TechCrunch",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
-   "published": "2026-10-11T14:00:00.000Z",
-   "dupes": 1,
-   "score": 0.508,
+   "score": 0.482,
    "tier": 3
   },
   {
@@ -242,7 +454,7 @@
    "tldr": "Anthropic on Tuesday said it's expanding a program that allows vetted cybersecurity professionals to test its advanced artificial intelligence (AI) models with reduced safeguards and blocking classifiers, as the company…",
    "published": "2026-10-07T08:07:38.000Z",
    "dupes": 1,
-   "score": 0.493,
+   "score": 0.469,
    "tier": 3
   },
   {
@@ -259,270 +471,7 @@
    "tldr": "Cybersecurity researchers have disclosed details of a \"human-operated phishing platform\" that impersonates advertising products for artificial intelligence (AI) chatbots like Google Gemini, Anthropic Claude, OpenAI…",
    "published": "2026-10-06T18:38:55.000Z",
    "dupes": 1,
-   "score": 0.489,
-   "tier": 3
-  },
-  {
-   "id": "edd58468d564448f5fe7e63ada47c987b79bf809",
-   "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-   "url": "https://openai.com/index/sophos",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-   "published": "2026-10-09T07:00:00.000Z",
-   "dupes": 1,
-   "score": 0.486,
-   "tier": 3
-  },
-  {
-   "id": "6f02344687c47731230e191ac23438080c909b1a",
-   "title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
-   "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia",
-    "microsoft"
-   ],
-   "topic": "compute",
-   "tldr": "At a Microsoft event in San Francisco on Wednesday, NVIDIA founder and CEO Jensen Huang and Microsoft CEO Satya Nadella outlined how NVIDIA and Microsoft are co-engineering hardware and software for AI agents to run on…",
-   "published": "2026-10-07T18:45:28.000Z",
-   "dupes": 1,
-   "score": 0.453,
-   "tier": 3
-  },
-  {
-   "id": "74ab20392a04ba687b97d5d94d98de7b00bdfd7f",
-   "title": "Microsoft: Outdated Windows devices will stop receiving security updates",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outdated-windows-devices-will-lose-security-protection-next-year",
-   "source": "BleepingComputer",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "security",
-   "tldr": "Microsoft says devices running unsupported versions of Windows will stop receiving security updates after next year's Windows Update certificate rotation.",
-   "published": "2026-10-09T10:12:24.000Z",
-   "dupes": 1,
-   "score": 0.443,
-   "tier": 3
-  },
-  {
-   "id": "2ce4fb4e00ced6defc27ec00c193d2e3cdf11b67",
-   "title": "Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge",
-   "url": "https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html",
-   "source": "The Hacker News",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "security",
-   "tldr": "Threat actors have been observed exploiting two recently disclosed flaws in the AhsayCBS backup utility to seize control of affected devices and deploy web shells and XMRig cryptocurrency miners.",
-   "published": "2026-10-09T12:47:26.000Z",
-   "dupes": 1,
-   "score": 0.436,
-   "tier": 3
-  },
-  {
-   "id": "b7d1e3ccac451e409d0ec9851ce1cd0ec1adf630",
-   "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
-   "url": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes",
-   "source": "Ars Technica · Gadgets",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "compute",
-   "tldr": "Get ready for more AI in your Windows and more AI on the desktop.",
-   "published": "2026-10-08T00:00:24.000Z",
-   "dupes": 1,
-   "score": 0.43,
-   "tier": 3
-  },
-  {
-   "id": "41accce2b318a748ef5cc660aa41c0f047a79e25",
-   "title": "Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies",
-   "url": "https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html",
-   "source": "The Hacker News",
-   "org": [
-    "openai"
-   ],
-   "topic": "security",
-   "tldr": "The Wikimedia Foundation, which hosts Wikipedia, has confirmed that it has discovered activity by rogue OpenAI agents on its platforms, including unsuccessful efforts to compromise Etherpad, a public note-taking tool,…",
-   "published": "2026-10-06T11:26:25.000Z",
-   "dupes": 1,
-   "score": 0.421,
-   "tier": 3
-  },
-  {
-   "id": "cb207012cadc4c9d5a75e9548cfb84b6316e69e4",
-   "title": "Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes",
-   "url": "https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html",
-   "source": "The Hacker News",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "security",
-   "tldr": "Microsoft has released out-of-band security updates to address a high-severity flaw in Microsoft Exchange Server that could allow an attacker to escalate privileges under certain conditions.  8 on the CVSS scoring…",
-   "published": "2026-10-05T16:21:52.000Z",
-   "dupes": 1,
-   "score": 0.415,
-   "tier": 3
-  },
-  {
-   "id": "b48aca2b3d548c5c11bb35368170a710bcf4aa78",
-   "title": "Antarctic Sea Ice Grows to Its 2026 Maximum",
-   "url": "https://science.nasa.gov/earth/earth-observatory/antarctic-sea-ice-grows-to-its-2026-maximum",
-   "source": "NASA",
-   "org": [],
-   "topic": "space",
-   "tldr": "The ice reached its third-lowest maximum extent since satellite observations began.",
-   "published": "2026-10-12T04:00:00.000Z",
-   "dupes": 1,
-   "score": 0.373,
-   "tier": 3
-  },
-  {
-   "id": "f589f556b04636a8946ee9306bc58e049a37daa0",
-   "title": "Xbox announces new XP division to deliver transmedia spinoffs including film, TV, and theme parks",
-   "url": "https://www.gamesindustry.biz/xbox-announces-new-xp-division-to-deliver-transmedia-spinoffs-including-film-tv-and-theme-parks",
-   "source": "GamesIndustry.biz",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "gaming",
-   "tldr": "Xbox has announced a new XP business unit, dedicated to transmedia brand extensions, including the Fallout TV series and the Minecraft World theme park.",
-   "published": "2026-10-08T12:18:40.000Z",
-   "dupes": 1,
-   "score": 0.369,
-   "tier": 3
-  },
-  {
-   "id": "dcdb848fb53a5c9792ecaf97bc23296368995353",
-   "title": "NASA issues long-awaited call to industry for private space stations",
-   "url": "https://arstechnica.com/space/2026/10/nasa-issues-long-awaited-call-to-industry-for-private-space-stations",
-   "source": "Ars Technica",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "\"We’ve made it clear that NASA will never give up its presence in low Earth orbit.\"",
-   "published": "2026-10-09T21:34:09.000Z",
-   "dupes": 2,
-   "score": 0.368,
-   "tier": 3
-  },
-  {
-   "id": "fbf178618638cd97c2695ea973ddda5896e45a64",
-   "title": "Asha Sharma reportedly informs staff that Xbox has \"started to return to growth\" during internal town hall",
-   "url": "https://www.gamesindustry.biz/asha-sharma-reportedly-informs-staff-that-xbox-has-started-to-return-to-growth-during-internal-town-hall",
-   "source": "GamesIndustry.biz",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "gaming",
-   "tldr": "Xbox CEO Asha Sharma reportedly held an internal town hall, telling staff that \"after an all time low, we've started to return to growth.\" Read more",
-   "published": "2026-10-07T10:59:12.000Z",
-   "dupes": 1,
-   "score": 0.364,
-   "tier": 3
-  },
-  {
-   "id": "d587fa318b28c3aad10a44883635716c7f8a2470",
-   "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
-   "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google",
-   "source": "Ars Technica",
-   "org": [
-    "google"
-   ],
-   "topic": "robotics",
-   "tldr": "One damaged data center has supercomputers used for training Yandex’s AI model.",
-   "published": "2026-10-09T22:04:07.000Z",
-   "dupes": 2,
-   "score": 0.363,
-   "tier": 3
-  },
-  {
-   "id": "df3cca21fbc9d8b3233611fbca53c3f0448763b8",
-   "title": "NASA to Conduct Flyover, Engage NFL Fans at MetLife Stadium",
-   "url": "https://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium",
-   "source": "NASA",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "As part of the agency’s Inspiration Tour flyover, NASA Administrator Jared Isaacman will pilot one of three F-5 fighter jets to kick off the New York Jets vs.  Cleveland Browns game in East Rutherford, New Jersey, on…",
-   "published": "2026-10-10T14:18:59.000Z",
-   "dupes": 1,
-   "score": 0.336,
-   "tier": 3
-  },
-  {
-   "id": "df97c62cc773ca8681dae7e4956554b91d53bcca",
-   "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-   "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas",
-   "source": "TechCrunch",
-   "org": [],
-   "topic": "compute",
-   "tldr": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
-   "published": "2026-10-11T16:52:33.000Z",
-   "dupes": 1,
-   "score": 0.331,
-   "tier": 3
-  },
-  {
-   "id": "78fd7c7ee538b6637b7f7ecc4e5c43c9de420945",
-   "title": "NASA Seeks US Industry Plans for Commercial Space Stations",
-   "url": "https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations",
-   "source": "NASA",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "NASA is advancing American leadership in space by taking the next step toward a future where commercial space stations lead the way in low Earth orbit.  On Friday, the agency released its final Request for Proposals…",
-   "published": "2026-10-09T18:11:44.000Z",
-   "dupes": 1,
-   "score": 0.321,
-   "tier": 3
-  },
-  {
-   "id": "a93bc3a582bc6d1e481b48afef0e3f84dd20f9c5",
-   "title": "NASA Demonstrates Next-Generation Heat Shield Technologies",
-   "url": "https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-next-generation-heat-shield-technologies",
-   "source": "NASA",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "NASA is testing heat shields that can keep astronauts safe as they return from missions to the Moon and Mars in an unusual way: by taking out the trash.",
-   "published": "2026-10-09T16:59:24.000Z",
-   "dupes": 1,
-   "score": 0.32,
-   "tier": 3
-  },
-  {
-   "id": "bc91f5ae369ce5d8a6df0c0ff87df8ffdf51b9ad",
-   "title": "Nippon Columbia malware incident exposes 8.6 million karaoke fan records",
-   "url": "https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records",
-   "source": "BleepingComputer",
-   "org": [],
-   "topic": "security",
-   "tldr": "7 million customer and employee records.",
-   "published": "2026-10-11T14:23:46.000Z",
-   "dupes": 1,
-   "score": 0.314,
-   "tier": 3
-  },
-  {
-   "id": "7ec8afeed3530ddc09333f75166e0b39d0b19fb3",
-   "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
-   "source": "The Verge AI",
-   "org": [],
-   "topic": "compute",
-   "tldr": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on.",
-   "published": "2026-10-11T18:33:56.000Z",
-   "dupes": 1,
-   "score": 0.305,
+   "score": 0.467,
    "tier": 3
   },
   {
@@ -537,123 +486,150 @@
    "tldr": "Three research teams broke into Google's Pixel 10 on October 8 at Pwn2Own Ireland, a hacking contest in Cork whose rules require every target to be fully patched.  The contest pays researchers to show working exploits…",
    "published": "2026-10-09T08:26:17.000Z",
    "dupes": 1,
-   "score": 0.295,
+   "score": 0.451,
    "tier": 3
   },
   {
-   "id": "8bd40d1b0ab2e7831e0c51ffae9f64943b4234da",
-   "title": "Will ‘boring’ robots win in the real world? Why robotic form should follow workflow",
-   "url": "https://www.therobotreport.com/will-boring-robots-win-in-the-real-world-why-robotic-form-should-follow-workflow",
+   "id": "b9f5e1afc2dd31df6a62ebd1e3587bd93b17f538",
+   "title": "Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains",
+   "url": "https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html",
+   "source": "The Hacker News",
+   "org": [
+    "google"
+   ],
+   "topic": "security",
+   "tldr": "Attackers compromised three country-code top-level domains (ccTLDs) and obtained unauthorized HTTPS certificates for several Google domains, Google said on October 6.  as (American Samoa) was put at risk.",
+   "published": "2026-10-07T18:48:17.000Z",
+   "dupes": 1,
+   "score": 0.441,
+   "tier": 3
+  },
+  {
+   "id": "32fa12f768afd40e582eafa0be46d05cb6dc20db",
+   "title": "Google Pauses OSS Product Bug Bounty Rewards After Surge in Invalid Automated Reports",
+   "url": "https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html",
+   "source": "The Hacker News",
+   "org": [
+    "google"
+   ],
+   "topic": "security",
+   "tldr": "Google has stopped accepting product vulnerability reports through its bug bounty program for its open-source software.  The change, in effect since October 1, means researchers can no longer submit security flaws in…",
+   "published": "2026-10-06T09:21:47.000Z",
+   "badges": [
+    "oss"
+   ],
+   "dupes": 1,
+   "score": 0.437,
+   "tier": 3
+  },
+  {
+   "id": "f589f556b04636a8946ee9306bc58e049a37daa0",
+   "title": "Xbox announces new XP division to deliver transmedia spinoffs including film, TV, and theme parks",
+   "url": "https://www.gamesindustry.biz/xbox-announces-new-xp-division-to-deliver-transmedia-spinoffs-including-film-tv-and-theme-parks",
+   "source": "GamesIndustry.biz",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "gaming",
+   "tldr": "Xbox has announced a new XP business unit, dedicated to transmedia brand extensions, including the Fallout TV series and the Minecraft World theme park.",
+   "published": "2026-10-08T12:18:40.000Z",
+   "dupes": 1,
+   "score": 0.43,
+   "tier": 3
+  },
+  {
+   "id": "fbf178618638cd97c2695ea973ddda5896e45a64",
+   "title": "Asha Sharma reportedly informs staff that Xbox has \"started to return to growth\" during internal town hall",
+   "url": "https://www.gamesindustry.biz/asha-sharma-reportedly-informs-staff-that-xbox-has-started-to-return-to-growth-during-internal-town-hall",
+   "source": "GamesIndustry.biz",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "gaming",
+   "tldr": "Xbox CEO Asha Sharma reportedly held an internal town hall, telling staff that \"after an all time low, we've started to return to growth.\" Read more",
+   "published": "2026-10-07T10:59:12.000Z",
+   "dupes": 1,
+   "score": 0.422,
+   "tier": 3
+  },
+  {
+   "id": "db958e2353fb73d9bfcb0b6ca24f04841bc840c4",
+   "title": "Amazon has over 1 million robot workers. What’s next for human employees?",
+   "url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work",
+   "source": "Ars Technica",
+   "org": [],
+   "topic": "robotics",
+   "tldr": "The second-largest corporate employer has bet big on robot workers to scale.",
+   "published": "2026-10-12T12:43:10.000Z",
+   "dupes": 2,
+   "score": 0.414,
+   "tier": 3
+  },
+  {
+   "id": "2c7d1c14ffcf59de29355716edc5f515966eb782",
+   "title": "Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission.",
+   "url": "https://spacenews.com/jena-optronik-is-proud-to-partner-with-mda-space-for-its-first-astro-hp-mission",
+   "source": "SpaceNews",
+   "org": [],
+   "topic": "space",
+   "tldr": "MDA Space, a global leader in communications satellites, Earth and space observation, space exploration and infrastructure, will utilize Jena-Optronik’s ASTRO HP star sensor on a LEO mission.  This milestone underscores…",
+   "published": "2026-10-12T13:00:00.000Z",
+   "dupes": 1,
+   "score": 0.363,
+   "tier": 3
+  },
+  {
+   "id": "6e7ab345a4d79437d6c0f57acf67a646e7aae2f3",
+   "title": "Welcome home, Sophie Adenot",
+   "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Welcome_home_Sophie_Adenot",
+   "source": "ESA Space News",
+   "org": [],
+   "topic": "space",
+   "tldr": "Video: 00:02:54 After 237 days and over 3,700 orbits around Earth aboard the International Space Station, Sophie Adenot is back on Earth!  Following a handover to Crew-13, Sophie and her Crew-12 crewmates undocked on 7…",
+   "published": "2026-10-12T13:00:00.000Z",
+   "dupes": 1,
+   "score": 0.363,
+   "tier": 3
+  },
+  {
+   "id": "e39668c5af9e3f0975ffec96dd2b2bb60952ead9",
+   "title": "Closing the reality gap: Why real-time execution has become the new competitive advantage",
+   "url": "https://www.therobotreport.com/closing-reality-gap-why-real-time-execution-has-become-new-competitive-advantage",
    "source": "The Robot Report",
    "org": [],
    "topic": "robotics",
-   "tldr": "If we want to move physical AI from social media feeds to a sustained commercial level, we must reverse our current approach.  The post Will ‘boring’ robots win in the real world?",
-   "published": "2026-10-11T12:36:24.000Z",
+   "tldr": "Daifuku's Cecile Dick-Calmes said success is no longer measured solely by automation density or equipment utilization.  The post Closing the reality gap: Why real-time execution has become the new competitive advantage…",
+   "published": "2026-10-12T14:30:33.000Z",
    "dupes": 1,
-   "score": 0.293,
+   "score": 0.355,
    "tier": 3
   },
   {
-   "id": "576be91069016d6536cc15ab754ccb0854e41985",
-   "title": "Rocket Report: A rare Falcon 9 scrub; is it just about Vulcan's time to shine?",
-   "url": "https://arstechnica.com/space/2026/10/rocket-report-a-rare-falcon-9-scrub-is-it-just-about-vulcans-time-to-shine",
+   "id": "dcdb848fb53a5c9792ecaf97bc23296368995353",
+   "title": "NASA issues long-awaited call to industry for private space stations",
+   "url": "https://arstechnica.com/space/2026/10/nasa-issues-long-awaited-call-to-industry-for-private-space-stations",
    "source": "Ars Technica",
    "org": [
-    "spacex"
+    "nasa"
    ],
    "topic": "space",
-   "tldr": "\"I can say we’re weeks away from launching on Vulcan.\"",
-   "published": "2026-10-09T11:00:57.000Z",
+   "tldr": "\"We’ve made it clear that NASA will never give up its presence in low-Earth orbit.\"",
+   "published": "2026-10-09T21:34:09.000Z",
    "dupes": 2,
-   "score": 0.284,
+   "score": 0.34,
    "tier": 3
   },
   {
-   "id": "1112027d5901b6f1dfea35c8c3f63382b87eaa06",
-   "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-   "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended.  Developers are combining frontier AI models with NVIDIA…",
-   "published": "2026-10-08T21:06:35.000Z",
-   "dupes": 1,
-   "score": 0.268,
-   "tier": 3
-  },
-  {
-   "id": "6b3eb2e65b9806fa375357b432a4ed8d3dc2352e",
-   "title": "Rally Up: ‘Gears of War: E-Day’ Launches on GeForce NOW",
-   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-gears-of-war-e-day",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Gears of War: E-Day leads the charge on GeForce NOW this week, bringing Marcus Fenix and Dom Santiago’s first fight against the Locust Horde to the cloud with GeForce RTX-powered performance.",
-   "published": "2026-10-08T13:00:46.000Z",
-   "dupes": 1,
-   "score": 0.265,
-   "tier": 3
-  },
-  {
-   "id": "fe6a8c17ea70daa8f4d568b00e7521d11a7c426a",
-   "title": "Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen",
-   "url": "https://www.bbc.co.uk/news/articles/ck9dzpw4ll8po?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Firmus said it had made the decision due to \"recent market volatility and prevailing market conditions\".",
-   "published": "2026-10-09T07:14:30.000Z",
-   "dupes": 1,
-   "score": 0.256,
-   "tier": 3
-  },
-  {
-   "id": "a2beb8a05eac6abd5707ed6d8542f71c205fc309",
-   "title": "From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps",
-   "url": "https://blogs.nvidia.com/blog/ai-breast-cancer-startups",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Breast cancer is the most commonly diagnosed cancer among American women — yet the gaps in care are wide.  A majority of women over age 40 skip the recommended annual screening.",
-   "published": "2026-10-05T13:00:57.000Z",
-   "dupes": 1,
-   "score": 0.254,
-   "tier": 3
-  },
-  {
-   "id": "e371160a87c2e8741bffce175615b6f01759b3f7",
-   "title": "ESA astronaut Sophie Adenot returns from her first mission to the International Space Station",
-   "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/ESA_astronaut_Sophie_Adenot_returns_from_her_first_mission_to_the_International_Space_Station",
-   "source": "ESA Space News",
-   "org": [
-    "esa"
-   ],
-   "topic": "space",
-   "tldr": "ESA astronaut Sophie Adenot has arrived back in Europe, landing in Cologne, Germany, following her return to Earth with Crew-12 after 237 days, nearly eight months, aboard the International Space Station for her εpsilon…",
-   "published": "2026-10-10T09:01:00.000Z",
-   "dupes": 1,
-   "score": 0.245,
-   "tier": 3
-  },
-  {
-   "id": "270dbf5ff757466a38a2dbbb72d717d117073989",
-   "title": "How drones are hunting fires hidden beneath the Cairngorms",
-   "url": "https://www.bbc.co.uk/news/articles/cwm24n9v8rdeo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
+   "id": "b48aca2b3d548c5c11bb35368170a710bcf4aa78",
+   "title": "Antarctic Sea Ice Grows to Its 2026 Maximum",
+   "url": "https://science.nasa.gov/earth/earth-observatory/antarctic-sea-ice-grows-to-its-2026-maximum",
+   "source": "NASA",
    "org": [],
-   "topic": "robotics",
-   "tldr": "Dramatic flames from the huge Cairngorms wildfire in July have disappeared - but hot spots can continue to burn beneath the earth.",
-   "published": "2026-10-10T09:31:14.000Z",
+   "topic": "space",
+   "tldr": "The ice reached its third-lowest maximum extent since satellite observations began.",
+   "published": "2026-10-12T04:00:00.000Z",
    "dupes": 1,
-   "score": 0.238,
+   "score": 0.335,
    "tier": 3
   },
   {
@@ -668,7 +644,173 @@
    "tldr": "Developer and content creator Tom Shaw breaks down three of the biggest myths about data centers.  The post Debunking the Biggest Data Center Myths appeared first on Meta Newsroom .",
    "published": "2026-10-08T16:53:24.000Z",
    "dupes": 1,
-   "score": 0.237,
+   "score": 0.331,
+   "tier": 3
+  },
+  {
+   "id": "de69746aabbc012a32be534a181db432d0d62452",
+   "title": "Long-lost horror gaming cult classic P.T. gets a much-needed PC port",
+   "url": "https://arstechnica.com/gaming/2026/10/long-lost-horror-gaming-cult-classic-p-t-gets-a-much-needed-pc-port",
+   "source": "Ars Technica",
+   "org": [],
+   "topic": "gaming",
+   "tldr": "Kojima's discontinued \"playable trailer\" is no longer stuck on a few aging PS4 hard drives.",
+   "published": "2026-10-12T16:01:08.000Z",
+   "dupes": 1,
+   "score": 0.326,
+   "tier": 3
+  },
+  {
+   "id": "fd2bd0079fd17ce422e25ba36f0a814687d11bca",
+   "title": "Aream & Co: Games industry M&A generates $57.8 bn in Q3, including EA's $55bn leveraged buyout",
+   "url": "https://www.gamesindustry.biz/aream-co-games-industry-ma-generates-578-bn-in-q3-including-eas-55bn-leveraged-buyout",
+   "source": "GamesIndustry.biz",
+   "org": [],
+   "topic": "gaming",
+   "tldr": "8 billion, according to investment bank Aream & Co.",
+   "published": "2026-10-12T16:00:00.000Z",
+   "dupes": 1,
+   "score": 0.325,
+   "tier": 3
+  },
+  {
+   "id": "8e8d36cd11e2c275ed02fd224f36c97c2278ee49",
+   "title": "Game Developer veteran Chris Kerr launches Vertical Slice, a games publication \"giving workers a voice and holding power to account\"",
+   "url": "https://www.gamesindustry.biz/game-developer-veteran-chris-kerr-launches-vertical-slice-a-games-publication-giving-workers-a-voice-and-holding-power-to-account",
+   "source": "GamesIndustry.biz",
+   "org": [],
+   "topic": "gaming",
+   "tldr": "Chris Kerr, former Senior Editor of GDC sibling Game Developer (formerly Gamasutra) has launched a new subscription-funded publication to deliver \"incisive, bold reporting for video game industry professionals\" that…",
+   "published": "2026-10-12T15:57:25.000Z",
+   "dupes": 1,
+   "score": 0.325,
+   "tier": 3
+  },
+  {
+   "id": "df3cca21fbc9d8b3233611fbca53c3f0448763b8",
+   "title": "NASA to Conduct Flyover, Engage NFL Fans at MetLife Stadium",
+   "url": "https://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium",
+   "source": "NASA",
+   "org": [
+    "nasa"
+   ],
+   "topic": "space",
+   "tldr": "As part of the agency’s Inspiration Tour flyover, NASA Administrator Jared Isaacman will pilot one of three F-5 fighter jets to kick off the New York Jets vs.  Cleveland Browns game in East Rutherford, New Jersey, on…",
+   "published": "2026-10-10T14:18:59.000Z",
+   "dupes": 1,
+   "score": 0.306,
+   "tier": 3
+  },
+  {
+   "id": "df97c62cc773ca8681dae7e4956554b91d53bcca",
+   "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+   "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas",
+   "source": "TechCrunch",
+   "org": [],
+   "topic": "compute",
+   "tldr": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+   "published": "2026-10-11T16:52:33.000Z",
+   "dupes": 1,
+   "score": 0.3,
+   "tier": 3
+  },
+  {
+   "id": "78fd7c7ee538b6637b7f7ecc4e5c43c9de420945",
+   "title": "NASA Seeks US Industry Plans for Commercial Space Stations",
+   "url": "https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations",
+   "source": "NASA",
+   "org": [
+    "nasa"
+   ],
+   "topic": "space",
+   "tldr": "NASA is advancing American leadership in space by taking the next step toward a future where commercial space stations lead the way in low Earth orbit.  On Friday, the agency released its final Request for Proposals…",
+   "published": "2026-10-09T18:11:44.000Z",
+   "dupes": 1,
+   "score": 0.294,
+   "tier": 3
+  },
+  {
+   "id": "a93bc3a582bc6d1e481b48afef0e3f84dd20f9c5",
+   "title": "NASA Demonstrates Next-Generation Heat Shield Technologies",
+   "url": "https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-next-generation-heat-shield-technologies",
+   "source": "NASA",
+   "org": [
+    "nasa"
+   ],
+   "topic": "space",
+   "tldr": "NASA is testing heat shields that can keep astronauts safe as they return from missions to the Moon and Mars in an unusual way: by taking out the trash.",
+   "published": "2026-10-09T16:59:24.000Z",
+   "dupes": 1,
+   "score": 0.293,
+   "tier": 3
+  },
+  {
+   "id": "7ec8afeed3530ddc09333f75166e0b39d0b19fb3",
+   "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+   "source": "The Verge AI",
+   "org": [],
+   "topic": "compute",
+   "tldr": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on.",
+   "published": "2026-10-11T18:33:56.000Z",
+   "dupes": 1,
+   "score": 0.273,
+   "tier": 3
+  },
+  {
+   "id": "8bd40d1b0ab2e7831e0c51ffae9f64943b4234da",
+   "title": "Will ‘boring’ robots win in the real world? Why robotic form should follow workflow",
+   "url": "https://www.therobotreport.com/will-boring-robots-win-in-the-real-world-why-robotic-form-should-follow-workflow",
+   "source": "The Robot Report",
+   "org": [],
+   "topic": "robotics",
+   "tldr": "If we want to move physical AI from social media feeds to a sustained commercial level, we must reverse our current approach.  The post Will ‘boring’ robots win in the real world?",
+   "published": "2026-10-11T12:36:24.000Z",
+   "dupes": 1,
+   "score": 0.267,
+   "tier": 3
+  },
+  {
+   "id": "576be91069016d6536cc15ab754ccb0854e41985",
+   "title": "Rocket Report: A rare Falcon 9 scrub; is it just about Vulcan's time to shine?",
+   "url": "https://arstechnica.com/space/2026/10/rocket-report-a-rare-falcon-9-scrub-is-it-just-about-vulcans-time-to-shine",
+   "source": "Ars Technica",
+   "org": [
+    "spacex"
+   ],
+   "topic": "space",
+   "tldr": "\"I can say we’re weeks away from launching on Vulcan.\"",
+   "published": "2026-10-09T11:00:57.000Z",
+   "dupes": 2,
+   "score": 0.26,
+   "tier": 3
+  },
+  {
+   "id": "e371160a87c2e8741bffce175615b6f01759b3f7",
+   "title": "ESA astronaut Sophie Adenot returns from her first mission to the International Space Station",
+   "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/ESA_astronaut_Sophie_Adenot_returns_from_her_first_mission_to_the_International_Space_Station",
+   "source": "ESA Space News",
+   "org": [
+    "esa"
+   ],
+   "topic": "space",
+   "tldr": "ESA astronaut Sophie Adenot has arrived back in Europe, landing in Cologne, Germany, following her return to Earth with Crew-12 after 237 days, nearly eight months, aboard the International Space Station for her εpsilon…",
+   "published": "2026-10-10T09:01:00.000Z",
+   "dupes": 1,
+   "score": 0.231,
+   "tier": 3
+  },
+  {
+   "id": "270dbf5ff757466a38a2dbbb72d717d117073989",
+   "title": "How drones are hunting fires hidden beneath the Cairngorms",
+   "url": "https://www.bbc.co.uk/news/articles/cwm24n9v8rdeo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Technology",
+   "org": [],
+   "topic": "robotics",
+   "tldr": "Dramatic flames from the huge Cairngorms wildfire in July have disappeared - but hot spots can continue to burn beneath the earth.",
+   "published": "2026-10-10T09:31:14.000Z",
+   "dupes": 1,
+   "score": 0.224,
    "tier": 3
   },
   {
@@ -681,7 +823,7 @@
    "tldr": "",
    "published": "2026-10-09T15:20:29.000Z",
    "dupes": 1,
-   "score": 0.233,
+   "score": 0.223,
    "tier": 3
   },
   {
@@ -694,61 +836,7 @@
    "tldr": "Galaxies warp and multiply as if in a house of mirrors in this image from NASA’s James Webb Space Telescope released on Sept.  29, 2026.",
    "published": "2026-10-09T13:57:24.000Z",
    "dupes": 1,
-   "score": 0.227,
-   "tier": 3
-  },
-  {
-   "id": "c3968eb68ad23992cd397704890eb7e4158ce0cf",
-   "title": "SpaceX calls for better coordination in orbit after near-misses with Starlink",
-   "url": "https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink",
-   "source": "Ars Technica",
-   "org": [
-    "spacex"
-   ],
-   "topic": "space",
-   "tldr": "\"These led to conjunctions of tens of meters to hundreds of meters.",
-   "published": "2026-10-08T21:37:32.000Z",
-   "dupes": 1,
-   "score": 0.226,
-   "tier": 3
-  },
-  {
-   "id": "3aba3f2d9e72a8062ad4e1c3d2fa4f6d33fcf847",
-   "title": "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis",
-   "url": "https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis",
-   "source": "Ars Technica · Gadgets",
-   "org": [],
-   "topic": "compute",
-   "tldr": "Stylish upcycling, with a retro flair, at Spain's Museo de Historia de la Computación.",
-   "published": "2026-10-09T21:51:12.000Z",
-   "dupes": 1,
-   "score": 0.225,
-   "tier": 3
-  },
-  {
-   "id": "d88308f9717685b76840cb9a4e026e14d9a642d3",
-   "title": "PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023",
-   "url": "https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023",
-   "source": "Ars Technica · Gadgets",
-   "org": [],
-   "topic": "compute",
-   "tldr": "\"The current decline may be just the beginning of a new downward cycle.\"",
-   "published": "2026-10-09T18:54:52.000Z",
-   "dupes": 1,
-   "score": 0.221,
-   "tier": 3
-  },
-  {
-   "id": "8139c50988f44915ab437d7fdf930a729b7627a5",
-   "title": "Week in images: 05-09 October 2026",
-   "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_05-09_October_2026",
-   "source": "ESA Space News",
-   "org": [],
-   "topic": "space",
-   "tldr": "Week in images: 05-09 October 2026 Discover our week through the lens",
-   "published": "2026-10-09T13:15:00.000Z",
-   "dupes": 1,
-   "score": 0.219,
+   "score": 0.218,
    "tier": 3
   },
   {
@@ -761,20 +849,20 @@
    "tldr": "Heavy rains since mid-September have caused widespread flooding that has affected millions of people across the country.",
    "published": "2026-10-09T04:01:00.000Z",
    "dupes": 1,
-   "score": 0.218,
+   "score": 0.211,
    "tier": 3
   },
   {
-   "id": "f6569891367af36b3e948ca0bebd6834834e9413",
-   "title": "Earth from Space: Namibia’s biggest salt pan",
-   "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_Namibia_s_biggest_salt_pan",
+   "id": "8139c50988f44915ab437d7fdf930a729b7627a5",
+   "title": "Week in images: 05-09 October 2026",
+   "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_05-09_October_2026",
    "source": "ESA Space News",
    "org": [],
    "topic": "space",
-   "tldr": "Image: This image from Copernicus Sentinel-2, acquired on 5 April 2026, shows the Etosha National Park in northern Namibia.",
-   "published": "2026-10-09T08:00:00.000Z",
+   "tldr": "Week in images: 05-09 October 2026 Discover our week through the lens",
+   "published": "2026-10-09T13:15:00.000Z",
    "dupes": 1,
-   "score": 0.214,
+   "score": 0.21,
    "tier": 3
   },
   {
@@ -789,36 +877,7 @@
    "tldr": "The Robot Report spoke with Alberto Rodriguez, the director of robot behavior for Atlas at Boston Dynamics, about the humanoid's new hand.  The post Boston Dynamics gives more insight into its redesigned humanoid hand…",
    "published": "2026-10-09T16:59:57.000Z",
    "dupes": 1,
-   "score": 0.213,
-   "tier": 3
-  },
-  {
-   "id": "370a047539836c4ee25b0b8198a21c1f28ec052e",
-   "title": "Sony agrees to transfer over 400 global VR patents to Meta following December 2025 agreement",
-   "url": "https://www.gamesindustry.biz/sony-agrees-to-transfer-over-400-global-vr-patents-to-meta-following-december-2025-agreement",
-   "source": "GamesIndustry.biz",
-   "org": [
-    "meta",
-    "sony"
-   ],
-   "topic": "gaming",
-   "tldr": "Sony has agreed to transfer 419 global VR patents to Meta, with 180 patents filed in the US under an agreement signed in December 2025.",
-   "published": "2026-10-09T10:50:02.000Z",
-   "dupes": 1,
-   "score": 0.208,
-   "tier": 3
-  },
-  {
-   "id": "732f98427b48cfde33d66d6ae3e4f956a584acec",
-   "title": "Paramount Games Studio and WB Games merge under Skydance following completion of $111bn acquisition",
-   "url": "https://www.gamesindustry.biz/paramount-games-studio-and-wb-games-merge-under-skydance-following-completion-of-111bn-acquisition",
-   "source": "GamesIndustry.biz",
-   "org": [],
-   "topic": "gaming",
-   "tldr": "Paramount Games Studio and Warner Bros.  Games will merge into one unit under Skydance overseen by Tony Driscoll.",
-   "published": "2026-10-07T14:00:22.000Z",
-   "dupes": 2,
-   "score": 0.208,
+   "score": 0.202,
    "tier": 3
   },
   {
@@ -831,7 +890,7 @@
    "tldr": "Groceryshop 2026 not only featured mobile robots for taking inventory, but it also showed how retail automation is evolving.  The post Groceryshop 2026 shows that retail robots are ready to scale, use AI appeared first…",
    "published": "2026-10-09T12:25:47.000Z",
    "dupes": 1,
-   "score": 0.203,
+   "score": 0.194,
    "tier": 3
   },
   {
@@ -846,7 +905,7 @@
    "tldr": "Before Boston Dynamics, Prasad served as senior vice president and head scientist for Alexa and artificial general intelligence at Amazon.  The post Boston Dynamics appoints former Amazon exec Rohit Prasad as new CEO…",
    "published": "2026-10-06T21:00:30.000Z",
    "dupes": 1,
-   "score": 0.193,
+   "score": 0.186,
    "tier": 3
   },
   {
@@ -859,33 +918,7 @@
    "tldr": "SafeWorld’s platform provides testing and simulation software to help enterprises evaluate and deploy robots safely and responsibly.  The post SafeWorld emerges from stealth to build, deploy robot safety simulation…",
    "published": "2026-10-08T21:09:48.000Z",
    "dupes": 1,
-   "score": 0.19,
-   "tier": 3
-  },
-  {
-   "id": "df6a12ddd006bb3a61b9c459ec4da5dc02a0f5ba",
-   "title": "Undead Labs boss \"reluctant to share\" number affected by layoffs: \"I would hate to reduce the impact to those individuals to a number or statistic\"",
-   "url": "https://www.gamesindustry.biz/undead-labs-boss-reluctant-to-share-number-affected-by-layoffs-i-would-hate-to-reduce-the-impact-to-those-individuals-to-a-number-or-statistic",
-   "source": "GamesIndustry.biz",
-   "org": [],
-   "topic": "gaming",
-   "tldr": "Undead Labs studio boss Philip Holt is \"reluctant to share\" how many employees the developer lost when it became independent of Xbox.",
-   "published": "2026-10-09T13:58:18.000Z",
-   "dupes": 1,
-   "score": 0.189,
-   "tier": 3
-  },
-  {
-   "id": "da065c1900f58973261a3e3df69863c619171503",
-   "title": "Paramount Pictures adapting live-action movie set in Cyberpunk 2077 universe, co-produced by CD Projekt Red",
-   "url": "https://www.gamesindustry.biz/paramount-pictures-adapting-live-action-movie-set-in-cyberpunk-2077-universe-co-produced-by-cd-projekt-red",
-   "source": "GamesIndustry.biz",
-   "org": [],
-   "topic": "gaming",
-   "tldr": "Paramount Pictures is adapting a live-action film set in the Cyberpunk 2077 universe.",
-   "published": "2026-10-09T12:54:02.000Z",
-   "dupes": 1,
-   "score": 0.189,
+   "score": 0.184,
    "tier": 3
   },
   {
@@ -898,7 +931,7 @@
    "tldr": "ai trained its foundation models using its unsupervised 'deep teaching' methodology to master the structure of the physical world itself.  ai reaches $70M in signed commercial contracts for its foundation models…",
    "published": "2026-10-08T15:55:31.000Z",
    "dupes": 1,
-   "score": 0.186,
+   "score": 0.181,
    "tier": 3
   },
   {
@@ -914,7 +947,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.185,
+   "score": 0.179,
    "tier": 3
   },
   {
@@ -926,32 +959,6 @@
    "topic": "robotics",
    "tldr": "The Schneider Electric acquisition of PTC gives it a 'digital thread' from design through operations, but it needs to integrate data and software, says Interact Analysis.  The post PTC acquisition positions Schneider…",
    "published": "2026-10-07T21:07:53.000Z",
-   "dupes": 1,
-   "score": 0.176,
-   "tier": 3
-  },
-  {
-   "id": "8a0e4da23481dd63ce8dd1e5dcdf442173af0245",
-   "title": "Teradyne Robotics, Elite Robots settle cobot dispute",
-   "url": "https://www.therobotreport.com/terayne-robotics-elite-robots-settle-cobot-dispute",
-   "source": "The Robot Report",
-   "org": [],
-   "topic": "robotics",
-   "tldr": "Teradyne Robotics and Elite Robots have settled their software dispute, ending the legal case without disclosing the terms of the agreement.  The post Teradyne Robotics, Elite Robots settle cobot dispute appeared first…",
-   "published": "2026-10-07T16:20:52.000Z",
-   "dupes": 1,
-   "score": 0.175,
-   "tier": 3
-  },
-  {
-   "id": "0068a6e3c885a82749b4d22277fb37c7afe3e101",
-   "title": "Harmonic Drive to share how integrated actuators can reduce engineering at RoboBusiness",
-   "url": "https://www.therobotreport.com/harmonic-drive-share-how-integrated-actuators-reduce-engineering-robobusiness",
-   "source": "The Robot Report",
-   "org": [],
-   "topic": "robotics",
-   "tldr": "Attendees will learn how integrated actuators can reduce engineering effort by simplifying system integration.  The post Harmonic Drive to share how integrated actuators can reduce engineering at RoboBusiness appeared…",
-   "published": "2026-10-07T12:24:09.000Z",
    "dupes": 1,
    "score": 0.173,
    "tier": 3
