@@ -1,9 +1,54 @@
 {
- "generated": "2026-10-13T04:52:52.969Z",
+ "generated": "2026-10-13T12:24:08.038Z",
  "items": [
   {
+   "id": "2bd91dcdfa9d7b81fc21366c7905f5d48c1e3e5c",
+   "title": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
+   "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "NVIDIA RTX Spark is a new beginning for the PC — a reinvention combining the capabilities of a gaming PC, a creative studio and a personal AI supercomputer into a single superchip.",
+   "published": "2026-10-13T12:00:49.000Z",
+   "dupes": 1,
+   "score": 0.62,
+   "tier": 1
+  },
+  {
+   "id": "8f872270b5d9a3f4678c03c21f5e1fffcec48a12",
+   "title": "From Earth to Orbit, France’s Ecosystem Delivers Agentic Computing at Scale With NVIDIA",
+   "url": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Companies in France are deploying agentic computing across industries spanning space, financial services, the public sector and scientific research, demonstrating how the country’s ecosystem has moved from ambition to…",
+   "published": "2026-10-13T05:00:31.000Z",
+   "dupes": 1,
+   "score": 0.538,
+   "tier": 2
+  },
+  {
+   "id": "71afce8b579b48e2c2ab6adf445972365f58fa6e",
+   "title": "Show HN: Use your OpenAI subscription to create audiobooks",
+   "url": "https://pdftomp3.com/connect-ai",
+   "source": "Hacker News",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-10-13T10:08:34.000Z",
+   "dupes": 1,
+   "score": 0.527,
+   "tier": 2
+  },
+  {
    "id": "411a156b713bd05f9159ed05404fbe58bd4acb5d",
-   "title": "A look at OpenAI’s math that’s claimed computes faster Fourier transforms",
+   "title": "A look at the math that OpenAI claims computes faster Fourier transforms",
    "url": "https://www.argmin.net/p/faster-fourier-transforms",
    "source": "Hacker News",
    "org": [
@@ -13,8 +58,8 @@
    "tldr": "",
    "published": "2026-10-13T02:46:43.000Z",
    "dupes": 1,
-   "score": 0.531,
-   "tier": 1
+   "score": 0.465,
+   "tier": 2
   },
   {
    "id": "657a150f08e48f41f5f149d4b22511fc12616da1",
@@ -26,7 +71,7 @@
    "tldr": "",
    "published": "2026-10-12T21:35:35.000Z",
    "dupes": 1,
-   "score": 0.481,
+   "score": 0.432,
    "tier": 2
   },
   {
@@ -41,7 +86,7 @@
    "tldr": "As AI factories grow from megawatts to gigawatts, building them takes more than advanced computing.  Open standards are helping the industry scale AI infrastructure faster, more efficiently and more reliably.",
    "published": "2026-10-12T15:00:25.000Z",
    "dupes": 1,
-   "score": 0.48,
+   "score": 0.429,
    "tier": 2
   },
   {
@@ -56,7 +101,22 @@
    "tldr": "StudentSim is a research system for evaluating and improving AI tutoring tools before they are tested with learners.  It models how individuals may engage with tutors, giving feedback to improve tutor performance across…",
    "published": "2026-10-12T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.476,
+   "score": 0.422,
+   "tier": 2
+  },
+  {
+   "id": "83f6f7430b57e45dc5bf708a429966c2bfb615a0",
+   "title": "SpaceXSI: Unified plans across Grok, Cursor, and X Premium",
+   "url": "https://x.ai/pricing",
+   "source": "HN · xAI",
+   "org": [
+    "xai"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-10-13T00:07:46.000Z",
+   "dupes": 1,
+   "score": 0.407,
    "tier": 2
   },
   {
@@ -71,7 +131,7 @@
    "tldr": "Azure Maia 200 now in production; Azure Maia 300 coming in 2027 As we move into the era of Super Intelligence, Microsoft is entering a new phase of infrastructure.  We will scale our Azure Maia family to multi-gigawatt…",
    "published": "2026-10-12T13:01:29.000Z",
    "dupes": 1,
-   "score": 0.44,
+   "score": 0.392,
    "tier": 2
   },
   {
@@ -86,7 +146,7 @@
    "tldr": "Meta is making up for lost time in the AI race.  After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new models it claims can go…",
    "published": "2026-10-12T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.421,
+   "score": 0.366,
    "tier": 2
   },
   {
@@ -102,7 +162,7 @@
    "tldr": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services.  Maia 300 not only improves the cost and efficiency of…",
    "published": "2026-10-12T13:00:00.000Z",
    "dupes": 1,
-   "score": 0.39,
+   "score": 0.342,
    "tier": 2
   },
   {
@@ -121,21 +181,6 @@
    "tier": 2
   },
   {
-   "id": "ce7cbe0fa785220744768fc34b8ca03b368b422e",
-   "title": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
-   "url": "https://github.com/SaarthurR/atticus-mac",
-   "source": "Hacker News",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-10-12T00:15:12.000Z",
-   "dupes": 1,
-   "score": 0.328,
-   "tier": 2
-  },
-  {
    "id": "edd58468d564448f5fe7e63ada47c987b79bf809",
    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
    "url": "https://openai.com/index/sophos",
@@ -147,7 +192,7 @@
    "tldr": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
    "published": "2026-10-09T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.309,
+   "score": 0.307,
    "tier": 2
   },
   {
@@ -162,8 +207,8 @@
    "tldr": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
    "published": "2026-10-09T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.309,
-   "tier": 2
+   "score": 0.307,
+   "tier": 3
   },
   {
    "id": "112b5f00879d4fef3be367032aa59a57159f98cd",
@@ -177,8 +222,8 @@
    "tldr": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
    "published": "2026-10-08T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.305,
-   "tier": 2
+   "score": 0.304,
+   "tier": 3
   },
   {
    "id": "ca1ec6c6a1a1314d953bafc0b010c073f56e9464",
@@ -192,8 +237,8 @@
    "tldr": "5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
    "published": "2026-10-08T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.305,
-   "tier": 2
+   "score": 0.303,
+   "tier": 3
   },
   {
    "id": "f6d3626eb7c890d94bb50058e6f90af5d255e4a4",
@@ -207,7 +252,7 @@
    "tldr": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed.  It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
    "published": "2026-10-08T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.305,
+   "score": 0.303,
    "tier": 3
   },
   {
@@ -222,7 +267,7 @@
    "tldr": "",
    "published": "2026-10-08T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.303,
+   "score": 0.302,
    "tier": 3
   },
   {
@@ -237,7 +282,7 @@
    "tldr": "",
    "published": "2026-10-08T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.303,
+   "score": 0.302,
    "tier": 3
   },
   {
@@ -252,7 +297,7 @@
    "tldr": "",
    "published": "2026-10-08T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.303,
+   "score": 0.302,
    "tier": 3
   },
   {
@@ -267,7 +312,7 @@
    "tldr": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
    "published": "2026-10-08T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.303,
+   "score": 0.302,
    "tier": 3
   },
   {
@@ -282,7 +327,7 @@
    "tldr": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
    "published": "2026-10-07T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.302,
+   "score": 0.301,
    "tier": 3
   },
   {
@@ -311,54 +356,6 @@
    "topic": "ai",
    "tldr": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
    "published": "2026-10-07T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
-   "id": "342677ae7eadb2eb62e4a38c30f07848c459226e",
-   "title": "How Jump Trading is scaling quant research with ChatGPT",
-   "url": "https://openai.com/index/jump-trading",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Jump Trading uses OpenAI to expand quantitative research.  See how longer-running AI workflows combine multiple data sources with human review.",
-   "published": "2026-10-06T12:00:00.000Z",
-   "badges": [
-    "research"
-   ],
-   "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
-   "id": "47b9255d8fa0f8e89c91be9f3fca6f4f2b924e04",
-   "title": "Sharing AI progress in mathematics",
-   "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
-   "published": "2026-10-06T12:00:00.000Z",
-   "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
-   "id": "9964af802e9c5fdee2b956b6ca12adb5b9c62816",
-   "title": "Advancing computer use with Ironclad",
-   "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
-   "published": "2026-10-06T10:00:00.000Z",
    "dupes": 1,
    "score": 0.301,
    "tier": 3
@@ -394,19 +391,6 @@
    "tier": 3
   },
   {
-   "id": "7ec8afeed3530ddc09333f75166e0b39d0b19fb3",
-   "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
-   "source": "The Verge AI",
-   "org": [],
-   "topic": "compute",
-   "tldr": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on.",
-   "published": "2026-10-11T18:33:56.000Z",
-   "dupes": 1,
-   "score": 0.293,
-   "tier": 3
-  },
-  {
    "id": "1112027d5901b6f1dfea35c8c3f63382b87eaa06",
    "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
    "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents",
@@ -418,7 +402,7 @@
    "tldr": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended.  Developers are combining frontier AI models with NVIDIA…",
    "published": "2026-10-08T21:06:35.000Z",
    "dupes": 1,
-   "score": 0.281,
+   "score": 0.28,
    "tier": 3
   },
   {
@@ -433,7 +417,7 @@
    "tldr": "Gears of War: E-Day leads the charge on GeForce NOW this week, bringing Marcus Fenix and Dom Santiago’s first fight against the Locust Horde to the cloud with GeForce RTX-powered performance.",
    "published": "2026-10-08T13:00:46.000Z",
    "dupes": 1,
-   "score": 0.28,
+   "score": 0.279,
    "tier": 3
   },
   {
@@ -507,22 +491,20 @@
    "tldr": "",
    "published": "2026-10-09T15:20:29.000Z",
    "dupes": 1,
-   "score": 0.275,
+   "score": 0.272,
    "tier": 3
   },
   {
-   "id": "c7de22c7db255c599990e44f6b90d91a46504196",
-   "title": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
-   "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses",
-   "source": "Microsoft Research",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "Training AI agents with reinforcement learning can be challenging because their tools, context, and decision-making are managed by complex frameworks.  Agent Lightning connects existing agents to RL training, making it…",
-   "published": "2026-10-07T16:00:00.000Z",
+   "id": "7ec8afeed3530ddc09333f75166e0b39d0b19fb3",
+   "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+   "source": "The Verge AI",
+   "org": [],
+   "topic": "compute",
+   "tldr": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on.",
+   "published": "2026-10-11T18:33:56.000Z",
    "dupes": 1,
-   "score": 0.265,
+   "score": 0.27,
    "tier": 3
   },
   {
@@ -539,6 +521,21 @@
    "tier": 3
   },
   {
+   "id": "c7de22c7db255c599990e44f6b90d91a46504196",
+   "title": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
+   "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses",
+   "source": "Microsoft Research",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "Training AI agents with reinforcement learning can be challenging because their tools, context, and decision-making are managed by complex frameworks.  Agent Lightning connects existing agents to RL training, making it…",
+   "published": "2026-10-07T16:00:00.000Z",
+   "dupes": 1,
+   "score": 0.264,
+   "tier": 3
+  },
+  {
    "id": "0825a4897dea2e8280a620cd72c7dc55f2c953c0",
    "title": "Multimodal open d1 decision models for the edge",
    "url": "https://huggingface.co/blog/LiquidAI/open-d1",
@@ -548,7 +545,7 @@
    "tldr": "",
    "published": "2026-10-07T16:54:33.000Z",
    "dupes": 1,
-   "score": 0.265,
+   "score": 0.264,
    "tier": 3
   },
   {
@@ -607,7 +604,7 @@
     "model"
    ],
    "dupes": 1,
-   "score": 0.259,
+   "score": 0.256,
    "tier": 3
   },
   {
@@ -622,7 +619,7 @@
    "tldr": "Developer and content creator Tom Shaw breaks down three of the biggest myths about data centers.  The post Debunking the Biggest Data Center Myths appeared first on Meta Newsroom .",
    "published": "2026-10-08T16:53:24.000Z",
    "dupes": 1,
-   "score": 0.255,
+   "score": 0.254,
    "tier": 3
   },
   {
@@ -637,7 +634,7 @@
    "tldr": "Meta donates 1,000 Ray-Ban Meta AI glasses to four Singapore community organisations to help persons with disabilities.  The post Meta Donates 1,000 AI Glasses to Singapore’s Disability Community appeared first on Meta…",
    "published": "2026-10-08T05:49:36.000Z",
    "dupes": 1,
-   "score": 0.254,
+   "score": 0.253,
    "tier": 3
   },
   {
@@ -652,7 +649,7 @@
    "tldr": "Developer and creator Tom Shaw sat down with Meta’s Head of Infrastructure, Santosh Janardhan, to talk about why we need data centers and how Meta is leading the charge to build them.  The post Why Data Centers Are Such…",
    "published": "2026-10-07T23:19:30.000Z",
    "dupes": 1,
-   "score": 0.253,
+   "score": 0.252,
    "tier": 3
   },
   {
@@ -667,7 +664,7 @@
    "tldr": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations.  In a report Friday, the company detailed \"unintended model…",
    "published": "2026-10-10T14:41:16.000Z",
    "dupes": 1,
-   "score": 0.232,
+   "score": 0.224,
    "tier": 3
   },
   {
@@ -682,22 +679,7 @@
    "tldr": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc.",
    "published": "2026-10-09T21:15:38.000Z",
    "dupes": 1,
-   "score": 0.216,
-   "tier": 3
-  },
-  {
-   "id": "d07dddd55da287047600ce8c5507834507fbc9ea",
-   "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results OpenAI abruptly dropped on the field…",
-   "published": "2026-10-09T19:09:44.000Z",
-   "dupes": 1,
-   "score": 0.215,
+   "score": 0.212,
    "tier": 3
   }
  ]
