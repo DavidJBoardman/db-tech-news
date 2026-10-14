@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-14T13:13:37.504Z",
+ "generated": "2026-10-14T18:05:59.919Z",
  "items": [
   {
    "id": "8b0463614a7b86fd34ef4f865cdfb4c3899b87c9",
@@ -13,12 +13,181 @@
    "tldr": "",
    "published": "2026-10-13T16:01:58.000Z",
    "dupes": 2,
-   "score": 0.667,
+   "score": 0.641,
    "tier": 1
   },
   {
+   "id": "18b611693debbbf2b49126bcf0aec3ce9cc7624a",
+   "title": "Research@ 2026: 10 ways we're amplifying human ingenuity",
+   "url": "https://research.google/blog/research-2026-10-ways-were-amplifying-human-ingenuity",
+   "source": "Google Research",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "General Science",
+   "published": "2026-10-14T16:14:34.000Z",
+   "badges": [
+    "research"
+   ],
+   "dupes": 1,
+   "score": 0.601,
+   "tier": 2
+  },
+  {
+   "id": "09a39f2629ebdd36a3f4e74dcb57ff50d8ebb4bd",
+   "title": "Putting Earth AI to work: Geospatial agents for our planet's biggest challenges",
+   "url": "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges",
+   "source": "Google Research",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Earth AI",
+   "published": "2026-10-14T16:14:00.000Z",
+   "dupes": 1,
+   "score": 0.601,
+   "tier": 2
+  },
+  {
+   "id": "09678c4af34302447d16574d6b28137803a51b4d",
+   "title": "Analyzing technical documents with Deep Review",
+   "url": "https://research.google/blog/analyzing-technical-documents-with-deep-review",
+   "source": "Google Research",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "General Science",
+   "published": "2026-10-14T16:14:00.000Z",
+   "dupes": 1,
+   "score": 0.601,
+   "tier": 2
+  },
+  {
+   "id": "672ebf75c430cf70c5939989b244112c7eac909f",
+   "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+   "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-10-14T16:12:42.000Z",
+   "dupes": 1,
+   "score": 0.588,
+   "tier": 2
+  },
+  {
+   "id": "a0e0fec2c2b5f568672ddffd97e5dbcc17df031b",
+   "title": "Amp puts AI agents to work beyond code with OpenAI models",
+   "url": "https://openai.com/index/amp-beyond-coding",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+   "published": "2026-10-14T12:00:00.000Z",
+   "dupes": 1,
+   "score": 0.577,
+   "tier": 2
+  },
+  {
+   "id": "91731c3dcfc6dc58aa4448f448a85beba3bcbdd5",
+   "title": "Google is silently linking your phone number across all signed-in accounts",
+   "url": "https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117",
+   "source": "Hacker News",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-10-14T16:28:51.000Z",
+   "dupes": 1,
+   "score": 0.535,
+   "tier": 2
+  },
+  {
+   "id": "524e699ebac35a597cd559c2beb235aebd04f009",
+   "title": "OpenAI claims an ex-employee took its product plans and presented them to Apple",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
+   "source": "The Verge AI",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI claims a former employee took more than 100 files related to its product plans before joining Apple.  In a document filed on Wednesday, OpenAI accuses the unnamed employee of sending this information to a…",
+   "published": "2026-10-14T16:43:24.000Z",
+   "dupes": 1,
+   "score": 0.532,
+   "tier": 2
+  },
+  {
+   "id": "e181547094b0a112cf0b18eccd2fd79396c82dce",
+   "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+   "url": "https://openai.com/index/third-moment-research",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+   "published": "2026-10-14T07:00:00.000Z",
+   "badges": [
+    "research"
+   ],
+   "dupes": 1,
+   "score": 0.528,
+   "tier": 2
+  },
+  {
+   "id": "0784a13f079d031637254a450b7447414be2e6e6",
+   "title": "Microsoft has a new machine learning tool to improve weather forecasts",
+   "url": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
+   "source": "The Verge AI",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "Old-school physics-based weather forecasting and even new AI models typically become less reliable beyond two weeks, a problem Microsoft claims to have solved using machine learning.",
+   "published": "2026-10-14T16:05:21.000Z",
+   "dupes": 1,
+   "score": 0.524,
+   "tier": 2
+  },
+  {
+   "id": "c034144452ef7e3060574bd7d9e95569d972ebbb",
+   "title": "Android is using AI to suss out scammers in Google Messages",
+   "url": "https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages",
+   "source": "The Verge AI",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Android is introducing new scam defense features that aim to make it easier for users to evade mobile fraud, including bolstered protection in Google Messages and additional safeguarding tools.",
+   "published": "2026-10-14T16:00:00.000Z",
+   "dupes": 1,
+   "score": 0.523,
+   "tier": 2
+  },
+  {
+   "id": "7627a3f490957e441362104c4aaba02a3864bf88",
+   "title": "Anthropic’s self-replicating AI warning is alarming deja vu",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1011108/anthropic-self-replicating-ai-smart-devices-risk",
+   "source": "The Verge AI",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "Are legions of smart devices - fridges, ovens, vacuum cleaners, lawnmowers, security cameras, and TVs - conspiring to take over the internet?  No.",
+   "published": "2026-10-14T15:19:02.000Z",
+   "dupes": 1,
+   "score": 0.514,
+   "tier": 2
+  },
+  {
    "id": "0480c20408dda17d0d60f91782f636d40d56b4d1",
-   "title": "From Enterprise to Earthshot: UK’s Ecosystem Moves From Ambition to Application With NVIDIA",
+   "title": "NVIDIA Announces New Investments in the UK Startup Ecosystem",
    "url": "https://blogs.nvidia.com/blog/uk-ecosystem-deployment",
    "source": "NVIDIA Blog",
    "org": [
@@ -28,7 +197,7 @@
    "tldr": "K.  is putting the full stack to work — and the scale of deployment is growing fast, from enterprises transforming their businesses to startups solving some of the planet’s hardest problems.",
    "published": "2026-10-14T06:04:15.000Z",
    "dupes": 1,
-   "score": 0.541,
+   "score": 0.495,
    "tier": 2
   },
   {
@@ -43,8 +212,8 @@
    "tldr": "Keeping a city running means making decisions that affect residents every day — from when to repair a road to how to use energy more efficiently.",
    "published": "2026-10-14T06:00:28.000Z",
    "dupes": 1,
-   "score": 0.54,
-   "tier": 2
+   "score": 0.495,
+   "tier": 3
   },
   {
    "id": "5cb1618c1db568b5987239fb7604905d493f5d44",
@@ -58,8 +227,23 @@
    "tldr": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
    "published": "2026-10-14T02:00:14.000Z",
    "dupes": 1,
-   "score": 0.527,
-   "tier": 2
+   "score": 0.488,
+   "tier": 3
+  },
+  {
+   "id": "83db4df8b536998706d16337ba584f537ed4bdbf",
+   "title": "Nvidia's first GPU: GeForce 256",
+   "url": "https://dfarq.homeip.net/nvidias-first-gpu-geforce-256",
+   "source": "Hacker News",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "",
+   "published": "2026-10-14T12:05:44.000Z",
+   "dupes": 1,
+   "score": 0.481,
+   "tier": 3
   },
   {
    "id": "87253efedaff810e9e069125a5f7f7cc952dd69f",
@@ -73,8 +257,8 @@
    "tldr": "",
    "published": "2026-10-14T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.51,
-   "tier": 2
+   "score": 0.474,
+   "tier": 3
   },
   {
    "id": "2f3282e483141f68421d2a0f33b7c26326fcc689",
@@ -88,8 +272,8 @@
    "tldr": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
    "published": "2026-10-14T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.51,
-   "tier": 2
+   "score": 0.474,
+   "tier": 3
   },
   {
    "id": "25432b6b093a311b5b0463de454fb2ab5ab23e9b",
@@ -103,8 +287,8 @@
    "tldr": "",
    "published": "2026-10-13T19:43:07.000Z",
    "dupes": 1,
-   "score": 0.478,
-   "tier": 2
+   "score": 0.448,
+   "tier": 3
   },
   {
    "id": "316153953adff70c8a9e3daaf16ca6fe5639b2f2",
@@ -118,23 +302,8 @@
    "tldr": "",
    "published": "2026-10-13T16:01:52.000Z",
    "dupes": 1,
-   "score": 0.455,
-   "tier": 2
-  },
-  {
-   "id": "8c17f1f1ac30a4ed7675999bf42cfdc439a732b4",
-   "title": "Redesigning source control at Anthropic",
-   "url": "https://www.anthropic.com/engineering/redesigning-source-control",
-   "source": "Hacker News",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-10-13T15:49:56.000Z",
-   "dupes": 1,
-   "score": 0.444,
-   "tier": 2
+   "score": 0.428,
+   "tier": 3
   },
   {
    "id": "ffc748cb8d88a919ca05994bbdf2a485643ad1da",
@@ -148,8 +317,8 @@
    "tldr": "5, and a path to voice filmmaking with GPT-Live.",
    "published": "2026-10-13T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.432,
-   "tier": 2
+   "score": 0.41,
+   "tier": 3
   },
   {
    "id": "550c4c02e9ff21a9dd88243eaf13df56c12e35f4",
@@ -161,8 +330,8 @@
    "tldr": "",
    "published": "2026-10-13T17:05:48.000Z",
    "dupes": 1,
-   "score": 0.424,
-   "tier": 2
+   "score": 0.396,
+   "tier": 3
   },
   {
    "id": "2bd91dcdfa9d7b81fc21366c7905f5d48c1e3e5c",
@@ -176,23 +345,8 @@
    "tldr": "NVIDIA RTX Spark is a new beginning for the PC — a reinvention combining the capabilities of a gaming PC, a creative studio and a personal AI supercomputer into a single superchip.",
    "published": "2026-10-13T12:00:49.000Z",
    "dupes": 1,
-   "score": 0.408,
-   "tier": 2
-  },
-  {
-   "id": "082a179fcd5888101db60c4edc2537048d7392bf",
-   "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices.  The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national.",
-   "published": "2026-10-13T20:45:25.000Z",
-   "dupes": 1,
-   "score": 0.386,
-   "tier": 2
+   "score": 0.385,
+   "tier": 3
   },
   {
    "id": "8f872270b5d9a3f4678c03c21f5e1fffcec48a12",
@@ -206,52 +360,22 @@
    "tldr": "Companies in France are deploying agentic computing across industries spanning space, financial services, the public sector and scientific research, demonstrating how the country’s ecosystem has moved from ambition to…",
    "published": "2026-10-13T05:00:31.000Z",
    "dupes": 1,
-   "score": 0.376,
+   "score": 0.359,
    "tier": 3
   },
   {
-   "id": "64be3d764257b9ffdf3b1d2bcc7ecb7330211003",
-   "title": "I don’t miss the camera on the Ray-Ban Meta Audio glasses",
-   "url": "https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables",
+   "id": "082a179fcd5888101db60c4edc2537048d7392bf",
+   "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
    "source": "The Verge AI",
    "org": [
-    "meta"
+    "openai"
    ],
    "topic": "ai",
-   "tldr": "The other day I whizzed past several people while running in the park, my playlist blasting at full volume.  The next morning, I smiled at a barista while ordering a caramel apple-flavored matcha latte.",
-   "published": "2026-10-13T18:00:00.000Z",
+   "tldr": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices.  The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national.",
+   "published": "2026-10-13T20:45:25.000Z",
    "dupes": 1,
-   "score": 0.367,
-   "tier": 3
-  },
-  {
-   "id": "a3312401eb558d6990fbcf8dac551efa628ba0fd",
-   "title": "Google makes it easier to launch your vibe-coded apps",
-   "url": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch",
-   "source": "The Verge AI",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it.  On Tuesday, Google announced a new feature in the US that will allow you to launch…",
-   "published": "2026-10-13T17:00:00.000Z",
-   "dupes": 1,
-   "score": 0.361,
-   "tier": 3
-  },
-  {
-   "id": "24ef7cf40bd2766a26e37671339e3026d86ebca7",
-   "title": "Google finally releases Gemini 4 Argon",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
-   "source": "The Verge AI",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "After months sitting on the sidelines of the frontier AI race, Google has finally launched its long-awaited Gemini 4 Argon model, claiming it can compete with the best the industry has to offer.",
-   "published": "2026-10-13T16:00:00.000Z",
-   "dupes": 1,
-   "score": 0.355,
+   "score": 0.354,
    "tier": 3
   },
   {
@@ -266,20 +390,7 @@
    "tldr": "As AI factories grow from megawatts to gigawatts, building them takes more than advanced computing.  Open standards are helping the industry scale AI infrastructure faster, more efficiently and more reliably.",
    "published": "2026-10-12T15:00:25.000Z",
    "dupes": 1,
-   "score": 0.334,
-   "tier": 3
-  },
-  {
-   "id": "80473e5d479b295fbff97feacee6456fdca4aa61",
-   "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
-   "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts",
-   "source": "Hacker News",
-   "org": [],
-   "topic": "compute",
-   "tldr": "",
-   "published": "2026-10-12T10:09:37.000Z",
-   "dupes": 1,
-   "score": 0.331,
+   "score": 0.324,
    "tier": 3
   },
   {
@@ -294,7 +405,7 @@
    "tldr": "StudentSim is a research system for evaluating and improving AI tutoring tools before they are tested with learners.  It models how individuals may engage with tutors, giving feedback to improve tutor performance across…",
    "published": "2026-10-12T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.324,
+   "score": 0.313,
    "tier": 3
   },
   {
@@ -309,37 +420,7 @@
    "tldr": "",
    "published": "2026-10-08T00:14:48.000Z",
    "dupes": 1,
-   "score": 0.314,
-   "tier": 3
-  },
-  {
-   "id": "87249271f53fa37dbac4bbd5855c8f44b62a8f61",
-   "title": "Microsoft to expand Azure Maia system to multi-gigawatt deployments",
-   "url": "https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments",
-   "source": "Microsoft Blog",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "Azure Maia 200 now in production; Azure Maia 300 coming in 2027 As we move into the era of Super Intelligence, Microsoft is entering a new phase of infrastructure.  We will scale our Azure Maia family to multi-gigawatt…",
-   "published": "2026-10-12T13:01:29.000Z",
-   "dupes": 1,
-   "score": 0.305,
-   "tier": 3
-  },
-  {
-   "id": "edd58468d564448f5fe7e63ada47c987b79bf809",
-   "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-   "url": "https://openai.com/index/sophos",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-   "published": "2026-10-09T07:00:00.000Z",
-   "dupes": 1,
-   "score": 0.303,
+   "score": 0.308,
    "tier": 3
   },
   {
@@ -354,20 +435,20 @@
    "tldr": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
    "published": "2026-10-09T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.303,
+   "score": 0.302,
    "tier": 3
   },
   {
-   "id": "112b5f00879d4fef3be367032aa59a57159f98cd",
-   "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-   "url": "https://openai.com/index/oracle",
+   "id": "edd58468d564448f5fe7e63ada47c987b79bf809",
+   "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+   "url": "https://openai.com/index/sophos",
    "source": "OpenAI Blog",
    "org": [
     "openai"
    ],
    "topic": "ai",
-   "tldr": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
-   "published": "2026-10-08T16:00:00.000Z",
+   "tldr": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+   "published": "2026-10-09T07:00:00.000Z",
    "dupes": 1,
    "score": 0.302,
    "tier": 3
@@ -418,6 +499,21 @@
    "tier": 3
   },
   {
+   "id": "112b5f00879d4fef3be367032aa59a57159f98cd",
+   "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+   "url": "https://openai.com/index/oracle",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+   "published": "2026-10-08T16:00:00.000Z",
+   "dupes": 1,
+   "score": 0.301,
+   "tier": 3
+  },
+  {
    "id": "ca1ec6c6a1a1314d953bafc0b010c073f56e9464",
    "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
    "url": "https://openai.com/index/pollo-ai",
@@ -460,6 +556,21 @@
    "published": "2026-10-08T00:00:00.000Z",
    "dupes": 1,
    "score": 0.301,
+   "tier": 3
+  },
+  {
+   "id": "87249271f53fa37dbac4bbd5855c8f44b62a8f61",
+   "title": "Microsoft to expand Azure Maia system to multi-gigawatt deployments",
+   "url": "https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments",
+   "source": "Microsoft Blog",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "Azure Maia 200 now in production; Azure Maia 300 coming in 2027 As we move into the era of Super Intelligence, Microsoft is entering a new phase of infrastructure.  We will scale our Azure Maia family to multi-gigawatt…",
+   "published": "2026-10-12T13:01:29.000Z",
+   "dupes": 1,
+   "score": 0.295,
    "tier": 3
   },
   {
@@ -524,49 +635,6 @@
    "tier": 3
   },
   {
-   "id": "83f6f7430b57e45dc5bf708a429966c2bfb615a0",
-   "title": "SpaceXSI: Unified plans across Grok, Cursor, and X Premium",
-   "url": "https://x.ai/pricing",
-   "source": "HN · xAI",
-   "org": [
-    "xai"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-10-13T00:07:46.000Z",
-   "dupes": 1,
-   "score": 0.273,
-   "tier": 3
-  },
-  {
-   "id": "43ef54e74d2760825c3095138c358b1ef26e90ae",
-   "title": "Impactful scheduling for GPU clusters",
-   "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "compute",
-   "tldr": "",
-   "published": "2026-10-09T15:20:29.000Z",
-   "dupes": 1,
-   "score": 0.266,
-   "tier": 3
-  },
-  {
-   "id": "c7de22c7db255c599990e44f6b90d91a46504196",
-   "title": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
-   "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses",
-   "source": "Microsoft Research",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "Training AI agents with reinforcement learning can be challenging because their tools, context, and decision-making are managed by complex frameworks.  Agent Lightning connects existing agents to RL training, making it…",
-   "published": "2026-10-07T16:00:00.000Z",
-   "dupes": 1,
-   "score": 0.263,
-   "tier": 3
-  },
-  {
    "id": "0f05fd4155a46f4739db6c46922db7133588da72",
    "title": "The model that didn't exist, so you made it yourself",
    "url": "https://huggingface.co/blog/building-with-ml-intern",
@@ -580,31 +648,18 @@
    "tier": 3
   },
   {
-   "id": "91ed3eb235f3237ff9cccd6baf519581daaddeca",
-   "title": "Introducing Falcon ASR",
-   "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
-   "source": "Hugging Face Blog",
-   "org": [],
+   "id": "83f6f7430b57e45dc5bf708a429966c2bfb615a0",
+   "title": "SpaceXSI: Unified plans across Grok, Cursor, and X Premium",
+   "url": "https://x.ai/pricing",
+   "source": "HN · xAI",
+   "org": [
+    "xai"
+   ],
    "topic": "ai",
    "tldr": "",
-   "published": "2026-10-07T13:21:03.000Z",
+   "published": "2026-10-13T00:07:46.000Z",
    "dupes": 1,
-   "score": 0.263,
-   "tier": 3
-  },
-  {
-   "id": "b6898643467f316efb60803b7ee66fb15caf8916",
-   "title": "Debunking the Biggest Data Center Myths",
-   "url": "https://about.fb.com/news/2026/10/debunking-the-biggest-data-center-myths",
-   "source": "Meta Newsroom",
-   "org": [
-    "meta"
-   ],
-   "topic": "compute",
-   "tldr": "Developer and content creator Tom Shaw breaks down three of the biggest myths about data centers.  The post Debunking the Biggest Data Center Myths appeared first on Meta Newsroom .",
-   "published": "2026-10-08T16:53:24.000Z",
-   "dupes": 1,
-   "score": 0.252,
+   "score": 0.258,
    "tier": 3
   },
   {
@@ -623,6 +678,21 @@
    ],
    "dupes": 1,
    "score": 0.252,
+   "tier": 3
+  },
+  {
+   "id": "b6898643467f316efb60803b7ee66fb15caf8916",
+   "title": "Debunking the Biggest Data Center Myths",
+   "url": "https://about.fb.com/news/2026/10/debunking-the-biggest-data-center-myths",
+   "source": "Meta Newsroom",
+   "org": [
+    "meta"
+   ],
+   "topic": "compute",
+   "tldr": "Developer and content creator Tom Shaw breaks down three of the biggest myths about data centers.  The post Debunking the Biggest Data Center Myths appeared first on Meta Newsroom .",
+   "published": "2026-10-08T16:53:24.000Z",
+   "dupes": 1,
+   "score": 0.251,
    "tier": 3
   },
   {
