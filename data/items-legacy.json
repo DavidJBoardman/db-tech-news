@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-14T02:02:22.345Z",
+ "generated": "2026-10-14T07:53:01.252Z",
  "items": [
   {
    "id": "8b0463614a7b86fd34ef4f865cdfb4c3899b87c9",
@@ -13,12 +13,42 @@
    "tldr": "",
    "published": "2026-10-13T16:01:58.000Z",
    "dupes": 2,
-   "score": 0.735,
+   "score": 0.703,
    "tier": 1
   },
   {
+   "id": "0480c20408dda17d0d60f91782f636d40d56b4d1",
+   "title": "From Enterprise to Earthshot: UK’s Ecosystem Moves From Ambition to Application With NVIDIA",
+   "url": "https://blogs.nvidia.com/blog/uk-ecosystem-deployment",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "K.  is putting the full stack to work — and the scale of deployment is growing fast, from enterprises transforming their businesses to startups solving some of the planet’s hardest problems.",
+   "published": "2026-10-14T06:04:15.000Z",
+   "dupes": 1,
+   "score": 0.601,
+   "tier": 2
+  },
+  {
+   "id": "b66237a3192719f72445c03254f6da2bba530479",
+   "title": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
+   "url": "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Keeping a city running means making decisions that affect residents every day — from when to repair a road to how to use energy more efficiently.",
+   "published": "2026-10-14T06:00:28.000Z",
+   "dupes": 1,
+   "score": 0.601,
+   "tier": 2
+  },
+  {
    "id": "5cb1618c1db568b5987239fb7604905d493f5d44",
-   "title": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
+   "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
    "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
    "source": "Google DeepMind",
    "org": [
@@ -28,7 +58,7 @@
    "tldr": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
    "published": "2026-10-14T02:00:14.000Z",
    "dupes": 1,
-   "score": 0.65,
+   "score": 0.579,
    "tier": 2
   },
   {
@@ -43,22 +73,7 @@
    "tldr": "",
    "published": "2026-10-13T19:43:07.000Z",
    "dupes": 1,
-   "score": 0.574,
-   "tier": 2
-  },
-  {
-   "id": "316153953adff70c8a9e3daaf16ca6fe5639b2f2",
-   "title": "Gemini 4 Argon: Built to solve your hardest problems",
-   "url": "https://deepmind.google/blog/introducing-gemini-4-argon",
-   "source": "Google DeepMind",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-10-13T16:01:52.000Z",
-   "dupes": 1,
-   "score": 0.538,
+   "score": 0.519,
    "tier": 2
   },
   {
@@ -73,20 +88,22 @@
    "tldr": "",
    "published": "2026-10-13T20:23:55.000Z",
    "dupes": 1,
-   "score": 0.537,
+   "score": 0.491,
    "tier": 2
   },
   {
-   "id": "550c4c02e9ff21a9dd88243eaf13df56c12e35f4",
-   "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-   "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-   "source": "Hugging Face Blog",
-   "org": [],
+   "id": "316153953adff70c8a9e3daaf16ca6fe5639b2f2",
+   "title": "Gemini 4 Argon: Built to solve your hardest problems",
+   "url": "https://deepmind.google/blog/introducing-gemini-4-argon",
+   "source": "Google DeepMind",
+   "org": [
+    "google"
+   ],
    "topic": "ai",
    "tldr": "",
-   "published": "2026-10-13T17:05:48.000Z",
+   "published": "2026-10-13T16:01:52.000Z",
    "dupes": 1,
-   "score": 0.511,
+   "score": 0.49,
    "tier": 2
   },
   {
@@ -101,7 +118,7 @@
    "tldr": "",
    "published": "2026-10-13T15:49:56.000Z",
    "dupes": 1,
-   "score": 0.51,
+   "score": 0.477,
    "tier": 2
   },
   {
@@ -116,22 +133,20 @@
    "tldr": "5, and a path to voice filmmaking with GPT-Live.",
    "published": "2026-10-13T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.504,
+   "score": 0.463,
    "tier": 2
   },
   {
-   "id": "082a179fcd5888101db60c4edc2537048d7392bf",
-   "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
+   "id": "550c4c02e9ff21a9dd88243eaf13df56c12e35f4",
+   "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+   "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+   "source": "Hugging Face Blog",
+   "org": [],
    "topic": "ai",
-   "tldr": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices.  The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national.",
-   "published": "2026-10-13T20:45:25.000Z",
+   "tldr": "",
+   "published": "2026-10-13T17:05:48.000Z",
    "dupes": 1,
-   "score": 0.486,
+   "score": 0.461,
    "tier": 2
   },
   {
@@ -146,7 +161,22 @@
    "tldr": "NVIDIA RTX Spark is a new beginning for the PC — a reinvention combining the capabilities of a gaming PC, a creative studio and a personal AI supercomputer into a single superchip.",
    "published": "2026-10-13T12:00:49.000Z",
    "dupes": 1,
-   "score": 0.479,
+   "score": 0.438,
+   "tier": 2
+  },
+  {
+   "id": "082a179fcd5888101db60c4edc2537048d7392bf",
+   "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+   "source": "The Verge AI",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices.  The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national.",
+   "published": "2026-10-13T20:45:25.000Z",
+   "dupes": 1,
+   "score": 0.428,
    "tier": 2
   },
   {
@@ -161,51 +191,8 @@
    "tldr": "The other day I whizzed past several people while running in the park, my playlist blasting at full volume.  The next morning, I smiled at a barista while ordering a caramel apple-flavored matcha latte.",
    "published": "2026-10-13T18:00:00.000Z",
    "dupes": 1,
-   "score": 0.457,
+   "score": 0.405,
    "tier": 2
-  },
-  {
-   "id": "a3312401eb558d6990fbcf8dac551efa628ba0fd",
-   "title": "Google makes it easier to launch your vibe-coded apps",
-   "url": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch",
-   "source": "The Verge AI",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it.  On Tuesday, Google announced a new feature in the US that will allow you to launch…",
-   "published": "2026-10-13T17:00:00.000Z",
-   "dupes": 1,
-   "score": 0.447,
-   "tier": 2
-  },
-  {
-   "id": "438f8f82161f19ed747b0ccca6f2f4064534b514",
-   "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
-   "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
-   "source": "Hacker News",
-   "org": [],
-   "topic": "compute",
-   "tldr": "",
-   "published": "2026-10-13T12:26:36.000Z",
-   "dupes": 1,
-   "score": 0.438,
-   "tier": 2
-  },
-  {
-   "id": "24ef7cf40bd2766a26e37671339e3026d86ebca7",
-   "title": "Google finally releases Gemini 4 Argon",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
-   "source": "The Verge AI",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "After months sitting on the sidelines of the frontier AI race, Google has finally launched its long-awaited Gemini 4 Argon model, claiming it can compete with the best the industry has to offer.",
-   "published": "2026-10-13T16:00:00.000Z",
-   "dupes": 1,
-   "score": 0.438,
-   "tier": 3
   },
   {
    "id": "8f872270b5d9a3f4678c03c21f5e1fffcec48a12",
@@ -219,7 +206,37 @@
    "tldr": "Companies in France are deploying agentic computing across industries spanning space, financial services, the public sector and scientific research, demonstrating how the country’s ecosystem has moved from ambition to…",
    "published": "2026-10-13T05:00:31.000Z",
    "dupes": 1,
-   "score": 0.431,
+   "score": 0.399,
+   "tier": 3
+  },
+  {
+   "id": "a3312401eb558d6990fbcf8dac551efa628ba0fd",
+   "title": "Google makes it easier to launch your vibe-coded apps",
+   "url": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch",
+   "source": "The Verge AI",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it.  On Tuesday, Google announced a new feature in the US that will allow you to launch…",
+   "published": "2026-10-13T17:00:00.000Z",
+   "dupes": 1,
+   "score": 0.397,
+   "tier": 3
+  },
+  {
+   "id": "24ef7cf40bd2766a26e37671339e3026d86ebca7",
+   "title": "Google finally releases Gemini 4 Argon",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
+   "source": "The Verge AI",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "After months sitting on the sidelines of the frontier AI race, Google has finally launched its long-awaited Gemini 4 Argon model, claiming it can compete with the best the industry has to offer.",
+   "published": "2026-10-13T16:00:00.000Z",
+   "dupes": 1,
+   "score": 0.39,
    "tier": 3
   },
   {
@@ -234,7 +251,7 @@
    "tldr": "As AI factories grow from megawatts to gigawatts, building them takes more than advanced computing.  Open standards are helping the industry scale AI infrastructure faster, more efficiently and more reliably.",
    "published": "2026-10-12T15:00:25.000Z",
    "dupes": 1,
-   "score": 0.366,
+   "score": 0.348,
    "tier": 3
   },
   {
@@ -249,7 +266,20 @@
    "tldr": "StudentSim is a research system for evaluating and improving AI tutoring tools before they are tested with learners.  It models how individuals may engage with tutors, giving feedback to improve tutor performance across…",
    "published": "2026-10-12T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.357,
+   "score": 0.338,
+   "tier": 3
+  },
+  {
+   "id": "80473e5d479b295fbff97feacee6456fdca4aa61",
+   "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+   "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts",
+   "source": "Hacker News",
+   "org": [],
+   "topic": "compute",
+   "tldr": "",
+   "published": "2026-10-12T10:09:37.000Z",
+   "dupes": 1,
+   "score": 0.338,
    "tier": 3
   },
   {
@@ -264,20 +294,7 @@
    "tldr": "",
    "published": "2026-10-08T00:14:48.000Z",
    "dupes": 1,
-   "score": 0.339,
-   "tier": 3
-  },
-  {
-   "id": "80473e5d479b295fbff97feacee6456fdca4aa61",
-   "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
-   "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts",
-   "source": "Hacker News",
-   "org": [],
-   "topic": "compute",
-   "tldr": "",
-   "published": "2026-10-12T10:09:37.000Z",
-   "dupes": 1,
-   "score": 0.335,
+   "score": 0.326,
    "tier": 3
   },
   {
@@ -292,22 +309,7 @@
    "tldr": "Azure Maia 200 now in production; Azure Maia 300 coming in 2027 As we move into the era of Super Intelligence, Microsoft is entering a new phase of infrastructure.  We will scale our Azure Maia family to multi-gigawatt…",
    "published": "2026-10-12T13:01:29.000Z",
    "dupes": 1,
-   "score": 0.334,
-   "tier": 3
-  },
-  {
-   "id": "83f6f7430b57e45dc5bf708a429966c2bfb615a0",
-   "title": "SpaceXSI: Unified plans across Grok, Cursor, and X Premium",
-   "url": "https://x.ai/pricing",
-   "source": "HN · xAI",
-   "org": [
-    "xai"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-10-13T00:07:46.000Z",
-   "dupes": 1,
-   "score": 0.318,
+   "score": 0.317,
    "tier": 3
   },
   {
@@ -322,7 +324,7 @@
    "tldr": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
    "published": "2026-10-09T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.304,
+   "score": 0.303,
    "tier": 3
   },
   {
@@ -337,7 +339,7 @@
    "tldr": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
    "published": "2026-10-09T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.304,
+   "score": 0.303,
    "tier": 3
   },
   {
@@ -461,18 +463,18 @@
    "tier": 3
   },
   {
-   "id": "04e9dc3828b5420c0f01153ffacad571c15c3fe5",
-   "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-   "url": "https://openai.com/index/radisson",
-   "source": "OpenAI Blog",
+   "id": "83f6f7430b57e45dc5bf708a429966c2bfb615a0",
+   "title": "SpaceXSI: Unified plans across Grok, Cursor, and X Premium",
+   "url": "https://x.ai/pricing",
+   "source": "HN · xAI",
    "org": [
-    "openai"
+    "xai"
    ],
    "topic": "ai",
-   "tldr": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
-   "published": "2026-10-07T07:00:00.000Z",
+   "tldr": "",
+   "published": "2026-10-13T00:07:46.000Z",
    "dupes": 1,
-   "score": 0.301,
+   "score": 0.292,
    "tier": 3
   },
   {
@@ -487,7 +489,7 @@
    "tldr": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended.  Developers are combining frontier AI models with NVIDIA…",
    "published": "2026-10-08T21:06:35.000Z",
    "dupes": 1,
-   "score": 0.278,
+   "score": 0.277,
    "tier": 3
   },
   {
@@ -546,7 +548,7 @@
    "tldr": "",
    "published": "2026-10-09T15:20:29.000Z",
    "dupes": 1,
-   "score": 0.268,
+   "score": 0.267,
    "tier": 3
   },
   {
@@ -604,24 +606,6 @@
    "tier": 3
   },
   {
-   "id": "7941af6584c4cea5b52340df7685426c59aeec78",
-   "title": "New model on Hugging Face: Qwen/Qwen-Image-2.1-Turbo",
-   "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
-   "source": "HF · Qwen",
-   "org": [
-    "qwen"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-10-09T04:50:01.000Z",
-   "badges": [
-    "model"
-   ],
-   "dupes": 1,
-   "score": 0.254,
-   "tier": 3
-  },
-  {
    "id": "b6898643467f316efb60803b7ee66fb15caf8916",
    "title": "Debunking the Biggest Data Center Myths",
    "url": "https://about.fb.com/news/2026/10/debunking-the-biggest-data-center-myths",
@@ -648,7 +632,7 @@
    "tldr": "Meta donates 1,000 Ray-Ban Meta AI glasses to four Singapore community organisations to help persons with disabilities.  The post Meta Donates 1,000 AI Glasses to Singapore’s Disability Community appeared first on Meta…",
    "published": "2026-10-08T05:49:36.000Z",
    "dupes": 1,
-   "score": 0.252,
+   "score": 0.251,
    "tier": 3
   },
   {
