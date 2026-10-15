@@ -1,6 +1,51 @@
 {
- "generated": "2026-10-15T14:35:38.871Z",
+ "generated": "2026-10-15T18:48:50.998Z",
  "items": [
+  {
+   "id": "2af8241101776a9041fbb1a0d5207c401df253b7",
+   "title": "More on Anthropic's Scion ripping off Mononoke",
+   "url": "https://sunshowers.io/posts/anthropic-mononoke-2",
+   "source": "Hacker News",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-10-15T17:05:19.000Z",
+   "dupes": 1,
+   "score": 0.677,
+   "tier": 1
+  },
+  {
+   "id": "1d4cff712a9a12812912916b09ee2f570c14be95",
+   "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+   "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery",
+   "source": "Google DeepMind",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+   "published": "2026-10-15T16:08:03.000Z",
+   "dupes": 1,
+   "score": 0.616,
+   "tier": 2
+  },
+  {
+   "id": "a01480253e96f18cb8e8ba477fefce8d1d3d759e",
+   "title": "Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
+   "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "A new beginning for Windows PCs starts tomorrow with the launch of NVIDIA RTX Spark — one PC built for creators, gamers and AI agents.  All are invited to celebrate with NVIDIA and partners at launch events around the…",
+   "published": "2026-10-15T17:00:23.000Z",
+   "dupes": 1,
+   "score": 0.601,
+   "tier": 2
+  },
   {
    "id": "fa14b8f7db4605dfa58d6966f0032b53bc43f042",
    "title": "Teaching students to think and learn through questions",
@@ -13,8 +58,38 @@
    "tldr": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
    "published": "2026-10-15T13:00:00.000Z",
    "dupes": 1,
-   "score": 0.629,
-   "tier": 1
+   "score": 0.58,
+   "tier": 2
+  },
+  {
+   "id": "2cd92b812c13525ab824a70167b889468dbeeb50",
+   "title": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
+   "url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on agents.",
+   "published": "2026-10-15T15:00:24.000Z",
+   "dupes": 1,
+   "score": 0.577,
+   "tier": 2
+  },
+  {
+   "id": "f1d2b0021bdbe009de6d2056f8ab68956f161aeb",
+   "title": "Proof-based general-purpose computing with Magnetar",
+   "url": "https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar",
+   "source": "Microsoft Research",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "Zero-knowledge proofs can verify computing results without rerunning workloads or exposing sensitive data.  Magnetar helps bring them into the mainstream with support for standard programming languages, major speed…",
+   "published": "2026-10-15T16:00:00.000Z",
+   "dupes": 1,
+   "score": 0.577,
+   "tier": 2
   },
   {
    "id": "46ec98616fab5687d218dba276b9e965325e0f1b",
@@ -28,7 +103,7 @@
    "tldr": "Dial in the next gaming session this GFN Thursday.  5 controls give GeForce NOW members more choice over how supported games look and perform in the cloud, even without the latest hardware.",
    "published": "2026-10-15T13:00:59.000Z",
    "dupes": 1,
-   "score": 0.604,
+   "score": 0.555,
    "tier": 2
   },
   {
@@ -43,7 +118,20 @@
    "tldr": "Much of today’s scientific progress begins with computation.  But turning accelerated computing’s potential into scientific progress — modeling climate systems, designing molecules, simulating materials and more —…",
    "published": "2026-10-15T10:00:12.000Z",
    "dupes": 1,
-   "score": 0.568,
+   "score": 0.524,
+   "tier": 2
+  },
+  {
+   "id": "e3c36d4422c6129b6e7c327848f615768d48cad8",
+   "title": "Apertus 1.5 Release Notes",
+   "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-10-15T09:08:45.000Z",
+   "dupes": 1,
+   "score": 0.504,
    "tier": 2
   },
   {
@@ -58,35 +146,7 @@
    "tldr": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a lively hands-on area.",
    "published": "2026-10-15T14:30:00.000Z",
    "dupes": 1,
-   "score": 0.549,
-   "tier": 2
-  },
-  {
-   "id": "e3c36d4422c6129b6e7c327848f615768d48cad8",
-   "title": "Apertus 1.5 Release Notes",
-   "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-10-15T09:08:45.000Z",
-   "dupes": 1,
-   "score": 0.546,
-   "tier": 2
-  },
-  {
-   "id": "adaf79e50c2e54f8ae03e9d8c32c381fd4446d20",
-   "title": "Google launches its ‘universal’ online shopping cart ahead of the holidays",
-   "url": "https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch",
-   "source": "The Verge AI",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Google's intelligent AI shopping cart is finally here, and just in time to tempt users into Black Friday and seasonal holiday spending.",
-   "published": "2026-10-15T13:00:00.000Z",
-   "dupes": 1,
-   "score": 0.529,
+   "score": 0.496,
    "tier": 2
   },
   {
@@ -101,8 +161,66 @@
    "tldr": "The Nordic countries have become the European leader in unicorn startup density, producing the most emerging companies valued at $1 billion or more per capita on the continent.  Now, a new chapter for the region is…",
    "published": "2026-10-15T05:00:12.000Z",
    "dupes": 1,
-   "score": 0.517,
+   "score": 0.481,
    "tier": 2
+  },
+  {
+   "id": "adaf79e50c2e54f8ae03e9d8c32c381fd4446d20",
+   "title": "Google launches its ‘universal’ online shopping cart ahead of the holidays",
+   "url": "https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch",
+   "source": "The Verge AI",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Google's intelligent AI shopping cart is finally here, and just in time to tempt users into Black Friday and seasonal holiday spending.",
+   "published": "2026-10-15T13:00:00.000Z",
+   "dupes": 1,
+   "score": 0.48,
+   "tier": 2
+  },
+  {
+   "id": "dc9ed14da7f573e56986f39aab9e2ebea1ba4c04",
+   "title": "An update on independent evaluators",
+   "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+   "source": "Anthropic News",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-10-15T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.47,
+   "tier": 2
+  },
+  {
+   "id": "9d251ac6836a600d8fed2294d5c3f8928f6177ed",
+   "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+   "url": "https://huggingface.co/blog/meta-muse-spark-open",
+   "source": "Hugging Face Blog",
+   "org": [
+    "meta"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-10-15T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.432,
+   "tier": 3
+  },
+  {
+   "id": "3733c75a28bf26df988281155bac3e5cdfdea7ba",
+   "title": "Welcome FLUX.3 Image Klein in Diffusers",
+   "url": "https://huggingface.co/blog/flux-3",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-10-15T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.432,
+   "tier": 3
   },
   {
    "id": "d7f4f48324ba74158d1a73c8b397d97e7125a944",
@@ -116,8 +234,8 @@
    "tldr": "New Meta research across nine APAC markets shows how AI is helping small businesses grow, compete with larger rivals and reach customers across borders.  The post More Than Three Quarters of Small Business Owners Say AI…",
    "published": "2026-10-15T00:50:50.000Z",
    "dupes": 1,
-   "score": 0.456,
-   "tier": 2
+   "score": 0.425,
+   "tier": 3
   },
   {
    "id": "a0e0fec2c2b5f568672ddffd97e5dbcc17df031b",
@@ -131,8 +249,8 @@
    "tldr": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
    "published": "2026-10-14T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.426,
-   "tier": 2
+   "score": 0.407,
+   "tier": 3
   },
   {
    "id": "24cc989c02dbc2a2daf4f04185de8060d33da4a8",
@@ -146,26 +264,8 @@
    "tldr": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
    "published": "2026-10-14T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.426,
-   "tier": 2
-  },
-  {
-   "id": "18b611693debbbf2b49126bcf0aec3ce9cc7624a",
-   "title": "Research@ 2026: 10 ways we're amplifying human ingenuity",
-   "url": "https://research.google/blog/research-2026-10-ways-were-amplifying-human-ingenuity",
-   "source": "Google Research",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "General Science",
-   "published": "2026-10-14T16:14:34.000Z",
-   "badges": [
-    "research"
-   ],
-   "dupes": 1,
-   "score": 0.423,
-   "tier": 2
+   "score": 0.407,
+   "tier": 3
   },
   {
    "id": "09a39f2629ebdd36a3f4e74dcb57ff50d8ebb4bd",
@@ -179,8 +279,8 @@
    "tldr": "Earth AI",
    "published": "2026-10-14T16:14:00.000Z",
    "dupes": 1,
-   "score": 0.423,
-   "tier": 2
+   "score": 0.401,
+   "tier": 3
   },
   {
    "id": "09678c4af34302447d16574d6b28137803a51b4d",
@@ -194,20 +294,25 @@
    "tldr": "General Science",
    "published": "2026-10-14T16:14:00.000Z",
    "dupes": 1,
-   "score": 0.423,
-   "tier": 2
+   "score": 0.401,
+   "tier": 3
   },
   {
-   "id": "672ebf75c430cf70c5939989b244112c7eac909f",
-   "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-   "url": "https://huggingface.co/blog/allenai/hiro-acev2",
-   "source": "Hugging Face Blog",
-   "org": [],
+   "id": "18b611693debbbf2b49126bcf0aec3ce9cc7624a",
+   "title": "Research@ 2026: 10 ways we're amplifying human ingenuity",
+   "url": "https://research.google/blog/research-2026-10-ways-were-amplifying-human-ingenuity",
+   "source": "Google Research",
+   "org": [
+    "google"
+   ],
    "topic": "ai",
-   "tldr": "",
-   "published": "2026-10-14T16:12:42.000Z",
+   "tldr": "General Science",
+   "published": "2026-10-14T16:14:00.000Z",
+   "badges": [
+    "research"
+   ],
    "dupes": 1,
-   "score": 0.41,
+   "score": 0.401,
    "tier": 3
   },
   {
@@ -225,7 +330,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.404,
+   "score": 0.388,
    "tier": 3
   },
   {
@@ -240,7 +345,20 @@
    "tldr": "Block is building AI-powered security with OpenAI.  Its security team investigates threats faster and proposes patches in minutes.",
    "published": "2026-10-14T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.404,
+   "score": 0.388,
+   "tier": 3
+  },
+  {
+   "id": "672ebf75c430cf70c5939989b244112c7eac909f",
+   "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+   "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-10-14T16:12:42.000Z",
+   "dupes": 1,
+   "score": 0.388,
    "tier": 3
   },
   {
@@ -255,7 +373,7 @@
    "tldr": "” This pilot aims to explore how AI glasses can make art more accessible for people who are blind or with low vision – in collaboration with the some of Italy’s leading sight loss charities – the Associazione Nazionale…",
    "published": "2026-10-14T16:00:57.000Z",
    "dupes": 1,
-   "score": 0.397,
+   "score": 0.375,
    "tier": 3
   },
   {
@@ -270,7 +388,7 @@
    "tldr": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
    "published": "2026-10-14T02:00:14.000Z",
    "dupes": 1,
-   "score": 0.386,
+   "score": 0.373,
    "tier": 3
   },
   {
@@ -285,7 +403,7 @@
    "tldr": "",
    "published": "2026-10-14T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.379,
+   "score": 0.367,
    "tier": 3
   },
   {
@@ -300,7 +418,7 @@
    "tldr": "",
    "published": "2026-10-14T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.379,
+   "score": 0.367,
    "tier": 3
   },
   {
@@ -315,22 +433,7 @@
    "tldr": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
    "published": "2026-10-14T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.379,
-   "tier": 3
-  },
-  {
-   "id": "88ac6d1c3f06222f0526a1499b3df95ba78896a4",
-   "title": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters.",
-   "published": "2026-10-14T21:11:28.000Z",
-   "dupes": 1,
-   "score": 0.379,
+   "score": 0.367,
    "tier": 3
   },
   {
@@ -345,7 +448,7 @@
    "tldr": "K.  is putting the full stack to work.",
    "published": "2026-10-14T06:04:15.000Z",
    "dupes": 1,
-   "score": 0.375,
+   "score": 0.36,
    "tier": 3
   },
   {
@@ -360,22 +463,7 @@
    "tldr": "Keeping a city running means making decisions that affect residents every day — from when to repair a road to how to use energy more efficiently.",
    "published": "2026-10-14T06:00:28.000Z",
    "dupes": 1,
-   "score": 0.375,
-   "tier": 3
-  },
-  {
-   "id": "83f6f7430b57e45dc5bf708a429966c2bfb615a0",
-   "title": "SpaceXSI: Unified plans across Grok, Cursor, and X Premium",
-   "url": "https://x.ai/pricing",
-   "source": "HN · xAI",
-   "org": [
-    "xai"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-10-13T00:07:46.000Z",
-   "dupes": 1,
-   "score": 0.369,
+   "score": 0.36,
    "tier": 3
   },
   {
@@ -390,7 +478,22 @@
    "tldr": "",
    "published": "2026-10-13T19:43:07.000Z",
    "dupes": 1,
-   "score": 0.367,
+   "score": 0.357,
+   "tier": 3
+  },
+  {
+   "id": "88ac6d1c3f06222f0526a1499b3df95ba78896a4",
+   "title": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+   "source": "The Verge AI",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters.",
+   "published": "2026-10-14T21:11:28.000Z",
+   "dupes": 1,
+   "score": 0.352,
    "tier": 3
   },
   {
@@ -405,7 +508,7 @@
    "tldr": "",
    "published": "2026-10-13T16:01:58.000Z",
    "dupes": 1,
-   "score": 0.358,
+   "score": 0.35,
    "tier": 3
   },
   {
@@ -420,7 +523,7 @@
    "tldr": "",
    "published": "2026-10-13T16:01:52.000Z",
    "dupes": 1,
-   "score": 0.358,
+   "score": 0.35,
    "tier": 3
   },
   {
@@ -435,7 +538,7 @@
    "tldr": "5, and a path to voice filmmaking with GPT-Live.",
    "published": "2026-10-13T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.35,
+   "score": 0.342,
    "tier": 3
   },
   {
@@ -450,7 +553,7 @@
    "tldr": "NVIDIA RTX Spark is a new beginning for the PC — a reinvention combining the capabilities of a gaming PC, a creative studio and a personal AI supercomputer into a single superchip.",
    "published": "2026-10-13T12:00:49.000Z",
    "dupes": 1,
-   "score": 0.325,
+   "score": 0.317,
    "tier": 3
   },
   {
@@ -463,7 +566,7 @@
    "tldr": "",
    "published": "2026-10-13T17:05:48.000Z",
    "dupes": 1,
-   "score": 0.323,
+   "score": 0.314,
    "tier": 3
   },
   {
@@ -478,7 +581,7 @@
    "tldr": "Companies in France are deploying agentic computing across industries spanning space, financial services, the public sector and scientific research, demonstrating how the country’s ecosystem has moved from ambition to…",
    "published": "2026-10-13T05:00:31.000Z",
    "dupes": 1,
-   "score": 0.313,
+   "score": 0.307,
    "tier": 3
   },
   {
@@ -512,21 +615,6 @@
    "tier": 3
   },
   {
-   "id": "112b5f00879d4fef3be367032aa59a57159f98cd",
-   "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-   "url": "https://openai.com/index/oracle",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
-   "published": "2026-10-08T16:00:00.000Z",
-   "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
    "id": "64b8fb1d42bf98f3a680959222748007b3e37dfa",
    "title": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
    "url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories",
@@ -538,7 +626,7 @@
    "tldr": "As AI factories grow from megawatts to gigawatts, building them takes more than advanced computing.  Open standards are helping the industry scale AI infrastructure faster, more efficiently and more reliably.",
    "published": "2026-10-12T15:00:25.000Z",
    "dupes": 1,
-   "score": 0.297,
+   "score": 0.294,
    "tier": 3
   },
   {
@@ -553,7 +641,7 @@
    "tldr": "StudentSim is a research system for evaluating and improving AI tutoring tools before they are tested with learners.  It models how individuals may engage with tutors, giving feedback to improve tutor performance across…",
    "published": "2026-10-12T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.286,
+   "score": 0.282,
    "tier": 3
   },
   {
@@ -566,7 +654,7 @@
    ],
    "topic": "compute",
    "tldr": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended.  Developers are combining frontier AI models with NVIDIA…",
-   "published": "2026-10-08T21:06:35.000Z",
+   "published": "2026-10-09T16:00:35.000Z",
    "dupes": 1,
    "score": 0.276,
    "tier": 3
@@ -583,22 +671,7 @@
    "tldr": "Azure Maia 200 now in production; Azure Maia 300 coming in 2027 As we move into the era of Super Intelligence, Microsoft is entering a new phase of infrastructure.  We will scale our Azure Maia family to multi-gigawatt…",
    "published": "2026-10-12T13:01:29.000Z",
    "dupes": 1,
-   "score": 0.271,
-   "tier": 3
-  },
-  {
-   "id": "b6898643467f316efb60803b7ee66fb15caf8916",
-   "title": "Debunking the Biggest Data Center Myths",
-   "url": "https://about.fb.com/news/2026/10/debunking-the-biggest-data-center-myths",
-   "source": "Meta Newsroom",
-   "org": [
-    "meta"
-   ],
-   "topic": "compute",
-   "tldr": "Developer and content creator Tom Shaw breaks down three of the biggest myths about data centers.  The post Debunking the Biggest Data Center Myths appeared first on Meta Newsroom .",
-   "published": "2026-10-08T16:53:24.000Z",
-   "dupes": 1,
-   "score": 0.251,
+   "score": 0.268,
    "tier": 3
   },
   {
@@ -617,6 +690,21 @@
    ],
    "dupes": 1,
    "score": 0.251,
+   "tier": 3
+  },
+  {
+   "id": "83f6f7430b57e45dc5bf708a429966c2bfb615a0",
+   "title": "SpaceXSI: Unified plans across Grok, Cursor, and X Premium",
+   "url": "https://x.ai/pricing",
+   "source": "HN · xAI",
+   "org": [
+    "xai"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-10-13T00:07:46.000Z",
+   "dupes": 1,
+   "score": 0.229,
    "tier": 3
   }
  ]
