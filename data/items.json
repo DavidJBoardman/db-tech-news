@@ -1,6 +1,81 @@
 {
- "generated": "2026-10-19T11:01:44.247Z",
+ "generated": "2026-10-19T17:37:26.934Z",
  "items": [
+  {
+   "id": "96de516b716a883ce67583b223a8cff95b0e459d",
+   "title": "Microsoft: October Windows Server updates break Exchange sign-in, mail flow",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues",
+   "source": "BleepingComputer",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "security",
+   "tldr": "Microsoft has confirmed that this month's Windows Server security updates are causing OWA sign-in and mail delivery issues on some Exchange Server systems.",
+   "published": "2026-10-19T08:58:41.000Z",
+   "dupes": 2,
+   "score": 0.722,
+   "tier": 1
+  },
+  {
+   "id": "f9cad54fff25928c136e7894832915f6439bebb7",
+   "title": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
+   "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Technology",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "The Saudi government did not immediately respond to BBC requests for comment.",
+   "published": "2026-10-19T16:22:12.000Z",
+   "dupes": 1,
+   "score": 0.709,
+   "tier": 2
+  },
+  {
+   "id": "3dc0665f038cf489af49d6bb75402a78a2deaccb",
+   "title": "Microsoft fixes game, app crashes caused by recent Windows update",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-game-app-crashes-caused-by-windows-kb5124010-preview-update",
+   "source": "BleepingComputer",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "security",
+   "tldr": "Microsoft has resolved a bug that caused games and apps using AC-3 (Dolby Digital) audio decoding to crash after installing the September 2026 Windows 11 preview update (KB5124010).",
+   "published": "2026-10-19T14:55:23.000Z",
+   "dupes": 1,
+   "score": 0.694,
+   "tier": 2
+  },
+  {
+   "id": "01233ab2ff5e43c272d0944ec0f4b23d6f7ef8d2",
+   "title": "Microsoft fixes classic Outlook bug that hid Copilot buttons",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-hid-copilot-buttons-in-classic-outlook",
+   "source": "BleepingComputer",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "security",
+   "tldr": "Microsoft has fixed a known issue that removed the Copilot Chat and Copilot buttons in the classic Outlook desktop mail client for some Windows users.",
+   "published": "2026-10-19T12:44:44.000Z",
+   "dupes": 1,
+   "score": 0.684,
+   "tier": 2
+  },
+  {
+   "id": "24f0298eed3882d9021d4dd21677ef25bd896092",
+   "title": "NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to Global Content Production",
+   "url": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "At a creative industry event that took place today in Berlin — hosted in collaboration with Adobe, Bertelsmann, NVIDIA and UFA — the latest advancements in intelligent media were on display.",
+   "published": "2026-10-19T15:00:31.000Z",
+   "dupes": 1,
+   "score": 0.653,
+   "tier": 2
+  },
   {
    "id": "1de1c48ce23bc8e58ce8223556194752e19d5f54",
    "title": "OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys",
@@ -15,8 +90,8 @@
    "tldr": "An intruder reached a legacy system at OpenCode on the night of October 16 and may have exposed the third-party AI provider keys that users had saved in OpenCode Console, the company said.",
    "published": "2026-10-19T06:07:08.000Z",
    "dupes": 1,
-   "score": 0.675,
-   "tier": 1
+   "score": 0.648,
+   "tier": 2
   },
   {
    "id": "41797b9f96f946fbf26225095e3de372c28db3cd",
@@ -30,7 +105,22 @@
    "tldr": "",
    "published": "2026-10-19T05:55:31.000Z",
    "dupes": 1,
-   "score": 0.662,
+   "score": 0.642,
+   "tier": 2
+  },
+  {
+   "id": "c33a66b4df035b2b36c5266486f86b2a690c9129",
+   "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+   "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs",
+   "source": "TechCrunch",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
+   "published": "2026-10-19T15:37:09.000Z",
+   "dupes": 1,
+   "score": 0.639,
    "tier": 2
   },
   {
@@ -42,10 +132,10 @@
     "anthropic"
    ],
    "topic": "ai",
-   "tldr": "Anthropic said that it will commit 5% of its shares to the fund.",
+   "tldr": "The company offered some broad-strokes ideas for how this money might actually be used, such as “large donations to traditional nonprofits or direct distributions to specific populations.”",
    "published": "2026-10-18T20:37:40.000Z",
    "dupes": 1,
-   "score": 0.653,
+   "score": 0.63,
    "tier": 2
   },
   {
@@ -60,7 +150,7 @@
    "tldr": "The outside watchdog can publish its findings without Anthropic's approval.",
    "published": "2026-10-18T16:25:19.000Z",
    "dupes": 1,
-   "score": 0.646,
+   "score": 0.626,
    "tier": 2
   },
   {
@@ -75,23 +165,68 @@
    "tldr": "",
    "published": "2026-10-18T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.625,
+   "score": 0.611,
    "tier": 2
   },
   {
-   "id": "96de516b716a883ce67583b223a8cff95b0e459d",
-   "title": "Microsoft: October Windows Server updates break Exchange sign-in, mail flow",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues",
+   "id": "e70b33f08be19410797daad11e20db79a5a2d20c",
+   "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack",
    "source": "BleepingComputer",
    "org": [
     "microsoft"
    ],
    "topic": "security",
-   "tldr": "Microsoft has confirmed that this month's Windows Server security updates are causing OWA sign-in and mail delivery issues on some Exchange Server systems.",
-   "published": "2026-10-19T08:58:41.000Z",
+   "tldr": "ConnectWise has shut down customer access to its Cloud Backup service (formerly SkyKick Cloud Backup) after hackers accessed application identities and compromised Microsoft 365 tenants.",
+   "published": "2026-10-17T15:18:51.000Z",
    "dupes": 2,
-   "score": 0.608,
+   "score": 0.611,
    "tier": 2
+  },
+  {
+   "id": "af59b3284175b1f2c4249f2e9b6764acf79cd8b2",
+   "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+   "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "NVIDIA RTX Spark laptops are now available, bringing NVIDIA Blackwell RTX graphics, up to 128GB of unified memory and the full NVIDIA AI platform to slim, premium Windows PCs.",
+   "published": "2026-10-17T21:00:13.000Z",
+   "dupes": 1,
+   "score": 0.587,
+   "tier": 2
+  },
+  {
+   "id": "952b3a6c7b9c760d0adc18e4758d2a484db0de4d",
+   "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
+   "url": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
+   "source": "The Hacker News",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "security",
+   "tldr": "ConnectWise on Saturday said it has disabled seven ConnectWise application identities as it continues its investigation into an incident in which unknown threat actors obtained unauthorized access to the application…",
+   "published": "2026-10-18T08:23:02.000Z",
+   "dupes": 1,
+   "score": 0.581,
+   "tier": 3
+  },
+  {
+   "id": "0480c20408dda17d0d60f91782f636d40d56b4d1",
+   "title": "NVIDIA Announces New Investments in the UK Startup Ecosystem",
+   "url": "https://blogs.nvidia.com/blog/uk-ecosystem-deployment",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "K.  is putting the full stack to work.",
+   "published": "2026-10-14T06:04:15.000Z",
+   "dupes": 2,
+   "score": 0.577,
+   "tier": 3
   },
   {
    "id": "0dabc6c10b97c37b5111d1bc15962486a0b5583a",
@@ -105,8 +240,23 @@
    "tldr": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
    "published": "2026-10-17T20:21:19.000Z",
    "dupes": 1,
-   "score": 0.585,
-   "tier": 2
+   "score": 0.572,
+   "tier": 3
+  },
+  {
+   "id": "65442e708214c10b88da99a535be852d30396736",
+   "title": "How Itaú is building generative AI for its entire customer base",
+   "url": "https://openai.com/index/itau-generative-ai",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+   "published": "2026-10-16T19:00:00.000Z",
+   "dupes": 1,
+   "score": 0.57,
+   "tier": 3
   },
   {
    "id": "6435f671229b69ca08cbe2a0c540ff989dd2f621",
@@ -121,41 +271,8 @@
    "tldr": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider.  Claude will still be available to customers on the platform.",
    "published": "2026-10-17T18:48:08.000Z",
    "dupes": 1,
-   "score": 0.582,
-   "tier": 2
-  },
-  {
-   "id": "65442e708214c10b88da99a535be852d30396736",
-   "title": "How Itaú is building generative AI for its entire customer base",
-   "url": "https://openai.com/index/itau-generative-ai",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
-   "published": "2026-10-16T19:00:00.000Z",
-   "dupes": 1,
-   "score": 0.577,
-   "tier": 2
-  },
-  {
-   "id": "9b13d6a721a0c27049840c9b9a043dabdb98a309",
-   "title": "New model on Hugging Face: deepseek-ai/DeepSeek-V4.1-Flash-1017",
-   "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-   "source": "HF · DeepSeek",
-   "org": [
-    "deepseek"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-10-17T02:40:38.000Z",
-   "badges": [
-    "model"
-   ],
-   "dupes": 3,
-   "score": 0.573,
-   "tier": 2
+   "score": 0.57,
+   "tier": 3
   },
   {
    "id": "4a2f3ca18eb9cee6e404d64432a48a189cc310da",
@@ -169,8 +286,8 @@
    "tldr": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
    "published": "2026-10-16T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.559,
-   "tier": 2
+   "score": 0.555,
+   "tier": 3
   },
   {
    "id": "9db4940a53f868400a117abeba82d09071409b87",
@@ -184,8 +301,8 @@
    "tldr": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
    "published": "2026-10-16T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.559,
-   "tier": 2
+   "score": 0.555,
+   "tier": 3
   },
   {
    "id": "a72d1e4da6b0e1062a21232ab241fb1975aaab08",
@@ -202,22 +319,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.556,
-   "tier": 2
-  },
-  {
-   "id": "e86f92efb2651db53d684299bf466ba2775c2d91",
-   "title": "OpenAI models hacked a crypto wallet and breached more websites",
-   "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites",
-   "source": "Ars Technica",
-   "org": [
-    "openai"
-   ],
-   "topic": "security",
-   "tldr": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
-   "published": "2026-10-16T20:59:01.000Z",
-   "dupes": 1,
-   "score": 0.555,
+   "score": 0.552,
    "tier": 3
   },
   {
@@ -232,22 +334,97 @@
    "tldr": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
    "published": "2026-10-15T13:00:00.000Z",
    "dupes": 1,
-   "score": 0.552,
+   "score": 0.549,
    "tier": 3
   },
   {
-   "id": "e70b33f08be19410797daad11e20db79a5a2d20c",
-   "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack",
-   "source": "BleepingComputer",
+   "id": "e86f92efb2651db53d684299bf466ba2775c2d91",
+   "title": "OpenAI models hacked a crypto wallet and breached more websites",
+   "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites",
+   "source": "Ars Technica",
    "org": [
-    "microsoft"
+    "openai"
    ],
    "topic": "security",
-   "tldr": "ConnectWise has shut down customer access to its Cloud Backup service (formerly SkyKick Cloud Backup) after hackers accessed application identities and compromised Microsoft 365 tenants.",
-   "published": "2026-10-17T15:18:51.000Z",
-   "dupes": 2,
-   "score": 0.541,
+   "tldr": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+   "published": "2026-10-16T20:59:01.000Z",
+   "dupes": 1,
+   "score": 0.548,
+   "tier": 3
+  },
+  {
+   "id": "a01480253e96f18cb8e8ba477fefce8d1d3d759e",
+   "title": "Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
+   "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "A new beginning for Windows PCs starts tomorrow with the launch of NVIDIA RTX Spark — one PC built for creators, gamers and AI agents.  All are invited to celebrate with NVIDIA and partners at launch events around the…",
+   "published": "2026-10-15T17:00:23.000Z",
+   "dupes": 1,
+   "score": 0.535,
+   "tier": 3
+  },
+  {
+   "id": "2cd92b812c13525ab824a70167b889468dbeeb50",
+   "title": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
+   "url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on agents.",
+   "published": "2026-10-15T15:00:24.000Z",
+   "dupes": 1,
+   "score": 0.534,
+   "tier": 3
+  },
+  {
+   "id": "46ec98616fab5687d218dba276b9e965325e0f1b",
+   "title": "Dial Up the Cloud: NVIDIA DLSS 4.5 Controls Arrive on GeForce NOW",
+   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-enshrouded-update",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Dial in the next gaming session this GFN Thursday.  5 controls give GeForce NOW members more choice over how supported games look and perform in the cloud, even without the latest hardware.",
+   "published": "2026-10-15T13:00:59.000Z",
+   "dupes": 1,
+   "score": 0.533,
+   "tier": 3
+  },
+  {
+   "id": "6626e386d54752bd2a5a43ddd069ba549b9c04df",
+   "title": "NVIDIA Expands Advanced Technology Access for Europe’s Scientific Community Through Open Learning Resources, Collaborations and Compute",
+   "url": "https://blogs.nvidia.com/blog/ec-scientific-computing-pledge",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Much of today’s scientific progress begins with computation.  But turning accelerated computing’s potential into scientific progress — modeling climate systems, designing molecules, simulating materials and more —…",
+   "published": "2026-10-15T10:00:12.000Z",
+   "dupes": 1,
+   "score": 0.531,
+   "tier": 3
+  },
+  {
+   "id": "9ff90121ae16c33f04d8dbfa5799413e1309a25d",
+   "title": "The Nordics and NVIDIA Show What’s Possible When a Region Commits to Advanced Computing",
+   "url": "https://blogs.nvidia.com/blog/nordics-technology-ecosystem",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "The Nordic countries have become the European leader in unicorn startup density, producing the most emerging companies valued at $1 billion or more per capita on the continent.  Now, a new chapter for the region is…",
+   "published": "2026-10-15T05:00:12.000Z",
+   "dupes": 1,
+   "score": 0.529,
    "tier": 3
   },
   {
@@ -262,7 +439,52 @@
    "tldr": "Employees using personal ChatGPT accounts at work can expose sensitive company data, even when their organization provides an approved Enterprise workspace.  NordLayer explains how IT teams can investigate unauthorized…",
    "published": "2026-10-16T13:50:59.000Z",
    "dupes": 1,
-   "score": 0.531,
+   "score": 0.525,
+   "tier": 3
+  },
+  {
+   "id": "422ff706cee532539d98b4cf1e32f4e8fcd8ad43",
+   "title": "The Surface Laptop Ultra delivers on most of Microsoft's promises",
+   "url": "https://arstechnica.com/reviews/2026/10/the-surface-laptop-ultra-delivers-on-most-of-microsofts-promises",
+   "source": "Ars Technica · Gadgets",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "compute",
+   "tldr": "Microsoft promises one machine for dev, AI, and gaming, and mostly gets there.",
+   "published": "2026-10-16T12:00:05.000Z",
+   "dupes": 1,
+   "score": 0.524,
+   "tier": 3
+  },
+  {
+   "id": "b66237a3192719f72445c03254f6da2bba530479",
+   "title": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
+   "url": "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Keeping a city running means making decisions that affect residents every day — from when to repair a road to how to use energy more efficiently.",
+   "published": "2026-10-14T06:00:28.000Z",
+   "dupes": 1,
+   "score": 0.522,
+   "tier": 3
+  },
+  {
+   "id": "2bd91dcdfa9d7b81fc21366c7905f5d48c1e3e5c",
+   "title": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
+   "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "NVIDIA RTX Spark is a new beginning for the PC — a reinvention combining the capabilities of a gaming PC, a creative studio and a personal AI supercomputer into a single superchip.",
+   "published": "2026-10-13T12:00:49.000Z",
+   "dupes": 1,
+   "score": 0.518,
    "tier": 3
   },
   {
@@ -280,7 +502,22 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.524,
+   "score": 0.517,
+   "tier": 3
+  },
+  {
+   "id": "2ad84ab401bee4f9161dcd6d8a2e588dab7b4f8d",
+   "title": "Microsoft Patches More Than 1,400 Security Flaws",
+   "url": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws",
+   "source": "Krebs on Security",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "security",
+   "tldr": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software.  Today's epic patch batch dwarfs September's record of nearly 1,000 fixes, which was…",
+   "published": "2026-10-13T23:24:53.000Z",
+   "dupes": 1,
+   "score": 0.512,
    "tier": 3
   },
   {
@@ -296,97 +533,22 @@
    "tldr": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software,…",
    "published": "2026-10-16T16:30:00.000Z",
    "dupes": 1,
-   "score": 0.515,
+   "score": 0.509,
    "tier": 3
   },
   {
-   "id": "952b3a6c7b9c760d0adc18e4758d2a484db0de4d",
-   "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
-   "url": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
+   "id": "986cc714fb426f821349327b1c955b2a14e9a584",
+   "title": "ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More",
+   "url": "https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html",
    "source": "The Hacker News",
    "org": [
-    "microsoft"
+    "nvidia"
    ],
    "topic": "security",
-   "tldr": "ConnectWise on Saturday said it has disabled seven ConnectWise application identities as it continues its investigation into an incident in which unknown threat actors obtained unauthorized access to the application…",
-   "published": "2026-10-18T08:23:02.000Z",
+   "tldr": "Someone built a tool to steal data, then decided it should scare the victim for fun.  Yes, that’s an actual feature.",
+   "published": "2026-10-15T18:49:33.000Z",
    "dupes": 1,
-   "score": 0.498,
-   "tier": 3
-  },
-  {
-   "id": "ecd984dc6bd30fda93af740f141316044b995e8f",
-   "title": "Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days",
-   "url": "https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html",
-   "source": "The Hacker News",
-   "org": [
-    "openai"
-   ],
-   "topic": "security",
-   "tldr": "A team at security firm XBOW chained three then-unknown Google Chrome bugs into a single attack that runs code on a Windows computer when the user only loads a web page, the company said.  6 Sol model.",
-   "published": "2026-10-14T11:19:02.000Z",
-   "dupes": 1,
-   "score": 0.493,
-   "tier": 3
-  },
-  {
-   "id": "cb3154f35431b4949521eb7b6fce16b9d87f9f2f",
-   "title": "OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room",
-   "url": "https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html",
-   "source": "The Hacker News",
-   "org": [
-    "openai"
-   ],
-   "topic": "security",
-   "tldr": "A Saudi national and employee of OpenAI has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to covertly record sensitive…",
-   "published": "2026-10-14T01:59:25.000Z",
-   "dupes": 1,
-   "score": 0.49,
-   "tier": 3
-  },
-  {
-   "id": "d9ed76a64d3ea742b8854ce4acd88ff8e19aedab",
-   "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
-   "url": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
-   "source": "The Hacker News",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "security",
-   "tldr": "Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes, according to a warning from Anthropic.",
-   "published": "2026-10-13T18:20:57.000Z",
-   "dupes": 1,
-   "score": 0.488,
-   "tier": 3
-  },
-  {
-   "id": "422ff706cee532539d98b4cf1e32f4e8fcd8ad43",
-   "title": "The Surface Laptop Ultra delivers on most of Microsoft's promises",
-   "url": "https://arstechnica.com/reviews/2026/10/the-surface-laptop-ultra-delivers-on-most-of-microsofts-promises",
-   "source": "Ars Technica · Gadgets",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "compute",
-   "tldr": "Microsoft promises one machine for dev, AI, and gaming, and mostly gets there.",
-   "published": "2026-10-16T12:00:05.000Z",
-   "dupes": 1,
-   "score": 0.467,
-   "tier": 3
-  },
-  {
-   "id": "2ad84ab401bee4f9161dcd6d8a2e588dab7b4f8d",
-   "title": "Microsoft Patches More Than 1,400 Security Flaws",
-   "url": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws",
-   "source": "Krebs on Security",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "security",
-   "tldr": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software.  Today's epic patch batch dwarfs September's record of nearly 1,000 fixes, which was…",
-   "published": "2026-10-13T23:24:53.000Z",
-   "dupes": 1,
-   "score": 0.466,
+   "score": 0.504,
    "tier": 3
   },
   {
@@ -401,82 +563,7 @@
    "tldr": "Microsoft and Health-ISAC, along with the Japan Cybercrime Control Center (JC3) and a coalition of private sector companies, such as Resecurity, Cloudflare, Oracle, Proofpoint, and TRM Labs, announced the disruption of…",
    "published": "2026-10-14T17:09:15.000Z",
    "dupes": 1,
-   "score": 0.445,
-   "tier": 3
-  },
-  {
-   "id": "0480c20408dda17d0d60f91782f636d40d56b4d1",
-   "title": "NVIDIA Announces New Investments in the UK Startup Ecosystem",
-   "url": "https://blogs.nvidia.com/blog/uk-ecosystem-deployment",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "K.  is putting the full stack to work.",
-   "published": "2026-10-14T06:04:15.000Z",
-   "dupes": 2,
-   "score": 0.436,
-   "tier": 3
-  },
-  {
-   "id": "af59b3284175b1f2c4249f2e9b6764acf79cd8b2",
-   "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
-   "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "NVIDIA RTX Spark laptops are now available, bringing NVIDIA Blackwell RTX graphics, up to 128GB of unified memory and the full NVIDIA AI platform to slim, premium Windows PCs.",
-   "published": "2026-10-17T21:00:13.000Z",
-   "dupes": 1,
-   "score": 0.422,
-   "tier": 3
-  },
-  {
-   "id": "a01480253e96f18cb8e8ba477fefce8d1d3d759e",
-   "title": "Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
-   "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "A new beginning for Windows PCs starts tomorrow with the launch of NVIDIA RTX Spark — one PC built for creators, gamers and AI agents.  All are invited to celebrate with NVIDIA and partners at launch events around the…",
-   "published": "2026-10-15T17:00:23.000Z",
-   "dupes": 1,
-   "score": 0.389,
-   "tier": 3
-  },
-  {
-   "id": "2cd92b812c13525ab824a70167b889468dbeeb50",
-   "title": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
-   "url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on agents.",
-   "published": "2026-10-15T15:00:24.000Z",
-   "dupes": 1,
-   "score": 0.388,
-   "tier": 3
-  },
-  {
-   "id": "46ec98616fab5687d218dba276b9e965325e0f1b",
-   "title": "Dial Up the Cloud: NVIDIA DLSS 4.5 Controls Arrive on GeForce NOW",
-   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-enshrouded-update",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Dial in the next gaming session this GFN Thursday.  5 controls give GeForce NOW members more choice over how supported games look and perform in the cloud, even without the latest hardware.",
-   "published": "2026-10-15T13:00:59.000Z",
-   "dupes": 1,
-   "score": 0.388,
+   "score": 0.493,
    "tier": 3
   },
   {
@@ -491,37 +578,7 @@
    "tldr": "Melbourne-based developer House House will not release its co-op hit Big Walk on Xbox, citing support for the Palestinian-led Boycott, Divestment, Sanctions (BDS) campaign .",
    "published": "2026-10-15T11:08:03.000Z",
    "dupes": 1,
-   "score": 0.388,
-   "tier": 3
-  },
-  {
-   "id": "6626e386d54752bd2a5a43ddd069ba549b9c04df",
-   "title": "NVIDIA Expands Advanced Technology Access for Europe’s Scientific Community Through Open Learning Resources, Collaborations and Compute",
-   "url": "https://blogs.nvidia.com/blog/ec-scientific-computing-pledge",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Much of today’s scientific progress begins with computation.  But turning accelerated computing’s potential into scientific progress — modeling climate systems, designing molecules, simulating materials and more —…",
-   "published": "2026-10-15T10:00:12.000Z",
-   "dupes": 1,
-   "score": 0.387,
-   "tier": 3
-  },
-  {
-   "id": "9ff90121ae16c33f04d8dbfa5799413e1309a25d",
-   "title": "The Nordics and NVIDIA Show What’s Possible When a Region Commits to Advanced Computing",
-   "url": "https://blogs.nvidia.com/blog/nordics-technology-ecosystem",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "The Nordic countries have become the European leader in unicorn startup density, producing the most emerging companies valued at $1 billion or more per capita on the continent.  Now, a new chapter for the region is…",
-   "published": "2026-10-15T05:00:12.000Z",
-   "dupes": 1,
-   "score": 0.385,
+   "score": 0.429,
    "tier": 3
   },
   {
@@ -536,7 +593,7 @@
    "tldr": "Xbox boss Asha Sharma has reportedly warned that the organisation will \"not survive\" if it relies on existing game franchises.",
    "published": "2026-10-14T07:44:27.000Z",
    "dupes": 1,
-   "score": 0.383,
+   "score": 0.421,
    "tier": 3
   },
   {
@@ -551,67 +608,126 @@
    "tldr": "\" The unit is a \"a small group of game makers, engineers and scientists,\" drawn from within the business, charged with rapid development, iteration and testing of tools, products and features that will be judged by the…",
    "published": "2026-10-13T19:00:00.000Z",
    "dupes": 1,
-   "score": 0.382,
+   "score": 0.419,
    "tier": 3
   },
   {
-   "id": "b66237a3192719f72445c03254f6da2bba530479",
-   "title": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
-   "url": "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Keeping a city running means making decisions that affect residents every day — from when to repair a road to how to use energy more efficiently.",
-   "published": "2026-10-14T06:00:28.000Z",
+   "id": "310b056a1f5d45a007bdf6b9d37dd4f6654935c3",
+   "title": "Instrumentation",
+   "url": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-instrumentation",
+   "source": "NASA",
+   "org": [],
+   "topic": "space",
+   "tldr": "To measure airflow and sound, research teams at the NASA Glenn Research Center use special instrumentation like particle image velocimetry, hot wire anemometry, Raman spectroscopy, microphones in phased arrays or…",
+   "published": "2026-10-19T16:37:45.000Z",
    "dupes": 1,
-   "score": 0.381,
+   "score": 0.386,
    "tier": 3
   },
   {
-   "id": "2bd91dcdfa9d7b81fc21366c7905f5d48c1e3e5c",
-   "title": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
-   "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "NVIDIA RTX Spark is a new beginning for the PC — a reinvention combining the capabilities of a gaming PC, a creative studio and a personal AI supercomputer into a single superchip.",
-   "published": "2026-10-13T12:00:49.000Z",
+   "id": "da9bec1c5ec0f1c315616bca8ebaa627414a8d3e",
+   "title": "Martian Dawn",
+   "url": "https://www.nasa.gov/image-article/martian-dawn",
+   "source": "NASA",
+   "org": [],
+   "topic": "space",
+   "tldr": "NASA’s Curiosity captures the dawn on Mars – as well as elongated ridges formed by wind erosion, or yardangs – in this close-up from a panorama released on Oct.  6, 2026.",
+   "published": "2026-10-19T16:03:51.000Z",
    "dupes": 1,
-   "score": 0.379,
+   "score": 0.383,
    "tier": 3
   },
   {
-   "id": "64b8fb1d42bf98f3a680959222748007b3e37dfa",
-   "title": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
-   "url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "As AI factories grow from megawatts to gigawatts, building them takes more than advanced computing.  Open standards are helping the industry scale AI infrastructure faster, more efficiently and more reliably.",
-   "published": "2026-10-12T15:00:25.000Z",
+   "id": "23d6dc989b128e09c35bb7637ea844b154dea0f4",
+   "title": "UARX Space troubleshoots anomalies on maiden OTV Flight",
+   "url": "https://spacenews.com/uarx-space-troubleshoots-anomalies-on-maiden-otv-flight",
+   "source": "SpaceNews",
+   "org": [],
+   "topic": "space",
+   "tldr": "SAN FRANCISCO –Spanish startup UARX Space is remedying anomalies identified during the maiden flight of OSSIE-D, an orbital transfer vehicle (OTV) launched Oct.  1 aboard SpaceX’s Transporter-18 mission.",
+   "published": "2026-10-19T16:31:12.000Z",
    "dupes": 1,
-   "score": 0.377,
+   "score": 0.378,
    "tier": 3
   },
   {
-   "id": "e7743bd6de295b72cc17395eb6e332e11891956c",
-   "title": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality",
-   "url": "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent",
-   "source": "Ars Technica · Gadgets",
-   "org": [
-    "meta"
-   ],
-   "topic": "compute",
-   "tldr": "The bug is fixed, but privacy concerns remain.",
-   "published": "2026-10-16T19:11:50.000Z",
+   "id": "3d2cf87c0c103bc6b6ee8020d9447a94040c8963",
+   "title": "A Chinese rocket deorbited over Minnesota and left this in a farmer's cornfield",
+   "url": "https://arstechnica.com/space/2026/10/a-chinese-rocket-deorbited-over-minnesota-and-left-this-in-a-farmers-cornfield",
+   "source": "Ars Technica",
+   "org": [],
+   "topic": "space",
+   "tldr": "All the evidence points to the debris being part of a Chinese Zhuque-2E rocket.",
+   "published": "2026-10-19T14:35:01.000Z",
    "dupes": 1,
-   "score": 0.371,
+   "score": 0.369,
+   "tier": 3
+  },
+  {
+   "id": "00eb1f6bdb2d58ae4a9ef8ae304e6bce109c6e2a",
+   "title": "Daimon Robotics building the infrastructure layer for tactile intelligence",
+   "url": "https://www.therobotreport.com/daimon-robotics-building-the-infrastructure-layer-for-tactile-intelligence",
+   "source": "The Robot Report",
+   "org": [],
+   "topic": "robotics",
+   "tldr": "The company is connecting tactile sensing, real-world data collection, simulation, and AI models to help robots perform physical tasks more reliably.  The post Daimon Robotics building the infrastructure layer for…",
+   "published": "2026-10-19T17:07:52.000Z",
+   "dupes": 1,
+   "score": 0.365,
+   "tier": 3
+  },
+  {
+   "id": "62d3008334ccddbd23b3c3ccadf3affe6594b5ef",
+   "title": "Kodama raises $7M to bring robotics to forestry",
+   "url": "https://www.therobotreport.com/kodama-raises-7m-bring-robotics-forestry",
+   "source": "The Robot Report",
+   "org": [],
+   "topic": "robotics",
+   "tldr": "Kodama is working on automating forestry and logging equipment, starting with teleoperation and collecting valuable data on the way.  The post Kodama raises $7M to bring robotics to forestry appeared first on The Robot…",
+   "published": "2026-10-19T15:55:12.000Z",
+   "dupes": 1,
+   "score": 0.36,
+   "tier": 3
+  },
+  {
+   "id": "c57fc0a3383eb685989e0515280b1cacb0ab7bc5",
+   "title": "Euclid discovers new comet",
+   "url": "https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_new_comet",
+   "source": "ESA Space News",
+   "org": [],
+   "topic": "space",
+   "tldr": "The European Space Agency’s Euclid space telescope has discovered its first previously unknown comet, in images taken between 16 and 24 September 2026.",
+   "published": "2026-10-19T12:00:00.000Z",
+   "dupes": 1,
+   "score": 0.357,
+   "tier": 3
+  },
+  {
+   "id": "1d66cd014db62740e009d94bd4f6edefd494b24f",
+   "title": "Musk pledges to give ‘every kid in America’ one of his SpaceX shares",
+   "url": "https://techcrunch.com/2026/10/19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares",
+   "source": "TechCrunch",
+   "org": [
+    "spacex"
+   ],
+   "topic": "space",
+   "tldr": "Musk's post came just a few hours after Anthropic promised to put 5% of its shares into a new \"public benefit fund,\" which it intends to use to make \"large donations to traditional nonprofits or direct distributions to…",
+   "published": "2026-10-19T12:42:55.000Z",
+   "dupes": 1,
+   "score": 0.353,
+   "tier": 3
+  },
+  {
+   "id": "0f68a6a8987fa17d12d75e5a6cc1cb6cf30502aa",
+   "title": "A guide to everything happening at RoboBusiness 2026",
+   "url": "https://www.therobotreport.com/a-guide-to-everything-happening-at-robobusiness-2026",
+   "source": "The Robot Report",
+   "org": [],
+   "topic": "robotics",
+   "tldr": "RoboBusiness 2026 will start tomorrow, so we're putting together an overview of everything happening at the show over the next two days.  The post A guide to everything happening at RoboBusiness 2026 appeared first on…",
+   "published": "2026-10-19T12:00:34.000Z",
+   "dupes": 1,
+   "score": 0.342,
    "tier": 3
   },
   {
@@ -624,7 +740,20 @@
    "tldr": "Fall color covers the forested slopes of Bieszczady National Park, while patches of polonina, a type of high-mountain meadow, have turned tan.",
    "published": "2026-10-19T04:01:00.000Z",
    "dupes": 1,
-   "score": 0.359,
+   "score": 0.334,
+   "tier": 3
+  },
+  {
+   "id": "58fe778b6425ca712abb9ce94e9ea828eee03f3c",
+   "title": "Wizards of the Coast declines to voluntarily recognize D&D and Studio X union drive",
+   "url": "https://www.gamesindustry.biz/wizards-of-the-coast-declines-to-voluntarily-recognize-dd-and-studio-x-union-drive",
+   "source": "GamesIndustry.biz",
+   "org": [],
+   "topic": "gaming",
+   "tldr": "Wizards of the Coast is refusing to grant voluntary recognition to a union drive by its Dungeons & Dragons and Studio X teams.  Staff will instead vote on joining in a secret-ballot election overseen by the National…",
+   "published": "2026-10-19T16:36:11.000Z",
+   "dupes": 1,
+   "score": 0.326,
    "tier": 3
   },
   {
@@ -637,7 +766,7 @@
    "tldr": "The 2027 Game Developers Choice Awards (GDCA) will be accepting submissions from publishers and developers for the first time.",
    "published": "2026-10-19T10:57:47.000Z",
    "dupes": 1,
-   "score": 0.33,
+   "score": 0.305,
    "tier": 3
   },
   {
@@ -652,35 +781,7 @@
    "tldr": "Members of the Activision Quality Assurance United-CWA (AQAU-CWA) union have voted to authorise a strike if necessary, claiming Activision has \"failed to bargain in good faith over key issues\" in negotiations for a…",
    "published": "2026-10-19T10:13:55.000Z",
    "dupes": 1,
-   "score": 0.327,
-   "tier": 3
-  },
-  {
-   "id": "6c4615c9f19e776a3cb180c6ed03434624d9a570",
-   "title": "New Croatian conference Splitscreen wants to keep \"that half-holiday, half-work feeling\" of Reboot Develop",
-   "url": "https://www.gamesindustry.biz/new-croatian-conference-splitscreen-wants-to-keep-that-half-holiday-half-work-feeling-of-reboot-develop",
-   "source": "GamesIndustry.biz",
-   "org": [],
-   "topic": "gaming",
-   "tldr": "A new Croatian development conference is aiming to fill the gap left by the recently-deceased and much-cherished Reboot Develop, which ended this year with the organiser being served with a bankruptcy order .  The…",
-   "published": "2026-10-19T09:00:00.000Z",
-   "dupes": 1,
-   "score": 0.322,
-   "tier": 3
-  },
-  {
-   "id": "765b0918fea4ad20f4555bf225cb519a0f171c08",
-   "title": "Blue Origin is going all in on the New Glenn rocket",
-   "url": "https://arstechnica.com/space/2026/10/blue-origin-is-going-all-in-on-the-new-glenn-rocket",
-   "source": "Ars Technica",
-   "org": [
-    "blue-origin"
-   ],
-   "topic": "space",
-   "tldr": "The infrastructure is designed to support multiple flights per week by the end of the decade.",
-   "published": "2026-10-16T10:00:54.000Z",
-   "dupes": 2,
-   "score": 0.265,
+   "score": 0.302,
    "tier": 3
   },
   {
@@ -695,7 +796,7 @@
    "tldr": "NASA Administrator Jared Isaacman has named Stephen Cash director of the agency’s Marshall Space Flight Center in Huntsville, Alabama, effective Monday, Oct.  19.",
    "published": "2026-10-16T20:14:39.000Z",
    "dupes": 1,
-   "score": 0.263,
+   "score": 0.251,
    "tier": 3
   },
   {
@@ -710,7 +811,7 @@
    "tldr": "This NASA Hubble Space Telescope image features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away in the constellation Columba, the Dove.",
    "published": "2026-10-16T12:42:08.000Z",
    "dupes": 1,
-   "score": 0.259,
+   "score": 0.248,
    "tier": 3
   },
   {
@@ -723,7 +824,7 @@
    "tldr": "A new ADI whitepaper examines the challenges and opportunities in moving physical AI out of labs into production machinery.  The post ADI explains the race to make AI physical appeared first on The Robot Report .",
    "published": "2026-10-17T21:33:57.000Z",
    "dupes": 1,
-   "score": 0.247,
+   "score": 0.234,
    "tier": 3
   },
   {
@@ -738,20 +839,7 @@
    "tldr": "In this episode, SpaceNews’ Mike Gruss talks with NASA’s Shatel Bhakta, the principal systems engineer for Moon Base, about what’s needed between now and 2028 and the incremental steps to […] The post How NASA is…",
    "published": "2026-10-15T15:14:24.000Z",
    "dupes": 1,
-   "score": 0.243,
-   "tier": 3
-  },
-  {
-   "id": "661f561184160725defb5bce97f5e83365738bdc",
-   "title": "The rise of the machines is canceled: Why humanoids with AI are helpers, not enemies",
-   "url": "https://www.therobotreport.com/rise-machines-canceled-why-humanoids-ai-are-helpers-not-enemies",
-   "source": "The Robot Report",
-   "org": [],
-   "topic": "robotics",
-   "tldr": "Humans play a key role in developing humanoid robots and training AI models, so we can maintain control, writes a columnist.  The post The rise of the machines is canceled: Why humanoids with AI are helpers, not enemies…",
-   "published": "2026-10-17T12:30:55.000Z",
-   "dupes": 1,
-   "score": 0.23,
+   "score": 0.233,
    "tier": 3
   },
   {
@@ -764,7 +852,20 @@
    "tldr": "S.  Navy divers captured underwater imagery of the Orion spacecraft’s heat shield.",
    "published": "2026-10-16T16:28:01.000Z",
    "dupes": 1,
-   "score": 0.226,
+   "score": 0.22,
+   "tier": 3
+  },
+  {
+   "id": "661f561184160725defb5bce97f5e83365738bdc",
+   "title": "The rise of the machines is canceled: Why humanoids with AI are helpers, not enemies",
+   "url": "https://www.therobotreport.com/rise-machines-canceled-why-humanoids-ai-are-helpers-not-enemies",
+   "source": "The Robot Report",
+   "org": [],
+   "topic": "robotics",
+   "tldr": "Humans play a key role in developing humanoid robots and training AI models, so we can maintain control, writes a columnist.  The post The rise of the machines is canceled: Why humanoids with AI are helpers, not enemies…",
+   "published": "2026-10-17T12:30:55.000Z",
+   "dupes": 1,
+   "score": 0.22,
    "tier": 3
   },
   {
@@ -777,46 +878,7 @@
    "tldr": "As the supercooled propellant flowed into the core stage, and NASA’s SLS (Space Launch System) rocket roared to life, Allison Mjoen and her family watched with awe and pride.",
    "published": "2026-10-16T14:24:29.000Z",
    "dupes": 1,
-   "score": 0.224,
-   "tier": 3
-  },
-  {
-   "id": "0b82503ce20e93755c3869f36615a418a8a549fd",
-   "title": "Isaias Dims the Gulf Coast",
-   "url": "https://science.nasa.gov/earth/earth-observatory/isaias-dims-the-gulf-coast",
-   "source": "NASA",
-   "org": [],
-   "topic": "space",
-   "tldr": "High-definition images of nighttime lights show where the hurricane knocked out power along the Florida Panhandle and how quickly the lights came back.",
-   "published": "2026-10-16T04:00:00.000Z",
-   "dupes": 1,
-   "score": 0.215,
-   "tier": 3
-  },
-  {
-   "id": "896d037704501fcd96f21e623fc2746aedb6dcf2",
-   "title": "Rocket Report: FAA eyes more Starbase traffic; India's Skyroot snares US customer",
-   "url": "https://arstechnica.com/space/2026/10/rocket-report-faa-eyes-more-starbase-traffic-indias-skyroot-snares-us-customer",
-   "source": "Ars Technica",
-   "org": [],
-   "topic": "space",
-   "tldr": "The pioneering reusable upper stage for Stoke Space's Nova rocket ships out for testing.",
-   "published": "2026-10-16T11:00:53.000Z",
-   "dupes": 1,
-   "score": 0.213,
-   "tier": 3
-  },
-  {
-   "id": "60edff8937066271c893adf915d4b04d0432c962",
-   "title": "Earth from Space: West Antarctica",
-   "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_West_Antarctica",
-   "source": "ESA Space News",
-   "org": [],
-   "topic": "space",
-   "tldr": "Image: This image over part of West Antarctica was captured by Copernicus Sentinel-3 on 30 September 2026.",
-   "published": "2026-10-16T08:00:00.000Z",
-   "dupes": 1,
-   "score": 0.211,
+   "score": 0.218,
    "tier": 3
   },
   {
@@ -829,33 +891,7 @@
    "tldr": "The cohort will run February through June 2027, concluding with company showcases at the Robotics Summit and Expo in Boston.  The post MassRobotics opens applications for Healthcare Robotics Startup Catalyst Program…",
    "published": "2026-10-16T17:57:12.000Z",
    "dupes": 1,
-   "score": 0.205,
-   "tier": 3
-  },
-  {
-   "id": "9e417a3dcdf93ec6cedbbe4cdb4da19c4e097f2a",
-   "title": "Oct. 29: Applying AI/SI to the GEOINT Mission",
-   "url": "https://spacenews.com/applying-ai-si-to-the-geoint-mission-event",
-   "source": "SpaceNews",
-   "org": [],
-   "topic": "space",
-   "tldr": "Join us for a conversation on how machine learning is transforming the GEOINT mission across different markets The post Oct.  29: Applying AI/SI to the GEOINT Mission appeared first on SpaceNews .",
-   "published": "2026-10-15T20:41:50.000Z",
-   "dupes": 1,
-   "score": 0.202,
-   "tier": 3
-  },
-  {
-   "id": "e85bb70e294026ba82b7cf19a0de9228a59efcfc",
-   "title": "Agile Space Industries Expands to Seattle Area with New Bellevue Office",
-   "url": "https://spacenews.com/agile-space-industries-expands-to-seattle-area-with-new-bellevue-office",
-   "source": "SpaceNews",
-   "org": [],
-   "topic": "space",
-   "tldr": ", Oct.  15, 2026 — Agile Space Industries, a leading provider of in-space chemical propulsion solutions, has expanded into the Seattle metropolitan area with the opening of a new […] The post Agile Space Industries…",
-   "published": "2026-10-15T12:00:00.000Z",
-   "dupes": 1,
-   "score": 0.197,
+   "score": 0.199,
    "tier": 3
   },
   {
@@ -868,7 +904,7 @@
    "tldr": "S.  for the Versius robotics portfolio from CMR Surgical.",
    "published": "2026-10-15T16:54:14.000Z",
    "dupes": 1,
-   "score": 0.185,
+   "score": 0.181,
    "tier": 3
   },
   {
@@ -881,7 +917,7 @@
    "tldr": "Robotics businesses need help keeping up with innovations as they scale.  Analog Devices Inc.",
    "published": "2026-10-15T16:39:38.000Z",
    "dupes": 1,
-   "score": 0.185,
+   "score": 0.181,
    "tier": 3
   },
   {
@@ -894,7 +930,7 @@
    "tldr": "Nyobolt is providing power technology for Digit 5 that enables Agility's humanoid to work up to 20 hours a day.  The post Agility chooses Nyobolt for ultra-fast charging for Digit 5 humanoid appeared first on The Robot…",
    "published": "2026-10-15T10:59:24.000Z",
    "dupes": 1,
-   "score": 0.181,
+   "score": 0.178,
    "tier": 3
   },
   {
@@ -907,7 +943,7 @@
    "tldr": "Timken combines the expertise of Cone Drive, SPINEA, CGI Motion, and Timken Encoders to develop application-specific motion systems.  The post Timken Precision Drives puts the motion challenge first in humanoid robots…",
    "published": "2026-10-14T12:20:19.000Z",
    "dupes": 1,
-   "score": 0.172,
+   "score": 0.17,
    "tier": 3
   },
   {
@@ -920,33 +956,7 @@
    "tldr": "1 million agreement to keep rolling out ElliQ.  The post NYSOFA expands partnership with Intuition Robotics to bring ElliQ to more seniors appeared first on The Robot Report .",
    "published": "2026-10-13T23:22:05.000Z",
    "dupes": 1,
-   "score": 0.169,
-   "tier": 3
-  },
-  {
-   "id": "6b041e997bd55e7098dbc3e1610e2ac639e22d4d",
-   "title": "Promise Robotics partners with D.R. Horton on physical AI for homebuilding",
-   "url": "https://www.therobotreport.com/promise-robotics-partners-d-r-horton-physical-ai-homebuilding",
-   "source": "The Robot Report",
-   "org": [],
-   "topic": "robotics",
-   "tldr": "Promise Robotics has signed a multi-year partnership with America's largest homebuilder by volume to bring physical AI to construction.  R.",
-   "published": "2026-10-13T13:00:05.000Z",
-   "dupes": 1,
    "score": 0.167,
-   "tier": 3
-  },
-  {
-   "id": "e39668c5af9e3f0975ffec96dd2b2bb60952ead9",
-   "title": "Closing the reality gap: Why real-time execution has become the new competitive advantage",
-   "url": "https://www.therobotreport.com/closing-reality-gap-why-real-time-execution-has-become-new-competitive-advantage",
-   "source": "The Robot Report",
-   "org": [],
-   "topic": "robotics",
-   "tldr": "Daifuku's Cecile Dick-Calmes said success is no longer measured solely by automation density or equipment utilization.  The post Closing the reality gap: Why real-time execution has become the new competitive advantage…",
-   "published": "2026-10-12T14:30:33.000Z",
-   "dupes": 1,
-   "score": 0.163,
    "tier": 3
   }
  ]
