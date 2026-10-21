@@ -1,6 +1,37 @@
 {
- "generated": "2026-10-21T12:08:23.230Z",
+ "generated": "2026-10-21T17:28:45.440Z",
  "items": [
+  {
+   "id": "61f4d0141ff303c02405716db977e4c6353bca59",
+   "title": "OpenAI models are coming to Google Cloud",
+   "url": "https://openai.com/index/openai-models-google-cloud",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai",
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+   "published": "2026-10-21T12:00:00.000Z",
+   "dupes": 2,
+   "score": 0.778,
+   "tier": 1
+  },
+  {
+   "id": "8dbe3a7773a943c5460c89053535376eb5d9da53",
+   "title": "OpenAI agents disabled safety monitoring, one lied about it",
+   "url": "https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it",
+   "source": "BleepingComputer",
+   "org": [
+    "openai"
+   ],
+   "topic": "security",
+   "tldr": "1 Sol and GPT-6 Astra models weakened misalignment monitoring during two internal tasks, interpreting coding instructions as authorization to do so.",
+   "published": "2026-10-21T16:26:53.000Z",
+   "dupes": 2,
+   "score": 0.757,
+   "tier": 2
+  },
   {
    "id": "3df8ce2aed7d825db7c8c385718427fde6ba9a14",
    "title": "NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents",
@@ -13,8 +44,83 @@
    "tldr": "Demand from AI-natives is pulling the European AI cloud ecosystem forward faster than ever.  Developers need compute closer to their data, open models they can customize and serve at scale, and full-stack infrastructure…",
    "published": "2026-10-21T10:30:41.000Z",
    "dupes": 2,
-   "score": 0.778,
-   "tier": 1
+   "score": 0.753,
+   "tier": 2
+  },
+  {
+   "id": "8477c3daca9c4e080f064b3af9838ce53e6065c2",
+   "title": "Empowering frontline maternal care with AI-assisted ultrasound",
+   "url": "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound",
+   "source": "Google Research",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Health & Bioscience",
+   "published": "2026-10-21T16:23:53.000Z",
+   "dupes": 1,
+   "score": 0.726,
+   "tier": 2
+  },
+  {
+   "id": "74fcf21eca7add4a8265b1181e42f31fbfb429bc",
+   "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+   "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+   "published": "2026-10-21T13:00:00.000Z",
+   "dupes": 1,
+   "score": 0.725,
+   "tier": 2
+  },
+  {
+   "id": "38715d90bd30f009daa05ff30d6ffc5b06291bb1",
+   "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+   "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
+   "source": "Hugging Face Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-10-21T12:51:24.000Z",
+   "dupes": 1,
+   "score": 0.701,
+   "tier": 2
+  },
+  {
+   "id": "d3f519557f32dd3d643c27d4c9f89095ff53a6df",
+   "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+   "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+   "published": "2026-10-21T07:00:00.000Z",
+   "dupes": 1,
+   "score": 0.7,
+   "tier": 2
+  },
+  {
+   "id": "edef63b51aedc0121d1aea11f9472c530dce47d4",
+   "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+   "url": "https://openai.com/index/building-chatgpt-ad-stack",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
+   "published": "2026-10-21T07:00:00.000Z",
+   "dupes": 1,
+   "score": 0.7,
+   "tier": 2
   },
   {
    "id": "4ad89d65a44a1c50a504d21f98bb2821b74b1993",
@@ -28,7 +134,7 @@
    "tldr": "At GTC Berlin, NVIDIA is showcasing its full lineup of local AI hardware.  RTX Spark, which launched last week, powers personal agents on Windows PCs; DGX Spark supports developers building and scaling applications on…",
    "published": "2026-10-21T10:50:37.000Z",
    "dupes": 1,
-   "score": 0.725,
+   "score": 0.7,
    "tier": 2
   },
   {
@@ -44,7 +150,7 @@
    "tldr": "General availability of the instances is coming next month, with planned expansion of availability to Europe — bringing an integrated platform for training, inference and large-scale reinforcement learning to cloud…",
    "published": "2026-10-21T10:45:17.000Z",
    "dupes": 1,
-   "score": 0.724,
+   "score": 0.699,
    "tier": 2
   },
   {
@@ -59,7 +165,7 @@
    "tldr": "To increase productivity, accelerate innovation and create new opportunities for economic growth, Europe’s industrial leaders are tapping NVIDIA CUDA-X and Omniverse libraries, as well as NVIDIA Cosmos and Nemotron open…",
    "published": "2026-10-21T10:30:40.000Z",
    "dupes": 1,
-   "score": 0.723,
+   "score": 0.698,
    "tier": 2
   },
   {
@@ -74,7 +180,7 @@
    "tldr": "NVIDIA cuDSS, launched today in general availability, is an NVIDIA CUDA-X library that shifts a critical part of engineering and scientific simulations onto GPUs.  Complex engineering feats — from advanced chips to…",
    "published": "2026-10-21T10:30:25.000Z",
    "dupes": 1,
-   "score": 0.723,
+   "score": 0.698,
    "tier": 2
   },
   {
@@ -89,7 +195,7 @@
    "tldr": "NVIDIA builds tools to enable safe agents across the stack.  The NVIDIA OpenShell Reference Architecture, announced today, is part of NVIDIA’s growing portfolio of technologies that enables organizations to safely…",
    "published": "2026-10-21T10:30:02.000Z",
    "dupes": 1,
-   "score": 0.723,
+   "score": 0.698,
    "tier": 2
   },
   {
@@ -104,8 +210,8 @@
    "tldr": "Agents are only as useful as what they know, and only as trustworthy as the boundaries they run within.",
    "published": "2026-10-21T10:10:01.000Z",
    "dupes": 1,
-   "score": 0.721,
-   "tier": 2
+   "score": 0.697,
+   "tier": 3
   },
   {
    "id": "77c10bd5f145a8aaca651c6978b7d0c6ff562d4e",
@@ -119,23 +225,53 @@
    "tldr": "Founded in a tent near the Berlin Wall in 1980, the Tempodrom moved several times before settling near Anhalter Bahnhof in 2001.  Its permanent home has since hosted concerts, galas and political events.",
    "published": "2026-10-21T09:30:16.000Z",
    "dupes": 1,
-   "score": 0.718,
-   "tier": 2
+   "score": 0.694,
+   "tier": 3
   },
   {
-   "id": "79e072c528493212dadbe0626496c7bede00d5c2",
-   "title": "DeepInfer: High-performance inference framework for DeepSeek models",
-   "url": "https://github.com/deepseek-ai/DeepInfer",
-   "source": "Hacker News",
+   "id": "2cd8b2bd53ed9bc37e2bb70e884fd8c2ee250135",
+   "title": "OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So",
+   "url": "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html",
+   "source": "The Hacker News",
    "org": [
-    "deepseek"
+    "openai"
+   ],
+   "topic": "security",
+   "tldr": "1 Sol and one GPT-6 Astra weakened misalignment monitoring while making requested software changes during two internal coding tasks.  The AI company said the incident took place on October 3 and 6, 2026, for Sol and…",
+   "published": "2026-10-21T16:33:47.000Z",
+   "dupes": 1,
+   "score": 0.694,
+   "tier": 3
+  },
+  {
+   "id": "1de8e62ff715d1f1b849a16afe7dfd3ed7898410",
+   "title": "Using thousands of AI agents to uncover new leads in biological data",
+   "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
    ],
    "topic": "ai",
-   "tldr": "",
-   "published": "2026-10-20T09:08:54.000Z",
-   "dupes": 2,
-   "score": 0.716,
-   "tier": 2
+   "tldr": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+   "published": "2026-10-21T04:50:00.000Z",
+   "dupes": 1,
+   "score": 0.691,
+   "tier": 3
+  },
+  {
+   "id": "c1b12382dd3d413b113013dd46e0106f9a60db98",
+   "title": "NASA to Conduct NCAA Flyover, Engage Fans at University of Alabama",
+   "url": "https://www.nasa.gov/news-release/nasa-to-conduct-ncaa-flyover-engage-fans-at-university-of-alabama",
+   "source": "NASA",
+   "org": [
+    "nasa"
+   ],
+   "topic": "space",
+   "tldr": "As part of the agency’s Inspiration Tour, NASA will conduct a flyover at the University of Alabama vs.  Texas A&M football game in Tuscaloosa, Alabama, on Saturday, Oct.",
+   "published": "2026-10-21T16:31:11.000Z",
+   "dupes": 1,
+   "score": 0.69,
+   "tier": 3
   },
   {
    "id": "0e9ae3eb35f09261458a500a05c5704b95c1c3fc",
@@ -149,8 +285,23 @@
    "tldr": "Google is bringing Gemini's Personal Intelligence feature to cars, allowing its AI assistant to draw on information from Gmail, Calendar, Maps, YouTube, and other Google services to deliver more personalized responses…",
    "published": "2026-10-20T20:00:00.000Z",
    "dupes": 2,
-   "score": 0.702,
-   "tier": 2
+   "score": 0.684,
+   "tier": 3
+  },
+  {
+   "id": "cd7265442b567b42e7b74d8a6ec380fdb8d7ddb9",
+   "title": "Science on the Space Station with NASA Astronaut Jessica Watkins",
+   "url": "https://www.nasa.gov/image-article/science-on-the-space-station-with-nasa-astronaut-jessica-watkins",
+   "source": "NASA",
+   "org": [
+    "nasa"
+   ],
+   "topic": "space",
+   "tldr": "NASA astronaut and Expedition 75 flight engineer Jessica Watkins works inside the Kibo laboratory module’s Life Science Glovebox on Oct.  9, 2026, safely mixing living cell samples with a bioink and then filling a…",
+   "published": "2026-10-21T15:05:08.000Z",
+   "dupes": 1,
+   "score": 0.683,
+   "tier": 3
   },
   {
    "id": "00cd83ad26004f65bb7083b44c77620c0ba091b0",
@@ -164,38 +315,69 @@
    "tldr": "S.  Department of Homeland Security (DHS) is ordering federal civilian agencies to stop using DeepSeek products and remove them from government systems.",
    "published": "2026-10-20T14:19:05.000Z",
    "dupes": 2,
-   "score": 0.695,
-   "tier": 2
+   "score": 0.68,
+   "tier": 3
   },
   {
-   "id": "85701577c3f1f217364b086127b439320b6c9aa6",
-   "title": "Solstar provides Wi-Fi connectivity for NASA proximity operations demonstration",
-   "url": "https://spacenews.com/solstar-provides-wi-fi-connectivity-for-nasa-proximity-operations-demonstration",
-   "source": "SpaceNews",
+   "id": "f29fd7d40b5fbe920ec351d1d7571bf7fdf209e0",
+   "title": "Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands",
+   "url": "https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html",
+   "source": "The Hacker News",
+   "org": [
+    "google"
+   ],
+   "topic": "security",
+   "tldr": "Google on Tuesday said it's rolling out improved safeguards in its Chrome browser to secure users against ClickFix attacks when Enhanced Protection is enabled.  ClickFix is a popular social engineering technique in…",
+   "published": "2026-10-21T13:15:09.000Z",
+   "dupes": 1,
+   "score": 0.679,
+   "tier": 3
+  },
+  {
+   "id": "5deb86848ff9874f47a85988a336e928599921ba",
+   "title": "Solving a 31-year-old grand challenge in mathematics – the KLS conjecture",
+   "url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture",
+   "source": "Microsoft Research",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "For decades, a fundamental question about the difficulty of computing in high-dimensional spaces has resisted proof.  New research resolves this question, removing a major theoretical obstacle to understanding the…",
+   "published": "2026-10-21T16:00:00.000Z",
+   "dupes": 1,
+   "score": 0.678,
+   "tier": 3
+  },
+  {
+   "id": "1bbb4f6fc3d142113db098690d7bc86d371bae97",
+   "title": "Conversational Gemini navigation comes to Apple CarPlay",
+   "url": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
+   "source": "The Verge AI",
+   "org": [
+    "google",
+    "apple"
+   ],
+   "topic": "ai",
+   "tldr": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users.  The conversational Gemini in navigation is available today for US drivers, with \"rollout happening…",
+   "published": "2026-10-21T15:00:00.000Z",
+   "dupes": 1,
+   "score": 0.671,
+   "tier": 3
+  },
+  {
+   "id": "46dcd361f2006e687b2340d0ad413b5bb2d068dd",
+   "title": "NASA’s CASALS Instrument Bridges Gaps in 3D Maps of Earth’s Surface",
+   "url": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/nasas-casals-instrument-bridges-gaps-in-3d-maps-of-earths-surface",
+   "source": "NASA",
    "org": [
     "nasa"
    ],
    "topic": "space",
-   "tldr": "SAN FRANCISCO – Wi-Fi technology from Solstar Space connected NASA’s R5-S10 cubesat with Momentus’ Vigoride-7 orbital service vehicle during proximity operations and relayed data to NASA’s Johnson Space Center, Solstar…",
-   "published": "2026-10-21T12:00:00.000Z",
+   "tldr": "From orbit, today’s space-based laser instruments measure Earth’s forests and terrain one narrow line at a time.  Between those lines are enormous gaps that include millions of acres of land scientists never directly…",
+   "published": "2026-10-21T12:17:58.000Z",
    "dupes": 1,
-   "score": 0.686,
-   "tier": 2
-  },
-  {
-   "id": "0c6fe061465aa1a52f9e4c3e794a91b1706e96b0",
-   "title": "U.S. Orders DeepSeek Removed From Federal Civilian Systems, Bans New Purchases",
-   "url": "https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html",
-   "source": "The Hacker News",
-   "org": [
-    "deepseek"
-   ],
-   "topic": "security",
-   "tldr": "S.  federal civilian agencies must remove DeepSeek products from their information technology systems, along with any third-party products or services \"developed using DeepSeek implementations,\" under a Department of…",
-   "published": "2026-10-21T08:04:17.000Z",
-   "dupes": 1,
-   "score": 0.679,
-   "tier": 2
+   "score": 0.671,
+   "tier": 3
   },
   {
    "id": "dbaa902542534b3aef2de952931670bbaaa97f74",
@@ -209,7 +391,22 @@
    "tldr": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
    "published": "2026-10-20T00:00:00.000Z",
    "dupes": 2,
-   "score": 0.677,
+   "score": 0.666,
+   "tier": 3
+  },
+  {
+   "id": "85701577c3f1f217364b086127b439320b6c9aa6",
+   "title": "Solstar provides Wi-Fi connectivity for NASA proximity operations demonstration",
+   "url": "https://spacenews.com/solstar-provides-wi-fi-connectivity-for-nasa-proximity-operations-demonstration",
+   "source": "SpaceNews",
+   "org": [
+    "nasa"
+   ],
+   "topic": "space",
+   "tldr": "SAN FRANCISCO – Wi-Fi technology from Solstar Space connected NASA’s R5-S10 cubesat with Momentus’ Vigoride-7 orbital service vehicle during proximity operations and relayed data to NASA’s Johnson Space Center, Solstar…",
+   "published": "2026-10-21T12:00:00.000Z",
+   "dupes": 1,
+   "score": 0.662,
    "tier": 3
   },
   {
@@ -227,22 +424,67 @@
     "model"
    ],
    "dupes": 3,
-   "score": 0.658,
+   "score": 0.656,
    "tier": 3
   },
   {
-   "id": "b6629abae55b8c83edc91fa400f5ef26eebb92ca",
-   "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-   "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed",
+   "id": "0c6fe061465aa1a52f9e4c3e794a91b1706e96b0",
+   "title": "U.S. Orders DeepSeek Removed From Federal Civilian Systems, Bans New Purchases",
+   "url": "https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html",
+   "source": "The Hacker News",
+   "org": [
+    "deepseek"
+   ],
+   "topic": "security",
+   "tldr": "S.  federal civilian agencies must remove DeepSeek products from their information technology systems, along with any third-party products or services \"developed using DeepSeek implementations,\" under a Department of…",
+   "published": "2026-10-21T08:04:17.000Z",
+   "dupes": 1,
+   "score": 0.656,
+   "tier": 3
+  },
+  {
+   "id": "ea13feadd014db12dd4a90d69e1315260b4dd4e4",
+   "title": "Microsoft PowerToys adds CursorHide, Button Lock mouse tools",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-cursorhide-button-lock-mouse-tools",
+   "source": "BleepingComputer",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "security",
+   "tldr": "102, with two new mouse utilities, new command-line tools, and Command Palette improvements.",
+   "published": "2026-10-21T12:20:34.000Z",
+   "dupes": 1,
+   "score": 0.653,
+   "tier": 3
+  },
+  {
+   "id": "7554ab6fc8d5fc05cbb423c83dc7c78a7283d018",
+   "title": "Microsoft says October updates didn’t actually fix VPN issues",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates",
+   "source": "BleepingComputer",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "security",
+   "tldr": "Microsoft says it mistakenly flagged a bug causing Always On VPN connection issues as fixed in the October 2026 Windows 11 cumulative updates.",
+   "published": "2026-10-21T10:14:53.000Z",
+   "dupes": 1,
+   "score": 0.648,
+   "tier": 3
+  },
+  {
+   "id": "342f3b31d43012d56958555ef24f9f05b5f28e83",
+   "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+   "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate",
    "source": "TechCrunch",
    "org": [
-    "anthropic"
+    "openai"
    ],
-   "topic": "ai",
-   "tldr": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
-   "published": "2026-10-20T23:01:23.000Z",
+   "topic": "security",
+   "tldr": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note.  Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+   "published": "2026-10-20T22:24:02.000Z",
    "dupes": 1,
-   "score": 0.657,
+   "score": 0.637,
    "tier": 3
   },
   {
@@ -258,113 +500,7 @@
    "tldr": "Certificate authority eMudhra revoked eight compromised intermediate certificates after researchers found their private keys were so weak that anyone could recover them almost instantly and use them to forge trusted…",
    "published": "2026-10-21T00:46:42.000Z",
    "dupes": 1,
-   "score": 0.656,
-   "tier": 3
-  },
-  {
-   "id": "938ea47a6b580080f71f29a7c93fe810e24bccaf",
-   "title": "Gemini's Personal Intelligence is coming to cars",
-   "url": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars",
-   "source": "Ars Technica",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "It's probably time to audit your Gemini settings.",
-   "published": "2026-10-20T20:00:33.000Z",
-   "dupes": 1,
-   "score": 0.655,
-   "tier": 3
-  },
-  {
-   "id": "342f3b31d43012d56958555ef24f9f05b5f28e83",
-   "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
-   "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate",
-   "source": "TechCrunch",
-   "org": [
-    "openai"
-   ],
-   "topic": "security",
-   "tldr": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note.  Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
-   "published": "2026-10-20T22:24:02.000Z",
-   "dupes": 1,
-   "score": 0.655,
-   "tier": 3
-  },
-  {
-   "id": "dd8747983c69e4ecf0af1fab98eab570a4d057fb",
-   "title": "Anthropic’s cloud partnerships are getting messy",
-   "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy",
-   "source": "TechCrunch",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
-   "published": "2026-10-20T21:25:22.000Z",
-   "dupes": 1,
-   "score": 0.652,
-   "tier": 3
-  },
-  {
-   "id": "b3fcb2e42d321123382678ef1b3ee803b99778a9",
-   "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-   "url": "https://openai.com/index/ted-taylor-restaurant",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
-   "published": "2026-10-20T10:00:00.000Z",
-   "dupes": 1,
-   "score": 0.647,
-   "tier": 3
-  },
-  {
-   "id": "341f11e78b1225e89a5c7957946e426a3a4181b9",
-   "title": "Using Claude to reduce the attack surface of code",
-   "url": "https://www.anthropic.com/research/attack-surface-reduction",
-   "source": "Hacker News",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-10-21T03:36:43.000Z",
-   "dupes": 1,
-   "score": 0.646,
-   "tier": 3
-  },
-  {
-   "id": "2209ec40a2a345642414c964ed3c71b5aeaa53b4",
-   "title": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
-   "url": "https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "A US district judge dismissed the case after Ann Altman had refused to attend an independent medical examination.",
-   "published": "2026-10-20T19:42:32.000Z",
-   "dupes": 1,
-   "score": 0.646,
-   "tier": 3
-  },
-  {
-   "id": "90a74ffb382d3ad09d92e41ae66c93f5f754727b",
-   "title": "Alibaba hikes DeepSeek V4 Flash 0731 output prices by 230%",
-   "url": "https://www.stork.ai/newsletter/2026-10-20-alibaba-quietly-tripled-deepseek-prices",
-   "source": "HN · DeepSeek",
-   "org": [
-    "deepseek",
-    "qwen"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-10-21T05:17:15.000Z",
-   "dupes": 1,
-   "score": 0.644,
+   "score": 0.637,
    "tier": 3
   },
   {
@@ -380,22 +516,7 @@
    "tldr": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
    "published": "2026-10-20T18:38:24.000Z",
    "dupes": 1,
-   "score": 0.642,
-   "tier": 3
-  },
-  {
-   "id": "b799bf523cce9fee740cc5f069e3687519936d29",
-   "title": "ChatGPT now lets you lock your chats",
-   "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats",
-   "source": "TechCrunch",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or…",
-   "published": "2026-10-20T18:36:53.000Z",
-   "dupes": 1,
-   "score": 0.642,
+   "score": 0.625,
    "tier": 3
   },
   {
@@ -410,7 +531,7 @@
    "tldr": "Nebius and Nscale are among global technology partners looking to NVIDIA Vera CPUs to build the next wave of infrastructure.  Their momentum reflects rapid advancements in agentic computing.",
    "published": "2026-10-20T10:30:11.000Z",
    "dupes": 1,
-   "score": 0.633,
+   "score": 0.619,
    "tier": 3
   },
   {
@@ -425,7 +546,7 @@
    "tldr": "OpenAI confirmed that its newer models are much better at writing and migrating software in older programming languages.",
    "published": "2026-10-20T18:11:03.000Z",
    "dupes": 1,
-   "score": 0.632,
+   "score": 0.615,
    "tier": 3
   },
   {
@@ -440,7 +561,7 @@
    "tldr": "Editor’s Note: This article was originally published on Oct.  15, 2026, and has been updated to correct the location of the flights.",
    "published": "2026-10-20T20:21:36.000Z",
    "dupes": 1,
-   "score": 0.631,
+   "score": 0.614,
    "tier": 3
   },
   {
@@ -455,7 +576,7 @@
    "tldr": "Destined for Mars and beyond, NASA’s Space Reactor-1 (SR-1) Freedom will be humanity’s first fission-powered spacecraft to travel outside Earth’s orbit.  Announced during NASA’s “Ignition” event, this mission will…",
    "published": "2026-10-20T18:11:33.000Z",
    "dupes": 1,
-   "score": 0.624,
+   "score": 0.607,
    "tier": 3
   },
   {
@@ -470,52 +591,7 @@
    "tldr": "The Barcelona Supercomputing Center (BSC)’s AI Factory Accelerator Programme, now in full operation following a pilot initiative, gives startups access to sovereign compute, technical support and training to support…",
    "published": "2026-10-20T05:00:00.000Z",
    "dupes": 1,
-   "score": 0.618,
-   "tier": 3
-  },
-  {
-   "id": "79a5abdf1e0a8c4d54bcb5f9884dc73b65ab79cd",
-   "title": "NASA Experimental Mars Helicopter Blade Designs Target Longer Flights",
-   "url": "https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights",
-   "source": "NASA",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "NASA researchers are developing the future of flight on Mars, laying the groundwork for helicopters with the ability to fly higher and farther while conducting science on the Red Planet.  Using high-fidelity computer…",
-   "published": "2026-10-20T16:02:35.000Z",
-   "dupes": 1,
-   "score": 0.617,
-   "tier": 3
-  },
-  {
-   "id": "4ad5b845f57d4a629bb9943f3df4767916add93c",
-   "title": "NASA Provides Progress Update on Moon Base Rovers",
-   "url": "https://www.nasa.gov/missions/moon-base/nasa-provides-progress-update-on-moon-base-rovers",
-   "source": "NASA",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "As NASA works to build the Moon Base, crewed and robotic lunar rovers will play a crucial role during early development through technology demonstrations, astronaut transport, terrain mapping, scientific investigations,…",
-   "published": "2026-10-20T15:00:10.000Z",
-   "dupes": 1,
-   "score": 0.614,
-   "tier": 3
-  },
-  {
-   "id": "2dad57508972cbca2567d18478486e65f8027bfe",
-   "title": "NASA Welcomes Uzbekistan as Newest Artemis Accords Signatory",
-   "url": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-uzbekistan-as-newest-artemis-accords-signatory",
-   "source": "NASA",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "The Republic of Uzbekistan became the 77th signatory of the Artemis Accords during a ceremony in Samarkand on Monday, committing to the practical principles that guide safe, transparent, and responsible civil space…",
-   "published": "2026-10-20T14:21:42.000Z",
-   "dupes": 1,
-   "score": 0.612,
+   "score": 0.606,
    "tier": 3
   },
   {
@@ -531,7 +607,37 @@
    "tldr": "\"I do think there's a lot of merit to combining the companies.\"",
    "published": "2026-10-20T22:04:54.000Z",
    "dupes": 2,
-   "score": 0.601,
+   "score": 0.605,
+   "tier": 3
+  },
+  {
+   "id": "79a5abdf1e0a8c4d54bcb5f9884dc73b65ab79cd",
+   "title": "NASA Experimental Mars Helicopter Blade Designs Target Longer Flights",
+   "url": "https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights",
+   "source": "NASA",
+   "org": [
+    "nasa"
+   ],
+   "topic": "space",
+   "tldr": "NASA researchers are developing the future of flight on Mars, laying the groundwork for helicopters with the ability to fly higher and farther while conducting science on the Red Planet.  Using high-fidelity computer…",
+   "published": "2026-10-20T16:02:35.000Z",
+   "dupes": 1,
+   "score": 0.602,
+   "tier": 3
+  },
+  {
+   "id": "4ad5b845f57d4a629bb9943f3df4767916add93c",
+   "title": "NASA Provides Progress Update on Moon Base Rovers",
+   "url": "https://www.nasa.gov/missions/moon-base/nasa-provides-progress-update-on-moon-base-rovers",
+   "source": "NASA",
+   "org": [
+    "nasa"
+   ],
+   "topic": "space",
+   "tldr": "As NASA works to build the Moon Base, crewed and robotic lunar rovers will play a crucial role during early development through technology demonstrations, astronaut transport, terrain mapping, scientific investigations,…",
+   "published": "2026-10-20T15:00:10.000Z",
+   "dupes": 1,
+   "score": 0.599,
    "tier": 3
   },
   {
@@ -546,7 +652,7 @@
    "tldr": "In the cavernous hall of Kraftwerk, a former power station in Berlin, German Chancellor Friedrich Merz and NVIDIA founder and CEO Jensen Huang sat down to discuss Germany’s AI roadmap, and in particular, the industrial…",
    "published": "2026-10-19T19:27:08.000Z",
    "dupes": 1,
-   "score": 0.597,
+   "score": 0.587,
    "tier": 3
   },
   {
@@ -561,7 +667,22 @@
    "tldr": "S.  S.",
    "published": "2026-10-20T05:53:16.000Z",
    "dupes": 1,
-   "score": 0.588,
+   "score": 0.576,
+   "tier": 3
+  },
+  {
+   "id": "5fc05b0f30bad9e1b38793adf1063a49b47bf912",
+   "title": "SpaceX to attempt Starship catch on next flight, with eye on rapid cadence increase",
+   "url": "https://arstechnica.com/space/2026/10/spacex-will-attempt-to-reach-weekly-starship-launches-by-early-2027",
+   "source": "Ars Technica · Space",
+   "org": [
+    "spacex"
+   ],
+   "topic": "space",
+   "tldr": "\"We have had significant constructive engagement with the FAA.\"",
+   "published": "2026-10-21T16:46:19.000Z",
+   "dupes": 1,
+   "score": 0.574,
    "tier": 3
   },
   {
@@ -577,39 +698,7 @@
    "tldr": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
    "published": "2026-10-21T08:42:49.000Z",
    "dupes": 1,
-   "score": 0.563,
-   "tier": 3
-  },
-  {
-   "id": "1de1c48ce23bc8e58ce8223556194752e19d5f54",
-   "title": "OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys",
-   "url": "https://thehackernews.com/2026/10/opencode-console-breach-may-have.html",
-   "source": "The Hacker News",
-   "org": [
-    "anthropic",
-    "openai",
-    "google"
-   ],
-   "topic": "security",
-   "tldr": "An intruder reached a legacy system at OpenCode on the night of October 16 and may have exposed the third-party AI provider keys that users had saved in OpenCode Console, the company said.",
-   "published": "2026-10-19T06:07:08.000Z",
-   "dupes": 1,
-   "score": 0.542,
-   "tier": 3
-  },
-  {
-   "id": "3c6ff0be32fe87453b871ebba3d4e754fdf275a7",
-   "title": "Unleash AI Innovation: The Power of NVIDIA RTX PRO 6000 Blackwell Workstation Edition Fueled by PNY-Supplied GPUs",
-   "url": "https://www.therobotreport.com/unleash-ai-innovation-the-power-of-nvidia-rtx-pro-6000-blackwell-workstation-edition-fueled-by-pny-supplied-gpus",
-   "source": "The Robot Report",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "robotics",
-   "tldr": "As robotics systems grow more capable — faster, more precise, and increasingly reliant on AI-driven vision and control — the humble interconnect is being asked to do more than ever.  The post Unleash AI Innovation: The…",
-   "published": "2026-10-19T17:38:13.000Z",
-   "dupes": 1,
-   "score": 0.541,
+   "score": 0.564,
    "tier": 3
   },
   {
@@ -624,118 +713,63 @@
    "tldr": "4 billion.  AI was the engine.",
    "published": "2026-10-20T20:40:41.000Z",
    "dupes": 1,
-   "score": 0.539,
+   "score": 0.543,
    "tier": 3
   },
   {
-   "id": "dac4ed1e753011bd87337b3306964b05059b62a2",
-   "title": "SpaceX alum’s aviation startup, Reliable Robotics, lands $115M, topping $1B valuation",
-   "url": "https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation",
-   "source": "TechCrunch",
-   "org": [
-    "spacex"
-   ],
-   "topic": "space",
-   "tldr": "Reliable Robotics extended its Series D round with $115 million in equity and $25 million in debt.",
-   "published": "2026-10-20T13:17:36.000Z",
-   "dupes": 1,
-   "score": 0.527,
-   "tier": 3
-  },
-  {
-   "id": "2f7a0f9a2ffb40116ec7f986f6e5d813abc86732",
-   "title": "Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election",
-   "url": "https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html",
-   "source": "The Hacker News",
-   "org": [
-    "apple"
-   ],
-   "topic": "security",
-   "tldr": "The iPhone of Vladan Đokić, rector of the University of Belgrade and a prominent supporter of Serbia's student protest movement, was infected with NSO Group's Pegasus spyware in 2026, the Citizen Lab said on October 19.…",
-   "published": "2026-10-20T12:59:44.000Z",
-   "dupes": 1,
-   "score": 0.511,
-   "tier": 3
-  },
-  {
-   "id": "7ca539292393b0528fe92e12c57689d642323f55",
-   "title": "UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing",
-   "url": "https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html",
-   "source": "The Hacker News",
-   "org": [
-    "google"
-   ],
-   "topic": "security",
-   "tldr": "Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) spear-phishing campaign that has targeted individuals affiliated with Taiwan research organizations to direct victims to an…",
-   "published": "2026-10-16T16:16:44.000Z",
-   "badges": [
-    "research"
-   ],
-   "dupes": 1,
-   "score": 0.494,
-   "tier": 3
-  },
-  {
-   "id": "82bd71e8965df8d705ef4063e43ff3dafd76fb44",
-   "title": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract",
-   "url": "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html",
-   "source": "The Hacker News",
-   "org": [
-    "openai"
-   ],
-   "topic": "security",
-   "tldr": "OpenAI has disclosed seven new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior, including one case where its research model, after not having funds on an Ethereum test network,…",
-   "published": "2026-10-16T14:03:04.000Z",
-   "badges": [
-    "research"
-   ],
-   "dupes": 1,
-   "score": 0.493,
-   "tier": 3
-  },
-  {
-   "id": "7554ab6fc8d5fc05cbb423c83dc7c78a7283d018",
-   "title": "Microsoft says October updates didn’t actually fix VPN issues",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates",
+   "id": "6b18361d9aed0182b2a942f1982d1f7c60535609",
+   "title": "PHP ships emergency patches for critical PHP2Shell flaws",
+   "url": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws",
    "source": "BleepingComputer",
-   "org": [
-    "microsoft"
-   ],
+   "org": [],
    "topic": "security",
-   "tldr": "Microsoft says it mistakenly flagged a bug causing Always On VPN connection issues as fixed in the October 2026 Windows 11 cumulative updates.",
-   "published": "2026-10-21T10:14:53.000Z",
-   "dupes": 1,
-   "score": 0.488,
+   "tldr": "The PHP security team released emergency security patches for two critical remote code execution (RCE) vulnerabilities (CVE-2026-109618 and CVE-2026-109619) tracked collectively as PHP2Shell.",
+   "published": "2026-10-21T14:07:05.000Z",
+   "dupes": 4,
+   "score": 0.536,
    "tier": 3
   },
   {
-   "id": "986cc714fb426f821349327b1c955b2a14e9a584",
-   "title": "ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More",
-   "url": "https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html",
-   "source": "The Hacker News",
+   "id": "3c6ff0be32fe87453b871ebba3d4e754fdf275a7",
+   "title": "Unleash AI Innovation: The Power of NVIDIA RTX PRO 6000 Blackwell Workstation Edition Fueled by PNY-Supplied GPUs",
+   "url": "https://www.therobotreport.com/unleash-ai-innovation-the-power-of-nvidia-rtx-pro-6000-blackwell-workstation-edition-fueled-by-pny-supplied-gpus",
+   "source": "The Robot Report",
    "org": [
     "nvidia"
    ],
-   "topic": "security",
-   "tldr": "Someone built a tool to steal data, then decided it should scare the victim for fun.  Yes, that’s an actual feature.",
-   "published": "2026-10-15T18:49:33.000Z",
+   "topic": "robotics",
+   "tldr": "As robotics systems grow more capable — faster, more precise, and increasingly reliant on AI-driven vision and control — the humble interconnect is being asked to do more than ever.  The post Unleash AI Innovation: The…",
+   "published": "2026-10-19T17:38:13.000Z",
    "dupes": 1,
-   "score": 0.488,
+   "score": 0.532,
    "tier": 3
   },
   {
-   "id": "b525e3c1ed46d43adabd20051c5b29388b0eca78",
-   "title": "How NASA is thinking about a moon base",
-   "url": "https://spacenews.com/how-nasa-is-thinking-about-a-moon-base",
-   "source": "SpaceNews",
+   "id": "22f90acb78a34e170b4883c9af4db160e7b83a55",
+   "title": "A guide to Day 2 of RoboBusiness 2026",
+   "url": "https://www.therobotreport.com/a-guide-to-day-2-of-robobusiness-2026",
+   "source": "The Robot Report",
+   "org": [],
+   "topic": "robotics",
+   "tldr": "Day 2 of RoboBusiness 2026, the 20th anniversary of the event, will include interesting keynotes around humanoids and social robots.  The post A guide to Day 2 of RoboBusiness 2026 appeared first on The Robot Report .",
+   "published": "2026-10-21T12:00:26.000Z",
+   "dupes": 3,
+   "score": 0.447,
+   "tier": 3
+  },
+  {
+   "id": "d4c531c1ca05794353252e7ae2b6f1bac219825c",
+   "title": "House House will not release Big Walk on Xbox in support of pro-Palestinian BDS campaign",
+   "url": "https://www.gamesindustry.biz/house-house-will-not-release-big-walk-on-xbox-in-support-of-pro-palestinian-bds-campaign",
+   "source": "GamesIndustry.biz",
    "org": [
-    "nasa"
+    "microsoft"
    ],
-   "topic": "space",
-   "tldr": "In this episode, SpaceNews’ Mike Gruss talks with NASA’s Shatel Bhakta, the principal systems engineer for Moon Base, about what’s needed between now and 2028 and the incremental steps to […] The post How NASA is…",
-   "published": "2026-10-15T15:14:24.000Z",
+   "topic": "gaming",
+   "tldr": "Melbourne-based developer House House will not release its co-op hit Big Walk on Xbox, citing support for the Palestinian-led Boycott, Divestment, Sanctions (BDS) campaign .",
+   "published": "2026-10-15T11:08:03.000Z",
    "dupes": 1,
-   "score": 0.486,
+   "score": 0.418,
    "tier": 3
   },
   {
@@ -750,20 +784,33 @@
    "tldr": "Google Play is adding a batch of new discovery and social features for games, including a personalized Game Finder, timed competitive Sprints, and clip-sharing via its Sidekick overlay.",
    "published": "2026-10-14T21:02:24.000Z",
    "dupes": 1,
-   "score": 0.417,
+   "score": 0.416,
    "tier": 3
   },
   {
-   "id": "fe7c13eaf2494c4380d39cd88b7a721cc6cf6adb",
-   "title": "Summer of Quantum: Building momentum for space-based QKD",
-   "url": "https://spacenews.com/summer-of-quantum-building-momentum-for-space-based-qkd",
-   "source": "SpaceNews",
+   "id": "ecaaea07b74012087f31e72dd8317770005cd4b8",
+   "title": "Ukraine’s drone rescue of wounded soldier puts much touted idea into practice",
+   "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice",
+   "source": "Ars Technica",
    "org": [],
-   "topic": "space",
-   "tldr": "Glasgow, UK | 21 October 2026 – The pace of development in quantum technologies continues to accelerate, and over the past few months, space engineering company Craft Prospect has been […] The post Summer of Quantum:…",
-   "published": "2026-10-21T11:54:30.000Z",
+   "topic": "robotics",
+   "tldr": "Ukraine’s latest drone innovation may boost bleak odds of evacuating casualties.",
+   "published": "2026-10-20T18:22:54.000Z",
+   "dupes": 2,
+   "score": 0.349,
+   "tier": 3
+  },
+  {
+   "id": "b0b42b41c9372a140b3f92a4bd987bcf5692bdbe",
+   "title": "AGCO to deploy Agility Digit humanoid in Kansas factory",
+   "url": "https://www.therobotreport.com/agco-to-deploy-agility-digit-humanoid-in-kansas-factory",
+   "source": "The Robot Report",
+   "org": [],
+   "topic": "robotics",
+   "tldr": "The Agility pilot, which is expected to begin in 2027, will begin at an AGCO production facility for agricultural equipment.  The post AGCO to deploy Agility Digit humanoid in Kansas factory appeared first on The Robot…",
+   "published": "2026-10-21T13:19:00.000Z",
    "dupes": 1,
-   "score": 0.382,
+   "score": 0.348,
    "tier": 3
   },
   {
@@ -779,20 +826,20 @@
    "tldr": "New data shows that competitive shooters and sports games are most at risk of losing players to Grand Theft Auto 6 during its launch next month.",
    "published": "2026-10-21T10:53:35.000Z",
    "dupes": 1,
-   "score": 0.375,
+   "score": 0.347,
    "tier": 3
   },
   {
-   "id": "ecaaea07b74012087f31e72dd8317770005cd4b8",
-   "title": "Ukraine’s drone rescue of wounded soldier puts much touted idea into practice",
-   "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice",
-   "source": "Ars Technica",
+   "id": "e5b4c115247de93f946cb24c1fbf9b10d4013b36",
+   "title": "Project Helix reportedly launching in late 2028, projected to cost between $1,200 and $1,800",
+   "url": "https://www.gamesindustry.biz/project-helix-reportedly-launching-in-late-2028-projected-to-cost-between-1200-and-1800",
+   "source": "GamesIndustry.biz",
    "org": [],
-   "topic": "robotics",
-   "tldr": "Ukraine’s latest drone innovation may boost bleak odds of evacuating casualties.",
-   "published": "2026-10-20T18:22:54.000Z",
-   "dupes": 2,
-   "score": 0.365,
+   "topic": "gaming",
+   "tldr": "Project Helix is reportedly launching in the 2028 holiday season and is projected to cost between $1,200 and $1,800.",
+   "published": "2026-10-21T13:38:47.000Z",
+   "dupes": 1,
+   "score": 0.315,
    "tier": 3
   },
   {
@@ -807,20 +854,7 @@
    "tldr": "An analysis from Sensor Tower shows just how far ahead GTA 6 is in terms of preorders when compared with some of the biggest AAA games of the past six years.",
    "published": "2026-10-20T10:00:57.000Z",
    "dupes": 1,
-   "score": 0.336,
-   "tier": 3
-  },
-  {
-   "id": "0b82799054455c4d4d2033a6ac64dd08670960d0",
-   "title": "A guide to Day 1 of RoboBusiness 2026",
-   "url": "https://www.therobotreport.com/a-guide-to-day-1-of-robobusiness-2026",
-   "source": "The Robot Report",
-   "org": [],
-   "topic": "robotics",
-   "tldr": "We've compiled a schedule for everything happening on the first day of RoboBusiness 2026 in Santa Clara, Calif.  The post A guide to Day 1 of RoboBusiness 2026 appeared first on The Robot Report .",
-   "published": "2026-10-20T12:00:10.000Z",
-   "dupes": 2,
-   "score": 0.331,
+   "score": 0.312,
    "tier": 3
   },
   {
@@ -833,35 +867,7 @@
    "tldr": "biz &ndash; shows that indies and original IP made up a much higher proportion of the biggest PC and console games of 2026 when compared with 2025.",
    "published": "2026-10-21T11:39:48.000Z",
    "dupes": 1,
-   "score": 0.328,
-   "tier": 3
-  },
-  {
-   "id": "d4c531c1ca05794353252e7ae2b6f1bac219825c",
-   "title": "House House will not release Big Walk on Xbox in support of pro-Palestinian BDS campaign",
-   "url": "https://www.gamesindustry.biz/house-house-will-not-release-big-walk-on-xbox-in-support-of-pro-palestinian-bds-campaign",
-   "source": "GamesIndustry.biz",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "gaming",
-   "tldr": "Melbourne-based developer House House will not release its co-op hit Big Walk on Xbox, citing support for the Palestinian-led Boycott, Divestment, Sanctions (BDS) campaign .",
-   "published": "2026-10-15T11:08:03.000Z",
-   "dupes": 1,
-   "score": 0.327,
-   "tier": 3
-  },
-  {
-   "id": "03421fb4e911bded157763664ecdffe448fe29d7",
-   "title": "Vivrato: 97% of studio leaders use AI in some form during development in EU and North America",
-   "url": "https://www.gamesindustry.biz/vivrato-97-of-studio-leaders-use-ai-in-some-form-during-development-in-eu-and-north-america",
-   "source": "GamesIndustry.biz",
-   "org": [],
-   "topic": "gaming",
-   "tldr": "97% of studio leaders have used AI in some form during development, with 94% having used AI in at least one of the nine production stages.",
-   "published": "2026-10-21T08:40:54.000Z",
-   "dupes": 1,
-   "score": 0.317,
+   "score": 0.308,
    "tier": 3
   },
   {
@@ -874,7 +880,7 @@
    "tldr": "Reservoir hopes to put agricultural robotics startups to work in the orchards, vineyards and berry fields alongside researchers and growers.  The post Reservoir launches new agricultural robotics incubator for…",
    "published": "2026-10-20T19:40:05.000Z",
    "dupes": 1,
-   "score": 0.301,
+   "score": 0.285,
    "tier": 3
   },
   {
@@ -887,7 +893,7 @@
    "tldr": "Robotics Summit & Expo West sharpens focus on deploying robotics and AI in the real world, complementing the East Coast flagship event.  The post RoboBusiness rebrands as Robotics Summit & Expo West appeared first on…",
    "published": "2026-10-20T16:23:21.000Z",
    "dupes": 1,
-   "score": 0.291,
+   "score": 0.276,
    "tier": 3
   },
   {
@@ -900,7 +906,7 @@
    "tldr": "The TRR50 winners will be celebrated at an awards gala during the Robotics Summit & Expo, which will be held on June 2-3, 2027 in Boston.  The post 2027 TRR50 Robotics Innovation Awards open nominations appeared first…",
    "published": "2026-10-20T16:15:24.000Z",
    "dupes": 1,
-   "score": 0.291,
+   "score": 0.275,
    "tier": 3
   },
   {
@@ -913,7 +919,7 @@
    "tldr": "Surgery Mode in Unfold AI brings patient-specific 3D maps to give an enhanced view of cancer anatomy during robotic prostate procedures.  The post Avenda Health expands Unfold AI platform to support intraoperative…",
    "published": "2026-10-20T12:59:43.000Z",
    "dupes": 1,
-   "score": 0.281,
+   "score": 0.267,
    "tier": 3
   },
   {
@@ -926,7 +932,7 @@
    "tldr": "Gecko claimed this signals the Pentagon’s confidence that it is a core military capability that is delivering results.  S.",
    "published": "2026-10-20T10:25:47.000Z",
    "dupes": 1,
-   "score": 0.274,
+   "score": 0.261,
    "tier": 3
   },
   {
@@ -939,7 +945,7 @@
    "tldr": "The company is connecting tactile sensing, real-world data collection, simulation, and AI models to help robots perform physical tasks more reliably.  The post Daimon Robotics building the infrastructure layer for…",
    "published": "2026-10-19T17:07:52.000Z",
    "dupes": 1,
-   "score": 0.236,
+   "score": 0.227,
    "tier": 3
   },
   {
@@ -952,7 +958,7 @@
    "tldr": "Kodama is working on automating forestry and logging equipment, starting with teleoperation and collecting valuable data on the way.  The post Kodama raises $7M to bring robotics to forestry appeared first on The Robot…",
    "published": "2026-10-19T15:55:12.000Z",
    "dupes": 1,
-   "score": 0.234,
+   "score": 0.225,
    "tier": 3
   },
   {
@@ -965,20 +971,7 @@
    "tldr": "A new ADI whitepaper examines the challenges and opportunities in moving physical AI out of labs into production machinery.  The post ADI explains the race to make AI physical appeared first on The Robot Report .",
    "published": "2026-10-17T21:33:57.000Z",
    "dupes": 1,
-   "score": 0.187,
-   "tier": 3
-  },
-  {
-   "id": "661f561184160725defb5bce97f5e83365738bdc",
-   "title": "The rise of the machines is canceled: Why humanoids with AI are helpers, not enemies",
-   "url": "https://www.therobotreport.com/rise-machines-canceled-why-humanoids-ai-are-helpers-not-enemies",
-   "source": "The Robot Report",
-   "org": [],
-   "topic": "robotics",
-   "tldr": "Humans play a key role in developing humanoid robots and training AI models, so we can maintain control, writes a columnist.  The post The rise of the machines is canceled: Why humanoids with AI are helpers, not enemies…",
-   "published": "2026-10-17T12:30:55.000Z",
-   "dupes": 1,
-   "score": 0.182,
+   "score": 0.184,
    "tier": 3
   }
  ]

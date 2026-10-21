@@ -1,6 +1,108 @@
 {
- "generated": "2026-10-21T12:08:28.218Z",
+ "generated": "2026-10-21T17:28:51.280Z",
  "items": [
+  {
+   "id": "61f4d0141ff303c02405716db977e4c6353bca59",
+   "title": "OpenAI models are coming to Google Cloud",
+   "url": "https://openai.com/index/openai-models-google-cloud",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai",
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+   "published": "2026-10-21T12:00:00.000Z",
+   "dupes": 2,
+   "score": 0.649,
+   "tier": 1
+  },
+  {
+   "id": "8477c3daca9c4e080f064b3af9838ce53e6065c2",
+   "title": "Empowering frontline maternal care with AI-assisted ultrasound",
+   "url": "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound",
+   "source": "Google Research",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Health & Bioscience",
+   "published": "2026-10-21T16:23:53.000Z",
+   "dupes": 1,
+   "score": 0.611,
+   "tier": 2
+  },
+  {
+   "id": "74fcf21eca7add4a8265b1181e42f31fbfb429bc",
+   "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+   "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+   "published": "2026-10-21T13:00:00.000Z",
+   "dupes": 1,
+   "score": 0.595,
+   "tier": 2
+  },
+  {
+   "id": "f9b499debdda31c09e3233a9bc0b2b59d167a0bd",
+   "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+   "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-10-21T16:04:43.000Z",
+   "dupes": 1,
+   "score": 0.594,
+   "tier": 2
+  },
+  {
+   "id": "5deb86848ff9874f47a85988a336e928599921ba",
+   "title": "Solving a 31-year-old grand challenge in mathematics – the KLS conjecture",
+   "url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture",
+   "source": "Microsoft Research",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "For decades, a fundamental question about the difficulty of computing in high-dimensional spaces has resisted proof.  New research resolves this question, removing a major theoretical obstacle to understanding the…",
+   "published": "2026-10-21T16:00:00.000Z",
+   "dupes": 1,
+   "score": 0.593,
+   "tier": 2
+  },
+  {
+   "id": "9b35c0bfb2f0e3cd6f0b40f1544c7158083b755d",
+   "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+   "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-10-21T14:58:18.000Z",
+   "dupes": 1,
+   "score": 0.58,
+   "tier": 2
+  },
+  {
+   "id": "38715d90bd30f009daa05ff30d6ffc5b06291bb1",
+   "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+   "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
+   "source": "Hugging Face Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-10-21T12:51:24.000Z",
+   "dupes": 1,
+   "score": 0.555,
+   "tier": 2
+  },
   {
    "id": "4ad89d65a44a1c50a504d21f98bb2821b74b1993",
    "title": "Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents",
@@ -13,8 +115,8 @@
    "tldr": "At GTC Berlin, NVIDIA is showcasing its full lineup of local AI hardware.  RTX Spark, which launched last week, powers personal agents on Windows PCs; DGX Spark supports developers building and scaling applications on…",
    "published": "2026-10-21T10:50:37.000Z",
    "dupes": 1,
-   "score": 0.608,
-   "tier": 1
+   "score": 0.546,
+   "tier": 2
   },
   {
    "id": "db73069fa994e2557975af177d40aafb5c416c37",
@@ -29,7 +131,7 @@
    "tldr": "General availability of the instances is coming next month, with planned expansion of availability to Europe — bringing an integrated platform for training, inference and large-scale reinforcement learning to cloud…",
    "published": "2026-10-21T10:45:17.000Z",
    "dupes": 1,
-   "score": 0.607,
+   "score": 0.545,
    "tier": 2
   },
   {
@@ -44,7 +146,7 @@
    "tldr": "Demand from AI-natives is pulling the European AI cloud ecosystem forward faster than ever.  Developers need compute closer to their data, open models they can customize and serve at scale, and full-stack infrastructure…",
    "published": "2026-10-21T10:30:41.000Z",
    "dupes": 1,
-   "score": 0.604,
+   "score": 0.543,
    "tier": 2
   },
   {
@@ -59,7 +161,7 @@
    "tldr": "To increase productivity, accelerate innovation and create new opportunities for economic growth, Europe’s industrial leaders are tapping NVIDIA CUDA-X and Omniverse libraries, as well as NVIDIA Cosmos and Nemotron open…",
    "published": "2026-10-21T10:30:40.000Z",
    "dupes": 1,
-   "score": 0.604,
+   "score": 0.543,
    "tier": 2
   },
   {
@@ -74,7 +176,7 @@
    "tldr": "NVIDIA cuDSS, launched today in general availability, is an NVIDIA CUDA-X library that shifts a critical part of engineering and scientific simulations onto GPUs.  Complex engineering feats — from advanced chips to…",
    "published": "2026-10-21T10:30:25.000Z",
    "dupes": 1,
-   "score": 0.604,
+   "score": 0.543,
    "tier": 2
   },
   {
@@ -89,7 +191,7 @@
    "tldr": "NVIDIA builds tools to enable safe agents across the stack.  The NVIDIA OpenShell Reference Architecture, announced today, is part of NVIDIA’s growing portfolio of technologies that enables organizations to safely…",
    "published": "2026-10-21T10:30:02.000Z",
    "dupes": 1,
-   "score": 0.604,
+   "score": 0.543,
    "tier": 2
   },
   {
@@ -104,8 +206,8 @@
    "tldr": "Agents are only as useful as what they know, and only as trustworthy as the boundaries they run within.",
    "published": "2026-10-21T10:10:01.000Z",
    "dupes": 1,
-   "score": 0.599,
-   "tier": 2
+   "score": 0.539,
+   "tier": 3
   },
   {
    "id": "140f65345f1e83c4c3f3baa7417168f99df667dd",
@@ -119,21 +221,38 @@
    "tldr": "NVIDIA is expanding its family of open models across language, robotics, biology, and quantum computing, giving developers, researchers and enterprises what they need to build applications tailored to local languages…",
    "published": "2026-10-21T10:00:07.000Z",
    "dupes": 1,
-   "score": 0.597,
-   "tier": 2
+   "score": 0.537,
+   "tier": 3
   },
   {
-   "id": "99ae24e773f80392fc0f03756b6b30d5ad74c6b4",
-   "title": "Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories",
-   "url": "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories",
-   "source": "Hugging Face Blog",
-   "org": [],
+   "id": "d3f519557f32dd3d643c27d4c9f89095ff53a6df",
+   "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+   "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
    "topic": "ai",
-   "tldr": "",
-   "published": "2026-10-21T10:59:42.000Z",
+   "tldr": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+   "published": "2026-10-21T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.597,
-   "tier": 2
+   "score": 0.534,
+   "tier": 3
+  },
+  {
+   "id": "edef63b51aedc0121d1aea11f9472c530dce47d4",
+   "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+   "url": "https://openai.com/index/building-chatgpt-ad-stack",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
+   "published": "2026-10-21T07:00:00.000Z",
+   "dupes": 1,
+   "score": 0.534,
+   "tier": 3
   },
   {
    "id": "77c10bd5f145a8aaca651c6978b7d0c6ff562d4e",
@@ -147,23 +266,68 @@
    "tldr": "Founded in a tent near the Berlin Wall in 1980, the Tempodrom moved several times before settling near Anhalter Bahnhof in 2001.  Its permanent home has since hosted concerts, galas and political events.",
    "published": "2026-10-21T09:30:16.000Z",
    "dupes": 1,
-   "score": 0.591,
-   "tier": 2
+   "score": 0.532,
+   "tier": 3
+  },
+  {
+   "id": "1bbb4f6fc3d142113db098690d7bc86d371bae97",
+   "title": "Conversational Gemini navigation comes to Apple CarPlay",
+   "url": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
+   "source": "The Verge AI",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users.  The conversational Gemini in navigation is available today for US drivers, with \"rollout happening…",
+   "published": "2026-10-21T15:00:00.000Z",
+   "dupes": 1,
+   "score": 0.518,
+   "tier": 3
+  },
+  {
+   "id": "1de8e62ff715d1f1b849a16afe7dfd3ed7898410",
+   "title": "Using thousands of AI agents to uncover new leads in biological data",
+   "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+   "published": "2026-10-21T04:50:00.000Z",
+   "dupes": 1,
+   "score": 0.515,
+   "tier": 3
+  },
+  {
+   "id": "c55b4c3c8ca25718079f683ea100ea28a436610a",
+   "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+   "source": "The Verge AI",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks.  In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor…",
+   "published": "2026-10-21T13:57:43.000Z",
+   "dupes": 1,
+   "score": 0.506,
+   "tier": 3
   },
   {
    "id": "79e072c528493212dadbe0626496c7bede00d5c2",
    "title": "DeepInfer: High-performance inference framework for DeepSeek models",
    "url": "https://github.com/deepseek-ai/DeepInfer",
-   "source": "Hacker News",
+   "source": "HN · DeepSeek",
    "org": [
     "deepseek"
    ],
    "topic": "ai",
    "tldr": "",
    "published": "2026-10-20T09:08:54.000Z",
-   "dupes": 2,
-   "score": 0.536,
-   "tier": 2
+   "dupes": 1,
+   "score": 0.438,
+   "tier": 3
   },
   {
    "id": "90a74ffb382d3ad09d92e41ae66c93f5f754727b",
@@ -178,38 +342,7 @@
    "tldr": "",
    "published": "2026-10-21T05:17:15.000Z",
    "dupes": 1,
-   "score": 0.458,
-   "tier": 2
-  },
-  {
-   "id": "341f11e78b1225e89a5c7957946e426a3a4181b9",
-   "title": "Using Claude to reduce the attack surface of code",
-   "url": "https://www.anthropic.com/research/attack-surface-reduction",
-   "source": "Hacker News",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-10-21T03:36:43.000Z",
-   "dupes": 1,
-   "score": 0.457,
-   "tier": 2
-  },
-  {
-   "id": "ec286bca245429399892db6290496b9ed453157a",
-   "title": "Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support",
-   "url": "https://github.com/xamrayev/nexus-cli",
-   "source": "HN · DeepSeek",
-   "org": [
-    "deepseek",
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-10-21T04:37:18.000Z",
-   "dupes": 1,
-   "score": 0.45,
+   "score": 0.408,
    "tier": 3
   },
   {
@@ -224,20 +357,23 @@
    "tldr": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
    "published": "2026-10-20T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.428,
+   "score": 0.404,
    "tier": 3
   },
   {
-   "id": "ca293d8533a3487d56775601759d9e248992e54a",
-   "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
-   "url": "https://huggingface.co/blog/allenai/fairstress",
-   "source": "Hugging Face Blog",
-   "org": [],
+   "id": "ec286bca245429399892db6290496b9ed453157a",
+   "title": "Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support",
+   "url": "https://github.com/xamrayev/nexus-cli",
+   "source": "HN · DeepSeek",
+   "org": [
+    "deepseek",
+    "anthropic"
+   ],
    "topic": "ai",
    "tldr": "",
-   "published": "2026-10-20T16:09:19.000Z",
+   "published": "2026-10-21T04:37:18.000Z",
    "dupes": 1,
-   "score": 0.425,
+   "score": 0.402,
    "tier": 3
   },
   {
@@ -255,20 +391,20 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.424,
+   "score": 0.394,
    "tier": 3
   },
   {
-   "id": "94e7f4f5c0e52bb75e66cbfeaab71589104be947",
-   "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
-   "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+   "id": "ca293d8533a3487d56775601759d9e248992e54a",
+   "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+   "url": "https://huggingface.co/blog/allenai/fairstress",
    "source": "Hugging Face Blog",
    "org": [],
    "topic": "ai",
    "tldr": "",
-   "published": "2026-10-20T15:19:48.000Z",
+   "published": "2026-10-20T16:09:19.000Z",
    "dupes": 1,
-   "score": 0.42,
+   "score": 0.394,
    "tier": 3
   },
   {
@@ -283,7 +419,20 @@
    "tldr": "1 Sol.",
    "published": "2026-10-20T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.414,
+   "score": 0.393,
+   "tier": 3
+  },
+  {
+   "id": "94e7f4f5c0e52bb75e66cbfeaab71589104be947",
+   "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+   "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-10-20T15:19:48.000Z",
+   "dupes": 1,
+   "score": 0.39,
    "tier": 3
   },
   {
@@ -298,52 +447,7 @@
    "tldr": "Nebius and Nscale are among global technology partners looking to NVIDIA Vera CPUs to build the next wave of infrastructure.  Their momentum reflects rapid advancements in agentic computing.",
    "published": "2026-10-20T10:30:11.000Z",
    "dupes": 1,
-   "score": 0.405,
-   "tier": 3
-  },
-  {
-   "id": "7f6bb9c0aa5027ea3e8e04b3d409d89e78d9cc73",
-   "title": "Google’s more personalized Gemini AI is heading to your car",
-   "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
-   "source": "The Verge AI",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Google is bringing Personal Intelligence to Gemini AI in your car.  With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar,…",
-   "published": "2026-10-20T22:11:34.000Z",
-   "dupes": 1,
-   "score": 0.405,
-   "tier": 3
-  },
-  {
-   "id": "2f990e26e9aeea90981c3313d605e88dfa8ebd72",
-   "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
-   "url": "https://github.com/google-pytorch/torch_tpu",
-   "source": "Hacker News",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-10-20T16:40:24.000Z",
-   "dupes": 1,
-   "score": 0.389,
-   "tier": 3
-  },
-  {
-   "id": "dbaa902542534b3aef2de952931670bbaaa97f74",
-   "title": "OpenAI acquires Orchestra Bio",
-   "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
-   "published": "2026-10-20T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.387,
+   "score": 0.381,
    "tier": 3
   },
   {
@@ -361,7 +465,37 @@
     "model"
    ],
    "dupes": 2,
-   "score": 0.382,
+   "score": 0.38,
+   "tier": 3
+  },
+  {
+   "id": "dbaa902542534b3aef2de952931670bbaaa97f74",
+   "title": "OpenAI acquires Orchestra Bio",
+   "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+   "published": "2026-10-20T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.371,
+   "tier": 3
+  },
+  {
+   "id": "7f6bb9c0aa5027ea3e8e04b3d409d89e78d9cc73",
+   "title": "Google’s more personalized Gemini AI is heading to your car",
+   "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+   "source": "The Verge AI",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Google is bringing Personal Intelligence to Gemini AI in your car.  With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar,…",
+   "published": "2026-10-20T22:11:34.000Z",
+   "dupes": 1,
+   "score": 0.367,
    "tier": 3
   },
   {
@@ -376,37 +510,7 @@
    "tldr": "The Barcelona Supercomputing Center (BSC)’s AI Factory Accelerator Programme, now in full operation following a pilot initiative, gives startups access to sovereign compute, technical support and training to support…",
    "published": "2026-10-20T05:00:00.000Z",
    "dupes": 1,
-   "score": 0.381,
-   "tier": 3
-  },
-  {
-   "id": "f52190a49967b68da7ad63d8e5297c5a8a841b2d",
-   "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
-   "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
-   "source": "The Verge AI",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica.  In a report published this week,…",
-   "published": "2026-10-20T18:07:34.000Z",
-   "dupes": 1,
-   "score": 0.375,
-   "tier": 3
-  },
-  {
-   "id": "622707591cc8f6c6763eeede973077b34b6a1c59",
-   "title": "Whoops: Grok Bot Spills Tech CEO's Bank Data in Public Slack",
-   "url": "https://www.techdirt.com/2026/10/19/whoops-grok-bot-spills-tech-ceos-bank-data-in-public-slack",
-   "source": "HN · xAI",
-   "org": [
-    "xai"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-10-20T16:48:22.000Z",
-   "dupes": 1,
-   "score": 0.356,
+   "score": 0.361,
    "tier": 3
   },
   {
@@ -421,46 +525,22 @@
    "tldr": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
    "published": "2026-10-19T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.355,
+   "score": 0.345,
    "tier": 3
   },
   {
-   "id": "84cd8d44e9825e737133c110f0549311792b0780",
-   "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
-   "url": "https://huggingface.co/blog/hf-torchtpu",
-   "source": "Hugging Face Blog",
-   "org": [],
+   "id": "f52190a49967b68da7ad63d8e5297c5a8a841b2d",
+   "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
+   "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+   "source": "The Verge AI",
+   "org": [
+    "meta"
+   ],
    "topic": "ai",
-   "tldr": "",
-   "published": "2026-10-20T00:00:00.000Z",
+   "tldr": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica.  In a report published this week,…",
+   "published": "2026-10-20T18:07:34.000Z",
    "dupes": 1,
-   "score": 0.35,
-   "tier": 3
-  },
-  {
-   "id": "2596ff929aeef5579581b4037417df8135811f0e",
-   "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-   "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-10-20T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.35,
-   "tier": 3
-  },
-  {
-   "id": "3eb18e5ff7f2a0efc7b65bf76103cb7b1b48a111",
-   "title": "MPS in PyTorch 2.15",
-   "url": "https://huggingface.co/blog/mps-pytorch-2-15",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-10-20T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.35,
+   "score": 0.342,
    "tier": 3
   },
   {
@@ -475,7 +555,46 @@
    "tldr": "In the cavernous hall of Kraftwerk, a former power station in Berlin, German Chancellor Friedrich Merz and NVIDIA founder and CEO Jensen Huang sat down to discuss Germany’s AI roadmap, and in particular, the industrial…",
    "published": "2026-10-19T19:27:08.000Z",
    "dupes": 1,
-   "score": 0.348,
+   "score": 0.334,
+   "tier": 3
+  },
+  {
+   "id": "84cd8d44e9825e737133c110f0549311792b0780",
+   "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+   "url": "https://huggingface.co/blog/hf-torchtpu",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-10-20T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.333,
+   "tier": 3
+  },
+  {
+   "id": "2596ff929aeef5579581b4037417df8135811f0e",
+   "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+   "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-10-20T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.333,
+   "tier": 3
+  },
+  {
+   "id": "3eb18e5ff7f2a0efc7b65bf76103cb7b1b48a111",
+   "title": "MPS in PyTorch 2.15",
+   "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-10-20T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.333,
    "tier": 3
   },
   {
@@ -490,7 +609,22 @@
    "tldr": "At a creative industry event that took place today in Berlin — hosted in collaboration with Adobe, Bertelsmann, NVIDIA and UFA — the latest advancements in intelligent media were on display.",
    "published": "2026-10-19T15:00:31.000Z",
    "dupes": 1,
-   "score": 0.337,
+   "score": 0.325,
+   "tier": 3
+  },
+  {
+   "id": "622707591cc8f6c6763eeede973077b34b6a1c59",
+   "title": "Whoops: Grok Bot Spills Tech CEO's Bank Data in Public Slack",
+   "url": "https://www.techdirt.com/2026/10/19/whoops-grok-bot-spills-tech-ceos-bank-data-in-public-slack",
+   "source": "HN · xAI",
+   "org": [
+    "xai"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-10-20T16:48:22.000Z",
+   "dupes": 1,
+   "score": 0.325,
    "tier": 3
   },
   {
@@ -505,7 +639,7 @@
    "tldr": "",
    "published": "2026-10-19T04:41:46.000Z",
    "dupes": 2,
-   "score": 0.326,
+   "score": 0.318,
    "tier": 3
   },
   {
@@ -524,21 +658,6 @@
    "tier": 3
   },
   {
-   "id": "9db4940a53f868400a117abeba82d09071409b87",
-   "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-   "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-   "published": "2026-10-16T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.302,
-   "tier": 3
-  },
-  {
    "id": "4a2f3ca18eb9cee6e404d64432a48a189cc310da",
    "title": "Benefit Street Partners answers questions faster with Codex",
    "url": "https://openai.com/index/benefit-street-partners",
@@ -548,6 +667,21 @@
    ],
    "topic": "ai",
    "tldr": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+   "published": "2026-10-16T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.302,
+   "tier": 3
+  },
+  {
+   "id": "9db4940a53f868400a117abeba82d09071409b87",
+   "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+   "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
    "published": "2026-10-16T00:00:00.000Z",
    "dupes": 1,
    "score": 0.302,
@@ -568,22 +702,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.302,
-   "tier": 3
-  },
-  {
-   "id": "1d4cff712a9a12812912916b09ee2f570c14be95",
-   "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-   "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery",
-   "source": "Google DeepMind",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-   "published": "2026-10-15T16:08:03.000Z",
-   "dupes": 1,
-   "score": 0.302,
+   "score": 0.301,
    "tier": 3
   },
   {
@@ -617,6 +736,21 @@
    "tier": 3
   },
   {
+   "id": "1d4cff712a9a12812912916b09ee2f570c14be95",
+   "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+   "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery",
+   "source": "Google DeepMind",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+   "published": "2026-10-15T16:08:03.000Z",
+   "dupes": 1,
+   "score": 0.301,
+   "tier": 3
+  },
+  {
    "id": "9dbc0d55ff9123c63c69dd2978b5a2d8bc7cb130",
    "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
    "url": "https://huggingface.co/blog/hf-torchneuron",
@@ -626,22 +760,7 @@
    "tldr": "",
    "published": "2026-10-19T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.297,
-   "tier": 3
-  },
-  {
-   "id": "203c0f23de8f44f05e169ddb45b7a414196db499",
-   "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
-   "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19",
-   "source": "HN · DeepSeek",
-   "org": [
-    "deepseek"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-10-19T16:16:46.000Z",
-   "dupes": 1,
-   "score": 0.29,
+   "score": 0.291,
    "tier": 3
   },
   {
@@ -656,7 +775,7 @@
    "tldr": "NVIDIA RTX Spark laptops are now available, bringing NVIDIA Blackwell RTX graphics, up to 128GB of unified memory and the full NVIDIA AI platform to slim, premium Windows PCs.",
    "published": "2026-10-17T21:00:13.000Z",
    "dupes": 1,
-   "score": 0.287,
+   "score": 0.285,
    "tier": 3
   },
   {
@@ -675,6 +794,21 @@
    "tier": 3
   },
   {
+   "id": "203c0f23de8f44f05e169ddb45b7a414196db499",
+   "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
+   "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19",
+   "source": "HN · DeepSeek",
+   "org": [
+    "deepseek"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-10-19T16:16:46.000Z",
+   "dupes": 1,
+   "score": 0.278,
+   "tier": 3
+  },
+  {
    "id": "a01480253e96f18cb8e8ba477fefce8d1d3d759e",
    "title": "Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
    "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite",
@@ -686,7 +820,7 @@
    "tldr": "A new beginning for Windows PCs starts tomorrow with the launch of NVIDIA RTX Spark — one PC built for creators, gamers and AI agents.  All are invited to celebrate with NVIDIA and partners at launch events around the…",
    "published": "2026-10-15T17:00:23.000Z",
    "dupes": 1,
-   "score": 0.277,
+   "score": 0.276,
    "tier": 3
   },
   {
@@ -700,54 +834,6 @@
    "topic": "compute",
    "tldr": "5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on agents.",
    "published": "2026-10-15T15:00:24.000Z",
-   "dupes": 1,
-   "score": 0.277,
-   "tier": 3
-  },
-  {
-   "id": "09a39f2629ebdd36a3f4e74dcb57ff50d8ebb4bd",
-   "title": "Putting Earth AI to work: Geospatial agents for our planet's biggest challenges",
-   "url": "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges",
-   "source": "Google Research",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Earth AI",
-   "published": "2026-10-14T16:14:00.000Z",
-   "dupes": 1,
-   "score": 0.276,
-   "tier": 3
-  },
-  {
-   "id": "09678c4af34302447d16574d6b28137803a51b4d",
-   "title": "Analyzing technical documents with Deep Review",
-   "url": "https://research.google/blog/analyzing-technical-documents-with-deep-review",
-   "source": "Google Research",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "General Science",
-   "published": "2026-10-14T16:14:00.000Z",
-   "dupes": 1,
-   "score": 0.276,
-   "tier": 3
-  },
-  {
-   "id": "18b611693debbbf2b49126bcf0aec3ce9cc7624a",
-   "title": "Research@ 2026: 10 ways we're amplifying human ingenuity",
-   "url": "https://research.google/blog/research-2026-10-ways-were-amplifying-human-ingenuity",
-   "source": "Google Research",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "General Science",
-   "published": "2026-10-14T16:14:00.000Z",
-   "badges": [
-    "research"
-   ],
    "dupes": 1,
    "score": 0.276,
    "tier": 3
@@ -783,19 +869,6 @@
    "tier": 3
   },
   {
-   "id": "849b423196d125cc3aaed178ce976945d3094cba",
-   "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
-   "url": "https://huggingface.co/blog/reflection-beam",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-10-16T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.265,
-   "tier": 3
-  },
-  {
    "id": "f1d2b0021bdbe009de6d2056f8ab68956f161aeb",
    "title": "Proof-based general-purpose computing with Magnetar",
    "url": "https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar",
@@ -811,87 +884,16 @@
    "tier": 3
   },
   {
-   "id": "a01e02239da0a38ee49f2989916454516c49e83e",
-   "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-   "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+   "id": "849b423196d125cc3aaed178ce976945d3094cba",
+   "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+   "url": "https://huggingface.co/blog/reflection-beam",
    "source": "Hugging Face Blog",
    "org": [],
    "topic": "ai",
    "tldr": "",
-   "published": "2026-10-15T20:34:01.000Z",
+   "published": "2026-10-16T00:00:00.000Z",
    "dupes": 1,
    "score": 0.264,
-   "tier": 3
-  },
-  {
-   "id": "e3c36d4422c6129b6e7c327848f615768d48cad8",
-   "title": "Apertus 1.5 Release Notes",
-   "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-10-15T09:08:45.000Z",
-   "dupes": 1,
-   "score": 0.264,
-   "tier": 3
-  },
-  {
-   "id": "9d251ac6836a600d8fed2294d5c3f8928f6177ed",
-   "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-   "url": "https://huggingface.co/blog/meta-muse-spark-open",
-   "source": "Hugging Face Blog",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-10-15T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.263,
-   "tier": 3
-  },
-  {
-   "id": "3733c75a28bf26df988281155bac3e5cdfdea7ba",
-   "title": "Welcome FLUX.3 Image Klein in Diffusers",
-   "url": "https://huggingface.co/blog/flux-3",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-10-15T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.263,
-   "tier": 3
-  },
-  {
-   "id": "475b3a1f72c16107ba5ee5474d435ba5950e7cd2",
-   "title": "The US orders every civilian agency to rip out DeepSeek, even tools built on it",
-   "url": "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party",
-   "source": "HN · DeepSeek",
-   "org": [
-    "deepseek"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-10-19T18:41:10.000Z",
-   "dupes": 1,
-   "score": 0.263,
-   "tier": 3
-  },
-  {
-   "id": "d7f4f48324ba74158d1a73c8b397d97e7125a944",
-   "title": "More Than Three Quarters of Small Business Owners Say AI Makes Them More Productive, But Most Need More Guidance",
-   "url": "https://about.fb.com/news/2026/10/more-than-three-quarters-of-small-business-owners-say-ai-makes-them-more-productive-but-most-need-more-guidance",
-   "source": "Meta Newsroom",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "New Meta research across nine APAC markets shows how AI is helping small businesses grow, compete with larger rivals and reach customers across borders.  The post More Than Three Quarters of Small Business Owners Say AI…",
-   "published": "2026-10-15T00:50:50.000Z",
-   "dupes": 1,
-   "score": 0.251,
    "tier": 3
   }
  ]
