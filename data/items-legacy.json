@@ -1,6 +1,127 @@
 {
- "generated": "2026-10-23T15:17:52.937Z",
+ "generated": "2026-10-23T19:24:27.862Z",
  "items": [
+  {
+   "id": "1fd8476b4493a52be8d2b181f06e7c6ec459ff85",
+   "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+   "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+   "source": "Hacker News",
+   "org": [
+    "moonshot"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-10-23T16:59:08.000Z",
+   "dupes": 3,
+   "score": 0.669,
+   "tier": 1
+  },
+  {
+   "id": "298c8de07d18f423dad39eb2358f85464fd4cd53",
+   "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+   "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+   "published": "2026-10-23T17:00:00.000Z",
+   "dupes": 1,
+   "score": 0.619,
+   "tier": 2
+  },
+  {
+   "id": "057a86be6882ac7b2aa5e3b14e32fb06870560bf",
+   "title": "Bringing foundational models to the front lines of TB screening",
+   "url": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening",
+   "source": "Google Research",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Generative AI",
+   "published": "2026-10-23T18:51:33.000Z",
+   "dupes": 1,
+   "score": 0.618,
+   "tier": 2
+  },
+  {
+   "id": "fe92d46aed828cbfb0c06046466b19c12899ee78",
+   "title": "Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line",
+   "url": "https://artificialanalysis.ai/models/kimi-k3-1-pro",
+   "source": "Hacker News",
+   "org": [
+    "moonshot"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-10-23T18:24:54.000Z",
+   "dupes": 2,
+   "score": 0.601,
+   "tier": 2
+  },
+  {
+   "id": "d5dfb55b012918e741dc0e52d8cd3d00a65167f2",
+   "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+   "url": "https://huggingface.co/blog/allenai/litpivot",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-10-23T16:15:50.000Z",
+   "badges": [
+    "research"
+   ],
+   "dupes": 1,
+   "score": 0.573,
+   "tier": 2
+  },
+  {
+   "id": "48e2274fdf2ba9fe48db533ddecc410e5cc41b05",
+   "title": "Securing our frontier model training environment",
+   "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+   "published": "2026-10-23T10:00:00.000Z",
+   "dupes": 1,
+   "score": 0.544,
+   "tier": 2
+  },
+  {
+   "id": "55f38e2b0de99dcec02bd5e181d20522fbd198b1",
+   "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+   "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+   "source": "The Verge AI",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features.  The update, spotted by Android Authority, adds an…",
+   "published": "2026-10-23T16:52:55.000Z",
+   "dupes": 1,
+   "score": 0.518,
+   "tier": 2
+  },
+  {
+   "id": "3085ac1896556d68f51a1f768092f82a47052511",
+   "title": "Gemma-4-26B-A4B with 39-69% less thinking at same accuracy",
+   "url": "https://bottlecapai.com/post/thinkingcap-gemma-4-26b",
+   "source": "Hacker News",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-10-23T14:43:02.000Z",
+   "dupes": 1,
+   "score": 0.496,
+   "tier": 2
+  },
   {
    "id": "d34a3f37bdd35ae5bfe0e93e40e73e39984f96a0",
    "title": "Meta delays new business terms after publisher pushback on AI scraping",
@@ -13,23 +134,7 @@
    "tldr": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company.",
    "published": "2026-10-23T14:47:41.000Z",
    "dupes": 1,
-   "score": 0.543,
-   "tier": 1
-  },
-  {
-   "id": "1f9eddacbb7de266edc28129f2f892244a472012",
-   "title": "Swedish government offices to ban ChatGPT and Claude",
-   "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
-   "source": "Hacker News",
-   "org": [
-    "anthropic",
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-10-23T11:39:54.000Z",
-   "dupes": 1,
-   "score": 0.52,
+   "score": 0.493,
    "tier": 2
   },
   {
@@ -44,7 +149,7 @@
    "tldr": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
    "published": "2026-10-23T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.494,
+   "score": 0.466,
    "tier": 2
   },
   {
@@ -59,7 +164,7 @@
    "tldr": "Kazakhstan’s AI ecosystem is moving from infrastructure plans to deployment.  The shift is visible across the full AI stack — from infrastructure to models to applications.",
    "published": "2026-10-23T02:00:13.000Z",
    "dupes": 1,
-   "score": 0.485,
+   "score": 0.454,
    "tier": 2
   },
   {
@@ -74,7 +179,7 @@
    "tldr": "Fast, focused, low-cost decisions for any application.",
    "published": "2026-10-22T19:00:00.000Z",
    "dupes": 1,
-   "score": 0.46,
+   "score": 0.437,
    "tier": 2
   },
   {
@@ -87,7 +192,7 @@
    "tldr": "",
    "published": "2026-10-23T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.457,
+   "score": 0.428,
    "tier": 2
   },
   {
@@ -100,8 +205,8 @@
    "tldr": "",
    "published": "2026-10-22T22:24:34.000Z",
    "dupes": 1,
-   "score": 0.445,
-   "tier": 2
+   "score": 0.418,
+   "tier": 3
   },
   {
    "id": "655df0fb22ace8918dccb9cedab8a4d53b00e1dc",
@@ -115,8 +220,8 @@
    "tldr": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
    "published": "2026-10-22T14:30:24.000Z",
    "dupes": 1,
-   "score": 0.435,
-   "tier": 2
+   "score": 0.415,
+   "tier": 3
   },
   {
    "id": "99c8819be3a739485364a927f9ab64f218e5c879",
@@ -130,36 +235,8 @@
    "tldr": "Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive.  It brings together telemetry from infrastructure and AI workloads, then applies…",
    "published": "2026-10-22T15:00:02.000Z",
    "dupes": 1,
-   "score": 0.412,
-   "tier": 2
-  },
-  {
-   "id": "eaa0ebff7daf626e894547955a582698a71c5f3d",
-   "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-   "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-10-22T16:11:31.000Z",
-   "dupes": 1,
-   "score": 0.406,
-   "tier": 2
-  },
-  {
-   "id": "d5083253508c23ff36fde191cabb240aac305d0d",
-   "title": "Flint-interactive: A language for creating interactive data visualizations",
-   "url": "https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations",
-   "source": "Microsoft Research",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "Flint-interactive gives AI agents a language for creating interactive visualizations.  Click a chart, filter data, highlight related content, and explore beyond the view the author originally chose.",
-   "published": "2026-10-22T16:00:00.000Z",
-   "dupes": 1,
-   "score": 0.405,
-   "tier": 2
+   "score": 0.392,
+   "tier": 3
   },
   {
    "id": "1703863d36a80969a8e5e649175d15f56d2f8558",
@@ -173,8 +250,23 @@
    "tldr": "Lock in and load out this GFN Thursday.  Call of Duty: Modern Warfare 4 arrives on GeForce NOW at launch, bringing a new campaign, multiplayer action and DMZ, high-stakes extraction mode to supported devices.",
    "published": "2026-10-22T13:00:20.000Z",
    "dupes": 1,
-   "score": 0.402,
-   "tier": 2
+   "score": 0.384,
+   "tier": 3
+  },
+  {
+   "id": "d5083253508c23ff36fde191cabb240aac305d0d",
+   "title": "Flint-interactive: A language for creating interactive data visualizations",
+   "url": "https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations",
+   "source": "Microsoft Research",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "Flint-interactive gives AI agents a language for creating interactive visualizations.  Click a chart, filter data, highlight related content, and explore beyond the view the author originally chose.",
+   "published": "2026-10-22T16:00:00.000Z",
+   "dupes": 1,
+   "score": 0.384,
+   "tier": 3
   },
   {
    "id": "63c31ca523f91ccfb067ba69d79f874951382164",
@@ -188,22 +280,7 @@
    "tldr": "What forward deployed engineering means at OpenAI",
    "published": "2026-10-22T06:00:00.000Z",
    "dupes": 1,
-   "score": 0.397,
-   "tier": 2
-  },
-  {
-   "id": "ba6fa07d677a822106bce5984f77463673ff3072",
-   "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-   "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
-   "published": "2026-10-22T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.377,
+   "score": 0.383,
    "tier": 3
   },
   {
@@ -225,18 +302,18 @@
    "tier": 3
   },
   {
-   "id": "29a87826b845358b4bac1374829cefcd55b6e106",
-   "title": "Meta’s AI could still scrape news sites, legal experts say",
-   "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
-   "source": "The Verge AI",
+   "id": "ba6fa07d677a822106bce5984f77463673ff3072",
+   "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+   "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+   "source": "OpenAI Blog",
    "org": [
-    "meta"
+    "openai"
    ],
    "topic": "ai",
-   "tldr": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns.",
-   "published": "2026-10-22T20:32:05.000Z",
+   "tldr": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+   "published": "2026-10-22T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.37,
+   "score": 0.366,
    "tier": 3
   },
   {
@@ -251,22 +328,7 @@
    "tldr": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
    "published": "2026-10-21T21:00:00.000Z",
    "dupes": 1,
-   "score": 0.369,
-   "tier": 3
-  },
-  {
-   "id": "afeec198fbf511f78421872165f1c10686134b27",
-   "title": "Meta turns Muse sharing back on",
-   "url": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
-   "source": "The Verge AI",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find.  The researchers said they had been able to find Muse pages like a marketing company's…",
-   "published": "2026-10-22T20:24:04.000Z",
-   "dupes": 1,
-   "score": 0.369,
+   "score": 0.359,
    "tier": 3
   },
   {
@@ -281,7 +343,7 @@
    "tldr": "At GTC Berlin, banks, payment companies and financial data providers are showing what production-scale intelligence looks like — built on NVIDIA accelerated computing, powered by open weight models and running on their…",
    "published": "2026-10-22T05:00:56.000Z",
    "dupes": 1,
-   "score": 0.368,
+   "score": 0.355,
    "tier": 3
   },
   {
@@ -296,7 +358,7 @@
    "tldr": "To help developers rapidly build world models, which help physical AI systems understand and simulate the real world, NVIDIA has expanded the Cosmos platform with new training tools, simulation checkpoints and Cosmos…",
    "published": "2026-10-22T05:00:27.000Z",
    "dupes": 1,
-   "score": 0.368,
+   "score": 0.355,
    "tier": 3
   },
   {
@@ -311,7 +373,7 @@
    "tldr": "Companies around the world are building on the NVIDIA DSX AI Factory Platform to plan, simulate and run the grid and the AI factory as one system, from the substation to the rack.  Their adoption of the platform…",
    "published": "2026-10-22T05:00:25.000Z",
    "dupes": 1,
-   "score": 0.368,
+   "score": 0.355,
    "tier": 3
   },
   {
@@ -326,7 +388,7 @@
    "tldr": "European retailers are using open models and physical intelligence across use cases — from a commerce platform cutting inference costs by 90% to to a fulfillment center where collaboration of different robotic fleets is…",
    "published": "2026-10-22T05:00:23.000Z",
    "dupes": 1,
-   "score": 0.368,
+   "score": 0.355,
    "tier": 3
   },
   {
@@ -341,7 +403,7 @@
    "tldr": "Weather forecasts shape more than daily plans; timely weather information is crucial for energy producers, insurers and transport operators to plan around changing conditions.  A global forecast can show a storm taking…",
    "published": "2026-10-22T05:00:19.000Z",
    "dupes": 1,
-   "score": 0.368,
+   "score": 0.355,
    "tier": 3
   },
   {
@@ -356,7 +418,7 @@
    "tldr": "Governments need modern solutions to serve the public while keeping sensitive information under their control.  Open models provide a path forward, letting governments evaluate them, adapt them to local languages and…",
    "published": "2026-10-22T05:00:02.000Z",
    "dupes": 1,
-   "score": 0.368,
+   "score": 0.355,
    "tier": 3
   },
   {
@@ -369,37 +431,7 @@
    "tldr": "",
    "published": "2026-10-22T07:51:31.000Z",
    "dupes": 1,
-   "score": 0.367,
-   "tier": 3
-  },
-  {
-   "id": "4ab93569e260b2b0a16714b594221da5ccc8e4ab",
-   "title": "How AT&T is rethinking in-house legal work with OpenAI",
-   "url": "https://openai.com/index/att-legal",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "AT&T is working with OpenAI to make legal knowledge easier to access.  Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
-   "published": "2026-10-21T17:00:00.000Z",
-   "dupes": 1,
-   "score": 0.359,
-   "tier": 3
-  },
-  {
-   "id": "2c1b17b371894ee58bcd780b6237766519238d28",
-   "title": "In Meta’s version of the future, I’ll have my Muse call your Muse",
-   "url": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
-   "source": "The Verge AI",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents for us.  Are humans ready for this very…",
-   "published": "2026-10-22T18:15:00.000Z",
-   "dupes": 1,
-   "score": 0.356,
+   "score": 0.352,
    "tier": 3
   },
   {
@@ -414,22 +446,52 @@
    "tldr": "",
    "published": "2026-10-20T09:08:54.000Z",
    "dupes": 1,
-   "score": 0.355,
+   "score": 0.352,
    "tier": 3
   },
   {
-   "id": "98a7f3683d8fe8db9372829be9ecc7fa11fd949a",
-   "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
-   "source": "The Verge AI",
+   "id": "4ab93569e260b2b0a16714b594221da5ccc8e4ab",
+   "title": "How AT&T is rethinking in-house legal work with OpenAI",
+   "url": "https://openai.com/index/att-legal",
+   "source": "OpenAI Blog",
    "org": [
-    "microsoft"
+    "openai"
    ],
    "topic": "ai",
-   "tldr": "For years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve lives.  Now \"it is finally here,\" Microsoft AI CEO Mustafa Suleyman tells The Verge.",
-   "published": "2026-10-22T18:00:00.000Z",
+   "tldr": "AT&T is working with OpenAI to make legal knowledge easier to access.  Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+   "published": "2026-10-21T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.354,
+   "score": 0.35,
+   "tier": 3
+  },
+  {
+   "id": "29a87826b845358b4bac1374829cefcd55b6e106",
+   "title": "Meta’s AI could still scrape news sites, legal experts say",
+   "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+   "source": "The Verge AI",
+   "org": [
+    "meta"
+   ],
+   "topic": "ai",
+   "tldr": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns.",
+   "published": "2026-10-22T20:32:05.000Z",
+   "dupes": 1,
+   "score": 0.345,
+   "tier": 3
+  },
+  {
+   "id": "afeec198fbf511f78421872165f1c10686134b27",
+   "title": "Meta turns Muse sharing back on",
+   "url": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+   "source": "The Verge AI",
+   "org": [
+    "meta"
+   ],
+   "topic": "ai",
+   "tldr": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find.  The researchers said they had been able to find Muse pages like a marketing company's…",
+   "published": "2026-10-22T20:24:04.000Z",
+   "dupes": 1,
+   "score": 0.344,
    "tier": 3
   },
   {
@@ -444,7 +506,7 @@
    "tldr": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
    "published": "2026-10-21T13:00:00.000Z",
    "dupes": 1,
-   "score": 0.35,
+   "score": 0.343,
    "tier": 3
   },
   {
@@ -460,7 +522,7 @@
    "tldr": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
    "published": "2026-10-21T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.349,
+   "score": 0.341,
    "tier": 3
   },
   {
@@ -475,7 +537,7 @@
    "tldr": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
    "published": "2026-10-21T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.34,
+   "score": 0.334,
    "tier": 3
   },
   {
@@ -490,7 +552,22 @@
    "tldr": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
    "published": "2026-10-21T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.34,
+   "score": 0.334,
+   "tier": 3
+  },
+  {
+   "id": "2c1b17b371894ee58bcd780b6237766519238d28",
+   "title": "In Meta’s version of the future, I’ll have my Muse call your Muse",
+   "url": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
+   "source": "The Verge AI",
+   "org": [
+    "meta"
+   ],
+   "topic": "ai",
+   "tldr": "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents for us.  Are humans ready for this very…",
+   "published": "2026-10-22T18:15:00.000Z",
+   "dupes": 1,
+   "score": 0.333,
    "tier": 3
   },
   {
@@ -505,22 +582,7 @@
    "tldr": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
    "published": "2026-10-21T04:50:00.000Z",
    "dupes": 1,
-   "score": 0.337,
-   "tier": 3
-  },
-  {
-   "id": "8477c3daca9c4e080f064b3af9838ce53e6065c2",
-   "title": "Empowering frontline maternal care with AI-assisted ultrasound",
-   "url": "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound",
-   "source": "Google Research",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Health & Bioscience",
-   "published": "2026-10-21T16:23:53.000Z",
-   "dupes": 1,
-   "score": 0.333,
+   "score": 0.331,
    "tier": 3
   },
   {
@@ -535,7 +597,7 @@
    "tldr": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review.  Its developers use Codex to build faster and improve code quality.",
    "published": "2026-10-21T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.331,
+   "score": 0.326,
    "tier": 3
   },
   {
@@ -550,7 +612,22 @@
    "tldr": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
    "published": "2026-10-21T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.331,
+   "score": 0.326,
+   "tier": 3
+  },
+  {
+   "id": "8477c3daca9c4e080f064b3af9838ce53e6065c2",
+   "title": "Empowering frontline maternal care with AI-assisted ultrasound",
+   "url": "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound",
+   "source": "Google Research",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Health & Bioscience",
+   "published": "2026-10-21T16:23:53.000Z",
+   "dupes": 1,
+   "score": 0.324,
    "tier": 3
   },
   {
@@ -565,20 +642,22 @@
    "tldr": "",
    "published": "2026-10-21T18:26:30.000Z",
    "dupes": 1,
-   "score": 0.325,
+   "score": 0.316,
    "tier": 3
   },
   {
-   "id": "354f89a6c7dbf10c9b4005276656d6e23bc0b97a",
-   "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-   "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-   "source": "Hugging Face Blog",
-   "org": [],
+   "id": "b3fcb2e42d321123382678ef1b3ee803b99778a9",
+   "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+   "url": "https://openai.com/index/ted-taylor-restaurant",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
    "topic": "ai",
-   "tldr": "",
-   "published": "2026-10-21T17:35:36.000Z",
+   "tldr": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+   "published": "2026-10-20T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.323,
+   "score": 0.315,
    "tier": 3
   },
   {
@@ -593,7 +672,7 @@
    "tldr": "At GTC Berlin, NVIDIA is showcasing its full lineup of local AI hardware.  RTX Spark, which launched last week, powers personal agents on Windows PCs; DGX Spark supports developers building and scaling applications on…",
    "published": "2026-10-21T10:50:37.000Z",
    "dupes": 1,
-   "score": 0.321,
+   "score": 0.315,
    "tier": 3
   },
   {
@@ -609,168 +688,7 @@
    "tldr": "General availability of the instances is coming next month, with planned expansion of availability to Europe — bringing an integrated platform for training, inference and large-scale reinforcement learning to cloud…",
    "published": "2026-10-21T10:45:17.000Z",
    "dupes": 1,
-   "score": 0.321,
-   "tier": 3
-  },
-  {
-   "id": "3df8ce2aed7d825db7c8c385718427fde6ba9a14",
-   "title": "NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents",
-   "url": "https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Demand from AI-natives is pulling the European AI cloud ecosystem forward faster than ever.  Developers need compute closer to their data, open models they can customize and serve at scale, and full-stack infrastructure…",
-   "published": "2026-10-21T10:30:41.000Z",
-   "dupes": 1,
-   "score": 0.321,
-   "tier": 3
-  },
-  {
-   "id": "d290a28d44092657a09cf769034f03e91c107c61",
-   "title": "Europe’s Industrial Leaders Reinvent Engineering and Manufacturing With NVIDIA",
-   "url": "https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "To increase productivity, accelerate innovation and create new opportunities for economic growth, Europe’s industrial leaders are tapping NVIDIA CUDA-X and Omniverse libraries, as well as NVIDIA Cosmos and Nemotron open…",
-   "published": "2026-10-21T10:30:40.000Z",
-   "dupes": 1,
-   "score": 0.321,
-   "tier": 3
-  },
-  {
-   "id": "147a52922e17021ca82219713c3e040e4238c5d0",
-   "title": "NVIDIA cuDSS Now Generally Available to Accelerate Engineering and Scientific Simulations",
-   "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "NVIDIA cuDSS, launched today in general availability, is an NVIDIA CUDA-X library that shifts a critical part of engineering and scientific simulations onto GPUs.  Complex engineering feats — from advanced chips to…",
-   "published": "2026-10-21T10:30:25.000Z",
-   "dupes": 1,
-   "score": 0.321,
-   "tier": 3
-  },
-  {
-   "id": "82603c5be23035c0bbded9581aeedfcfd7336bac",
-   "title": "NVIDIA Confidential Computing Expands, Enabling Frontier Model Builders to Securely Scale Across Global Infrastructure",
-   "url": "https://blogs.nvidia.com/blog/confidential-computing-model-builders-infrastructure",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "NVIDIA builds tools to enable safe agents across the stack.  The NVIDIA OpenShell Reference Architecture, announced today, is part of NVIDIA’s growing portfolio of technologies that enables organizations to safely…",
-   "published": "2026-10-21T10:30:02.000Z",
-   "dupes": 1,
-   "score": 0.321,
-   "tier": 3
-  },
-  {
-   "id": "cc5dc25c23d0228def48b8f822203654dcb07135",
-   "title": "NVIDIA Agent Toolkit Expands, Grounding Enterprise Agents in Company Data",
-   "url": "https://blogs.nvidia.com/blog/enterprise-platforms-agent-toolkit",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Agents are only as useful as what they know, and only as trustworthy as the boundaries they run within.",
-   "published": "2026-10-21T10:10:01.000Z",
-   "dupes": 1,
-   "score": 0.32,
-   "tier": 3
-  },
-  {
-   "id": "140f65345f1e83c4c3f3baa7417168f99df667dd",
-   "title": "NVIDIA Open Models Advance Europe’s Sovereign Intelligence Across Industries",
-   "url": "https://blogs.nvidia.com/blog/open-models-europe-industry",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "NVIDIA is expanding its family of open models across language, robotics, biology, and quantum computing, giving developers, researchers and enterprises what they need to build applications tailored to local languages…",
-   "published": "2026-10-21T10:00:07.000Z",
-   "dupes": 1,
-   "score": 0.32,
-   "tier": 3
-  },
-  {
-   "id": "77c10bd5f145a8aaca651c6978b7d0c6ff562d4e",
-   "title": "GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang’s Keynote",
-   "url": "https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Founded in a tent near the Berlin Wall in 1980, the Tempodrom moved several times before settling near Anhalter Bahnhof in 2001.  Its permanent home has since hosted concerts, galas and political events.",
-   "published": "2026-10-21T09:30:16.000Z",
-   "dupes": 1,
-   "score": 0.319,
-   "tier": 3
-  },
-  {
-   "id": "5deb86848ff9874f47a85988a336e928599921ba",
-   "title": "Solving a 31-year-old grand challenge in mathematics – the KLS conjecture",
-   "url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture",
-   "source": "Microsoft Research",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "For decades, a fundamental question about the difficulty of computing in high-dimensional spaces has resisted proof.  New research resolves this question, removing a major theoretical obstacle to understanding the…",
-   "published": "2026-10-21T16:00:00.000Z",
-   "dupes": 1,
-   "score": 0.319,
-   "tier": 3
-  },
-  {
-   "id": "f9b499debdda31c09e3233a9bc0b2b59d167a0bd",
-   "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-   "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-10-21T16:04:43.000Z",
-   "dupes": 1,
-   "score": 0.319,
-   "tier": 3
-  },
-  {
-   "id": "b3fcb2e42d321123382678ef1b3ee803b99778a9",
-   "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-   "url": "https://openai.com/index/ted-taylor-restaurant",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
-   "published": "2026-10-20T10:00:00.000Z",
-   "dupes": 1,
-   "score": 0.318,
-   "tier": 3
-  },
-  {
-   "id": "9b35c0bfb2f0e3cd6f0b40f1544c7158083b755d",
-   "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-   "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-10-21T14:58:18.000Z",
-   "dupes": 1,
-   "score": 0.317,
+   "score": 0.315,
    "tier": 3
   },
   {
@@ -785,7 +703,153 @@
    "tldr": "1 Sol.",
    "published": "2026-10-20T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.316,
+   "score": 0.314,
+   "tier": 3
+  },
+  {
+   "id": "3df8ce2aed7d825db7c8c385718427fde6ba9a14",
+   "title": "NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents",
+   "url": "https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Demand from AI-natives is pulling the European AI cloud ecosystem forward faster than ever.  Developers need compute closer to their data, open models they can customize and serve at scale, and full-stack infrastructure…",
+   "published": "2026-10-21T10:30:41.000Z",
+   "dupes": 1,
+   "score": 0.314,
+   "tier": 3
+  },
+  {
+   "id": "d290a28d44092657a09cf769034f03e91c107c61",
+   "title": "Europe’s Industrial Leaders Reinvent Engineering and Manufacturing With NVIDIA",
+   "url": "https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "To increase productivity, accelerate innovation and create new opportunities for economic growth, Europe’s industrial leaders are tapping NVIDIA CUDA-X and Omniverse libraries, as well as NVIDIA Cosmos and Nemotron open…",
+   "published": "2026-10-21T10:30:40.000Z",
+   "dupes": 1,
+   "score": 0.314,
+   "tier": 3
+  },
+  {
+   "id": "147a52922e17021ca82219713c3e040e4238c5d0",
+   "title": "NVIDIA cuDSS Now Generally Available to Accelerate Engineering and Scientific Simulations",
+   "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "NVIDIA cuDSS, launched today in general availability, is an NVIDIA CUDA-X library that shifts a critical part of engineering and scientific simulations onto GPUs.  Complex engineering feats — from advanced chips to…",
+   "published": "2026-10-21T10:30:25.000Z",
+   "dupes": 1,
+   "score": 0.314,
+   "tier": 3
+  },
+  {
+   "id": "82603c5be23035c0bbded9581aeedfcfd7336bac",
+   "title": "NVIDIA Confidential Computing Expands, Enabling Frontier Model Builders to Securely Scale Across Global Infrastructure",
+   "url": "https://blogs.nvidia.com/blog/confidential-computing-model-builders-infrastructure",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "NVIDIA builds tools to enable safe agents across the stack.  The NVIDIA OpenShell Reference Architecture, announced today, is part of NVIDIA’s growing portfolio of technologies that enables organizations to safely…",
+   "published": "2026-10-21T10:30:02.000Z",
+   "dupes": 1,
+   "score": 0.314,
+   "tier": 3
+  },
+  {
+   "id": "cc5dc25c23d0228def48b8f822203654dcb07135",
+   "title": "NVIDIA Agent Toolkit Expands, Grounding Enterprise Agents in Company Data",
+   "url": "https://blogs.nvidia.com/blog/enterprise-platforms-agent-toolkit",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Agents are only as useful as what they know, and only as trustworthy as the boundaries they run within.",
+   "published": "2026-10-21T10:10:01.000Z",
+   "dupes": 1,
+   "score": 0.314,
+   "tier": 3
+  },
+  {
+   "id": "354f89a6c7dbf10c9b4005276656d6e23bc0b97a",
+   "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+   "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-10-21T17:35:36.000Z",
+   "dupes": 1,
+   "score": 0.314,
+   "tier": 3
+  },
+  {
+   "id": "140f65345f1e83c4c3f3baa7417168f99df667dd",
+   "title": "NVIDIA Open Models Advance Europe’s Sovereign Intelligence Across Industries",
+   "url": "https://blogs.nvidia.com/blog/open-models-europe-industry",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "NVIDIA is expanding its family of open models across language, robotics, biology, and quantum computing, giving developers, researchers and enterprises what they need to build applications tailored to local languages…",
+   "published": "2026-10-21T10:00:07.000Z",
+   "dupes": 1,
+   "score": 0.313,
+   "tier": 3
+  },
+  {
+   "id": "77c10bd5f145a8aaca651c6978b7d0c6ff562d4e",
+   "title": "GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang’s Keynote",
+   "url": "https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Founded in a tent near the Berlin Wall in 1980, the Tempodrom moved several times before settling near Anhalter Bahnhof in 2001.  Its permanent home has since hosted concerts, galas and political events.",
+   "published": "2026-10-21T09:30:16.000Z",
+   "dupes": 1,
+   "score": 0.313,
+   "tier": 3
+  },
+  {
+   "id": "5deb86848ff9874f47a85988a336e928599921ba",
+   "title": "Solving a 31-year-old grand challenge in mathematics – the KLS conjecture",
+   "url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture",
+   "source": "Microsoft Research",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "For decades, a fundamental question about the difficulty of computing in high-dimensional spaces has resisted proof.  New research resolves this question, removing a major theoretical obstacle to understanding the…",
+   "published": "2026-10-21T16:00:00.000Z",
+   "dupes": 1,
+   "score": 0.311,
+   "tier": 3
+  },
+  {
+   "id": "f9b499debdda31c09e3233a9bc0b2b59d167a0bd",
+   "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+   "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-10-21T16:04:43.000Z",
+   "dupes": 1,
+   "score": 0.311,
    "tier": 3
   },
   {
@@ -800,7 +864,20 @@
    "tldr": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
    "published": "2026-10-20T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.312,
+   "score": 0.31,
+   "tier": 3
+  },
+  {
+   "id": "9b35c0bfb2f0e3cd6f0b40f1544c7158083b755d",
+   "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+   "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-10-21T14:58:18.000Z",
+   "dupes": 1,
+   "score": 0.309,
    "tier": 3
   },
   {
@@ -815,83 +892,7 @@
    "tldr": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
    "published": "2026-10-19T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.308,
-   "tier": 3
-  },
-  {
-   "id": "65442e708214c10b88da99a535be852d30396736",
-   "title": "How Itaú is building generative AI for its entire customer base",
-   "url": "https://openai.com/index/itau-generative-ai",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
-   "published": "2026-10-16T19:00:00.000Z",
-   "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
-   "id": "c875e80c9abbccf4f00aebec908e2da6797c19d5",
-   "title": "DeepSeek V4.1 Flash 1017 (Max)",
-   "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
-   "source": "HN · DeepSeek",
-   "org": [
-    "deepseek"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-10-19T04:41:46.000Z",
-   "dupes": 2,
-   "score": 0.289,
-   "tier": 3
-  },
-  {
-   "id": "88ef1e9846f173ed649551bf60ce811f29f6fbb5",
-   "title": "Called to serve: Tech, research, and positive impact",
-   "url": "https://www.microsoft.com/en-us/research/podcast/called-to-serve-tech-research-and-positive-impact-with-chris-white",
-   "source": "Microsoft Research",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "Lab Director Chris White has worked on research challenges with real-world implications—from new approaches to wartime data analysis to tools for combating human trafficking.  He talks to program manager Weishung Liu…",
-   "published": "2026-10-20T16:00:00.000Z",
-   "badges": [
-    "research"
-   ],
-   "dupes": 1,
-   "score": 0.285,
-   "tier": 3
-  },
-  {
-   "id": "081a8c34a65824f16cd4b268c46050881e65cc9a",
-   "title": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
-   "url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs",
-   "source": "Google Research",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "General Science",
-   "published": "2026-10-16T18:11:34.000Z",
-   "dupes": 1,
-   "score": 0.276,
-   "tier": 3
-  },
-  {
-   "id": "84cd8d44e9825e737133c110f0549311792b0780",
-   "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
-   "url": "https://huggingface.co/blog/hf-torchtpu",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-10-20T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.275,
+   "score": 0.307,
    "tier": 3
   }
  ]
