@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T00:55:50.591Z",
+ "generated": "2026-10-24T05:17:42.151Z",
  "digest": [
   {
    "n": 1,
@@ -17,24 +17,24 @@
   },
   {
    "n": 3,
-   "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-   "tldr": "",
-   "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-   "meta": "AI · GOOGLE"
-  },
-  {
-   "n": 4,
    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
    "tldr": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
    "meta": "AI · OPENAI"
   },
   {
-   "n": 5,
+   "n": 4,
    "title": "Bringing foundational models to the front lines of TB screening",
    "tldr": "Generative AI",
    "url": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening",
    "meta": "AI · GOOGLE"
+  },
+  {
+   "n": 5,
+   "title": "Securing our frontier model training environment",
+   "tldr": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+   "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+   "meta": "AI · OPENAI"
   }
  ]
 }
