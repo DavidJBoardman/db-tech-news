@@ -1,19 +1,19 @@
 {
- "generated": "2026-10-25T09:58:35.390Z",
+ "generated": "2026-10-25T14:08:43.660Z",
  "items": [
   {
-   "id": "f0796ab74553a7d46ad858d13ada19c2a81fdca7",
-   "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
-   "url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
-   "source": "Hacker News",
+   "id": "99c99157c7fa1579c09fe2fd456a72c0d24ddcf2",
+   "title": "Google’s AI search changes upended online publishing",
+   "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+   "source": "The Verge AI",
    "org": [
-    "meta"
+    "google"
    ],
    "topic": "ai",
-   "tldr": "",
-   "published": "2026-10-25T09:00:40.000Z",
+   "tldr": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world.  For more about AI's impact on the web, follow Emma Roth.",
+   "published": "2026-10-25T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.542,
+   "score": 0.522,
    "tier": 1
   },
   {
@@ -28,20 +28,7 @@
    "tldr": "",
    "published": "2026-10-23T17:10:27.000Z",
    "dupes": 2,
-   "score": 0.391,
-   "tier": 2
-  },
-  {
-   "id": "a2ab57efc2fc4ba7fb81e706a8f025a1348920a3",
-   "title": "Neural chip decodes interactions between brain regions",
-   "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2",
-   "source": "Hacker News",
-   "org": [],
-   "topic": "compute",
-   "tldr": "",
-   "published": "2026-10-24T15:57:17.000Z",
-   "dupes": 1,
-   "score": 0.382,
+   "score": 0.38,
    "tier": 2
   },
   {
@@ -56,7 +43,20 @@
    "tldr": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
    "published": "2026-10-23T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.372,
+   "score": 0.362,
+   "tier": 2
+  },
+  {
+   "id": "a2ab57efc2fc4ba7fb81e706a8f025a1348920a3",
+   "title": "Neural chip decodes interactions between brain regions",
+   "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2",
+   "source": "Hacker News",
+   "org": [],
+   "topic": "compute",
+   "tldr": "",
+   "published": "2026-10-24T15:57:17.000Z",
+   "dupes": 1,
+   "score": 0.356,
    "tier": 2
   },
   {
@@ -71,22 +71,7 @@
    "tldr": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
    "published": "2026-10-23T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.355,
-   "tier": 2
-  },
-  {
-   "id": "8acda1e9f09f44481907bcbab7330308abce9b0b",
-   "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
-   "url": "https://github.com/Zagitta/gpu-unlock",
-   "source": "Hacker News",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "",
-   "published": "2026-10-24T09:58:27.000Z",
-   "dupes": 1,
-   "score": 0.355,
+   "score": 0.347,
    "tier": 2
   },
   {
@@ -101,7 +86,7 @@
    "tldr": "Generative AI",
    "published": "2026-10-23T18:51:33.000Z",
    "dupes": 1,
-   "score": 0.353,
+   "score": 0.341,
    "tier": 2
   },
   {
@@ -116,7 +101,22 @@
    "tldr": "",
    "published": "2026-10-20T09:08:54.000Z",
    "dupes": 1,
-   "score": 0.341,
+   "score": 0.34,
+   "tier": 2
+  },
+  {
+   "id": "8acda1e9f09f44481907bcbab7330308abce9b0b",
+   "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
+   "url": "https://github.com/Zagitta/gpu-unlock",
+   "source": "Hacker News",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "",
+   "published": "2026-10-24T09:58:27.000Z",
+   "dupes": 1,
+   "score": 0.336,
    "tier": 2
   },
   {
@@ -131,7 +131,37 @@
    "tldr": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
    "published": "2026-10-23T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.338,
+   "score": 0.332,
+   "tier": 2
+  },
+  {
+   "id": "27825e300358401234fc8ca55cc275b9d4171e9a",
+   "title": "Build more responsive apps with the Decisions API",
+   "url": "https://openai.com/index/decisions-api",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Fast, focused, low-cost decisions for any application.",
+   "published": "2026-10-22T19:00:00.000Z",
+   "dupes": 1,
+   "score": 0.326,
+   "tier": 2
+  },
+  {
+   "id": "655df0fb22ace8918dccb9cedab8a4d53b00e1dc",
+   "title": "Beyond tree cover: mapping the world’s forest types",
+   "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types",
+   "source": "Google DeepMind",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+   "published": "2026-10-22T14:30:24.000Z",
+   "dupes": 1,
+   "score": 0.322,
    "tier": 2
   },
   {
@@ -147,37 +177,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.333,
-   "tier": 2
-  },
-  {
-   "id": "27825e300358401234fc8ca55cc275b9d4171e9a",
-   "title": "Build more responsive apps with the Decisions API",
-   "url": "https://openai.com/index/decisions-api",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Fast, focused, low-cost decisions for any application.",
-   "published": "2026-10-22T19:00:00.000Z",
-   "dupes": 1,
-   "score": 0.331,
-   "tier": 2
-  },
-  {
-   "id": "655df0fb22ace8918dccb9cedab8a4d53b00e1dc",
-   "title": "Beyond tree cover: mapping the world’s forest types",
-   "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types",
-   "source": "Google DeepMind",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-   "published": "2026-10-22T14:30:24.000Z",
-   "dupes": 1,
-   "score": 0.326,
+   "score": 0.322,
    "tier": 2
   },
   {
@@ -192,23 +192,8 @@
    "tldr": "What forward deployed engineering means at OpenAI",
    "published": "2026-10-22T06:00:00.000Z",
    "dupes": 1,
-   "score": 0.319,
-   "tier": 2
-  },
-  {
-   "id": "822412740c4fdfe148f239e60139ce242e5a054e",
-   "title": "Kazakhstan Expands Compute for Its AI Future",
-   "url": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Kazakhstan’s AI ecosystem is moving from infrastructure plans to deployment.  The shift is visible across the full AI stack — from infrastructure to models to applications.",
-   "published": "2026-10-23T02:00:13.000Z",
-   "dupes": 1,
    "score": 0.316,
-   "tier": 3
+   "tier": 2
   },
   {
    "id": "ba6fa07d677a822106bce5984f77463673ff3072",
@@ -222,7 +207,7 @@
    "tldr": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
    "published": "2026-10-22T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.315,
+   "score": 0.313,
    "tier": 3
   },
   {
@@ -237,7 +222,7 @@
    "tldr": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
    "published": "2026-10-21T21:00:00.000Z",
    "dupes": 1,
-   "score": 0.313,
+   "score": 0.311,
    "tier": 3
   },
   {
@@ -252,20 +237,20 @@
    "tldr": "AT&T is working with OpenAI to make legal knowledge easier to access.  Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
    "published": "2026-10-21T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.311,
+   "score": 0.31,
    "tier": 3
   },
   {
-   "id": "74fcf21eca7add4a8265b1181e42f31fbfb429bc",
-   "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-   "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-   "source": "OpenAI Blog",
+   "id": "822412740c4fdfe148f239e60139ce242e5a054e",
+   "title": "Kazakhstan Expands Compute for Its AI Future",
+   "url": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem",
+   "source": "NVIDIA Blog",
    "org": [
-    "openai"
+    "nvidia"
    ],
-   "topic": "ai",
-   "tldr": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
-   "published": "2026-10-21T13:00:00.000Z",
+   "topic": "compute",
+   "tldr": "Kazakhstan’s AI ecosystem is moving from infrastructure plans to deployment.  The shift is visible across the full AI stack — from infrastructure to models to applications.",
+   "published": "2026-10-23T02:00:13.000Z",
    "dupes": 1,
    "score": 0.31,
    "tier": 3
@@ -283,7 +268,22 @@
    "tldr": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
    "published": "2026-10-21T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.309,
+   "score": 0.308,
+   "tier": 3
+  },
+  {
+   "id": "74fcf21eca7add4a8265b1181e42f31fbfb429bc",
+   "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+   "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+   "published": "2026-10-21T13:00:00.000Z",
+   "dupes": 1,
+   "score": 0.308,
    "tier": 3
   },
   {
@@ -298,7 +298,7 @@
    "tldr": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
    "published": "2026-10-21T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.308,
+   "score": 0.307,
    "tier": 3
   },
   {
@@ -313,7 +313,7 @@
    "tldr": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
    "published": "2026-10-21T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.308,
+   "score": 0.307,
    "tier": 3
   },
   {
@@ -328,7 +328,7 @@
    "tldr": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
    "published": "2026-10-21T04:50:00.000Z",
    "dupes": 1,
-   "score": 0.307,
+   "score": 0.306,
    "tier": 3
   },
   {
@@ -343,7 +343,7 @@
    "tldr": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review.  Its developers use Codex to build faster and improve code quality.",
    "published": "2026-10-21T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.306,
+   "score": 0.305,
    "tier": 3
   },
   {
@@ -358,7 +358,7 @@
    "tldr": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
    "published": "2026-10-21T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.306,
+   "score": 0.305,
    "tier": 3
   },
   {
@@ -407,21 +407,6 @@
    "tier": 3
   },
   {
-   "id": "99c8819be3a739485364a927f9ab64f218e5c879",
-   "title": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
-   "url": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive.  It brings together telemetry from infrastructure and AI workloads, then applies…",
-   "published": "2026-10-22T15:00:02.000Z",
-   "dupes": 1,
-   "score": 0.302,
-   "tier": 3
-  },
-  {
    "id": "7a364f356aab49466020015082ef4122a7394f52",
    "title": "Advancing coding in low‑resource programming languages",
    "url": "https://openai.com/index/low-resource-programming-languages",
@@ -437,6 +422,21 @@
    "tier": 3
   },
   {
+   "id": "99c8819be3a739485364a927f9ab64f218e5c879",
+   "title": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
+   "url": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive.  It brings together telemetry from infrastructure and AI workloads, then applies…",
+   "published": "2026-10-22T15:00:02.000Z",
+   "dupes": 1,
+   "score": 0.298,
+   "tier": 3
+  },
+  {
    "id": "1703863d36a80969a8e5e649175d15f56d2f8558",
    "title": "Cloud Deployment Incoming: ‘Call of Duty: Modern Warfare 4’ Arrives on GeForce NOW",
    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4",
@@ -448,7 +448,7 @@
    "tldr": "Lock in and load out this GFN Thursday.  Call of Duty: Modern Warfare 4 arrives on GeForce NOW at launch, bringing a new campaign, multiplayer action and DMZ, high-stakes extraction mode to supported devices.",
    "published": "2026-10-22T13:00:20.000Z",
    "dupes": 1,
-   "score": 0.3,
+   "score": 0.296,
    "tier": 3
   },
   {
@@ -461,7 +461,7 @@
    "tldr": "",
    "published": "2026-10-23T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.3,
+   "score": 0.294,
    "tier": 3
   },
   {
@@ -474,7 +474,7 @@
    "tldr": "",
    "published": "2026-10-22T22:24:34.000Z",
    "dupes": 1,
-   "score": 0.298,
+   "score": 0.293,
    "tier": 3
   },
   {
@@ -489,7 +489,7 @@
    "tldr": "At GTC Berlin, banks, payment companies and financial data providers are showing what production-scale intelligence looks like — built on NVIDIA accelerated computing, powered by open weight models and running on their…",
    "published": "2026-10-22T05:00:56.000Z",
    "dupes": 1,
-   "score": 0.293,
+   "score": 0.29,
    "tier": 3
   },
   {
@@ -504,7 +504,7 @@
    "tldr": "To help developers rapidly build world models, which help physical AI systems understand and simulate the real world, NVIDIA has expanded the Cosmos platform with new training tools, simulation checkpoints and Cosmos…",
    "published": "2026-10-22T05:00:27.000Z",
    "dupes": 1,
-   "score": 0.293,
+   "score": 0.29,
    "tier": 3
   },
   {
@@ -519,7 +519,7 @@
    "tldr": "Companies around the world are building on the NVIDIA DSX AI Factory Platform to plan, simulate and run the grid and the AI factory as one system, from the substation to the rack.  Their adoption of the platform…",
    "published": "2026-10-22T05:00:25.000Z",
    "dupes": 1,
-   "score": 0.293,
+   "score": 0.29,
    "tier": 3
   },
   {
@@ -534,7 +534,7 @@
    "tldr": "European retailers are using open models and physical intelligence across use cases — from a commerce platform cutting inference costs by 90% to to a fulfillment center where collaboration of different robotic fleets is…",
    "published": "2026-10-22T05:00:23.000Z",
    "dupes": 1,
-   "score": 0.293,
+   "score": 0.29,
    "tier": 3
   },
   {
@@ -549,7 +549,7 @@
    "tldr": "Weather forecasts shape more than daily plans; timely weather information is crucial for energy producers, insurers and transport operators to plan around changing conditions.  A global forecast can show a storm taking…",
    "published": "2026-10-22T05:00:19.000Z",
    "dupes": 1,
-   "score": 0.293,
+   "score": 0.29,
    "tier": 3
   },
   {
@@ -564,7 +564,7 @@
    "tldr": "Governments need modern solutions to serve the public while keeping sensitive information under their control.  Open models provide a path forward, letting governments evaluate them, adapt them to local languages and…",
    "published": "2026-10-22T05:00:02.000Z",
    "dupes": 1,
-   "score": 0.293,
+   "score": 0.29,
    "tier": 3
   },
   {
@@ -579,7 +579,7 @@
    "tldr": "Flint-interactive gives AI agents a language for creating interactive visualizations.  Click a chart, filter data, highlight related content, and explore beyond the view the author originally chose.",
    "published": "2026-10-22T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.29,
+   "score": 0.286,
    "tier": 3
   },
   {
@@ -594,22 +594,7 @@
    "tldr": "Health & Bioscience",
    "published": "2026-10-21T16:23:53.000Z",
    "dupes": 1,
-   "score": 0.286,
-   "tier": 3
-  },
-  {
-   "id": "f9113fa394af665d9a884ec84e1384cce3233098",
-   "title": "OpenAI now trains its frontier AI models with no internet access",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents.",
-   "published": "2026-10-23T21:11:07.000Z",
-   "dupes": 1,
-   "score": 0.285,
+   "score": 0.284,
    "tier": 3
   },
   {
@@ -624,7 +609,7 @@
    "tldr": "At GTC Berlin, NVIDIA is showcasing its full lineup of local AI hardware.  RTX Spark, which launched last week, powers personal agents on Windows PCs; DGX Spark supports developers building and scaling applications on…",
    "published": "2026-10-21T10:50:37.000Z",
    "dupes": 1,
-   "score": 0.284,
+   "score": 0.283,
    "tier": 3
   },
   {
@@ -640,7 +625,7 @@
    "tldr": "General availability of the instances is coming next month, with planned expansion of availability to Europe — bringing an integrated platform for training, inference and large-scale reinforcement learning to cloud…",
    "published": "2026-10-21T10:45:17.000Z",
    "dupes": 1,
-   "score": 0.284,
+   "score": 0.283,
    "tier": 3
   },
   {
@@ -655,7 +640,7 @@
    "tldr": "Demand from AI-natives is pulling the European AI cloud ecosystem forward faster than ever.  Developers need compute closer to their data, open models they can customize and serve at scale, and full-stack infrastructure…",
    "published": "2026-10-21T10:30:41.000Z",
    "dupes": 1,
-   "score": 0.284,
+   "score": 0.283,
    "tier": 3
   },
   {
@@ -670,7 +655,7 @@
    "tldr": "To increase productivity, accelerate innovation and create new opportunities for economic growth, Europe’s industrial leaders are tapping NVIDIA CUDA-X and Omniverse libraries, as well as NVIDIA Cosmos and Nemotron open…",
    "published": "2026-10-21T10:30:40.000Z",
    "dupes": 1,
-   "score": 0.284,
+   "score": 0.283,
    "tier": 3
   },
   {
@@ -685,7 +670,7 @@
    "tldr": "NVIDIA cuDSS, launched today in general availability, is an NVIDIA CUDA-X library that shifts a critical part of engineering and scientific simulations onto GPUs.  Complex engineering feats — from advanced chips to…",
    "published": "2026-10-21T10:30:25.000Z",
    "dupes": 1,
-   "score": 0.284,
+   "score": 0.283,
    "tier": 3
   },
   {
@@ -700,7 +685,7 @@
    "tldr": "NVIDIA builds tools to enable safe agents across the stack.  The NVIDIA OpenShell Reference Architecture, announced today, is part of NVIDIA’s growing portfolio of technologies that enables organizations to safely…",
    "published": "2026-10-21T10:30:02.000Z",
    "dupes": 1,
-   "score": 0.284,
+   "score": 0.283,
    "tier": 3
   },
   {
@@ -715,7 +700,7 @@
    "tldr": "Agents are only as useful as what they know, and only as trustworthy as the boundaries they run within.",
    "published": "2026-10-21T10:10:01.000Z",
    "dupes": 1,
-   "score": 0.284,
+   "score": 0.282,
    "tier": 3
   },
   {
@@ -730,7 +715,7 @@
    "tldr": "NVIDIA is expanding its family of open models across language, robotics, biology, and quantum computing, giving developers, researchers and enterprises what they need to build applications tailored to local languages…",
    "published": "2026-10-21T10:00:07.000Z",
    "dupes": 1,
-   "score": 0.284,
+   "score": 0.282,
    "tier": 3
   },
   {
@@ -745,7 +730,7 @@
    "tldr": "Founded in a tent near the Berlin Wall in 1980, the Tempodrom moved several times before settling near Anhalter Bahnhof in 2001.  Its permanent home has since hosted concerts, galas and political events.",
    "published": "2026-10-21T09:30:16.000Z",
    "dupes": 1,
-   "score": 0.284,
+   "score": 0.282,
    "tier": 3
   },
   {
@@ -758,7 +743,7 @@
    "tldr": "",
    "published": "2026-10-22T07:51:31.000Z",
    "dupes": 1,
-   "score": 0.283,
+   "score": 0.28,
    "tier": 3
   },
   {
@@ -773,20 +758,7 @@
    "tldr": "",
    "published": "2026-10-21T18:26:30.000Z",
    "dupes": 1,
-   "score": 0.275,
-   "tier": 3
-  },
-  {
-   "id": "354f89a6c7dbf10c9b4005276656d6e23bc0b97a",
-   "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-   "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-10-21T17:35:36.000Z",
-   "dupes": 1,
-   "score": 0.274,
+   "score": 0.273,
    "tier": 3
   },
   {
@@ -801,7 +773,20 @@
    "tldr": "For decades, a fundamental question about the difficulty of computing in high-dimensional spaces has resisted proof.  New research resolves this question, removing a major theoretical obstacle to understanding the…",
    "published": "2026-10-21T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.273,
+   "score": 0.272,
+   "tier": 3
+  },
+  {
+   "id": "354f89a6c7dbf10c9b4005276656d6e23bc0b97a",
+   "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+   "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-10-21T17:35:36.000Z",
+   "dupes": 1,
+   "score": 0.272,
    "tier": 3
   },
   {
@@ -814,7 +799,22 @@
    "tldr": "",
    "published": "2026-10-21T16:04:43.000Z",
    "dupes": 1,
-   "score": 0.273,
+   "score": 0.272,
+   "tier": 3
+  },
+  {
+   "id": "f9113fa394af665d9a884ec84e1384cce3233098",
+   "title": "OpenAI now trains its frontier AI models with no internet access",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+   "source": "The Verge AI",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents.",
+   "published": "2026-10-23T21:11:07.000Z",
+   "dupes": 1,
+   "score": 0.272,
    "tier": 3
   },
   {
@@ -826,36 +826,6 @@
    "topic": "ai",
    "tldr": "",
    "published": "2026-10-21T14:58:18.000Z",
-   "dupes": 1,
-   "score": 0.273,
-   "tier": 3
-  },
-  {
-   "id": "55f38e2b0de99dcec02bd5e181d20522fbd198b1",
-   "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-   "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-   "source": "The Verge AI",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features.  The update, spotted by Android Authority, adds an…",
-   "published": "2026-10-23T16:52:55.000Z",
-   "dupes": 1,
-   "score": 0.272,
-   "tier": 3
-  },
-  {
-   "id": "fe92d46aed828cbfb0c06046466b19c12899ee78",
-   "title": "Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line",
-   "url": "https://artificialanalysis.ai/models/kimi-k3-1-pro",
-   "source": "HN · Kimi",
-   "org": [
-    "moonshot"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-10-23T18:24:54.000Z",
    "dupes": 1,
    "score": 0.271,
    "tier": 3
@@ -875,22 +845,46 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.267,
+   "score": 0.266,
    "tier": 3
   },
   {
-   "id": "d34a3f37bdd35ae5bfe0e93e40e73e39984f96a0",
-   "title": "Meta delays new business terms after publisher pushback on AI scraping",
-   "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
-   "source": "The Verge AI",
-   "org": [
-    "meta"
-   ],
+   "id": "84cd8d44e9825e737133c110f0549311792b0780",
+   "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+   "url": "https://huggingface.co/blog/hf-torchtpu",
+   "source": "Hugging Face Blog",
+   "org": [],
    "topic": "ai",
-   "tldr": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company.",
-   "published": "2026-10-23T14:47:41.000Z",
+   "tldr": "",
+   "published": "2026-10-20T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.266,
+   "score": 0.264,
+   "tier": 3
+  },
+  {
+   "id": "2596ff929aeef5579581b4037417df8135811f0e",
+   "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+   "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-10-20T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.264,
+   "tier": 3
+  },
+  {
+   "id": "3eb18e5ff7f2a0efc7b65bf76103cb7b1b48a111",
+   "title": "MPS in PyTorch 2.15",
+   "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-10-20T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.264,
    "tier": 3
   }
  ]

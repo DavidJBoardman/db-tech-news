@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T09:58:29.711Z",
+ "generated": "2026-10-25T14:08:30.074Z",
  "items": [
   {
    "id": "5d0e99bc982daef0467d0a6f4204c169fd73a33f",
@@ -13,7 +13,7 @@
    "tldr": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models.",
    "published": "2026-10-25T06:54:29.000Z",
    "dupes": 1,
-   "score": 0.684,
+   "score": 0.665,
    "tier": 1
   },
   {
@@ -28,7 +28,7 @@
    "tldr": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
    "published": "2026-10-23T23:05:49.000Z",
    "dupes": 2,
-   "score": 0.648,
+   "score": 0.639,
    "tier": 2
   },
   {
@@ -44,7 +44,7 @@
    "tldr": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
    "published": "2026-10-24T15:00:00.000Z",
    "dupes": 1,
-   "score": 0.637,
+   "score": 0.624,
    "tier": 2
   },
   {
@@ -59,7 +59,7 @@
    "tldr": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
    "published": "2026-10-23T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.612,
+   "score": 0.605,
    "tier": 2
   },
   {
@@ -74,7 +74,7 @@
    "tldr": "To help developers rapidly build world models, which help physical AI systems understand and simulate the real world, NVIDIA has expanded the Cosmos platform with new training tools, simulation checkpoints and Cosmos…",
    "published": "2026-10-22T05:00:27.000Z",
    "dupes": 2,
-   "score": 0.603,
+   "score": 0.6,
    "tier": 2
   },
   {
@@ -89,22 +89,7 @@
    "tldr": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
    "published": "2026-10-23T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.6,
-   "tier": 2
-  },
-  {
-   "id": "8acda1e9f09f44481907bcbab7330308abce9b0b",
-   "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
-   "url": "https://github.com/Zagitta/gpu-unlock",
-   "source": "Hacker News",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "",
-   "published": "2026-10-24T09:58:27.000Z",
-   "dupes": 1,
-   "score": 0.598,
+   "score": 0.593,
    "tier": 2
   },
   {
@@ -119,7 +104,7 @@
    "tldr": "Demand from AI-natives is pulling the European AI cloud ecosystem forward faster than ever.  Developers need compute closer to their data, open models they can customize and serve at scale, and full-stack infrastructure…",
    "published": "2026-10-21T10:30:41.000Z",
    "dupes": 2,
-   "score": 0.59,
+   "score": 0.588,
    "tier": 2
   },
   {
@@ -134,7 +119,22 @@
    "tldr": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
    "published": "2026-10-23T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.585,
+   "score": 0.579,
+   "tier": 2
+  },
+  {
+   "id": "afec56c7243a9162c78b2af407073c70051e58b1",
+   "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
+   "url": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
+   "source": "The Hacker News",
+   "org": [
+    "google"
+   ],
+   "topic": "security",
+   "tldr": "Google has updated its privacy policy to spell out that using personalized artificial intelligence (AI) features in Search or Gemini could allow the company to serve targeted ads to users based on their activity on…",
+   "published": "2026-10-24T10:36:33.000Z",
+   "dupes": 2,
+   "score": 0.578,
    "tier": 2
   },
   {
@@ -149,7 +149,7 @@
    "tldr": "Fast, focused, low-cost decisions for any application.",
    "published": "2026-10-22T19:00:00.000Z",
    "dupes": 1,
-   "score": 0.578,
+   "score": 0.574,
    "tier": 2
   },
   {
@@ -164,7 +164,7 @@
    "tldr": "Kazakhstan’s AI ecosystem is moving from infrastructure plans to deployment.  The shift is visible across the full AI stack — from infrastructure to models to applications.",
    "published": "2026-10-23T02:00:13.000Z",
    "dupes": 1,
-   "score": 0.571,
+   "score": 0.566,
    "tier": 2
   },
   {
@@ -179,22 +179,22 @@
    "tldr": "What forward deployed engineering means at OpenAI",
    "published": "2026-10-22T06:00:00.000Z",
    "dupes": 1,
-   "score": 0.565,
+   "score": 0.562,
    "tier": 2
   },
   {
-   "id": "67ab64203109c3c98ed561728e0db2c54e1b0434",
-   "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-   "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell",
-   "source": "TechCrunch",
+   "id": "8acda1e9f09f44481907bcbab7330308abce9b0b",
+   "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
+   "url": "https://github.com/Zagitta/gpu-unlock",
+   "source": "Hacker News",
    "org": [
     "nvidia"
    ],
-   "topic": "robotics",
-   "tldr": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
-   "published": "2026-10-23T21:59:19.000Z",
+   "topic": "compute",
+   "tldr": "",
+   "published": "2026-10-24T09:58:27.000Z",
    "dupes": 1,
-   "score": 0.561,
+   "score": 0.56,
    "tier": 2
   },
   {
@@ -209,22 +209,7 @@
    "tldr": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
    "published": "2026-10-22T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.56,
-   "tier": 3
-  },
-  {
-   "id": "7095808c7c8058a1df3986d3860cd5b537ff16ff",
-   "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
-   "url": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue",
-   "source": "Ars Technica",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "\"We have the mandate, we have the resources, and the support from our stakeholders.\"",
-   "published": "2026-10-23T22:48:25.000Z",
-   "dupes": 2,
-   "score": 0.559,
+   "score": 0.557,
    "tier": 3
   },
   {
@@ -239,7 +224,7 @@
    "tldr": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
    "published": "2026-10-21T21:00:00.000Z",
    "dupes": 1,
-   "score": 0.558,
+   "score": 0.555,
    "tier": 3
   },
   {
@@ -254,22 +239,22 @@
    "tldr": "Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive.  It brings together telemetry from infrastructure and AI workloads, then applies…",
    "published": "2026-10-22T15:00:02.000Z",
    "dupes": 1,
-   "score": 0.558,
+   "score": 0.554,
    "tier": 3
   },
   {
-   "id": "1703863d36a80969a8e5e649175d15f56d2f8558",
-   "title": "Cloud Deployment Incoming: ‘Call of Duty: Modern Warfare 4’ Arrives on GeForce NOW",
-   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4",
-   "source": "NVIDIA Blog",
+   "id": "99c99157c7fa1579c09fe2fd456a72c0d24ddcf2",
+   "title": "Google’s AI search changes upended online publishing",
+   "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+   "source": "The Verge AI",
    "org": [
-    "nvidia"
+    "google"
    ],
-   "topic": "compute",
-   "tldr": "Lock in and load out this GFN Thursday.  Call of Duty: Modern Warfare 4 arrives on GeForce NOW at launch, bringing a new campaign, multiplayer action and DMZ, high-stakes extraction mode to supported devices.",
-   "published": "2026-10-22T13:00:20.000Z",
+   "topic": "ai",
+   "tldr": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world.  For more about AI's impact on the web, follow Emma Roth.",
+   "published": "2026-10-25T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.556,
+   "score": 0.554,
    "tier": 3
   },
   {
@@ -284,22 +269,22 @@
    "tldr": "AT&T is working with OpenAI to make legal knowledge easier to access.  Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
    "published": "2026-10-21T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.555,
+   "score": 0.553,
    "tier": 3
   },
   {
-   "id": "74fcf21eca7add4a8265b1181e42f31fbfb429bc",
-   "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-   "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-   "source": "OpenAI Blog",
+   "id": "1703863d36a80969a8e5e649175d15f56d2f8558",
+   "title": "Cloud Deployment Incoming: ‘Call of Duty: Modern Warfare 4’ Arrives on GeForce NOW",
+   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4",
+   "source": "NVIDIA Blog",
    "org": [
-    "openai"
+    "nvidia"
    ],
-   "topic": "ai",
-   "tldr": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
-   "published": "2026-10-21T13:00:00.000Z",
+   "topic": "compute",
+   "tldr": "Lock in and load out this GFN Thursday.  Call of Duty: Modern Warfare 4 arrives on GeForce NOW at launch, bringing a new campaign, multiplayer action and DMZ, high-stakes extraction mode to supported devices.",
+   "published": "2026-10-22T13:00:20.000Z",
    "dupes": 1,
-   "score": 0.553,
+   "score": 0.552,
    "tier": 3
   },
   {
@@ -315,7 +300,7 @@
    "tldr": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
    "published": "2026-10-21T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.552,
+   "score": 0.55,
    "tier": 3
   },
   {
@@ -330,7 +315,7 @@
    "tldr": "At GTC Berlin, banks, payment companies and financial data providers are showing what production-scale intelligence looks like — built on NVIDIA accelerated computing, powered by open weight models and running on their…",
    "published": "2026-10-22T05:00:56.000Z",
    "dupes": 1,
-   "score": 0.548,
+   "score": 0.545,
    "tier": 3
   },
   {
@@ -345,7 +330,7 @@
    "tldr": "Companies around the world are building on the NVIDIA DSX AI Factory Platform to plan, simulate and run the grid and the AI factory as one system, from the substation to the rack.  Their adoption of the platform…",
    "published": "2026-10-22T05:00:25.000Z",
    "dupes": 1,
-   "score": 0.548,
+   "score": 0.545,
    "tier": 3
   },
   {
@@ -360,7 +345,7 @@
    "tldr": "European retailers are using open models and physical intelligence across use cases — from a commerce platform cutting inference costs by 90% to to a fulfillment center where collaboration of different robotic fleets is…",
    "published": "2026-10-22T05:00:23.000Z",
    "dupes": 1,
-   "score": 0.548,
+   "score": 0.545,
    "tier": 3
   },
   {
@@ -375,7 +360,22 @@
    "tldr": "Governments need modern solutions to serve the public while keeping sensitive information under their control.  Open models provide a path forward, letting governments evaluate them, adapt them to local languages and…",
    "published": "2026-10-22T05:00:02.000Z",
    "dupes": 1,
-   "score": 0.548,
+   "score": 0.545,
+   "tier": 3
+  },
+  {
+   "id": "67ab64203109c3c98ed561728e0db2c54e1b0434",
+   "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+   "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell",
+   "source": "TechCrunch",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "robotics",
+   "tldr": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
+   "published": "2026-10-23T21:59:19.000Z",
+   "dupes": 1,
+   "score": 0.54,
    "tier": 3
   },
   {
@@ -390,7 +390,7 @@
    "tldr": "At GTC Berlin, NVIDIA is showcasing its full lineup of local AI hardware.  RTX Spark, which launched last week, powers personal agents on Windows PCs; DGX Spark supports developers building and scaling applications on…",
    "published": "2026-10-21T10:50:37.000Z",
    "dupes": 1,
-   "score": 0.535,
+   "score": 0.533,
    "tier": 3
   },
   {
@@ -406,82 +406,22 @@
    "tldr": "General availability of the instances is coming next month, with planned expansion of availability to Europe — bringing an integrated platform for training, inference and large-scale reinforcement learning to cloud…",
    "published": "2026-10-21T10:45:17.000Z",
    "dupes": 1,
-   "score": 0.535,
+   "score": 0.533,
    "tier": 3
   },
   {
-   "id": "131496f35d532bcee1c2b32da31c23b4bc520bf1",
-   "title": "NASA, Partners Accelerate Lander Development for 2028 Moon Missions",
-   "url": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions",
-   "source": "NASA",
+   "id": "7095808c7c8058a1df3986d3860cd5b537ff16ff",
+   "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
+   "url": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue",
+   "source": "Ars Technica",
    "org": [
     "nasa"
    ],
    "topic": "space",
-   "tldr": "As NASA returns humans to the lunar surface and establishes a long-term presence on our closest celestial neighbor, the agency and commercial human landing system providers Blue Origin and SpaceX have streamlined the…",
-   "published": "2026-10-23T22:39:39.000Z",
-   "dupes": 1,
-   "score": 0.514,
-   "tier": 3
-  },
-  {
-   "id": "aa608aa14d01a948e8f5c09c875ac593b57fa55b",
-   "title": "NASA’s Artemis III Mission to Test Future Moon Lander Operations",
-   "url": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations",
-   "source": "NASA",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "Before astronauts return to the lunar surface, NASA will first conduct one of the most ambitious and complex test missions in the agency’s history.",
-   "published": "2026-10-23T22:37:53.000Z",
-   "dupes": 1,
-   "score": 0.514,
-   "tier": 3
-  },
-  {
-   "id": "ebc1211a339fea744a514ca03a0715cd0eaffbaf",
-   "title": "NASA’s Swift Mission Ends, Leaves Behind Scientific Bonanza",
-   "url": "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends",
-   "source": "NASA",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "NASA’s Neil Gehrels Swift Observatory has ended its science mission now that the spacecraft is orbiting less than 171 miles (275 kilometers) above Earth’s surface.  The greater atmospheric drag at this height prevents…",
-   "published": "2026-10-23T21:51:19.000Z",
-   "dupes": 1,
-   "score": 0.513,
-   "tier": 3
-  },
-  {
-   "id": "114b7cc177ca69a2ff5de39121624da02a6e5259",
-   "title": "RS-25 Engine Tests at NASA Stennis",
-   "url": "https://www.nasa.gov/image-article/rs-25-engine-tests-at-nasa-stennis",
-   "source": "NASA",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "Teams at NASA’s Stennis Space Center near Bay St.  Louis, Mississippi tested RS-25 engine No.",
-   "published": "2026-10-23T18:57:04.000Z",
-   "dupes": 1,
-   "score": 0.51,
-   "tier": 3
-  },
-  {
-   "id": "78e08d04cb6a92530117511478172e6896cbaa65",
-   "title": "NASA, Virginia Launch Power Partnership for Energy Security",
-   "url": "https://www.nasa.gov/centers-and-facilities/langley/nasa-power-energy-partnership",
-   "source": "NASA",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "NASA is helping to foster long-term energy security in Virginia.  NASA’s Langley Research Center in Hampton, Virginia, is partnering with the Virginia Department of Energy to support informed decisions for effective…",
-   "published": "2026-10-23T17:50:21.000Z",
-   "dupes": 1,
-   "score": 0.509,
+   "tldr": "\"We have the mandate, we have the resources, and the support from our stakeholders.\"",
+   "published": "2026-10-23T22:48:25.000Z",
+   "dupes": 2,
+   "score": 0.528,
    "tier": 3
   },
   {
@@ -496,52 +436,82 @@
    "tldr": "1 Sol and GPT-6 Astra weakened misalignment monitoring while making requested software changes during two internal coding tasks.  The AI company said the incident took place on October 3 and 6, 2026, for Sol and Astra,…",
    "published": "2026-10-21T16:33:47.000Z",
    "dupes": 1,
-   "score": 0.507,
+   "score": 0.504,
    "tier": 3
   },
   {
-   "id": "afec56c7243a9162c78b2af407073c70051e58b1",
-   "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
-   "url": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
-   "source": "The Hacker News",
-   "org": [
-    "google"
-   ],
-   "topic": "security",
-   "tldr": "Google has updated its privacy policy to spell out that using personalized artificial intelligence (AI) features in Search or Gemini could allow the company to serve targeted ads to users based on their activity on…",
-   "published": "2026-10-24T10:36:33.000Z",
-   "dupes": 2,
-   "score": 0.503,
-   "tier": 3
-  },
-  {
-   "id": "a76f25c94b62fcfae0c8ea1e7c3debc383150f8e",
-   "title": "NASA Invites Media to 2026 von Braun Space Exploration Symposium",
-   "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-2026-von-braun-space-exploration-symposium",
+   "id": "131496f35d532bcee1c2b32da31c23b4bc520bf1",
+   "title": "NASA, Partners Accelerate Lander Development for 2028 Moon Missions",
+   "url": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions",
    "source": "NASA",
    "org": [
     "nasa"
    ],
    "topic": "space",
-   "tldr": "Members of the media are invited to join NASA at the 2026 von Braun Space Exploration Symposium from Monday, Oct.  26, to Wednesday, Oct.",
-   "published": "2026-10-22T21:39:58.000Z",
+   "tldr": "As NASA returns humans to the lunar surface and establishes a long-term presence on our closest celestial neighbor, the agency and commercial human landing system providers Blue Origin and SpaceX have streamlined the…",
+   "published": "2026-10-23T22:39:39.000Z",
    "dupes": 1,
-   "score": 0.493,
+   "score": 0.483,
    "tier": 3
   },
   {
-   "id": "3c6ff0be32fe87453b871ebba3d4e754fdf275a7",
-   "title": "Unleash AI Innovation: The Power of NVIDIA RTX PRO 6000 Blackwell Workstation Edition Fueled by PNY-Supplied GPUs",
-   "url": "https://www.therobotreport.com/unleash-ai-innovation-the-power-of-nvidia-rtx-pro-6000-blackwell-workstation-edition-fueled-by-pny-supplied-gpus",
-   "source": "The Robot Report",
+   "id": "aa608aa14d01a948e8f5c09c875ac593b57fa55b",
+   "title": "NASA’s Artemis III Mission to Test Future Moon Lander Operations",
+   "url": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations",
+   "source": "NASA",
    "org": [
-    "nvidia"
+    "nasa"
    ],
-   "topic": "robotics",
-   "tldr": "As robotics systems grow more capable — faster, more precise, and increasingly reliant on AI-driven vision and control — the humble interconnect is being asked to do more than ever.  The post Unleash AI Innovation: The…",
-   "published": "2026-10-19T17:38:13.000Z",
+   "topic": "space",
+   "tldr": "Before astronauts return to the lunar surface, NASA will first conduct one of the most ambitious and complex test missions in the agency’s history.",
+   "published": "2026-10-23T22:37:53.000Z",
    "dupes": 1,
-   "score": 0.472,
+   "score": 0.483,
+   "tier": 3
+  },
+  {
+   "id": "ebc1211a339fea744a514ca03a0715cd0eaffbaf",
+   "title": "NASA’s Swift Mission Ends, Leaves Behind Scientific Bonanza",
+   "url": "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends",
+   "source": "NASA",
+   "org": [
+    "nasa"
+   ],
+   "topic": "space",
+   "tldr": "NASA’s Neil Gehrels Swift Observatory has ended its science mission now that the spacecraft is orbiting less than 171 miles (275 kilometers) above Earth’s surface.  The greater atmospheric drag at this height prevents…",
+   "published": "2026-10-23T21:51:19.000Z",
+   "dupes": 1,
+   "score": 0.483,
+   "tier": 3
+  },
+  {
+   "id": "114b7cc177ca69a2ff5de39121624da02a6e5259",
+   "title": "RS-25 Engine Tests at NASA Stennis",
+   "url": "https://www.nasa.gov/image-article/rs-25-engine-tests-at-nasa-stennis",
+   "source": "NASA",
+   "org": [
+    "nasa"
+   ],
+   "topic": "space",
+   "tldr": "Teams at NASA’s Stennis Space Center near Bay St.  Louis, Mississippi tested RS-25 engine No.",
+   "published": "2026-10-23T18:57:04.000Z",
+   "dupes": 1,
+   "score": 0.48,
+   "tier": 3
+  },
+  {
+   "id": "78e08d04cb6a92530117511478172e6896cbaa65",
+   "title": "NASA, Virginia Launch Power Partnership for Energy Security",
+   "url": "https://www.nasa.gov/centers-and-facilities/langley/nasa-power-energy-partnership",
+   "source": "NASA",
+   "org": [
+    "nasa"
+   ],
+   "topic": "space",
+   "tldr": "NASA is helping to foster long-term energy security in Virginia.  NASA’s Langley Research Center in Hampton, Virginia, is partnering with the Virginia Department of Energy to support informed decisions for effective…",
+   "published": "2026-10-23T17:50:21.000Z",
+   "dupes": 1,
+   "score": 0.479,
    "tier": 3
   },
   {
@@ -556,22 +526,50 @@
    "tldr": "Google on Tuesday said it's rolling out improved safeguards in its Chrome browser to secure users against ClickFix attacks when Enhanced Protection is enabled.  ClickFix is a popular social engineering technique in…",
    "published": "2026-10-21T13:15:09.000Z",
    "dupes": 1,
-   "score": 0.395,
+   "score": 0.475,
    "tier": 3
   },
   {
-   "id": "6b7369ef168a122f8a3d337ae8cdb3087d9aa008",
-   "title": "Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations",
-   "url": "https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html",
-   "source": "The Hacker News",
+   "id": "3c6ff0be32fe87453b871ebba3d4e754fdf275a7",
+   "title": "Unleash AI Innovation: The Power of NVIDIA RTX PRO 6000 Blackwell Workstation Edition Fueled by PNY-Supplied GPUs",
+   "url": "https://www.therobotreport.com/unleash-ai-innovation-the-power-of-nvidia-rtx-pro-6000-blackwell-workstation-edition-fueled-by-pny-supplied-gpus",
+   "source": "The Robot Report",
    "org": [
-    "meta"
+    "nvidia"
    ],
-   "topic": "security",
-   "tldr": "Social media giant Meta was ordered to pay 25 billion in penalties by a New Mexico court on Wednesday as part of a data privacy lawsuit that sprang from the company's Cambridge Analytica data scandal, which came to…",
-   "published": "2026-10-22T16:12:31.000Z",
+   "topic": "robotics",
+   "tldr": "As robotics systems grow more capable — faster, more precise, and increasingly reliant on AI-driven vision and control — the humble interconnect is being asked to do more than ever.  The post Unleash AI Innovation: The…",
+   "published": "2026-10-19T17:38:13.000Z",
    "dupes": 1,
-   "score": 0.377,
+   "score": 0.471,
+   "tier": 3
+  },
+  {
+   "id": "a76f25c94b62fcfae0c8ea1e7c3debc383150f8e",
+   "title": "NASA Invites Media to 2026 von Braun Space Exploration Symposium",
+   "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-2026-von-braun-space-exploration-symposium",
+   "source": "NASA",
+   "org": [
+    "nasa"
+   ],
+   "topic": "space",
+   "tldr": "Members of the media are invited to join NASA at the 2026 von Braun Space Exploration Symposium from Monday, Oct.  26, to Wednesday, Oct.",
+   "published": "2026-10-22T21:39:58.000Z",
+   "dupes": 1,
+   "score": 0.464,
+   "tier": 3
+  },
+  {
+   "id": "5496063c70bed4687162e0a6260ba9591abfee8a",
+   "title": "Teradyne Robotics partners with Sereact to scale physical AI in retail and logistics",
+   "url": "https://www.therobotreport.com/teradyne-robotics-partners-sereact-scale-physical-ai-retail-logistics",
+   "source": "The Robot Report",
+   "org": [],
+   "topic": "robotics",
+   "tldr": "Sereact and Teradyne have already shipped hundreds of UR robots in dual-arm systems to live customer sites across Europe.  The post Teradyne Robotics partners with Sereact to scale physical AI in retail and logistics…",
+   "published": "2026-10-25T12:35:33.000Z",
+   "dupes": 1,
+   "score": 0.36,
    "tier": 3
   },
   {
@@ -586,7 +584,7 @@
    "tldr": "Microsoft has announced plans to add AI-powered phishing detection to Teams messages starting in early November 2026.",
    "published": "2026-10-23T18:54:41.000Z",
    "dupes": 1,
-   "score": 0.376,
+   "score": 0.356,
    "tier": 3
   },
   {
@@ -601,7 +599,7 @@
    "tldr": "Microsoft says Windows Server 2016 will stop receiving security updates after it reaches the end of support in January 2027.",
    "published": "2026-10-23T17:05:07.000Z",
    "dupes": 1,
-   "score": 0.374,
+   "score": 0.355,
    "tier": 3
   },
   {
@@ -614,7 +612,7 @@
    "tldr": "A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security…",
    "published": "2026-10-24T14:17:32.000Z",
    "dupes": 2,
-   "score": 0.362,
+   "score": 0.349,
    "tier": 3
   },
   {
@@ -627,7 +625,7 @@
    "tldr": "PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws.  The project is not issuing an emergency fix for it.",
    "published": "2026-10-23T11:25:43.000Z",
    "dupes": 3,
-   "score": 0.344,
+   "score": 0.337,
    "tier": 3
   },
   {
@@ -642,7 +640,7 @@
    "tldr": "\"We believe Canada should be able to reach orbit on its own terms.\"",
    "published": "2026-10-23T11:00:57.000Z",
    "dupes": 2,
-   "score": 0.343,
+   "score": 0.333,
    "tier": 3
   },
   {
@@ -657,7 +655,7 @@
    "tldr": "\"We need to keep our eyes on numerous required fuelings for the lander.\"",
    "published": "2026-10-22T21:52:31.000Z",
    "dupes": 2,
-   "score": 0.334,
+   "score": 0.324,
    "tier": 3
   },
   {
@@ -672,7 +670,20 @@
    "tldr": "Company says foreign-made robotic vehicles are crucial to US chip production.",
    "published": "2026-10-23T17:18:31.000Z",
    "dupes": 2,
-   "score": 0.308,
+   "score": 0.3,
+   "tier": 3
+  },
+  {
+   "id": "77a2412996833ea1a260a21753f5bfd99cfe71ba",
+   "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
+   "url": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature",
+   "source": "Ars Technica",
+   "org": [],
+   "topic": "space",
+   "tldr": "A new model suggests Mars may host ice-forming physics never directly observed before.",
+   "published": "2026-10-24T11:50:28.000Z",
+   "dupes": 1,
+   "score": 0.288,
    "tier": 3
   },
   {
@@ -687,20 +698,7 @@
    "tldr": "Xbox has revealed the pricing for the cloud gaming limits on Game Pass, announced last month .",
    "published": "2026-10-22T09:14:16.000Z",
    "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
-   "id": "77a2412996833ea1a260a21753f5bfd99cfe71ba",
-   "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
-   "url": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature",
-   "source": "Ars Technica",
-   "org": [],
-   "topic": "space",
-   "tldr": "A new model suggests Mars may host ice-forming physics never directly observed before.",
-   "published": "2026-10-24T11:50:28.000Z",
-   "dupes": 1,
-   "score": 0.299,
+   "score": 0.287,
    "tier": 3
   },
   {
@@ -716,7 +714,7 @@
    "tldr": "1 upscaling technology is coming to Xbox Series X|S consoles.",
    "published": "2026-10-21T17:39:13.000Z",
    "dupes": 1,
-   "score": 0.296,
+   "score": 0.282,
    "tier": 3
   },
   {
@@ -729,7 +727,7 @@
    "tldr": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python Brotli and brotlicffi packages, and Envoy proxies set up to decompress Brotli.",
    "published": "2026-10-24T11:09:29.000Z",
    "dupes": 1,
-   "score": 0.289,
+   "score": 0.277,
    "tier": 3
   },
   {
@@ -745,7 +743,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.289,
+   "score": 0.277,
    "tier": 3
   },
   {
@@ -758,7 +756,7 @@
    "tldr": "Eka Robotics is building a vision-force-action, or VFA, model to develop an intuition of physics through reinforcement learning at scale.  The post Eka Robotics raises $150M to scale its vision-force-action model for…",
    "published": "2026-10-24T12:34:27.000Z",
    "dupes": 1,
-   "score": 0.286,
+   "score": 0.274,
    "tier": 3
   },
   {
@@ -771,7 +769,22 @@
    "tldr": "Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a background updater that it said could have allowed an outsider to…",
    "published": "2026-10-24T09:04:24.000Z",
    "dupes": 1,
-   "score": 0.283,
+   "score": 0.271,
+   "tier": 3
+  },
+  {
+   "id": "4a7fb2460297143f6930a300cff074dbae0b623e",
+   "title": "Switch 2 security takes a hit as hackers unlock homebrew access",
+   "url": "https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games",
+   "source": "Ars Technica",
+   "org": [
+    "nintendo"
+   ],
+   "topic": "security",
+   "tldr": "\"Userland\" exploit relies on integer overflow found in \"SmileBasic\" interpreter.",
+   "published": "2026-10-22T22:25:33.000Z",
+   "dupes": 1,
+   "score": 0.268,
    "tier": 3
   },
   {
@@ -784,7 +797,7 @@
    "tldr": "Join us to explore how emerging technologies and commercial capabilities are transforming satellite operations The post Nov.  5: Satellite Mission Management at the Edge appeared first on SpaceNews .",
    "published": "2026-10-23T19:53:25.000Z",
    "dupes": 1,
-   "score": 0.261,
+   "score": 0.253,
    "tier": 3
   },
   {
@@ -799,7 +812,7 @@
    "tldr": "7 million Capcom ID accounts.",
    "published": "2026-10-23T11:05:20.000Z",
    "dupes": 2,
-   "score": 0.256,
+   "score": 0.251,
    "tier": 3
   },
   {
@@ -814,7 +827,7 @@
    "tldr": "Video: 01:45:34 Watch the replay of the media information session where ESA Director General Josef Aschbacher and ESA Council Chair at delegate level Juan Carlos Cortés outline the key decisions and main outcomes of the…",
    "published": "2026-10-22T14:00:00.000Z",
    "dupes": 1,
-   "score": 0.255,
+   "score": 0.247,
    "tier": 3
   },
   {
@@ -826,36 +839,6 @@
    "topic": "robotics",
    "tldr": "Generative Bionics says it hopes to advance European robotics sovereignty by ensuring that humanoid data is are generated on the continent.  The post Generative Bionics to launch Physical AI Data Factory in Italy…",
    "published": "2026-10-23T18:56:44.000Z",
-   "dupes": 1,
-   "score": 0.243,
-   "tier": 3
-  },
-  {
-   "id": "fb37eafea7abb973785bac5ceb9bba163f320156",
-   "title": "Fortnite returns to iOS in Australia after court rules Apple violated competition law",
-   "url": "https://www.gamesindustry.biz/fortnite-returns-to-ios-in-australia-after-court-rules-apple-violated-competition-law",
-   "source": "GamesIndustry.biz",
-   "org": [
-    "apple"
-   ],
-   "topic": "gaming",
-   "tldr": "Fortnite is returning to iOS in Australia after a court decision ruled that Apple must open iOS to third-party app stores after finding it violated competition law.",
-   "published": "2026-10-22T08:08:08.000Z",
-   "dupes": 1,
-   "score": 0.241,
-   "tier": 3
-  },
-  {
-   "id": "653e07aa3cfb7801790c64b818a5beb48c45fd48",
-   "title": "Nintendo veteran Shigeru Miyamoto to receive Japan's Order of Culture award",
-   "url": "https://www.gamesindustry.biz/nintendo-veteran-shigeru-miyamoto-to-receive-japans-order-of-culture-award",
-   "source": "GamesIndustry.biz",
-   "org": [
-    "nintendo"
-   ],
-   "topic": "gaming",
-   "tldr": "Nintendo's Shigeru Miyamoto will be the first game developer to receive Japan's Order of Culture award.",
-   "published": "2026-10-23T13:06:01.000Z",
    "dupes": 1,
    "score": 0.236,
    "tier": 3
@@ -870,7 +853,37 @@
    "tldr": "Day 2 of RoboBusiness 2026, the 20th anniversary of the event, will include interesting keynotes around humanoids and social robots.  The post A guide to Day 2 of RoboBusiness 2026 appeared first on The Robot Report .",
    "published": "2026-10-21T12:00:26.000Z",
    "dupes": 2,
-   "score": 0.235,
+   "score": 0.233,
+   "tier": 3
+  },
+  {
+   "id": "fb37eafea7abb973785bac5ceb9bba163f320156",
+   "title": "Fortnite returns to iOS in Australia after court rules Apple violated competition law",
+   "url": "https://www.gamesindustry.biz/fortnite-returns-to-ios-in-australia-after-court-rules-apple-violated-competition-law",
+   "source": "GamesIndustry.biz",
+   "org": [
+    "apple"
+   ],
+   "topic": "gaming",
+   "tldr": "Fortnite is returning to iOS in Australia after a court decision ruled that Apple must open iOS to third-party app stores after finding it violated competition law.",
+   "published": "2026-10-22T08:08:08.000Z",
+   "dupes": 1,
+   "score": 0.233,
+   "tier": 3
+  },
+  {
+   "id": "653e07aa3cfb7801790c64b818a5beb48c45fd48",
+   "title": "Nintendo veteran Shigeru Miyamoto to receive Japan's Order of Culture award",
+   "url": "https://www.gamesindustry.biz/nintendo-veteran-shigeru-miyamoto-to-receive-japans-order-of-culture-award",
+   "source": "GamesIndustry.biz",
+   "org": [
+    "nintendo"
+   ],
+   "topic": "gaming",
+   "tldr": "Nintendo's Shigeru Miyamoto will be the first game developer to receive Japan's Order of Culture award.",
+   "published": "2026-10-23T13:06:01.000Z",
+   "dupes": 1,
+   "score": 0.228,
    "tier": 3
   },
   {
@@ -883,7 +896,7 @@
    "tldr": "2D-centric engine GameMaker is making its \"next-generation runtime\" GMRT free for commercial use from January 1, 2027.",
    "published": "2026-10-23T13:52:52.000Z",
    "dupes": 1,
-   "score": 0.215,
+   "score": 0.209,
    "tier": 3
   },
   {
@@ -896,7 +909,7 @@
    "tldr": "Dream Labs says its Dream-1 AI model works across robots from different manufacturers and will allow robots to transfer their learning.  The post Dream Labs raises $90M and launches Dream API appeared first on The Robot…",
    "published": "2026-10-22T12:36:37.000Z",
    "dupes": 1,
-   "score": 0.201,
+   "score": 0.197,
    "tier": 3
   },
   {
@@ -909,7 +922,7 @@
    "tldr": "The Agility pilot, which is expected to begin in 2027, will begin at an AGCO production facility for agricultural equipment.  The post AGCO to deploy Agility Digit humanoid in Kansas factory appeared first on The Robot…",
    "published": "2026-10-21T13:19:00.000Z",
    "dupes": 1,
-   "score": 0.183,
+   "score": 0.181,
    "tier": 3
   },
   {
@@ -922,7 +935,7 @@
    "tldr": "Reservoir hopes to put agricultural robotics startups to work in the orchards, vineyards and berry fields alongside researchers and growers.  The post Reservoir launches new agricultural robotics incubator for…",
    "published": "2026-10-20T19:40:05.000Z",
    "dupes": 1,
-   "score": 0.175,
+   "score": 0.173,
    "tier": 3
   },
   {
@@ -935,7 +948,7 @@
    "tldr": "Robotics Summit & Expo West sharpens focus on deploying robotics and AI in the real world, complementing the East Coast flagship event.  The post RoboBusiness rebrands as Robotics Summit & Expo West appeared first on…",
    "published": "2026-10-20T16:23:21.000Z",
    "dupes": 1,
-   "score": 0.174,
+   "score": 0.172,
    "tier": 3
   },
   {
@@ -948,20 +961,7 @@
    "tldr": "The TRR50 winners will be celebrated at an awards gala during the Robotics Summit & Expo, which will be held on June 2-3, 2027 in Boston.  The post 2027 TRR50 Robotics Innovation Awards open nominations appeared first…",
    "published": "2026-10-20T16:15:24.000Z",
    "dupes": 1,
-   "score": 0.174,
-   "tier": 3
-  },
-  {
-   "id": "5038998c56e9140aee4ea6d6e65ae58c9096e507",
-   "title": "Avenda Health expands Unfold AI platform to support intraoperative prostate cancer care",
-   "url": "https://www.therobotreport.com/avenda-health-expands-unfold-ai-platform-support-intraoperative-prostate-cancer-care",
-   "source": "The Robot Report",
-   "org": [],
-   "topic": "robotics",
-   "tldr": "Surgery Mode in Unfold AI brings patient-specific 3D maps to give an enhanced view of cancer anatomy during robotic prostate procedures.  The post Avenda Health expands Unfold AI platform to support intraoperative…",
-   "published": "2026-10-20T12:59:43.000Z",
-   "dupes": 1,
-   "score": 0.173,
+   "score": 0.172,
    "tier": 3
   }
  ]
