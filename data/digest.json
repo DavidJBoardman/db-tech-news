@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T17:44:11.745Z",
+ "generated": "2026-10-25T20:14:08.718Z",
  "digest": [
   {
    "n": 1,
@@ -10,13 +10,27 @@
   },
   {
    "n": 2,
+   "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
+   "tldr": "A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week.  The attack requires two things:…",
+   "url": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
+   "meta": "SECURITY"
+  },
+  {
+   "n": 3,
    "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
    "tldr": "Researchers found a malicious AGENTS markdown instruction file in a customer's Downloads folder that tricked an AI coding agent into installing a rogue npm package.",
    "url": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder",
    "meta": "SECURITY"
   },
   {
-   "n": 3,
+   "n": 4,
+   "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
+   "tldr": "Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618 and CVE-2026-109619.",
+   "url": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
+   "meta": "SECURITY"
+  },
+  {
+   "n": 5,
    "title": "Teradyne Robotics partners with Sereact to scale physical AI in retail and logistics",
    "tldr": "Sereact and Teradyne have already shipped hundreds of UR robots in dual-arm systems to live customer sites across Europe.  The post Teradyne Robotics partners with Sereact to scale physical AI in retail and logistics…",
    "url": "https://www.therobotreport.com/teradyne-robotics-partners-sereact-scale-physical-ai-retail-logistics",
