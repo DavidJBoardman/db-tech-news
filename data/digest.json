@@ -1,40 +1,40 @@
 {
- "generated": "2026-10-27T07:08:45.609Z",
+ "generated": "2026-10-27T13:26:48.151Z",
  "digest": [
   {
    "n": 1,
-   "title": "Microsoft offers to buy out a quarter of its workforce",
-   "tldr": "Employees in the US, Canada, India, and the UK may receive offers to leave MS today.",
-   "url": "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees",
-   "meta": "COMPUTE · MICROSOFT · TIER 1"
+   "title": "Apple backports CoreGraphics zero-day patches to older iPhones",
+   "tldr": "​Apple has backported security patches released last month to older iPhones and iPads, addressing a zero-day bug exploited in \"extremely sophisticated\" targeted attacks on iOS devices.",
+   "url": "https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones",
+   "meta": "SECURITY · APPLE · TIER 1"
   },
   {
    "n": 2,
+   "title": "Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens",
+   "tldr": "Microsoft has fixed a flaw in its Authenticator app for Android that let a malicious app with no permissions pose as a trusted Microsoft app, such as Teams, and collect sign-in tokens for a victim's work account.  4246,…",
+   "url": "https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html",
+   "meta": "SECURITY · MICROSOFT"
+  },
+  {
+   "n": 3,
+   "title": "Apple introduces the new 14-inch MacBook Pro with M6",
+   "tldr": "",
+   "url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6",
+   "meta": "AI · APPLE"
+  },
+  {
+   "n": 4,
+   "title": "OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections",
+   "tldr": "OpenAI's compaction feature, which shrinks a long conversation to save space, could be turned into a way to copy a model's hidden reasoning out in plain text, security firm Xint has shown.  OpenAI's reasoning models…",
+   "url": "https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html",
+   "meta": "SECURITY · OPENAI"
+  },
+  {
+   "n": 5,
    "title": "How a Johnson Mentor Shapes the Next Generation of NASA Talent",
    "tldr": "” In honor of National Mentoring Day on Oct.",
    "url": "https://www.nasa.gov/general/how-a-johnson-mentor-shapes-the-next-generation-of-nasa-talent",
    "meta": "SPACE · NASA"
-  },
-  {
-   "n": 3,
-   "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-   "tldr": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
-   "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant",
-   "meta": "AI · OPENAI"
-  },
-  {
-   "n": 4,
-   "title": "Working with academic communities to build scientific understanding",
-   "tldr": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
-   "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-   "meta": "AI · OPENAI"
-  },
-  {
-   "n": 5,
-   "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-   "tldr": "1 Sol to investigate security risks across complex codebases.  Its security agent helps developers review findings and proposed fixes.",
-   "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-   "meta": "AI · OPENAI"
   }
  ]
 }
