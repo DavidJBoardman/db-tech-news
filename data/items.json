@@ -1,6 +1,21 @@
 {
- "generated": "2026-10-27T22:47:34.267Z",
+ "generated": "2026-10-28T01:56:59.568Z",
  "items": [
+  {
+   "id": "8b7f3fa5f264affec1098fb8d941286ea473244a",
+   "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
+   "url": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip",
+   "source": "Ars Technica",
+   "org": [
+    "apple"
+   ],
+   "topic": "compute",
+   "tldr": "Additionally, the N1 chip brings Wi-Fi 7 and Bluetooth 6.",
+   "published": "2026-10-27T22:37:30.000Z",
+   "dupes": 2,
+   "score": 0.762,
+   "tier": 1
+  },
   {
    "id": "a30b4228516c3392aa890e1a8264ff1f46bb2205",
    "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
@@ -13,8 +28,23 @@
    "tldr": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
    "published": "2026-10-27T16:30:57.000Z",
    "dupes": 2,
-   "score": 0.74,
-   "tier": 1
+   "score": 0.727,
+   "tier": 2
+  },
+  {
+   "id": "1b16f2a2a47a7683e7e4f97cde93e187be54a44f",
+   "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+   "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more",
+   "source": "TechCrunch",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+   "published": "2026-10-28T01:15:28.000Z",
+   "dupes": 1,
+   "score": 0.712,
+   "tier": 2
   },
   {
    "id": "195a669b9f2c238b063f7939c586650363499b82",
@@ -28,7 +58,22 @@
    "tldr": "A technician inspects the large sunshade of NASA’s Near-Earth Object (NEO) Surveyor mission in this image released on Oct.  26, 2026.",
    "published": "2026-10-27T17:58:57.000Z",
    "dupes": 2,
-   "score": 0.725,
+   "score": 0.712,
+   "tier": 2
+  },
+  {
+   "id": "a2f907c053dad857c45d188e32d412297851d431",
+   "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+   "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication",
+   "source": "TechCrunch",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+   "published": "2026-10-27T23:34:27.000Z",
+   "dupes": 1,
+   "score": 0.703,
    "tier": 2
   },
   {
@@ -43,7 +88,22 @@
    "tldr": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
    "published": "2026-10-27T16:01:38.000Z",
    "dupes": 1,
-   "score": 0.715,
+   "score": 0.702,
+   "tier": 2
+  },
+  {
+   "id": "9daa2cd43fa51930d929e9843ae564bce05cf5b2",
+   "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+   "url": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity",
+   "source": "Ars Technica",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome.",
+   "published": "2026-10-27T21:31:14.000Z",
+   "dupes": 1,
+   "score": 0.702,
    "tier": 2
   },
   {
@@ -58,22 +118,7 @@
    "tldr": "6M annual revenue run rate per employee.",
    "published": "2026-10-27T15:00:00.000Z",
    "dupes": 1,
-   "score": 0.711,
-   "tier": 2
-  },
-  {
-   "id": "e4dbba9a243c7cf546419b616e46f5d5c4382724",
-   "title": "Who’s really in charge at Anthropic after the IPO?",
-   "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo",
-   "source": "TechCrunch",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
-   "published": "2026-10-27T21:38:28.000Z",
-   "dupes": 1,
-   "score": 0.709,
+   "score": 0.698,
    "tier": 2
   },
   {
@@ -88,22 +133,22 @@
    "tldr": "​Apple has backported security patches released last month to older iPhones and iPads, addressing a zero-day bug exploited in \"extremely sophisticated\" targeted attacks on iOS devices.",
    "published": "2026-10-27T10:36:12.000Z",
    "dupes": 2,
-   "score": 0.708,
+   "score": 0.696,
    "tier": 2
   },
   {
-   "id": "48026cc92494b22f2948423902c5f9762f0d368f",
-   "title": "OpenAI's GPT-6.1 Terra is safer overall, but shows more destructive-action flags in tests",
-   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-61-terra-is-safer-overall-but-shows-more-destructive-action-flags-in-tests",
-   "source": "BleepingComputer",
+   "id": "e4dbba9a243c7cf546419b616e46f5d5c4382724",
+   "title": "Who’s really in charge at Anthropic after the IPO?",
+   "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo",
+   "source": "TechCrunch",
    "org": [
-    "openai"
+    "anthropic"
    ],
-   "topic": "security",
-   "tldr": "1 Terra is safer overall than some of its older models, but its safety testing also found other problems.",
-   "published": "2026-10-27T22:43:27.000Z",
+   "topic": "ai",
+   "tldr": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
+   "published": "2026-10-27T21:38:28.000Z",
    "dupes": 1,
-   "score": 0.707,
+   "score": 0.694,
    "tier": 2
   },
   {
@@ -118,7 +163,22 @@
    "tldr": "Education Innovation",
    "published": "2026-10-27T17:35:00.000Z",
    "dupes": 1,
-   "score": 0.706,
+   "score": 0.692,
+   "tier": 2
+  },
+  {
+   "id": "48026cc92494b22f2948423902c5f9762f0d368f",
+   "title": "OpenAI's GPT-6.1 Terra is safer overall, but shows more destructive-action flags in tests",
+   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-61-terra-is-safer-overall-but-shows-more-destructive-action-flags-in-tests",
+   "source": "BleepingComputer",
+   "org": [
+    "openai"
+   ],
+   "topic": "security",
+   "tldr": "1 Terra is safer overall than some of its older models, but its safety testing also found other problems.",
+   "published": "2026-10-27T22:43:27.000Z",
+   "dupes": 1,
+   "score": 0.691,
    "tier": 2
   },
   {
@@ -133,7 +193,7 @@
    "tldr": "Genie 4 will roll out to developers and Google AI Ultra subscribers soon.",
    "published": "2026-10-27T16:00:22.000Z",
    "dupes": 1,
-   "score": 0.691,
+   "score": 0.678,
    "tier": 2
   },
   {
@@ -148,8 +208,8 @@
    "tldr": "Easier app installs are coming to third-party stores, pending Google's stamp of approval.",
    "published": "2026-10-27T19:32:07.000Z",
    "dupes": 1,
-   "score": 0.691,
-   "tier": 2
+   "score": 0.677,
+   "tier": 3
   },
   {
    "id": "bb361a8a2de1d6b7883a108de0606c763cc372e5",
@@ -163,8 +223,8 @@
    "tldr": "Microsoft has released out-of-band (OOB) Windows updates to remove trust in certificates tied to compromised eMudhra certificate authority keys, protecting systems that do not receive automatic certificate trust updates.",
    "published": "2026-10-27T18:20:28.000Z",
    "dupes": 1,
-   "score": 0.685,
-   "tier": 2
+   "score": 0.672,
+   "tier": 3
   },
   {
    "id": "a3a879144b2984ac94bfd6f21f2a919716019c6d",
@@ -178,54 +238,7 @@
    "tldr": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
    "published": "2026-10-27T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.68,
-   "tier": 2
-  },
-  {
-   "id": "bb124f9e261ca26b150a8e55fd581b20ae37d3bf",
-   "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
-   "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace",
-   "source": "TechCrunch",
-   "org": [
-    "google",
-    "microsoft",
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned.  His startup, Ndoc, aims to take on Microsoft Office Suite.",
-   "published": "2026-10-27T14:59:09.000Z",
-   "dupes": 1,
-   "score": 0.679,
-   "tier": 2
-  },
-  {
-   "id": "1281b65e0ea4c14385159cf07ad6912bf9e138ec",
-   "title": "NASA Invites Media to Crew Completion of Yearlong Mars Simulation",
-   "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation",
-   "source": "NASA",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "The four volunteers who lived and worked in a simulated NASA Mars mission for more than a year will exit their habitat on Saturday, Oct.  31, after 378 days of isolation in a facility at the agency’s Johnson Space…",
-   "published": "2026-10-27T19:27:22.000Z",
-   "dupes": 1,
-   "score": 0.679,
-   "tier": 3
-  },
-  {
-   "id": "a4c44e96b0a94df51038ee6157b11679115f6b1d",
-   "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
-   "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude",
-   "source": "Hacker News",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-10-27T15:28:26.000Z",
-   "dupes": 1,
-   "score": 0.678,
+   "score": 0.669,
    "tier": 3
   },
   {
@@ -240,7 +253,7 @@
    "tldr": "",
    "published": "2026-10-27T20:50:42.000Z",
    "dupes": 1,
-   "score": 0.678,
+   "score": 0.668,
    "tier": 3
   },
   {
@@ -255,37 +268,22 @@
    "tldr": "Included is the ability to limit which applications Siri can directly access.",
    "published": "2026-10-26T20:04:16.000Z",
    "dupes": 2,
-   "score": 0.677,
+   "score": 0.668,
    "tier": 3
   },
   {
-   "id": "4b0c52a0ad809c9c69135502d03b08dfe41e56d2",
-   "title": "Discord will soon let anyone find public server messages through Google",
-   "url": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
-   "source": "Hacker News",
+   "id": "1281b65e0ea4c14385159cf07ad6912bf9e138ec",
+   "title": "NASA Invites Media to Crew Completion of Yearlong Mars Simulation",
+   "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation",
+   "source": "NASA",
    "org": [
-    "google"
+    "nasa"
    ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-10-27T18:44:17.000Z",
+   "topic": "space",
+   "tldr": "The four volunteers who lived and worked in a simulated NASA Mars mission for more than a year will exit their habitat on Saturday, Oct.  31, after 378 days of isolation in a facility at the agency’s Johnson Space…",
+   "published": "2026-10-27T19:27:22.000Z",
    "dupes": 1,
-   "score": 0.676,
-   "tier": 3
-  },
-  {
-   "id": "2a73e713621bb3e45e5ba7de36e2e9e5917ccfa4",
-   "title": "Apple unveils new 14-inch MacBook Pro with M6 chip",
-   "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip",
-   "source": "TechCrunch",
-   "org": [
-    "apple"
-   ],
-   "topic": "compute",
-   "tldr": "The new MacBook Pro comes with 24 hours of battery life, and now features support for Wi-Fi 7 and Bluetooth 6 connectivity.",
-   "published": "2026-10-27T14:25:11.000Z",
-   "dupes": 1,
-   "score": 0.676,
+   "score": 0.665,
    "tier": 3
   },
   {
@@ -300,7 +298,7 @@
    "tldr": "Apple's \"precision-engineered\" hinge is apparently damaging some iPhone Duo screens.",
    "published": "2026-10-27T14:00:49.000Z",
    "dupes": 1,
-   "score": 0.667,
+   "score": 0.654,
    "tier": 3
   },
   {
@@ -315,7 +313,7 @@
    "tldr": "Microsoft has fixed a flaw in its Authenticator app for Android that let a malicious app with no permissions pose as a trusted Microsoft app, such as Teams, and collect sign-in tokens for a victim's work account.  4246,…",
    "published": "2026-10-27T12:09:50.000Z",
    "dupes": 1,
-   "score": 0.651,
+   "score": 0.639,
    "tier": 3
   },
   {
@@ -330,7 +328,7 @@
    "tldr": "OpenAI's compaction feature, which shrinks a long conversation to save space, could be turned into a way to copy a model's hidden reasoning out in plain text, security firm Xint has shown.  OpenAI's reasoning models…",
    "published": "2026-10-27T08:22:43.000Z",
    "dupes": 1,
-   "score": 0.637,
+   "score": 0.626,
    "tier": 3
   },
   {
@@ -345,7 +343,7 @@
    "tldr": "” In honor of National Mentoring Day on Oct.",
    "published": "2026-10-27T07:07:51.000Z",
    "dupes": 1,
-   "score": 0.631,
+   "score": 0.621,
    "tier": 3
   },
   {
@@ -360,7 +358,7 @@
    "tldr": "Employees in the US, Canada, India, and the UK may receive offers to leave MS today.",
    "published": "2026-10-26T22:36:06.000Z",
    "dupes": 1,
-   "score": 0.613,
+   "score": 0.604,
    "tier": 3
   },
   {
@@ -375,7 +373,7 @@
    "tldr": "1 Terra, a new model focused on computer use, visual reasoning, coding, and everyday work, while costing significantly less than its larger models.",
    "published": "2026-10-26T20:46:49.000Z",
    "dupes": 1,
-   "score": 0.608,
+   "score": 0.599,
    "tier": 3
   },
   {
@@ -390,7 +388,7 @@
    "tldr": "Description This 360-degree look at Neretva Vallis within Mars’ Jezero Crater was stitched together using 217 images acquired by the rover’s Mastcam-Z on May 20, 2024, the 1,155th Martian day, or sol, of the mission.",
    "published": "2026-10-26T22:48:12.000Z",
    "dupes": 1,
-   "score": 0.606,
+   "score": 0.597,
    "tier": 3
   },
   {
@@ -405,7 +403,7 @@
    "tldr": "Apple claims this is the most significant update ever for the iPad mini line.",
    "published": "2026-10-26T19:04:40.000Z",
    "dupes": 1,
-   "score": 0.603,
+   "score": 0.595,
    "tier": 3
   },
   {
@@ -420,7 +418,7 @@
    "tldr": "Over 1,645 Martian days, NASA’s Perseverance Mars rover measured the fine and ultrafine Martian dust particles found clinging to samples of spacesuit materials that are carried aboard the rover, including some that are…",
    "published": "2026-10-26T21:07:28.000Z",
    "dupes": 1,
-   "score": 0.601,
+   "score": 0.593,
    "tier": 3
   },
   {
@@ -435,7 +433,7 @@
    "tldr": "Description The large sunshade of NASA’s Near-Earth Object (NEO) Surveyor mission is inspected by a technician at BAE Systems Space & Mission Systems in Boulder, Colorado, in late July.  Built by Applied Aerospace in…",
    "published": "2026-10-26T20:52:24.000Z",
    "dupes": 1,
-   "score": 0.6,
+   "score": 0.592,
    "tier": 3
   },
   {
@@ -450,7 +448,7 @@
    "tldr": "The NASA STEM (Science, Technology, Engineering, and Mathematics) Enhancement in Earth Science (SEES) Internship Program at the University of Texas Center for Space Research places high school students on small,…",
    "published": "2026-10-26T19:28:08.000Z",
    "dupes": 1,
-   "score": 0.597,
+   "score": 0.589,
    "tier": 3
   },
   {
@@ -465,7 +463,7 @@
    "tldr": "Cybersecurity researchers are calling attention to what they say is a \"recurring social engineering pattern\" across hundreds of cases in which threat actors use Microsoft Teams' external chat creation feature to conduct…",
    "published": "2026-10-26T15:52:40.000Z",
    "dupes": 1,
-   "score": 0.587,
+   "score": 0.579,
    "tier": 3
   },
   {
@@ -480,7 +478,7 @@
    "tldr": "Cybersecurity researchers have disclosed a Microsoft 365 campaign that has been observed leveraging an adversary-in-the-middle (AitM) relay to capture sign-in sessions and then replay the stolen tokens to break into…",
    "published": "2026-10-26T08:35:51.000Z",
    "dupes": 1,
-   "score": 0.57,
+   "score": 0.564,
    "tier": 3
   },
   {
@@ -495,7 +493,7 @@
    "tldr": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models.",
    "published": "2026-10-25T06:54:29.000Z",
    "dupes": 1,
-   "score": 0.529,
+   "score": 0.526,
    "tier": 3
   },
   {
@@ -515,21 +513,6 @@
    "tier": 3
   },
   {
-   "id": "44dcbcfaa941fc74888420918ab2dce53fe6ccf0",
-   "title": "Xbox staff among up to 60,000 Microsoft employees offered voluntary exit",
-   "url": "https://www.gamesindustry.biz/xbox-staff-among-up-to-60000-microsoft-employees-offered-voluntary-exit",
-   "source": "GamesIndustry.biz",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "gaming",
-   "tldr": "Microsoft is offering voluntary exit to employees.",
-   "published": "2026-10-26T21:34:00.000Z",
-   "dupes": 1,
-   "score": 0.513,
-   "tier": 3
-  },
-  {
    "id": "6643f32ed82d5f614cc36b6896d7d4c7b89f9dbf",
    "title": "Updated Google privacy policy says your Gmail might be used for advertising",
    "url": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising",
@@ -541,7 +524,7 @@
    "tldr": "Turning on Personal Intelligence gives the company more data for ad targeting.",
    "published": "2026-10-23T20:19:55.000Z",
    "dupes": 1,
-   "score": 0.51,
+   "score": 0.508,
    "tier": 3
   },
   {
@@ -556,7 +539,22 @@
    "tldr": "Google has updated its privacy policy to spell out that using personalized artificial intelligence (AI) features in Search or Gemini could allow the company to serve targeted ads to users based on their activity on…",
    "published": "2026-10-24T10:36:33.000Z",
    "dupes": 1,
-   "score": 0.51,
+   "score": 0.508,
+   "tier": 3
+  },
+  {
+   "id": "44dcbcfaa941fc74888420918ab2dce53fe6ccf0",
+   "title": "Xbox staff among up to 60,000 Microsoft employees offered voluntary exit",
+   "url": "https://www.gamesindustry.biz/xbox-staff-among-up-to-60000-microsoft-employees-offered-voluntary-exit",
+   "source": "GamesIndustry.biz",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "gaming",
+   "tldr": "Microsoft is offering voluntary exit to employees.",
+   "published": "2026-10-26T21:34:00.000Z",
+   "dupes": 1,
+   "score": 0.506,
    "tier": 3
   },
   {
@@ -572,7 +570,7 @@
    "tldr": "Searches for Samsung foldables just happened to skyrocket following iPhone Duo unveiling.",
    "published": "2026-10-22T18:49:14.000Z",
    "dupes": 1,
-   "score": 0.5,
+   "score": 0.499,
    "tier": 3
   },
   {
@@ -587,7 +585,7 @@
    "tldr": "Back in July, Xbox announced plans to divest five studios .  Among them was State of Decay maker Undead Labs, which Microsoft had acquired back in 2018.",
    "published": "2026-10-26T13:30:00.000Z",
    "dupes": 1,
-   "score": 0.496,
+   "score": 0.49,
    "tier": 3
   },
   {
@@ -602,7 +600,7 @@
    "tldr": "Netflix reportedly offered Microsoft $500 million over seven years to license Xbox IP for film and television adaptations.",
    "published": "2026-10-26T13:02:57.000Z",
    "dupes": 1,
-   "score": 0.495,
+   "score": 0.489,
    "tier": 3
   },
   {
@@ -617,7 +615,7 @@
    "tldr": "Microsoft has extended the consultation period by one month to seek a new buyer for Arkane Lyon, while development on Marvel's Blade continues.",
    "published": "2026-10-26T10:52:14.000Z",
    "dupes": 1,
-   "score": 0.491,
+   "score": 0.486,
    "tier": 3
   },
   {
@@ -632,7 +630,7 @@
    "tldr": "\"We have the mandate, we have the resources, and the support from our stakeholders.\"",
    "published": "2026-10-23T22:48:25.000Z",
    "dupes": 1,
-   "score": 0.485,
+   "score": 0.484,
    "tier": 3
   },
   {
@@ -647,7 +645,37 @@
    "tldr": "There are 57 million people worldwide living with dementia today.  For the researchers working to help them, the obstacle isn’t a lack of effort — it’s too much data, too few experts to synthesize it and a pace of…",
    "published": "2026-10-27T15:00:20.000Z",
    "dupes": 1,
-   "score": 0.439,
+   "score": 0.453,
+   "tier": 3
+  },
+  {
+   "id": "c3ecf70aef54997156b1909884991c3d5c706b82",
+   "title": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
+   "url": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "To help developers rapidly build world models, which help physical AI systems understand and simulate the real world, NVIDIA has expanded the Cosmos platform with new training tools, simulation checkpoints and Cosmos…",
+   "published": "2026-10-22T05:00:27.000Z",
+   "dupes": 2,
+   "score": 0.424,
+   "tier": 3
+  },
+  {
+   "id": "3df8ce2aed7d825db7c8c385718427fde6ba9a14",
+   "title": "NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents",
+   "url": "https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Demand from AI-natives is pulling the European AI cloud ecosystem forward faster than ever.  Developers need compute closer to their data, open models they can customize and serve at scale, and full-stack infrastructure…",
+   "published": "2026-10-21T10:30:41.000Z",
+   "dupes": 2,
+   "score": 0.422,
    "tier": 3
   },
   {
@@ -662,7 +690,7 @@
    "tldr": "Xbox has revealed the pricing for the cloud gaming limits on Game Pass, announced last month .",
    "published": "2026-10-22T09:14:16.000Z",
    "dupes": 1,
-   "score": 0.421,
+   "score": 0.42,
    "tier": 3
   },
   {
@@ -681,33 +709,29 @@
    "tier": 3
   },
   {
-   "id": "c3ecf70aef54997156b1909884991c3d5c706b82",
-   "title": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
-   "url": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
+   "id": "a81d0c1c06b00a4cb1cfeb2aa87c6657388c95ae",
+   "title": "The data center boom has an upside: innovation for the US grid",
+   "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid",
+   "source": "TechCrunch",
+   "org": [],
    "topic": "compute",
-   "tldr": "To help developers rapidly build world models, which help physical AI systems understand and simulate the real world, NVIDIA has expanded the Cosmos platform with new training tools, simulation checkpoints and Cosmos…",
-   "published": "2026-10-22T05:00:27.000Z",
-   "dupes": 2,
-   "score": 0.404,
+   "tldr": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+   "published": "2026-10-27T22:55:41.000Z",
+   "dupes": 1,
+   "score": 0.38,
    "tier": 3
   },
   {
-   "id": "3df8ce2aed7d825db7c8c385718427fde6ba9a14",
-   "title": "NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents",
-   "url": "https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Demand from AI-natives is pulling the European AI cloud ecosystem forward faster than ever.  Developers need compute closer to their data, open models they can customize and serve at scale, and full-stack infrastructure…",
-   "published": "2026-10-21T10:30:41.000Z",
-   "dupes": 2,
-   "score": 0.402,
+   "id": "4972d322c4e8c011920ca6944444d59c5f64bb93",
+   "title": "Japan's GMO urges customers to shut down PCs amid ransomware threat",
+   "url": "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat",
+   "source": "BleepingComputer",
+   "org": [],
+   "topic": "security",
+   "tldr": "The GMO Group has urged customers to disconnect their systems from the internet and shut down computers after a threat actor who breached the company's Onamae Desktop Cloud threatened to launch a ransomware attack today.",
+   "published": "2026-10-27T23:35:51.000Z",
+   "dupes": 1,
+   "score": 0.375,
    "tier": 3
   },
   {
@@ -720,20 +744,33 @@
    "tldr": "The University of New Mexico Health Sciences Center disclosed a cyberattack that caused system outages and disrupted patient care and academic activities.",
    "published": "2026-10-27T22:07:34.000Z",
    "dupes": 1,
-   "score": 0.384,
+   "score": 0.368,
    "tier": 3
   },
   {
-   "id": "851b1601424b3acbb40e59a663d4d7ab21b272b0",
-   "title": "Hackers hijack Convertr analytics script to steal payment card data",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-convertr-analytics-script-to-steal-payment-card-data",
-   "source": "BleepingComputer",
+   "id": "a0c3bc6eed84cb2b038f38367408ea869a50ecbb",
+   "title": "'An annoying buzz': The search for stealthier drones",
+   "url": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Technology",
    "org": [],
-   "topic": "security",
-   "tldr": "A credit card skimming group reportedly compromised a shared analytics script used by e-commerce platform Convertr to steal shoppers' payment data during checkout.",
-   "published": "2026-10-27T20:57:25.000Z",
+   "topic": "robotics",
+   "tldr": "As drone deliveries become more commonplace, their makers are looking for ways to make them quieter.",
+   "published": "2026-10-28T00:01:10.000Z",
    "dupes": 1,
-   "score": 0.378,
+   "score": 0.366,
+   "tier": 3
+  },
+  {
+   "id": "7170133e65402359c11ec2f82462f438318f7187",
+   "title": "China's top-secret spaceplane can't hide in low-Earth orbit",
+   "url": "https://arstechnica.com/space/2026/10/chinas-top-secret-spaceplane-cant-hide-in-low-earth-orbit",
+   "source": "Ars Technica",
+   "org": [],
+   "topic": "space",
+   "tldr": "The DIA's threat assessment suggests China may soon place directed energy weapons in space.",
+   "published": "2026-10-27T22:04:50.000Z",
+   "dupes": 1,
+   "score": 0.365,
    "tier": 3
   },
   {
@@ -746,20 +783,7 @@
    "tldr": "The companies said the experimental spacecraft, launched Oct.  1, could lead to a Ukrainian-controlled satellite network The post Ukrainian startup, GomSpace test satellite for future communications network appeared…",
    "published": "2026-10-27T20:21:30.000Z",
    "dupes": 1,
-   "score": 0.371,
-   "tier": 3
-  },
-  {
-   "id": "305926464c4f5d580827c439c4b3035ca4996dd4",
-   "title": "From cheap tool to premium subscription: When a beloved app's price skyrockets",
-   "url": "https://arstechnica.com/gadgets/2026/10/from-cheap-tool-to-premium-subscription-when-a-beloved-apps-price-skyrockets",
-   "source": "Ars Technica · Gadgets",
-   "org": [],
-   "topic": "compute",
-   "tldr": "Huge price hikes force loyal users to reconsider their favorite apps.",
-   "published": "2026-10-27T15:50:19.000Z",
-   "dupes": 1,
-   "score": 0.354,
+   "score": 0.358,
    "tier": 3
   },
   {
@@ -772,7 +796,7 @@
    "tldr": "The European Space Agency’s Hera spacecraft for planetary defence has resolved its two target asteroids separately for the very first time, revealing the binary nature of the Didymos system, currently some 197 million…",
    "published": "2026-10-27T14:00:00.000Z",
    "dupes": 1,
-   "score": 0.344,
+   "score": 0.332,
    "tier": 3
   },
   {
@@ -787,20 +811,7 @@
    "tldr": "The European Space Agency (ESA) has extended ongoing contracts to build four additional Galileo Second Generation (G2) satellites, ensuring the long-term continuity of the constellation and supporting the rollout of new…",
    "published": "2026-10-27T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.344,
-   "tier": 3
-  },
-  {
-   "id": "c457442f233190707a863e71eaad756c89e4353b",
-   "title": "Craft Prospect kicks off PERSEUS project to advance optical communications for space",
-   "url": "https://spacenews.com/craft-prospect-kicks-off-perseus-project-to-advance-optical-communications-for-space",
-   "source": "SpaceNews",
-   "org": [],
-   "topic": "space",
-   "tldr": "Craft Prospect is working with Fraunhofer Centre for Applied Photonics (Fraunhofer CAP) and Vector Photonics on a new project exploring the potential of next-generation laser technology for high-performance optical…",
-   "published": "2026-10-27T12:00:00.000Z",
-   "dupes": 1,
-   "score": 0.337,
+   "score": 0.332,
    "tier": 3
   },
   {
@@ -813,7 +824,7 @@
    "tldr": "ANYbotics has designed the ANYmal X inspection robot to comply with the strictest safety standards of the oil, gas, and chemical industries.  The post ANYbotics begins delivering ANYmal X legged robot for explosive…",
    "published": "2026-10-27T14:29:58.000Z",
    "dupes": 1,
-   "score": 0.331,
+   "score": 0.319,
    "tier": 3
   },
   {
@@ -826,7 +837,7 @@
    "tldr": "K.  and Germany.",
    "published": "2026-10-27T12:45:27.000Z",
    "dupes": 1,
-   "score": 0.324,
+   "score": 0.313,
    "tier": 3
   },
   {
@@ -839,35 +850,7 @@
    "tldr": "Xpanner's new X1 Piling R6 robot autonomously drives solar posts with one operator, improving placement accuracy while cutting on-site labor.  The post Xpanner launches autonomous pile driver for solar farm contruction…",
    "published": "2026-10-27T11:44:30.000Z",
    "dupes": 1,
-   "score": 0.321,
-   "tier": 3
-  },
-  {
-   "id": "603e1fd3a28bff8f9286ebfe9b28f60ac035e02e",
-   "title": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
-   "url": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice",
-   "source": "Ars Technica",
-   "org": [
-    "boston-dynamics"
-   ],
-   "topic": "robotics",
-   "tldr": "US robotics company stands by ICE deal as more than 300 employees warn of risk.",
-   "published": "2026-10-26T18:50:41.000Z",
-   "dupes": 1,
-   "score": 0.283,
-   "tier": 3
-  },
-  {
-   "id": "8895e47dd322e274126f79a08d2b0ba749c52dc1",
-   "title": "Musk accuses Ukraine of violating Starlink terms with deadly drone strikes",
-   "url": "https://arstechnica.com/tech-policy/2026/10/musk-accuses-ukraine-of-violating-starlink-terms-with-deadly-drone-strikes",
-   "source": "Ars Technica",
-   "org": [],
-   "topic": "robotics",
-   "tldr": "Ukraine says Starshield back to normal, denies misuse of Starlink commercial service.",
-   "published": "2026-10-26T18:09:08.000Z",
-   "dupes": 1,
-   "score": 0.282,
+   "score": 0.309,
    "tier": 3
   },
   {
@@ -880,7 +863,7 @@
    "tldr": "Bedrock Robotics has secured $600 million to scale autonomous heavy equipment and combat construction labor shortages.  The post Bedrock Robotics nears $1B in total funding as demand for autonomous heavy equipment…",
    "published": "2026-10-26T21:15:00.000Z",
    "dupes": 1,
-   "score": 0.274,
+   "score": 0.266,
    "tier": 3
   },
   {
@@ -893,7 +876,7 @@
    "tldr": "OMRON will add industrial computing from OnLogic to its industrial automation expertise to serve data- and AI-intensive applications.  The post OMRON to acquire OnLogic to address edge AI applications appeared first on…",
    "published": "2026-10-26T20:13:13.000Z",
    "dupes": 1,
-   "score": 0.272,
+   "score": 0.264,
    "tier": 3
   },
   {
@@ -906,7 +889,7 @@
    "tldr": "GXO Logistics, which has tested humanoid robots from multiple companies, will deploy Agility's Digit at two more sites.  The post Agility and GXO Logistics plan expanded deployment of Digit humanoid appeared first on…",
    "published": "2026-10-26T14:05:21.000Z",
    "dupes": 1,
-   "score": 0.257,
+   "score": 0.25,
    "tier": 3
   },
   {
@@ -919,7 +902,7 @@
    "tldr": "Sereact and Teradyne have already shipped hundreds of UR robots in dual-arm systems to live customer sites across Europe.  The post Teradyne Robotics partners with Sereact to scale physical AI in retail and logistics…",
    "published": "2026-10-25T12:35:33.000Z",
    "dupes": 1,
-   "score": 0.213,
+   "score": 0.209,
    "tier": 3
   },
   {
@@ -932,7 +915,7 @@
    "tldr": "Eka Robotics is building a vision-force-action, or VFA, model to develop an intuition of physics through reinforcement learning at scale.  The post Eka Robotics raises $150M to scale its vision-force-action model for…",
    "published": "2026-10-24T12:34:27.000Z",
    "dupes": 1,
-   "score": 0.19,
+   "score": 0.188,
    "tier": 3
   },
   {
@@ -945,7 +928,7 @@
    "tldr": "Generative Bionics says it hopes to advance European robotics sovereignty by ensuring that humanoid data is are generated on the continent.  The post Generative Bionics to launch Physical AI Data Factory in Italy…",
    "published": "2026-10-23T18:56:44.000Z",
    "dupes": 1,
-   "score": 0.179,
+   "score": 0.178,
    "tier": 3
   },
   {
@@ -958,7 +941,20 @@
    "tldr": "Dream Labs says its Dream-1 AI model works across robots from different manufacturers and will allow robots to transfer their learning.  The post Dream Labs raises $90M and launches Dream API appeared first on The Robot…",
    "published": "2026-10-22T12:36:37.000Z",
    "dupes": 1,
-   "score": 0.169,
+   "score": 0.168,
+   "tier": 3
+  },
+  {
+   "id": "b0b42b41c9372a140b3f92a4bd987bcf5692bdbe",
+   "title": "AGCO to deploy Agility Digit humanoid in Kansas factory",
+   "url": "https://www.therobotreport.com/agco-to-deploy-agility-digit-humanoid-in-kansas-factory",
+   "source": "The Robot Report",
+   "org": [],
+   "topic": "robotics",
+   "tldr": "The Agility pilot, which is expected to begin in 2027, will begin at an AGCO production facility for agricultural equipment.  The post AGCO to deploy Agility Digit humanoid in Kansas factory appeared first on The Robot…",
+   "published": "2026-10-21T13:19:00.000Z",
+   "dupes": 1,
+   "score": 0.164,
    "tier": 3
   }
  ]
