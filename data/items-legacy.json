@@ -1,6 +1,51 @@
 {
- "generated": "2026-10-29T13:27:06.308Z",
+ "generated": "2026-10-29T19:05:55.227Z",
  "items": [
+  {
+   "id": "7bf0065ceb1646f57aedf5f7d913738e013e364b",
+   "title": "An updated Model Spec for more capable and beneficial AI",
+   "url": "https://openai.com/index/updated-model-spec",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+   "published": "2026-10-29T17:00:00.000Z",
+   "dupes": 1,
+   "score": 0.623,
+   "tier": 1
+  },
+  {
+   "id": "1112027d5901b6f1dfea35c8c3f63382b87eaa06",
+   "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+   "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended.  Developers are combining frontier AI models with NVIDIA…",
+   "published": "2026-10-29T16:00:35.000Z",
+   "dupes": 1,
+   "score": 0.586,
+   "tier": 2
+  },
+  {
+   "id": "53a5e73183752016e2a2d0d652a1e593823230d9",
+   "title": "Google Search is now less than half of Alphabet’s revenue",
+   "url": "https://www.kadoa.com/companies/insights/google-search-below-half",
+   "source": "Hacker News",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-10-29T16:42:17.000Z",
+   "dupes": 1,
+   "score": 0.562,
+   "tier": 2
+  },
   {
    "id": "bf30529fb59df43935cecedcca1e468f04f451b8",
    "title": "Slice Into GFN Thursday: ‘Phantom Blade Zero’ Launches on GeForce NOW",
@@ -13,27 +58,85 @@
    "tldr": "This Halloween week, GFN Thursday is delivering a fresh batch of gaming treats.  Something wicked this blade comes.",
    "published": "2026-10-29T13:00:16.000Z",
    "dupes": 1,
-   "score": 0.619,
-   "tier": 1
+   "score": 0.552,
+   "tier": 2
   },
   {
-   "id": "eebb63f2228b3e378b5ad02b225701c5f87407f3",
-   "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
-   "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
-   "source": "Hacker News",
+   "id": "f3538b6fb36f4f58fdca64e1b764cff7fa0ed810",
+   "title": "Granite Switch 4.1.1 — Update models like you update software",
+   "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-10-29T13:37:07.000Z",
+   "dupes": 1,
+   "score": 0.546,
+   "tier": 2
+  },
+  {
+   "id": "2a1a8a7c88a01340d1d035cef5a8a69f6258a4e0",
+   "title": "You can generate and edit Google Docs files directly in Gemini chats now",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+   "source": "The Verge AI",
    "org": [
     "google"
    ],
    "topic": "ai",
-   "tldr": "",
-   "published": "2026-10-29T12:41:56.000Z",
+   "tldr": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini.",
+   "published": "2026-10-29T18:45:31.000Z",
    "dupes": 1,
-   "score": 0.544,
+   "score": 0.545,
+   "tier": 2
+  },
+  {
+   "id": "d28967fce9c692cd06eccf3709b27a584532abf2",
+   "title": "How we detect frontier model misalignment",
+   "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+   "published": "2026-10-29T09:00:00.000Z",
+   "dupes": 1,
+   "score": 0.537,
+   "tier": 2
+  },
+  {
+   "id": "2d9928289658e98658f7f3e71e7d1e4d989180d1",
+   "title": "How Ropes & Gray is developing AI for transactional diligence",
+   "url": "https://openai.com/index/ropes-gray-ai-diligence",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Ropes & Gray is developing AI for transactional diligence with OpenAI.  Lawyers review grouped documents, summaries, and reports before advising clients.",
+   "published": "2026-10-29T07:00:00.000Z",
+   "dupes": 1,
+   "score": 0.52,
+   "tier": 2
+  },
+  {
+   "id": "45b4ef0b726f6d169aa4087485ac7ab0047ffedd",
+   "title": "Microsoft’s AI future has fewer jobs",
+   "url": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
+   "source": "The Verge AI",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the size of Microsoft's…",
+   "published": "2026-10-29T16:00:00.000Z",
+   "dupes": 1,
+   "score": 0.511,
    "tier": 2
   },
   {
    "id": "70ae37717506725346693e3a18bfb2ce34e29a02",
-   "title": "Google determines the names for bodies of water in Google Earth (2008)",
+   "title": "How Google determines the names for bodies of water in Google Earth (2008)",
    "url": "https://publicpolicy.googleblog.com/2008/04/how-google-determines-names-for-bodies.html",
    "source": "Hacker News",
    "org": [
@@ -43,53 +146,64 @@
    "tldr": "",
    "published": "2026-10-29T11:41:18.000Z",
    "dupes": 1,
-   "score": 0.534,
+   "score": 0.49,
    "tier": 2
   },
   {
-   "id": "271134257c4af766939cc6ec20ee0e8c3957e2cf",
-   "title": "Claude Code regularly sends each background agent’s transcript to its model",
-   "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
-   "source": "Hacker News",
+   "id": "079251699e8ed6eae1b10e41114aac4fe00caede",
+   "title": "Anthropic is asking Wall Street to believe in AGI",
+   "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+   "source": "The Verge AI",
    "org": [
     "anthropic"
    ],
    "topic": "ai",
-   "tldr": "",
-   "published": "2026-10-29T03:33:42.000Z",
+   "tldr": "Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document known as an S-1.",
+   "published": "2026-10-29T14:00:00.000Z",
    "dupes": 1,
-   "score": 0.503,
+   "score": 0.488,
    "tier": 2
   },
   {
-   "id": "6318bf62f2c5750d4debc093ba5deffe66f9f836",
-   "title": "Gemini 4 Carbon",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon",
-   "source": "Hacker News",
+   "id": "0b3918620b863475f71ceaa9a30f6eca7bbcff21",
+   "title": "Anthropic’s business plan: Build God or die trying",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+   "source": "The Verge AI",
    "org": [
-    "google"
+    "anthropic"
    ],
    "topic": "ai",
-   "tldr": "",
-   "published": "2026-10-28T17:01:23.000Z",
+   "tldr": "The Anthropic S-1 seems to have provided the financial justification for the company to spend as much as it possibly can on compute.",
+   "published": "2026-10-29T13:30:00.000Z",
    "dupes": 1,
-   "score": 0.491,
+   "score": 0.482,
    "tier": 2
   },
   {
-   "id": "68f7c17af7873eeddc407f00fba6dfd7f683ac40",
-   "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
-   "url": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain",
-   "source": "Hacker News",
-   "org": [
-    "microsoft"
-   ],
+   "id": "e1c742c1d925baf7505636d3c989a52bf3620d01",
+   "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+   "url": "https://huggingface.co/blog/announcing-project-protostar",
+   "source": "Hugging Face Blog",
+   "org": [],
    "topic": "ai",
    "tldr": "",
-   "published": "2026-10-29T06:47:28.000Z",
+   "published": "2026-10-29T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.49,
+   "score": 0.43,
    "tier": 2
+  },
+  {
+   "id": "a1765f446c5b64b5bbced0cf22070e131e3557ee",
+   "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+   "url": "https://huggingface.co/blog/mistral-large4",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-10-29T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.43,
+   "tier": 3
   },
   {
    "id": "85d975255b4f9d004ddb3cbeee15f8e8556ffee6",
@@ -101,8 +215,8 @@
    "tldr": "",
    "published": "2026-10-29T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.471,
-   "tier": 2
+   "score": 0.43,
+   "tier": 3
   },
   {
    "id": "34b0bf3f94c3851e6957dd11bedc60679d6c4b34",
@@ -116,8 +230,8 @@
    "tldr": "",
    "published": "2026-10-28T17:00:58.000Z",
    "dupes": 1,
-   "score": 0.459,
-   "tier": 2
+   "score": 0.428,
+   "tier": 3
   },
   {
    "id": "75e2017ed4c5a2ecbacf8d375dd8df89d0c0d878",
@@ -131,82 +245,7 @@
    "tldr": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
    "published": "2026-10-28T13:15:00.000Z",
    "dupes": 1,
-   "score": 0.438,
-   "tier": 2
-  },
-  {
-   "id": "36eb3dda48d9ab1e43a954d0b8c368e1d6f70406",
-   "title": "Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
-   "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do.  RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI.",
-   "published": "2026-10-28T15:00:46.000Z",
-   "dupes": 1,
-   "score": 0.423,
-   "tier": 2
-  },
-  {
-   "id": "0dc3cf0b7c98dcde7cee9fa081b12b2c28e359be",
-   "title": "The future of the firm",
-   "url": "https://openai.com/index/the-future-of-the-firm",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "How AI might enter the org chart—beneath, beside, and between us.",
-   "published": "2026-10-28T10:00:00.000Z",
-   "dupes": 1,
-   "score": 0.422,
-   "tier": 2
-  },
-  {
-   "id": "41c97fe8dc29ac4a38662fab728e42ff14149ac9",
-   "title": "Legora is building the agentic operating system for legal work",
-   "url": "https://openai.com/index/legora",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
-   "published": "2026-10-28T09:30:00.000Z",
-   "dupes": 1,
-   "score": 0.419,
-   "tier": 2
-  },
-  {
-   "id": "7ae8eb20550eee7692436f1c407fce5b64ca68f4",
-   "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-   "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-   "source": "Hugging Face Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-10-28T14:58:17.000Z",
-   "dupes": 1,
-   "score": 0.41,
-   "tier": 2
-  },
-  {
-   "id": "4b9ad4180246a1db064915de5a389d31fb26d597",
-   "title": "Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work",
-   "url": "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work",
-   "source": "Microsoft Blog",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "If you want to compete, you need to be multi-model.  And if you want to take advantage of everything that different AI models have to offer, you need a great harness.",
-   "published": "2026-10-28T16:51:35.000Z",
-   "dupes": 1,
-   "score": 0.408,
+   "score": 0.411,
    "tier": 3
   },
   {
@@ -221,37 +260,82 @@
    "tldr": "",
    "published": "2026-10-23T17:10:27.000Z",
    "dupes": 2,
-   "score": 0.402,
+   "score": 0.401,
    "tier": 3
   },
   {
-   "id": "fc7d1d71bde9a18e24ca4fd00abe91854df948f4",
-   "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
-   "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
-   "source": "The Verge AI",
+   "id": "0dc3cf0b7c98dcde7cee9fa081b12b2c28e359be",
+   "title": "The future of the firm",
+   "url": "https://openai.com/index/the-future-of-the-firm",
+   "source": "OpenAI Blog",
    "org": [
-    "google"
+    "openai"
    ],
    "topic": "ai",
-   "tldr": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity.  5 and GPT-6 Astra trailing behind.",
-   "published": "2026-10-28T20:03:00.000Z",
+   "tldr": "How AI might enter the org chart—beneath, beside, and between us.",
+   "published": "2026-10-28T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.379,
+   "score": 0.398,
    "tier": 3
   },
   {
-   "id": "d0753be868cc7807af0cde59471f6c9263ca6dbd",
-   "title": "Microsoft is ending Copilot support on smart TVs",
-   "url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
-   "source": "The Verge AI",
+   "id": "41c97fe8dc29ac4a38662fab728e42ff14149ac9",
+   "title": "Legora is building the agentic operating system for legal work",
+   "url": "https://openai.com/index/legora",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+   "published": "2026-10-28T09:30:00.000Z",
+   "dupes": 1,
+   "score": 0.396,
+   "tier": 3
+  },
+  {
+   "id": "36eb3dda48d9ab1e43a954d0b8c368e1d6f70406",
+   "title": "Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
+   "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do.  RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI.",
+   "published": "2026-10-28T15:00:46.000Z",
+   "dupes": 1,
+   "score": 0.394,
+   "tier": 3
+  },
+  {
+   "id": "7ae8eb20550eee7692436f1c407fce5b64ca68f4",
+   "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+   "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+   "source": "Hugging Face Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-10-28T14:58:17.000Z",
+   "dupes": 1,
+   "score": 0.381,
+   "tier": 3
+  },
+  {
+   "id": "4b9ad4180246a1db064915de5a389d31fb26d597",
+   "title": "Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work",
+   "url": "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work",
+   "source": "Microsoft Blog",
    "org": [
     "microsoft"
    ],
    "topic": "ai",
-   "tldr": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this…",
-   "published": "2026-10-28T18:36:26.000Z",
+   "tldr": "If you want to compete, you need to be multi-model.  And if you want to take advantage of everything that different AI models have to offer, you need a great harness.",
+   "published": "2026-10-28T16:51:35.000Z",
    "dupes": 1,
-   "score": 0.369,
+   "score": 0.377,
    "tier": 3
   },
   {
@@ -266,7 +350,7 @@
    "tldr": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
    "published": "2026-10-27T16:01:38.000Z",
    "dupes": 1,
-   "score": 0.361,
+   "score": 0.349,
    "tier": 3
   },
   {
@@ -281,37 +365,37 @@
    "tldr": "6M annual revenue run rate per employee.",
    "published": "2026-10-27T15:00:00.000Z",
    "dupes": 1,
-   "score": 0.359,
+   "score": 0.347,
    "tier": 3
   },
   {
-   "id": "1739307690c34a287cf1f51e757d9bf88b92ee95",
-   "title": "Meta says it’ll probably delay its controversial new business terms again",
-   "url": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
+   "id": "fc7d1d71bde9a18e24ca4fd00abe91854df948f4",
+   "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+   "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
    "source": "The Verge AI",
    "org": [
-    "meta"
+    "google"
    ],
    "topic": "ai",
-   "tldr": "Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training.",
-   "published": "2026-10-28T16:15:30.000Z",
+   "tldr": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity.  5 and GPT-6 Astra trailing behind.",
+   "published": "2026-10-28T20:03:00.000Z",
    "dupes": 1,
-   "score": 0.355,
+   "score": 0.344,
    "tier": 3
   },
   {
-   "id": "5283652bd524be85ae235a9105efdfcbfc5f0642",
-   "title": "xAI is buying out homeowners who promise not to sue over data center noise",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
+   "id": "d0753be868cc7807af0cde59471f6c9263ca6dbd",
+   "title": "Microsoft is ending Copilot support on smart TVs",
+   "url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
    "source": "The Verge AI",
    "org": [
-    "xai"
+    "microsoft"
    ],
-   "topic": "compute",
-   "tldr": "A subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the company's nearby data center and power plant, according to a report from…",
-   "published": "2026-10-28T14:44:00.000Z",
+   "topic": "ai",
+   "tldr": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this…",
+   "published": "2026-10-28T18:36:26.000Z",
    "dupes": 1,
-   "score": 0.346,
+   "score": 0.336,
    "tier": 3
   },
   {
@@ -326,7 +410,7 @@
    "tldr": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
    "published": "2026-10-27T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.343,
+   "score": 0.335,
    "tier": 3
   },
   {
@@ -341,22 +425,7 @@
    "tldr": "Education Innovation",
    "published": "2026-10-27T17:35:00.000Z",
    "dupes": 1,
-   "score": 0.34,
-   "tier": 3
-  },
-  {
-   "id": "4a299d1e9f3d54243c708738a354d186c108ed5c",
-   "title": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
-   "url": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "There are 57 million people worldwide living with dementia today.  For the researchers working to help them, the obstacle isn’t a lack of effort — it’s too much data, too few experts to synthesize it and a pace of…",
-   "published": "2026-10-27T15:00:20.000Z",
-   "dupes": 1,
-   "score": 0.334,
+   "score": 0.327,
    "tier": 3
   },
   {
@@ -374,22 +443,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.333,
-   "tier": 3
-  },
-  {
-   "id": "45a374d069fd87b25448e7ec81a70efd8a66aa95",
-   "title": "Muse Is Now Available in Singapore: The World’s First Personal AI Agent Built for Everyone",
-   "url": "https://about.fb.com/news/2026/10/muse-is-now-available-in-singapore-the-worlds-first-personal-ai-agent-built-for-everyone",
-   "source": "Meta Newsroom",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "Today we’re announcing Muse is now available in Singapore.  The post Muse Is Now Available in Singapore: The World’s First Personal AI Agent Built for Everyone appeared first on Meta Newsroom .",
-   "published": "2026-10-28T00:00:03.000Z",
-   "dupes": 1,
-   "score": 0.333,
+   "score": 0.326,
    "tier": 3
   },
   {
@@ -404,22 +458,112 @@
    "tldr": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
    "published": "2026-10-26T22:00:00.000Z",
    "dupes": 1,
-   "score": 0.33,
+   "score": 0.324,
    "tier": 3
   },
   {
-   "id": "6da995572c9c0a774a7f0ecd55eae5127c620ea9",
-   "title": "Meta quietly launched an ‘AI pet journal’ app",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
-   "source": "The Verge AI",
+   "id": "4a299d1e9f3d54243c708738a354d186c108ed5c",
+   "title": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
+   "url": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "There are 57 million people worldwide living with dementia today.  For the researchers working to help them, the obstacle isn’t a lack of effort — it’s too much data, too few experts to synthesize it and a pace of…",
+   "published": "2026-10-27T15:00:20.000Z",
+   "dupes": 1,
+   "score": 0.322,
+   "tier": 3
+  },
+  {
+   "id": "f16aefe89a6e3f3b8efed940fa1afba45d52bb2d",
+   "title": "Working with academic communities to build scientific understanding",
+   "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+   "published": "2026-10-26T14:30:00.000Z",
+   "dupes": 1,
+   "score": 0.318,
+   "tier": 3
+  },
+  {
+   "id": "1a1d4bf2fc111eb8468802ff9bbd62e331b7f1cf",
+   "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+   "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "1 Sol to investigate security risks across complex codebases.  Its security agent helps developers review findings and proposed fixes.",
+   "published": "2026-10-26T13:45:00.000Z",
+   "dupes": 1,
+   "score": 0.318,
+   "tier": 3
+  },
+  {
+   "id": "45a374d069fd87b25448e7ec81a70efd8a66aa95",
+   "title": "Muse Is Now Available in Singapore: The World’s First Personal AI Agent Built for Everyone",
+   "url": "https://about.fb.com/news/2026/10/muse-is-now-available-in-singapore-the-worlds-first-personal-ai-agent-built-for-everyone",
+   "source": "Meta Newsroom",
    "org": [
     "meta"
    ],
    "topic": "ai",
-   "tldr": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations.",
-   "published": "2026-10-28T11:27:30.000Z",
+   "tldr": "Today we’re announcing Muse is now available in Singapore.  The post Muse Is Now Available in Singapore: The World’s First Personal AI Agent Built for Everyone appeared first on Meta Newsroom .",
+   "published": "2026-10-28T00:00:03.000Z",
    "dupes": 1,
-   "score": 0.329,
+   "score": 0.317,
+   "tier": 3
+  },
+  {
+   "id": "64d59b55a8fb866695c8c1e923e768f9baf418cb",
+   "title": "ChatGPT’s expanding world of work",
+   "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
+   "published": "2026-10-26T10:00:00.000Z",
+   "dupes": 1,
+   "score": 0.315,
+   "tier": 3
+  },
+  {
+   "id": "eb7708c5f537ab79bfe683ac06695862c6627f7a",
+   "title": "How Fanatics and OpenAI streamline the fan experience",
+   "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look.  Testing across roughly 30,000 MLB products showed 10% higher engagement.",
+   "published": "2026-10-26T07:00:00.000Z",
+   "dupes": 1,
+   "score": 0.314,
+   "tier": 3
+  },
+  {
+   "id": "8f2f08b6e197805b4e591a57a55e222a54e44f14",
+   "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+   "url": "https://openai.com/index/openai-cut-incident-investigation",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes.  Explore faster security analysis, code refactoring, and daily workflows.",
+   "published": "2026-10-26T07:00:00.000Z",
+   "dupes": 1,
+   "score": 0.314,
    "tier": 3
   },
   {
@@ -432,7 +576,7 @@
    "tldr": "",
    "published": "2026-10-27T17:16:52.000Z",
    "dupes": 1,
-   "score": 0.326,
+   "score": 0.314,
    "tier": 3
   },
   {
@@ -448,82 +592,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.324,
-   "tier": 3
-  },
-  {
-   "id": "f16aefe89a6e3f3b8efed940fa1afba45d52bb2d",
-   "title": "Working with academic communities to build scientific understanding",
-   "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
-   "published": "2026-10-26T14:30:00.000Z",
-   "dupes": 1,
-   "score": 0.323,
-   "tier": 3
-  },
-  {
-   "id": "1a1d4bf2fc111eb8468802ff9bbd62e331b7f1cf",
-   "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-   "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "1 Sol to investigate security risks across complex codebases.  Its security agent helps developers review findings and proposed fixes.",
-   "published": "2026-10-26T13:45:00.000Z",
-   "dupes": 1,
-   "score": 0.322,
-   "tier": 3
-  },
-  {
-   "id": "64d59b55a8fb866695c8c1e923e768f9baf418cb",
-   "title": "ChatGPT’s expanding world of work",
-   "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
-   "published": "2026-10-26T10:00:00.000Z",
-   "dupes": 1,
-   "score": 0.319,
-   "tier": 3
-  },
-  {
-   "id": "eb7708c5f537ab79bfe683ac06695862c6627f7a",
-   "title": "How Fanatics and OpenAI streamline the fan experience",
-   "url": "https://openai.com/index/fanatics-streamline-fan-experience",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look.  Testing across roughly 30,000 MLB products showed 10% higher engagement.",
-   "published": "2026-10-26T07:00:00.000Z",
-   "dupes": 1,
-   "score": 0.317,
-   "tier": 3
-  },
-  {
-   "id": "8f2f08b6e197805b4e591a57a55e222a54e44f14",
-   "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-   "url": "https://openai.com/index/openai-cut-incident-investigation",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes.  Explore faster security analysis, code refactoring, and daily workflows.",
-   "published": "2026-10-26T07:00:00.000Z",
-   "dupes": 1,
-   "score": 0.317,
+   "score": 0.312,
    "tier": 3
   },
   {
@@ -538,7 +607,7 @@
    "tldr": "Bringing fast and capable computer use to everyone",
    "published": "2026-10-26T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.313,
+   "score": 0.31,
    "tier": 3
   },
   {
@@ -553,7 +622,7 @@
    "tldr": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
    "published": "2026-10-23T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.302,
+   "score": 0.301,
    "tier": 3
   },
   {
@@ -602,36 +671,6 @@
    "tier": 3
   },
   {
-   "id": "27825e300358401234fc8ca55cc275b9d4171e9a",
-   "title": "Build more responsive apps with the Decisions API",
-   "url": "https://openai.com/index/decisions-api",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Fast, focused, low-cost decisions for any application.",
-   "published": "2026-10-22T19:00:00.000Z",
-   "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
-   "id": "655df0fb22ace8918dccb9cedab8a4d53b00e1dc",
-   "title": "Beyond tree cover: mapping the world’s forest types",
-   "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types",
-   "source": "Google DeepMind",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-   "published": "2026-10-22T14:30:24.000Z",
-   "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
    "id": "057a86be6882ac7b2aa5e3b14e32fb06870560bf",
    "title": "Bringing foundational models to the front lines of TB screening",
    "url": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening",
@@ -643,7 +682,7 @@
    "tldr": "Generative AI",
    "published": "2026-10-23T18:51:33.000Z",
    "dupes": 1,
-   "score": 0.277,
+   "score": 0.276,
    "tier": 3
   },
   {
@@ -659,51 +698,6 @@
    "published": "2026-10-23T02:00:13.000Z",
    "dupes": 1,
    "score": 0.276,
-   "tier": 3
-  },
-  {
-   "id": "99c8819be3a739485364a927f9ab64f218e5c879",
-   "title": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
-   "url": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive.  It brings together telemetry from infrastructure and AI workloads, then applies…",
-   "published": "2026-10-22T15:00:02.000Z",
-   "dupes": 1,
-   "score": 0.276,
-   "tier": 3
-  },
-  {
-   "id": "a720d84afe9dc102feca0c5f9b8e4d23a558af63",
-   "title": "OpenAI's agents talked to each other through the CPU Cache",
-   "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache",
-   "source": "Hacker News",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-10-26T21:24:18.000Z",
-   "dupes": 1,
-   "score": 0.264,
-   "tier": 3
-  },
-  {
-   "id": "d5083253508c23ff36fde191cabb240aac305d0d",
-   "title": "Flint-interactive: A language for creating interactive data visualizations",
-   "url": "https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations",
-   "source": "Microsoft Research",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "Flint-interactive gives AI agents a language for creating interactive visualizations.  Click a chart, filter data, highlight related content, and explore beyond the view the author originally chose.",
-   "published": "2026-10-22T16:00:00.000Z",
-   "dupes": 1,
-   "score": 0.263,
    "tier": 3
   },
   {
@@ -744,7 +738,7 @@
    "tldr": "",
    "published": "2026-10-27T04:53:52.000Z",
    "dupes": 1,
-   "score": 0.24,
+   "score": 0.233,
    "tier": 3
   },
   {
@@ -759,7 +753,7 @@
    "tldr": "",
    "published": "2026-10-23T18:24:54.000Z",
    "dupes": 1,
-   "score": 0.206,
+   "score": 0.205,
    "tier": 3
   }
  ]
