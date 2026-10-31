@@ -1,6 +1,21 @@
 {
- "generated": "2026-10-31T20:35:09.524Z",
+ "generated": "2026-10-31T23:53:06.647Z",
  "items": [
+  {
+   "id": "e07ec5d69c955902d8475cf5b03e223254e02a65",
+   "title": "Anthropic blocks users for anything touching training larger models",
+   "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+   "source": "Hacker News",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-10-31T19:39:19.000Z",
+   "dupes": 1,
+   "score": 0.571,
+   "tier": 1
+  },
   {
    "id": "381223935ae368b9512e8857ba7a460b6c8f72a0",
    "title": "Do the math: How we took over ChatGPT accounts",
@@ -13,22 +28,7 @@
    "tldr": "",
    "published": "2026-10-31T10:30:11.000Z",
    "dupes": 1,
-   "score": 0.587,
-   "tier": 1
-  },
-  {
-   "id": "82785ab4f152db3e789ab8342b520f769ee36c8b",
-   "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
-   "url": "https://ryanmadden.net/gpt-56-beats-factorio",
-   "source": "Hacker News",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-10-31T18:50:34.000Z",
-   "dupes": 1,
-   "score": 0.574,
+   "score": 0.559,
    "tier": 2
   },
   {
@@ -43,7 +43,7 @@
    "tldr": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi.  But I…",
    "published": "2026-10-31T16:05:00.000Z",
    "dupes": 1,
-   "score": 0.494,
+   "score": 0.459,
    "tier": 2
   },
   {
@@ -58,7 +58,7 @@
    "tldr": "txt signal to help website operators communicate their AI training preferences to participating providers.",
    "published": "2026-10-30T09:30:00.000Z",
    "dupes": 1,
-   "score": 0.391,
+   "score": 0.38,
    "tier": 2
   },
   {
@@ -73,20 +73,7 @@
    "tldr": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
    "published": "2026-10-30T09:00:00.000Z",
    "dupes": 1,
-   "score": 0.389,
-   "tier": 2
-  },
-  {
-   "id": "b2263e9f84127c7621047d154deaa4fa09bbff2b",
-   "title": "nemotron-halloween",
-   "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-10-30T17:57:24.000Z",
-   "dupes": 1,
-   "score": 0.388,
+   "score": 0.378,
    "tier": 2
   },
   {
@@ -101,22 +88,20 @@
    "tldr": "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the search for extraterrestrial intelligence…",
    "published": "2026-10-30T15:00:10.000Z",
    "dupes": 1,
-   "score": 0.387,
+   "score": 0.374,
    "tier": 2
   },
   {
-   "id": "98aa4f3fa33120c52dd07c79399e3135eb1db8f4",
-   "title": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence",
-   "url": "https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence",
-   "source": "Microsoft Research",
-   "org": [
-    "microsoft"
-   ],
+   "id": "b2263e9f84127c7621047d154deaa4fa09bbff2b",
+   "title": "nemotron-halloween",
+   "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+   "source": "Hugging Face Blog",
+   "org": [],
    "topic": "ai",
-   "tldr": "Evaluating Microsoft Copilot at enterprise scale requires test data that captures the full complexity of real organizations, yet real enterprise data contains sensitive information that cannot be used for evaluation…",
-   "published": "2026-10-30T13:05:28.000Z",
+   "tldr": "",
+   "published": "2026-10-30T17:57:24.000Z",
    "dupes": 1,
-   "score": 0.367,
+   "score": 0.373,
    "tier": 2
   },
   {
@@ -131,7 +116,22 @@
    "tldr": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
    "published": "2026-10-30T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.363,
+   "score": 0.355,
+   "tier": 2
+  },
+  {
+   "id": "98aa4f3fa33120c52dd07c79399e3135eb1db8f4",
+   "title": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence",
+   "url": "https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence",
+   "source": "Microsoft Research",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "Evaluating Microsoft Copilot at enterprise scale requires test data that captures the full complexity of real organizations, yet real enterprise data contains sensitive information that cannot be used for evaluation…",
+   "published": "2026-10-30T13:05:28.000Z",
+   "dupes": 1,
+   "score": 0.354,
    "tier": 2
   },
   {
@@ -146,20 +146,7 @@
    "tldr": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
    "published": "2026-10-29T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.348,
-   "tier": 2
-  },
-  {
-   "id": "e6a83342c0c51d1efe3b1396bcfdd1571744c3e1",
-   "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
-   "source": "The Verge AI",
-   "org": [],
-   "topic": "compute",
-   "tldr": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers.",
-   "published": "2026-10-30T20:48:43.000Z",
-   "dupes": 1,
-   "score": 0.34,
+   "score": 0.342,
    "tier": 2
   },
   {
@@ -174,7 +161,7 @@
    "tldr": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
    "published": "2026-10-29T09:00:00.000Z",
    "dupes": 1,
-   "score": 0.335,
+   "score": 0.331,
    "tier": 2
   },
   {
@@ -189,23 +176,21 @@
    "tldr": "Ropes & Gray is developing AI for transactional diligence with OpenAI.  Lawyers review grouped documents, summaries, and reports before advising clients.",
    "published": "2026-10-29T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.333,
+   "score": 0.329,
    "tier": 2
   },
   {
-   "id": "c4dbacf8aa2b8b7f3fde40d5de88c170ef2c3339",
-   "title": "Google’s satellite AI server transmits its first response to Earth",
-   "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+   "id": "e6a83342c0c51d1efe3b1396bcfdd1571744c3e1",
+   "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
    "source": "The Verge AI",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Google's AI chip-equipped satellite has generated its first response from space.",
-   "published": "2026-10-30T18:21:38.000Z",
+   "org": [],
+   "topic": "compute",
+   "tldr": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers.",
+   "published": "2026-10-30T20:48:43.000Z",
    "dupes": 1,
-   "score": 0.327,
-   "tier": 3
+   "score": 0.323,
+   "tier": 2
   },
   {
    "id": "6750c2461412185f050bdd0f1b5b77559fc02237",
@@ -219,22 +204,7 @@
    "tldr": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI.  See how leaders and employees helped turn the results into companywide adoption.",
    "published": "2026-10-29T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.325,
-   "tier": 3
-  },
-  {
-   "id": "1112027d5901b6f1dfea35c8c3f63382b87eaa06",
-   "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-   "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended.  Developers are combining frontier AI models with NVIDIA…",
-   "published": "2026-10-29T16:00:35.000Z",
-   "dupes": 1,
-   "score": 0.321,
+   "score": 0.322,
    "tier": 3
   },
   {
@@ -249,7 +219,22 @@
    "tldr": "",
    "published": "2026-10-28T17:00:58.000Z",
    "dupes": 1,
-   "score": 0.319,
+   "score": 0.317,
+   "tier": 3
+  },
+  {
+   "id": "1112027d5901b6f1dfea35c8c3f63382b87eaa06",
+   "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+   "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended.  Developers are combining frontier AI models with NVIDIA…",
+   "published": "2026-10-29T16:00:35.000Z",
+   "dupes": 1,
+   "score": 0.316,
    "tier": 3
   },
   {
@@ -264,22 +249,7 @@
    "tldr": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
    "published": "2026-10-28T13:15:00.000Z",
    "dupes": 1,
-   "score": 0.316,
-   "tier": 3
-  },
-  {
-   "id": "bf30529fb59df43935cecedcca1e468f04f451b8",
-   "title": "Slice Into GFN Thursday: ‘Phantom Blade Zero’ Launches on GeForce NOW",
-   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "This Halloween week, GFN Thursday is delivering a fresh batch of gaming treats.  Something wicked this blade comes.",
-   "published": "2026-10-29T13:00:16.000Z",
-   "dupes": 1,
-   "score": 0.316,
+   "score": 0.315,
    "tier": 3
   },
   {
@@ -294,7 +264,52 @@
    "tldr": "How AI might enter the org chart—beneath, beside, and between us.",
    "published": "2026-10-28T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.315,
+   "score": 0.313,
+   "tier": 3
+  },
+  {
+   "id": "41c97fe8dc29ac4a38662fab728e42ff14149ac9",
+   "title": "Legora is building the agentic operating system for legal work",
+   "url": "https://openai.com/index/legora",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+   "published": "2026-10-28T09:30:00.000Z",
+   "dupes": 1,
+   "score": 0.313,
+   "tier": 3
+  },
+  {
+   "id": "c4dbacf8aa2b8b7f3fde40d5de88c170ef2c3339",
+   "title": "Google’s satellite AI server transmits its first response to Earth",
+   "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+   "source": "The Verge AI",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Google's AI chip-equipped satellite has generated its first response from space.",
+   "published": "2026-10-30T18:21:38.000Z",
+   "dupes": 1,
+   "score": 0.312,
+   "tier": 3
+  },
+  {
+   "id": "bf30529fb59df43935cecedcca1e468f04f451b8",
+   "title": "Slice Into GFN Thursday: ‘Phantom Blade Zero’ Launches on GeForce NOW",
+   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "This Halloween week, GFN Thursday is delivering a fresh batch of gaming treats.  Something wicked this blade comes.",
+   "published": "2026-10-29T13:00:16.000Z",
+   "dupes": 1,
+   "score": 0.311,
    "tier": 3
   },
   {
@@ -312,22 +327,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.315,
-   "tier": 3
-  },
-  {
-   "id": "41c97fe8dc29ac4a38662fab728e42ff14149ac9",
-   "title": "Legora is building the agentic operating system for legal work",
-   "url": "https://openai.com/index/legora",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
-   "published": "2026-10-28T09:30:00.000Z",
-   "dupes": 1,
-   "score": 0.314,
+   "score": 0.309,
    "tier": 3
   },
   {
@@ -342,7 +342,7 @@
    "tldr": "6M annual revenue run rate per employee.",
    "published": "2026-10-27T15:00:00.000Z",
    "dupes": 1,
-   "score": 0.307,
+   "score": 0.306,
    "tier": 3
   },
   {
@@ -357,7 +357,7 @@
    "tldr": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
    "published": "2026-10-27T16:01:38.000Z",
    "dupes": 1,
-   "score": 0.307,
+   "score": 0.306,
    "tier": 3
   },
   {
@@ -371,19 +371,6 @@
    "topic": "ai",
    "tldr": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
    "published": "2026-10-27T07:00:00.000Z",
-   "dupes": 1,
-   "score": 0.305,
-   "tier": 3
-  },
-  {
-   "id": "f3538b6fb36f4f58fdca64e1b764cff7fa0ed810",
-   "title": "Granite Switch 4.1.1 — Update models like you update software",
-   "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-10-29T13:37:07.000Z",
    "dupes": 1,
    "score": 0.305,
    "tier": 3
@@ -403,7 +390,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.304,
+   "score": 0.303,
    "tier": 3
   },
   {
@@ -418,35 +405,7 @@
    "tldr": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
    "published": "2026-10-26T22:00:00.000Z",
    "dupes": 1,
-   "score": 0.304,
-   "tier": 3
-  },
-  {
-   "id": "5ec9437afb139212ae41175fbcf93e5af5bacd37",
-   "title": "Silicon Valley wants you to invest in miracles",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
-   "source": "The Verge AI",
-   "org": [],
-   "topic": "compute",
-   "tldr": "Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance.  But how do you bet on a technology that could, in the worst-case scenario, \"pose…",
-   "published": "2026-10-30T13:11:05.000Z",
-   "dupes": 1,
-   "score": 0.304,
-   "tier": 3
-  },
-  {
-   "id": "5cfbd02556ec4a849cdd5e1054736e47694aeb68",
-   "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all.  But he has no intention of…",
-   "published": "2026-10-30T13:01:14.000Z",
-   "dupes": 1,
-   "score": 0.304,
+   "score": 0.303,
    "tier": 3
   },
   {
@@ -461,7 +420,7 @@
    "tldr": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
    "published": "2026-10-26T14:30:00.000Z",
    "dupes": 1,
-   "score": 0.303,
+   "score": 0.302,
    "tier": 3
   },
   {
@@ -476,7 +435,7 @@
    "tldr": "1 Sol to investigate security risks across complex codebases.  Its security agent helps developers review findings and proposed fixes.",
    "published": "2026-10-26T13:45:00.000Z",
    "dupes": 1,
-   "score": 0.303,
+   "score": 0.302,
    "tier": 3
   },
   {
@@ -536,20 +495,33 @@
    "tldr": "Bringing fast and capable computer use to everyone",
    "published": "2026-10-26T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.302,
+   "score": 0.301,
    "tier": 3
   },
   {
-   "id": "dbfbce585037fb7a97c9a84afcd6f2f5c23281b6",
-   "title": "Maine’s data center revolt will decide who controls the Senate",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
+   "id": "f3538b6fb36f4f58fdca64e1b764cff7fa0ed810",
+   "title": "Granite Switch 4.1.1 — Update models like you update software",
+   "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-10-29T13:37:07.000Z",
+   "dupes": 1,
+   "score": 0.3,
+   "tier": 3
+  },
+  {
+   "id": "5ec9437afb139212ae41175fbcf93e5af5bacd37",
+   "title": "Silicon Valley wants you to invest in miracles",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
    "source": "The Verge AI",
    "org": [],
    "topic": "compute",
-   "tldr": "Maine Sen.  Susan Collins, a Republican, was midway through defending her record during the final debate of the midterms when an audience member cut her short.",
-   "published": "2026-10-30T11:00:00.000Z",
+   "tldr": "Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance.  But how do you bet on a technology that could, in the worst-case scenario, \"pose…",
+   "published": "2026-10-30T13:11:05.000Z",
    "dupes": 1,
-   "score": 0.296,
+   "score": 0.292,
    "tier": 3
   },
   {
@@ -564,7 +536,35 @@
    "tldr": "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do.  RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI.",
    "published": "2026-10-28T15:00:46.000Z",
    "dupes": 1,
-   "score": 0.293,
+   "score": 0.291,
+   "tier": 3
+  },
+  {
+   "id": "5cfbd02556ec4a849cdd5e1054736e47694aeb68",
+   "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+   "source": "The Verge AI",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all.  But he has no intention of…",
+   "published": "2026-10-30T13:01:14.000Z",
+   "dupes": 1,
+   "score": 0.291,
+   "tier": 3
+  },
+  {
+   "id": "dbfbce585037fb7a97c9a84afcd6f2f5c23281b6",
+   "title": "Maine’s data center revolt will decide who controls the Senate",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
+   "source": "The Verge AI",
+   "org": [],
+   "topic": "compute",
+   "tldr": "Maine Sen.  Susan Collins, a Republican, was midway through defending her record during the final debate of the midterms when an audience member cut her short.",
+   "published": "2026-10-30T11:00:00.000Z",
+   "dupes": 1,
+   "score": 0.285,
    "tier": 3
   },
   {
@@ -577,7 +577,7 @@
    "tldr": "",
    "published": "2026-10-29T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.287,
+   "score": 0.284,
    "tier": 3
   },
   {
@@ -590,7 +590,7 @@
    "tldr": "",
    "published": "2026-10-29T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.287,
+   "score": 0.284,
    "tier": 3
   },
   {
@@ -603,7 +603,7 @@
    "tldr": "",
    "published": "2026-10-29T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.287,
+   "score": 0.284,
    "tier": 3
   },
   {
@@ -618,7 +618,7 @@
    "tldr": "Education Innovation",
    "published": "2026-10-27T17:35:00.000Z",
    "dupes": 1,
-   "score": 0.283,
+   "score": 0.282,
    "tier": 3
   },
   {
@@ -633,7 +633,7 @@
    "tldr": "There are 57 million people worldwide living with dementia today.  For the researchers working to help them, the obstacle isn’t a lack of effort — it’s too much data, too few experts to synthesize it and a pace of…",
    "published": "2026-10-27T15:00:20.000Z",
    "dupes": 1,
-   "score": 0.282,
+   "score": 0.281,
    "tier": 3
   },
   {
@@ -646,7 +646,7 @@
    "tldr": "",
    "published": "2026-10-27T17:16:52.000Z",
    "dupes": 1,
-   "score": 0.27,
+   "score": 0.269,
    "tier": 3
   },
   {
@@ -662,7 +662,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.27,
+   "score": 0.269,
    "tier": 3
   },
   {
@@ -677,7 +677,7 @@
    "tldr": "If you want to compete, you need to be multi-model.  And if you want to take advantage of everything that different AI models have to offer, you need a great harness.",
    "published": "2026-10-28T16:51:35.000Z",
    "dupes": 1,
-   "score": 0.269,
+   "score": 0.267,
    "tier": 3
   },
   {
@@ -692,7 +692,7 @@
    "tldr": "Today we’re announcing Muse is now available in Singapore.  The post Muse Is Now Available in Singapore: The World’s First Personal AI Agent Built for Everyone appeared first on Meta Newsroom .",
    "published": "2026-10-28T00:00:03.000Z",
    "dupes": 1,
-   "score": 0.26,
+   "score": 0.259,
    "tier": 3
   },
   {
@@ -707,7 +707,7 @@
    "tldr": "",
    "published": "2026-10-27T04:53:52.000Z",
    "dupes": 1,
-   "score": 0.245,
+   "score": 0.242,
    "tier": 3
   }
  ]
