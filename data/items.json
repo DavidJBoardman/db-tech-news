@@ -1,20 +1,50 @@
 {
- "generated": "2026-10-30T20:56:50.007Z",
+ "generated": "2026-10-31T00:20:53.511Z",
  "items": [
   {
-   "id": "63b70121f1c0d5c65c4dbdc2e5dd63d17eb51f65",
-   "title": "Malicious Claude Code extension on Cursor planted SSH backdoors",
-   "url": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors",
-   "source": "BleepingComputer",
+   "id": "93351cbb4cc442867866d46b0b95534355430728",
+   "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+   "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours",
+   "source": "Ars Technica",
    "org": [
     "anthropic"
    ],
-   "topic": "security",
-   "tldr": "A malicious version of Anthropic's Claude Code VS Code extension was distributed through Cursor's extension marketplace for approximately 11 hours on October 29, exposing up to 5,000 developers to malware designed to…",
-   "published": "2026-10-30T14:36:54.000Z",
-   "dupes": 3,
-   "score": 0.737,
+   "topic": "ai",
+   "tldr": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
+   "published": "2026-10-30T21:09:54.000Z",
+   "dupes": 2,
+   "score": 0.793,
    "tier": 1
+  },
+  {
+   "id": "1ad66cf690a946d3eeb6b2a9dbb080898748aa47",
+   "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+   "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says",
+   "source": "TechCrunch",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its…",
+   "published": "2026-10-30T21:52:03.000Z",
+   "dupes": 2,
+   "score": 0.709,
+   "tier": 2
+  },
+  {
+   "id": "d84808b6057ac5b3d776126ae8625515d42477c0",
+   "title": "Think you can save the Hubble Space Telescope? NASA wants to know.",
+   "url": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know",
+   "source": "Ars Technica",
+   "org": [
+    "nasa"
+   ],
+   "topic": "space",
+   "tldr": "The space agency solicited ideas for reboosting Hubble four years ago, but they didn't go anywhere.",
+   "published": "2026-10-31T00:07:22.000Z",
+   "dupes": 1,
+   "score": 0.686,
+   "tier": 2
   },
   {
    "id": "25cc4c9bb2e3e7e535a029d8ccf56c3c1c4d2670",
@@ -28,7 +58,22 @@
    "tldr": "txt signal to help website operators communicate their AI training preferences to participating providers.",
    "published": "2026-10-30T09:30:00.000Z",
    "dupes": 1,
-   "score": 0.696,
+   "score": 0.683,
+   "tier": 2
+  },
+  {
+   "id": "63b70121f1c0d5c65c4dbdc2e5dd63d17eb51f65",
+   "title": "Malicious Claude Code extension on Cursor planted SSH backdoors",
+   "url": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors",
+   "source": "BleepingComputer",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "security",
+   "tldr": "A malicious version of Anthropic's Claude Code VS Code extension was distributed through Cursor's extension marketplace for approximately 11 hours on October 29, exposing up to 5,000 developers to malware designed to…",
+   "published": "2026-10-30T14:36:54.000Z",
+   "dupes": 2,
+   "score": 0.682,
    "tier": 2
   },
   {
@@ -43,7 +88,7 @@
    "tldr": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
    "published": "2026-10-30T09:00:00.000Z",
    "dupes": 1,
-   "score": 0.694,
+   "score": 0.681,
    "tier": 2
   },
   {
@@ -58,7 +103,22 @@
    "tldr": "Evaluating Microsoft Copilot at enterprise scale requires test data that captures the full complexity of real organizations, yet real enterprise data contains sensitive information that cannot be used for evaluation…",
    "published": "2026-10-30T13:05:28.000Z",
    "dupes": 1,
-   "score": 0.686,
+   "score": 0.673,
+   "tier": 2
+  },
+  {
+   "id": "2268a8f9a2f9483bbfc4419d55051bae74822b29",
+   "title": "NASA Releases MAX POWER Key Events for Media, Participants",
+   "url": "https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants",
+   "source": "NASA",
+   "org": [
+    "nasa"
+   ],
+   "topic": "space",
+   "tldr": "America’s newest aerospace expo and air show – MAX POWER – is fast approaching, and NASA has announced key events beginning Friday, Nov.  6, and running through Sunday, Nov.",
+   "published": "2026-10-30T19:31:02.000Z",
+   "dupes": 1,
+   "score": 0.672,
    "tier": 2
   },
   {
@@ -72,96 +132,6 @@
    "topic": "ai",
    "tldr": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI own search summaries were affecting ad revenue.",
    "published": "2026-10-30T12:04:02.000Z",
-   "dupes": 1,
-   "score": 0.674,
-   "tier": 2
-  },
-  {
-   "id": "b394caaea4801868674f6107a1135ad97653cdc2",
-   "title": "Google admits AI search makes less money, but it's fixing that with more ads",
-   "url": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads",
-   "source": "Ars Technica",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "06 billion, and stock price tumbles following Q3 earnings.",
-   "published": "2026-10-29T16:24:55.000Z",
-   "dupes": 2,
-   "score": 0.672,
-   "tier": 2
-  },
-  {
-   "id": "c4dbacf8aa2b8b7f3fde40d5de88c170ef2c3339",
-   "title": "Google’s satellite AI server transmits its first response to Earth",
-   "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
-   "source": "The Verge AI",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Google's AI chip-equipped satellite has generated its first response from space.",
-   "published": "2026-10-30T18:21:38.000Z",
-   "dupes": 1,
-   "score": 0.67,
-   "tier": 2
-  },
-  {
-   "id": "2268a8f9a2f9483bbfc4419d55051bae74822b29",
-   "title": "NASA Releases MAX POWER Key Events for Media, Participants",
-   "url": "https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants",
-   "source": "NASA",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "AmAmerica’s newest aerospace expo and air show – MAX POWER – is fast approaching, and NASA has announced key events beginning Friday, Nov.  6, and running through Sunday, Nov.",
-   "published": "2026-10-30T19:31:02.000Z",
-   "dupes": 1,
-   "score": 0.665,
-   "tier": 2
-  },
-  {
-   "id": "b804da29a44db35ec279d0e5296660cd80397299",
-   "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
-   "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
-   "source": "Hacker News",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-10-30T10:06:15.000Z",
-   "dupes": 1,
-   "score": 0.664,
-   "tier": 2
-  },
-  {
-   "id": "32d8589f2318deeb0045a3107429387fd035ab88",
-   "title": "Microsoft finally fixes VPN issues caused by September updates",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates",
-   "source": "BleepingComputer",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "security",
-   "tldr": "Microsoft has resolved Always On VPN connection failures triggered after installing the September 2026 Windows 11 security updates.",
-   "published": "2026-10-30T11:20:26.000Z",
-   "dupes": 1,
-   "score": 0.663,
-   "tier": 2
-  },
-  {
-   "id": "fc6c7228713784133471de435e607ec5f6fa1074",
-   "title": "Google’s first data center satellite is online and writing poetry",
-   "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry",
-   "source": "TechCrunch",
-   "org": [
-    "google"
-   ],
-   "topic": "space",
-   "tldr": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
-   "published": "2026-10-30T17:00:00.000Z",
    "dupes": 1,
    "score": 0.661,
    "tier": 2
@@ -178,7 +148,22 @@
    "tldr": "Intricate structures within the Cat’s Head Nebula are illuminated in this mid-infrared view from NASA’s James Webb Space Telescope released on Oct.  29, 2026.",
    "published": "2026-10-30T15:56:26.000Z",
    "dupes": 1,
-   "score": 0.657,
+   "score": 0.658,
+   "tier": 2
+  },
+  {
+   "id": "c4dbacf8aa2b8b7f3fde40d5de88c170ef2c3339",
+   "title": "Google’s satellite AI server transmits its first response to Earth",
+   "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+   "source": "The Verge AI",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Google's AI chip-equipped satellite has generated its first response from space.",
+   "published": "2026-10-30T18:21:38.000Z",
+   "dupes": 1,
+   "score": 0.655,
    "tier": 2
   },
   {
@@ -193,22 +178,67 @@
    "tldr": "NASA issued a Request for Information Oct.  29 to learn more about industry capabilities for in-space servicing to support the agency’s Hubble Space Telescope.",
    "published": "2026-10-30T14:51:21.000Z",
    "dupes": 1,
-   "score": 0.654,
+   "score": 0.653,
    "tier": 2
   },
   {
-   "id": "5cfbd02556ec4a849cdd5e1054736e47694aeb68",
-   "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
-   "source": "The Verge AI",
+   "id": "d2282bcce1625c643a8eee68a045d3c9816c93c6",
+   "title": "Fair use benefits everyone",
+   "url": "https://openai.com/index/fair-use-benefits-everyone",
+   "source": "OpenAI Blog",
    "org": [
     "openai"
    ],
    "topic": "ai",
-   "tldr": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all.  But he has no intention of…",
-   "published": "2026-10-30T13:01:14.000Z",
+   "tldr": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
+   "published": "2026-10-30T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.646,
+   "score": 0.652,
+   "tier": 2
+  },
+  {
+   "id": "32d8589f2318deeb0045a3107429387fd035ab88",
+   "title": "Microsoft finally fixes VPN issues caused by September updates",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates",
+   "source": "BleepingComputer",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "security",
+   "tldr": "Microsoft has resolved Always On VPN connection failures triggered after installing the September 2026 Windows 11 security updates.",
+   "published": "2026-10-30T11:20:26.000Z",
+   "dupes": 1,
+   "score": 0.65,
+   "tier": 3
+  },
+  {
+   "id": "b804da29a44db35ec279d0e5296660cd80397299",
+   "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
+   "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
+   "source": "Hacker News",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-10-30T10:06:15.000Z",
+   "dupes": 1,
+   "score": 0.649,
+   "tier": 3
+  },
+  {
+   "id": "fc6c7228713784133471de435e607ec5f6fa1074",
+   "title": "Google’s first data center satellite is online and writing poetry",
+   "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry",
+   "source": "TechCrunch",
+   "org": [
+    "google"
+   ],
+   "topic": "space",
+   "tldr": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
+   "published": "2026-10-30T17:00:00.000Z",
+   "dupes": 1,
+   "score": 0.647,
    "tier": 3
   },
   {
@@ -223,41 +253,22 @@
    "tldr": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
    "published": "2026-10-29T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.642,
+   "score": 0.634,
    "tier": 3
   },
   {
-   "id": "8eef8a1c6a51e9740673f934ac7648b1ebf6fc71",
-   "title": "Microsoft Research Focus – Edition #97",
-   "url": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97",
-   "source": "Microsoft Research",
+   "id": "5cfbd02556ec4a849cdd5e1054736e47694aeb68",
+   "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+   "source": "The Verge AI",
    "org": [
-    "microsoft"
+    "openai"
    ],
    "topic": "ai",
-   "tldr": "Host Sowbhagya Suresh shares some of the latest news and cutting-edge research from across Microsoft—from understanding the challenges facing coding agents to uncovering how people use AI at work and improving…",
-   "published": "2026-10-29T19:19:16.000Z",
-   "badges": [
-    "research"
-   ],
+   "tldr": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all.  But he has no intention of…",
+   "published": "2026-10-30T13:01:14.000Z",
    "dupes": 1,
-   "score": 0.625,
-   "tier": 3
-  },
-  {
-   "id": "b3303f66493e9981f39c04384452af83e11bc1da",
-   "title": "SpaceX no longer needs NASA, and that's a problem for America's space agency",
-   "url": "https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency",
-   "source": "Ars Technica",
-   "org": [
-    "nasa",
-    "spacex"
-   ],
-   "topic": "space",
-   "tldr": "\"NASA desperately needs SpaceX, and SpaceX knows it, and Elon knows it.\"",
-   "published": "2026-10-29T11:00:08.000Z",
-   "dupes": 2,
-   "score": 0.625,
+   "score": 0.632,
    "tier": 3
   },
   {
@@ -272,7 +283,7 @@
    "tldr": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
    "published": "2026-10-29T09:00:00.000Z",
    "dupes": 1,
-   "score": 0.623,
+   "score": 0.616,
    "tier": 3
   },
   {
@@ -287,22 +298,7 @@
    "tldr": "OpenAI says it won't reduce usage limits for the $100, $200, and $500 ChatGPT Pro plans, as well as Business Premium, and it also promised to keep Dots usage independent.",
    "published": "2026-10-29T23:35:52.000Z",
    "dupes": 1,
-   "score": 0.621,
-   "tier": 3
-  },
-  {
-   "id": "2d9928289658e98658f7f3e71e7d1e4d989180d1",
-   "title": "How Ropes & Gray is developing AI for transactional diligence",
-   "url": "https://openai.com/index/ropes-gray-ai-diligence",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Ropes & Gray is developing AI for transactional diligence with OpenAI.  Lawyers review grouped documents, summaries, and reports before advising clients.",
-   "published": "2026-10-29T07:00:00.000Z",
-   "dupes": 1,
-   "score": 0.619,
+   "score": 0.611,
    "tier": 3
   },
   {
@@ -317,7 +313,22 @@
    "tldr": "The latest update also brings a cloud recovery option for PCs that won't boot.",
    "published": "2026-10-29T20:18:49.000Z",
    "dupes": 1,
-   "score": 0.612,
+   "score": 0.602,
+   "tier": 3
+  },
+  {
+   "id": "b394caaea4801868674f6107a1135ad97653cdc2",
+   "title": "Google admits AI search makes less money, but it's fixing that with more ads",
+   "url": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads",
+   "source": "Ars Technica · Gadgets",
+   "org": [
+    "google"
+   ],
+   "topic": "compute",
+   "tldr": "06 billion, and stock price tumbles following Q3 earnings.",
+   "published": "2026-10-29T16:24:55.000Z",
+   "dupes": 1,
+   "score": 0.592,
    "tier": 3
   },
   {
@@ -335,22 +346,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.598,
-   "tier": 3
-  },
-  {
-   "id": "691aeb39c4445330f854fab423cb76791fba4a6d",
-   "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
-   "url": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the search for extraterrestrial intelligence…",
-   "published": "2026-10-30T15:00:10.000Z",
-   "dupes": 1,
-   "score": 0.595,
+   "score": 0.59,
    "tier": 3
   },
   {
@@ -366,7 +362,7 @@
    "tldr": "Threat actors are delivering malicious loaders and cryptocurrency miners under the guise of artificial intelligence (AI) desktop applications for Anthropic Claude and OpenAI ChatGPT as part of a campaign dubbed Yoba.",
    "published": "2026-10-29T15:20:29.000Z",
    "dupes": 1,
-   "score": 0.59,
+   "score": 0.582,
    "tier": 3
   },
   {
@@ -381,7 +377,23 @@
    "tldr": "Google on Wednesday took the wraps off Gemini 4 Carbon, its latest frontier model with state-of-the-art cybersecurity and long-horizon capabilities.",
    "published": "2026-10-29T13:42:40.000Z",
    "dupes": 1,
-   "score": 0.586,
+   "score": 0.578,
+   "tier": 3
+  },
+  {
+   "id": "b3303f66493e9981f39c04384452af83e11bc1da",
+   "title": "SpaceX no longer needs NASA, and that's a problem for America's space agency",
+   "url": "https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency",
+   "source": "Ars Technica · Space",
+   "org": [
+    "nasa",
+    "spacex"
+   ],
+   "topic": "space",
+   "tldr": "\"NASA desperately needs SpaceX, and SpaceX knows it, and Elon knows it.\"",
+   "published": "2026-10-29T11:00:08.000Z",
+   "dupes": 1,
+   "score": 0.551,
    "tier": 3
   },
   {
@@ -395,52 +407,6 @@
    "topic": "gaming",
    "tldr": "Indie developer Maddy Makes Games has delisted Celeste and TowerFall from Xbox to support the pro-Palestinian Boycott, Divestment, and Sanctions (BDS) movement.",
    "published": "2026-10-30T12:10:27.000Z",
-   "dupes": 1,
-   "score": 0.56,
-   "tier": 3
-  },
-  {
-   "id": "1112027d5901b6f1dfea35c8c3f63382b87eaa06",
-   "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-   "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended.  Developers are combining frontier AI models with NVIDIA…",
-   "published": "2026-10-29T16:00:35.000Z",
-   "dupes": 1,
-   "score": 0.554,
-   "tier": 3
-  },
-  {
-   "id": "bf30529fb59df43935cecedcca1e468f04f451b8",
-   "title": "Slice Into GFN Thursday: ‘Phantom Blade Zero’ Launches on GeForce NOW",
-   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "This Halloween week, GFN Thursday is delivering a fresh batch of gaming treats.  Something wicked this blade comes.",
-   "published": "2026-10-29T13:00:16.000Z",
-   "dupes": 1,
-   "score": 0.55,
-   "tier": 3
-  },
-  {
-   "id": "4f4bed045acfcb546aab555026ee82adb0fc4a0d",
-   "title": "Trump ignored intel on China’s Nvidia spy to protect company’s stock, report says",
-   "url": "https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo",
-   "source": "Ars Technica",
-   "org": [
-    "nvidia",
-    "intel"
-   ],
-   "topic": "compute",
-   "tldr": "Spy accused of exploiting Trump ties to Huang, funneling secrets to China.",
-   "published": "2026-10-29T18:29:12.000Z",
    "dupes": 1,
    "score": 0.549,
    "tier": 3
@@ -457,7 +423,7 @@
    "tldr": "Third-party Android app stores can now apply to Google for permission to install apps with one tap, without Android's usual confirmation screens, and to update them in the background.  To qualify, a store must pass…",
    "published": "2026-10-28T17:08:09.000Z",
    "dupes": 1,
-   "score": 0.545,
+   "score": 0.54,
    "tier": 3
   },
   {
@@ -472,112 +438,7 @@
    "tldr": "A chain of logic flaws, with no memory corruption, can turn a malicious web page into code running on a Windows computer outside Microsoft Edge's sandbox, a security researcher has shown.  Orange Tsai of DEVCORE…",
    "published": "2026-10-28T16:23:34.000Z",
    "dupes": 1,
-   "score": 0.544,
-   "tier": 3
-  },
-  {
-   "id": "36eb3dda48d9ab1e43a954d0b8c368e1d6f70406",
-   "title": "Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
-   "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do.  RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI.",
-   "published": "2026-10-28T15:00:46.000Z",
-   "dupes": 1,
-   "score": 0.528,
-   "tier": 3
-  },
-  {
-   "id": "3ecd70f4bffc6633315ab90987c4cf015d768458",
-   "title": "Google begins certifying Registered App Stores for Android, but not in the US",
-   "url": "https://arstechnica.com/gadgets/2026/10/googles-android-registered-app-stores-program-launches-dec-1-applications-now-open",
-   "source": "Ars Technica · Gadgets",
-   "org": [
-    "google"
-   ],
-   "topic": "compute",
-   "tldr": "Easier app installs are coming to third-party stores, pending Google's stamp of approval.",
-   "published": "2026-10-27T19:32:07.000Z",
-   "dupes": 1,
-   "score": 0.527,
-   "tier": 3
-  },
-  {
-   "id": "4a299d1e9f3d54243c708738a354d186c108ed5c",
-   "title": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
-   "url": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "There are 57 million people worldwide living with dementia today.  For the researchers working to help them, the obstacle isn’t a lack of effort — it’s too much data, too few experts to synthesize it and a pace of…",
-   "published": "2026-10-27T15:00:20.000Z",
-   "dupes": 1,
-   "score": 0.515,
-   "tier": 3
-  },
-  {
-   "id": "a6006728be28909d4543a17da381161bbd7938bb",
-   "title": "Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens",
-   "url": "https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html",
-   "source": "The Hacker News",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "security",
-   "tldr": "Microsoft has fixed a flaw in its Authenticator app for Android that let a malicious app with no permissions pose as a trusted Microsoft app, such as Teams, and collect sign-in tokens for a victim's work account.  4246,…",
-   "published": "2026-10-27T12:09:50.000Z",
-   "dupes": 1,
-   "score": 0.513,
-   "tier": 3
-  },
-  {
-   "id": "3291964448bf63b8259a4d0f9e2a9f619f21fcdd",
-   "title": "Microsoft offers to buy out a quarter of its workforce",
-   "url": "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees",
-   "source": "Ars Technica · Gadgets",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "compute",
-   "tldr": "Employees in the US, Canada, India, and the UK may receive offers to leave MS today.",
-   "published": "2026-10-26T22:36:06.000Z",
-   "dupes": 1,
-   "score": 0.512,
-   "tier": 3
-  },
-  {
-   "id": "ea5496feaca5e8462ce09df2f235502cc592259e",
-   "title": "OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections",
-   "url": "https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html",
-   "source": "The Hacker News",
-   "org": [
-    "openai"
-   ],
-   "topic": "security",
-   "tldr": "OpenAI's compaction feature, which shrinks a long conversation to save space, could be turned into a way to copy a model's hidden reasoning out in plain text, security firm Xint has shown.  OpenAI's reasoning models…",
-   "published": "2026-10-27T08:22:43.000Z",
-   "dupes": 1,
-   "score": 0.51,
-   "tier": 3
-  },
-  {
-   "id": "8778d5ef4ce9de810b2efcdd6bf7101e4d1a0372",
-   "title": "Xbox first-party content partially offsets 2% drop in Q1 revenue, hardware decreases 14%",
-   "url": "https://www.gamesindustry.biz/xbox-first-party-content-partially-offsets-2-drop-in-q1-revenue-hardware-decreases-14",
-   "source": "GamesIndustry.biz",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "gaming",
-   "tldr": "3 billion in revenue with increases in net income and earnings per share.",
-   "published": "2026-10-29T10:53:08.000Z",
-   "dupes": 1,
-   "score": 0.495,
+   "score": 0.539,
    "tier": 3
   },
   {
@@ -592,22 +453,142 @@
    "tldr": "An unreleased Anthropic AI model found security flaws in Chrome, Safari, Android, Windows, and Linux and chained them into working proof-of-concept exploits, the company said in its latest report.  The exploits were…",
    "published": "2026-10-28T08:15:07.000Z",
    "dupes": 1,
+   "score": 0.529,
+   "tier": 3
+  },
+  {
+   "id": "3ecd70f4bffc6633315ab90987c4cf015d768458",
+   "title": "Google begins certifying Registered App Stores for Android, but not in the US",
+   "url": "https://arstechnica.com/gadgets/2026/10/googles-android-registered-app-stores-program-launches-dec-1-applications-now-open",
+   "source": "Ars Technica · Gadgets",
+   "org": [
+    "google"
+   ],
+   "topic": "compute",
+   "tldr": "Easier app installs are coming to third-party stores, pending Google's stamp of approval.",
+   "published": "2026-10-27T19:32:07.000Z",
+   "dupes": 1,
+   "score": 0.524,
+   "tier": 3
+  },
+  {
+   "id": "691aeb39c4445330f854fab423cb76791fba4a6d",
+   "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
+   "url": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the search for extraterrestrial intelligence…",
+   "published": "2026-10-30T15:00:10.000Z",
+   "dupes": 1,
+   "score": 0.511,
+   "tier": 3
+  },
+  {
+   "id": "3291964448bf63b8259a4d0f9e2a9f619f21fcdd",
+   "title": "Microsoft offers to buy out a quarter of its workforce",
+   "url": "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees",
+   "source": "Ars Technica · Gadgets",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "compute",
+   "tldr": "Employees in the US, Canada, India, and the UK may receive offers to leave MS today.",
+   "published": "2026-10-26T22:36:06.000Z",
+   "dupes": 1,
+   "score": 0.51,
+   "tier": 3
+  },
+  {
+   "id": "a6006728be28909d4543a17da381161bbd7938bb",
+   "title": "Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens",
+   "url": "https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html",
+   "source": "The Hacker News",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "security",
+   "tldr": "Microsoft has fixed a flaw in its Authenticator app for Android that let a malicious app with no permissions pose as a trusted Microsoft app, such as Teams, and collect sign-in tokens for a victim's work account.  4246,…",
+   "published": "2026-10-27T12:09:50.000Z",
+   "dupes": 1,
+   "score": 0.51,
+   "tier": 3
+  },
+  {
+   "id": "ea5496feaca5e8462ce09df2f235502cc592259e",
+   "title": "OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections",
+   "url": "https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html",
+   "source": "The Hacker News",
+   "org": [
+    "openai"
+   ],
+   "topic": "security",
+   "tldr": "OpenAI's compaction feature, which shrinks a long conversation to save space, could be turned into a way to copy a model's hidden reasoning out in plain text, security firm Xint has shown.  OpenAI's reasoning models…",
+   "published": "2026-10-27T08:22:43.000Z",
+   "dupes": 1,
+   "score": 0.508,
+   "tier": 3
+  },
+  {
+   "id": "8778d5ef4ce9de810b2efcdd6bf7101e4d1a0372",
+   "title": "Xbox first-party content partially offsets 2% drop in Q1 revenue, hardware decreases 14%",
+   "url": "https://www.gamesindustry.biz/xbox-first-party-content-partially-offsets-2-drop-in-q1-revenue-hardware-decreases-14",
+   "source": "GamesIndustry.biz",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "gaming",
+   "tldr": "3 billion in revenue with increases in net income and earnings per share.",
+   "published": "2026-10-29T10:53:08.000Z",
+   "dupes": 1,
+   "score": 0.488,
+   "tier": 3
+  },
+  {
+   "id": "1112027d5901b6f1dfea35c8c3f63382b87eaa06",
+   "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+   "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended.  Developers are combining frontier AI models with NVIDIA…",
+   "published": "2026-10-29T16:00:35.000Z",
+   "dupes": 1,
+   "score": 0.473,
+   "tier": 3
+  },
+  {
+   "id": "bf30529fb59df43935cecedcca1e468f04f451b8",
+   "title": "Slice Into GFN Thursday: ‘Phantom Blade Zero’ Launches on GeForce NOW",
+   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "This Halloween week, GFN Thursday is delivering a fresh batch of gaming treats.  Something wicked this blade comes.",
+   "published": "2026-10-29T13:00:16.000Z",
+   "dupes": 1,
    "score": 0.469,
    "tier": 3
   },
   {
-   "id": "7095808c7c8058a1df3986d3860cd5b537ff16ff",
-   "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
-   "url": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue",
-   "source": "Ars Technica · Space",
+   "id": "abf3f99b65a1990297f20d4e7009c3672944b87f",
+   "title": "Fake crypto app on Apple App Store linked to $23K wallet theft",
+   "url": "https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft",
+   "source": "BleepingComputer",
    "org": [
-    "nasa"
+    "apple"
    ],
-   "topic": "space",
-   "tldr": "\"We have the mandate, we have the resources, and the support from our stakeholders.\"",
-   "published": "2026-10-23T22:48:25.000Z",
+   "topic": "security",
+   "tldr": "A fake cryptocurrency trading app called Padre Terminal, previously available on the Apple App Store for iOS devices, has been linked to the theft of approximately $23,000 from 27 Solana wallets.",
+   "published": "2026-10-29T19:23:41.000Z",
    "dupes": 1,
-   "score": 0.467,
+   "score": 0.459,
    "tier": 3
   },
   {
@@ -622,7 +603,37 @@
    "tldr": "Xbox's first COO Helen Chiang has left the company after only three months in the role.",
    "published": "2026-10-28T10:15:53.000Z",
    "dupes": 1,
-   "score": 0.459,
+   "score": 0.455,
+   "tier": 3
+  },
+  {
+   "id": "36eb3dda48d9ab1e43a954d0b8c368e1d6f70406",
+   "title": "Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
+   "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do.  RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI.",
+   "published": "2026-10-28T15:00:46.000Z",
+   "dupes": 1,
+   "score": 0.449,
+   "tier": 3
+  },
+  {
+   "id": "4a299d1e9f3d54243c708738a354d186c108ed5c",
+   "title": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
+   "url": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "There are 57 million people worldwide living with dementia today.  For the researchers working to help them, the obstacle isn’t a lack of effort — it’s too much data, too few experts to synthesize it and a pace of…",
+   "published": "2026-10-27T15:00:20.000Z",
+   "dupes": 1,
+   "score": 0.437,
    "tier": 3
   },
   {
@@ -637,7 +648,7 @@
    "tldr": "Microsoft is offering voluntary exit to employees.",
    "published": "2026-10-26T21:34:00.000Z",
    "dupes": 1,
-   "score": 0.432,
+   "score": 0.431,
    "tier": 3
   },
   {
@@ -652,7 +663,7 @@
    "tldr": "Back in July, Xbox announced plans to divest five studios .  Among them was State of Decay maker Undead Labs, which Microsoft had acquired back in 2018.",
    "published": "2026-10-26T13:30:00.000Z",
    "dupes": 1,
-   "score": 0.429,
+   "score": 0.428,
    "tier": 3
   },
   {
@@ -667,165 +678,7 @@
    "tldr": "Netflix reportedly offered Microsoft $500 million over seven years to license Xbox IP for film and television adaptations.",
    "published": "2026-10-26T13:02:57.000Z",
    "dupes": 1,
-   "score": 0.429,
-   "tier": 3
-  },
-  {
-   "id": "b68c1c2345536ac2fe83ed96e4d9741671bcc834",
-   "title": "Hackers steal $6.3 billion from Binance in record crypto heist",
-   "url": "https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist",
-   "source": "Ars Technica",
-   "org": [],
-   "topic": "security",
-   "tldr": "Binance scrambles to freeze billions after record-breaking hack linked to North Korea.",
-   "published": "2026-10-30T13:46:39.000Z",
-   "dupes": 2,
-   "score": 0.424,
-   "tier": 3
-  },
-  {
-   "id": "394745c016cf74b94f64ea79152976d1ad84c11d",
-   "title": "Trezor warns of suspected crypto-theft implant in hardware wallet",
-   "url": "https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet",
-   "source": "BleepingComputer",
-   "org": [],
-   "topic": "security",
-   "tldr": "Hardware wallet device maker Trezor has received credible reports about a suspected hardware crypto-theft implant in a Trezor Safe 5 sold by its reseller CryptoBilis in Southeast Asia.",
-   "published": "2026-10-30T15:58:20.000Z",
-   "dupes": 2,
-   "score": 0.418,
-   "tier": 3
-  },
-  {
-   "id": "3fcef92ac968b29083b2a1e5053201d92a2f8ec0",
-   "title": "ESI supplying solar array components to missile defense programs",
-   "url": "https://spacenews.com/esi-supplying-solar-array-components-to-missile-defense-programs",
-   "source": "SpaceNews",
-   "org": [],
-   "topic": "space",
-   "tldr": "Oct.  30, 2026 – ESI Motion Inc.",
-   "published": "2026-10-30T18:54:34.000Z",
-   "dupes": 1,
-   "score": 0.373,
-   "tier": 3
-  },
-  {
-   "id": "db2de5d91e7b474786158d7c0b17c5be96ec770b",
-   "title": "What happened this month at the European Space Agency? (October 2026)",
-   "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/What_happened_this_month_at_the_European_Space_Agency_October_2026",
-   "source": "ESA Space News",
-   "org": [
-    "esa"
-   ],
-   "topic": "space",
-   "tldr": "Video: 00:04:30 October was a month of discoveries and milestones.  ESA’s Rosalind Franklin rover team trained in Spain’s desert, preparing for Mars.",
-   "published": "2026-10-30T15:00:00.000Z",
-   "dupes": 1,
-   "score": 0.371,
-   "tier": 3
-  },
-  {
-   "id": "6636fcb789950d924c8a674f25e26cc680aff961",
-   "title": "Rare meteorite from Mars gives us a view into its ancient crust",
-   "url": "https://arstechnica.com/science/2026/10/rare-meteorite-from-mars-gives-us-a-view-into-its-ancient-crust",
-   "source": "Ars Technica",
-   "org": [],
-   "topic": "space",
-   "tldr": "A meteorite found in the Sahara is a rare piece of Mars' ancient crust.",
-   "published": "2026-10-30T18:13:42.000Z",
-   "dupes": 1,
-   "score": 0.37,
-   "tier": 3
-  },
-  {
-   "id": "e6a83342c0c51d1efe3b1396bcfdd1571744c3e1",
-   "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
-   "source": "The Verge AI",
-   "org": [],
-   "topic": "compute",
-   "tldr": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers.",
-   "published": "2026-10-30T20:48:43.000Z",
-   "dupes": 1,
-   "score": 0.362,
-   "tier": 3
-  },
-  {
-   "id": "c8af11643d9bf0fef738d6f0e055fd46c1cb8e66",
-   "title": "Percepto launches Axion AI platform to unify inspection data analysis",
-   "url": "https://www.therobotreport.com/percepto-launches-axion-ai-platform-unify-inspection-data-analysis",
-   "source": "The Robot Report",
-   "org": [],
-   "topic": "robotics",
-   "tldr": "Percepto has launched Axion, a hardware-agnostic physical AI platform delivering visibility across mission-critical infrastructure.  The post Percepto launches Axion AI platform to unify inspection data analysis…",
-   "published": "2026-10-30T19:05:34.000Z",
-   "dupes": 1,
-   "score": 0.359,
-   "tier": 3
-  },
-  {
-   "id": "93bb529adab42cf9dff0cfe0e4d9b707819a47c7",
-   "title": "Week in images: 26-30 October 2026",
-   "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_26-30_October_2026",
-   "source": "ESA Space News",
-   "org": [],
-   "topic": "space",
-   "tldr": "Week in images: 26-30 October 2026 Discover our week through the lens",
-   "published": "2026-10-30T14:15:00.000Z",
-   "dupes": 1,
-   "score": 0.353,
-   "tier": 3
-  },
-  {
-   "id": "b3f5e32588f49f0709a7c5b084d3f33dd465584c",
-   "title": "Analysts find looming launch crisis is \"more severe\" than anticipated",
-   "url": "https://arstechnica.com/space/2026/10/analysts-find-looming-launch-crisis-is-more-severe-than-anticipated",
-   "source": "Ars Technica · Space",
-   "org": [],
-   "topic": "space",
-   "tldr": "There's no evidence that Starship will launch traditional satellites, either.",
-   "published": "2026-10-30T16:12:59.000Z",
-   "dupes": 1,
-   "score": 0.346,
-   "tier": 3
-  },
-  {
-   "id": "8cfabf68076bddedc5eb8b6d787514439d34f6e3",
-   "title": "Humanoid developer Agility now expects to raise $465M in SPAC deal",
-   "url": "https://www.therobotreport.com/humanoid-developer-agility-now-expects-raise-465m-spac-deal",
-   "source": "The Robot Report",
-   "org": [],
-   "topic": "robotics",
-   "tldr": "Agility said it expects to raise $465 million in its combination with Churchill Capital Corp XI, $155 million less than it had estimated.  The post Humanoid developer Agility now expects to raise $465M in SPAC deal…",
-   "published": "2026-10-30T16:19:16.000Z",
-   "dupes": 1,
-   "score": 0.346,
-   "tier": 3
-  },
-  {
-   "id": "cfed78c7b30043db18fd17460b9ef0f3843c7492",
-   "title": "Trump declares robot imports a national security threat",
-   "url": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat",
-   "source": "Ars Technica",
-   "org": [],
-   "topic": "robotics",
-   "tldr": "President orders trade talks on foreign-made factory robots, threatens tariffs.",
-   "published": "2026-10-29T19:07:53.000Z",
-   "dupes": 2,
-   "score": 0.341,
-   "tier": 3
-  },
-  {
-   "id": "7b2c2667f0fd6736fb4df2b99478b519e5027596",
-   "title": "RoboBusiness 2026 recap",
-   "url": "https://www.therobotreport.com/robobusiness-2026-recap",
-   "source": "The Robot Report",
-   "org": [],
-   "topic": "robotics",
-   "tldr": "The Robot Report editorial team sits down for a recap of noteworthy sessions and networking around the 2026 RoboBusiness event.  The post RoboBusiness 2026 recap appeared first on The Robot Report .",
-   "published": "2026-10-30T12:30:02.000Z",
-   "dupes": 1,
-   "score": 0.331,
+   "score": 0.428,
    "tier": 3
   },
   {
@@ -840,20 +693,158 @@
    "tldr": "Apple's \"precision-engineered\" hinge is apparently damaging some iPhone Duo screens.",
    "published": "2026-10-27T14:00:49.000Z",
    "dupes": 1,
-   "score": 0.328,
+   "score": 0.418,
    "tier": 3
   },
   {
-   "id": "5ec9437afb139212ae41175fbcf93e5af5bacd37",
-   "title": "Silicon Valley wants you to invest in miracles",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
-   "source": "The Verge AI",
-   "org": [],
+   "id": "ca17970b897c2bdedce20cc03be6a31d5dd61f10",
+   "title": "Apple reveals updated iPad mini with a bigger OLED screen for $700",
+   "url": "https://arstechnica.com/apple/2026/10/apple-reveals-updated-ipad-mini-with-a-bigger-oled-screen-for-700",
+   "source": "Ars Technica · Gadgets",
+   "org": [
+    "apple"
+   ],
    "topic": "compute",
-   "tldr": "Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance.  But how do you bet on a technology that could, in the worst-case scenario, \"pose…",
-   "published": "2026-10-30T13:11:05.000Z",
+   "tldr": "Apple claims this is the most significant update ever for the iPad mini line.",
+   "published": "2026-10-26T19:04:40.000Z",
    "dupes": 1,
-   "score": 0.327,
+   "score": 0.412,
+   "tier": 3
+  },
+  {
+   "id": "0afa3606f14eb6615a23345716efacf6c3a89dd5",
+   "title": "Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads",
+   "url": "https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html",
+   "source": "The Hacker News",
+   "org": [
+    "apple"
+   ],
+   "topic": "security",
+   "tldr": "Apple on Monday backported fixes for a high-severity security flaw that was exploited in real-world cyber attacks to older devices.  8), is an out-of-bounds write affecting CoreGraphics that could result in arbitrary…",
+   "published": "2026-10-27T13:59:09.000Z",
+   "dupes": 1,
+   "score": 0.41,
+   "tier": 3
+  },
+  {
+   "id": "a977761811a976a3ce0fcc7ccfa207309cb2d343",
+   "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+   "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake",
+   "source": "TechCrunch",
+   "org": [
+    "intel"
+   ],
+   "topic": "compute",
+   "tldr": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
+   "published": "2026-10-30T21:54:34.000Z",
+   "dupes": 1,
+   "score": 0.383,
+   "tier": 3
+  },
+  {
+   "id": "3fcef92ac968b29083b2a1e5053201d92a2f8ec0",
+   "title": "ESI supplying solar array components to missile defense programs",
+   "url": "https://spacenews.com/esi-supplying-solar-array-components-to-missile-defense-programs",
+   "source": "SpaceNews",
+   "org": [],
+   "topic": "space",
+   "tldr": "Oct.  30, 2026 – ESI Motion Inc.",
+   "published": "2026-10-30T18:54:34.000Z",
+   "dupes": 1,
+   "score": 0.358,
+   "tier": 3
+  },
+  {
+   "id": "db2de5d91e7b474786158d7c0b17c5be96ec770b",
+   "title": "What happened this month at the European Space Agency? (October 2026)",
+   "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/What_happened_this_month_at_the_European_Space_Agency_October_2026",
+   "source": "ESA Space News",
+   "org": [
+    "esa"
+   ],
+   "topic": "space",
+   "tldr": "Video: 00:04:30 October was a month of discoveries and milestones.  ESA’s Rosalind Franklin rover team trained in Spain’s desert, preparing for Mars.",
+   "published": "2026-10-30T15:00:00.000Z",
+   "dupes": 1,
+   "score": 0.356,
+   "tier": 3
+  },
+  {
+   "id": "6636fcb789950d924c8a674f25e26cc680aff961",
+   "title": "Rare meteorite from Mars gives us a view into its ancient crust",
+   "url": "https://arstechnica.com/science/2026/10/rare-meteorite-from-mars-gives-us-a-view-into-its-ancient-crust",
+   "source": "Ars Technica",
+   "org": [],
+   "topic": "space",
+   "tldr": "A meteorite found in the Sahara is a rare piece of Mars' ancient crust.",
+   "published": "2026-10-30T18:13:42.000Z",
+   "dupes": 1,
+   "score": 0.355,
+   "tier": 3
+  },
+  {
+   "id": "c8af11643d9bf0fef738d6f0e055fd46c1cb8e66",
+   "title": "Percepto launches Axion AI platform to unify inspection data analysis",
+   "url": "https://www.therobotreport.com/percepto-launches-axion-ai-platform-unify-inspection-data-analysis",
+   "source": "The Robot Report",
+   "org": [],
+   "topic": "robotics",
+   "tldr": "Percepto has launched Axion, a hardware-agnostic physical AI platform delivering visibility across mission-critical infrastructure.  The post Percepto launches Axion AI platform to unify inspection data analysis…",
+   "published": "2026-10-30T19:05:34.000Z",
+   "dupes": 1,
+   "score": 0.344,
+   "tier": 3
+  },
+  {
+   "id": "93bb529adab42cf9dff0cfe0e4d9b707819a47c7",
+   "title": "Week in images: 26-30 October 2026",
+   "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_26-30_October_2026",
+   "source": "ESA Space News",
+   "org": [],
+   "topic": "space",
+   "tldr": "Week in images: 26-30 October 2026 Discover our week through the lens",
+   "published": "2026-10-30T14:15:00.000Z",
+   "dupes": 1,
+   "score": 0.339,
+   "tier": 3
+  },
+  {
+   "id": "b3f5e32588f49f0709a7c5b084d3f33dd465584c",
+   "title": "Analysts find looming launch crisis is \"more severe\" than anticipated",
+   "url": "https://arstechnica.com/space/2026/10/analysts-find-looming-launch-crisis-is-more-severe-than-anticipated",
+   "source": "Ars Technica · Space",
+   "org": [],
+   "topic": "space",
+   "tldr": "There's no evidence that Starship will launch traditional satellites, either.",
+   "published": "2026-10-30T16:12:59.000Z",
+   "dupes": 1,
+   "score": 0.332,
+   "tier": 3
+  },
+  {
+   "id": "8cfabf68076bddedc5eb8b6d787514439d34f6e3",
+   "title": "Humanoid developer Agility now expects to raise $465M in SPAC deal",
+   "url": "https://www.therobotreport.com/humanoid-developer-agility-now-expects-raise-465m-spac-deal",
+   "source": "The Robot Report",
+   "org": [],
+   "topic": "robotics",
+   "tldr": "Agility said it expects to raise $465 million in its combination with Churchill Capital Corp XI, $155 million less than it had estimated.  The post Humanoid developer Agility now expects to raise $465M in SPAC deal…",
+   "published": "2026-10-30T16:19:16.000Z",
+   "dupes": 1,
+   "score": 0.332,
+   "tier": 3
+  },
+  {
+   "id": "7b2c2667f0fd6736fb4df2b99478b519e5027596",
+   "title": "RoboBusiness 2026 recap",
+   "url": "https://www.therobotreport.com/robobusiness-2026-recap",
+   "source": "The Robot Report",
+   "org": [],
+   "topic": "robotics",
+   "tldr": "The Robot Report editorial team sits down for a recap of noteworthy sessions and networking around the 2026 RoboBusiness event.  The post RoboBusiness 2026 recap appeared first on The Robot Report .",
+   "published": "2026-10-30T12:30:02.000Z",
+   "dupes": 1,
+   "score": 0.318,
    "tier": 3
   },
   {
@@ -866,7 +857,7 @@
    "tldr": "S.  secretary of commerce's Section 232 investigation concluded that dependence on robotics imports poses a national security risk.",
    "published": "2026-10-29T20:46:53.000Z",
    "dupes": 1,
-   "score": 0.278,
+   "score": 0.269,
    "tier": 3
   },
   {
@@ -879,7 +870,7 @@
    "tldr": "The 2026 Robotics Handbook examines design choices behind dexterous manipulation, humanoid robots, and construction automation.  The post 2026 Robotics Handbook looks at humanoids, AI, and design choices appeared first…",
    "published": "2026-10-29T19:36:12.000Z",
    "dupes": 1,
-   "score": 0.275,
+   "score": 0.266,
    "tier": 3
   },
   {
@@ -892,7 +883,7 @@
    "tldr": "0 framework.  The post AGIBOT introduces Worken to measure robot productivity at AGIBOT Innovation Day 2026 appeared first on The Robot Report .",
    "published": "2026-10-29T04:01:46.000Z",
    "dupes": 1,
-   "score": 0.24,
+   "score": 0.234,
    "tier": 3
   },
   {
@@ -905,7 +896,7 @@
    "tldr": "Robot demand from automotive component manufacturers nearly doubled in Q3, as other sectors posted strong gains, reported A3.  8% in Q3 of 2026, says A3 appeared first on The Robot Report .",
    "published": "2026-10-28T18:59:30.000Z",
    "dupes": 1,
-   "score": 0.225,
+   "score": 0.22,
    "tier": 3
   },
   {
@@ -918,7 +909,7 @@
    "tldr": "Symbotic’s growth with Walmart shows how an anchor customer can fund a robotics startup’s scale while creating risks around customer concentration, contractual restrictions and the challenge of building a diversified,…",
    "published": "2026-10-28T18:40:57.000Z",
    "dupes": 1,
-   "score": 0.224,
+   "score": 0.219,
    "tier": 3
   },
   {
@@ -934,7 +925,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.221,
+   "score": 0.216,
    "tier": 3
   },
   {
@@ -947,7 +938,7 @@
    "tldr": "In one case showcased by WorldOracle, a robot's grasp missed, yet the world model predicted that the robot had successfully picked up the fruit.  The post WorldOracle Tests Whether World Models Can Reliably Predict…",
    "published": "2026-10-28T13:44:31.000Z",
    "dupes": 1,
-   "score": 0.217,
+   "score": 0.213,
    "tier": 3
   },
   {
@@ -960,7 +951,20 @@
    "tldr": "As drone deliveries become more commonplace, their makers are looking for ways to make them quieter.",
    "published": "2026-10-28T00:01:10.000Z",
    "dupes": 1,
-   "score": 0.209,
+   "score": 0.206,
+   "tier": 3
+  },
+  {
+   "id": "fd95b15d30b7f9826569becb8282a74ef6b62598",
+   "title": "ANYbotics begins delivering ANYmal X legged robot for explosive atmospheres",
+   "url": "https://www.therobotreport.com/anybotics-begins-delivering-anymal-x-legged-robot-explosive-atmospheres",
+   "source": "The Robot Report",
+   "org": [],
+   "topic": "robotics",
+   "tldr": "ANYbotics has designed the ANYmal X inspection robot to comply with the strictest safety standards of the oil, gas, and chemical industries.  The post ANYbotics begins delivering ANYmal X legged robot for explosive…",
+   "published": "2026-10-27T14:29:58.000Z",
+   "dupes": 1,
+   "score": 0.19,
    "tier": 3
   }
  ]
