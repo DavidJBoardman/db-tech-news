@@ -1,19 +1,19 @@
 {
- "generated": "2026-11-02T16:43:46.727Z",
+ "generated": "2026-11-02T23:45:26.921Z",
  "items": [
   {
-   "id": "d822a9117e89beba081f1a7148264d86a8780c17",
-   "title": "Anthropic reports $17B in Q3 revenue, commitments of $895B in revised S-1",
-   "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
+   "id": "38c41eb0ed980884ec9af5f714f53f6096d7af32",
+   "title": "Astra can read and write weights to improve Qwen",
+   "url": "https://rikiyat.github.io/blog/weight-space-programming",
    "source": "Hacker News",
    "org": [
-    "anthropic"
+    "qwen"
    ],
    "topic": "ai",
    "tldr": "",
-   "published": "2026-11-02T14:38:45.000Z",
+   "published": "2026-11-02T18:21:28.000Z",
    "dupes": 1,
-   "score": 0.673,
+   "score": 0.634,
    "tier": 1
   },
   {
@@ -28,7 +28,97 @@
    "tldr": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
    "published": "2026-11-02T15:00:00.000Z",
    "dupes": 1,
-   "score": 0.627,
+   "score": 0.55,
+   "tier": 2
+  },
+  {
+   "id": "3e54baa4f89982b08393da0b0b1b1d76d3953e08",
+   "title": "Anthropic's growth just flattened",
+   "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
+   "source": "Hacker News",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-02T22:33:20.000Z",
+   "dupes": 1,
+   "score": 0.542,
+   "tier": 2
+  },
+  {
+   "id": "b9a70981a2e542b641bab7c709d1ea3183f73c6b",
+   "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
+   "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public",
+   "source": "Hacker News",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-02T22:30:47.000Z",
+   "dupes": 1,
+   "score": 0.541,
+   "tier": 2
+  },
+  {
+   "id": "ed4b58253682640ff9708a383e764387bd065216",
+   "title": "LifeVal",
+   "url": "https://openai.com/index/lifeval",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+   "published": "2026-11-02T09:00:00.000Z",
+   "dupes": 1,
+   "score": 0.498,
+   "tier": 2
+  },
+  {
+   "id": "e3f3f6c0c50f4c4d6d385358aaa4420b48a025ec",
+   "title": "Anthropic clamps down on Claude’s AI video game clones",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+   "source": "The Verge AI",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware.",
+   "published": "2026-11-02T18:56:02.000Z",
+   "dupes": 1,
+   "score": 0.491,
+   "tier": 2
+  },
+  {
+   "id": "16194c055af9d0c4040f9ee1bda295d41b0e3bb8",
+   "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+   "source": "The Verge AI",
+   "org": [
+    "openai"
+   ],
+   "topic": "compute",
+   "tldr": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during…",
+   "published": "2026-11-02T18:01:30.000Z",
+   "dupes": 1,
+   "score": 0.481,
+   "tier": 2
+  },
+  {
+   "id": "598c6194c0d34c2379ea364ec745e8134556f751",
+   "title": "Qodo builds context into AI code review with Codex",
+   "url": "https://openai.com/index/qodo-codex-plugin",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+   "published": "2026-11-02T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.44,
    "tier": 2
   },
   {
@@ -43,7 +133,7 @@
    "tldr": "Google DeepMind and UK government work together to reduce planning assessment times",
    "published": "2026-10-30T14:18:30.000Z",
    "dupes": 1,
-   "score": 0.32,
+   "score": 0.315,
    "tier": 2
   },
   {
@@ -58,7 +148,7 @@
    "tldr": "txt signal to help website operators communicate their AI training preferences to participating providers.",
    "published": "2026-10-30T09:30:00.000Z",
    "dupes": 1,
-   "score": 0.317,
+   "score": 0.313,
    "tier": 2
   },
   {
@@ -73,7 +163,7 @@
    "tldr": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
    "published": "2026-10-30T09:00:00.000Z",
    "dupes": 1,
-   "score": 0.316,
+   "score": 0.312,
    "tier": 2
   },
   {
@@ -88,7 +178,7 @@
    "tldr": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
    "published": "2026-10-30T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.311,
+   "score": 0.309,
    "tier": 2
   },
   {
@@ -103,7 +193,7 @@
    "tldr": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
    "published": "2026-10-29T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.309,
+   "score": 0.307,
    "tier": 2
   },
   {
@@ -118,8 +208,8 @@
    "tldr": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
    "published": "2026-10-29T09:00:00.000Z",
    "dupes": 1,
-   "score": 0.306,
-   "tier": 2
+   "score": 0.305,
+   "tier": 3
   },
   {
    "id": "2d9928289658e98658f7f3e71e7d1e4d989180d1",
@@ -133,8 +223,8 @@
    "tldr": "Ropes & Gray is developing AI for transactional diligence with OpenAI.  Lawyers review grouped documents, summaries, and reports before advising clients.",
    "published": "2026-10-29T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.306,
-   "tier": 2
+   "score": 0.305,
+   "tier": 3
   },
   {
    "id": "6750c2461412185f050bdd0f1b5b77559fc02237",
@@ -148,53 +238,8 @@
    "tldr": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI.  See how leaders and employees helped turn the results into companywide adoption.",
    "published": "2026-10-29T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.305,
-   "tier": 2
-  },
-  {
-   "id": "75e2017ed4c5a2ecbacf8d375dd8df89d0c0d878",
-   "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-   "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
-   "published": "2026-10-28T13:15:00.000Z",
-   "dupes": 1,
    "score": 0.303,
-   "tier": 2
-  },
-  {
-   "id": "0dc3cf0b7c98dcde7cee9fa081b12b2c28e359be",
-   "title": "The future of the firm",
-   "url": "https://openai.com/index/the-future-of-the-firm",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "How AI might enter the org chart—beneath, beside, and between us.",
-   "published": "2026-10-28T10:00:00.000Z",
-   "dupes": 1,
-   "score": 0.303,
-   "tier": 2
-  },
-  {
-   "id": "41c97fe8dc29ac4a38662fab728e42ff14149ac9",
-   "title": "Legora is building the agentic operating system for legal work",
-   "url": "https://openai.com/index/legora",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
-   "published": "2026-10-28T09:30:00.000Z",
-   "dupes": 1,
-   "score": 0.303,
-   "tier": 2
+   "tier": 3
   },
   {
    "id": "34b0bf3f94c3851e6957dd11bedc60679d6c4b34",
@@ -209,6 +254,51 @@
    "published": "2026-10-28T17:00:58.000Z",
    "dupes": 1,
    "score": 0.303,
+   "tier": 3
+  },
+  {
+   "id": "75e2017ed4c5a2ecbacf8d375dd8df89d0c0d878",
+   "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+   "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+   "published": "2026-10-28T13:15:00.000Z",
+   "dupes": 1,
+   "score": 0.302,
+   "tier": 3
+  },
+  {
+   "id": "0dc3cf0b7c98dcde7cee9fa081b12b2c28e359be",
+   "title": "The future of the firm",
+   "url": "https://openai.com/index/the-future-of-the-firm",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "How AI might enter the org chart—beneath, beside, and between us.",
+   "published": "2026-10-28T10:00:00.000Z",
+   "dupes": 1,
+   "score": 0.302,
+   "tier": 3
+  },
+  {
+   "id": "41c97fe8dc29ac4a38662fab728e42ff14149ac9",
+   "title": "Legora is building the agentic operating system for legal work",
+   "url": "https://openai.com/index/legora",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+   "published": "2026-10-28T09:30:00.000Z",
+   "dupes": 1,
+   "score": 0.302,
    "tier": 3
   },
   {
@@ -260,21 +350,6 @@
    "tier": 3
   },
   {
-   "id": "250e5d8f302445e732f11c3d93295dd5649f2f7e",
-   "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-   "url": "https://openai.com/index/greptile-code-review-codex-astra",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
-   "published": "2026-10-26T22:00:00.000Z",
-   "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
    "id": "5ef94984dce414f6cd0dec7eb033a3aff5071eaa",
    "title": "Genie 4: A new generation of world simulation",
    "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation",
@@ -301,35 +376,7 @@
    "tldr": "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the search for extraterrestrial intelligence…",
    "published": "2026-10-30T15:00:10.000Z",
    "dupes": 1,
-   "score": 0.295,
-   "tier": 3
-  },
-  {
-   "id": "4cd4ee44e5c1016906156584f333dd36bf2fc4ff",
-   "title": "There are now 5 inference providers for abliterated DeepSeek",
-   "url": "https://allmodels.io/llm/abliterated",
-   "source": "HN · DeepSeek",
-   "org": [
-    "deepseek"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-10-27T04:53:52.000Z",
-   "dupes": 1,
-   "score": 0.292,
-   "tier": 3
-  },
-  {
-   "id": "b2263e9f84127c7621047d154deaa4fa09bbff2b",
-   "title": "nemotron-halloween",
-   "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-10-30T17:57:24.000Z",
-   "dupes": 1,
-   "score": 0.285,
+   "score": 0.291,
    "tier": 3
   },
   {
@@ -344,7 +391,7 @@
    "tldr": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended.  Developers are combining frontier AI models with NVIDIA…",
    "published": "2026-10-29T16:00:35.000Z",
    "dupes": 1,
-   "score": 0.283,
+   "score": 0.281,
    "tier": 3
   },
   {
@@ -359,22 +406,20 @@
    "tldr": "This Halloween week, GFN Thursday is delivering a fresh batch of gaming treats.  Something wicked this blade comes.",
    "published": "2026-10-29T13:00:16.000Z",
    "dupes": 1,
-   "score": 0.283,
+   "score": 0.281,
    "tier": 3
   },
   {
-   "id": "98aa4f3fa33120c52dd07c79399e3135eb1db8f4",
-   "title": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence",
-   "url": "https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence",
-   "source": "Microsoft Research",
-   "org": [
-    "microsoft"
-   ],
+   "id": "b2263e9f84127c7621047d154deaa4fa09bbff2b",
+   "title": "nemotron-halloween",
+   "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+   "source": "Hugging Face Blog",
+   "org": [],
    "topic": "ai",
-   "tldr": "Evaluating Microsoft Copilot at enterprise scale requires test data that captures the full complexity of real organizations, yet real enterprise data contains sensitive information that cannot be used for evaluation…",
-   "published": "2026-10-30T13:05:28.000Z",
+   "tldr": "",
+   "published": "2026-10-30T17:57:24.000Z",
    "dupes": 1,
-   "score": 0.282,
+   "score": 0.28,
    "tier": 3
   },
   {
@@ -389,7 +434,22 @@
    "tldr": "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do.  RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI.",
    "published": "2026-10-28T15:00:46.000Z",
    "dupes": 1,
-   "score": 0.278,
+   "score": 0.277,
+   "tier": 3
+  },
+  {
+   "id": "98aa4f3fa33120c52dd07c79399e3135eb1db8f4",
+   "title": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence",
+   "url": "https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence",
+   "source": "Microsoft Research",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "Evaluating Microsoft Copilot at enterprise scale requires test data that captures the full complexity of real organizations, yet real enterprise data contains sensitive information that cannot be used for evaluation…",
+   "published": "2026-10-30T13:05:28.000Z",
+   "dupes": 1,
+   "score": 0.277,
    "tier": 3
   },
   {
@@ -437,7 +497,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.272,
+   "score": 0.27,
    "tier": 3
   },
   {
@@ -450,7 +510,7 @@
    "tldr": "",
    "published": "2026-10-29T13:37:07.000Z",
    "dupes": 1,
-   "score": 0.27,
+   "score": 0.268,
    "tier": 3
   },
   {
@@ -463,7 +523,7 @@
    "tldr": "",
    "published": "2026-10-29T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.267,
+   "score": 0.266,
    "tier": 3
   },
   {
@@ -476,7 +536,7 @@
    "tldr": "",
    "published": "2026-10-29T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.267,
+   "score": 0.266,
    "tier": 3
   },
   {
@@ -489,7 +549,7 @@
    "tldr": "",
    "published": "2026-10-29T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.267,
+   "score": 0.266,
    "tier": 3
   },
   {
@@ -522,21 +582,6 @@
    "tier": 3
   },
   {
-   "id": "ed0268fa6e325c7b8e32af197222988b7d77e28e",
-   "title": "I built an AI Tamagotchi before Meta could",
-   "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
-   "source": "The Verge AI",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi.  But I…",
-   "published": "2026-10-31T16:05:00.000Z",
-   "dupes": 1,
-   "score": 0.254,
-   "tier": 3
-  },
-  {
    "id": "4b9ad4180246a1db064915de5a389d31fb26d597",
    "title": "Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work",
    "url": "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work",
@@ -563,7 +608,22 @@
    "tldr": "Today we’re announcing Muse is now available in Singapore.  The post Muse Is Now Available in Singapore: The World’s First Personal AI Agent Built for Everyone appeared first on Meta Newsroom .",
    "published": "2026-10-28T00:00:03.000Z",
    "dupes": 1,
-   "score": 0.252,
+   "score": 0.251,
+   "tier": 3
+  },
+  {
+   "id": "ed0268fa6e325c7b8e32af197222988b7d77e28e",
+   "title": "I built an AI Tamagotchi before Meta could",
+   "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+   "source": "The Verge AI",
+   "org": [
+    "meta"
+   ],
+   "topic": "ai",
+   "tldr": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi.  But I…",
+   "published": "2026-10-31T16:05:00.000Z",
+   "dupes": 1,
+   "score": 0.241,
    "tier": 3
   },
   {
@@ -578,7 +638,7 @@
    "tldr": "",
    "published": "2026-10-31T13:41:11.000Z",
    "dupes": 1,
-   "score": 0.248,
+   "score": 0.226,
    "tier": 3
   },
   {
@@ -591,7 +651,7 @@
    "tldr": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers.",
    "published": "2026-10-30T20:48:43.000Z",
    "dupes": 1,
-   "score": 0.226,
+   "score": 0.22,
    "tier": 3
   },
   {
@@ -606,48 +666,22 @@
    "tldr": "Google's AI chip-equipped satellite has generated its first response from space.",
    "published": "2026-10-30T18:21:38.000Z",
    "dupes": 1,
-   "score": 0.223,
+   "score": 0.218,
    "tier": 3
   },
   {
-   "id": "5ec9437afb139212ae41175fbcf93e5af5bacd37",
-   "title": "Silicon Valley wants you to invest in miracles",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
-   "source": "The Verge AI",
-   "org": [],
-   "topic": "compute",
-   "tldr": "Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance.  But how do you bet on a technology that could, in the worst-case scenario, \"pose…",
-   "published": "2026-10-30T13:11:05.000Z",
-   "dupes": 1,
-   "score": 0.219,
-   "tier": 3
-  },
-  {
-   "id": "5cfbd02556ec4a849cdd5e1054736e47694aeb68",
-   "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
-   "source": "The Verge AI",
+   "id": "4cd4ee44e5c1016906156584f333dd36bf2fc4ff",
+   "title": "There are now 5 inference providers for abliterated DeepSeek",
+   "url": "https://allmodels.io/llm/abliterated",
+   "source": "HN · DeepSeek",
    "org": [
-    "openai"
+    "deepseek"
    ],
    "topic": "ai",
-   "tldr": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all.  But he has no intention of…",
-   "published": "2026-10-30T13:01:14.000Z",
+   "tldr": "",
+   "published": "2026-10-27T04:53:52.000Z",
    "dupes": 1,
-   "score": 0.219,
-   "tier": 3
-  },
-  {
-   "id": "dbfbce585037fb7a97c9a84afcd6f2f5c23281b6",
-   "title": "Maine’s data center revolt will decide who controls the Senate",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
-   "source": "The Verge AI",
-   "org": [],
-   "topic": "compute",
-   "tldr": "Maine Sen.  Susan Collins, a Republican, was midway through defending her record during the final debate of the midterms when an audience member cut her short.",
-   "published": "2026-10-30T11:00:00.000Z",
-   "dupes": 1,
-   "score": 0.218,
+   "score": 0.197,
    "tier": 3
   }
  ]
