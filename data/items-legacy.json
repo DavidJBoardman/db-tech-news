@@ -1,6 +1,49 @@
 {
- "generated": "2026-11-04T14:59:33.950Z",
+ "generated": "2026-11-04T21:08:00.063Z",
  "items": [
+  {
+   "id": "3a06f84c0f51a102b02f8b5a5ff865c2013898ad",
+   "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+   "url": "https://openai.com/index/openai-to-acquire-pierre",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+   "published": "2026-11-04T14:30:00.000Z",
+   "dupes": 2,
+   "score": 0.661,
+   "tier": 1
+  },
+  {
+   "id": "d8fa341b96c36837690d4e2b602a9ff3d67280b7",
+   "title": "Agile Deliberation: How AI helps humans define the gray areas",
+   "url": "https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas",
+   "source": "Google Research",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Data Mining & Modeling",
+   "published": "2026-11-04T18:07:05.000Z",
+   "dupes": 1,
+   "score": 0.587,
+   "tier": 2
+  },
+  {
+   "id": "5afc49da7bd40515f91ccc5e3c3a6f8c07f56fb3",
+   "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+   "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-04T17:50:10.000Z",
+   "dupes": 1,
+   "score": 0.571,
+   "tier": 2
+  },
   {
    "id": "88c23216a431785abc6288676db72447b6542253",
    "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
@@ -13,8 +56,86 @@
    "tldr": "",
    "published": "2026-11-04T08:46:29.000Z",
    "dupes": 1,
-   "score": 0.543,
-   "tier": 1
+   "score": 0.567,
+   "tier": 2
+  },
+  {
+   "id": "b6ceabf91c49350fe5a2b5882948fa756858a22e",
+   "title": "Gemini for Home now plugs into AT&T’s smart security system",
+   "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+   "source": "The Verge AI",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "AT&T's smart home security system now integrates with Gemini for Home.  The company says its Connected Life system is the \"first\" home security product to integrate with Google Home Premium, enabling a bunch of…",
+   "published": "2026-11-04T20:23:24.000Z",
+   "dupes": 1,
+   "score": 0.54,
+   "tier": 2
+  },
+  {
+   "id": "e5f58fa5a7c4da26f90f5a6dfd02f95916e058be",
+   "title": "Conductor Is Joining Meta",
+   "url": "https://www.conductor.build/announcement",
+   "source": "Hacker News",
+   "org": [
+    "meta"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-04T18:22:40.000Z",
+   "dupes": 1,
+   "score": 0.523,
+   "tier": 2
+  },
+  {
+   "id": "026e4ebd4085d32ee7f25e6473362a8c0117c6f4",
+   "title": "ChatGPT will now make you animated GIFs",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
+   "source": "The Verge AI",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot.  6 model, allows you to adjust the GIF's animation speed, edit individual frames, and share it with others.",
+   "published": "2026-11-04T18:00:00.000Z",
+   "dupes": 1,
+   "score": 0.51,
+   "tier": 2
+  },
+  {
+   "id": "75679f5aa60bfcf88cfee2650e1fad6a696bd2d7",
+   "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+   "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+   "published": "2026-11-04T07:00:00.000Z",
+   "dupes": 1,
+   "score": 0.503,
+   "tier": 2
+  },
+  {
+   "id": "7838c87736f9082fb144453a5a532f0d0cfd974f",
+   "title": "New model on Hugging Face: moonshotai/Kimi-K3.1-Pro",
+   "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+   "source": "HF · Moonshot",
+   "org": [
+    "moonshot"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-02T04:13:51.000Z",
+   "badges": [
+    "model"
+   ],
+   "dupes": 3,
+   "score": 0.476,
+   "tier": 2
   },
   {
    "id": "f11d9a22fb662eb7bba6a89ee124caf6d789ae3f",
@@ -28,22 +149,7 @@
    "tldr": "Search queries are growing at their fastest rate in five years, Google parent Alphabet said in its earnings report last week.  However, Google's Search revenue growth slowed to 12 percent year over year in the third…",
    "published": "2026-11-04T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.512,
-   "tier": 2
-  },
-  {
-   "id": "9b0f1b3870f8f7bfef142b6cf7e94bd9b847c298",
-   "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-   "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights",
-   "source": "Hacker News",
-   "org": [
-    "qwen"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-11-03T17:40:00.000Z",
-   "dupes": 1,
-   "score": 0.504,
+   "score": 0.446,
    "tier": 2
   },
   {
@@ -58,7 +164,7 @@
    "tldr": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
    "published": "2026-11-03T17:01:49.000Z",
    "dupes": 1,
-   "score": 0.45,
+   "score": 0.419,
    "tier": 2
   },
   {
@@ -73,7 +179,7 @@
    "tldr": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
    "published": "2026-11-03T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.424,
+   "score": 0.398,
    "tier": 2
   },
   {
@@ -88,48 +194,7 @@
    "tldr": "Demand for advanced chips is rising.  The processes to build them are getting more complex.",
    "published": "2026-11-03T16:00:45.000Z",
    "dupes": 1,
-   "score": 0.419,
-   "tier": 2
-  },
-  {
-   "id": "7f05432d1620715ca277f1bf9d8d662e8b812e3b",
-   "title": "Learn the rules: The hacker mindset",
-   "url": "https://www.microsoft.com/en-us/research/podcast/learn-the-rules-the-hacker-mindset",
-   "source": "Microsoft Research",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "Research Manager Mike Walker reflects on a career spanning hacker culture, cybersecurity, and AI, sharing lessons about trust, teamwork, leadership, and why solving difficult problems requires curiosity, judgment,…",
-   "published": "2026-11-03T17:14:38.000Z",
-   "dupes": 1,
-   "score": 0.414,
-   "tier": 2
-  },
-  {
-   "id": "a55665cf48953af7dc76daedcea9b4808e76b70d",
-   "title": "StateBench: Testing how language models track state changes over long documents",
-   "url": "https://huggingface.co/blog/allenai/statebench",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-11-03T17:15:21.000Z",
-   "dupes": 1,
-   "score": 0.414,
-   "tier": 2
-  },
-  {
-   "id": "bc4177032a04e266005389ab50fe48dec84e39b0",
-   "title": "Palette: teaching a small model to build decks in your design language",
-   "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-11-03T16:35:36.000Z",
-   "dupes": 1,
-   "score": 0.41,
+   "score": 0.389,
    "tier": 2
   },
   {
@@ -144,8 +209,8 @@
    "tldr": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security.  Learn how it is building more adaptive defenses.",
    "published": "2026-11-03T08:00:00.000Z",
    "dupes": 1,
-   "score": 0.406,
-   "tier": 2
+   "score": 0.384,
+   "tier": 3
   },
   {
    "id": "08b710f1e7801fa86cc96c61e8aad81d8bc7aec0",
@@ -159,8 +224,34 @@
    "tldr": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
    "published": "2026-11-03T08:00:00.000Z",
    "dupes": 1,
-   "score": 0.406,
-   "tier": 2
+   "score": 0.384,
+   "tier": 3
+  },
+  {
+   "id": "a55665cf48953af7dc76daedcea9b4808e76b70d",
+   "title": "StateBench: Testing how language models track state changes over long documents",
+   "url": "https://huggingface.co/blog/allenai/statebench",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-03T17:15:21.000Z",
+   "dupes": 1,
+   "score": 0.382,
+   "tier": 3
+  },
+  {
+   "id": "bc4177032a04e266005389ab50fe48dec84e39b0",
+   "title": "Palette: teaching a small model to build decks in your design language",
+   "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-03T16:35:36.000Z",
+   "dupes": 1,
+   "score": 0.379,
+   "tier": 3
   },
   {
    "id": "3d509e27bae229a3dde138610d19636ab5dd9495",
@@ -174,8 +265,8 @@
    "tldr": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
    "published": "2026-11-03T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.378,
-   "tier": 2
+   "score": 0.362,
+   "tier": 3
   },
   {
    "id": "4d836f21a02fa4612c49685da08650745273b31a",
@@ -189,22 +280,7 @@
    "tldr": "Cities generate enormous amounts of data from cameras, sensors and operational systems, but turning it into useful action — for planning, maintenance and public services — remains a challenge.",
    "published": "2026-11-03T07:00:12.000Z",
    "dupes": 1,
-   "score": 0.377,
-   "tier": 2
-  },
-  {
-   "id": "262cfa35f4308cc0bcff01a56dd97410d48892c0",
-   "title": "Preparing our next security sprint to harden OpenAI",
-   "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-   "published": "2026-11-02T18:00:00.000Z",
-   "dupes": 1,
-   "score": 0.362,
+   "score": 0.356,
    "tier": 3
   },
   {
@@ -219,23 +295,22 @@
    "tldr": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
    "published": "2026-11-02T18:00:00.000Z",
    "dupes": 1,
-   "score": 0.362,
+   "score": 0.349,
    "tier": 3
   },
   {
-   "id": "662bf89dbff24ba906fad6ff85f05e67a1a97656",
-   "title": "OpenAI says ChatGPT is catching up to Google in search",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
-   "source": "The Verge AI",
+   "id": "262cfa35f4308cc0bcff01a56dd97410d48892c0",
+   "title": "Preparing our next security sprint to harden OpenAI",
+   "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+   "source": "OpenAI Blog",
    "org": [
-    "openai",
-    "google"
+    "openai"
    ],
    "topic": "ai",
-   "tldr": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run through Google.…",
-   "published": "2026-11-03T18:30:42.000Z",
+   "tldr": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+   "published": "2026-11-02T18:00:00.000Z",
    "dupes": 1,
-   "score": 0.359,
+   "score": 0.349,
    "tier": 3
   },
   {
@@ -250,7 +325,7 @@
    "tldr": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
    "published": "2026-11-02T15:30:00.000Z",
    "dupes": 1,
-   "score": 0.356,
+   "score": 0.344,
    "tier": 3
   },
   {
@@ -265,22 +340,7 @@
    "tldr": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
    "published": "2026-11-02T15:00:00.000Z",
    "dupes": 1,
-   "score": 0.355,
-   "tier": 3
-  },
-  {
-   "id": "0eaf3e3a754437a66db8177bc3f8c45f16a0a329",
-   "title": "Google is entirely disabling Search in schools that don’t want AI",
-   "url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
-   "source": "The Verge AI",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Google is completely turning off Search in schools that reject its AI features, the company told The New York Times.",
-   "published": "2026-11-03T17:00:04.000Z",
-   "dupes": 1,
-   "score": 0.35,
+   "score": 0.344,
    "tier": 3
   },
   {
@@ -295,48 +355,7 @@
    "tldr": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
    "published": "2026-11-02T09:00:00.000Z",
    "dupes": 1,
-   "score": 0.344,
-   "tier": 3
-  },
-  {
-   "id": "20954e3ac0ff87f74efda3333b11cedb4f109ce2",
-   "title": "CWE-bench v2: More coverage, quality, and transparency",
-   "url": "https://huggingface.co/blog/cwe-bench",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-11-03T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.34,
-   "tier": 3
-  },
-  {
-   "id": "fec0e46ceba430b85db6cdfb1ee6bd847cd3cdca",
-   "title": "Transformers Model Integration Contracts",
-   "url": "https://huggingface.co/blog/transformers-mic",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-11-03T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.34,
-   "tier": 3
-  },
-  {
-   "id": "598c6194c0d34c2379ea364ec745e8134556f751",
-   "title": "Qodo builds context into AI code review with Codex",
-   "url": "https://openai.com/index/qodo-codex-plugin",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
-   "published": "2026-11-02T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.331,
+   "score": 0.335,
    "tier": 3
   },
   {
@@ -351,37 +370,48 @@
    "tldr": "S.  allies.",
    "published": "2026-11-02T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.331,
+   "score": 0.324,
    "tier": 3
   },
   {
-   "id": "25cc4c9bb2e3e7e535a029d8ccf56c3c1c4d2670",
-   "title": "Making it easier for websites to express AI training preferences",
-   "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+   "id": "598c6194c0d34c2379ea364ec745e8134556f751",
+   "title": "Qodo builds context into AI code review with Codex",
+   "url": "https://openai.com/index/qodo-codex-plugin",
    "source": "OpenAI Blog",
    "org": [
     "openai"
    ],
    "topic": "ai",
-   "tldr": "txt signal to help website operators communicate their AI training preferences to participating providers.",
-   "published": "2026-10-30T09:30:00.000Z",
+   "tldr": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+   "published": "2026-11-02T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.303,
+   "score": 0.324,
    "tier": 3
   },
   {
-   "id": "c7606af40dbb903f1458e0f22e7105b96ee65c77",
-   "title": "Community safety report and new protections for teens",
-   "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
+   "id": "20954e3ac0ff87f74efda3333b11cedb4f109ce2",
+   "title": "CWE-bench v2: More coverage, quality, and transparency",
+   "url": "https://huggingface.co/blog/cwe-bench",
+   "source": "Hugging Face Blog",
+   "org": [],
    "topic": "ai",
-   "tldr": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
-   "published": "2026-10-30T09:00:00.000Z",
+   "tldr": "",
+   "published": "2026-11-03T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.303,
+   "score": 0.324,
+   "tier": 3
+  },
+  {
+   "id": "fec0e46ceba430b85db6cdfb1ee6bd847cd3cdca",
+   "title": "Transformers Model Integration Contracts",
+   "url": "https://huggingface.co/blog/transformers-mic",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-03T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.324,
    "tier": 3
   },
   {
@@ -397,6 +427,36 @@
    "published": "2026-10-30T14:18:30.000Z",
    "dupes": 1,
    "score": 0.303,
+   "tier": 3
+  },
+  {
+   "id": "25cc4c9bb2e3e7e535a029d8ccf56c3c1c4d2670",
+   "title": "Making it easier for websites to express AI training preferences",
+   "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "txt signal to help website operators communicate their AI training preferences to participating providers.",
+   "published": "2026-10-30T09:30:00.000Z",
+   "dupes": 1,
+   "score": 0.302,
+   "tier": 3
+  },
+  {
+   "id": "c7606af40dbb903f1458e0f22e7105b96ee65c77",
+   "title": "Community safety report and new protections for teens",
+   "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+   "published": "2026-10-30T09:00:00.000Z",
+   "dupes": 1,
+   "score": 0.302,
    "tier": 3
   },
   {
@@ -475,36 +535,6 @@
    "tier": 3
   },
   {
-   "id": "bbd4d7a8dcb56d48e76541549cb619da6bd2a663",
-   "title": "Evernote turns AI-driven discovery into paid subscriptions",
-   "url": "https://openai.com/ads/customers/evernote",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Evernote used ChatGPT Ads to introduce its note-taking app to people working with AI.  The team tracked how often free trials led to paid subscriptions.",
-   "published": "2026-10-28T19:40:49.000Z",
-   "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
-   "id": "34b0bf3f94c3851e6957dd11bedc60679d6c4b34",
-   "title": "Gemini 4 Carbon: Our next frontier model",
-   "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
-   "source": "Google DeepMind",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-10-28T17:00:58.000Z",
-   "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
    "id": "691aeb39c4445330f854fab423cb76791fba4a6d",
    "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
    "url": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals",
@@ -550,51 +580,6 @@
    "tier": 3
   },
   {
-   "id": "36eb3dda48d9ab1e43a954d0b8c368e1d6f70406",
-   "title": "Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
-   "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do.  RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI.",
-   "published": "2026-10-28T15:00:46.000Z",
-   "dupes": 1,
-   "score": 0.276,
-   "tier": 3
-  },
-  {
-   "id": "e73e923ea022417f5b38b2305d9406bbd16b5944",
-   "title": "Musk is throttling Grok because its cost is 'unsustainably high'",
-   "url": "https://finance.yahoo.com/technology/article/musk-is-throttling-grok-because-its-cost-is-unsustainably-high-162959909.html",
-   "source": "HN · xAI",
-   "org": [
-    "xai"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-11-03T01:42:29.000Z",
-   "dupes": 1,
-   "score": 0.273,
-   "tier": 3
-  },
-  {
-   "id": "98aa4f3fa33120c52dd07c79399e3135eb1db8f4",
-   "title": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence",
-   "url": "https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence",
-   "source": "Microsoft Research",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "Evaluating Microsoft Copilot at enterprise scale requires test data that captures the full complexity of real organizations, yet real enterprise data contains sensitive information that cannot be used for evaluation…",
-   "published": "2026-10-30T13:05:28.000Z",
-   "dupes": 1,
-   "score": 0.266,
-   "tier": 3
-  },
-  {
    "id": "b2263e9f84127c7621047d154deaa4fa09bbff2b",
    "title": "nemotron-halloween",
    "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
@@ -605,24 +590,6 @@
    "published": "2026-10-30T17:57:24.000Z",
    "dupes": 1,
    "score": 0.266,
-   "tier": 3
-  },
-  {
-   "id": "8eef8a1c6a51e9740673f934ac7648b1ebf6fc71",
-   "title": "Microsoft Research Focus – Edition #97",
-   "url": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97",
-   "source": "Microsoft Research",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "Host Sowbhagya Suresh shares some of the latest news and cutting-edge research from across Microsoft—from understanding the challenges facing coding agents to uncovering how people use AI at work and improving…",
-   "published": "2026-10-29T19:19:16.000Z",
-   "badges": [
-    "research"
-   ],
-   "dupes": 1,
-   "score": 0.264,
    "tier": 3
   },
   {
@@ -678,18 +645,18 @@
    "tier": 3
   },
   {
-   "id": "4b9ad4180246a1db064915de5a389d31fb26d597",
-   "title": "Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work",
-   "url": "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work",
-   "source": "Microsoft Blog",
+   "id": "e73e923ea022417f5b38b2305d9406bbd16b5944",
+   "title": "Musk is throttling Grok because its cost is 'unsustainably high'",
+   "url": "https://finance.yahoo.com/technology/article/musk-is-throttling-grok-because-its-cost-is-unsustainably-high-162959909.html",
+   "source": "HN · xAI",
    "org": [
-    "microsoft"
+    "xai"
    ],
    "topic": "ai",
-   "tldr": "If you want to compete, you need to be multi-model.  And if you want to take advantage of everything that different AI models have to offer, you need a great harness.",
-   "published": "2026-10-28T16:51:35.000Z",
+   "tldr": "",
+   "published": "2026-11-03T01:42:29.000Z",
    "dupes": 1,
-   "score": 0.251,
+   "score": 0.256,
    "tier": 3
   },
   {
@@ -704,7 +671,7 @@
    "tldr": "",
    "published": "2026-10-31T13:41:11.000Z",
    "dupes": 1,
-   "score": 0.198,
+   "score": 0.197,
    "tier": 3
   }
  ]
