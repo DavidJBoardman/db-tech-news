@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05T01:34:20.548Z",
+ "generated": "2026-11-05T08:49:43.763Z",
  "items": [
   {
    "id": "3a06f84c0f51a102b02f8b5a5ff865c2013898ad",
@@ -13,8 +13,23 @@
    "tldr": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
    "published": "2026-11-04T14:30:00.000Z",
    "dupes": 2,
-   "score": 0.784,
+   "score": 0.762,
    "tier": 1
+  },
+  {
+   "id": "25c3eda20cfedcbc9b6b0c094160d09c60017f6a",
+   "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
+   "url": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
+   "source": "The Hacker News",
+   "org": [
+    "openai"
+   ],
+   "topic": "security",
+   "tldr": "2 million in API costs.",
+   "published": "2026-11-05T04:31:16.000Z",
+   "dupes": 1,
+   "score": 0.678,
+   "tier": 2
   },
   {
    "id": "d8fa341b96c36837690d4e2b602a9ff3d67280b7",
@@ -28,7 +43,7 @@
    "tldr": "Data Mining & Modeling",
    "published": "2026-11-04T18:07:05.000Z",
    "dupes": 1,
-   "score": 0.696,
+   "score": 0.668,
    "tier": 2
   },
   {
@@ -43,7 +58,7 @@
    "tldr": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
    "published": "2026-11-04T21:25:44.000Z",
    "dupes": 1,
-   "score": 0.695,
+   "score": 0.664,
    "tier": 2
   },
   {
@@ -58,7 +73,7 @@
    "tldr": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
    "published": "2026-11-04T19:29:52.000Z",
    "dupes": 1,
-   "score": 0.686,
+   "score": 0.657,
    "tier": 2
   },
   {
@@ -73,22 +88,25 @@
    "tldr": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
    "published": "2026-11-04T08:00:00.000Z",
    "dupes": 1,
-   "score": 0.674,
+   "score": 0.651,
    "tier": 2
   },
   {
-   "id": "ac5380eefb5a465ec3c2a40fc67d9d89aee0fffb",
-   "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
-   "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai",
-   "source": "TechCrunch",
+   "id": "7c0d6066b3367dc6642f61e6fb4e120665f6da21",
+   "title": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research",
+   "url": "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research",
+   "source": "NASA",
    "org": [
-    "google"
+    "nasa"
    ],
-   "topic": "ai",
-   "tldr": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly.",
-   "published": "2026-11-04T16:17:22.000Z",
+   "topic": "space",
+   "tldr": "Summit at the agency’s Kennedy Space Center in Florida.  This high-performance, highly adaptable research platform is designed to accelerate the development and testing of advanced aviation technologies.",
+   "published": "2026-11-05T01:43:21.000Z",
+   "badges": [
+    "research"
+   ],
    "dupes": 1,
-   "score": 0.673,
+   "score": 0.649,
    "tier": 2
   },
   {
@@ -103,22 +121,7 @@
    "tldr": "6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
    "published": "2026-11-04T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.67,
-   "tier": 2
-  },
-  {
-   "id": "7963e8ae457c4b79a71b42710335902e4fd5cd0f",
-   "title": "NASA Shares Plans to Accelerate Artemis, Return to Moon",
-   "url": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon",
-   "source": "NASA",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "In an update on Oct.  23, NASA Administrator Jared Isaacman and other agency leaders shared the agency’s path to returning Americans to the lunar surface in 2028.",
-   "published": "2026-11-04T21:04:10.000Z",
-   "dupes": 1,
-   "score": 0.668,
+   "score": 0.648,
    "tier": 2
   },
   {
@@ -133,7 +136,37 @@
    "tldr": "Google has cut ties with the company behind the botnet campaign.",
    "published": "2026-11-03T17:08:21.000Z",
    "dupes": 2,
-   "score": 0.662,
+   "score": 0.646,
+   "tier": 2
+  },
+  {
+   "id": "ac5380eefb5a465ec3c2a40fc67d9d89aee0fffb",
+   "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+   "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai",
+   "source": "TechCrunch",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly.",
+   "published": "2026-11-04T16:17:22.000Z",
+   "dupes": 1,
+   "score": 0.645,
+   "tier": 2
+  },
+  {
+   "id": "7963e8ae457c4b79a71b42710335902e4fd5cd0f",
+   "title": "NASA Shares Plans to Accelerate Artemis, Return to Moon",
+   "url": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon",
+   "source": "NASA",
+   "org": [
+    "nasa"
+   ],
+   "topic": "space",
+   "tldr": "In an update on Oct.  23, NASA Administrator Jared Isaacman and other agency leaders shared the agency’s path to returning Americans to the lunar surface in 2028.",
+   "published": "2026-11-04T21:04:10.000Z",
+   "dupes": 1,
+   "score": 0.64,
    "tier": 2
   },
   {
@@ -148,7 +181,7 @@
    "tldr": "NASA selected three companies on Wednesday to perform work to develop Ka-band space relay capability concepts that are compatible with current missions in space, ensuring service continuity for existing spacecraft…",
    "published": "2026-11-04T18:00:02.000Z",
    "dupes": 1,
-   "score": 0.661,
+   "score": 0.634,
    "tier": 2
   },
   {
@@ -163,68 +196,8 @@
    "tldr": "A phishing campaign used Google Calendar invites, trusted redirects, and fake login pages to hijack corporate Google sessions and bypass MFA protections.  Material Security examines how Operation CloudFire tracked the…",
    "published": "2026-11-04T15:00:10.000Z",
    "dupes": 1,
-   "score": 0.659,
+   "score": 0.633,
    "tier": 2
-  },
-  {
-   "id": "b6ceabf91c49350fe5a2b5882948fa756858a22e",
-   "title": "Gemini for Home now plugs into AT&T’s smart security system",
-   "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
-   "source": "The Verge AI",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "AT&T's smart home security system now integrates with Gemini for Home.  The company says its Connected Life system is the \"first\" home security product to integrate with Google Home Premium, enabling a bunch of…",
-   "published": "2026-11-04T20:23:24.000Z",
-   "dupes": 1,
-   "score": 0.658,
-   "tier": 2
-  },
-  {
-   "id": "2b8c626d2c39101cb11088f9c1c91d190bbaa6f2",
-   "title": "NASA Navigation Experiment Shows Promise for Planetary Landings",
-   "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings",
-   "source": "NASA",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "NASA successfully demonstrated technology designed to help spacecraft autonomously navigate to safe landing sites on the Moon and on other planets.  An Alta-X drone equipped with the agency’s Safe and Precise Landing –…",
-   "published": "2026-11-04T16:52:43.000Z",
-   "dupes": 1,
-   "score": 0.656,
-   "tier": 2
-  },
-  {
-   "id": "78de6ffe4e2d3ce47d7e8c2518bdc539a25446a0",
-   "title": "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit",
-   "url": "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html",
-   "source": "The Hacker News",
-   "org": [
-    "openai"
-   ],
-   "topic": "security",
-   "tldr": "Cybersecurity researchers have disclosed details of an OpenAI Codex jailbreak bundle that's designed to modify an artificial intelligence (AI) agent's trusted instructions to insert advertisements for a third-party AI…",
-   "published": "2026-11-04T16:06:43.000Z",
-   "dupes": 1,
-   "score": 0.656,
-   "tier": 3
-  },
-  {
-   "id": "60da6d03592287f42372cac7e7b1a34bdf4901f5",
-   "title": "NASA Space Grant Students Fuel Agency’s Inspiration Tour",
-   "url": "https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour",
-   "source": "NASA",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "NASA’s Inspiration Tour spread the excitement of space exploration and aeronautical innovation by connecting the public, industry, and academia with the people, technologies, and organizations that drive American…",
-   "published": "2026-11-04T16:16:41.000Z",
-   "dupes": 1,
-   "score": 0.654,
-   "tier": 3
   },
   {
    "id": "7fb03e82482f03240e4e9766f758307d05f0536f",
@@ -238,7 +211,7 @@
    "tldr": "Large language model hijacking attacks, also known as LLMjacking, are generating large fraudulent cloud charges, with some organizations losing more than $100,000 per day.",
    "published": "2026-11-03T18:51:04.000Z",
    "dupes": 2,
-   "score": 0.65,
+   "score": 0.633,
    "tier": 3
   },
   {
@@ -253,7 +226,7 @@
    "tldr": "6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
    "published": "2026-11-04T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.649,
+   "score": 0.63,
    "tier": 3
   },
   {
@@ -268,7 +241,67 @@
    "tldr": "1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
    "published": "2026-11-04T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.649,
+   "score": 0.63,
+   "tier": 3
+  },
+  {
+   "id": "2b8c626d2c39101cb11088f9c1c91d190bbaa6f2",
+   "title": "NASA Navigation Experiment Shows Promise for Planetary Landings",
+   "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings",
+   "source": "NASA",
+   "org": [
+    "nasa"
+   ],
+   "topic": "space",
+   "tldr": "NASA successfully demonstrated technology designed to help spacecraft autonomously navigate to safe landing sites on the Moon and on other planets.  An Alta-X drone equipped with the agency’s Safe and Precise Landing –…",
+   "published": "2026-11-04T16:52:43.000Z",
+   "dupes": 1,
+   "score": 0.63,
+   "tier": 3
+  },
+  {
+   "id": "78de6ffe4e2d3ce47d7e8c2518bdc539a25446a0",
+   "title": "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit",
+   "url": "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html",
+   "source": "The Hacker News",
+   "org": [
+    "openai"
+   ],
+   "topic": "security",
+   "tldr": "Cybersecurity researchers have disclosed details of an OpenAI Codex jailbreak bundle that's designed to modify an artificial intelligence (AI) agent's trusted instructions to insert advertisements for a third-party AI…",
+   "published": "2026-11-04T16:06:43.000Z",
+   "dupes": 1,
+   "score": 0.629,
+   "tier": 3
+  },
+  {
+   "id": "b6ceabf91c49350fe5a2b5882948fa756858a22e",
+   "title": "Gemini for Home now plugs into AT&T’s smart security system",
+   "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+   "source": "The Verge AI",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "AT&T's smart home security system now integrates with Gemini for Home.  The company says its Connected Life system is the \"first\" home security product to integrate with Google Home Premium, enabling a bunch of…",
+   "published": "2026-11-04T20:23:24.000Z",
+   "dupes": 1,
+   "score": 0.628,
+   "tier": 3
+  },
+  {
+   "id": "60da6d03592287f42372cac7e7b1a34bdf4901f5",
+   "title": "NASA Space Grant Students Fuel Agency’s Inspiration Tour",
+   "url": "https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour",
+   "source": "NASA",
+   "org": [
+    "nasa"
+   ],
+   "topic": "space",
+   "tldr": "NASA’s Inspiration Tour spread the excitement of space exploration and aeronautical innovation by connecting the public, industry, and academia with the people, technologies, and organizations that drive American…",
+   "published": "2026-11-04T16:16:41.000Z",
+   "dupes": 1,
+   "score": 0.628,
    "tier": 3
   },
   {
@@ -283,7 +316,7 @@
    "tldr": "ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot.  6 model, allows you to adjust the GIF's animation speed, edit individual frames, and share it with others.",
    "published": "2026-11-04T18:00:00.000Z",
    "dupes": 1,
-   "score": 0.648,
+   "score": 0.619,
    "tier": 3
   },
   {
@@ -298,7 +331,7 @@
    "tldr": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
    "published": "2026-11-03T17:01:49.000Z",
    "dupes": 1,
-   "score": 0.631,
+   "score": 0.615,
    "tier": 3
   },
   {
@@ -313,52 +346,7 @@
    "tldr": "A critical Android flaw could allow an attacker to run code on a phone without any user action remotely, Google said in its November security bulletin.  The flaw, CVE-2026-58868, affects Android 14 through 17.",
    "published": "2026-11-04T07:46:15.000Z",
    "dupes": 1,
-   "score": 0.625,
-   "tier": 3
-  },
-  {
-   "id": "5bddb326fb975d22279c6227c6fb0b7a7a05976d",
-   "title": "NASA Astronaut, STEM Creator Connect with Students for STEM Day",
-   "url": "https://www.nasa.gov/learning-resources/nasa-astronaut-stem-creator-connect-with-students-for-stem-day",
-   "source": "NASA",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "Students across the country will have the opportunity to connect directly with the International Space Station during a live, interactive in-flight call with NASA astronaut Anil Menon and Mark Rober STEM content creator…",
-   "published": "2026-11-03T15:15:50.000Z",
-   "dupes": 1,
-   "score": 0.58,
-   "tier": 3
-  },
-  {
-   "id": "d596e3f2baced4c06791e413b8f8b78e2f598b6e",
-   "title": "Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data",
-   "url": "https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html",
-   "source": "The Hacker News",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "security",
-   "tldr": "Attackers posing as IT support on Microsoft Teams talked employees into giving them remote control of their PCs.  They then used insecure Active Directory Certificate Services (AD CS) settings to obtain login…",
-   "published": "2026-11-02T11:08:45.000Z",
-   "dupes": 1,
-   "score": 0.531,
-   "tier": 3
-  },
-  {
-   "id": "975af12acfa19dfbfb4e32fcc11fd19d339b6154",
-   "title": "Arkane union accuses Microsoft of \"sabotaging\" Marvel's Blade with 19-month hiring freeze",
-   "url": "https://www.gamesindustry.biz/arkane-union-accuses-microsoft-of-sabotaging-marvels-blade-with-19-month-hiring-freeze",
-   "source": "GamesIndustry.biz",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "gaming",
-   "tldr": "A French union representing workers at Arkane Lyon has accused Microsoft of sabotaging development of Marvel's Blade, claiming a 19-month hiring freeze caused the delays now being used to justify the studio's closure.",
-   "published": "2026-11-04T20:17:10.000Z",
-   "dupes": 1,
-   "score": 0.527,
+   "score": 0.602,
    "tier": 3
   },
   {
@@ -375,53 +363,22 @@
    "tldr": "Cybersecurity researchers have discovered a new Windows infostealer malware called VOLTA-AUTODOXER (aka VOLTA) that makes use of a large language model (LLM) to rank a victim's stolen data by their monetization value.",
    "published": "2026-11-02T05:51:07.000Z",
    "dupes": 1,
-   "score": 0.525,
+   "score": 0.518,
    "tier": 3
   },
   {
-   "id": "54693f18a639463767cc6d488be7a899e5762ce0",
-   "title": "Ubisoft reportedly seeking to acquire Arkane Lyon from Xbox",
-   "url": "https://www.gamesindustry.biz/ubisoft-reportedly-seeking-to-acquire-arkane-lyon-from-xbox",
-   "source": "GamesIndustry.biz",
-   "org": [
-    "microsoft",
-    "ubisoft"
-   ],
-   "topic": "gaming",
-   "tldr": "Ubisoft is reportedly seeking to acquire Arkane Lyon following an extension of its consultation period with Xbox.",
-   "published": "2026-11-04T08:35:49.000Z",
-   "dupes": 1,
-   "score": 0.508,
-   "tier": 3
-  },
-  {
-   "id": "b853919723a582d4f63c19ac0b6c067f6c9b289b",
-   "title": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
-   "url": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides",
-   "source": "Ars Technica · Gadgets",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "compute",
-   "tldr": "The latest update also brings a cloud recovery option for PCs that won't boot.",
-   "published": "2026-10-29T20:18:49.000Z",
-   "dupes": 1,
-   "score": 0.494,
-   "tier": 3
-  },
-  {
-   "id": "e8eb82345a00ebfce05ad418076f477296f6ae65",
-   "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
-   "url": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
+   "id": "2a5b7d5a686a585dee3d6eaf42b2eae9a26f81b7",
+   "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
+   "url": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
    "source": "The Hacker News",
    "org": [
-    "openai"
+    "apple"
    ],
    "topic": "security",
-   "tldr": "A malicious ChatGPT share link could run an attacker's code in the logged-in session of anyone who opened it, allowing them to read their private conversations, researchers at the security firm Parameter showed.  The…",
-   "published": "2026-10-31T05:33:41.000Z",
-   "dupes": 1,
-   "score": 0.494,
+   "tldr": "S.  Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities (KEV) catalog, following…",
+   "published": "2026-11-05T05:17:04.000Z",
+   "dupes": 2,
+   "score": 0.507,
    "tier": 3
   },
   {
@@ -436,7 +393,67 @@
    "tldr": "06 billion, and stock price tumbles following Q3 earnings.",
    "published": "2026-10-29T16:24:55.000Z",
    "dupes": 1,
-   "score": 0.493,
+   "score": 0.492,
+   "tier": 3
+  },
+  {
+   "id": "e8eb82345a00ebfce05ad418076f477296f6ae65",
+   "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
+   "url": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
+   "source": "The Hacker News",
+   "org": [
+    "openai"
+   ],
+   "topic": "security",
+   "tldr": "A malicious ChatGPT share link could run an attacker's code in the logged-in session of anyone who opened it, allowing them to read their private conversations, researchers at the security firm Parameter showed.  The…",
+   "published": "2026-10-31T05:33:41.000Z",
+   "dupes": 1,
+   "score": 0.492,
+   "tier": 3
+  },
+  {
+   "id": "d596e3f2baced4c06791e413b8f8b78e2f598b6e",
+   "title": "Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data",
+   "url": "https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html",
+   "source": "The Hacker News",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "security",
+   "tldr": "Attackers posing as IT support on Microsoft Teams talked employees into giving them remote control of their PCs.  They then used insecure Active Directory Certificate Services (AD CS) settings to obtain login…",
+   "published": "2026-11-02T11:08:45.000Z",
+   "dupes": 1,
+   "score": 0.486,
+   "tier": 3
+  },
+  {
+   "id": "b853919723a582d4f63c19ac0b6c067f6c9b289b",
+   "title": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
+   "url": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides",
+   "source": "Ars Technica · Gadgets",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "compute",
+   "tldr": "The latest update also brings a cloud recovery option for PCs that won't boot.",
+   "published": "2026-10-29T20:18:49.000Z",
+   "dupes": 1,
+   "score": 0.474,
+   "tier": 3
+  },
+  {
+   "id": "975af12acfa19dfbfb4e32fcc11fd19d339b6154",
+   "title": "Arkane union accuses Microsoft of \"sabotaging\" Marvel's Blade with 19-month hiring freeze",
+   "url": "https://www.gamesindustry.biz/arkane-union-accuses-microsoft-of-sabotaging-marvels-blade-with-19-month-hiring-freeze",
+   "source": "GamesIndustry.biz",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "gaming",
+   "tldr": "A French union representing workers at Arkane Lyon has accused Microsoft of sabotaging development of Marvel's Blade, claiming a 19-month hiring freeze caused the delays now being used to justify the studio's closure.",
+   "published": "2026-11-04T20:17:10.000Z",
+   "dupes": 1,
+   "score": 0.469,
    "tier": 3
   },
   {
@@ -452,22 +469,23 @@
    "tldr": "\"NASA desperately needs SpaceX, and SpaceX knows it, and Elon knows it.\"",
    "published": "2026-10-29T11:00:08.000Z",
    "dupes": 1,
-   "score": 0.468,
+   "score": 0.467,
    "tier": 3
   },
   {
-   "id": "897995e15954483b3ee716e2b320b8a7968019c2",
-   "title": "AMD's record quarter: Data center business doubles, while gaming craters",
-   "url": "https://arstechnica.com/gadgets/2026/11/amds-record-quarter-data-center-business-doubles-while-gaming-craters",
-   "source": "Ars Technica",
+   "id": "54693f18a639463767cc6d488be7a899e5762ce0",
+   "title": "Ubisoft reportedly seeking to acquire Arkane Lyon from Xbox",
+   "url": "https://www.gamesindustry.biz/ubisoft-reportedly-seeking-to-acquire-arkane-lyon-from-xbox",
+   "source": "GamesIndustry.biz",
    "org": [
-    "amd"
+    "microsoft",
+    "ubisoft"
    ],
    "topic": "gaming",
-   "tldr": "4 billion quarter.",
-   "published": "2026-11-04T21:29:46.000Z",
-   "dupes": 2,
-   "score": 0.429,
+   "tldr": "Ubisoft is reportedly seeking to acquire Arkane Lyon following an extension of its consultation period with Xbox.",
+   "published": "2026-11-04T08:35:49.000Z",
+   "dupes": 1,
+   "score": 0.453,
    "tier": 3
   },
   {
@@ -482,7 +500,7 @@
    "tldr": "Indie developer Maddy Makes Games has delisted Celeste and TowerFall from Xbox to support the pro-Palestinian Boycott, Divestment, and Sanctions (BDS) movement.",
    "published": "2026-10-30T12:10:27.000Z",
    "dupes": 1,
-   "score": 0.421,
+   "score": 0.403,
    "tier": 3
   },
   {
@@ -497,7 +515,7 @@
    "tldr": "3 billion in revenue with increases in net income and earnings per share.",
    "published": "2026-10-29T10:53:08.000Z",
    "dupes": 1,
-   "score": 0.417,
+   "score": 0.402,
    "tier": 3
   },
   {
@@ -512,72 +530,61 @@
    "tldr": "\"Data centers in space looking pretty appealing right now.\"",
    "published": "2026-11-04T20:36:05.000Z",
    "dupes": 2,
-   "score": 0.415,
+   "score": 0.386,
    "tier": 3
   },
   {
-   "id": "3632eace057e58a0a3399e21aa2060dd09f76a60",
-   "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
-   "url": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
-   "source": "The Hacker News",
+   "id": "2e0612d18143103ce17536b526e2c02618a5b5dc",
+   "title": "Want to Rent an Internet Address at the White House?",
+   "url": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house",
+   "source": "Krebs on Security",
    "org": [],
    "topic": "security",
-   "tldr": "A flaw in APT, the package manager for Debian and Ubuntu, allows an attacker who can modify package downloads to swap a checked package for their own.  The attacker's code then runs as root, according to advisories that…",
-   "published": "2026-11-04T17:00:46.000Z",
-   "dupes": 2,
-   "score": 0.395,
-   "tier": 3
-  },
-  {
-   "id": "5f3050c22688f3faa88ac9dbfc7da8dd64364613",
-   "title": "Hackers exploited iOS and Android flaws to infect phones",
-   "url": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones",
-   "source": "Ars Technica",
-   "org": [],
-   "topic": "security",
-   "tldr": "Researchers say group may have been Kremlin-sponsored in search of diplomatic targets.",
-   "published": "2026-11-04T22:26:49.000Z",
+   "tldr": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today.  One of…",
+   "published": "2026-11-05T04:36:17.000Z",
    "dupes": 1,
-   "score": 0.388,
-   "tier": 3
-  },
-  {
-   "id": "b8eac1cafee6ec434d5e1dea3c2299346af0f425",
-   "title": "CISA flags WordPress RCE flaw as actively exploited in attacks",
-   "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks",
-   "source": "BleepingComputer",
-   "org": [],
-   "topic": "security",
-   "tldr": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers have started exploiting a recently patched high-severity WordPress vulnerability in the wild.",
-   "published": "2026-11-04T12:11:05.000Z",
-   "dupes": 2,
    "score": 0.383,
    "tier": 3
   },
   {
-   "id": "da36cf5557bf825dbd20f1aec405b362a8be5585",
-   "title": "Hackers stole DreamHost customer files and inboxes during months-long attack",
-   "url": "https://techcrunch.com/2026/11/04/hackers-stole-dreamhost-customer-files-and-inboxes-during-months-long-attack",
-   "source": "TechCrunch",
+   "id": "c1d3fd97633e25d18d0c8251279d2aa12729400d",
+   "title": "Cyprus: Island of Snakes, Cats, and Ophiolites",
+   "url": "https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites",
+   "source": "NASA",
    "org": [],
-   "topic": "security",
-   "tldr": "The web host said hackers exploited a vulnerability to access customer emails and files during a \"deliberate attack.\"",
-   "published": "2026-11-04T20:36:57.000Z",
+   "topic": "space",
+   "tldr": "The third-largest island in the Mediterranean Sea exposes an ancient piece of the ocean floor and hosts a clowder of cats.",
+   "published": "2026-11-05T05:01:00.000Z",
    "dupes": 1,
-   "score": 0.371,
+   "score": 0.373,
    "tier": 3
   },
   {
-   "id": "4614b59d1d4dfcc5a85c6c151c602a5895a0c9b0",
-   "title": "People say they want small smartphones—the Enough Phone will put that to the test",
-   "url": "https://arstechnica.com/gadgets/2026/11/people-say-they-want-small-smartphones-the-enough-phone-will-put-that-to-the-test",
-   "source": "Ars Technica · Gadgets",
+   "id": "a665869d02d25a6a4a99d5d31cf9706e9e37d55b",
+   "title": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution",
+   "url": "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
+   "source": "The Hacker News",
    "org": [],
-   "topic": "compute",
-   "tldr": "It won't win the specs race, but it will actually fit in your hand.",
-   "published": "2026-11-04T18:00:40.000Z",
+   "topic": "security",
+   "tldr": "Zyxel GS1900 network switches that received the vendor's earlier fix for an actively exploited flaw are still open to the exploit attackers used, researchers at Binarly found.  The exploit lets anyone who can reach a…",
+   "published": "2026-11-05T07:06:33.000Z",
    "dupes": 1,
-   "score": 0.352,
+   "score": 0.37,
+   "tier": 3
+  },
+  {
+   "id": "897995e15954483b3ee716e2b320b8a7968019c2",
+   "title": "AMD's record quarter: Data center business doubles, while gaming craters",
+   "url": "https://arstechnica.com/gadgets/2026/11/amds-record-quarter-data-center-business-doubles-while-gaming-craters",
+   "source": "Ars Technica",
+   "org": [
+    "amd"
+   ],
+   "topic": "gaming",
+   "tldr": "4 billion quarter.",
+   "published": "2026-11-04T21:29:46.000Z",
+   "dupes": 2,
+   "score": 0.334,
    "tier": 3
   },
   {
@@ -590,7 +597,20 @@
    "tldr": "This photo released on Nov.  2, 2026, showcases NGC 4449, a dwarf irregular.",
    "published": "2026-11-04T15:59:36.000Z",
    "dupes": 1,
-   "score": 0.349,
+   "score": 0.323,
+   "tier": 3
+  },
+  {
+   "id": "4614b59d1d4dfcc5a85c6c151c602a5895a0c9b0",
+   "title": "People say they want small smartphones—the Enough Phone will put that to the test",
+   "url": "https://arstechnica.com/gadgets/2026/11/people-say-they-want-small-smartphones-the-enough-phone-will-put-that-to-the-test",
+   "source": "Ars Technica · Gadgets",
+   "org": [],
+   "topic": "compute",
+   "tldr": "It won't win the specs race, but it will actually fit in your hand.",
+   "published": "2026-11-04T18:00:40.000Z",
+   "dupes": 1,
+   "score": 0.323,
    "tier": 3
   },
   {
@@ -605,7 +625,7 @@
    "tldr": "Demand for advanced chips is rising.  The processes to build them are getting more complex.",
    "published": "2026-11-03T16:00:45.000Z",
    "dupes": 1,
-   "score": 0.343,
+   "score": 0.32,
    "tier": 3
   },
   {
@@ -620,7 +640,7 @@
    "tldr": "Cities generate enormous amounts of data from cameras, sensors and operational systems, but turning it into useful action — for planning, maintenance and public services — remains a challenge.",
    "published": "2026-11-03T07:00:12.000Z",
    "dupes": 1,
-   "score": 0.334,
+   "score": 0.312,
    "tier": 3
   },
   {
@@ -633,7 +653,7 @@
    "tldr": "The 2026 Startup Radar presents innovative young companies developing hardware, software, and business models for the next generation of commercial robotics.  The post Robotics Startup Radar 2026 appeared first on The…",
    "published": "2026-11-04T16:08:46.000Z",
    "dupes": 1,
-   "score": 0.327,
+   "score": 0.301,
    "tier": 3
   },
   {
@@ -646,7 +666,7 @@
    "tldr": "When designing the robot, GlobalLogic said it didn't want to just quickly design a robot for one use case or environment.  The post How GlobalLogic helped Haystack Robotics build a UV disinfection robot appeared first…",
    "published": "2026-11-04T15:22:55.000Z",
    "dupes": 1,
-   "score": 0.324,
+   "score": 0.298,
    "tier": 3
   },
   {
@@ -659,7 +679,7 @@
    "tldr": "2 million hours of human experience to support zero-shot robot manipulation.  The post LiberAI Unveils Liber-0, a World Action Model That Grounds Human Experience in Robot Action appeared first on The Robot Report .",
    "published": "2026-11-04T15:02:57.000Z",
    "dupes": 1,
-   "score": 0.323,
+   "score": 0.297,
    "tier": 3
   },
   {
@@ -674,7 +694,7 @@
    "tldr": "And what that could mean for physical Switch game costs.",
    "published": "2026-11-04T22:47:51.000Z",
    "dupes": 1,
-   "score": 0.319,
+   "score": 0.293,
    "tier": 3
   },
   {
@@ -687,7 +707,7 @@
    "tldr": "S.  Midwest.",
    "published": "2026-11-04T05:01:00.000Z",
    "dupes": 1,
-   "score": 0.311,
+   "score": 0.291,
    "tier": 3
   },
   {
@@ -702,7 +722,7 @@
    "tldr": "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the search for extraterrestrial intelligence…",
    "published": "2026-10-30T15:00:10.000Z",
    "dupes": 1,
-   "score": 0.297,
+   "score": 0.28,
    "tier": 3
   },
   {
@@ -717,7 +737,7 @@
    "tldr": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended.  Developers are combining frontier AI models with NVIDIA…",
    "published": "2026-10-29T16:00:35.000Z",
    "dupes": 1,
-   "score": 0.294,
+   "score": 0.278,
    "tier": 3
   },
   {
@@ -732,7 +752,7 @@
    "tldr": "This Halloween week, GFN Thursday is delivering a fresh batch of gaming treats.  Something wicked this blade comes.",
    "published": "2026-10-29T13:00:16.000Z",
    "dupes": 1,
-   "score": 0.294,
+   "score": 0.278,
    "tier": 3
   },
   {
@@ -745,33 +765,7 @@
    "tldr": "Russia tries to fix exposed digital infrastructure as data center war backfires.",
    "published": "2026-11-03T20:39:55.000Z",
    "dupes": 1,
-   "score": 0.281,
-   "tier": 3
-  },
-  {
-   "id": "7f61e7b0972b2c1b24917a0603812315e9500a3c",
-   "title": "Astronaut and Earth",
-   "url": "https://www.nasa.gov/image-article/astronaut-and-earth",
-   "source": "NASA",
-   "org": [],
-   "topic": "space",
-   "tldr": "CSA (Canadian Space Agency) astronaut Joshua Kutryk is pictured during the Oct.  29, 2026, spacewalk.",
-   "published": "2026-11-03T16:37:42.000Z",
-   "dupes": 1,
-   "score": 0.279,
-   "tier": 3
-  },
-  {
-   "id": "02c230b95ac7786f14ba9ee7da67b0b27feba2bb",
-   "title": "TB 26-10 Printed Circuit Board Assembly Chip Resistor Body Cracking",
-   "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking",
-   "source": "NASA",
-   "org": [],
-   "topic": "space",
-   "tldr": "For more information, contact Joel W.  gov.",
-   "published": "2026-11-03T15:35:14.000Z",
-   "dupes": 1,
-   "score": 0.277,
+   "score": 0.264,
    "tier": 3
   },
   {
@@ -784,7 +778,20 @@
    "tldr": "Czech company Spacemanic and Belgian optical leader Simera Sense are teaming up to deliver a new dual-use satellite solution that can compete with bigger and heavier satellites.  Simera Sense xScape200 […] The post…",
    "published": "2026-11-03T16:59:43.000Z",
    "dupes": 1,
-   "score": 0.272,
+   "score": 0.257,
+   "tier": 3
+  },
+  {
+   "id": "a2388dbce65fa47b02646761e7e292055ef0a14d",
+   "title": "DETUMBLER: Airbus’ Passive Spin Stabilization Solution",
+   "url": "https://spacenews.com/detumbler-airbus-passive-spin-stabilization-solution",
+   "source": "SpaceNews",
+   "org": [],
+   "topic": "space",
+   "tldr": "The tumbling crisis: why dead satellites threaten orbit Every year, hundreds of satellites reach end-of-life, most are deorbited, but some fail abruptly.  Yet, even when properly decommissioned, some dead satellites […]…",
+   "published": "2026-11-03T13:30:00.000Z",
+   "dupes": 1,
+   "score": 0.251,
    "tier": 3
   },
   {
@@ -797,7 +804,7 @@
    "tldr": "Ben Waters discusses opportunity charging, battery life, and the infrastructure needed to keep growing robot fleets running.  The post Ben Waters on the latest wireless charging strategies appeared first on The Robot…",
    "published": "2026-11-03T21:29:37.000Z",
    "dupes": 1,
-   "score": 0.268,
+   "score": 0.251,
    "tier": 3
   },
   {
@@ -810,7 +817,20 @@
    "tldr": "The ISO 21423:2026 interoperability standard is intended to allow mobile robots from multiple vendors to communicate and coordinate.  The post New ISO interoperability standard covers collaboration among mobile robots…",
    "published": "2026-11-03T14:40:33.000Z",
    "dupes": 1,
-   "score": 0.252,
+   "score": 0.238,
+   "tier": 3
+  },
+  {
+   "id": "31995e779b99ed9a7561e4464fd05c2fcb167045",
+   "title": "Chip Art",
+   "url": "https://en.wikipedia.org/wiki/Chip_art",
+   "source": "Hacker News",
+   "org": [],
+   "topic": "compute",
+   "tldr": "",
+   "published": "2026-11-03T09:51:39.000Z",
+   "dupes": 1,
+   "score": 0.219,
    "tier": 3
   },
   {
@@ -825,7 +845,7 @@
    "tldr": "Deal is expected to provide approximately $465 million in gross capital as Agility expands deployments of its Digit humanoid with industrial customers.  5B Agility Robotics humanoid SPAC appeared first on The Robot…",
    "published": "2026-11-03T00:15:39.000Z",
    "dupes": 1,
-   "score": 0.226,
+   "score": 0.215,
    "tier": 3
   },
   {
@@ -841,7 +861,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.22,
+   "score": 0.212,
    "tier": 3
   },
   {
@@ -854,7 +874,7 @@
    "tldr": "Tutor Intelligence has raised funding to further develop its picking robots, networked intelligence, and commercial deployments.  The post Tutor Intelligence raises Series B to scale model training, robot deployments…",
    "published": "2026-11-02T19:25:59.000Z",
    "dupes": 1,
-   "score": 0.218,
+   "score": 0.209,
    "tier": 3
   },
   {
@@ -867,7 +887,7 @@
    "tldr": "ThermAffyx addresses secure positioning and heating of patients for robot-assisted surgical procedures with a minimal OR footprint.  The post Gentherm designs ThermAffyx to secure, heat patients during robotic surgeries…",
    "published": "2026-11-02T18:06:36.000Z",
    "dupes": 1,
-   "score": 0.217,
+   "score": 0.208,
    "tier": 3
   },
   {
@@ -880,7 +900,7 @@
    "tldr": "Connie Bowen, the founding general partner of Farmhand Ventures, discusses the importance of return on investment for AgTech developers.  The post What AgTech founders get wrong about ROI appeared first on The Robot…",
    "published": "2026-11-02T15:30:09.000Z",
    "dupes": 1,
-   "score": 0.213,
+   "score": 0.205,
    "tier": 3
   },
   {
@@ -893,7 +913,7 @@
    "tldr": "VicOne identified an initial set of 28 zero-day findings in less than two days using AI-assisted research across software and tools supporting the Physical AI ecosystem.  The post 28 Zero-Day Findings in Less Than Two…",
    "published": "2026-11-01T14:00:58.000Z",
    "dupes": 1,
-   "score": 0.189,
+   "score": 0.184,
    "tier": 3
   },
   {
@@ -906,7 +926,7 @@
    "tldr": "As robotics systems grow more capable — faster, more precise, and increasingly reliant on AI-driven vision and control — the humble interconnect is being asked to do more than ever.  The post Solving the Interconnect…",
    "published": "2026-11-01T13:00:31.000Z",
    "dupes": 1,
-   "score": 0.188,
+   "score": 0.184,
    "tier": 3
   },
   {
@@ -919,7 +939,7 @@
    "tldr": "Boom’s airliner may be delayed, and its data center power business lost a customer.",
    "published": "2026-10-30T21:41:54.000Z",
    "dupes": 1,
-   "score": 0.18,
+   "score": 0.178,
    "tier": 3
   },
   {
@@ -932,20 +952,7 @@
    "tldr": "Low costs and offline security mean magnetic tape still has a job.",
    "published": "2026-10-30T17:38:19.000Z",
    "dupes": 1,
-   "score": 0.178,
-   "tier": 3
-  },
-  {
-   "id": "f4ac6941305277f24275f620d28c1029fe7be428",
-   "title": "Reddit is moving to “a logged-in-only experience,” CEO says",
-   "url": "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms",
-   "source": "Ars Technica · Gadgets",
-   "org": [],
-   "topic": "compute",
-   "tldr": "Reddit's search traffic \"was down meaningfully\" last quarter.",
-   "published": "2026-10-29T21:47:57.000Z",
-   "dupes": 1,
-   "score": 0.174,
+   "score": 0.177,
    "tier": 3
   }
  ]
