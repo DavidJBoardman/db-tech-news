@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06T03:01:29.926Z",
+ "generated": "2026-11-06T11:15:46.509Z",
  "items": [
   {
    "id": "3b58ffb304e7b124cccfb142a59a8052fc0d1e06",
@@ -13,8 +13,38 @@
    "tldr": "",
    "published": "2026-11-05T22:17:15.000Z",
    "dupes": 1,
-   "score": 0.636,
+   "score": 0.562,
    "tier": 1
+  },
+  {
+   "id": "25a6a123ca912b950de636c9fc4f320af8200f54",
+   "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
+   "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
+   "source": "Hacker News",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-06T09:27:12.000Z",
+   "dupes": 1,
+   "score": 0.535,
+   "tier": 2
+  },
+  {
+   "id": "df89720934dec725b234d6264d03bb9f5cbf555f",
+   "title": "Kugelblitz – Mac-Native Google Earth Alternative",
+   "url": "https://apps.metaebene.me/en/kugelblitz",
+   "source": "Hacker News",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-06T07:47:38.000Z",
+   "dupes": 1,
+   "score": 0.517,
+   "tier": 2
   },
   {
    "id": "c88b52d0b21039c72dea8f05c76e66a260655c3b",
@@ -28,22 +58,20 @@
    "tldr": "fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
    "published": "2026-11-05T20:00:00.000Z",
    "dupes": 1,
-   "score": 0.567,
+   "score": 0.494,
    "tier": 2
   },
   {
-   "id": "7eab5dddcfa7727d177f58b1fd27561c99165e39",
-   "title": "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
-   "url": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "AI agents do more than generate answers.  They search for information, query databases, write and test code and take action.",
-   "published": "2026-11-05T20:00:41.000Z",
+   "id": "82196d4ece0a644eb652d153eb38399732392fcf",
+   "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+   "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-06T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.542,
+   "score": 0.489,
    "tier": 2
   },
   {
@@ -58,7 +86,7 @@
    "tldr": "",
    "published": "2026-11-05T17:05:16.000Z",
    "dupes": 1,
-   "score": 0.539,
+   "score": 0.474,
    "tier": 2
   },
   {
@@ -73,7 +101,37 @@
    "tldr": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
    "published": "2026-11-05T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.538,
+   "score": 0.473,
+   "tier": 2
+  },
+  {
+   "id": "7eab5dddcfa7727d177f58b1fd27561c99165e39",
+   "title": "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
+   "url": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "AI agents do more than generate answers.  They search for information, query databases, write and test code and take action.",
+   "published": "2026-11-05T20:00:41.000Z",
+   "dupes": 1,
+   "score": 0.47,
+   "tier": 2
+  },
+  {
+   "id": "b95f6aa29001e5a7c2d835487a1f161969aa5b29",
+   "title": "Nvidia Kubernetes Engine (NVKE)",
+   "url": "https://github.com/dsx-ai-factory/nvke",
+   "source": "Hacker News",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-06T03:16:26.000Z",
+   "dupes": 1,
+   "score": 0.468,
    "tier": 2
   },
   {
@@ -88,22 +146,7 @@
    "tldr": "",
    "published": "2026-11-05T19:35:16.000Z",
    "dupes": 1,
-   "score": 0.525,
-   "tier": 2
-  },
-  {
-   "id": "85f398082dadd860b70c3337edfbe98b15702360",
-   "title": "OpenAI is stepping back from NDAs for data center projects",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "compute",
-   "tldr": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including…",
-   "published": "2026-11-06T00:37:56.000Z",
-   "dupes": 1,
-   "score": 0.519,
+   "score": 0.454,
    "tier": 2
   },
   {
@@ -118,7 +161,7 @@
    "tldr": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended.  Developers are combining frontier AI models with NVIDIA…",
    "published": "2026-11-05T17:00:35.000Z",
    "dupes": 1,
-   "score": 0.513,
+   "score": 0.448,
    "tier": 2
   },
   {
@@ -133,7 +176,7 @@
    "tldr": "Health & Bioscience",
    "published": "2026-11-05T16:01:08.000Z",
    "dupes": 1,
-   "score": 0.504,
+   "score": 0.442,
    "tier": 2
   },
   {
@@ -151,7 +194,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.504,
+   "score": 0.442,
    "tier": 2
   },
   {
@@ -166,23 +209,23 @@
    "tldr": "Larger models, longer contexts and agentic applications are increasing GPU memory pressure while supply tightens and prices rise — a trend expected to continue through the near term.  NVIDIA works closely with memory…",
    "published": "2026-11-05T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.504,
-   "tier": 2
+   "score": 0.442,
+   "tier": 3
   },
   {
-   "id": "5c5c439c3a5adbf40dd6ed0ab9fac40d464fdaed",
-   "title": "Formally verifying agent-written full-stack web apps with PDD Kit",
-   "url": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit",
-   "source": "Microsoft Research",
+   "id": "85f398082dadd860b70c3337edfbe98b15702360",
+   "title": "OpenAI is stepping back from NDAs for data center projects",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+   "source": "The Verge AI",
    "org": [
-    "microsoft"
+    "openai"
    ],
-   "topic": "ai",
-   "tldr": "AI agents can generate code at a scale that’s hard for humans to review line-by-line.  PDD Kit helps ensure the code is doing what the developer intended by creating formal specifications and testing against them.",
-   "published": "2026-11-05T16:00:00.000Z",
+   "topic": "compute",
+   "tldr": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including…",
+   "published": "2026-11-06T00:37:56.000Z",
    "dupes": 1,
-   "score": 0.491,
-   "tier": 2
+   "score": 0.432,
+   "tier": 3
   },
   {
    "id": "588776d5fd509bfe543ef68082407210403c53b9",
@@ -196,8 +239,23 @@
    "tldr": "Hogwarts Legacy receives an NVIDIA DLSS 5 upgrade with 3D-Guided Neural Rendering today, bringing lifelike lighting and materials to the wizarding world on GeForce NOW.  Blizzard Entertainment’s World of Warcraft:…",
    "published": "2026-11-05T14:00:34.000Z",
    "dupes": 1,
-   "score": 0.487,
-   "tier": 2
+   "score": 0.429,
+   "tier": 3
+  },
+  {
+   "id": "5c5c439c3a5adbf40dd6ed0ab9fac40d464fdaed",
+   "title": "Formally verifying agent-written full-stack web apps with PDD Kit",
+   "url": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit",
+   "source": "Microsoft Research",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "AI agents can generate code at a scale that’s hard for humans to review line-by-line.  PDD Kit helps ensure the code is doing what the developer intended by creating formal specifications and testing against them.",
+   "published": "2026-11-05T16:00:00.000Z",
+   "dupes": 1,
+   "score": 0.429,
+   "tier": 3
   },
   {
    "id": "53c56afbaf05f856eba574dee155263173cd7748",
@@ -211,7 +269,22 @@
    "tldr": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
    "published": "2026-11-05T09:00:00.000Z",
    "dupes": 1,
-   "score": 0.475,
+   "score": 0.427,
+   "tier": 3
+  },
+  {
+   "id": "300d91101f21ec1db57e65e8d8390a93f01c350b",
+   "title": "Merge builds product and business tools with OpenAI technology",
+   "url": "https://openai.com/index/merge-builds-with-openai",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing.  Its teams also use AI to plan executive dinners and prepare sales updates.",
+   "published": "2026-11-05T08:00:00.000Z",
+   "dupes": 1,
+   "score": 0.422,
    "tier": 3
   },
   {
@@ -229,70 +302,7 @@
     "model"
    ],
    "dupes": 2,
-   "score": 0.472,
-   "tier": 3
-  },
-  {
-   "id": "300d91101f21ec1db57e65e8d8390a93f01c350b",
-   "title": "Merge builds product and business tools with OpenAI technology",
-   "url": "https://openai.com/index/merge-builds-with-openai",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing.  Its teams also use AI to plan executive dinners and prepare sales updates.",
-   "published": "2026-11-05T08:00:00.000Z",
-   "dupes": 1,
-   "score": 0.468,
-   "tier": 3
-  },
-  {
-   "id": "f49d817c3fd35c35c529d05e1ee19860b7a20991",
-   "title": "Claude AI can plug directly into your bank account",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
-   "source": "The Verge AI",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform.",
-   "published": "2026-11-05T18:00:00.000Z",
-   "dupes": 1,
-   "score": 0.447,
-   "tier": 3
-  },
-  {
-   "id": "3c63b1bd263a0a08195a66ff3ba4cc186a48f5f8",
-   "title": "GPT-6 Astra covertly underperforms on safety research",
-   "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks",
-   "source": "Hacker News",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-11-05T07:44:30.000Z",
-   "badges": [
-    "research"
-   ],
-   "dupes": 1,
-   "score": 0.44,
-   "tier": 3
-  },
-  {
-   "id": "b529285c262b3aff5c1fb99a9860f1999448983e",
-   "title": "OpenAI says its new cybersecurity model is better at not hacking other companies",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI is launching GPT-6 Cyber, the latest version of its cybersecurity AI model, which it says is better at finding vulnerabilities and less likely to go rogue and hack other platforms in the process.",
-   "published": "2026-11-05T17:00:00.000Z",
-   "dupes": 1,
-   "score": 0.438,
+   "score": 0.399,
    "tier": 3
   },
   {
@@ -307,7 +317,7 @@
    "tldr": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
    "published": "2026-11-05T02:00:00.000Z",
    "dupes": 1,
-   "score": 0.434,
+   "score": 0.397,
    "tier": 3
   },
   {
@@ -322,7 +332,7 @@
    "tldr": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
    "published": "2026-11-05T00:45:15.000Z",
    "dupes": 1,
-   "score": 0.427,
+   "score": 0.393,
    "tier": 3
   },
   {
@@ -340,7 +350,37 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.424,
+   "score": 0.39,
+   "tier": 3
+  },
+  {
+   "id": "f49d817c3fd35c35c529d05e1ee19860b7a20991",
+   "title": "Claude AI can plug directly into your bank account",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
+   "source": "The Verge AI",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform.",
+   "published": "2026-11-05T18:00:00.000Z",
+   "dupes": 1,
+   "score": 0.38,
+   "tier": 3
+  },
+  {
+   "id": "b529285c262b3aff5c1fb99a9860f1999448983e",
+   "title": "OpenAI says its new cybersecurity model is better at not hacking other companies",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
+   "source": "The Verge AI",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI is launching GPT-6 Cyber, the latest version of its cybersecurity AI model, which it says is better at finding vulnerabilities and less likely to go rogue and hack other platforms in the process.",
+   "published": "2026-11-05T17:00:00.000Z",
+   "dupes": 1,
+   "score": 0.373,
    "tier": 3
   },
   {
@@ -355,7 +395,7 @@
    "tldr": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
    "published": "2026-11-04T14:30:00.000Z",
    "dupes": 1,
-   "score": 0.386,
+   "score": 0.362,
    "tier": 3
   },
   {
@@ -368,22 +408,7 @@
    "tldr": "",
    "published": "2026-11-05T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.386,
-   "tier": 3
-  },
-  {
-   "id": "d8fa341b96c36837690d4e2b602a9ff3d67280b7",
-   "title": "Agile Deliberation: How AI helps humans define the gray areas",
-   "url": "https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas",
-   "source": "Google Research",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Data Mining & Modeling",
-   "published": "2026-11-04T18:07:05.000Z",
-   "dupes": 1,
-   "score": 0.374,
+   "score": 0.353,
    "tier": 3
   },
   {
@@ -398,7 +423,7 @@
    "tldr": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
    "published": "2026-11-04T08:00:00.000Z",
    "dupes": 1,
-   "score": 0.367,
+   "score": 0.349,
    "tier": 3
   },
   {
@@ -413,20 +438,22 @@
    "tldr": "6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
    "published": "2026-11-04T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.364,
+   "score": 0.347,
    "tier": 3
   },
   {
-   "id": "5afc49da7bd40515f91ccc5e3c3a6f8c07f56fb3",
-   "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-   "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-   "source": "Hugging Face Blog",
-   "org": [],
+   "id": "d8fa341b96c36837690d4e2b602a9ff3d67280b7",
+   "title": "Agile Deliberation: How AI helps humans define the gray areas",
+   "url": "https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas",
+   "source": "Google Research",
+   "org": [
+    "google"
+   ],
    "topic": "ai",
-   "tldr": "",
-   "published": "2026-11-04T17:50:10.000Z",
+   "tldr": "Data Mining & Modeling",
+   "published": "2026-11-04T18:07:05.000Z",
    "dupes": 1,
-   "score": 0.36,
+   "score": 0.347,
    "tier": 3
   },
   {
@@ -441,7 +468,7 @@
    "tldr": "6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
    "published": "2026-11-04T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.349,
+   "score": 0.336,
    "tier": 3
   },
   {
@@ -456,7 +483,20 @@
    "tldr": "1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
    "published": "2026-11-04T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.349,
+   "score": 0.336,
+   "tier": 3
+  },
+  {
+   "id": "5afc49da7bd40515f91ccc5e3c3a6f8c07f56fb3",
+   "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+   "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-04T17:50:10.000Z",
+   "dupes": 1,
+   "score": 0.333,
    "tier": 3
   },
   {
@@ -471,7 +511,7 @@
    "tldr": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
    "published": "2026-11-03T17:01:49.000Z",
    "dupes": 1,
-   "score": 0.338,
+   "score": 0.327,
    "tier": 3
   },
   {
@@ -486,7 +526,7 @@
    "tldr": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
    "published": "2026-11-03T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.331,
+   "score": 0.323,
    "tier": 3
   },
   {
@@ -501,7 +541,7 @@
    "tldr": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security.  Learn how it is building more adaptive defenses.",
    "published": "2026-11-03T08:00:00.000Z",
    "dupes": 1,
-   "score": 0.326,
+   "score": 0.319,
    "tier": 3
   },
   {
@@ -516,7 +556,7 @@
    "tldr": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
    "published": "2026-11-03T08:00:00.000Z",
    "dupes": 1,
-   "score": 0.326,
+   "score": 0.319,
    "tier": 3
   },
   {
@@ -531,7 +571,7 @@
    "tldr": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
    "published": "2026-11-03T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.319,
+   "score": 0.314,
    "tier": 3
   },
   {
@@ -546,7 +586,7 @@
    "tldr": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
    "published": "2026-11-02T18:00:00.000Z",
    "dupes": 1,
-   "score": 0.315,
+   "score": 0.311,
    "tier": 3
   },
   {
@@ -561,7 +601,7 @@
    "tldr": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
    "published": "2026-11-02T18:00:00.000Z",
    "dupes": 1,
-   "score": 0.315,
+   "score": 0.311,
    "tier": 3
   },
   {
@@ -576,7 +616,7 @@
    "tldr": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
    "published": "2026-11-02T15:30:00.000Z",
    "dupes": 1,
-   "score": 0.314,
+   "score": 0.31,
    "tier": 3
   },
   {
@@ -591,7 +631,7 @@
    "tldr": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
    "published": "2026-11-02T15:00:00.000Z",
    "dupes": 1,
-   "score": 0.314,
+   "score": 0.31,
    "tier": 3
   },
   {
@@ -606,22 +646,7 @@
    "tldr": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
    "published": "2026-11-02T09:00:00.000Z",
    "dupes": 1,
-   "score": 0.311,
-   "tier": 3
-  },
-  {
-   "id": "3bafb790453357148c96480d216298d4a2841c1d",
-   "title": "AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It",
-   "url": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Demand for advanced chips is rising.  The processes to build them are getting more complex.",
-   "published": "2026-11-03T16:00:45.000Z",
-   "dupes": 1,
-   "score": 0.311,
+   "score": 0.308,
    "tier": 3
   },
   {
@@ -636,7 +661,7 @@
    "tldr": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
    "published": "2026-11-02T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.308,
+   "score": 0.306,
    "tier": 3
   },
   {
@@ -651,37 +676,7 @@
    "tldr": "S.  allies.",
    "published": "2026-11-02T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.308,
-   "tier": 3
-  },
-  {
-   "id": "25cc4c9bb2e3e7e535a029d8ccf56c3c1c4d2670",
-   "title": "Making it easier for websites to express AI training preferences",
-   "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "txt signal to help website operators communicate their AI training preferences to participating providers.",
-   "published": "2026-10-30T09:30:00.000Z",
-   "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
-   "id": "c7606af40dbb903f1458e0f22e7105b96ee65c77",
-   "title": "Community safety report and new protections for teens",
-   "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
-   "published": "2026-10-30T09:00:00.000Z",
-   "dupes": 1,
-   "score": 0.301,
+   "score": 0.306,
    "tier": 3
   },
   {
@@ -700,6 +695,21 @@
    "tier": 3
   },
   {
+   "id": "3bafb790453357148c96480d216298d4a2841c1d",
+   "title": "AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It",
+   "url": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Demand for advanced chips is rising.  The processes to build them are getting more complex.",
+   "published": "2026-11-03T16:00:45.000Z",
+   "dupes": 1,
+   "score": 0.301,
+   "tier": 3
+  },
+  {
    "id": "4d836f21a02fa4612c49685da08650745273b31a",
    "title": "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI",
    "url": "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications",
@@ -711,7 +721,7 @@
    "tldr": "Cities generate enormous amounts of data from cameras, sensors and operational systems, but turning it into useful action — for planning, maintenance and public services — remains a challenge.",
    "published": "2026-11-03T07:00:12.000Z",
    "dupes": 1,
-   "score": 0.3,
+   "score": 0.294,
    "tier": 3
   },
   {
@@ -726,7 +736,7 @@
    "tldr": "Research Manager Mike Walker reflects on a career spanning hacker culture, cybersecurity, and AI, sharing lessons about trust, teamwork, leadership, and why solving difficult problems requires curiosity, judgment,…",
    "published": "2026-11-03T17:14:38.000Z",
    "dupes": 1,
-   "score": 0.3,
+   "score": 0.29,
    "tier": 3
   },
   {
@@ -739,7 +749,7 @@
    "tldr": "",
    "published": "2026-11-03T17:15:21.000Z",
    "dupes": 1,
-   "score": 0.3,
+   "score": 0.29,
    "tier": 3
   },
   {
@@ -752,7 +762,7 @@
    "tldr": "",
    "published": "2026-11-03T16:35:36.000Z",
    "dupes": 1,
-   "score": 0.299,
+   "score": 0.289,
    "tier": 3
   },
   {
@@ -765,7 +775,7 @@
    "tldr": "",
    "published": "2026-11-03T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.282,
+   "score": 0.277,
    "tier": 3
   },
   {
@@ -778,7 +788,7 @@
    "tldr": "",
    "published": "2026-11-03T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.282,
+   "score": 0.277,
    "tier": 3
   },
   {
@@ -823,7 +833,7 @@
    "tldr": "",
    "published": "2026-11-03T01:42:29.000Z",
    "dupes": 1,
-   "score": 0.211,
+   "score": 0.204,
    "tier": 3
   },
   {
@@ -838,7 +848,7 @@
    "tldr": "",
    "published": "2026-10-31T13:41:11.000Z",
    "dupes": 1,
-   "score": 0.192,
+   "score": 0.19,
    "tier": 3
   }
  ]
