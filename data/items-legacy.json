@@ -1,6 +1,36 @@
 {
- "generated": "2026-11-07T09:41:06.027Z",
+ "generated": "2026-11-07T16:01:18.527Z",
  "items": [
+  {
+   "id": "73be1ddc7ff24f89939fa7315d8470755918688e",
+   "title": "The US let Nvidia sell chips to an empty office in China",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+   "source": "The Verge AI",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips.",
+   "published": "2026-11-07T15:43:45.000Z",
+   "dupes": 1,
+   "score": 0.546,
+   "tier": 1
+  },
+  {
+   "id": "8879475e62b3793afc205ae395197806709bb883",
+   "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+   "source": "The Verge AI",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "Anthropic is using AI to build more powerful AI.  And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down.",
+   "published": "2026-11-07T12:30:00.000Z",
+   "dupes": 1,
+   "score": 0.506,
+   "tier": 2
+  },
   {
    "id": "7838c87736f9082fb144453a5a532f0d0cfd974f",
    "title": "New model on Hugging Face: moonshotai/Kimi-K3.1-Pro",
@@ -17,7 +47,7 @@
    ],
    "dupes": 2,
    "score": 0.465,
-   "tier": 1
+   "tier": 2
   },
   {
    "id": "2b3eb4eb79de73e728b189af6a503d99c5a0dcb6",
@@ -34,7 +64,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.452,
+   "score": 0.414,
    "tier": 2
   },
   {
@@ -49,7 +79,35 @@
    "tldr": "",
    "published": "2026-11-06T13:35:27.000Z",
    "dupes": 1,
-   "score": 0.44,
+   "score": 0.41,
+   "tier": 2
+  },
+  {
+   "id": "bc8f9eac19663ff628fb02870bf1eb637ef573a5",
+   "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+   "url": "https://openai.com/index/partnering-with-hacktron",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+   "published": "2026-11-06T08:00:00.000Z",
+   "dupes": 1,
+   "score": 0.402,
+   "tier": 2
+  },
+  {
+   "id": "be1ba71e55b7f12516b9ba0c68b4b2f886873cb7",
+   "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+   "url": "https://huggingface.co/blog/allenai/toyblocks",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-06T14:00:48.000Z",
+   "dupes": 1,
+   "score": 0.391,
    "tier": 2
   },
   {
@@ -65,50 +123,7 @@
    "tldr": "25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg.  That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in…",
    "published": "2026-11-06T23:46:18.000Z",
    "dupes": 1,
-   "score": 0.439,
-   "tier": 2
-  },
-  {
-   "id": "bc8f9eac19663ff628fb02870bf1eb637ef573a5",
-   "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-   "url": "https://openai.com/index/partnering-with-hacktron",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
-   "published": "2026-11-06T08:00:00.000Z",
-   "dupes": 1,
-   "score": 0.43,
-   "tier": 2
-  },
-  {
-   "id": "be1ba71e55b7f12516b9ba0c68b4b2f886873cb7",
-   "title": "ToyBlocks: A controlled world for robot learning and evaluation",
-   "url": "https://huggingface.co/blog/allenai/toyblocks",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-11-06T14:00:48.000Z",
-   "dupes": 1,
-   "score": 0.427,
-   "tier": 2
-  },
-  {
-   "id": "408898b35a01b8ac4c7e305f0bf6e9d9ca9e1ef8",
-   "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
-   "url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
-   "source": "Hacker News",
-   "org": [
-    "google"
-   ],
-   "topic": "compute",
-   "tldr": "",
-   "published": "2026-11-06T20:09:14.000Z",
-   "dupes": 1,
-   "score": 0.425,
+   "score": 0.387,
    "tier": 2
   },
   {
@@ -123,22 +138,7 @@
    "tldr": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
    "published": "2026-11-06T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.396,
-   "tier": 2
-  },
-  {
-   "id": "52e0623fab799a2104d74285fa23225585c09dd2",
-   "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
-   "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
-   "source": "The Verge AI",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "Meta will now allow you to build customized, app-like experiences within Muse.  The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia…",
-   "published": "2026-11-06T18:10:10.000Z",
-   "dupes": 1,
-   "score": 0.393,
+   "score": 0.375,
    "tier": 2
   },
   {
@@ -153,7 +153,7 @@
    "tldr": "fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
    "published": "2026-11-05T20:00:00.000Z",
    "dupes": 1,
-   "score": 0.382,
+   "score": 0.364,
    "tier": 2
   },
   {
@@ -168,7 +168,7 @@
    "tldr": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
    "published": "2026-11-05T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.373,
+   "score": 0.357,
    "tier": 2
   },
   {
@@ -183,51 +183,23 @@
    "tldr": "",
    "published": "2026-11-05T17:05:16.000Z",
    "dupes": 1,
-   "score": 0.373,
-   "tier": 2
-  },
-  {
-   "id": "51396ab0f1383e4eac690789dc960d9a1694886e",
-   "title": "Promethevs: Full DeepSeek-v4.1-Flash-1017, locally, on 12GB of VRAM",
-   "url": "https://github.com/Magnvs7/Promethevs",
-   "source": "HN · DeepSeek",
-   "org": [
-    "deepseek"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-11-06T16:14:47.000Z",
-   "dupes": 1,
-   "score": 0.369,
-   "tier": 2
-  },
-  {
-   "id": "82196d4ece0a644eb652d153eb38399732392fcf",
-   "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-   "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-11-06T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.358,
-   "tier": 3
-  },
-  {
-   "id": "7eab5dddcfa7727d177f58b1fd27561c99165e39",
-   "title": "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
-   "url": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "AI agents do more than generate answers.  They search for information, query databases, write and test code and take action.",
-   "published": "2026-11-05T20:00:41.000Z",
-   "dupes": 1,
    "score": 0.357,
-   "tier": 3
+   "tier": 2
+  },
+  {
+   "id": "52e0623fab799a2104d74285fa23225585c09dd2",
+   "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
+   "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+   "source": "The Verge AI",
+   "org": [
+    "meta"
+   ],
+   "topic": "ai",
+   "tldr": "Meta will now allow you to build customized, app-like experiences within Muse.  The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia…",
+   "published": "2026-11-06T18:10:10.000Z",
+   "dupes": 1,
+   "score": 0.351,
+   "tier": 2
   },
   {
    "id": "53c56afbaf05f856eba574dee155263173cd7748",
@@ -241,7 +213,7 @@
    "tldr": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
    "published": "2026-11-05T09:00:00.000Z",
    "dupes": 1,
-   "score": 0.354,
+   "score": 0.342,
    "tier": 3
   },
   {
@@ -256,100 +228,35 @@
    "tldr": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing.  Its teams also use AI to plan executive dinners and prepare sales updates.",
    "published": "2026-11-05T08:00:00.000Z",
    "dupes": 1,
-   "score": 0.352,
+   "score": 0.34,
    "tier": 3
   },
   {
-   "id": "44766e97c42926fe8f27897228f53640b32b6024",
-   "title": "Protesters break into Microsoft data center site in Amsterdam",
-   "url": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
-   "source": "The Verge AI",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "compute",
-   "tldr": "Protesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning.  Members of the Geef Tegengas group helped organize the protest against the construction of three 85-meter data…",
-   "published": "2026-11-06T11:55:19.000Z",
-   "dupes": 1,
-   "score": 0.351,
-   "tier": 3
-  },
-  {
-   "id": "1112027d5901b6f1dfea35c8c3f63382b87eaa06",
-   "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-   "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents",
+   "id": "7eab5dddcfa7727d177f58b1fd27561c99165e39",
+   "title": "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
+   "url": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents",
    "source": "NVIDIA Blog",
    "org": [
     "nvidia"
    ],
    "topic": "compute",
-   "tldr": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended.  Developers are combining frontier AI models with NVIDIA…",
-   "published": "2026-11-05T17:00:35.000Z",
+   "tldr": "AI agents do more than generate answers.  They search for information, query databases, write and test code and take action.",
+   "published": "2026-11-05T20:00:41.000Z",
    "dupes": 1,
-   "score": 0.348,
+   "score": 0.339,
    "tier": 3
   },
   {
-   "id": "56a03da12c0bbf17972ef5da6e3fe08f9bb1d5de",
-   "title": "Detecting signs of hypertension using wearable sensors",
-   "url": "https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors",
-   "source": "Google Research",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Health & Bioscience",
-   "published": "2026-11-05T16:01:08.000Z",
-   "dupes": 1,
-   "score": 0.345,
-   "tier": 3
-  },
-  {
-   "id": "477cff6d6b4c7941743308807b2b81fb318cc3d1",
-   "title": "The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models",
-   "url": "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Chris Alexiuk has a simple rule about open source AI: If you believe in it, be loud about it.  “We should be shouting about this technology from the rooftops,” said Alexiuk, a Toronto-based senior product research…",
-   "published": "2026-11-05T16:00:05.000Z",
-   "badges": [
-    "oss"
-   ],
-   "dupes": 1,
-   "score": 0.345,
-   "tier": 3
-  },
-  {
-   "id": "3df4d68063a5a1b41543be03d252707d3f2b7835",
-   "title": "More Performance From Every Byte: How Full-Stack Codesign Solves AI’s Memory Challenge",
-   "url": "https://blogs.nvidia.com/blog/memory-full-stack-codesign",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Larger models, longer contexts and agentic applications are increasing GPU memory pressure while supply tightens and prices rise — a trend expected to continue through the near term.  NVIDIA works closely with memory…",
-   "published": "2026-11-05T16:00:00.000Z",
-   "dupes": 1,
-   "score": 0.345,
-   "tier": 3
-  },
-  {
-   "id": "e8690f74b67f56983d288ac628cf8aa1b7f6cf1c",
-   "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-   "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+   "id": "82196d4ece0a644eb652d153eb38399732392fcf",
+   "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+   "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
    "source": "Hugging Face Blog",
-   "org": [
-    "nvidia"
-   ],
+   "org": [],
    "topic": "ai",
    "tldr": "",
-   "published": "2026-11-05T19:35:16.000Z",
+   "published": "2026-11-06T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.343,
+   "score": 0.337,
    "tier": 3
   },
   {
@@ -364,22 +271,22 @@
    "tldr": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
    "published": "2026-11-05T02:00:00.000Z",
    "dupes": 1,
-   "score": 0.341,
+   "score": 0.332,
    "tier": 3
   },
   {
-   "id": "588776d5fd509bfe543ef68082407210403c53b9",
-   "title": "‘Hogwarts Legacy’ Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW",
-   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5",
+   "id": "1112027d5901b6f1dfea35c8c3f63382b87eaa06",
+   "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+   "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents",
    "source": "NVIDIA Blog",
    "org": [
     "nvidia"
    ],
    "topic": "compute",
-   "tldr": "Hogwarts Legacy receives an NVIDIA DLSS 5 upgrade with 3D-Guided Neural Rendering today, bringing lifelike lighting and materials to the wizarding world on GeForce NOW.  Blizzard Entertainment’s World of Warcraft:…",
-   "published": "2026-11-05T14:00:34.000Z",
+   "tldr": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended.  Developers are combining frontier AI models with NVIDIA…",
+   "published": "2026-11-05T17:00:35.000Z",
    "dupes": 1,
-   "score": 0.34,
+   "score": 0.332,
    "tier": 3
   },
   {
@@ -394,7 +301,22 @@
    "tldr": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
    "published": "2026-11-05T00:45:15.000Z",
    "dupes": 1,
-   "score": 0.339,
+   "score": 0.331,
+   "tier": 3
+  },
+  {
+   "id": "51396ab0f1383e4eac690789dc960d9a1694886e",
+   "title": "Promethevs: Full DeepSeek-v4.1-Flash-1017, locally, on 12GB of VRAM",
+   "url": "https://github.com/Magnvs7/Promethevs",
+   "source": "HN · DeepSeek",
+   "org": [
+    "deepseek"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-06T16:14:47.000Z",
+   "dupes": 1,
+   "score": 0.331,
    "tier": 3
   },
   {
@@ -412,22 +334,85 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.338,
+   "score": 0.33,
    "tier": 3
   },
   {
-   "id": "5c5c439c3a5adbf40dd6ed0ab9fac40d464fdaed",
-   "title": "Formally verifying agent-written full-stack web apps with PDD Kit",
-   "url": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit",
-   "source": "Microsoft Research",
+   "id": "56a03da12c0bbf17972ef5da6e3fe08f9bb1d5de",
+   "title": "Detecting signs of hypertension using wearable sensors",
+   "url": "https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors",
+   "source": "Google Research",
    "org": [
-    "microsoft"
+    "google"
    ],
    "topic": "ai",
-   "tldr": "AI agents can generate code at a scale that’s hard for humans to review line-by-line.  PDD Kit helps ensure the code is doing what the developer intended by creating formal specifications and testing against them.",
+   "tldr": "Health & Bioscience",
+   "published": "2026-11-05T16:01:08.000Z",
+   "dupes": 1,
+   "score": 0.33,
+   "tier": 3
+  },
+  {
+   "id": "477cff6d6b4c7941743308807b2b81fb318cc3d1",
+   "title": "The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models",
+   "url": "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Chris Alexiuk has a simple rule about open source AI: If you believe in it, be loud about it.  “We should be shouting about this technology from the rooftops,” said Alexiuk, a Toronto-based senior product research…",
+   "published": "2026-11-05T16:00:05.000Z",
+   "badges": [
+    "oss"
+   ],
+   "dupes": 1,
+   "score": 0.33,
+   "tier": 3
+  },
+  {
+   "id": "3df4d68063a5a1b41543be03d252707d3f2b7835",
+   "title": "More Performance From Every Byte: How Full-Stack Codesign Solves AI’s Memory Challenge",
+   "url": "https://blogs.nvidia.com/blog/memory-full-stack-codesign",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Larger models, longer contexts and agentic applications are increasing GPU memory pressure while supply tightens and prices rise — a trend expected to continue through the near term.  NVIDIA works closely with memory…",
    "published": "2026-11-05T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.333,
+   "score": 0.33,
+   "tier": 3
+  },
+  {
+   "id": "588776d5fd509bfe543ef68082407210403c53b9",
+   "title": "‘Hogwarts Legacy’ Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW",
+   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Hogwarts Legacy receives an NVIDIA DLSS 5 upgrade with 3D-Guided Neural Rendering today, bringing lifelike lighting and materials to the wizarding world on GeForce NOW.  Blizzard Entertainment’s World of Warcraft:…",
+   "published": "2026-11-05T14:00:34.000Z",
+   "dupes": 1,
+   "score": 0.326,
+   "tier": 3
+  },
+  {
+   "id": "e8690f74b67f56983d288ac628cf8aa1b7f6cf1c",
+   "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+   "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+   "source": "Hugging Face Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-05T19:35:16.000Z",
+   "dupes": 1,
+   "score": 0.326,
    "tier": 3
   },
   {
@@ -442,7 +427,22 @@
    "tldr": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
    "published": "2026-11-04T14:30:00.000Z",
    "dupes": 1,
-   "score": 0.326,
+   "score": 0.321,
+   "tier": 3
+  },
+  {
+   "id": "5c5c439c3a5adbf40dd6ed0ab9fac40d464fdaed",
+   "title": "Formally verifying agent-written full-stack web apps with PDD Kit",
+   "url": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit",
+   "source": "Microsoft Research",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "AI agents can generate code at a scale that’s hard for humans to review line-by-line.  PDD Kit helps ensure the code is doing what the developer intended by creating formal specifications and testing against them.",
+   "published": "2026-11-05T16:00:00.000Z",
+   "dupes": 1,
+   "score": 0.318,
    "tier": 3
   },
   {
@@ -457,7 +457,7 @@
    "tldr": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
    "published": "2026-11-04T08:00:00.000Z",
    "dupes": 1,
-   "score": 0.321,
+   "score": 0.316,
    "tier": 3
   },
   {
@@ -472,7 +472,7 @@
    "tldr": "6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
    "published": "2026-11-04T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.32,
+   "score": 0.315,
    "tier": 3
   },
   {
@@ -487,7 +487,7 @@
    "tldr": "6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
    "published": "2026-11-04T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.315,
+   "score": 0.312,
    "tier": 3
   },
   {
@@ -502,7 +502,7 @@
    "tldr": "1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
    "published": "2026-11-04T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.315,
+   "score": 0.312,
    "tier": 3
   },
   {
@@ -517,7 +517,7 @@
    "tldr": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
    "published": "2026-11-03T17:01:49.000Z",
    "dupes": 1,
-   "score": 0.312,
+   "score": 0.309,
    "tier": 3
   },
   {
@@ -532,7 +532,7 @@
    "tldr": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
    "published": "2026-11-03T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.309,
+   "score": 0.307,
    "tier": 3
   },
   {
@@ -547,7 +547,7 @@
    "tldr": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security.  Learn how it is building more adaptive defenses.",
    "published": "2026-11-03T08:00:00.000Z",
    "dupes": 1,
-   "score": 0.308,
+   "score": 0.306,
    "tier": 3
   },
   {
@@ -562,7 +562,7 @@
    "tldr": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
    "published": "2026-11-03T08:00:00.000Z",
    "dupes": 1,
-   "score": 0.308,
+   "score": 0.306,
    "tier": 3
   },
   {
@@ -577,7 +577,7 @@
    "tldr": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
    "published": "2026-11-03T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.306,
+   "score": 0.305,
    "tier": 3
   },
   {
@@ -592,7 +592,7 @@
    "tldr": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
    "published": "2026-11-02T18:00:00.000Z",
    "dupes": 1,
-   "score": 0.305,
+   "score": 0.304,
    "tier": 3
   },
   {
@@ -607,22 +607,7 @@
    "tldr": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
    "published": "2026-11-02T18:00:00.000Z",
    "dupes": 1,
-   "score": 0.305,
-   "tier": 3
-  },
-  {
-   "id": "d8fa341b96c36837690d4e2b602a9ff3d67280b7",
-   "title": "Agile Deliberation: How AI helps humans define the gray areas",
-   "url": "https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas",
-   "source": "Google Research",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Data Mining & Modeling",
-   "published": "2026-11-04T18:07:05.000Z",
-   "dupes": 1,
-   "score": 0.305,
+   "score": 0.304,
    "tier": 3
   },
   {
@@ -637,7 +622,7 @@
    "tldr": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
    "published": "2026-11-02T15:30:00.000Z",
    "dupes": 1,
-   "score": 0.304,
+   "score": 0.303,
    "tier": 3
   },
   {
@@ -652,7 +637,7 @@
    "tldr": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
    "published": "2026-11-02T15:00:00.000Z",
    "dupes": 1,
-   "score": 0.304,
+   "score": 0.303,
    "tier": 3
   },
   {
@@ -701,6 +686,21 @@
    "tier": 3
   },
   {
+   "id": "d8fa341b96c36837690d4e2b602a9ff3d67280b7",
+   "title": "Agile Deliberation: How AI helps humans define the gray areas",
+   "url": "https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas",
+   "source": "Google Research",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Data Mining & Modeling",
+   "published": "2026-11-04T18:07:05.000Z",
+   "dupes": 1,
+   "score": 0.299,
+   "tier": 3
+  },
+  {
    "id": "89209ab642b10e254f0682f6d93ea473caa87b4e",
    "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
    "url": "https://huggingface.co/blog/phonon-tts",
@@ -710,22 +710,7 @@
    "tldr": "",
    "published": "2026-11-05T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.3,
-   "tier": 3
-  },
-  {
-   "id": "85f398082dadd860b70c3337edfbe98b15702360",
-   "title": "OpenAI is stepping back from NDAs for data center projects",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "compute",
-   "tldr": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including…",
-   "published": "2026-11-06T00:37:56.000Z",
-   "dupes": 1,
-   "score": 0.298,
+   "score": 0.292,
    "tier": 3
   },
   {
@@ -738,7 +723,7 @@
    "tldr": "",
    "published": "2026-11-04T17:50:10.000Z",
    "dupes": 1,
-   "score": 0.292,
+   "score": 0.286,
    "tier": 3
   },
   {
@@ -753,7 +738,7 @@
    "tldr": "Demand for advanced chips is rising.  The processes to build them are getting more complex.",
    "published": "2026-11-03T16:00:45.000Z",
    "dupes": 1,
-   "score": 0.286,
+   "score": 0.284,
    "tier": 3
   },
   {
@@ -768,7 +753,7 @@
    "tldr": "Cities generate enormous amounts of data from cameras, sensors and operational systems, but turning it into useful action — for planning, maintenance and public services — remains a challenge.",
    "published": "2026-11-03T07:00:12.000Z",
    "dupes": 1,
-   "score": 0.283,
+   "score": 0.281,
    "tier": 3
   },
   {
@@ -783,7 +768,7 @@
    "tldr": "Research Manager Mike Walker reflects on a career spanning hacker culture, cybersecurity, and AI, sharing lessons about trust, teamwork, leadership, and why solving difficult problems requires curiosity, judgment,…",
    "published": "2026-11-03T17:14:38.000Z",
    "dupes": 1,
-   "score": 0.274,
+   "score": 0.272,
    "tier": 3
   },
   {
@@ -796,7 +781,7 @@
    "tldr": "",
    "published": "2026-11-03T16:35:36.000Z",
    "dupes": 1,
-   "score": 0.274,
+   "score": 0.271,
    "tier": 3
   },
   {
@@ -809,7 +794,7 @@
    "tldr": "",
    "published": "2026-11-03T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.268,
+   "score": 0.267,
    "tier": 3
   },
   {
@@ -822,22 +807,7 @@
    "tldr": "",
    "published": "2026-11-03T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.268,
-   "tier": 3
-  },
-  {
-   "id": "76e502c4ebad39b18ad796a8c7b10d2abecde1a7",
-   "title": "DeepSeek open-sources dsh-superagent, a coding agent largely built by agents",
-   "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-   "source": "HN · DeepSeek",
-   "org": [
-    "deepseek"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-10-31T13:41:11.000Z",
-   "dupes": 1,
-   "score": 0.191,
+   "score": 0.267,
    "tier": 3
   }
  ]
