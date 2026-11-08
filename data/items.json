@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T03:45:13.216Z",
+ "generated": "2026-11-08T10:57:16.950Z",
  "items": [
   {
    "id": "2c93e9013ac15b4c158d5aa95ac7df4346244366",
@@ -13,7 +13,7 @@
    "tldr": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
    "published": "2026-11-07T21:17:08.000Z",
    "dupes": 1,
-   "score": 0.684,
+   "score": 0.655,
    "tier": 1
   },
   {
@@ -28,7 +28,7 @@
    "tldr": "6 pallets of hardware vanished en route to Texas, with no arrests 2 months later.",
    "published": "2026-11-06T20:05:30.000Z",
    "dupes": 2,
-   "score": 0.664,
+   "score": 0.648,
    "tier": 2
   },
   {
@@ -43,7 +43,7 @@
    "tldr": "OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct Linux kernel flaws.",
    "published": "2026-11-06T20:24:19.000Z",
    "dupes": 2,
-   "score": 0.649,
+   "score": 0.632,
    "tier": 2
   },
   {
@@ -58,22 +58,25 @@
    "tldr": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips.",
    "published": "2026-11-07T15:43:45.000Z",
    "dupes": 1,
-   "score": 0.63,
+   "score": 0.604,
    "tier": 2
   },
   {
-   "id": "118369de89f061c412ea65c20ee978af918c525e",
-   "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-   "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation",
-   "source": "TechCrunch",
+   "id": "804a43c3361e780767d4dc236daca38f5ccac195",
+   "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
+   "url": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
+   "source": "The Hacker News",
    "org": [
-    "openai"
+    "anthropic"
    ],
-   "topic": "ai",
-   "tldr": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
-   "published": "2026-11-06T22:53:46.000Z",
-   "dupes": 1,
-   "score": 0.608,
+   "topic": "security",
+   "tldr": "Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them.  When a user selects \"Yes, and don't ask again,\" Anthropic's…",
+   "published": "2026-11-07T06:44:17.000Z",
+   "badges": [
+    "oss"
+   ],
+   "dupes": 2,
+   "score": 0.596,
    "tier": 2
   },
   {
@@ -88,7 +91,7 @@
    "tldr": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
    "published": "2026-11-06T08:00:00.000Z",
    "dupes": 1,
-   "score": 0.607,
+   "score": 0.595,
    "tier": 2
   },
   {
@@ -106,40 +109,22 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.607,
+   "score": 0.593,
    "tier": 2
   },
   {
-   "id": "1eeaf5457cb1a01aa73d0970c568d71b10f47386",
-   "title": "The end of Microsoft Research's AI Frontiers group",
-   "url": "https://hunch.net/?p=13764006",
-   "source": "Hacker News",
+   "id": "118369de89f061c412ea65c20ee978af918c525e",
+   "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+   "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation",
+   "source": "TechCrunch",
    "org": [
-    "microsoft"
+    "openai"
    ],
    "topic": "ai",
-   "tldr": "",
-   "published": "2026-11-07T18:02:17.000Z",
-   "badges": [
-    "research"
-   ],
+   "tldr": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+   "published": "2026-11-06T22:53:46.000Z",
    "dupes": 1,
-   "score": 0.596,
-   "tier": 2
-  },
-  {
-   "id": "6d918f2a577a78fb2278fc7c75d0e2d8405cd96f",
-   "title": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
-   "url": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns",
-   "source": "Ars Technica",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Lawmakers want answers about Jensen Huang’s ties to an alleged Chinese intelligence asset.",
-   "published": "2026-11-06T14:13:32.000Z",
-   "dupes": 1,
-   "score": 0.595,
+   "score": 0.591,
    "tier": 2
   },
   {
@@ -154,7 +139,22 @@
    "tldr": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
    "published": "2026-11-06T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.594,
+   "score": 0.583,
+   "tier": 2
+  },
+  {
+   "id": "6d918f2a577a78fb2278fc7c75d0e2d8405cd96f",
+   "title": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
+   "url": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns",
+   "source": "Ars Technica",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Lawmakers want answers about Jensen Huang’s ties to an alleged Chinese intelligence asset.",
+   "published": "2026-11-06T14:13:32.000Z",
+   "dupes": 1,
+   "score": 0.581,
    "tier": 2
   },
   {
@@ -169,7 +169,7 @@
    "tldr": "fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
    "published": "2026-11-05T20:00:00.000Z",
    "dupes": 1,
-   "score": 0.588,
+   "score": 0.578,
    "tier": 2
   },
   {
@@ -184,23 +184,7 @@
    "tldr": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
    "published": "2026-11-05T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.584,
-   "tier": 2
-  },
-  {
-   "id": "6813d62fd92533cd21a6bc28e128cc14b5b306a0",
-   "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
-   "source": "The Verge AI",
-   "org": [
-    "anthropic",
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg.  That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in…",
-   "published": "2026-11-06T23:46:18.000Z",
-   "dupes": 1,
-   "score": 0.578,
+   "score": 0.575,
    "tier": 2
   },
   {
@@ -215,8 +199,8 @@
    "tldr": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
    "published": "2026-11-05T09:00:00.000Z",
    "dupes": 1,
-   "score": 0.574,
-   "tier": 3
+   "score": 0.567,
+   "tier": 2
   },
   {
    "id": "300d91101f21ec1db57e65e8d8390a93f01c350b",
@@ -230,7 +214,7 @@
    "tldr": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing.  Its teams also use AI to plan executive dinners and prepare sales updates.",
    "published": "2026-11-05T08:00:00.000Z",
    "dupes": 1,
-   "score": 0.573,
+   "score": 0.566,
    "tier": 3
   },
   {
@@ -245,22 +229,7 @@
    "tldr": "AI agents do more than generate answers.  They search for information, query databases, write and test code and take action.",
    "published": "2026-11-05T20:00:41.000Z",
    "dupes": 1,
-   "score": 0.572,
-   "tier": 3
-  },
-  {
-   "id": "1112027d5901b6f1dfea35c8c3f63382b87eaa06",
-   "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-   "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended.  Developers are combining frontier AI models with NVIDIA…",
-   "published": "2026-11-05T17:00:35.000Z",
-   "dupes": 1,
-   "score": 0.568,
+   "score": 0.562,
    "tier": 3
   },
   {
@@ -275,7 +244,23 @@
    "tldr": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
    "published": "2026-11-05T02:00:00.000Z",
    "dupes": 1,
-   "score": 0.567,
+   "score": 0.561,
+   "tier": 3
+  },
+  {
+   "id": "6813d62fd92533cd21a6bc28e128cc14b5b306a0",
+   "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+   "source": "The Verge AI",
+   "org": [
+    "anthropic",
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg.  That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in…",
+   "published": "2026-11-06T23:46:18.000Z",
+   "dupes": 1,
+   "score": 0.561,
    "tier": 3
   },
   {
@@ -290,40 +275,7 @@
    "tldr": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
    "published": "2026-11-05T00:45:15.000Z",
    "dupes": 1,
-   "score": 0.566,
-   "tier": 3
-  },
-  {
-   "id": "477cff6d6b4c7941743308807b2b81fb318cc3d1",
-   "title": "The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models",
-   "url": "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Chris Alexiuk has a simple rule about open source AI: If you believe in it, be loud about it.  “We should be shouting about this technology from the rooftops,” said Alexiuk, a Toronto-based senior product research…",
-   "published": "2026-11-05T16:00:05.000Z",
-   "badges": [
-    "oss"
-   ],
-   "dupes": 1,
-   "score": 0.566,
-   "tier": 3
-  },
-  {
-   "id": "3df4d68063a5a1b41543be03d252707d3f2b7835",
-   "title": "More Performance From Every Byte: How Full-Stack Codesign Solves AI’s Memory Challenge",
-   "url": "https://blogs.nvidia.com/blog/memory-full-stack-codesign",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Larger models, longer contexts and agentic applications are increasing GPU memory pressure while supply tightens and prices rise — a trend expected to continue through the near term.  NVIDIA works closely with memory…",
-   "published": "2026-11-05T16:00:00.000Z",
-   "dupes": 1,
-   "score": 0.566,
+   "score": 0.56,
    "tier": 3
   },
   {
@@ -341,7 +293,55 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.565,
+   "score": 0.559,
+   "tier": 3
+  },
+  {
+   "id": "1112027d5901b6f1dfea35c8c3f63382b87eaa06",
+   "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+   "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended.  Developers are combining frontier AI models with NVIDIA…",
+   "published": "2026-11-05T17:00:35.000Z",
+   "dupes": 1,
+   "score": 0.559,
+   "tier": 3
+  },
+  {
+   "id": "477cff6d6b4c7941743308807b2b81fb318cc3d1",
+   "title": "The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models",
+   "url": "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Chris Alexiuk has a simple rule about open source AI: If you believe in it, be loud about it.  “We should be shouting about this technology from the rooftops,” said Alexiuk, a Toronto-based senior product research…",
+   "published": "2026-11-05T16:00:05.000Z",
+   "badges": [
+    "oss"
+   ],
+   "dupes": 1,
+   "score": 0.558,
+   "tier": 3
+  },
+  {
+   "id": "3df4d68063a5a1b41543be03d252707d3f2b7835",
+   "title": "More Performance From Every Byte: How Full-Stack Codesign Solves AI’s Memory Challenge",
+   "url": "https://blogs.nvidia.com/blog/memory-full-stack-codesign",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Larger models, longer contexts and agentic applications are increasing GPU memory pressure while supply tightens and prices rise — a trend expected to continue through the near term.  NVIDIA works closely with memory…",
+   "published": "2026-11-05T16:00:00.000Z",
+   "dupes": 1,
+   "score": 0.558,
    "tier": 3
   },
   {
@@ -356,7 +356,22 @@
    "tldr": "Hogwarts Legacy receives an NVIDIA DLSS 5 upgrade with 3D-Guided Neural Rendering today, bringing lifelike lighting and materials to the wizarding world on GeForce NOW.  Blizzard Entertainment’s World of Warcraft:…",
    "published": "2026-11-05T14:00:34.000Z",
    "dupes": 1,
-   "score": 0.564,
+   "score": 0.556,
+   "tier": 3
+  },
+  {
+   "id": "e8690f74b67f56983d288ac628cf8aa1b7f6cf1c",
+   "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+   "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+   "source": "Hugging Face Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-05T19:35:16.000Z",
+   "dupes": 1,
+   "score": 0.554,
    "tier": 3
   },
   {
@@ -374,7 +389,7 @@
    "tldr": "Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-service platforms to steal Microsoft and Google account credentials and…",
    "published": "2026-11-05T21:30:30.000Z",
    "dupes": 1,
-   "score": 0.55,
+   "score": 0.54,
    "tier": 3
   },
   {
@@ -389,22 +404,7 @@
    "tldr": "Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT.  Lockdown Mode was introduced by the artificial intelligence…",
    "published": "2026-11-05T16:42:32.000Z",
    "dupes": 1,
-   "score": 0.535,
-   "tier": 3
-  },
-  {
-   "id": "25c3eda20cfedcbc9b6b0c094160d09c60017f6a",
-   "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
-   "url": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
-   "source": "The Hacker News",
-   "org": [
-    "openai"
-   ],
-   "topic": "security",
-   "tldr": "2 million in API costs.",
-   "published": "2026-11-05T12:08:54.000Z",
-   "dupes": 1,
-   "score": 0.53,
+   "score": 0.527,
    "tier": 3
   },
   {
@@ -419,25 +419,7 @@
    "tldr": "Demand for advanced chips is rising.  The processes to build them are getting more complex.",
    "published": "2026-11-03T16:00:45.000Z",
    "dupes": 1,
-   "score": 0.529,
-   "tier": 3
-  },
-  {
-   "id": "804a43c3361e780767d4dc236daca38f5ccac195",
-   "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
-   "url": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
-   "source": "The Hacker News",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "security",
-   "tldr": "Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them.  When a user selects \"Yes, and don't ask again,\" Anthropic's…",
-   "published": "2026-11-07T06:44:17.000Z",
-   "badges": [
-    "oss"
-   ],
-   "dupes": 2,
-   "score": 0.529,
+   "score": 0.526,
    "tier": 3
   },
   {
@@ -452,22 +434,22 @@
    "tldr": "Cities generate enormous amounts of data from cameras, sensors and operational systems, but turning it into useful action — for planning, maintenance and public services — remains a challenge.",
    "published": "2026-11-03T07:00:12.000Z",
    "dupes": 1,
-   "score": 0.526,
+   "score": 0.524,
    "tier": 3
   },
   {
-   "id": "649e0d8b078ebcc32bfa5759f08d2619510fe2fb",
-   "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
-   "url": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
+   "id": "25c3eda20cfedcbc9b6b0c094160d09c60017f6a",
+   "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
+   "url": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
    "source": "The Hacker News",
    "org": [
-    "microsoft"
+    "openai"
    ],
    "topic": "security",
-   "tldr": "A fix for CVE-2026-83844, a remote code execution flaw in Windows Paint, is now in the Microsoft Store.  Paint gets this fix only through a Store update, not through Windows updates.",
-   "published": "2026-11-06T12:06:43.000Z",
+   "tldr": "2 million in API costs.",
+   "published": "2026-11-05T12:08:54.000Z",
    "dupes": 1,
-   "score": 0.514,
+   "score": 0.522,
    "tier": 3
   },
   {
@@ -482,52 +464,7 @@
    "tldr": "Cybersecurity researchers have disclosed details of an OpenAI Codex jailbreak bundle that's designed to modify an artificial intelligence (AI) agent's trusted instructions to insert advertisements for a third-party AI…",
    "published": "2026-11-04T16:06:43.000Z",
    "dupes": 1,
-   "score": 0.511,
-   "tier": 3
-  },
-  {
-   "id": "97ef9b7e609b1b76596b89b852b76dabffa853bf",
-   "title": "NASA Awards Moon Base Transportation, Technology, Science Projects",
-   "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects",
-   "source": "NASA",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "NASA announced a suite of awards and mission updates on Saturday to expand the agency’s Moon Base exploration, science, and infrastructure capabilities.",
-   "published": "2026-11-07T22:47:03.000Z",
-   "dupes": 1,
-   "score": 0.504,
-   "tier": 3
-  },
-  {
-   "id": "c2f87da817449b8c21586008de5903286f13caa5",
-   "title": "NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
-   "url": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps",
-   "source": "NASA",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "NASA is looking for the explorers who will help write the next chapter of human spaceflight.  Applications are now open for the agency’s next class of astronauts, who will join NASA as America returns to the Moon,…",
-   "published": "2026-11-07T18:11:57.000Z",
-   "dupes": 1,
-   "score": 0.494,
-   "tier": 3
-  },
-  {
-   "id": "790620dc675cb49a457f61e8f4c42d30c5ed9751",
-   "title": "NASA Astronauts to Answer Questions from Florida Students",
-   "url": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students-2",
-   "source": "NASA",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "Students in Florida will hear from NASA astronauts Jessica Watkins and Luke Delaney as they answer prerecorded STEM questions while aboard the International Space Station.  m.",
-   "published": "2026-11-05T15:11:25.000Z",
-   "dupes": 1,
-   "score": 0.434,
+   "score": 0.506,
    "tier": 3
   },
   {
@@ -542,7 +479,142 @@
    "tldr": "ai could make Claude Desktop run code on a person's computer, researchers at Forever Security, an endpoint security company, showed in a test.  The attack needs Dispatch, a Claude feature that lets people send tasks…",
    "published": "2026-11-06T12:06:35.000Z",
    "dupes": 1,
-   "score": 0.42,
+   "score": 0.47,
+   "tier": 3
+  },
+  {
+   "id": "97ef9b7e609b1b76596b89b852b76dabffa853bf",
+   "title": "NASA Awards Moon Base Transportation, Technology, Science Projects",
+   "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects",
+   "source": "NASA",
+   "org": [
+    "nasa"
+   ],
+   "topic": "space",
+   "tldr": "NASA announced a suite of awards and mission updates on Saturday to expand the agency’s Moon Base exploration, science, and infrastructure capabilities.",
+   "published": "2026-11-07T22:47:03.000Z",
+   "dupes": 1,
+   "score": 0.454,
+   "tier": 3
+  },
+  {
+   "id": "c2f87da817449b8c21586008de5903286f13caa5",
+   "title": "NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
+   "url": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps",
+   "source": "NASA",
+   "org": [
+    "nasa"
+   ],
+   "topic": "space",
+   "tldr": "NASA is looking for the explorers who will help write the next chapter of human spaceflight.  Applications are now open for the agency’s next class of astronauts, who will join NASA as America returns to the Moon,…",
+   "published": "2026-11-07T18:11:57.000Z",
+   "dupes": 1,
+   "score": 0.446,
+   "tier": 3
+  },
+  {
+   "id": "790620dc675cb49a457f61e8f4c42d30c5ed9751",
+   "title": "NASA Astronauts to Answer Questions from Florida Students",
+   "url": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students-2",
+   "source": "NASA",
+   "org": [
+    "nasa"
+   ],
+   "topic": "space",
+   "tldr": "Students in Florida will hear from NASA astronauts Jessica Watkins and Luke Delaney as they answer prerecorded STEM questions while aboard the International Space Station.  m.",
+   "published": "2026-11-05T15:11:25.000Z",
+   "dupes": 1,
+   "score": 0.396,
+   "tier": 3
+  },
+  {
+   "id": "649e0d8b078ebcc32bfa5759f08d2619510fe2fb",
+   "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
+   "url": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
+   "source": "The Hacker News",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "security",
+   "tldr": "A fix for CVE-2026-83844, a remote code execution flaw in Windows Paint, is now in the Microsoft Store.  Paint gets this fix only through a Store update, not through Windows updates.",
+   "published": "2026-11-06T12:06:43.000Z",
+   "dupes": 1,
+   "score": 0.387,
+   "tier": 3
+  },
+  {
+   "id": "b4546289e864fbac4a2d3f93d35884adee5c2f2d",
+   "title": "Anthropic adds rule to stop Claude Code recreating existing games",
+   "url": "https://www.gamesindustry.biz/anthropic-adds-rule-to-stop-claude-code-recreating-existing-games",
+   "source": "GamesIndustry.biz",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "gaming",
+   "tldr": "Anthropic has updated its AI coding tool Claude Code so it stops building clones of existing video games.",
+   "published": "2026-11-02T17:50:20.000Z",
+   "dupes": 1,
+   "score": 0.377,
+   "tier": 3
+  },
+  {
+   "id": "2a5b7d5a686a585dee3d6eaf42b2eae9a26f81b7",
+   "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
+   "url": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
+   "source": "The Hacker News",
+   "org": [
+    "apple"
+   ],
+   "topic": "security",
+   "tldr": "S.  Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities (KEV) catalog, following…",
+   "published": "2026-11-05T05:17:04.000Z",
+   "dupes": 2,
+   "score": 0.341,
+   "tier": 3
+  },
+  {
+   "id": "32c90d2f095832b7d91072993ec93fa7a9aedcf4",
+   "title": "Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction",
+   "url": "https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html",
+   "source": "The Hacker News",
+   "org": [
+    "google"
+   ],
+   "topic": "security",
+   "tldr": "A critical Android flaw could allow an attacker to run code on a phone without any user action remotely, Google said in its November security bulletin.  The flaw, CVE-2026-58868, affects Android 14 through 17.",
+   "published": "2026-11-04T07:46:15.000Z",
+   "dupes": 1,
+   "score": 0.336,
+   "tier": 3
+  },
+  {
+   "id": "310fe7a6e4c306a275108a1d251fa8bbcb800430",
+   "title": "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges",
+   "url": "https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html",
+   "source": "The Hacker News",
+   "org": [
+    "google"
+   ],
+   "topic": "security",
+   "tldr": "Google on Monday warned that threat actors are hijacking enterprise access to Large Language Models (LLMs) to fraudulently leverage expensive computing resources and AI services.",
+   "published": "2026-11-03T15:41:53.000Z",
+   "dupes": 1,
+   "score": 0.332,
+   "tier": 3
+  },
+  {
+   "id": "948be6f589a74e5274c20db4ce6d9d52b35bee7f",
+   "title": "Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access",
+   "url": "https://thehackernews.com/2026/11/google-disrupts-13-million-device.html",
+   "source": "The Hacker News",
+   "org": [
+    "google"
+   ],
+   "topic": "security",
+   "tldr": "3 million Android devices, mostly TV set-top boxes, lost control of its servers in late October in a takedown led by Google.  Google says it is highly confident that device maker Videostrong intentionally put a backdoor…",
+   "published": "2026-11-02T15:50:26.000Z",
+   "dupes": 1,
+   "score": 0.329,
    "tier": 3
   },
   {
@@ -557,7 +629,22 @@
    "tldr": "A French union representing workers at Arkane Lyon has accused Microsoft of sabotaging development of Marvel's Blade, claiming a 19-month hiring freeze caused the delays now being used to justify the studio's closure.",
    "published": "2026-11-04T20:17:10.000Z",
    "dupes": 1,
-   "score": 0.418,
+   "score": 0.318,
+   "tier": 3
+  },
+  {
+   "id": "5c9988bd7daf4c660f1c0b57ed939ccdced1d68d",
+   "title": "Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost",
+   "url": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance",
+   "source": "Ars Technica",
+   "org": [
+    "blue-origin"
+   ],
+   "topic": "space",
+   "tldr": "\"This is going to be a game-changer.\"",
+   "published": "2026-11-06T00:17:06.000Z",
+   "dupes": 2,
+   "score": 0.315,
    "tier": 3
   },
   {
@@ -573,97 +660,7 @@
    "tldr": "Ubisoft is reportedly seeking to acquire Arkane Lyon following an extension of its consultation period with Xbox.",
    "published": "2026-11-04T08:35:49.000Z",
    "dupes": 1,
-   "score": 0.415,
-   "tier": 3
-  },
-  {
-   "id": "32c90d2f095832b7d91072993ec93fa7a9aedcf4",
-   "title": "Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction",
-   "url": "https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html",
-   "source": "The Hacker News",
-   "org": [
-    "google"
-   ],
-   "topic": "security",
-   "tldr": "A critical Android flaw could allow an attacker to run code on a phone without any user action remotely, Google said in its November security bulletin.  The flaw, CVE-2026-58868, affects Android 14 through 17.",
-   "published": "2026-11-04T07:46:15.000Z",
-   "dupes": 1,
-   "score": 0.368,
-   "tier": 3
-  },
-  {
-   "id": "2a5b7d5a686a585dee3d6eaf42b2eae9a26f81b7",
-   "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
-   "url": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
-   "source": "The Hacker News",
-   "org": [
-    "apple"
-   ],
-   "topic": "security",
-   "tldr": "S.  Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities (KEV) catalog, following…",
-   "published": "2026-11-05T05:17:04.000Z",
-   "dupes": 2,
-   "score": 0.364,
-   "tier": 3
-  },
-  {
-   "id": "310fe7a6e4c306a275108a1d251fa8bbcb800430",
-   "title": "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges",
-   "url": "https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html",
-   "source": "The Hacker News",
-   "org": [
-    "google"
-   ],
-   "topic": "security",
-   "tldr": "Google on Monday warned that threat actors are hijacking enterprise access to Large Language Models (LLMs) to fraudulently leverage expensive computing resources and AI services.",
-   "published": "2026-11-03T15:41:53.000Z",
-   "dupes": 1,
-   "score": 0.363,
-   "tier": 3
-  },
-  {
-   "id": "948be6f589a74e5274c20db4ce6d9d52b35bee7f",
-   "title": "Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access",
-   "url": "https://thehackernews.com/2026/11/google-disrupts-13-million-device.html",
-   "source": "The Hacker News",
-   "org": [
-    "google"
-   ],
-   "topic": "security",
-   "tldr": "3 million Android devices, mostly TV set-top boxes, lost control of its servers in late October in a takedown led by Google.  Google says it is highly confident that device maker Videostrong intentionally put a backdoor…",
-   "published": "2026-11-02T15:50:26.000Z",
-   "dupes": 1,
-   "score": 0.359,
-   "tier": 3
-  },
-  {
-   "id": "5c9988bd7daf4c660f1c0b57ed939ccdced1d68d",
-   "title": "Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost",
-   "url": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance",
-   "source": "Ars Technica",
-   "org": [
-    "blue-origin"
-   ],
-   "topic": "space",
-   "tldr": "\"This is going to be a game-changer.\"",
-   "published": "2026-11-06T00:17:06.000Z",
-   "dupes": 2,
-   "score": 0.332,
-   "tier": 3
-  },
-  {
-   "id": "b4546289e864fbac4a2d3f93d35884adee5c2f2d",
-   "title": "Anthropic adds rule to stop Claude Code recreating existing games",
-   "url": "https://www.gamesindustry.biz/anthropic-adds-rule-to-stop-claude-code-recreating-existing-games",
-   "source": "GamesIndustry.biz",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "gaming",
-   "tldr": "Anthropic has updated its AI coding tool Claude Code so it stops building clones of existing video games.",
-   "published": "2026-11-02T17:50:20.000Z",
-   "dupes": 1,
-   "score": 0.332,
+   "score": 0.315,
    "tier": 3
   },
   {
@@ -676,7 +673,7 @@
    "tldr": "\"The Blacklift rocket is the springboard to significantly expand our total addressable market.\"",
    "published": "2026-11-06T18:20:47.000Z",
    "dupes": 2,
-   "score": 0.323,
+   "score": 0.308,
    "tier": 3
   },
   {
@@ -689,7 +686,7 @@
    "tldr": "China's prohibition of SoftBank's purchase of ABB Robotics reflects wider concerns about data and AI, say experts.  The post Industry experts discuss China blocking SoftBank acquisition of ABB Robotics appeared first on…",
    "published": "2026-11-06T20:41:17.000Z",
    "dupes": 2,
-   "score": 0.313,
+   "score": 0.297,
    "tier": 3
   },
   {
@@ -702,7 +699,7 @@
    "tldr": "Properly integrated industrial and collaborative robots can help midmarket manufacturers, according to a columnist.  The post Robot integration brings high-precision production to midmarket manufacturers appeared first…",
    "published": "2026-11-07T13:32:59.000Z",
    "dupes": 1,
-   "score": 0.309,
+   "score": 0.286,
    "tier": 3
   },
   {
@@ -717,7 +714,7 @@
    "tldr": "Interstellar Technologies announces more government funding for the Japanese Zero rocket.",
    "published": "2026-11-06T13:33:20.000Z",
    "dupes": 1,
-   "score": 0.291,
+   "score": 0.273,
    "tier": 3
   },
   {
@@ -730,7 +727,20 @@
    "tldr": "This NASA/ESA Hubble Space Telescope image released Nov.  5, 2026, provides a lesson in galactic history.",
    "published": "2026-11-06T16:23:41.000Z",
    "dupes": 1,
-   "score": 0.274,
+   "score": 0.26,
+   "tier": 3
+  },
+  {
+   "id": "374aa7909a4a62acccbd555b182fa86ea0566c3f",
+   "title": "Supercomputing Tech Demo Schedule",
+   "url": "https://science.nasa.gov/earth/supercomputing-tech-demo-schedule",
+   "source": "NASA",
+   "org": [],
+   "topic": "space",
+   "tldr": "Supercomputing 2026 Join NASA in the Exhibit Hall (Booth #4038) for presentations by NASA experts.  Full Tech Demo schedule below.",
+   "published": "2026-11-06T16:03:52.000Z",
+   "dupes": 1,
+   "score": 0.259,
    "tier": 3
   },
   {
@@ -745,20 +755,7 @@
    "tldr": "49.  The post How did Agility Robotics perform on its first day on the stock market?",
    "published": "2026-11-05T22:48:14.000Z",
    "dupes": 1,
-   "score": 0.274,
-   "tier": 3
-  },
-  {
-   "id": "374aa7909a4a62acccbd555b182fa86ea0566c3f",
-   "title": "Supercomputing Tech Demo Schedule",
-   "url": "https://science.nasa.gov/earth/supercomputing-tech-demo-schedule",
-   "source": "NASA",
-   "org": [],
-   "topic": "space",
-   "tldr": "Supercomputing 2026 Join NASA in the Exhibit Hall (Booth #4038) for presentations by NASA experts.  Full Tech Demo schedule below.",
-   "published": "2026-11-06T16:03:52.000Z",
-   "dupes": 1,
-   "score": 0.273,
+   "score": 0.256,
    "tier": 3
   },
   {
@@ -773,7 +770,7 @@
    "tldr": "-based legged humanoid company to be publicly listed.  The post Agility Robotics begins trading on Nasdaq appeared first on The Robot Report .",
    "published": "2026-11-05T14:46:29.000Z",
    "dupes": 1,
-   "score": 0.269,
+   "score": 0.252,
    "tier": 3
   },
   {
@@ -786,7 +783,7 @@
    "tldr": "Aaron Nathan explains how precise location technology like GPS is enabling robots to navigate, coordinate, and scale across real environments.  The post How Point One turned GPS accuracy into a robotics platform…",
    "published": "2026-11-06T21:47:35.000Z",
    "dupes": 1,
-   "score": 0.263,
+   "score": 0.247,
    "tier": 3
   },
   {
@@ -801,20 +798,7 @@
    "tldr": "Brian Donnelly, the VP and GM of logistics robotics at Boston Dynamics, said the new version of Stretch has been in the works for two and a half years.  The post Boston Dynamics built Stretch Gen 2 for reliable,…",
    "published": "2026-11-06T21:34:44.000Z",
    "dupes": 1,
-   "score": 0.263,
-   "tier": 3
-  },
-  {
-   "id": "1f3694f5e3c91711fca9880f543e3b204d6f74d4",
-   "title": "Physicl raises $10M to make the digital world real enough for robots",
-   "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots",
-   "source": "TechCrunch",
-   "org": [],
-   "topic": "robotics",
-   "tldr": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
-   "published": "2026-11-06T13:00:00.000Z",
-   "dupes": 1,
-   "score": 0.252,
+   "score": 0.247,
    "tier": 3
   },
   {
@@ -827,7 +811,20 @@
    "tldr": "The San Juan River has carved deep, improbably curvy meanders into the desert landscape.",
    "published": "2026-11-06T05:01:00.000Z",
    "dupes": 1,
-   "score": 0.252,
+   "score": 0.242,
+   "tier": 3
+  },
+  {
+   "id": "1f3694f5e3c91711fca9880f543e3b204d6f74d4",
+   "title": "Physicl raises $10M to make the digital world real enough for robots",
+   "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots",
+   "source": "TechCrunch",
+   "org": [],
+   "topic": "robotics",
+   "tldr": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
+   "published": "2026-11-06T13:00:00.000Z",
+   "dupes": 1,
+   "score": 0.239,
    "tier": 3
   },
   {
@@ -842,7 +839,7 @@
    "tldr": "Deal is expected to provide approximately $465 million in gross capital as Agility expands deployments of its Digit humanoid with industrial customers.  5B Agility Robotics humanoid SPAC appeared first on The Robot…",
    "published": "2026-11-03T00:15:39.000Z",
    "dupes": 1,
-   "score": 0.249,
+   "score": 0.235,
    "tier": 3
   },
   {
@@ -857,7 +854,33 @@
    "tldr": "It's mostly bad news from EA lately, but preservation efforts are nice to see.",
    "published": "2026-11-06T22:08:47.000Z",
    "dupes": 1,
-   "score": 0.241,
+   "score": 0.227,
+   "tier": 3
+  },
+  {
+   "id": "ed8b1e2b6586b891d3a7106db80f543758686101",
+   "title": "Midwestern City Lights",
+   "url": "https://www.nasa.gov/image-article/midwestern-city-lights",
+   "source": "NASA",
+   "org": [],
+   "topic": "space",
+   "tldr": "City lights from the Midwestern United States to the East Coast sparkle across the landscape a couple of hours before sunrise on Oct.  18, 2026.",
+   "published": "2026-11-05T15:17:19.000Z",
+   "dupes": 1,
+   "score": 0.225,
+   "tier": 3
+  },
+  {
+   "id": "556cba13cd58343257d07a5b678621db3fe9ec22",
+   "title": "CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission",
+   "url": "https://spacenews.com/cesiumastro-secures-730-million-in-janus-henderson-led-series-d-at-a-valuation-above-4-5-billion-unveils-synchronicity-satellite-constellation-following-fully-successful-element-1-mission",
+   "source": "SpaceNews",
+   "org": [],
+   "topic": "space",
+   "tldr": "5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission appeared first on SpaceNews .",
+   "published": "2026-11-05T21:45:00.000Z",
+   "dupes": 1,
+   "score": 0.225,
    "tier": 3
   },
   {
@@ -873,7 +896,7 @@
    "tldr": "Grand Theft Auto 6 is two weeks away, and the highly anticipated title has nearly reached eight million pre-orders, according to recent data.",
    "published": "2026-11-05T14:13:50.000Z",
    "dupes": 1,
-   "score": 0.239,
+   "score": 0.225,
    "tier": 3
   },
   {
@@ -888,46 +911,20 @@
    "tldr": "Sony has raised its full-year forecast for its games segment after higher net sales and operating income in the second quarter.",
    "published": "2026-11-05T11:55:30.000Z",
    "dupes": 1,
-   "score": 0.238,
+   "score": 0.224,
    "tier": 3
   },
   {
-   "id": "556cba13cd58343257d07a5b678621db3fe9ec22",
-   "title": "CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission",
-   "url": "https://spacenews.com/cesiumastro-secures-730-million-in-janus-henderson-led-series-d-at-a-valuation-above-4-5-billion-unveils-synchronicity-satellite-constellation-following-fully-successful-element-1-mission",
+   "id": "5886207d7939b1b988530b6957693786160702b1",
+   "title": "Cork Takes the Heat So DRACO’s Data Can Survive",
+   "url": "https://spacenews.com/cork-takes-the-heat-so-dracos-data-can-survive",
    "source": "SpaceNews",
    "org": [],
    "topic": "space",
-   "tldr": "5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission appeared first on SpaceNews .",
-   "published": "2026-11-05T21:45:00.000Z",
+   "tldr": "Mozelos, Portugal, September 2, 2026 – Amorim Cork Solutions is contributing its P50 cork-based thermal protection material to DRACO, a European Space Agency (ESA) mission designed to capture rare in-flight […] The post…",
+   "published": "2026-11-05T17:05:59.000Z",
    "dupes": 1,
-   "score": 0.234,
-   "tier": 3
-  },
-  {
-   "id": "ed8b1e2b6586b891d3a7106db80f543758686101",
-   "title": "Midwestern City Lights",
-   "url": "https://www.nasa.gov/image-article/midwestern-city-lights",
-   "source": "NASA",
-   "org": [],
-   "topic": "space",
-   "tldr": "City lights from the Midwestern United States to the East Coast sparkle across the landscape a couple of hours before sunrise on Oct.  18, 2026.",
-   "published": "2026-11-05T15:17:19.000Z",
-   "dupes": 1,
-   "score": 0.233,
-   "tier": 3
-  },
-  {
-   "id": "f8aecab441829ea99010818b3aaee70f1af3af01",
-   "title": "Hubble Learns Galactic History From Stars",
-   "url": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars",
-   "source": "NASA",
-   "org": [],
-   "topic": "space",
-   "tldr": "This Hubble image features the sparkling collection of stars named Messier 30 (M30), also called NGC 7099.",
-   "published": "2026-11-05T12:56:21.000Z",
-   "dupes": 1,
-   "score": 0.23,
+   "score": 0.219,
    "tier": 3
   },
   {
@@ -940,7 +937,7 @@
    "tldr": "Ambi Robotics' co-founder and COO Stephen McKinley says the company is installing eight new systems at customer sites before peak season.  The post How Ambi Robotics helps its customers prepare for peak season appeared…",
    "published": "2026-11-05T16:50:23.000Z",
    "dupes": 1,
-   "score": 0.212,
+   "score": 0.204,
    "tier": 3
   },
   {
@@ -953,7 +950,7 @@
    "tldr": "The 2026 Startup Radar presents innovative young companies developing hardware, software, and business models for the next generation of commercial robotics.  The post Robotics Startup Radar 2026 appeared first on The…",
    "published": "2026-11-04T16:08:46.000Z",
    "dupes": 1,
-   "score": 0.189,
+   "score": 0.184,
    "tier": 3
   },
   {
@@ -966,7 +963,7 @@
    "tldr": "When designing the robot, GlobalLogic said it didn't want to just quickly design a robot for one use case or environment.  The post How GlobalLogic helped Haystack Robotics build a UV disinfection robot appeared first…",
    "published": "2026-11-04T15:22:55.000Z",
    "dupes": 1,
-   "score": 0.188,
+   "score": 0.184,
    "tier": 3
   },
   {
@@ -979,7 +976,7 @@
    "tldr": "2 million hours of human experience to support zero-shot robot manipulation.  The post LiberAI Unveils Liber-0, a World Action Model That Grounds Human Experience in Robot Action appeared first on The Robot Report .",
    "published": "2026-11-04T15:02:57.000Z",
    "dupes": 1,
-   "score": 0.188,
+   "score": 0.184,
    "tier": 3
   }
  ]
