@@ -1,20 +1,95 @@
 {
- "generated": "2026-11-10T07:56:01.191Z",
+ "generated": "2026-11-10T16:01:00.765Z",
  "items": [
   {
-   "id": "1b18e8c9acf73639c21b05ec6b44f20b8e848ba7",
-   "title": "Google Gemini routes personal Drive files and emails to human annotators",
-   "url": "https://github.com/thisisme6598/gemini_files",
-   "source": "Hacker News",
+   "id": "46ecb159c1535b0933157f2d30d2423d17c0c4bd",
+   "title": "Helping caregivers use AI in everyday life",
+   "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "S.  cities, helping them build practical AI skills for everyday life.",
+   "published": "2026-11-10T12:00:00.000Z",
+   "dupes": 1,
+   "score": 0.6,
+   "tier": 1
+  },
+  {
+   "id": "f8c1a7370c130fe58cc9d833fbc0c3d7d581f8a4",
+   "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+   "url": "https://deepmind.google/blog/introducing-alphaproof-code",
+   "source": "Google DeepMind",
    "org": [
     "google"
    ],
    "topic": "ai",
-   "tldr": "",
-   "published": "2026-11-09T18:24:38.000Z",
+   "tldr": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+   "published": "2026-11-10T12:02:28.000Z",
    "dupes": 1,
-   "score": 0.558,
-   "tier": 1
+   "score": 0.6,
+   "tier": 2
+  },
+  {
+   "id": "01a8528fa117926a6942a8da712f5c8913fac83e",
+   "title": "Closing the AI guidance gap in education",
+   "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+   "published": "2026-11-10T09:00:00.000Z",
+   "dupes": 1,
+   "score": 0.567,
+   "tier": 2
+  },
+  {
+   "id": "a14681e2ddce12555573332e5953340175b0223f",
+   "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+   "source": "The Verge AI",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago.  Google claims Carbon is its \"strongest model\" yet, and…",
+   "published": "2026-11-10T16:00:00.000Z",
+   "dupes": 1,
+   "score": 0.55,
+   "tier": 2
+  },
+  {
+   "id": "3588ceed41552e465a0d28bf3b0ad339e960cd8a",
+   "title": "Work at the Frontier: AI’s effect on freelance work",
+   "url": "https://openai.com/index/ai-effect-on-freelance-work",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+   "published": "2026-11-10T07:00:00.000Z",
+   "dupes": 1,
+   "score": 0.547,
+   "tier": 2
+  },
+  {
+   "id": "0cd5e191c405cf8817d9ad2ef2b0d9ddbac4d672",
+   "title": "Anthropic targets $1.4 trillion IPO",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
+   "source": "The Verge AI",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations.  4 trillion, according to the New York Times.",
+   "published": "2026-11-10T14:06:54.000Z",
+   "dupes": 1,
+   "score": 0.525,
+   "tier": 2
   },
   {
    "id": "796a7f7ee338b70fa58b8f6d3d2f21d8f08f0e22",
@@ -28,7 +103,22 @@
    "tldr": "",
    "published": "2026-11-09T18:01:10.000Z",
    "dupes": 1,
-   "score": 0.537,
+   "score": 0.5,
+   "tier": 2
+  },
+  {
+   "id": "7da1b2b4758f6148853c122ae7c8e20bc40537d5",
+   "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+   "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence",
+   "source": "Google DeepMind",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+   "published": "2026-11-09T19:51:47.000Z",
+   "dupes": 1,
+   "score": 0.461,
    "tier": 2
   },
   {
@@ -43,35 +133,20 @@
    "tldr": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
    "published": "2026-11-09T19:00:00.000Z",
    "dupes": 1,
-   "score": 0.513,
+   "score": 0.456,
    "tier": 2
   },
   {
-   "id": "255b56db4a4a44d0d4a2de8a77fb172cf2dc5a84",
-   "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
-   "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
-   "source": "Hacker News",
-   "org": [
-    "anthropic"
-   ],
+   "id": "3229de0d919212c36c924a809a5e9d26c48f700b",
+   "title": "Decision Models in Hugging Face",
+   "url": "https://huggingface.co/blog/decision",
+   "source": "Hugging Face Blog",
+   "org": [],
    "topic": "ai",
    "tldr": "",
-   "published": "2026-11-09T20:04:55.000Z",
+   "published": "2026-11-10T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.513,
-   "tier": 2
-  },
-  {
-   "id": "ed213adeba37dce7c28882655e6450243906bd0b",
-   "title": "TPU 8tx and TPU 8i Max",
-   "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx",
-   "source": "Hacker News",
-   "org": [],
-   "topic": "compute",
-   "tldr": "",
-   "published": "2026-11-09T21:56:57.000Z",
-   "dupes": 1,
-   "score": 0.504,
+   "score": 0.451,
    "tier": 2
   },
   {
@@ -86,7 +161,7 @@
    "tldr": "Natural Language Processing",
    "published": "2026-11-09T20:29:39.000Z",
    "dupes": 1,
-   "score": 0.5,
+   "score": 0.44,
    "tier": 2
   },
   {
@@ -104,7 +179,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.469,
+   "score": 0.424,
    "tier": 2
   },
   {
@@ -119,48 +194,7 @@
    "tldr": "Simulation, which has long been the proving ground for robots learning to walk, roll and hop, is now helping researchers teach robots tasks that require a finer touch: aligning gears, connecting cables and assembling…",
    "published": "2026-11-09T14:00:01.000Z",
    "dupes": 1,
-   "score": 0.45,
-   "tier": 2
-  },
-  {
-   "id": "15c28179b2dc3ec9cbc8a50fc5e36f988b136eb9",
-   "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-   "source": "The Verge AI",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "ai",
-   "tldr": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide.",
-   "published": "2026-11-09T23:07:59.000Z",
-   "dupes": 1,
-   "score": 0.449,
-   "tier": 2
-  },
-  {
-   "id": "057e22ab69c04fb1c6649cb0bf4e92ea8c65293a",
-   "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-   "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-11-09T15:05:57.000Z",
-   "dupes": 1,
-   "score": 0.446,
-   "tier": 2
-  },
-  {
-   "id": "e18cab0e30e95e16d44e388f45a8b4827700a695",
-   "title": "The first 300-millimeter power silicon carbide (SiC) wafer",
-   "url": "https://www.infineon.com/press-release/2026/infpr202611-028",
-   "source": "Hacker News",
-   "org": [],
-   "topic": "compute",
-   "tldr": "",
-   "published": "2026-11-09T18:25:01.000Z",
-   "dupes": 1,
-   "score": 0.443,
+   "score": 0.404,
    "tier": 2
   },
   {
@@ -175,8 +209,8 @@
    "tldr": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
    "published": "2026-11-09T08:00:00.000Z",
    "dupes": 1,
-   "score": 0.439,
-   "tier": 2
+   "score": 0.402,
+   "tier": 3
   },
   {
    "id": "932fe34bad728f30ad4ef609d13a6e2a6ef01f4d",
@@ -190,8 +224,21 @@
    "tldr": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings.  5 minutes, down from nearly an hour.",
    "published": "2026-11-09T08:00:00.000Z",
    "dupes": 1,
-   "score": 0.439,
-   "tier": 2
+   "score": 0.402,
+   "tier": 3
+  },
+  {
+   "id": "057e22ab69c04fb1c6649cb0bf4e92ea8c65293a",
+   "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+   "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-09T15:05:57.000Z",
+   "dupes": 1,
+   "score": 0.397,
+   "tier": 3
   },
   {
    "id": "7b1451fc786c34f9eeb4411c953942dafa553acd",
@@ -203,7 +250,22 @@
    "tldr": "",
    "published": "2026-11-09T12:34:29.000Z",
    "dupes": 1,
-   "score": 0.429,
+   "score": 0.384,
+   "tier": 3
+  },
+  {
+   "id": "15c28179b2dc3ec9cbc8a50fc5e36f988b136eb9",
+   "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+   "source": "The Verge AI",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "ai",
+   "tldr": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide.",
+   "published": "2026-11-09T23:07:59.000Z",
+   "dupes": 1,
+   "score": 0.383,
    "tier": 3
   },
   {
@@ -218,22 +280,7 @@
    "tldr": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX.  Representatives from the Ministry of Science and ICT and NVIDIA met with over 20 Korean startups across…",
    "published": "2026-11-09T08:00:53.000Z",
    "dupes": 1,
-   "score": 0.414,
-   "tier": 3
-  },
-  {
-   "id": "f1eea0a2781af6aa83cc32733ec51a7eb5b4289f",
-   "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
-   "source": "The Verge AI",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "2, which it says are designed to take on \"daunting\" technical challenges.  1 versions of the Fable and Mythos models.",
-   "published": "2026-11-09T19:00:00.000Z",
-   "dupes": 1,
-   "score": 0.413,
+   "score": 0.377,
    "tier": 3
   },
   {
@@ -248,7 +295,7 @@
    "tldr": "Tapping into the country’s strengths in manufacturing and engineering, NVIDIA is helping advance Korea’s physical AI ecosystem.  The country’s industry leaders are applying accelerated computing, AI and simulation to…",
    "published": "2026-11-09T05:00:40.000Z",
    "dupes": 1,
-   "score": 0.399,
+   "score": 0.366,
    "tier": 3
   },
   {
@@ -263,7 +310,7 @@
    "tldr": "As AI agents take on more work, they need capable open models and security that advances alongside them.  Hyundai Motor Group is exploring NVIDIA NemoClaw blueprints and the NVIDIA OpenShell runtime, while AIM…",
    "published": "2026-11-09T05:00:39.000Z",
    "dupes": 1,
-   "score": 0.399,
+   "score": 0.366,
    "tier": 3
   },
   {
@@ -278,7 +325,7 @@
    "tldr": "NVIDIA and Korea’s Ministry of Science and ICT (MSIT) are expanding their collaboration across the country’s sovereign AI ecosystem, from AI semiconductors and data center infrastructure to talent, startups, models,…",
    "published": "2026-11-09T05:00:04.000Z",
    "dupes": 1,
-   "score": 0.399,
+   "score": 0.366,
    "tier": 3
   },
   {
@@ -293,7 +340,7 @@
    "tldr": "0 from LG AI Research, Solar Open 2 from Upstage and Motif-3 from Motif Technologies.",
    "published": "2026-11-09T05:00:00.000Z",
    "dupes": 1,
-   "score": 0.399,
+   "score": 0.366,
    "tier": 3
   },
   {
@@ -309,7 +356,7 @@
    "tldr": "",
    "published": "2026-11-08T10:22:04.000Z",
    "dupes": 1,
-   "score": 0.376,
+   "score": 0.324,
    "tier": 3
   },
   {
@@ -324,7 +371,7 @@
    "tldr": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
    "published": "2026-11-06T08:00:00.000Z",
    "dupes": 1,
-   "score": 0.309,
+   "score": 0.306,
    "tier": 3
   },
   {
@@ -339,7 +386,7 @@
    "tldr": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
    "published": "2026-11-06T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.306,
+   "score": 0.305,
    "tier": 3
   },
   {
@@ -354,7 +401,7 @@
    "tldr": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
    "published": "2026-11-05T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.305,
+   "score": 0.304,
    "tier": 3
   },
   {
@@ -369,7 +416,7 @@
    "tldr": "fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
    "published": "2026-11-05T20:00:00.000Z",
    "dupes": 1,
-   "score": 0.305,
+   "score": 0.304,
    "tier": 3
   },
   {
@@ -384,7 +431,7 @@
    "tldr": "",
    "published": "2026-11-05T17:05:16.000Z",
    "dupes": 1,
-   "score": 0.305,
+   "score": 0.304,
    "tier": 3
   },
   {
@@ -399,7 +446,7 @@
    "tldr": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
    "published": "2026-11-05T09:00:00.000Z",
    "dupes": 1,
-   "score": 0.304,
+   "score": 0.303,
    "tier": 3
   },
   {
@@ -429,7 +476,7 @@
    "tldr": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
    "published": "2026-11-05T02:00:00.000Z",
    "dupes": 1,
-   "score": 0.303,
+   "score": 0.302,
    "tier": 3
   },
   {
@@ -444,7 +491,7 @@
    "tldr": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
    "published": "2026-11-05T00:45:15.000Z",
    "dupes": 1,
-   "score": 0.303,
+   "score": 0.302,
    "tier": 3
   },
   {
@@ -462,7 +509,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.303,
+   "score": 0.302,
    "tier": 3
   },
   {
@@ -477,7 +524,7 @@
    "tldr": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
    "published": "2026-11-04T14:30:00.000Z",
    "dupes": 1,
-   "score": 0.302,
+   "score": 0.301,
    "tier": 3
   },
   {
@@ -541,51 +588,6 @@
    "tier": 3
   },
   {
-   "id": "26c6032e1d2677657b700d5fc3cfed3434f8516c",
-   "title": "Accelerating engineering for the physical world",
-   "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
-   "published": "2026-11-03T12:00:00.000Z",
-   "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
-   "id": "a2357e701f020223b3100435aeb5d89294fe9043",
-   "title": "How Cisco defends at machine speed with OpenAI",
-   "url": "https://openai.com/index/cisco-cyber",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security.  Learn how it is building more adaptive defenses.",
-   "published": "2026-11-03T08:00:00.000Z",
-   "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
-   "id": "08b710f1e7801fa86cc96c61e8aad81d8bc7aec0",
-   "title": "Heimstaden is changing residential real estate management with AI",
-   "url": "https://openai.com/index/heimstaden",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
-   "published": "2026-11-03T08:00:00.000Z",
-   "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
    "id": "adafdd4764cb9dbbcc8baf5f90eab559ee61ffdd",
    "title": "Agentic cheminformatics with Google Antigravity",
    "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity",
@@ -615,22 +617,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.287,
-   "tier": 3
-  },
-  {
-   "id": "56a03da12c0bbf17972ef5da6e3fe08f9bb1d5de",
-   "title": "Detecting signs of hypertension using wearable sensors",
-   "url": "https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors",
-   "source": "Google Research",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Health & Bioscience",
-   "published": "2026-11-05T16:01:08.000Z",
-   "dupes": 1,
-   "score": 0.28,
+   "score": 0.284,
    "tier": 3
   },
   {
@@ -645,7 +632,7 @@
    "tldr": "AI agents do more than generate answers.  They search for information, query databases, write and test code and take action.",
    "published": "2026-11-05T20:00:41.000Z",
    "dupes": 1,
-   "score": 0.28,
+   "score": 0.279,
    "tier": 3
   },
   {
@@ -660,7 +647,22 @@
    "tldr": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended.  Developers are combining frontier AI models with NVIDIA…",
    "published": "2026-11-05T17:00:35.000Z",
    "dupes": 1,
-   "score": 0.28,
+   "score": 0.279,
+   "tier": 3
+  },
+  {
+   "id": "56a03da12c0bbf17972ef5da6e3fe08f9bb1d5de",
+   "title": "Detecting signs of hypertension using wearable sensors",
+   "url": "https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors",
+   "source": "Google Research",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Health & Bioscience",
+   "published": "2026-11-05T16:01:08.000Z",
+   "dupes": 1,
+   "score": 0.278,
    "tier": 3
   },
   {
@@ -678,7 +680,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.28,
+   "score": 0.278,
    "tier": 3
   },
   {
@@ -693,7 +695,7 @@
    "tldr": "Larger models, longer contexts and agentic applications are increasing GPU memory pressure while supply tightens and prices rise — a trend expected to continue through the near term.  NVIDIA works closely with memory…",
    "published": "2026-11-05T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.28,
+   "score": 0.278,
    "tier": 3
   },
   {
@@ -708,7 +710,7 @@
    "tldr": "Hogwarts Legacy receives an NVIDIA DLSS 5 upgrade with 3D-Guided Neural Rendering today, bringing lifelike lighting and materials to the wizarding world on GeForce NOW.  Blizzard Entertainment’s World of Warcraft:…",
    "published": "2026-11-05T14:00:34.000Z",
    "dupes": 1,
-   "score": 0.279,
+   "score": 0.278,
    "tier": 3
   },
   {
@@ -723,7 +725,7 @@
    "tldr": "Data Mining & Modeling",
    "published": "2026-11-04T18:07:05.000Z",
    "dupes": 1,
-   "score": 0.277,
+   "score": 0.276,
    "tier": 3
   },
   {
@@ -751,7 +753,7 @@
    "tldr": "",
    "published": "2026-11-06T14:00:48.000Z",
    "dupes": 1,
-   "score": 0.273,
+   "score": 0.271,
    "tier": 3
   },
   {
@@ -764,7 +766,7 @@
    "tldr": "",
    "published": "2026-11-06T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.269,
+   "score": 0.267,
    "tier": 3
   },
   {
@@ -779,7 +781,7 @@
    "tldr": "AI agents can generate code at a scale that’s hard for humans to review line-by-line.  PDD Kit helps ensure the code is doing what the developer intended by creating formal specifications and testing against them.",
    "published": "2026-11-05T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.267,
+   "score": 0.266,
    "tier": 3
   },
   {
@@ -792,7 +794,7 @@
    "tldr": "",
    "published": "2026-11-05T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.265,
+   "score": 0.264,
    "tier": 3
   },
   {
@@ -805,7 +807,7 @@
    "tldr": "",
    "published": "2026-11-04T17:50:10.000Z",
    "dupes": 1,
-   "score": 0.265,
+   "score": 0.264,
    "tier": 3
   },
   {
@@ -848,7 +850,7 @@
    "tldr": "",
    "published": "2026-11-06T16:14:47.000Z",
    "dupes": 1,
-   "score": 0.203,
+   "score": 0.199,
    "tier": 3
   }
  ]
