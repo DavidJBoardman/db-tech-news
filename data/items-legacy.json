@@ -1,6 +1,39 @@
 {
- "generated": "2026-11-10T16:01:00.765Z",
+ "generated": "2026-11-10T21:44:09.911Z",
  "items": [
+  {
+   "id": "fc6b6a56df7b365074b119338f18f53b82e8e233",
+   "title": "Gemini 4 Carbon is now available",
+   "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available",
+   "source": "Google DeepMind",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-10T16:03:47.000Z",
+   "dupes": 1,
+   "score": 0.581,
+   "tier": 1
+  },
+  {
+   "id": "405fdcad1ce1a75cd702fb3169b064e2473c8bc3",
+   "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
+   "url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only growing.  To help meet them, NVIDIA is deepening…",
+   "published": "2026-11-10T16:00:03.000Z",
+   "badges": [
+    "oss"
+   ],
+   "dupes": 1,
+   "score": 0.556,
+   "tier": 2
+  },
   {
    "id": "46ecb159c1535b0933157f2d30d2423d17c0c4bd",
    "title": "Helping caregivers use AI in everyday life",
@@ -13,8 +46,8 @@
    "tldr": "S.  cities, helping them build practical AI skills for everyday life.",
    "published": "2026-11-10T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.6,
-   "tier": 1
+   "score": 0.541,
+   "tier": 2
   },
   {
    "id": "f8c1a7370c130fe58cc9d833fbc0c3d7d581f8a4",
@@ -28,7 +61,52 @@
    "tldr": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
    "published": "2026-11-10T12:02:28.000Z",
    "dupes": 1,
-   "score": 0.6,
+   "score": 0.541,
+   "tier": 2
+  },
+  {
+   "id": "7737e173e31a598869bdd5fd48b466d0bd6a67de",
+   "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
+   "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+   "source": "Hacker News",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-10T17:55:07.000Z",
+   "dupes": 1,
+   "score": 0.537,
+   "tier": 2
+  },
+  {
+   "id": "5ca4dc7b6d88cb31d41f9b1c287b0178583121a9",
+   "title": "Introducing Businesses in ChatGPT",
+   "url": "https://openai.com/index/introducing-businesses-chatgpt",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+   "published": "2026-11-10T10:00:00.000Z",
+   "dupes": 1,
+   "score": 0.523,
+   "tier": 2
+  },
+  {
+   "id": "dfad3e6674c2521c5d64ac5775dcb6f40f6d2a5c",
+   "title": "Life on Claude Nine",
+   "url": "https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html",
+   "source": "Hacker News",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-10T17:44:44.000Z",
+   "dupes": 1,
+   "score": 0.515,
    "tier": 2
   },
   {
@@ -43,22 +121,22 @@
    "tldr": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
    "published": "2026-11-10T09:00:00.000Z",
    "dupes": 1,
-   "score": 0.567,
+   "score": 0.514,
    "tier": 2
   },
   {
-   "id": "a14681e2ddce12555573332e5953340175b0223f",
-   "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+   "id": "7396b577c72532a79434571792754d09bdf330e5",
+   "title": "ChatGPT is getting verified AI ‘Business Agents’",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
    "source": "The Verge AI",
    "org": [
-    "google"
+    "openai"
    ],
    "topic": "ai",
-   "tldr": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago.  Google claims Carbon is its \"strongest model\" yet, and…",
-   "published": "2026-11-10T16:00:00.000Z",
+   "tldr": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping.  The feature, available first to \"eligible\" e-commerce and online service…",
+   "published": "2026-11-10T18:00:00.000Z",
    "dupes": 1,
-   "score": 0.55,
+   "score": 0.503,
    "tier": 2
   },
   {
@@ -73,7 +151,37 @@
    "tldr": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
    "published": "2026-11-10T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.547,
+   "score": 0.498,
+   "tier": 2
+  },
+  {
+   "id": "ec3f910d2a185a917865cb15b698a6f1e57be587",
+   "title": "Anthropic has its own AI-powered office suite now",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
+   "source": "The Verge AI",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to copy its strategies.…",
+   "published": "2026-11-10T17:30:00.000Z",
+   "dupes": 1,
+   "score": 0.497,
+   "tier": 2
+  },
+  {
+   "id": "a14681e2ddce12555573332e5953340175b0223f",
+   "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+   "source": "The Verge AI",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago.  Google claims Carbon is its \"strongest model\" yet, and…",
+   "published": "2026-11-10T16:00:00.000Z",
+   "dupes": 1,
+   "score": 0.481,
    "tier": 2
   },
   {
@@ -85,25 +193,10 @@
     "anthropic"
    ],
    "topic": "ai",
-   "tldr": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations.  4 trillion, according to the New York Times.",
+   "tldr": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations.  4 trillion, according to the The New York Times.",
    "published": "2026-11-10T14:06:54.000Z",
    "dupes": 1,
-   "score": 0.525,
-   "tier": 2
-  },
-  {
-   "id": "796a7f7ee338b70fa58b8f6d3d2f21d8f08f0e22",
-   "title": "Claude Fable 5.2 and Mythos 5.2",
-   "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-   "source": "Hacker News",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-11-09T18:01:10.000Z",
-   "dupes": 1,
-   "score": 0.5,
+   "score": 0.461,
    "tier": 2
   },
   {
@@ -118,8 +211,8 @@
    "tldr": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
    "published": "2026-11-09T19:51:47.000Z",
    "dupes": 1,
-   "score": 0.461,
-   "tier": 2
+   "score": 0.429,
+   "tier": 3
   },
   {
    "id": "9c331579e229757a7a398cd4a7db6c8d1421dabe",
@@ -133,8 +226,23 @@
    "tldr": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
    "published": "2026-11-09T19:00:00.000Z",
    "dupes": 1,
-   "score": 0.456,
-   "tier": 2
+   "score": 0.425,
+   "tier": 3
+  },
+  {
+   "id": "724fae9251483a53cc93e1b086445897a9598c39",
+   "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+   "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+   "source": "Hugging Face Blog",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-10T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.414,
+   "tier": 3
   },
   {
    "id": "3229de0d919212c36c924a809a5e9d26c48f700b",
@@ -146,8 +254,8 @@
    "tldr": "",
    "published": "2026-11-10T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.451,
-   "tier": 2
+   "score": 0.414,
+   "tier": 3
   },
   {
    "id": "fead6112027b46238be410ff80eb73420a1a72a2",
@@ -161,8 +269,8 @@
    "tldr": "Natural Language Processing",
    "published": "2026-11-09T20:29:39.000Z",
    "dupes": 1,
-   "score": 0.44,
-   "tier": 2
+   "score": 0.407,
+   "tier": 3
   },
   {
    "id": "f37b680abcf7adcb8bec0b0adda548a12d3efee4",
@@ -179,23 +287,8 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.424,
-   "tier": 2
-  },
-  {
-   "id": "7cd5e10290710b740d163a4497960e7669c9ee97",
-   "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
-   "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Simulation, which has long been the proving ground for robots learning to walk, roll and hop, is now helping researchers teach robots tasks that require a finer touch: aligning gears, connecting cables and assembling…",
-   "published": "2026-11-09T14:00:01.000Z",
-   "dupes": 1,
-   "score": 0.404,
-   "tier": 2
+   "score": 0.399,
+   "tier": 3
   },
   {
    "id": "23b94c697622500fcf7d46f91907d47f40d35583",
@@ -209,7 +302,7 @@
    "tldr": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
    "published": "2026-11-09T08:00:00.000Z",
    "dupes": 1,
-   "score": 0.402,
+   "score": 0.382,
    "tier": 3
   },
   {
@@ -224,123 +317,22 @@
    "tldr": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings.  5 minutes, down from nearly an hour.",
    "published": "2026-11-09T08:00:00.000Z",
    "dupes": 1,
-   "score": 0.402,
+   "score": 0.382,
    "tier": 3
   },
   {
-   "id": "057e22ab69c04fb1c6649cb0bf4e92ea8c65293a",
-   "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-   "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-11-09T15:05:57.000Z",
-   "dupes": 1,
-   "score": 0.397,
-   "tier": 3
-  },
-  {
-   "id": "7b1451fc786c34f9eeb4411c953942dafa553acd",
-   "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-   "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-11-09T12:34:29.000Z",
-   "dupes": 1,
-   "score": 0.384,
-   "tier": 3
-  },
-  {
-   "id": "15c28179b2dc3ec9cbc8a50fc5e36f988b136eb9",
-   "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-   "source": "The Verge AI",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "ai",
-   "tldr": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide.",
-   "published": "2026-11-09T23:07:59.000Z",
-   "dupes": 1,
-   "score": 0.383,
-   "tier": 3
-  },
-  {
-   "id": "6d49d73492813e52288c11e3e6591c325757920e",
-   "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
-   "url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit",
+   "id": "7cd5e10290710b740d163a4497960e7669c9ee97",
+   "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
+   "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl",
    "source": "NVIDIA Blog",
    "org": [
     "nvidia"
    ],
    "topic": "compute",
-   "tldr": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX.  Representatives from the Ministry of Science and ICT and NVIDIA met with over 20 Korean startups across…",
-   "published": "2026-11-09T08:00:53.000Z",
+   "tldr": "Simulation, which has long been the proving ground for robots learning to walk, roll and hop, is now helping researchers teach robots tasks that require a finer touch: aligning gears, connecting cables and assembling…",
+   "published": "2026-11-09T14:00:01.000Z",
    "dupes": 1,
-   "score": 0.377,
-   "tier": 3
-  },
-  {
-   "id": "38995d3fca35a803594afb6d18f1be240b45997d",
-   "title": "Korea Advances Physical AI Across Industries With NVIDIA",
-   "url": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Tapping into the country’s strengths in manufacturing and engineering, NVIDIA is helping advance Korea’s physical AI ecosystem.  The country’s industry leaders are applying accelerated computing, AI and simulation to…",
-   "published": "2026-11-09T05:00:40.000Z",
-   "dupes": 1,
-   "score": 0.366,
-   "tier": 3
-  },
-  {
-   "id": "51bc8200bfc724aab08272607fed59171ed82f0f",
-   "title": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
-   "url": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "As AI agents take on more work, they need capable open models and security that advances alongside them.  Hyundai Motor Group is exploring NVIDIA NemoClaw blueprints and the NVIDIA OpenShell runtime, while AIM…",
-   "published": "2026-11-09T05:00:39.000Z",
-   "dupes": 1,
-   "score": 0.366,
-   "tier": 3
-  },
-  {
-   "id": "60900222ede9bec5195c4f2c55f7b2342266bbb5",
-   "title": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
-   "url": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "NVIDIA and Korea’s Ministry of Science and ICT (MSIT) are expanding their collaboration across the country’s sovereign AI ecosystem, from AI semiconductors and data center infrastructure to talent, startups, models,…",
-   "published": "2026-11-09T05:00:04.000Z",
-   "dupes": 1,
-   "score": 0.366,
-   "tier": 3
-  },
-  {
-   "id": "c5536f6e12371c5d7887dff63c74112dd65f9f6d",
-   "title": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
-   "url": "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "0 from LG AI Research, Solar Open 2 from Upstage and Motif-3 from Motif Technologies.",
-   "published": "2026-11-09T05:00:00.000Z",
-   "dupes": 1,
-   "score": 0.366,
+   "score": 0.378,
    "tier": 3
   },
   {
@@ -356,7 +348,108 @@
    "tldr": "",
    "published": "2026-11-08T10:22:04.000Z",
    "dupes": 1,
-   "score": 0.324,
+   "score": 0.373,
+   "tier": 3
+  },
+  {
+   "id": "057e22ab69c04fb1c6649cb0bf4e92ea8c65293a",
+   "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+   "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-09T15:05:57.000Z",
+   "dupes": 1,
+   "score": 0.37,
+   "tier": 3
+  },
+  {
+   "id": "7b1451fc786c34f9eeb4411c953942dafa553acd",
+   "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+   "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-09T12:34:29.000Z",
+   "dupes": 1,
+   "score": 0.36,
+   "tier": 3
+  },
+  {
+   "id": "6d49d73492813e52288c11e3e6591c325757920e",
+   "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
+   "url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX.  Representatives from the Ministry of Science and ICT and NVIDIA met with over 20 Korean startups across…",
+   "published": "2026-11-09T08:00:53.000Z",
+   "dupes": 1,
+   "score": 0.357,
+   "tier": 3
+  },
+  {
+   "id": "38995d3fca35a803594afb6d18f1be240b45997d",
+   "title": "Korea Advances Physical AI Across Industries With NVIDIA",
+   "url": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Tapping into the country’s strengths in manufacturing and engineering, NVIDIA is helping advance Korea’s physical AI ecosystem.  The country’s industry leaders are applying accelerated computing, AI and simulation to…",
+   "published": "2026-11-09T05:00:40.000Z",
+   "dupes": 1,
+   "score": 0.348,
+   "tier": 3
+  },
+  {
+   "id": "51bc8200bfc724aab08272607fed59171ed82f0f",
+   "title": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
+   "url": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "As AI agents take on more work, they need capable open models and security that advances alongside them.  Hyundai Motor Group is exploring NVIDIA NemoClaw blueprints and the NVIDIA OpenShell runtime, while AIM…",
+   "published": "2026-11-09T05:00:39.000Z",
+   "dupes": 1,
+   "score": 0.348,
+   "tier": 3
+  },
+  {
+   "id": "60900222ede9bec5195c4f2c55f7b2342266bbb5",
+   "title": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
+   "url": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "NVIDIA and Korea’s Ministry of Science and ICT (MSIT) are expanding their collaboration across the country’s sovereign AI ecosystem, from AI semiconductors and data center infrastructure to talent, startups, models,…",
+   "published": "2026-11-09T05:00:04.000Z",
+   "dupes": 1,
+   "score": 0.348,
+   "tier": 3
+  },
+  {
+   "id": "c5536f6e12371c5d7887dff63c74112dd65f9f6d",
+   "title": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
+   "url": "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "0 from LG AI Research, Solar Open 2 from Upstage and Motif-3 from Motif Technologies.",
+   "published": "2026-11-09T05:00:00.000Z",
+   "dupes": 1,
+   "score": 0.348,
    "tier": 3
   },
   {
@@ -371,7 +464,7 @@
    "tldr": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
    "published": "2026-11-06T08:00:00.000Z",
    "dupes": 1,
-   "score": 0.306,
+   "score": 0.305,
    "tier": 3
   },
   {
@@ -386,7 +479,7 @@
    "tldr": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
    "published": "2026-11-06T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.305,
+   "score": 0.304,
    "tier": 3
   },
   {
@@ -401,7 +494,7 @@
    "tldr": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
    "published": "2026-11-05T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.304,
+   "score": 0.303,
    "tier": 3
   },
   {
@@ -416,7 +509,7 @@
    "tldr": "fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
    "published": "2026-11-05T20:00:00.000Z",
    "dupes": 1,
-   "score": 0.304,
+   "score": 0.303,
    "tier": 3
   },
   {
@@ -431,7 +524,7 @@
    "tldr": "",
    "published": "2026-11-05T17:05:16.000Z",
    "dupes": 1,
-   "score": 0.304,
+   "score": 0.303,
    "tier": 3
   },
   {
@@ -446,7 +539,7 @@
    "tldr": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
    "published": "2026-11-05T09:00:00.000Z",
    "dupes": 1,
-   "score": 0.303,
+   "score": 0.302,
    "tier": 3
   },
   {
@@ -461,7 +554,7 @@
    "tldr": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing.  Its teams also use AI to plan executive dinners and prepare sales updates.",
    "published": "2026-11-05T08:00:00.000Z",
    "dupes": 1,
-   "score": 0.303,
+   "score": 0.302,
    "tier": 3
   },
   {
@@ -509,7 +602,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.302,
+   "score": 0.301,
    "tier": 3
   },
   {
@@ -588,21 +681,6 @@
    "tier": 3
   },
   {
-   "id": "adafdd4764cb9dbbcc8baf5f90eab559ee61ffdd",
-   "title": "Agentic cheminformatics with Google Antigravity",
-   "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity",
-   "source": "Google DeepMind",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
-   "published": "2026-11-03T17:01:49.000Z",
-   "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
    "id": "2b3eb4eb79de73e728b189af6a503d99c5a0dcb6",
    "title": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
    "url": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks",
@@ -617,7 +695,22 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.284,
+   "score": 0.282,
+   "tier": 3
+  },
+  {
+   "id": "56a03da12c0bbf17972ef5da6e3fe08f9bb1d5de",
+   "title": "Detecting signs of hypertension using wearable sensors",
+   "url": "https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors",
+   "source": "Google Research",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Health & Bioscience",
+   "published": "2026-11-05T16:01:08.000Z",
+   "dupes": 1,
+   "score": 0.278,
    "tier": 3
   },
   {
@@ -632,7 +725,7 @@
    "tldr": "AI agents do more than generate answers.  They search for information, query databases, write and test code and take action.",
    "published": "2026-11-05T20:00:41.000Z",
    "dupes": 1,
-   "score": 0.279,
+   "score": 0.278,
    "tier": 3
   },
   {
@@ -646,21 +739,6 @@
    "topic": "compute",
    "tldr": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended.  Developers are combining frontier AI models with NVIDIA…",
    "published": "2026-11-05T17:00:35.000Z",
-   "dupes": 1,
-   "score": 0.279,
-   "tier": 3
-  },
-  {
-   "id": "56a03da12c0bbf17972ef5da6e3fe08f9bb1d5de",
-   "title": "Detecting signs of hypertension using wearable sensors",
-   "url": "https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors",
-   "source": "Google Research",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Health & Bioscience",
-   "published": "2026-11-05T16:01:08.000Z",
    "dupes": 1,
    "score": 0.278,
    "tier": 3
@@ -729,21 +807,6 @@
    "tier": 3
   },
   {
-   "id": "3bafb790453357148c96480d216298d4a2841c1d",
-   "title": "AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It",
-   "url": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Demand for advanced chips is rising.  The processes to build them are getting more complex.",
-   "published": "2026-11-03T16:00:45.000Z",
-   "dupes": 1,
-   "score": 0.276,
-   "tier": 3
-  },
-  {
    "id": "be1ba71e55b7f12516b9ba0c68b4b2f886873cb7",
    "title": "ToyBlocks: A controlled world for robot learning and evaluation",
    "url": "https://huggingface.co/blog/allenai/toyblocks",
@@ -753,7 +816,7 @@
    "tldr": "",
    "published": "2026-11-06T14:00:48.000Z",
    "dupes": 1,
-   "score": 0.271,
+   "score": 0.269,
    "tier": 3
   },
   {
@@ -766,7 +829,7 @@
    "tldr": "",
    "published": "2026-11-06T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.267,
+   "score": 0.266,
    "tier": 3
   },
   {
@@ -781,7 +844,7 @@
    "tldr": "AI agents can generate code at a scale that’s hard for humans to review line-by-line.  PDD Kit helps ensure the code is doing what the developer intended by creating formal specifications and testing against them.",
    "published": "2026-11-05T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.266,
+   "score": 0.265,
    "tier": 3
   },
   {
@@ -808,34 +871,6 @@
    "published": "2026-11-04T17:50:10.000Z",
    "dupes": 1,
    "score": 0.264,
-   "tier": 3
-  },
-  {
-   "id": "7f05432d1620715ca277f1bf9d8d662e8b812e3b",
-   "title": "Learn the rules: The hacker mindset",
-   "url": "https://www.microsoft.com/en-us/research/podcast/learn-the-rules-the-hacker-mindset",
-   "source": "Microsoft Research",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "Research Manager Mike Walker reflects on a career spanning hacker culture, cybersecurity, and AI, sharing lessons about trust, teamwork, leadership, and why solving difficult problems requires curiosity, judgment,…",
-   "published": "2026-11-03T17:14:38.000Z",
-   "dupes": 1,
-   "score": 0.263,
-   "tier": 3
-  },
-  {
-   "id": "bc4177032a04e266005389ab50fe48dec84e39b0",
-   "title": "Palette: teaching a small model to build decks in your design language",
-   "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-11-03T16:35:36.000Z",
-   "dupes": 1,
-   "score": 0.263,
    "tier": 3
   },
   {
