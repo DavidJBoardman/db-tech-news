@@ -1,6 +1,162 @@
 {
- "generated": "2026-11-09T17:13:02.039Z",
+ "generated": "2026-11-10T00:46:48.528Z",
  "items": [
+  {
+   "id": "2eeebfe27c6adcbf3da45184fa3b737a6c1174f5",
+   "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+   "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Technology",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+   "published": "2026-11-10T00:34:53.000Z",
+   "dupes": 3,
+   "score": 0.824,
+   "tier": 1
+  },
+  {
+   "id": "796a7f7ee338b70fa58b8f6d3d2f21d8f08f0e22",
+   "title": "Claude Fable 5.2 and Mythos 5.2",
+   "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+   "source": "Hacker News",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-09T18:56:29.000Z",
+   "dupes": 2,
+   "score": 0.79,
+   "tier": 2
+  },
+  {
+   "id": "9c331579e229757a7a398cd4a7db6c8d1421dabe",
+   "title": "ChatGPT Enterprise now available in AWS Marketplace",
+   "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+   "published": "2026-11-09T19:00:00.000Z",
+   "dupes": 1,
+   "score": 0.719,
+   "tier": 2
+  },
+  {
+   "id": "432027aa0838b90958621870f6825d43c2760fc6",
+   "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+   "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal",
+   "source": "TechCrunch",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
+   "published": "2026-11-09T22:46:09.000Z",
+   "dupes": 1,
+   "score": 0.705,
+   "tier": 2
+  },
+  {
+   "id": "09274ed8ecd7dd5c691c378e18e03cc5e743e83d",
+   "title": "The race is on to sue Nvidia",
+   "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia",
+   "source": "TechCrunch",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all…",
+   "published": "2026-11-09T22:23:42.000Z",
+   "dupes": 1,
+   "score": 0.703,
+   "tier": 2
+  },
+  {
+   "id": "f37b680abcf7adcb8bec0b0adda548a12d3efee4",
+   "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+   "url": "https://openai.com/index/control-room",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+   "published": "2026-11-09T13:00:00.000Z",
+   "badges": [
+    "research"
+   ],
+   "dupes": 1,
+   "score": 0.695,
+   "tier": 2
+  },
+  {
+   "id": "3541a994b8f0a12c2e2f405c535aecf782cada2e",
+   "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+   "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy",
+   "source": "TechCrunch",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
+   "published": "2026-11-09T20:09:06.000Z",
+   "dupes": 1,
+   "score": 0.693,
+   "tier": 2
+  },
+  {
+   "id": "1f917ef42e116f1b19438f2d2bfc5841ad721bcf",
+   "title": "Claude Code is accidentally exposing secrets all over GitHub",
+   "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github",
+   "source": "Ars Technica",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
+   "published": "2026-11-09T17:24:26.000Z",
+   "badges": [
+    "oss"
+   ],
+   "dupes": 1,
+   "score": 0.689,
+   "tier": 2
+  },
+  {
+   "id": "56a49980686e6366f2f4cf5ddabb27d293150491",
+   "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+   "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns",
+   "source": "TechCrunch",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
+   "published": "2026-11-09T19:24:51.000Z",
+   "dupes": 1,
+   "score": 0.689,
+   "tier": 2
+  },
+  {
+   "id": "255b56db4a4a44d0d4a2de8a77fb172cf2dc5a84",
+   "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+   "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+   "source": "Hacker News",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-09T20:04:55.000Z",
+   "dupes": 1,
+   "score": 0.684,
+   "tier": 2
+  },
   {
    "id": "7cd5e10290710b740d163a4497960e7669c9ee97",
    "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
@@ -13,8 +169,8 @@
    "tldr": "Simulation, which has long been the proving ground for robots learning to walk, roll and hop, is now helping researchers teach robots tasks that require a finer touch: aligning gears, connecting cables and assembling…",
    "published": "2026-11-09T14:00:01.000Z",
    "dupes": 1,
-   "score": 0.715,
-   "tier": 1
+   "score": 0.682,
+   "tier": 2
   },
   {
    "id": "55280474a321f5a63e24d40bed33bf4e3514c9f7",
@@ -28,8 +184,68 @@
    "tldr": "Nvidia is probing whether Chinese intelligence targeted its CEO through an affair.",
    "published": "2026-11-09T15:23:20.000Z",
    "dupes": 1,
-   "score": 0.714,
+   "score": 0.68,
    "tier": 2
+  },
+  {
+   "id": "d75c80b5454dda4b23d5bb848c445de2b45f5161",
+   "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+   "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines",
+   "source": "TechCrunch",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.",
+   "published": "2026-11-09T16:56:54.000Z",
+   "dupes": 1,
+   "score": 0.679,
+   "tier": 2
+  },
+  {
+   "id": "23b94c697622500fcf7d46f91907d47f40d35583",
+   "title": "CodeRabbit scales agentic software development and ships 20x more",
+   "url": "https://openai.com/index/coderabbit-codex-daybreak",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+   "published": "2026-11-09T08:00:00.000Z",
+   "dupes": 1,
+   "score": 0.676,
+   "tier": 3
+  },
+  {
+   "id": "932fe34bad728f30ad4ef609d13a6e2a6ef01f4d",
+   "title": "Kuken Industries searches 70 years of drawings in minutes",
+   "url": "https://openai.com/index/kuken",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings.  5 minutes, down from nearly an hour.",
+   "published": "2026-11-09T08:00:00.000Z",
+   "dupes": 1,
+   "score": 0.676,
+   "tier": 3
+  },
+  {
+   "id": "15c28179b2dc3ec9cbc8a50fc5e36f988b136eb9",
+   "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+   "source": "The Verge AI",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "ai",
+   "tldr": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide.",
+   "published": "2026-11-09T23:07:59.000Z",
+   "dupes": 1,
+   "score": 0.675,
+   "tier": 3
   },
   {
    "id": "45c537ea2364815716f4003228208e8d43144c20",
@@ -43,8 +259,68 @@
    "tldr": "Alice Huang, a Chinese businesswoman, had a close relationship with Nvidia boss Jensen Huang, reports say.",
    "published": "2026-11-09T14:50:35.000Z",
    "dupes": 1,
-   "score": 0.703,
-   "tier": 2
+   "score": 0.67,
+   "tier": 3
+  },
+  {
+   "id": "114ce276524af1cd75a4733b5c6dfdece132cec6",
+   "title": "La NASA busca a la próxima generación de astronautas",
+   "url": "https://www.nasa.gov/news-release/la-nasa-busca-a-la-proxima-generacion-de-astronautas",
+   "source": "NASA",
+   "org": [
+    "nasa"
+   ],
+   "topic": "space",
+   "tldr": "La NASA busca a los exploradores que ayudarán a escribir el próximo capítulo de los vuelos espaciales tripulados.",
+   "published": "2026-11-09T19:27:20.000Z",
+   "dupes": 1,
+   "score": 0.67,
+   "tier": 3
+  },
+  {
+   "id": "c00d827d74d78381436c5b267718be0ed95de679",
+   "title": "NASA’s Chandra Finds Source of Star’s Mysterious Outbursts",
+   "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-finds-source-of-stars-mysterious-outbursts",
+   "source": "NASA",
+   "org": [
+    "nasa"
+   ],
+   "topic": "space",
+   "tldr": "Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, unstable star.",
+   "published": "2026-11-09T18:55:50.000Z",
+   "dupes": 1,
+   "score": 0.668,
+   "tier": 3
+  },
+  {
+   "id": "247057102678690325789cad144273e789ce1236",
+   "title": "NASA Advanced Mid-Power Electric Rocket Challenge",
+   "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-advanced-mid-power-electric-rocket-challenge",
+   "source": "NASA",
+   "org": [
+    "nasa"
+   ],
+   "topic": "space",
+   "tldr": "Mid-power (3-7 kW) Hall effect thruster systems have been identified by government and industry stakeholders as critical capabilities for satellite, defense, and exploration missions.  Given the need for this…",
+   "published": "2026-11-09T17:42:42.000Z",
+   "dupes": 1,
+   "score": 0.663,
+   "tier": 3
+  },
+  {
+   "id": "6aed5b6c95d46ce97b55bbfc790dd38553bc35c7",
+   "title": "La NASA destina un millón de dólares al reto estudiantil Base Lunar",
+   "url": "https://www.nasa.gov/news-release/la-nasa-destina-un-millon-de-dolares-al-reto-estudiantil-base-lunar",
+   "source": "NASA",
+   "org": [
+    "nasa"
+   ],
+   "topic": "space",
+   "tldr": "El domingo 8 de noviembre de 2026, la NASA anunció la convocatoria del reto estudiantil Base Lunar, dotado con un millón de dólares, durante un acto de MAX POWER celebrado en el Complejo de Visitantes del Centro…",
+   "published": "2026-11-09T17:36:33.000Z",
+   "dupes": 1,
+   "score": 0.663,
+   "tier": 3
   },
   {
    "id": "6d49d73492813e52288c11e3e6591c325757920e",
@@ -55,86 +331,26 @@
     "nvidia"
    ],
    "topic": "compute",
-   "tldr": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX.  Ryu Je-myung, vice minister of science and ICT, joined NVIDIA leaders to meet with over 20 Korean startups…",
+   "tldr": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX.  Representatives from the Ministry of Science and ICT and NVIDIA met with over 20 Korean startups across…",
    "published": "2026-11-09T08:00:53.000Z",
    "dupes": 1,
-   "score": 0.689,
-   "tier": 2
+   "score": 0.66,
+   "tier": 3
   },
   {
-   "id": "45da7994669e5304c4a61eebac176cd114fa2bb1",
-   "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-   "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy",
-   "source": "TechCrunch",
+   "id": "4098c7fd6f27db803e7ef4b186856c07a15735d5",
+   "title": "NVIDIA launches GR00T 2 and Isaac Lab 3.0 at CoRL",
+   "url": "https://www.therobotreport.com/nvidia-launches-gr00t-2-isaac-lab-3-0-corl",
+   "source": "The Robot Report",
    "org": [
     "nvidia"
    ],
-   "topic": "compute",
-   "tldr": "In a memo to the company, Huang admitted that he had an affair.",
-   "published": "2026-11-08T21:00:11.000Z",
-   "dupes": 2,
-   "score": 0.688,
-   "tier": 2
-  },
-  {
-   "id": "38995d3fca35a803594afb6d18f1be240b45997d",
-   "title": "Korea Advances Physical AI Across Industries With NVIDIA",
-   "url": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Tapping into the country’s strengths in manufacturing and engineering, NVIDIA is helping advance Korea’s physical AI ecosystem.  The country’s industry leaders are applying accelerated computing, AI and simulation to…",
-   "published": "2026-11-09T05:00:40.000Z",
+   "topic": "robotics",
+   "tldr": "NVIDIA also gave a look at how its partners, like Ambi Robotics, FieldAI, Flexion, Skild AI, RLWRLD, and more, are using these technologies.  0 at CoRL appeared first on The Robot Report .",
+   "published": "2026-11-09T21:52:05.000Z",
    "dupes": 1,
-   "score": 0.677,
-   "tier": 2
-  },
-  {
-   "id": "51bc8200bfc724aab08272607fed59171ed82f0f",
-   "title": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
-   "url": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "As AI agents take on more work, they need capable open models and security that advances alongside them.  Hyundai Motor Group is exploring NVIDIA NemoClaw blueprints and the NVIDIA OpenShell runtime, while AIM…",
-   "published": "2026-11-09T05:00:39.000Z",
-   "dupes": 1,
-   "score": 0.677,
-   "tier": 2
-  },
-  {
-   "id": "60900222ede9bec5195c4f2c55f7b2342266bbb5",
-   "title": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
-   "url": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "NVIDIA and Korea’s Ministry of Science and ICT (MSIT) are expanding their collaboration across the country’s sovereign AI ecosystem, from AI semiconductors and data center infrastructure to talent, startups, models,…",
-   "published": "2026-11-09T05:00:04.000Z",
-   "dupes": 1,
-   "score": 0.677,
-   "tier": 2
-  },
-  {
-   "id": "c5536f6e12371c5d7887dff63c74112dd65f9f6d",
-   "title": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
-   "url": "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "0 from LG AI Research, Solar Open 2 from Upstage and Motif-3 from Motif Technologies.",
-   "published": "2026-11-09T05:00:00.000Z",
-   "dupes": 1,
-   "score": 0.677,
-   "tier": 2
+   "score": 0.658,
+   "tier": 3
   },
   {
    "id": "f3ee88646a50de8a45dd66da057dca86e5f5d6b6",
@@ -148,8 +364,8 @@
    "tldr": "Thousands gathered over several days in early November to experience MAX POWER – NASA’s first exhibition of America’s superiority in space, aeronautics, and technology on and around the agency’s Kennedy Space Center in…",
    "published": "2026-11-09T16:07:10.000Z",
    "dupes": 1,
-   "score": 0.624,
-   "tier": 2
+   "score": 0.657,
+   "tier": 3
   },
   {
    "id": "8c872d3ad6f03dacd9be89796a47be5fa23a74af",
@@ -163,100 +379,67 @@
    "tldr": "NASA’s two ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) spacecraft have each successfully completed a powered Earth flyby, using Earth’s gravity in combination with a sustained engine burn to…",
    "published": "2026-11-09T16:01:47.000Z",
    "dupes": 1,
-   "score": 0.624,
-   "tier": 2
-  },
-  {
-   "id": "67abd93f196f854c598d858791643758806b6b1a",
-   "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
-   "source": "The Verge AI",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "ai",
-   "tldr": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government.  In addition to the Board of Directors announcing…",
-   "published": "2026-11-08T22:54:50.000Z",
-   "dupes": 1,
-   "score": 0.607,
-   "tier": 2
-  },
-  {
-   "id": "9b71d9975984da1cd8fcfc763c2eaa731f030537",
-   "title": "Nvidia hardware worth $11.4M vanished between Oakland and Texas",
-   "url": "https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas",
-   "source": "Ars Technica",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "6 pallets of hardware vanished en route to Texas, with no arrests 2 months later.",
-   "published": "2026-11-06T20:05:30.000Z",
-   "dupes": 2,
-   "score": 0.603,
-   "tier": 2
-  },
-  {
-   "id": "5dad89c4e5544b0fb03813e1f5cb8575fc4e907e",
-   "title": "NASA Announces $1 Million to Students for Moon Base Challenge",
-   "url": "https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge",
-   "source": "NASA",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "On Sunday, NASA announced the opening of its $1 million Moon Base Student Challenge during a MAX POWER event at Kennedy Space Center Visitor Complex in Florida.  S.",
-   "published": "2026-11-08T15:26:38.000Z",
-   "dupes": 1,
-   "score": 0.579,
+   "score": 0.656,
    "tier": 3
   },
   {
-   "id": "97ef9b7e609b1b76596b89b852b76dabffa853bf",
-   "title": "NASA Awards Moon Base Transportation, Technology, Science Projects",
-   "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects",
-   "source": "NASA",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "NASA announced a suite of awards and mission updates on Saturday to expand the agency’s Moon Base exploration, science, and infrastructure capabilities.",
-   "published": "2026-11-07T22:47:03.000Z",
-   "dupes": 1,
-   "score": 0.56,
-   "tier": 3
-  },
-  {
-   "id": "c2f87da817449b8c21586008de5903286f13caa5",
-   "title": "NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
-   "url": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps",
-   "source": "NASA",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "NASA is looking for the explorers who will help write the next chapter of human spaceflight.  Applications are now open for the agency’s next class of astronauts, who will join NASA as America returns to the Moon,…",
-   "published": "2026-11-07T18:11:57.000Z",
-   "dupes": 1,
-   "score": 0.556,
-   "tier": 3
-  },
-  {
-   "id": "2b3eb4eb79de73e728b189af6a503d99c5a0dcb6",
-   "title": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
-   "url": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks",
+   "id": "38995d3fca35a803594afb6d18f1be240b45997d",
+   "title": "Korea Advances Physical AI Across Industries With NVIDIA",
+   "url": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem",
    "source": "NVIDIA Blog",
    "org": [
     "nvidia"
    ],
    "topic": "compute",
-   "tldr": "A year ago, NVIDIA open sourced its Aerial wireless software, joining Sionna and a broader suite of open source tools for accelerating next-generation 6G network development.",
-   "published": "2026-11-06T16:00:35.000Z",
-   "badges": [
-    "oss"
-   ],
+   "tldr": "Tapping into the country’s strengths in manufacturing and engineering, NVIDIA is helping advance Korea’s physical AI ecosystem.  The country’s industry leaders are applying accelerated computing, AI and simulation to…",
+   "published": "2026-11-09T05:00:40.000Z",
    "dupes": 1,
-   "score": 0.552,
+   "score": 0.65,
+   "tier": 3
+  },
+  {
+   "id": "51bc8200bfc724aab08272607fed59171ed82f0f",
+   "title": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
+   "url": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "As AI agents take on more work, they need capable open models and security that advances alongside them.  Hyundai Motor Group is exploring NVIDIA NemoClaw blueprints and the NVIDIA OpenShell runtime, while AIM…",
+   "published": "2026-11-09T05:00:39.000Z",
+   "dupes": 1,
+   "score": 0.65,
+   "tier": 3
+  },
+  {
+   "id": "60900222ede9bec5195c4f2c55f7b2342266bbb5",
+   "title": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
+   "url": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "NVIDIA and Korea’s Ministry of Science and ICT (MSIT) are expanding their collaboration across the country’s sovereign AI ecosystem, from AI semiconductors and data center infrastructure to talent, startups, models,…",
+   "published": "2026-11-09T05:00:04.000Z",
+   "dupes": 1,
+   "score": 0.65,
+   "tier": 3
+  },
+  {
+   "id": "c5536f6e12371c5d7887dff63c74112dd65f9f6d",
+   "title": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
+   "url": "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "0 from LG AI Research, Solar Open 2 from Upstage and Motif-3 from Motif Technologies.",
+   "published": "2026-11-09T05:00:00.000Z",
+   "dupes": 1,
+   "score": 0.65,
    "tier": 3
   },
   {
@@ -271,37 +454,7 @@
    "tldr": "The OpenAI engineer who was arrested and charged last month for planting a covert audio recording device in the company's office has pleaded not guilty.  According to reports from Bloomberg and CNBC, Saudi national…",
    "published": "2026-11-09T07:05:48.000Z",
    "dupes": 1,
-   "score": 0.546,
-   "tier": 3
-  },
-  {
-   "id": "2ecaec703ee9a14c4598a805105c6216453db80c",
-   "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
-   "url": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs",
-   "source": "BleepingComputer",
-   "org": [
-    "openai"
-   ],
-   "topic": "security",
-   "tldr": "OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct Linux kernel flaws.",
-   "published": "2026-11-06T20:24:19.000Z",
-   "dupes": 2,
-   "score": 0.542,
-   "tier": 3
-  },
-  {
-   "id": "7eab5dddcfa7727d177f58b1fd27561c99165e39",
-   "title": "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
-   "url": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "AI agents do more than generate answers.  They search for information, query databases, write and test code and take action.",
-   "published": "2026-11-05T20:00:41.000Z",
-   "dupes": 1,
-   "score": 0.537,
+   "score": 0.625,
    "tier": 3
   },
   {
@@ -316,7 +469,7 @@
    "tldr": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
    "published": "2026-11-06T08:00:00.000Z",
    "dupes": 1,
-   "score": 0.522,
+   "score": 0.555,
    "tier": 3
   },
   {
@@ -331,324 +484,7 @@
    "tldr": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
    "published": "2026-11-06T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.519,
-   "tier": 3
-  },
-  {
-   "id": "c88b52d0b21039c72dea8f05c76e66a260655c3b",
-   "title": "Cult.fit builds operational muscle with Codex",
-   "url": "https://openai.com/index/cultfit-builds-with-codex",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
-   "published": "2026-11-05T20:00:00.000Z",
-   "dupes": 1,
-   "score": 0.517,
-   "tier": 3
-  },
-  {
-   "id": "b58fee4edbbb5f7a9c2c56052ead720c9a452069",
-   "title": "Australian universities are creating AI-native graduates",
-   "url": "https://openai.com/index/australian-universities-ai-native-graduates",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
-   "published": "2026-11-05T17:00:00.000Z",
-   "dupes": 1,
-   "score": 0.516,
-   "tier": 3
-  },
-  {
-   "id": "53c56afbaf05f856eba574dee155263173cd7748",
-   "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-   "url": "https://openai.com/index/introducing-gpt-6-cyber",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
-   "published": "2026-11-05T09:00:00.000Z",
-   "dupes": 1,
-   "score": 0.514,
-   "tier": 3
-  },
-  {
-   "id": "300d91101f21ec1db57e65e8d8390a93f01c350b",
-   "title": "Merge builds product and business tools with OpenAI technology",
-   "url": "https://openai.com/index/merge-builds-with-openai",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing.  Its teams also use AI to plan executive dinners and prepare sales updates.",
-   "published": "2026-11-05T08:00:00.000Z",
-   "dupes": 1,
-   "score": 0.514,
-   "tier": 3
-  },
-  {
-   "id": "f93567576105c7139347931d4fd5aa66d92f2c44",
-   "title": "Setting a new standard for responsible AI infrastructure",
-   "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
-   "published": "2026-11-05T02:00:00.000Z",
-   "dupes": 1,
-   "score": 0.513,
-   "tier": 3
-  },
-  {
-   "id": "1f9981de57006417a4ebd14accd44878c1e9d158",
-   "title": "Flipsnack grows product signups with conversion optimization",
-   "url": "https://openai.com/ads/customers/flipsnack",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
-   "published": "2026-11-05T00:45:15.000Z",
-   "dupes": 1,
-   "score": 0.513,
-   "tier": 3
-  },
-  {
-   "id": "c0d7b0808284d1827cd12b53f4900061f689915d",
-   "title": "Franklin Templeton uses OpenAI to support investment research",
-   "url": "https://openai.com/index/franklin-templeton",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
-   "published": "2026-11-05T00:00:00.000Z",
-   "badges": [
-    "research"
-   ],
-   "dupes": 1,
-   "score": 0.512,
-   "tier": 3
-  },
-  {
-   "id": "3a06f84c0f51a102b02f8b5a5ff865c2013898ad",
-   "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-   "url": "https://openai.com/index/openai-to-acquire-pierre",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
-   "published": "2026-11-04T14:30:00.000Z",
-   "dupes": 1,
-   "score": 0.511,
-   "tier": 3
-  },
-  {
-   "id": "75679f5aa60bfcf88cfee2650e1fad6a696bd2d7",
-   "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-   "url": "https://openai.com/index/daybreak-red-aws-govcloud",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
-   "published": "2026-11-04T07:00:00.000Z",
-   "dupes": 1,
-   "score": 0.51,
-   "tier": 3
-  },
-  {
-   "id": "eee1d8cec1a11f6086e90c6f1bf9134e6cea0fd1",
-   "title": "SpaceX now fundamentally an \"infrastructure company,\" senior official says",
-   "url": "https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says",
-   "source": "Ars Technica",
-   "org": [
-    "spacex"
-   ],
-   "topic": "space",
-   "tldr": "\"Grok analyzing the same video is 99.9 percent perfect.\"",
-   "published": "2026-11-09T15:39:21.000Z",
-   "dupes": 2,
-   "score": 0.496,
-   "tier": 3
-  },
-  {
-   "id": "306be99284dc169ea81dbd2461d98b411bd79b3e",
-   "title": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
-   "url": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
-   "source": "The Hacker News",
-   "org": [
-    "openai"
-   ],
-   "topic": "security",
-   "tldr": "Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT.  Lockdown Mode was introduced by the artificial intelligence…",
-   "published": "2026-11-05T16:42:32.000Z",
-   "dupes": 1,
-   "score": 0.468,
-   "tier": 3
-  },
-  {
-   "id": "25c3eda20cfedcbc9b6b0c094160d09c60017f6a",
-   "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
-   "url": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
-   "source": "The Hacker News",
-   "org": [
-    "openai"
-   ],
-   "topic": "security",
-   "tldr": "2 million in API costs.",
-   "published": "2026-11-05T12:08:54.000Z",
-   "dupes": 1,
-   "score": 0.467,
-   "tier": 3
-  },
-  {
-   "id": "78de6ffe4e2d3ce47d7e8c2518bdc539a25446a0",
-   "title": "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit",
-   "url": "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html",
-   "source": "The Hacker News",
-   "org": [
-    "openai"
-   ],
-   "topic": "security",
-   "tldr": "Cybersecurity researchers have disclosed details of an OpenAI Codex jailbreak bundle that's designed to modify an artificial intelligence (AI) agent's trusted instructions to insert advertisements for a third-party AI…",
-   "published": "2026-11-04T16:06:43.000Z",
-   "dupes": 1,
-   "score": 0.463,
-   "tier": 3
-  },
-  {
-   "id": "8f9edb697d23e20219f78d7a22d6e4ee6482f950",
-   "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
-   "url": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board",
-   "source": "TechCrunch",
-   "org": [
-    "spacex"
-   ],
-   "topic": "space",
-   "tldr": "A new report claims Sequoia's recent changes undo the legacy of the firm's former steward.",
-   "published": "2026-11-08T19:51:30.000Z",
-   "dupes": 1,
-   "score": 0.398,
-   "tier": 3
-  },
-  {
-   "id": "8d55af9c096a1deabd4bac0ed2df3be2a472beaf",
-   "title": "Astronauts Across Generations Share the Stage",
-   "url": "https://www.nasa.gov/image-article/astronauts-across-generations-share-the-stage",
-   "source": "NASA",
-   "org": [],
-   "topic": "space",
-   "tldr": "On Nov.  6, 2026, Purpose Entertainment hosted the Artemis Celebration Gala at NASA’s Kennedy Space Center Visitor Complex in Merritt Island, Florida.",
-   "published": "2026-11-09T16:56:29.000Z",
-   "dupes": 1,
-   "score": 0.389,
-   "tier": 3
-  },
-  {
-   "id": "ecefc37242089d80d20c46e4752c9c989ea86604",
-   "title": "Binance denies data breach after alleged ShinyHunters claims",
-   "url": "https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims",
-   "source": "BleepingComputer",
-   "org": [],
-   "topic": "security",
-   "tldr": "Binance, the world's largest crypto exchange, has denied claims of a new security breach made by a threat actor using the 'ShinyHunters' handle on a newly emerged underground cybercrime forum.",
-   "published": "2026-11-09T16:12:39.000Z",
-   "dupes": 1,
-   "score": 0.382,
-   "tier": 3
-  },
-  {
-   "id": "87da3ee935b8abc55930d93dc7a1d18d40b72659",
-   "title": "Hackers exploit SSHole OpenSSH flaw to breach Linux systems",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems",
-   "source": "BleepingComputer",
-   "org": [],
-   "topic": "security",
-   "tldr": "Hackers are actively exploiting the \"SSHole\" vulnerability (CVE-2026-123158) in OpenSSH to execute commands, steal credentials, and establish persistent access.",
-   "published": "2026-11-09T16:04:57.000Z",
-   "dupes": 1,
-   "score": 0.381,
-   "tier": 3
-  },
-  {
-   "id": "06ceb153072eebf0da69c91b3cc499c8ae9aa164",
-   "title": "The Biggest Threat to Your GRC Job Isn’t AI. It’s Ignoring AI.",
-   "url": "https://www.bleepingcomputer.com/news/security/the-biggest-threat-to-your-grc-job-isnt-ai-its-ignoring-ai",
-   "source": "BleepingComputer",
-   "org": [],
-   "topic": "security",
-   "tldr": "AI agents are taking over routine governance, risk, and compliance tasks, forcing GRC professionals to rethink the skills needed to stay relevant.  Anecdotes examines three essential skills for the AI-driven GRC…",
-   "published": "2026-11-09T15:05:15.000Z",
-   "dupes": 1,
-   "score": 0.376,
-   "tier": 3
-  },
-  {
-   "id": "205cc82458322a8839a37b5053ccdc9bb36458c1",
-   "title": "FBI agent stole $2.5 million in crypto from hackers under investigation",
-   "url": "https://www.bleepingcomputer.com/news/security/fbi-agent-stole-25-million-in-crypto-from-hackers-fraud-victims",
-   "source": "BleepingComputer",
-   "org": [],
-   "topic": "security",
-   "tldr": "5 million from the wallets of fraud victims and nation-state hackers under investigation.",
-   "published": "2026-11-09T14:34:03.000Z",
-   "dupes": 1,
-   "score": 0.374,
-   "tier": 3
-  },
-  {
-   "id": "db1d87ec83f8ecc9d06ee49aee1d023e85087d46",
-   "title": "US bans MEXC crypto exchange over sanctions evasion, cybercrime links",
-   "url": "https://www.bleepingcomputer.com/news/security/us-bans-mexc-crypto-exchange-over-sanctions-evasion-cybercrime-links",
-   "source": "BleepingComputer",
-   "org": [],
-   "topic": "security",
-   "tldr": "The US Department of the Treasury has cut off the MEXC Global crypto exchange from the US financial system over sanctions evasion and links with cybercrime gangs.",
-   "published": "2026-11-09T13:28:56.000Z",
-   "dupes": 1,
-   "score": 0.369,
-   "tier": 3
-  },
-  {
-   "id": "a61cddb6ee66767661a8990e85d4c26086c219e0",
-   "title": "CCIA Report Highlights Satellite Connectivity’s Potential to Expand Internet Access and Drive Economic Growth",
-   "url": "https://spacenews.com/ccia-report-highlights-satellite-connectivitys-potential-to-expand-internet-access-and-drive-economic-growth",
-   "source": "SpaceNews",
-   "org": [],
-   "topic": "space",
-   "tldr": "Washington — The Computer & Communications Industry Association today released Connecting the World: Unlocking the Potential of Satellite Connectivity, a new report examining how satellite technology can expand internet…",
-   "published": "2026-11-09T14:00:00.000Z",
-   "dupes": 1,
-   "score": 0.368,
-   "tier": 3
-  },
-  {
-   "id": "7bdf0c6dc5dcaaf065a0b5122b24b5ba4fad63ab",
-   "title": "Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia",
-   "url": "https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html",
-   "source": "The Hacker News",
-   "org": [],
-   "topic": "security",
-   "tldr": "The South Asian cyber espionage group known as Bitter (aka APT-C-08, APT-Q-37, Hazy Tiger, Orange Yali, T-APT-17, and TA397) has been observed targeting South Asian organizations with a previously unreported remote…",
-   "published": "2026-11-09T14:31:29.000Z",
-   "dupes": 1,
-   "score": 0.366,
+   "score": 0.551,
    "tier": 3
   },
   {
@@ -666,48 +502,322 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.366,
+   "score": 0.527,
    "tier": 3
   },
   {
-   "id": "ac8201640fbcd8d8eec05e33991092231f79c2af",
-   "title": "CHAPEA Mission 2 Crew Reflects After 378 Days on Simulated Mars",
-   "url": "https://www.nasa.gov/centers-and-facilities/johnson/chapea-mission-2-crew-reflects-after-378-days-on-simulated-mars",
-   "source": "NASA",
-   "org": [],
-   "topic": "space",
-   "tldr": "After 378 days without windows, the sounds of the outside world, or real-time calls with family and friends, four research volunteers stepped out of NASA’s Mars Dune Alpha habitat on Oct.  31, completing the agency’s…",
-   "published": "2026-11-09T11:00:00.000Z",
+   "id": "17e04fbcf2b3d16db77a463eb9e94da6cd31c89e",
+   "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits",
+   "url": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
+   "source": "The Hacker News",
+   "org": [
+    "openai"
+   ],
+   "topic": "security",
+   "tldr": "OpenAI on Thursday unveiled GPT‑6 Cyber, which it described as a major step forward in security research that brings together stronger cybersecurity capabilities with a step-change improvement in model alignment.  The…",
+   "published": "2026-11-06T14:58:32.000Z",
    "dupes": 1,
-   "score": 0.362,
+   "score": 0.512,
    "tier": 3
   },
   {
-   "id": "6dfbcc2468bc85fd19142b1353eadea099b203e0",
-   "title": "Ozone Hole Reaches Its 2026 Maximum",
-   "url": "https://science.nasa.gov/earth/earth-observatory/ozone-hole-reaches-its-2026-maximum",
-   "source": "NASA",
-   "org": [],
-   "topic": "space",
-   "tldr": "The ozone hole ranked seventh largest by area in 48 years of monitoring, but it was not as deep as other large holes on record.",
-   "published": "2026-11-09T05:00:00.000Z",
+   "id": "cea41b0360f6d3578779ae8c26263c160a49f1a5",
+   "title": "Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers",
+   "url": "https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html",
+   "source": "The Hacker News",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "security",
+   "tldr": "ai could make Claude Desktop run code on a person's computer, researchers at Forever Security, an endpoint security company, showed in a test.  The attack needs Dispatch, a Claude feature that lets people send tasks…",
+   "published": "2026-11-06T12:06:35.000Z",
    "dupes": 1,
-   "score": 0.339,
+   "score": 0.51,
    "tier": 3
   },
   {
-   "id": "5f7bd83d56ea5e292a4d85c3cb758bd66bffbbc3",
-   "title": "After Texas' blue wave, what happens to Elon Musk and SpaceX?",
-   "url": "https://arstechnica.com/space/2026/11/elon-musk-moved-spacex-to-red-texas-now-its-blue-what-happens-next",
-   "source": "Ars Technica · Space",
+   "id": "306be99284dc169ea81dbd2461d98b411bd79b3e",
+   "title": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
+   "url": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
+   "source": "The Hacker News",
+   "org": [
+    "openai"
+   ],
+   "topic": "security",
+   "tldr": "Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT.  Lockdown Mode was introduced by the artificial intelligence…",
+   "published": "2026-11-05T16:42:32.000Z",
+   "dupes": 1,
+   "score": 0.499,
+   "tier": 3
+  },
+  {
+   "id": "25c3eda20cfedcbc9b6b0c094160d09c60017f6a",
+   "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
+   "url": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
+   "source": "The Hacker News",
+   "org": [
+    "openai"
+   ],
+   "topic": "security",
+   "tldr": "2 million in API costs.",
+   "published": "2026-11-05T12:08:54.000Z",
+   "dupes": 1,
+   "score": 0.497,
+   "tier": 3
+  },
+  {
+   "id": "78de6ffe4e2d3ce47d7e8c2518bdc539a25446a0",
+   "title": "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit",
+   "url": "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html",
+   "source": "The Hacker News",
+   "org": [
+    "openai"
+   ],
+   "topic": "security",
+   "tldr": "Cybersecurity researchers have disclosed details of an OpenAI Codex jailbreak bundle that's designed to modify an artificial intelligence (AI) agent's trusted instructions to insert advertisements for a third-party AI…",
+   "published": "2026-11-04T16:06:43.000Z",
+   "dupes": 1,
+   "score": 0.49,
+   "tier": 3
+  },
+  {
+   "id": "4dee9679b58b32cc9bca6ac48a3df660924d0caa",
+   "title": "\"There's no such thing as easy money in our business\" – Strauss Zelnick on GTA 6, BioShock, Take-Two's acquisition plans, and reviving old IP",
+   "url": "https://www.gamesindustry.biz/theres-no-such-thing-as-easy-money-in-our-business-strauss-zelnick-on-gta-6-bioshock-take-twos-acquisition-plans-and-reviving-old-ip",
+   "source": "GamesIndustry.biz",
+   "org": [
+    "rockstar"
+   ],
+   "topic": "gaming",
+   "tldr": "biz had a chance to talk with CEO Strauss Zelnick about the results, as well as where the company is headed.",
+   "published": "2026-11-09T21:39:40.000Z",
+   "dupes": 1,
+   "score": 0.406,
+   "tier": 3
+  },
+  {
+   "id": "f8fd91170130a0dd56d23aa678f50b62c394ead9",
+   "title": "Take-Two Q2 net bookings fall 18% to $1.6bn as NBA 2K27 misses forecast but GTA 6 pre-orders are \"tracking far in excess\" of expectations",
+   "url": "https://www.gamesindustry.biz/take-two-q2-net-bookings-fall-18-to-16bn-as-nba-2k27-misses-forecast-but-gta-6-pre-orders-are-tracking-far-in-excess-of-expectations",
+   "source": "GamesIndustry.biz",
+   "org": [
+    "rockstar"
+   ],
+   "topic": "gaming",
+   "tldr": "50 billion.",
+   "published": "2026-11-09T21:22:20.000Z",
+   "dupes": 1,
+   "score": 0.406,
+   "tier": 3
+  },
+  {
+   "id": "eee1d8cec1a11f6086e90c6f1bf9134e6cea0fd1",
+   "title": "SpaceX now fundamentally an \"infrastructure company,\" senior official says",
+   "url": "https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says",
+   "source": "Ars Technica",
    "org": [
     "spacex"
    ],
    "topic": "space",
-   "tldr": "\"Data centers in space looking pretty appealing right now.\"",
-   "published": "2026-11-04T20:36:05.000Z",
+   "tldr": "\"Grok analyzing the same video is 99.9 percent perfect.\"",
+   "published": "2026-11-09T15:39:21.000Z",
+   "dupes": 2,
+   "score": 0.401,
+   "tier": 3
+  },
+  {
+   "id": "293170938bf37e111c51d1b60fe93e2b4ab90456",
+   "title": "SEGA newsletter data breach exposes 2.2 million email addresses",
+   "url": "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses",
+   "source": "BleepingComputer",
+   "org": [
+    "sega"
+   ],
+   "topic": "security",
+   "tldr": "2 million newsletter subscribers.",
+   "published": "2026-11-09T22:09:33.000Z",
    "dupes": 1,
-   "score": 0.332,
+   "score": 0.389,
+   "tier": 3
+  },
+  {
+   "id": "32c90d2f095832b7d91072993ec93fa7a9aedcf4",
+   "title": "Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction",
+   "url": "https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html",
+   "source": "The Hacker News",
+   "org": [
+    "google"
+   ],
+   "topic": "security",
+   "tldr": "A critical Android flaw could allow an attacker to run code on a phone without any user action remotely, Google said in its November security bulletin.  The flaw, CVE-2026-58868, affects Android 14 through 17.",
+   "published": "2026-11-04T07:46:15.000Z",
+   "dupes": 1,
+   "score": 0.388,
+   "tier": 3
+  },
+  {
+   "id": "310fe7a6e4c306a275108a1d251fa8bbcb800430",
+   "title": "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges",
+   "url": "https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html",
+   "source": "The Hacker News",
+   "org": [
+    "google"
+   ],
+   "topic": "security",
+   "tldr": "Google on Monday warned that threat actors are hijacking enterprise access to Large Language Models (LLMs) to fraudulently leverage expensive computing resources and AI services.",
+   "published": "2026-11-03T15:41:53.000Z",
+   "dupes": 1,
+   "score": 0.387,
+   "tier": 3
+  },
+  {
+   "id": "4a22349e1d840895565bf18a2f0fd20b0e06e355",
+   "title": "Vanderbilt University hit in BYOD ransomware attack, data theft claimed",
+   "url": "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed",
+   "source": "BleepingComputer",
+   "org": [],
+   "topic": "security",
+   "tldr": "Vanderbilt University warns it is responding to a cyberattack claimed by the BYOD ransomware gang, which claims to have encrypted the university's databases and stolen sensitive student, employee, and research data.",
+   "published": "2026-11-09T23:52:12.000Z",
+   "dupes": 1,
+   "score": 0.382,
+   "tier": 3
+  },
+  {
+   "id": "c6a60dd82ba70098590ba4ebdd795891f115e350",
+   "title": "Rubies on Mars?",
+   "url": "https://science.nasa.gov/blog/rubies-on-mars",
+   "source": "NASA",
+   "org": [],
+   "topic": "space",
+   "tldr": "Written by Roger C.  Wiens, SuperCam Principal Investigator for NASA’s Perseverance rover at Purdue University Nov.",
+   "published": "2026-11-09T22:27:12.000Z",
+   "dupes": 1,
+   "score": 0.38,
+   "tier": 3
+  },
+  {
+   "id": "f00e71ef887fe9407308fff611e85b901a7fb7d4",
+   "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
+   "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation",
+   "source": "Ars Technica",
+   "org": [],
+   "topic": "security",
+   "tldr": "\"*sshole\" poses a serious threat to Internet security.",
+   "published": "2026-11-09T19:41:34.000Z",
+   "dupes": 1,
+   "score": 0.379,
+   "tier": 3
+  },
+  {
+   "id": "4e9439360760cde2a5a8412aebf1fe2fcc2e8c29",
+   "title": "Newest Sample, Oldest Rock?",
+   "url": "https://science.nasa.gov/blog/newest-sample-oldest-rock",
+   "source": "NASA",
+   "org": [],
+   "topic": "space",
+   "tldr": "Written by Tasha Coelho, Mastcam-Z Student Collaborator at Arizona State University Nov.  ” That’s no coincidence.",
+   "published": "2026-11-09T22:25:52.000Z",
+   "dupes": 1,
+   "score": 0.379,
+   "tier": 3
+  },
+  {
+   "id": "0c5a36cdf4a4a1d00c34f64ab0d8e50fed007936",
+   "title": "Boston Dynamics adds wheels to Atlas humanoid to test whole-body control",
+   "url": "https://www.therobotreport.com/boston-dynamics-adds-wheels-to-atlas-humanoid-to-test-whole-body-control",
+   "source": "The Robot Report",
+   "org": [
+    "boston-dynamics"
+   ],
+   "topic": "robotics",
+   "tldr": "Boston Dynamics combines classical motor control with whole-body reinforcement learning to power dynamic, wheeled locomotion for Atlas.  The post Boston Dynamics adds wheels to Atlas humanoid to test whole-body control…",
+   "published": "2026-11-09T18:34:38.000Z",
+   "dupes": 1,
+   "score": 0.358,
+   "tier": 3
+  },
+  {
+   "id": "44bef865b1e423fadce29fbaacd33903e3d1ad16",
+   "title": "Pentagon mulls placing fleet of military satellites around the Moon",
+   "url": "https://arstechnica.com/space/2026/11/us-military-notionally-interested-in-satellite-constellation-around-moon",
+   "source": "Ars Technica",
+   "org": [],
+   "topic": "space",
+   "tldr": "\"Please jump on my cislunar bandwagon because I need some more friends here.\"",
+   "published": "2026-11-09T19:08:37.000Z",
+   "dupes": 1,
+   "score": 0.357,
+   "tier": 3
+  },
+  {
+   "id": "8d55af9c096a1deabd4bac0ed2df3be2a472beaf",
+   "title": "Astronauts Across Generations Share the Stage",
+   "url": "https://www.nasa.gov/image-article/astronauts-across-generations-share-the-stage",
+   "source": "NASA",
+   "org": [],
+   "topic": "space",
+   "tldr": "On Nov.  6, 2026, Purpose Entertainment hosted the Artemis Celebration Gala at NASA’s Kennedy Space Center Visitor Complex in Merritt Island, Florida.",
+   "published": "2026-11-09T16:56:29.000Z",
+   "dupes": 1,
+   "score": 0.356,
+   "tier": 3
+  },
+  {
+   "id": "a61cddb6ee66767661a8990e85d4c26086c219e0",
+   "title": "CCIA Report Highlights Satellite Connectivity’s Potential to Expand Internet Access and Drive Economic Growth",
+   "url": "https://spacenews.com/ccia-report-highlights-satellite-connectivitys-potential-to-expand-internet-access-and-drive-economic-growth",
+   "source": "SpaceNews",
+   "org": [],
+   "topic": "space",
+   "tldr": "Washington — The Computer & Communications Industry Association today released Connecting the World: Unlocking the Potential of Satellite Connectivity, a new report examining how satellite technology can expand internet…",
+   "published": "2026-11-09T14:00:00.000Z",
+   "dupes": 1,
+   "score": 0.337,
+   "tier": 3
+  },
+  {
+   "id": "742a79191e1f4f9ba316083d4facafbd4fed2a63",
+   "title": "Sensor Tower: GTA 6 pre-orders almost reach 8m, 74% bought on PlayStation 5",
+   "url": "https://www.gamesindustry.biz/sensor-tower-gta-6-pre-orders-almost-reach-8m-74-bought-on-playstation-5",
+   "source": "GamesIndustry.biz",
+   "org": [
+    "sony",
+    "rockstar"
+   ],
+   "topic": "gaming",
+   "tldr": "Grand Theft Auto 6 is two weeks away, and the highly anticipated title has nearly reached eight million pre-orders, according to recent data.",
+   "published": "2026-11-05T14:13:50.000Z",
+   "dupes": 1,
+   "score": 0.328,
+   "tier": 3
+  },
+  {
+   "id": "07a80e22610c52b76bad9abddc236fe155d92ed0",
+   "title": "PlayStation cancels Ratchet & Clank: Ranger Rumble a year into soft launch",
+   "url": "https://www.gamesindustry.biz/playstation-cancels-ratchet-clank-ranger-rumble-a-year-into-soft-launch",
+   "source": "GamesIndustry.biz",
+   "org": [
+    "sony"
+   ],
+   "topic": "gaming",
+   "tldr": "PlayStation has canceled Ratchet & Clank: Ranger Rumble, its free-to-play mobile spin-off of the platforming series, a year after it entered soft launch.",
+   "published": "2026-11-09T17:37:10.000Z",
+   "dupes": 1,
+   "score": 0.326,
+   "tier": 3
+  },
+  {
+   "id": "df04fb93b553bc32d73ac2350d860c779a12ec6f",
+   "title": "Tripwire Interactive lays off 36",
+   "url": "https://www.gamesindustry.biz/tripwire-interactive-lays-off-36",
+   "source": "GamesIndustry.biz",
+   "org": [],
+   "topic": "gaming",
+   "tldr": "Killing Floor and Maneater developer Tripwire Interactive has laid off 36 staff.",
+   "published": "2026-11-09T19:43:10.000Z",
+   "dupes": 1,
+   "score": 0.311,
    "tier": 3
   },
   {
@@ -720,146 +830,7 @@
    "tldr": "Back in September 2025, the launch of Hollow Knight: Silksong crashed the digital storefronts of Nintendo, PlayStation, Xbox, and Steam, as players who had waited over eight years for a follow-up to 2017's Hollow Knight…",
    "published": "2026-11-09T15:00:00.000Z",
    "dupes": 1,
-   "score": 0.321,
-   "tier": 3
-  },
-  {
-   "id": "57445073924f55eb4d5ddffaa78778fadcbd89d6",
-   "title": "Star Wars Zero Company developer Bit Reactor has laid off an unspecified number of people",
-   "url": "https://www.gamesindustry.biz/star-wars-zero-company-developer-bit-reactor-has-laid-off-an-unspecified-number-of-people",
-   "source": "GamesIndustry.biz",
-   "org": [],
-   "topic": "gaming",
-   "tldr": "Bit Reactor furloughed \" many of its workers \" ahead of the release of the turn-based tactics game Star Wars Zero Company in August, before starting the process of returning furloughed staff to work in October .  Now,…",
-   "published": "2026-11-09T11:29:50.000Z",
-   "dupes": 1,
-   "score": 0.308,
-   "tier": 3
-  },
-  {
-   "id": "a4dad69af568bce7f6336c6a01df27bdca9c9315",
-   "title": "German Games Industry Association warns the EU KIDS Act could undermine existing age-rating systems for video games",
-   "url": "https://www.gamesindustry.biz/german-games-industry-association-warns-the-eu-kids-act-could-undermine-existing-age-rating-systems-for-video-games",
-   "source": "GamesIndustry.biz",
-   "org": [],
-   "topic": "gaming",
-   "tldr": "Game, the German Games Industry Association, has warned that the EU KIDS Act &ndash; which was unveiled in draft form in September and which is likely to have sweeping repercussions for game developers &ndash; could…",
-   "published": "2026-11-09T09:43:50.000Z",
-   "dupes": 1,
-   "score": 0.302,
-   "tier": 3
-  },
-  {
-   "id": "b4546289e864fbac4a2d3f93d35884adee5c2f2d",
-   "title": "Anthropic adds rule to stop Claude Code recreating existing games",
-   "url": "https://www.gamesindustry.biz/anthropic-adds-rule-to-stop-claude-code-recreating-existing-games",
-   "source": "GamesIndustry.biz",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "gaming",
-   "tldr": "Anthropic has updated its AI coding tool Claude Code so it stops building clones of existing video games.",
-   "published": "2026-11-02T17:50:20.000Z",
-   "dupes": 1,
-   "score": 0.297,
-   "tier": 3
-  },
-  {
-   "id": "b4854b1d6a40f908658333f03796679fd00357ba",
-   "title": "ARM Institute consortium grows to more than 500 organizations",
-   "url": "https://www.therobotreport.com/arm-institute-members-grows-more-than-500-organizations",
-   "source": "The Robot Report",
-   "org": [],
-   "topic": "robotics",
-   "tldr": "The ARM Institute reached the milestone as it prepares to host its 10th annual member meeting in Pittsburgh.  The post ARM Institute consortium grows to more than 500 organizations appeared first on The Robot Report .",
-   "published": "2026-11-08T13:00:23.000Z",
-   "dupes": 1,
-   "score": 0.268,
-   "tier": 3
-  },
-  {
-   "id": "975af12acfa19dfbfb4e32fcc11fd19d339b6154",
-   "title": "Arkane union accuses Microsoft of \"sabotaging\" Marvel's Blade with 19-month hiring freeze",
-   "url": "https://www.gamesindustry.biz/arkane-union-accuses-microsoft-of-sabotaging-marvels-blade-with-19-month-hiring-freeze",
-   "source": "GamesIndustry.biz",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "gaming",
-   "tldr": "A French union representing workers at Arkane Lyon has accused Microsoft of sabotaging development of Marvel's Blade, claiming a 19-month hiring freeze caused the delays now being used to justify the studio's closure.",
-   "published": "2026-11-04T20:17:10.000Z",
-   "dupes": 1,
-   "score": 0.267,
-   "tier": 3
-  },
-  {
-   "id": "54693f18a639463767cc6d488be7a899e5762ce0",
-   "title": "Ubisoft reportedly seeking to acquire Arkane Lyon from Xbox",
-   "url": "https://www.gamesindustry.biz/ubisoft-reportedly-seeking-to-acquire-arkane-lyon-from-xbox",
-   "source": "GamesIndustry.biz",
-   "org": [
-    "microsoft",
-    "ubisoft"
-   ],
-   "topic": "gaming",
-   "tldr": "Ubisoft is reportedly seeking to acquire Arkane Lyon following an extension of its consultation period with Xbox.",
-   "published": "2026-11-04T08:35:49.000Z",
-   "dupes": 1,
-   "score": 0.265,
-   "tier": 3
-  },
-  {
-   "id": "da419fb847aff5390efde5c805ad149834e41509",
-   "title": "Industry experts discuss China blocking SoftBank acquisition of ABB Robotics",
-   "url": "https://www.therobotreport.com/industry-experts-discuss-china-blocking-softbank-acquisition-abb-robotics",
-   "source": "The Robot Report",
-   "org": [],
-   "topic": "robotics",
-   "tldr": "China's prohibition of SoftBank's purchase of ABB Robotics reflects wider concerns about data and AI, say experts.  The post Industry experts discuss China blocking SoftBank acquisition of ABB Robotics appeared first on…",
-   "published": "2026-11-06T20:41:17.000Z",
-   "dupes": 2,
-   "score": 0.254,
-   "tier": 3
-  },
-  {
-   "id": "89b8ad2ea56f0c92f7759265e06fff307c715963",
-   "title": "Robot integration brings high-precision production to midmarket manufacturers",
-   "url": "https://www.therobotreport.com/robot-integration-brings-high-precision-production-to-midmarket-manufacturers",
-   "source": "The Robot Report",
-   "org": [],
-   "topic": "robotics",
-   "tldr": "Properly integrated industrial and collaborative robots can help midmarket manufacturers, according to a columnist.  The post Robot integration brings high-precision production to midmarket manufacturers appeared first…",
-   "published": "2026-11-07T13:32:59.000Z",
-   "dupes": 1,
-   "score": 0.222,
-   "tier": 3
-  },
-  {
-   "id": "6a768e8ded0d68a3a3435af736d1124807f54737",
-   "title": "How did Agility Robotics perform on its first day on the stock market?",
-   "url": "https://www.therobotreport.com/how-did-agility-robotics-perform-on-its-first-day-on-the-stock-market",
-   "source": "The Robot Report",
-   "org": [
-    "agility"
-   ],
-   "topic": "robotics",
-   "tldr": "49.  The post How did Agility Robotics perform on its first day on the stock market?",
-   "published": "2026-11-05T22:48:14.000Z",
-   "dupes": 1,
-   "score": 0.205,
-   "tier": 3
-  },
-  {
-   "id": "794d1edfe498a743a0919b5aa15ed51c916cfae7",
-   "title": "How Point One turned GPS accuracy into a robotics platform",
-   "url": "https://www.therobotreport.com/how-point-one-turned-gps-accuracy-into-robotics-platform",
-   "source": "The Robot Report",
-   "org": [],
-   "topic": "robotics",
-   "tldr": "Aaron Nathan explains how precise location technology like GPS is enabling robots to navigate, coordinate, and scale across real environments.  The post How Point One turned GPS accuracy into a robotics platform…",
-   "published": "2026-11-06T21:47:35.000Z",
-   "dupes": 1,
-   "score": 0.203,
+   "score": 0.294,
    "tier": 3
   },
   {
@@ -874,7 +845,74 @@
    "tldr": "Brian Donnelly, the VP and GM of logistics robotics at Boston Dynamics, said the new version of Stretch has been in the works for two and a half years.  The post Boston Dynamics built Stretch Gen 2 for reliable,…",
    "published": "2026-11-06T21:34:44.000Z",
    "dupes": 1,
-   "score": 0.202,
+   "score": 0.283,
+   "tier": 3
+  },
+  {
+   "id": "b4854b1d6a40f908658333f03796679fd00357ba",
+   "title": "ARM Institute consortium grows to more than 500 organizations",
+   "url": "https://www.therobotreport.com/arm-institute-members-grows-more-than-500-organizations",
+   "source": "The Robot Report",
+   "org": [],
+   "topic": "robotics",
+   "tldr": "The ARM Institute reached the milestone as it prepares to host its 10th annual member meeting in Pittsburgh.  The post ARM Institute consortium grows to more than 500 organizations appeared first on The Robot Report .",
+   "published": "2026-11-08T13:00:23.000Z",
+   "dupes": 1,
+   "score": 0.25,
+   "tier": 3
+  },
+  {
+   "id": "da419fb847aff5390efde5c805ad149834e41509",
+   "title": "Industry experts discuss China blocking SoftBank acquisition of ABB Robotics",
+   "url": "https://www.therobotreport.com/industry-experts-discuss-china-blocking-softbank-acquisition-abb-robotics",
+   "source": "The Robot Report",
+   "org": [],
+   "topic": "robotics",
+   "tldr": "China's prohibition of SoftBank's purchase of ABB Robotics reflects wider concerns about data and AI, say experts.  The post Industry experts discuss China blocking SoftBank acquisition of ABB Robotics appeared first on…",
+   "published": "2026-11-06T20:41:17.000Z",
+   "dupes": 2,
+   "score": 0.247,
+   "tier": 3
+  },
+  {
+   "id": "89b8ad2ea56f0c92f7759265e06fff307c715963",
+   "title": "Robot integration brings high-precision production to midmarket manufacturers",
+   "url": "https://www.therobotreport.com/robot-integration-brings-high-precision-production-to-midmarket-manufacturers",
+   "source": "The Robot Report",
+   "org": [],
+   "topic": "robotics",
+   "tldr": "Properly integrated industrial and collaborative robots can help midmarket manufacturers, according to a columnist.  The post Robot integration brings high-precision production to midmarket manufacturers appeared first…",
+   "published": "2026-11-07T13:32:59.000Z",
+   "dupes": 1,
+   "score": 0.212,
+   "tier": 3
+  },
+  {
+   "id": "6a768e8ded0d68a3a3435af736d1124807f54737",
+   "title": "How did Agility Robotics perform on its first day on the stock market?",
+   "url": "https://www.therobotreport.com/how-did-agility-robotics-perform-on-its-first-day-on-the-stock-market",
+   "source": "The Robot Report",
+   "org": [
+    "agility"
+   ],
+   "topic": "robotics",
+   "tldr": "49.  The post How did Agility Robotics perform on its first day on the stock market?",
+   "published": "2026-11-05T22:48:14.000Z",
+   "dupes": 1,
+   "score": 0.197,
+   "tier": 3
+  },
+  {
+   "id": "794d1edfe498a743a0919b5aa15ed51c916cfae7",
+   "title": "How Point One turned GPS accuracy into a robotics platform",
+   "url": "https://www.therobotreport.com/how-point-one-turned-gps-accuracy-into-robotics-platform",
+   "source": "The Robot Report",
+   "org": [],
+   "topic": "robotics",
+   "tldr": "Aaron Nathan explains how precise location technology like GPS is enabling robots to navigate, coordinate, and scale across real environments.  The post How Point One turned GPS accuracy into a robotics platform…",
+   "published": "2026-11-06T21:47:35.000Z",
+   "dupes": 1,
+   "score": 0.196,
    "tier": 3
   },
   {
@@ -889,7 +927,7 @@
    "tldr": "-based legged humanoid company to be publicly listed.  The post Agility Robotics begins trading on Nasdaq appeared first on The Robot Report .",
    "published": "2026-11-05T14:46:29.000Z",
    "dupes": 1,
-   "score": 0.202,
+   "score": 0.195,
    "tier": 3
   },
   {
@@ -902,7 +940,7 @@
    "tldr": "Ambi Robotics' co-founder and COO Stephen McKinley says the company is installing eight new systems at customer sites before peak season.  The post How Ambi Robotics helps its customers prepare for peak season appeared…",
    "published": "2026-11-05T16:50:23.000Z",
    "dupes": 1,
-   "score": 0.181,
+   "score": 0.178,
    "tier": 3
   },
   {
@@ -915,7 +953,7 @@
    "tldr": "The 2026 Startup Radar presents innovative young companies developing hardware, software, and business models for the next generation of commercial robotics.  The post Robotics Startup Radar 2026 appeared first on The…",
    "published": "2026-11-04T16:08:46.000Z",
    "dupes": 1,
-   "score": 0.171,
+   "score": 0.169,
    "tier": 3
   },
   {
@@ -928,33 +966,7 @@
    "tldr": "When designing the robot, GlobalLogic said it didn't want to just quickly design a robot for one use case or environment.  The post How GlobalLogic helped Haystack Robotics build a UV disinfection robot appeared first…",
    "published": "2026-11-04T15:22:55.000Z",
    "dupes": 1,
-   "score": 0.171,
-   "tier": 3
-  },
-  {
-   "id": "d83a0f66a9a0124cc5f70f499fb4c33f33d07c83",
-   "title": "LiberAI Unveils Liber-0, a World Action Model That Grounds Human Experience in Robot Action",
-   "url": "https://www.therobotreport.com/liberai-unveils-liber-0-a-world-action-model-that-grounds-human-experience-in-robot-action",
-   "source": "The Robot Report",
-   "org": [],
-   "topic": "robotics",
-   "tldr": "2 million hours of human experience to support zero-shot robot manipulation.  The post LiberAI Unveils Liber-0, a World Action Model That Grounds Human Experience in Robot Action appeared first on The Robot Report .",
-   "published": "2026-11-04T15:02:57.000Z",
-   "dupes": 1,
-   "score": 0.171,
-   "tier": 3
-  },
-  {
-   "id": "365e7ff253bdff5e026d1838276d952444aba8d5",
-   "title": "Ben Waters on the latest wireless charging strategies",
-   "url": "https://www.therobotreport.com/ben-waters-on-the-latest-wireless-charging-strategies",
-   "source": "The Robot Report",
-   "org": [],
-   "topic": "robotics",
-   "tldr": "Ben Waters discusses opportunity charging, battery life, and the infrastructure needed to keep growing robot fleets running.  The post Ben Waters on the latest wireless charging strategies appeared first on The Robot…",
-   "published": "2026-11-03T21:29:37.000Z",
-   "dupes": 1,
-   "score": 0.167,
+   "score": 0.169,
    "tier": 3
   }
  ]
