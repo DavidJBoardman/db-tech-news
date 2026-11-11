@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T01:37:51.625Z",
+ "generated": "2026-11-11T08:42:01.059Z",
  "items": [
   {
    "id": "d68f526af6ae195ea57b84d71eb2acbfe7870d83",
@@ -13,8 +13,53 @@
    "tldr": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
    "published": "2026-11-10T22:52:15.000Z",
    "dupes": 4,
-   "score": 0.866,
+   "score": 0.835,
    "tier": 1
+  },
+  {
+   "id": "80b38ea7da372c49e059a0a93b8b44c1ad9ac0e2",
+   "title": "ChatGPT Plus for veterans and servicemembers",
+   "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus.  See how they use it to prepare for civilian careers.",
+   "published": "2026-11-11T08:00:00.000Z",
+   "dupes": 1,
+   "score": 0.743,
+   "tier": 2
+  },
+  {
+   "id": "e28ff692f1183bacc8b196a3c33b6a66b6eda069",
+   "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+   "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn",
+   "source": "TechCrunch",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
+   "published": "2026-11-11T07:30:51.000Z",
+   "dupes": 1,
+   "score": 0.709,
+   "tier": 2
+  },
+  {
+   "id": "a3f9078912ac05de057568b2406e4f40c088e9d5",
+   "title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
+   "url": "https://blogs.nvidia.com/blog/ai-recycling-startups",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Vision AI and robotics pick what’s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousands of tons of materials from landfills.",
+   "published": "2026-11-11T03:00:20.000Z",
+   "dupes": 1,
+   "score": 0.704,
+   "tier": 2
   },
   {
    "id": "c00a2b69f7cb1b5e2a07c3159e5de9e7760e495a",
@@ -28,7 +73,52 @@
    "tldr": "Huang faces a board probe as investors fret over Nvidia’s lack of a clear successor.",
    "published": "2026-11-10T14:53:05.000Z",
    "dupes": 2,
-   "score": 0.73,
+   "score": 0.704,
+   "tier": 2
+  },
+  {
+   "id": "ae3c6c28ceab44c439869fe49aa425fb62291258",
+   "title": "Tracking Anthropic-discovered vulnerabilities",
+   "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+   "source": "Hacker News",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-10T22:17:56.000Z",
+   "dupes": 1,
+   "score": 0.701,
+   "tier": 2
+  },
+  {
+   "id": "44096b209ce3f9975082bb36d0a9f79116bad255",
+   "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
+   "url": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
+   "source": "The Hacker News",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "security",
+   "tldr": "Microsoft on Tuesday released patches for a total of 1,259 vulnerabilities spanning its software portfolio, the second consecutive month where the patch volume has exceeded 1,000 flaws.  These cover 726 flaws in…",
+   "published": "2026-11-11T08:17:53.000Z",
+   "dupes": 1,
+   "score": 0.697,
+   "tier": 2
+  },
+  {
+   "id": "e23f07d99f928138a0d8e7f0eed966309ad1b094",
+   "title": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons",
+   "url": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html",
+   "source": "The Hacker News",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "security",
+   "tldr": "An AI model can be given a hidden backdoor by editing fewer than 10 of its rarely used neurons, without retraining the model, Microsoft researchers have shown.  When a chosen trigger appears, the model outputs an…",
+   "published": "2026-11-11T07:21:05.000Z",
+   "dupes": 1,
+   "score": 0.692,
    "tier": 2
   },
   {
@@ -43,38 +133,37 @@
    "tldr": "",
    "published": "2026-11-10T16:03:47.000Z",
    "dupes": 1,
-   "score": 0.703,
+   "score": 0.677,
    "tier": 2
   },
   {
-   "id": "571fb0494bf3f24fb53a290f9b861603638a0e6a",
-   "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-   "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder",
-   "source": "TechCrunch",
+   "id": "bda5de5f5ee664c9c7aeed33eec8a4464a84e69a",
+   "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
+   "url": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities",
+   "source": "Krebs on Security",
    "org": [
-    "openai"
+    "microsoft"
    ],
-   "topic": "ai",
-   "tldr": "OpenAI has not yet said what its plans are for the future of travel.  But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
-   "published": "2026-11-10T21:08:52.000Z",
+   "topic": "security",
+   "tldr": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software.  This month's Patch Tuesday addresses 63…",
+   "published": "2026-11-10T21:55:03.000Z",
    "dupes": 1,
-   "score": 0.693,
+   "score": 0.674,
    "tier": 2
   },
   {
-   "id": "c012fc7ecd62b33ede893649536f7bcb19c68505",
-   "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
-   "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect",
-   "source": "TechCrunch",
+   "id": "71f09bf5cddc2e29c9a585442a24885d50e15eda",
+   "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
+   "url": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents",
+   "source": "Microsoft Research",
    "org": [
-    "anthropic",
-    "openai"
+    "microsoft"
    ],
    "topic": "ai",
-   "tldr": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
-   "published": "2026-11-10T20:52:13.000Z",
+   "tldr": "Microsoft researchers have discovered “Lazarus,” a backdoor technique that can reprogram dormant neurons in an AI model, causing an otherwise normal AI agent to execute malicious commands when a hidden trigger appears.…",
+   "published": "2026-11-10T20:52:56.000Z",
    "dupes": 1,
-   "score": 0.692,
+   "score": 0.67,
    "tier": 2
   },
   {
@@ -89,7 +178,7 @@
    "tldr": "Google has released emergency security updates to patch a new Chrome vulnerability exploited in zero-day attacks, the eighth such flaw since the start of the year.",
    "published": "2026-11-10T08:51:25.000Z",
    "dupes": 2,
-   "score": 0.691,
+   "score": 0.669,
    "tier": 2
   },
   {
@@ -104,7 +193,7 @@
    "tldr": "S.  cities, helping them build practical AI skills for everyday life.",
    "published": "2026-11-10T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.688,
+   "score": 0.663,
    "tier": 2
   },
   {
@@ -119,23 +208,39 @@
    "tldr": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
    "published": "2026-11-10T12:02:28.000Z",
    "dupes": 1,
-   "score": 0.688,
-   "tier": 2
+   "score": 0.663,
+   "tier": 3
   },
   {
-   "id": "e18f58ec7dc7acb92f5531ab8868f5022073f136",
-   "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
-   "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo",
+   "id": "571fb0494bf3f24fb53a290f9b861603638a0e6a",
+   "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+   "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder",
    "source": "TechCrunch",
    "org": [
-    "anthropic"
+    "openai"
    ],
    "topic": "ai",
-   "tldr": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control…",
-   "published": "2026-11-10T19:57:52.000Z",
+   "tldr": "OpenAI has not yet said what its plans are for the future of travel.  But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+   "published": "2026-11-10T21:08:52.000Z",
    "dupes": 1,
-   "score": 0.688,
-   "tier": 2
+   "score": 0.663,
+   "tier": 3
+  },
+  {
+   "id": "c012fc7ecd62b33ede893649536f7bcb19c68505",
+   "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+   "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect",
+   "source": "TechCrunch",
+   "org": [
+    "anthropic",
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
+   "published": "2026-11-10T20:52:13.000Z",
+   "dupes": 1,
+   "score": 0.662,
+   "tier": 3
   },
   {
    "id": "405fdcad1ce1a75cd702fb3169b064e2473c8bc3",
@@ -152,38 +257,38 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.687,
-   "tier": 2
+   "score": 0.661,
+   "tier": 3
   },
   {
-   "id": "bda5de5f5ee664c9c7aeed33eec8a4464a84e69a",
-   "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
-   "url": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities",
-   "source": "Krebs on Security",
+   "id": "e18f58ec7dc7acb92f5531ab8868f5022073f136",
+   "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+   "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo",
+   "source": "TechCrunch",
    "org": [
-    "microsoft"
-   ],
-   "topic": "security",
-   "tldr": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software.  This month's Patch Tuesday addresses 63…",
-   "published": "2026-11-10T21:55:03.000Z",
-   "dupes": 1,
-   "score": 0.686,
-   "tier": 2
-  },
-  {
-   "id": "71f09bf5cddc2e29c9a585442a24885d50e15eda",
-   "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
-   "url": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents",
-   "source": "Microsoft Research",
-   "org": [
-    "microsoft"
+    "anthropic"
    ],
    "topic": "ai",
-   "tldr": "Microsoft researchers have discovered “Lazarus,” a backdoor technique that can reprogram dormant neurons in an AI model, causing an otherwise normal AI agent to execute malicious commands when a hidden trigger appears.…",
-   "published": "2026-11-10T20:52:56.000Z",
+   "tldr": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control…",
+   "published": "2026-11-10T19:57:52.000Z",
    "dupes": 1,
-   "score": 0.683,
-   "tier": 2
+   "score": 0.659,
+   "tier": 3
+  },
+  {
+   "id": "5ca4dc7b6d88cb31d41f9b1c287b0178583121a9",
+   "title": "Introducing Businesses in ChatGPT",
+   "url": "https://openai.com/index/introducing-businesses-chatgpt",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+   "published": "2026-11-10T10:00:00.000Z",
+   "dupes": 1,
+   "score": 0.657,
+   "tier": 3
   },
   {
    "id": "445fc6287a33b8c194d5a3f1da6cb82e360de53d",
@@ -198,37 +303,7 @@
    "tldr": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
    "published": "2026-11-10T18:49:52.000Z",
    "dupes": 1,
-   "score": 0.683,
-   "tier": 2
-  },
-  {
-   "id": "5ca4dc7b6d88cb31d41f9b1c287b0178583121a9",
-   "title": "Introducing Businesses in ChatGPT",
-   "url": "https://openai.com/index/introducing-businesses-chatgpt",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-   "published": "2026-11-10T10:00:00.000Z",
-   "dupes": 1,
-   "score": 0.68,
-   "tier": 3
-  },
-  {
-   "id": "adf593f41910254a68bb036d5a4fe77137930eff",
-   "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
-   "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78, which is lower than what was expected.",
-   "published": "2026-11-10T17:56:12.000Z",
-   "dupes": 1,
-   "score": 0.679,
+   "score": 0.655,
    "tier": 3
   },
   {
@@ -243,37 +318,7 @@
    "tldr": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
    "published": "2026-11-10T09:00:00.000Z",
    "dupes": 1,
-   "score": 0.677,
-   "tier": 3
-  },
-  {
-   "id": "af7403b4563990ca0e267ef99404ecaf459df8ee",
-   "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-   "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks",
-   "source": "TechCrunch",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's…",
-   "published": "2026-11-10T17:30:00.000Z",
-   "dupes": 1,
-   "score": 0.677,
-   "tier": 3
-  },
-  {
-   "id": "196c0edf93f91dc355b28dadec04f5631f878de9",
-   "title": "Google broadens its AI hardware portfolio with two new specialized chips",
-   "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips",
-   "source": "TechCrunch",
-   "org": [
-    "google"
-   ],
-   "topic": "compute",
-   "tldr": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
-   "published": "2026-11-10T15:54:08.000Z",
-   "dupes": 1,
-   "score": 0.671,
+   "score": 0.654,
    "tier": 3
   },
   {
@@ -288,7 +333,7 @@
    "tldr": "Microsoft released the Windows 10 KB5131096 extended security update, which includes this month's November 2026 Patch Tuesday fixes and a few bug fixes and changes.",
    "published": "2026-11-10T20:04:36.000Z",
    "dupes": 1,
-   "score": 0.666,
+   "score": 0.651,
    "tier": 3
   },
   {
@@ -303,7 +348,22 @@
    "tldr": "Today is Microsoft's November 2026 Patch Tuesday, with security updates addressing a record-breaking 1,235 flaws, including one actively exploited Microsoft Outlook zero-day vulnerability.",
    "published": "2026-11-10T19:07:36.000Z",
    "dupes": 1,
-   "score": 0.663,
+   "score": 0.648,
+   "tier": 3
+  },
+  {
+   "id": "196c0edf93f91dc355b28dadec04f5631f878de9",
+   "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+   "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips",
+   "source": "TechCrunch",
+   "org": [
+    "google"
+   ],
+   "topic": "compute",
+   "tldr": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
+   "published": "2026-11-10T15:54:08.000Z",
+   "dupes": 1,
+   "score": 0.644,
    "tier": 3
   },
   {
@@ -318,7 +378,7 @@
    "tldr": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses.",
    "published": "2026-11-10T09:23:55.000Z",
    "dupes": 1,
-   "score": 0.646,
+   "score": 0.623,
    "tier": 3
   },
   {
@@ -333,7 +393,7 @@
    "tldr": "The new model is up to twice as successful at some tasks.",
    "published": "2026-11-10T15:00:39.000Z",
    "dupes": 1,
-   "score": 0.641,
+   "score": 0.617,
    "tier": 3
   },
   {
@@ -348,7 +408,7 @@
    "tldr": "AI safety regulator will also be created after a rogue OpenAI agent hacked government websites.",
    "published": "2026-11-10T05:22:39.000Z",
    "dupes": 1,
-   "score": 0.633,
+   "score": 0.612,
    "tier": 3
   },
   {
@@ -364,22 +424,7 @@
    "tldr": "2 models, which it said exhibit improvements in coding, reasoning, and vision.",
    "published": "2026-11-10T08:16:14.000Z",
    "dupes": 1,
-   "score": 0.626,
-   "tier": 3
-  },
-  {
-   "id": "ed37d32e2c4addf927b1476f215b96c91b41f738",
-   "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
-   "url": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Jensen Huang is being investigated by his own company over an extramarital affair with a woman alleged to be a Chinese spy.",
-   "published": "2026-11-09T21:52:28.000Z",
-   "dupes": 1,
-   "score": 0.611,
+   "score": 0.604,
    "tier": 3
   },
   {
@@ -394,7 +439,22 @@
    "tldr": "Simulation, which has long been the proving ground for robots learning to walk, roll and hop, is now helping researchers teach robots tasks that require a finer touch: aligning gears, connecting cables and assembling…",
    "published": "2026-11-09T14:00:01.000Z",
    "dupes": 1,
-   "score": 0.608,
+   "score": 0.593,
+   "tier": 3
+  },
+  {
+   "id": "ed37d32e2c4addf927b1476f215b96c91b41f738",
+   "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
+   "url": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Technology",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Jensen Huang is being investigated by his own company over an extramarital affair with a woman alleged to be a Chinese spy.",
+   "published": "2026-11-09T21:52:28.000Z",
+   "dupes": 1,
+   "score": 0.593,
    "tier": 3
   },
   {
@@ -409,7 +469,7 @@
    "tldr": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX.  Representatives from the Ministry of Science and ICT and NVIDIA met with over 20 Korean startups across…",
    "published": "2026-11-09T08:00:53.000Z",
    "dupes": 1,
-   "score": 0.595,
+   "score": 0.582,
    "tier": 3
   },
   {
@@ -424,7 +484,7 @@
    "tldr": "Alice Huang, a Chinese businesswoman, had a close relationship with Nvidia boss Jensen Huang, reports say.",
    "published": "2026-11-09T14:50:35.000Z",
    "dupes": 1,
-   "score": 0.593,
+   "score": 0.579,
    "tier": 3
   },
   {
@@ -439,37 +499,7 @@
    "tldr": "Tapping into the country’s strengths in manufacturing and engineering, NVIDIA is helping advance Korea’s physical AI ecosystem.  The country’s industry leaders are applying accelerated computing, AI and simulation to…",
    "published": "2026-11-09T05:00:40.000Z",
    "dupes": 1,
-   "score": 0.589,
-   "tier": 3
-  },
-  {
-   "id": "51bc8200bfc724aab08272607fed59171ed82f0f",
-   "title": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
-   "url": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "As AI agents take on more work, they need capable open models and security that advances alongside them.  Hyundai Motor Group is exploring NVIDIA NemoClaw blueprints and the NVIDIA OpenShell runtime, while AIM…",
-   "published": "2026-11-09T05:00:39.000Z",
-   "dupes": 1,
-   "score": 0.589,
-   "tier": 3
-  },
-  {
-   "id": "60900222ede9bec5195c4f2c55f7b2342266bbb5",
-   "title": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
-   "url": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "NVIDIA and Korea’s Ministry of Science and ICT (MSIT) are expanding their collaboration across the country’s sovereign AI ecosystem, from AI semiconductors and data center infrastructure to talent, startups, models,…",
-   "published": "2026-11-09T05:00:04.000Z",
-   "dupes": 1,
-   "score": 0.589,
+   "score": 0.578,
    "tier": 3
   },
   {
@@ -484,7 +514,7 @@
    "tldr": "NVIDIA also gave a look at how its partners, like Ambi Robotics, FieldAI, Flexion, Skild AI, RLWRLD, and more, are using these technologies.  0 at CoRL appeared first on The Robot Report .",
    "published": "2026-11-09T21:52:05.000Z",
    "dupes": 1,
-   "score": 0.573,
+   "score": 0.556,
    "tier": 3
   },
   {
@@ -499,52 +529,7 @@
    "tldr": "The OpenAI engineer who was arrested and charged last month for planting a covert audio recording device in the company's office has pleaded not guilty.  According to reports from Bloomberg and CNBC, Saudi national…",
    "published": "2026-11-09T07:05:48.000Z",
    "dupes": 1,
-   "score": 0.561,
-   "tier": 3
-  },
-  {
-   "id": "747a32850c5bfb2d8a8fccf774f945f02f7b9cf4",
-   "title": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
-   "url": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities",
-   "source": "NASA",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "Launched nearly 50 years ago in 1977, NASA’s Voyager 1 on Wednesday, Nov.  9 billion kilometers).",
-   "published": "2026-11-10T19:22:45.000Z",
-   "dupes": 1,
-   "score": 0.535,
-   "tier": 3
-  },
-  {
-   "id": "668b2cfb3ed00d571ce363ec17edfa749b57aeda",
-   "title": "NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston",
-   "url": "https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston",
-   "source": "NASA",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "NASA will welcome home the Expedition 74 crew during a public event at Space Center Houston following their return from a long-duration mission aboard the International Space Station.",
-   "published": "2026-11-10T18:06:33.000Z",
-   "dupes": 1,
-   "score": 0.532,
-   "tier": 3
-  },
-  {
-   "id": "0dad6b31f4094b0b96c32c203fe2d8a76668901a",
-   "title": "NASA Scientists Show How Gravitational Waves Can Reveal New Worlds",
-   "url": "https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds",
-   "source": "NASA",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "The LISA (Laser Interferometer Space Antenna) observatory, now in development, will detect gravitational waves, the tiny ripples in space-time caused by orbiting masses.  Now two studies led by NASA astrophysicists show…",
-   "published": "2026-11-10T16:00:26.000Z",
-   "dupes": 1,
-   "score": 0.528,
+   "score": 0.549,
    "tier": 3
   },
   {
@@ -562,7 +547,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.506,
+   "score": 0.502,
    "tier": 3
   },
   {
@@ -577,7 +562,7 @@
    "tldr": "OpenAI on Thursday unveiled GPT‑6 Cyber, which it described as a major step forward in security research that brings together stronger cybersecurity capabilities with a step-change improvement in model alignment.  The…",
    "published": "2026-11-06T14:58:32.000Z",
    "dupes": 1,
-   "score": 0.498,
+   "score": 0.495,
    "tier": 3
   },
   {
@@ -592,50 +577,52 @@
    "tldr": "A fix for CVE-2026-83844, a remote code execution flaw in Windows Paint, is now in the Microsoft Store.  Paint gets this fix only through a Store update, not through Windows updates.",
    "published": "2026-11-06T12:06:43.000Z",
    "dupes": 1,
-   "score": 0.497,
+   "score": 0.494,
    "tier": 3
   },
   {
-   "id": "cea41b0360f6d3578779ae8c26263c160a49f1a5",
-   "title": "Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers",
-   "url": "https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html",
-   "source": "The Hacker News",
+   "id": "747a32850c5bfb2d8a8fccf774f945f02f7b9cf4",
+   "title": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
+   "url": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities",
+   "source": "NASA",
    "org": [
-    "anthropic"
+    "nasa"
    ],
-   "topic": "security",
-   "tldr": "ai could make Claude Desktop run code on a person's computer, researchers at Forever Security, an endpoint security company, showed in a test.  The attack needs Dispatch, a Claude feature that lets people send tasks…",
-   "published": "2026-11-06T12:06:35.000Z",
+   "topic": "space",
+   "tldr": "Launched nearly 50 years ago in 1977, NASA’s Voyager 1 on Wednesday, Nov.  9 billion kilometers).",
+   "published": "2026-11-10T19:22:45.000Z",
    "dupes": 1,
-   "score": 0.497,
+   "score": 0.481,
    "tier": 3
   },
   {
-   "id": "306be99284dc169ea81dbd2461d98b411bd79b3e",
-   "title": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
-   "url": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
-   "source": "The Hacker News",
+   "id": "668b2cfb3ed00d571ce363ec17edfa749b57aeda",
+   "title": "NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston",
+   "url": "https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston",
+   "source": "NASA",
    "org": [
-    "openai"
+    "nasa"
    ],
-   "topic": "security",
-   "tldr": "Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT.  Lockdown Mode was introduced by the artificial intelligence…",
-   "published": "2026-11-05T16:42:32.000Z",
+   "topic": "space",
+   "tldr": "NASA will welcome home the Expedition 74 crew during a public event at Space Center Houston following their return from a long-duration mission aboard the International Space Station.",
+   "published": "2026-11-10T18:06:33.000Z",
    "dupes": 1,
-   "score": 0.49,
+   "score": 0.479,
    "tier": 3
   },
   {
-   "id": "9531c706dbfc8caf2950c0fd60a7fe9994e9b3f1",
-   "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
-   "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot",
-   "source": "Ars Technica",
-   "org": [],
-   "topic": "robotics",
-   "tldr": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
-   "published": "2026-11-10T22:35:01.000Z",
-   "dupes": 2,
-   "score": 0.421,
+   "id": "0dad6b31f4094b0b96c32c203fe2d8a76668901a",
+   "title": "NASA Scientists Show How Gravitational Waves Can Reveal New Worlds",
+   "url": "https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds",
+   "source": "NASA",
+   "org": [
+    "nasa"
+   ],
+   "topic": "space",
+   "tldr": "The LISA (Laser Interferometer Space Antenna) observatory, now in development, will detect gravitational waves, the tiny ripples in space-time caused by orbiting masses.  Now two studies led by NASA astrophysicists show…",
+   "published": "2026-11-10T16:00:26.000Z",
+   "dupes": 1,
+   "score": 0.475,
    "tier": 3
   },
   {
@@ -650,23 +637,33 @@
    "tldr": "A French union representing workers at Arkane Lyon has accused Microsoft of sabotaging development of Marvel's Blade, claiming a 19-month hiring freeze caused the delays now being used to justify the studio's closure.",
    "published": "2026-11-04T20:17:10.000Z",
    "dupes": 1,
-   "score": 0.418,
+   "score": 0.417,
    "tier": 3
   },
   {
-   "id": "54693f18a639463767cc6d488be7a899e5762ce0",
-   "title": "Ubisoft reportedly seeking to acquire Arkane Lyon from Xbox",
-   "url": "https://www.gamesindustry.biz/ubisoft-reportedly-seeking-to-acquire-arkane-lyon-from-xbox",
-   "source": "GamesIndustry.biz",
-   "org": [
-    "microsoft",
-    "ubisoft"
-   ],
-   "topic": "gaming",
-   "tldr": "Ubisoft is reportedly seeking to acquire Arkane Lyon following an extension of its consultation period with Xbox.",
-   "published": "2026-11-04T08:35:49.000Z",
+   "id": "9531c706dbfc8caf2950c0fd60a7fe9994e9b3f1",
+   "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+   "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot",
+   "source": "Ars Technica",
+   "org": [],
+   "topic": "robotics",
+   "tldr": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
+   "published": "2026-11-10T22:35:01.000Z",
+   "dupes": 2,
+   "score": 0.392,
+   "tier": 3
+  },
+  {
+   "id": "894d07c16d865e55b984efcab5616ba9c01217d8",
+   "title": "Water Surges Into Navajo Reservoir",
+   "url": "https://science.nasa.gov/earth/earth-observatory/water-surges-into-navajo-reservoir",
+   "source": "NASA",
+   "org": [],
+   "topic": "space",
+   "tldr": "S.  Southwest flooded rivers and rapidly raised New Mexico’s second-largest reservoir.",
+   "published": "2026-11-11T05:01:00.000Z",
    "dupes": 1,
-   "score": 0.417,
+   "score": 0.373,
    "tier": 3
   },
   {
@@ -679,7 +676,7 @@
    "tldr": "Ukraine competes with Russia and data centers for China’s optical fiber supply.",
    "published": "2026-11-10T12:15:32.000Z",
    "dupes": 2,
-   "score": 0.38,
+   "score": 0.356,
    "tier": 3
   },
   {
@@ -692,7 +689,7 @@
    "tldr": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
    "published": "2026-11-11T00:19:13.000Z",
    "dupes": 1,
-   "score": 0.369,
+   "score": 0.338,
    "tier": 3
   },
   {
@@ -705,7 +702,7 @@
    "tldr": "The Crew Health and Performance Exploration Analog (CHAPEA) Mission 2 crew arranged photos around a boot print in the simulated Martian sand outside their habitat on Aug.  31, 2026.",
    "published": "2026-11-10T14:57:55.000Z",
    "dupes": 1,
-   "score": 0.345,
+   "score": 0.32,
    "tier": 3
   },
   {
@@ -718,20 +715,7 @@
    "tldr": "\"NASA advised that Vast’s submission in some locations substituted 'the PAM Provider' for Axiom\"",
    "published": "2026-11-10T16:17:51.000Z",
    "dupes": 1,
-   "score": 0.342,
-   "tier": 3
-  },
-  {
-   "id": "c86f21700f05c9424a408a81593ed79a086f3542",
-   "title": "Dynamic Creatures partners with Sixth Wall Studio to bring Hasbro characters to life with robots",
-   "url": "https://www.therobotreport.com/dynamic-creatures-partners-sixth-wall-studio-bring-hasbro-characters-life-with-robots",
-   "source": "The Robot Report",
-   "org": [],
-   "topic": "robotics",
-   "tldr": "The companies will combine Sixth Wall’s character authoring and alignment with Dynamic Creatures’ mobile, expressive robots.  The post Dynamic Creatures partners with Sixth Wall Studio to bring Hasbro characters to life…",
-   "published": "2026-11-10T18:31:17.000Z",
-   "dupes": 1,
-   "score": 0.336,
+   "score": 0.317,
    "tier": 3
   },
   {
@@ -744,7 +728,20 @@
    "tldr": ", a technology company in defense, national security, and global markets, today announced a long-term agreement with Seagate […] The post Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities…",
    "published": "2026-11-10T14:00:00.000Z",
    "dupes": 1,
-   "score": 0.334,
+   "score": 0.31,
+   "tier": 3
+  },
+  {
+   "id": "c86f21700f05c9424a408a81593ed79a086f3542",
+   "title": "Dynamic Creatures partners with Sixth Wall Studio to bring Hasbro characters to life with robots",
+   "url": "https://www.therobotreport.com/dynamic-creatures-partners-sixth-wall-studio-bring-hasbro-characters-life-with-robots",
+   "source": "The Robot Report",
+   "org": [],
+   "topic": "robotics",
+   "tldr": "The companies will combine Sixth Wall’s character authoring and alignment with Dynamic Creatures’ mobile, expressive robots.  The post Dynamic Creatures partners with Sixth Wall Studio to bring Hasbro characters to life…",
+   "published": "2026-11-10T18:31:17.000Z",
+   "dupes": 1,
+   "score": 0.309,
    "tier": 3
   },
   {
@@ -759,33 +756,7 @@
    "tldr": "Altera and Intel are working to make it easier to connect diverse sensors, turn data into real-time insights, and develop robotics.  The post Intel and Altera expand collaboration to simplify sensor integration for…",
    "published": "2026-11-10T14:47:10.000Z",
    "dupes": 1,
-   "score": 0.321,
-   "tier": 3
-  },
-  {
-   "id": "971eb06b422af9f150938e5ca715609f30f32b04",
-   "title": "Axon invests $1.2B into Skydio and becomes its U.S. public safety distributor",
-   "url": "https://www.therobotreport.com/axon-invests-1-2b-into-skydio-and-becomes-its-u-s-public-safety-distributor",
-   "source": "The Robot Report",
-   "org": [],
-   "topic": "robotics",
-   "tldr": "S.  as Axon expands its Drone as First Responder program.",
-   "published": "2026-11-10T13:06:58.000Z",
-   "dupes": 1,
-   "score": 0.315,
-   "tier": 3
-  },
-  {
-   "id": "c1a3ab4571d1679490ae5a4fee6edb5476d24a10",
-   "title": "ESCAPADE on its way to Mars after Earth flybys",
-   "url": "https://spacenews.com/escapade-on-its-way-to-mars-after-earth-flybys",
-   "source": "SpaceNews",
-   "org": [],
-   "topic": "space",
-   "tldr": "Two NASA smallsats are headed toward Mars after completing flybys of Earth nearly a year after their launch.  The post ESCAPADE on its way to Mars after Earth flybys appeared first on SpaceNews .",
-   "published": "2026-11-10T08:01:39.000Z",
-   "dupes": 1,
-   "score": 0.313,
+   "score": 0.297,
    "tier": 3
   },
   {
@@ -798,7 +769,33 @@
    "tldr": "Low clouds trace the branching valleys of the Appalachian Plateau and the Cumberland River, then burn off by afternoon.",
    "published": "2026-11-10T05:00:00.000Z",
    "dupes": 1,
-   "score": 0.311,
+   "score": 0.292,
+   "tier": 3
+  },
+  {
+   "id": "c1a3ab4571d1679490ae5a4fee6edb5476d24a10",
+   "title": "ESCAPADE on its way to Mars after Earth flybys",
+   "url": "https://spacenews.com/escapade-on-its-way-to-mars-after-earth-flybys",
+   "source": "SpaceNews",
+   "org": [],
+   "topic": "space",
+   "tldr": "Two NASA smallsats are headed toward Mars after completing flybys of Earth nearly a year after their launch.  The post ESCAPADE on its way to Mars after Earth flybys appeared first on SpaceNews .",
+   "published": "2026-11-10T08:01:39.000Z",
+   "dupes": 1,
+   "score": 0.292,
+   "tier": 3
+  },
+  {
+   "id": "971eb06b422af9f150938e5ca715609f30f32b04",
+   "title": "Axon invests $1.2B into Skydio and becomes its U.S. public safety distributor",
+   "url": "https://www.therobotreport.com/axon-invests-1-2b-into-skydio-and-becomes-its-u-s-public-safety-distributor",
+   "source": "The Robot Report",
+   "org": [],
+   "topic": "robotics",
+   "tldr": "S.  as Axon expands its Drone as First Responder program.",
+   "published": "2026-11-10T13:06:58.000Z",
+   "dupes": 1,
+   "score": 0.292,
    "tier": 3
   },
   {
@@ -811,7 +808,7 @@
    "tldr": "By Remington Free, Operations Systems Engineer, NASA-JPL Earth planning date: Friday, Oct.  30, 2026 Today’s plan covered 3 sols, 5060, 5061, and 5062, as we take a few recharging sols before getting back to our normal…",
    "published": "2026-11-10T01:07:45.000Z",
    "dupes": 1,
-   "score": 0.3,
+   "score": 0.282,
    "tier": 3
   },
   {
@@ -824,7 +821,7 @@
    "tldr": "Written by Susanne P.  Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Friday, Oct.",
    "published": "2026-11-10T01:05:48.000Z",
    "dupes": 1,
-   "score": 0.3,
+   "score": 0.282,
    "tier": 3
   },
   {
@@ -839,7 +836,7 @@
    "tldr": "Benchmark tools for generic gaming rigs could be coming soon.",
    "published": "2026-11-10T17:26:44.000Z",
    "dupes": 1,
-   "score": 0.299,
+   "score": 0.277,
    "tier": 3
   },
   {
@@ -854,7 +851,7 @@
    "tldr": "biz had a chance to talk with CEO Strauss Zelnick about the results, as well as where the company is headed.",
    "published": "2026-11-09T21:39:40.000Z",
    "dupes": 1,
-   "score": 0.294,
+   "score": 0.273,
    "tier": 3
   },
   {
@@ -869,33 +866,7 @@
    "tldr": "50 billion.",
    "published": "2026-11-09T21:22:20.000Z",
    "dupes": 1,
-   "score": 0.294,
-   "tier": 3
-  },
-  {
-   "id": "c6a60dd82ba70098590ba4ebdd795891f115e350",
-   "title": "Rubies on Mars?",
-   "url": "https://science.nasa.gov/blog/rubies-on-mars",
-   "source": "NASA",
-   "org": [],
-   "topic": "space",
-   "tldr": "Written by Roger C.  Wiens, SuperCam Principal Investigator for NASA’s Perseverance rover at Purdue University Nov.",
-   "published": "2026-11-09T22:27:12.000Z",
-   "dupes": 1,
-   "score": 0.293,
-   "tier": 3
-  },
-  {
-   "id": "4e9439360760cde2a5a8412aebf1fe2fcc2e8c29",
-   "title": "Newest Sample, Oldest Rock?",
-   "url": "https://science.nasa.gov/blog/newest-sample-oldest-rock",
-   "source": "NASA",
-   "org": [],
-   "topic": "space",
-   "tldr": "Written by Tasha Coelho, Mastcam-Z Student Collaborator at Arizona State University Nov.  ” That’s no coincidence.",
-   "published": "2026-11-09T22:25:52.000Z",
-   "dupes": 1,
-   "score": 0.293,
+   "score": 0.272,
    "tier": 3
   },
   {
@@ -908,7 +879,20 @@
    "tldr": "1 million) for its third quarter, which it attributed to costs \"associated with participation in Gamescom and other activities.",
    "published": "2026-11-10T14:27:40.000Z",
    "dupes": 1,
-   "score": 0.289,
+   "score": 0.268,
+   "tier": 3
+  },
+  {
+   "id": "ebd24c212641d0528c88fff0ff55a93fae016ac1",
+   "title": "Bandai Namco closes Reflector Entertainment, expects to post €21m loss in Q3 as a result",
+   "url": "https://www.gamesindustry.biz/bandai-namco-closes-reflector-entertainment-expects-to-post-21m-loss-in-q3-as-a-result",
+   "source": "GamesIndustry.biz",
+   "org": [],
+   "topic": "gaming",
+   "tldr": "Bandai Namco is closing Unknown 9: Awakening developer Reflector Entertainment.",
+   "published": "2026-11-10T11:46:00.000Z",
+   "dupes": 1,
+   "score": 0.261,
    "tier": 3
   },
   {
@@ -923,7 +907,20 @@
    "tldr": "Boston Dynamics combines classical motor control with whole-body reinforcement learning to power dynamic, wheeled locomotion for Atlas.  The post Boston Dynamics adds wheels to Atlas humanoid to test whole-body control…",
    "published": "2026-11-09T18:34:38.000Z",
    "dupes": 1,
-   "score": 0.271,
+   "score": 0.254,
+   "tier": 3
+  },
+  {
+   "id": "a61cddb6ee66767661a8990e85d4c26086c219e0",
+   "title": "CCIA Report Highlights Satellite Connectivity’s Potential to Expand Internet Access and Drive Economic Growth",
+   "url": "https://spacenews.com/ccia-report-highlights-satellite-connectivitys-potential-to-expand-internet-access-and-drive-economic-growth",
+   "source": "SpaceNews",
+   "org": [],
+   "topic": "space",
+   "tldr": "Washington — The Computer & Communications Industry Association today released Connecting the World: Unlocking the Potential of Satellite Connectivity, a new report examining how satellite technology can expand internet…",
+   "published": "2026-11-09T14:00:00.000Z",
+   "dupes": 1,
+   "score": 0.252,
    "tier": 3
   },
   {
@@ -936,7 +933,7 @@
    "tldr": "China's prohibition of SoftBank's purchase of ABB Robotics reflects wider concerns about data and AI, say experts.  The post Industry experts discuss China blocking SoftBank acquisition of ABB Robotics appeared first on…",
    "published": "2026-11-06T20:41:17.000Z",
    "dupes": 2,
-   "score": 0.231,
+   "score": 0.228,
    "tier": 3
   },
   {
@@ -951,7 +948,7 @@
    "tldr": "Brian Donnelly, the VP and GM of logistics robotics at Boston Dynamics, said the new version of Stretch has been in the works for two and a half years.  The post Boston Dynamics built Stretch Gen 2 for reliable,…",
    "published": "2026-11-06T21:34:44.000Z",
    "dupes": 1,
-   "score": 0.229,
+   "score": 0.218,
    "tier": 3
   },
   {
@@ -964,7 +961,7 @@
    "tldr": "The ARM Institute reached the milestone as it prepares to host its 10th annual member meeting in Pittsburgh.  The post ARM Institute consortium grows to more than 500 organizations appeared first on The Robot Report .",
    "published": "2026-11-08T13:00:23.000Z",
    "dupes": 1,
-   "score": 0.21,
+   "score": 0.202,
    "tier": 3
   }
  ]
