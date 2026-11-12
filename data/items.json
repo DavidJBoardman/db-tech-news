@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-12T03:58:28.641Z",
+ "generated": "2026-11-12T12:17:21.590Z",
  "items": [
   {
    "id": "081caafcc522c70ea94ec58c75de815289eca637",
@@ -13,8 +13,23 @@
    "tldr": "",
    "published": "2026-11-11T22:31:06.000Z",
    "dupes": 2,
-   "score": 0.792,
+   "score": 0.758,
    "tier": 1
+  },
+  {
+   "id": "0990939c7d6ea9f7b924e5d425b1951c897f11ae",
+   "title": "Holiday Extras is rethinking what it can build with Codex",
+   "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+   "published": "2026-11-12T09:30:00.000Z",
+   "dupes": 1,
+   "score": 0.733,
+   "tier": 2
   },
   {
    "id": "eca07e82a29d74865c87114b7a1646bb68570cd3",
@@ -28,22 +43,37 @@
    "tldr": "The FBI is investigating as Nvidia’s board holds urgent talks over Huang’s future.",
    "published": "2026-11-11T23:10:17.000Z",
    "dupes": 2,
-   "score": 0.755,
+   "score": 0.72,
    "tier": 2
   },
   {
-   "id": "f28f90d2895a812ca579d518fcae44bbc0ce22af",
-   "title": "Gilbert + Tobin rethinks the business of law with AI",
-   "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-   "source": "OpenAI Blog",
+   "id": "a020bde73133da7371aec5cb93d47b1fedbf3d9c",
+   "title": "Who could replace Jensen Huang as Nvidia's chief executive?",
+   "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Technology",
    "org": [
-    "openai"
+    "nvidia"
    ],
-   "topic": "ai",
-   "tldr": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
-   "published": "2026-11-12T00:00:00.000Z",
+   "topic": "compute",
+   "tldr": "As uncertainty swirls over the boss of the AI chip giant, some names have emerged as potential successors.",
+   "published": "2026-11-12T11:21:25.000Z",
    "dupes": 1,
-   "score": 0.728,
+   "score": 0.71,
+   "tier": 2
+  },
+  {
+   "id": "a933d7397d9daaac16a0cd75af282fc93198b614",
+   "title": "Microsoft: Recent Windows updates cause SQL Server performance issues",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues",
+   "source": "BleepingComputer",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "security",
+   "tldr": "Microsoft has confirmed that Windows updates released since the October 2026 Patch Tuesday are causing SQL Server performance and stability issues.",
+   "published": "2026-11-12T12:11:11.000Z",
+   "dupes": 1,
+   "score": 0.706,
    "tier": 2
   },
   {
@@ -58,52 +88,70 @@
    "tldr": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
    "published": "2026-11-10T22:52:15.000Z",
    "dupes": 3,
-   "score": 0.717,
+   "score": 0.698,
    "tier": 2
   },
   {
-   "id": "40b3469495104d523d4b21d24709cbce7ca308fe",
-   "title": "Using wearables to enable cardiovascular-kidney-metabolic (CKM) risk profiling for personalized coaching",
-   "url": "https://research.google/blog/using-wearables-to-enable-cardiovascular-kidney-metabolic-ckm-risk-profiling-for-personalized-coaching",
-   "source": "Google Research",
+   "id": "d6a7aefd33114f62ed3c349164422ecd60eaaeff",
+   "title": "Microsoft confirms Windows security updates installation issues",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors",
+   "source": "BleepingComputer",
    "org": [
-    "google"
+    "microsoft"
+   ],
+   "topic": "security",
+   "tldr": "Microsoft has confirmed reports that the November 2026 security updates are failing to install on Windows 11 systems with the October preview update.",
+   "published": "2026-11-12T10:24:07.000Z",
+   "dupes": 1,
+   "score": 0.698,
+   "tier": 2
+  },
+  {
+   "id": "b06379671ede1f625c58d8bbc9930e4829995069",
+   "title": "Supporting research on AI and children’s safety",
+   "url": "https://openai.com/index/children-first-declaration",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
    ],
    "topic": "ai",
-   "tldr": "Health & Bioscience",
-   "published": "2026-11-11T19:54:00.000Z",
-   "dupes": 1,
-   "score": 0.694,
-   "tier": 2
-  },
-  {
-   "id": "b91248042740580a6fd2c0ea3e773ef7117d2b36",
-   "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
-   "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang",
-   "source": "TechCrunch",
-   "org": [
-    "nvidia"
+   "tldr": "OpenAI commits $2 million to research on AI and children’s safety.  The work supports shared tools to measure risks and opportunities for young people.",
+   "published": "2026-11-12T00:00:00.000Z",
+   "badges": [
+    "research"
    ],
-   "topic": "compute",
-   "tldr": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
-   "published": "2026-11-11T23:28:45.000Z",
    "dupes": 1,
    "score": 0.693,
    "tier": 2
   },
   {
-   "id": "d8ef3fe6591f506ad313f2e5f97a57449f56558c",
-   "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
-   "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec",
-   "source": "TechCrunch",
+   "id": "f28f90d2895a812ca579d518fcae44bbc0ce22af",
+   "title": "Gilbert + Tobin rethinks the business of law with AI",
+   "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+   "published": "2026-11-12T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.693,
+   "tier": 2
+  },
+  {
+   "id": "2965feb8b5ecf244bb99beb25fe8990f3827c64d",
+   "title": "What we know as pressure builds on embattled Nvidia CEO Jensen Huang",
+   "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Technology",
    "org": [
     "nvidia"
    ],
    "topic": "compute",
-   "tldr": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
-   "published": "2026-11-11T23:17:05.000Z",
+   "tldr": "The billionaire tech executive's future is in question after reports of a second extramarital affair.",
+   "published": "2026-11-12T04:18:33.000Z",
    "dupes": 1,
-   "score": 0.692,
+   "score": 0.678,
    "tier": 2
   },
   {
@@ -118,8 +166,53 @@
    "tldr": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
    "published": "2026-11-11T15:00:15.000Z",
    "dupes": 1,
-   "score": 0.69,
+   "score": 0.662,
    "tier": 2
+  },
+  {
+   "id": "40b3469495104d523d4b21d24709cbce7ca308fe",
+   "title": "Using wearables to enable cardiovascular-kidney-metabolic (CKM) risk profiling for personalized coaching",
+   "url": "https://research.google/blog/using-wearables-to-enable-cardiovascular-kidney-metabolic-ckm-risk-profiling-for-personalized-coaching",
+   "source": "Google Research",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Health & Bioscience",
+   "published": "2026-11-11T19:54:00.000Z",
+   "dupes": 1,
+   "score": 0.662,
+   "tier": 2
+  },
+  {
+   "id": "b91248042740580a6fd2c0ea3e773ef7117d2b36",
+   "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+   "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang",
+   "source": "TechCrunch",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
+   "published": "2026-11-11T23:28:45.000Z",
+   "dupes": 1,
+   "score": 0.659,
+   "tier": 2
+  },
+  {
+   "id": "d8ef3fe6591f506ad313f2e5f97a57449f56558c",
+   "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+   "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec",
+   "source": "TechCrunch",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
+   "published": "2026-11-11T23:17:05.000Z",
+   "dupes": 1,
+   "score": 0.658,
+   "tier": 3
   },
   {
    "id": "c2f79d0f0a9a002f432ec4bb0ba56b18074001a7",
@@ -135,8 +228,8 @@
    "tldr": "Latest example of the AI boom’s circular financing comes as AI trade wobbles.",
    "published": "2026-11-11T18:16:40.000Z",
    "dupes": 1,
-   "score": 0.679,
-   "tier": 2
+   "score": 0.648,
+   "tier": 3
   },
   {
    "id": "cce714811b519a82922e4ba72c95cc2532e1ab7f",
@@ -150,8 +243,8 @@
    "tldr": "",
    "published": "2026-11-11T18:32:42.000Z",
    "dupes": 1,
-   "score": 0.677,
-   "tier": 2
+   "score": 0.642,
+   "tier": 3
   },
   {
    "id": "80b38ea7da372c49e059a0a93b8b44c1ad9ac0e2",
@@ -165,8 +258,8 @@
    "tldr": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus.  See how they use it to prepare for civilian careers.",
    "published": "2026-11-11T08:00:00.000Z",
    "dupes": 1,
-   "score": 0.666,
-   "tier": 2
+   "score": 0.641,
+   "tier": 3
   },
   {
    "id": "2ed3a890d3d8bbd2d6609ad76bfad00c62941b0f",
@@ -180,8 +273,8 @@
    "tldr": "7 billion the company recorded in the second quarter.",
    "published": "2026-11-11T16:14:44.000Z",
    "dupes": 1,
-   "score": 0.663,
-   "tier": 2
+   "score": 0.633,
+   "tier": 3
   },
   {
    "id": "8c999d6885d24711e9176d230ab5bde4e8521195",
@@ -195,22 +288,7 @@
    "tldr": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale.  Read his lessons on evals, guardrails, and taking AI into production.",
    "published": "2026-11-11T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.642,
-   "tier": 2
-  },
-  {
-   "id": "972eb5c163be44e309c45b2f5755a01543b21cc8",
-   "title": "Microsoft fixes audio issues caused by September security updates",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates",
-   "source": "BleepingComputer",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "security",
-   "tldr": "Microsoft says the November 2026 cumulative updates resolve USB audio issues plaguing Windows users who have installed security updates released since September.",
-   "published": "2026-11-11T11:18:36.000Z",
-   "dupes": 1,
-   "score": 0.637,
+   "score": 0.622,
    "tier": 3
   },
   {
@@ -225,7 +303,22 @@
    "tldr": "Vision AI and robotics pick what’s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousands of tons of materials from landfills.",
    "published": "2026-11-11T03:00:20.000Z",
    "dupes": 1,
-   "score": 0.635,
+   "score": 0.613,
+   "tier": 3
+  },
+  {
+   "id": "972eb5c163be44e309c45b2f5755a01543b21cc8",
+   "title": "Microsoft fixes audio issues caused by September security updates",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates",
+   "source": "BleepingComputer",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "security",
+   "tldr": "Microsoft says the November 2026 cumulative updates resolve USB audio issues plaguing Windows users who have installed security updates released since September.",
+   "published": "2026-11-11T11:18:36.000Z",
+   "dupes": 1,
+   "score": 0.611,
    "tier": 3
   },
   {
@@ -240,52 +333,7 @@
    "tldr": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
    "published": "2026-11-11T07:30:51.000Z",
    "dupes": 1,
-   "score": 0.632,
-   "tier": 3
-  },
-  {
-   "id": "0921b61b585bdf4e09dd984fd358de1872c92b8f",
-   "title": "NASA's secret weapon in the lunar space race may be ... procurement reform?",
-   "url": "https://arstechnica.com/space/2026/11/nasa-takes-an-all-hands-on-deck-approach-in-its-return-to-the-moon",
-   "source": "Ars Technica",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "\"The pace that's occurring, and the nature of the procurements, is unprecedented.\"",
-   "published": "2026-11-11T19:00:26.000Z",
-   "dupes": 2,
-   "score": 0.63,
-   "tier": 3
-  },
-  {
-   "id": "ba110c77735afadee6dbc06fc07cdc04b7df8786",
-   "title": "Microsoft fixes Exchange sign-ins broken by Windows Server updates",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates",
-   "source": "BleepingComputer",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "security",
-   "tldr": "Microsoft has fixed Outlook sign-in and mail delivery issues on Exchange Server systems after installing the October 2026 Windows Server security updates.",
-   "published": "2026-11-11T09:07:27.000Z",
-   "dupes": 1,
-   "score": 0.629,
-   "tier": 3
-  },
-  {
-   "id": "a86af765ffafecbaf7c66e14afcad62f5e69b139",
-   "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
-   "source": "The Verge AI",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold…",
-   "published": "2026-11-11T15:00:00.000Z",
-   "dupes": 1,
-   "score": 0.626,
+   "score": 0.608,
    "tier": 3
   },
   {
@@ -300,37 +348,22 @@
    "tldr": "",
    "published": "2026-11-10T16:03:47.000Z",
    "dupes": 1,
-   "score": 0.623,
+   "score": 0.606,
    "tier": 3
   },
   {
-   "id": "44096b209ce3f9975082bb36d0a9f79116bad255",
-   "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
-   "url": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
-   "source": "The Hacker News",
+   "id": "ba110c77735afadee6dbc06fc07cdc04b7df8786",
+   "title": "Microsoft fixes Exchange sign-ins broken by Windows Server updates",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates",
+   "source": "BleepingComputer",
    "org": [
     "microsoft"
    ],
    "topic": "security",
-   "tldr": "Microsoft on Tuesday released patches for a total of 1,259 vulnerabilities spanning its software portfolio, the second consecutive month where the patch volume has exceeded 1,000 flaws.  These cover 726 flaws in…",
-   "published": "2026-11-11T08:17:53.000Z",
+   "tldr": "Microsoft has fixed Outlook sign-in and mail delivery issues on Exchange Server systems after installing the October 2026 Windows Server security updates.",
+   "published": "2026-11-11T09:07:27.000Z",
    "dupes": 1,
-   "score": 0.619,
-   "tier": 3
-  },
-  {
-   "id": "e23f07d99f928138a0d8e7f0eed966309ad1b094",
-   "title": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons",
-   "url": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html",
-   "source": "The Hacker News",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "security",
-   "tldr": "An AI model can be given a hidden backdoor by editing fewer than 10 of its rarely used neurons, without retraining the model, Microsoft researchers have shown.  When a chosen trigger appears, the model outputs an…",
-   "published": "2026-11-11T07:21:05.000Z",
-   "dupes": 1,
-   "score": 0.616,
+   "score": 0.604,
    "tier": 3
   },
   {
@@ -345,22 +378,7 @@
    "tldr": "S.  cities, helping them build practical AI skills for everyday life.",
    "published": "2026-11-10T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.614,
-   "tier": 3
-  },
-  {
-   "id": "f8c1a7370c130fe58cc9d833fbc0c3d7d581f8a4",
-   "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-   "url": "https://deepmind.google/blog/introducing-alphaproof-code",
-   "source": "Google DeepMind",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
-   "published": "2026-11-10T12:02:28.000Z",
-   "dupes": 1,
-   "score": 0.614,
+   "score": 0.599,
    "tier": 3
   },
   {
@@ -375,7 +393,37 @@
    "tldr": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software.  This month's Patch Tuesday addresses 63…",
    "published": "2026-11-10T21:55:03.000Z",
    "dupes": 1,
-   "score": 0.613,
+   "score": 0.594,
+   "tier": 3
+  },
+  {
+   "id": "44096b209ce3f9975082bb36d0a9f79116bad255",
+   "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
+   "url": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
+   "source": "The Hacker News",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "security",
+   "tldr": "Microsoft on Tuesday released patches for a total of 1,259 vulnerabilities spanning its software portfolio, the second consecutive month where the patch volume has exceeded 1,000 flaws.  These cover 726 flaws in…",
+   "published": "2026-11-11T08:17:53.000Z",
+   "dupes": 1,
+   "score": 0.594,
+   "tier": 3
+  },
+  {
+   "id": "e23f07d99f928138a0d8e7f0eed966309ad1b094",
+   "title": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons",
+   "url": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html",
+   "source": "The Hacker News",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "security",
+   "tldr": "An AI model can be given a hidden backdoor by editing fewer than 10 of its rarely used neurons, without retraining the model, Microsoft researchers have shown.  When a chosen trigger appears, the model outputs an…",
+   "published": "2026-11-11T07:21:05.000Z",
+   "dupes": 1,
+   "score": 0.592,
    "tier": 3
   },
   {
@@ -393,37 +441,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.607,
-   "tier": 3
-  },
-  {
-   "id": "9914bb09b775fc186638ced9676bcb5935bb37d9",
-   "title": "Microsoft releases Windows 10 KB5131096 extended security update",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update",
-   "source": "BleepingComputer",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "security",
-   "tldr": "Microsoft released the Windows 10 KB5131096 extended security update, which includes this month's November 2026 Patch Tuesday fixes and a few bug fixes and changes.",
-   "published": "2026-11-10T20:04:36.000Z",
-   "dupes": 1,
-   "score": 0.592,
-   "tier": 3
-  },
-  {
-   "id": "be4258d83bc4fcfc6beb12d0bb0b659f7ded6b9c",
-   "title": "Senate committee takes up nominees for NASA chief financial officer and inspector general",
-   "url": "https://spacenews.com/senate-committee-takes-up-nominees-for-nasa-chief-financial-officer-and-inspector-general",
-   "source": "SpaceNews",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "A Senate committee is set to advance nominations for NASA’s chief financial officer and inspector general.  The post Senate committee takes up nominees for NASA chief financial officer and inspector general appeared…",
-   "published": "2026-11-12T00:00:18.000Z",
-   "dupes": 1,
-   "score": 0.588,
+   "score": 0.59,
    "tier": 3
   },
   {
@@ -438,7 +456,7 @@
    "tldr": "Huang faces a board probe as investors fret over Nvidia’s lack of a clear successor.",
    "published": "2026-11-10T14:53:05.000Z",
    "dupes": 1,
-   "score": 0.58,
+   "score": 0.564,
    "tier": 3
   },
   {
@@ -453,7 +471,22 @@
    "tldr": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses.",
    "published": "2026-11-10T09:23:55.000Z",
    "dupes": 1,
-   "score": 0.577,
+   "score": 0.563,
+   "tier": 3
+  },
+  {
+   "id": "0921b61b585bdf4e09dd984fd358de1872c92b8f",
+   "title": "NASA's secret weapon in the lunar space race may be ... procurement reform?",
+   "url": "https://arstechnica.com/space/2026/11/nasa-takes-an-all-hands-on-deck-approach-in-its-return-to-the-moon",
+   "source": "Ars Technica",
+   "org": [
+    "nasa"
+   ],
+   "topic": "space",
+   "tldr": "\"The pace that's occurring, and the nature of the procurements, is unprecedented.\"",
+   "published": "2026-11-11T19:00:26.000Z",
+   "dupes": 2,
+   "score": 0.559,
    "tier": 3
   },
   {
@@ -468,22 +501,7 @@
    "tldr": "AI safety regulator will also be created after a rogue OpenAI agent hacked government websites.",
    "published": "2026-11-10T05:22:39.000Z",
    "dupes": 1,
-   "score": 0.57,
-   "tier": 3
-  },
-  {
-   "id": "7cd5e10290710b740d163a4497960e7669c9ee97",
-   "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
-   "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Simulation, which has long been the proving ground for robots learning to walk, roll and hop, is now helping researchers teach robots tasks that require a finer touch: aligning gears, connecting cables and assembling…",
-   "published": "2026-11-09T14:00:01.000Z",
-   "dupes": 1,
-   "score": 0.564,
+   "score": 0.557,
    "tier": 3
   },
   {
@@ -499,22 +517,7 @@
    "tldr": "2 models, which it said exhibit improvements in coding, reasoning, and vision.",
    "published": "2026-11-10T08:16:14.000Z",
    "dupes": 1,
-   "score": 0.559,
-   "tier": 3
-  },
-  {
-   "id": "ed37d32e2c4addf927b1476f215b96c91b41f738",
-   "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
-   "url": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Jensen Huang is being investigated by his own company over an extramarital affair with a woman alleged to be a Chinese spy.",
-   "published": "2026-11-09T21:52:28.000Z",
-   "dupes": 1,
-   "score": 0.558,
+   "score": 0.545,
    "tier": 3
   },
   {
@@ -529,52 +532,37 @@
    "tldr": "Google on Monday released updates to patch nine security vulnerabilities, including one that has come under active exploitation in the wild.  8), has been described as a use-after-free bug in the XML component.",
    "published": "2026-11-10T06:52:54.000Z",
    "dupes": 1,
-   "score": 0.557,
+   "score": 0.543,
    "tier": 3
   },
   {
-   "id": "747a32850c5bfb2d8a8fccf774f945f02f7b9cf4",
-   "title": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
-   "url": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities",
-   "source": "NASA",
+   "id": "be4258d83bc4fcfc6beb12d0bb0b659f7ded6b9c",
+   "title": "Senate committee takes up nominees for NASA chief financial officer and inspector general",
+   "url": "https://spacenews.com/senate-committee-takes-up-nominees-for-nasa-chief-financial-officer-and-inspector-general",
+   "source": "SpaceNews",
    "org": [
     "nasa"
    ],
    "topic": "space",
-   "tldr": "Launched nearly 50 years ago in 1977, NASA’s Voyager 1 on Wednesday, Nov.  9 billion kilometers).",
-   "published": "2026-11-10T19:22:45.000Z",
+   "tldr": "A Senate committee is set to advance nominations for NASA’s chief financial officer and inspector general.  The post Senate committee takes up nominees for NASA chief financial officer and inspector general appeared…",
+   "published": "2026-11-12T00:00:18.000Z",
    "dupes": 1,
-   "score": 0.548,
+   "score": 0.516,
    "tier": 3
   },
   {
-   "id": "668b2cfb3ed00d571ce363ec17edfa749b57aeda",
-   "title": "NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston",
-   "url": "https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston",
-   "source": "NASA",
+   "id": "a2c922a06d73cc0003e5d2fe2a616146160d76e8",
+   "title": "Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room",
+   "url": "https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html",
+   "source": "The Hacker News",
    "org": [
-    "nasa"
+    "openai"
    ],
-   "topic": "space",
-   "tldr": "NASA will welcome home the Expedition 74 crew during a public event at Space Center Houston following their return from a long-duration mission aboard the International Space Station.",
-   "published": "2026-11-10T18:06:33.000Z",
+   "topic": "security",
+   "tldr": "The OpenAI engineer who was arrested and charged last month for planting a covert audio recording device in the company's office has pleaded not guilty.  According to reports from Bloomberg and CNBC, Saudi national…",
+   "published": "2026-11-09T07:05:48.000Z",
    "dupes": 1,
-   "score": 0.547,
-   "tier": 3
-  },
-  {
-   "id": "0dad6b31f4094b0b96c32c203fe2d8a76668901a",
-   "title": "NASA Scientists Show How Gravitational Waves Can Reveal New Worlds",
-   "url": "https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds",
-   "source": "NASA",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "The LISA (Laser Interferometer Space Antenna) observatory, now in development, will detect gravitational waves, the tiny ripples in space-time caused by orbiting masses.  Now two studies led by NASA astrophysicists show…",
-   "published": "2026-11-10T16:00:26.000Z",
-   "dupes": 1,
-   "score": 0.545,
+   "score": 0.516,
    "tier": 3
   },
   {
@@ -591,22 +579,7 @@
    "tldr": "Grand Theft Auto 6 has become the most pre-ordered game on the PlayStation Store and Microsoft Store.",
    "published": "2026-11-11T12:10:40.000Z",
    "dupes": 1,
-   "score": 0.538,
-   "tier": 3
-  },
-  {
-   "id": "a2c922a06d73cc0003e5d2fe2a616146160d76e8",
-   "title": "Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room",
-   "url": "https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html",
-   "source": "The Hacker News",
-   "org": [
-    "openai"
-   ],
-   "topic": "security",
-   "tldr": "The OpenAI engineer who was arrested and charged last month for planting a covert audio recording device in the company's office has pleaded not guilty.  According to reports from Bloomberg and CNBC, Saudi national…",
-   "published": "2026-11-09T07:05:48.000Z",
-   "dupes": 1,
-   "score": 0.524,
+   "score": 0.516,
    "tier": 3
   },
   {
@@ -621,37 +594,83 @@
    "tldr": "NVIDIA also gave a look at how its partners, like Ambi Robotics, FieldAI, Flexion, Skild AI, RLWRLD, and more, are using these technologies.  0 at CoRL appeared first on The Robot Report .",
    "published": "2026-11-09T21:52:05.000Z",
    "dupes": 1,
-   "score": 0.523,
+   "score": 0.512,
    "tier": 3
   },
   {
-   "id": "17e04fbcf2b3d16db77a463eb9e94da6cd31c89e",
-   "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits",
-   "url": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
+   "id": "804a43c3361e780767d4dc236daca38f5ccac195",
+   "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
+   "url": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
    "source": "The Hacker News",
    "org": [
-    "openai"
+    "anthropic"
    ],
    "topic": "security",
-   "tldr": "OpenAI on Thursday unveiled GPT‑6 Cyber, which it described as a major step forward in security research that brings together stronger cybersecurity capabilities with a step-change improvement in model alignment.  The…",
-   "published": "2026-11-06T14:58:32.000Z",
+   "tldr": "Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them.  When a user selects \"Yes, and don't ask again,\" Anthropic's…",
+   "published": "2026-11-07T06:44:17.000Z",
+   "badges": [
+    "oss"
+   ],
    "dupes": 1,
-   "score": 0.489,
+   "score": 0.491,
    "tier": 3
   },
   {
-   "id": "649e0d8b078ebcc32bfa5759f08d2619510fe2fb",
-   "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
-   "url": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
-   "source": "The Hacker News",
+   "id": "747a32850c5bfb2d8a8fccf774f945f02f7b9cf4",
+   "title": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
+   "url": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities",
+   "source": "NASA",
    "org": [
-    "microsoft"
+    "nasa"
    ],
-   "topic": "security",
-   "tldr": "A fix for CVE-2026-83844, a remote code execution flaw in Windows Paint, is now in the Microsoft Store.  Paint gets this fix only through a Store update, not through Windows updates.",
-   "published": "2026-11-06T12:06:43.000Z",
+   "topic": "space",
+   "tldr": "Launched nearly 50 years ago in 1977, NASA’s Voyager 1 on Wednesday, Nov.  9 billion kilometers).",
+   "published": "2026-11-10T19:22:45.000Z",
    "dupes": 1,
-   "score": 0.489,
+   "score": 0.484,
+   "tier": 3
+  },
+  {
+   "id": "668b2cfb3ed00d571ce363ec17edfa749b57aeda",
+   "title": "NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston",
+   "url": "https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston",
+   "source": "NASA",
+   "org": [
+    "nasa"
+   ],
+   "topic": "space",
+   "tldr": "NASA will welcome home the Expedition 74 crew during a public event at Space Center Houston following their return from a long-duration mission aboard the International Space Station.",
+   "published": "2026-11-10T18:06:33.000Z",
+   "dupes": 1,
+   "score": 0.483,
+   "tier": 3
+  },
+  {
+   "id": "0dad6b31f4094b0b96c32c203fe2d8a76668901a",
+   "title": "NASA Scientists Show How Gravitational Waves Can Reveal New Worlds",
+   "url": "https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds",
+   "source": "NASA",
+   "org": [
+    "nasa"
+   ],
+   "topic": "space",
+   "tldr": "The LISA (Laser Interferometer Space Antenna) observatory, now in development, will detect gravitational waves, the tiny ripples in space-time caused by orbiting masses.  Now two studies led by NASA astrophysicists show…",
+   "published": "2026-11-10T16:00:26.000Z",
+   "dupes": 1,
+   "score": 0.481,
+   "tier": 3
+  },
+  {
+   "id": "3769ee796006ac4514f59b468fb6dc6a5469c3c7",
+   "title": "Scotland’s Flow Country",
+   "url": "https://science.nasa.gov/earth/earth-observatory/scotlands-flow-country",
+   "source": "NASA",
+   "org": [],
+   "topic": "space",
+   "tldr": "Blanket bogs in the Scottish Highlands store vast amounts of carbon.",
+   "published": "2026-11-12T05:01:00.000Z",
+   "dupes": 1,
+   "score": 0.358,
    "tier": 3
   },
   {
@@ -664,7 +683,20 @@
    "tldr": "Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, Nov.  6, 2026 This week Curiosity has been completing its drill campaign at the “Nazca” drill hole.",
    "published": "2026-11-12T00:41:35.000Z",
    "dupes": 1,
-   "score": 0.375,
+   "score": 0.341,
+   "tier": 3
+  },
+  {
+   "id": "279e28d5a980b13226b9b381c819dd320148f44b",
+   "title": "Black Forest Games spins out from THQ Nordic, co-founds indie studio group Third Signal",
+   "url": "https://www.gamesindustry.biz/black-forest-games-spins-out-from-thq-nordic-co-founds-indie-studio-group-third-signal",
+   "source": "GamesIndustry.biz",
+   "org": [],
+   "topic": "gaming",
+   "tldr": "Black Forest Games has separated from THQ Nordic through a management buyout and co-founded an independent game studio group, Third Signal.",
+   "published": "2026-11-12T11:53:40.000Z",
+   "dupes": 1,
+   "score": 0.329,
    "tier": 3
   },
   {
@@ -679,7 +711,20 @@
    "tldr": "PlayStation has cancelled Fairgames, the live-service shooter previously in development at its Montreal-based subsidiary Haven Studios.",
    "published": "2026-11-11T10:40:00.000Z",
    "dupes": 1,
-   "score": 0.362,
+   "score": 0.323,
+   "tier": 3
+  },
+  {
+   "id": "1721d2c71b62b075637189c994966d075e239209",
+   "title": "Laid-off Id Software devs form employee-owned studio Hidden Horses",
+   "url": "https://www.gamesindustry.biz/laid-off-id-software-devs-form-employee-owned-studio-hidden-horses",
+   "source": "GamesIndustry.biz",
+   "org": [],
+   "topic": "gaming",
+   "tldr": "A group of Id Software developers affected by Xbox's mass layoffs have formed an independent, employee-owned studio called Hidden Horses.",
+   "published": "2026-11-12T10:17:40.000Z",
+   "dupes": 1,
+   "score": 0.322,
    "tier": 3
   },
   {
@@ -692,7 +737,20 @@
    "tldr": "\"What's unique is it's got a huge dynamic range.",
    "published": "2026-11-11T20:22:03.000Z",
    "dupes": 1,
-   "score": 0.349,
+   "score": 0.319,
+   "tier": 3
+  },
+  {
+   "id": "ac7b8edac1accd5b3646e1a3440929a144d98651",
+   "title": "Fredrik Wester steps down as Paradox Interactive CEO",
+   "url": "https://www.gamesindustry.biz/fredrik-wester-steps-down-as-paradox-interactive-ceo",
+   "source": "GamesIndustry.biz",
+   "org": [],
+   "topic": "gaming",
+   "tldr": "Paradox Interactive CEO Fredrik Wester is stepping down, with deputy CEO Mattias Lilja assuming the role on January 4, 2027.",
+   "published": "2026-11-12T08:34:30.000Z",
+   "dupes": 1,
+   "score": 0.316,
    "tier": 3
   },
   {
@@ -705,7 +763,7 @@
    "tldr": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
    "published": "2026-11-10T22:35:01.000Z",
    "dupes": 2,
-   "score": 0.332,
+   "score": 0.314,
    "tier": 3
   },
   {
@@ -718,22 +776,7 @@
    "tldr": "Y.  — Moog Inc.",
    "published": "2026-11-11T15:53:57.000Z",
    "dupes": 1,
-   "score": 0.332,
-   "tier": 3
-  },
-  {
-   "id": "07a80e22610c52b76bad9abddc236fe155d92ed0",
-   "title": "PlayStation cancels Ratchet & Clank: Ranger Rumble a year into soft launch",
-   "url": "https://www.gamesindustry.biz/playstation-cancels-ratchet-clank-ranger-rumble-a-year-into-soft-launch",
-   "source": "GamesIndustry.biz",
-   "org": [
-    "sony"
-   ],
-   "topic": "gaming",
-   "tldr": "PlayStation has canceled Ratchet & Clank: Ranger Rumble, its free-to-play mobile spin-off of the platforming series, a year after it entered soft launch.",
-   "published": "2026-11-09T17:37:10.000Z",
-   "dupes": 1,
-   "score": 0.323,
+   "score": 0.304,
    "tier": 3
   },
   {
@@ -748,46 +791,22 @@
    "tldr": "(Karlsruhe, Germany, September 29th 2026) Horizon Microtechnologies is accelerating industrialisation of its metallised polymer micro-additive manufacturing platform through IP-MASS, a two-year scale-up project…",
    "published": "2026-11-11T13:00:00.000Z",
    "dupes": 1,
-   "score": 0.322,
+   "score": 0.296,
    "tier": 3
   },
   {
-   "id": "b08df89588f70e35c8b1a30818eda2b07d962a13",
-   "title": "Serve Robotics opens robot delivery network for others to build on",
-   "url": "https://www.therobotreport.com/serve-robotics-opens-robot-delivery-network-for-others-to-build-on",
-   "source": "The Robot Report",
-   "org": [],
-   "topic": "robotics",
-   "tldr": "Serve Robotics says its on-demand delivery API allows third parties to develop new delivery services on its fleet of more than 2,000 robots.  The post Serve Robotics opens robot delivery network for others to build on…",
-   "published": "2026-11-11T13:43:29.000Z",
+   "id": "07a80e22610c52b76bad9abddc236fe155d92ed0",
+   "title": "PlayStation cancels Ratchet & Clank: Ranger Rumble a year into soft launch",
+   "url": "https://www.gamesindustry.biz/playstation-cancels-ratchet-clank-ranger-rumble-a-year-into-soft-launch",
+   "source": "GamesIndustry.biz",
+   "org": [
+    "sony"
+   ],
+   "topic": "gaming",
+   "tldr": "PlayStation has canceled Ratchet & Clank: Ranger Rumble, its free-to-play mobile spin-off of the platforming series, a year after it entered soft launch.",
+   "published": "2026-11-09T17:37:10.000Z",
    "dupes": 1,
-   "score": 0.309,
-   "tier": 3
-  },
-  {
-   "id": "547614f0a718001d068d9b40389b31cc9ed7253e",
-   "title": "Memories.ai builds standardized egocentric video pipeline",
-   "url": "https://www.therobotreport.com/memories-ai-builds-standardized-egocentric-video-pipeline",
-   "source": "The Robot Report",
-   "org": [],
-   "topic": "robotics",
-   "tldr": "ai provides standardized egocentric video collection and AI-powered annotation to build training data infrastructure for robotics.  ai builds standardized egocentric video pipeline appeared first on The Robot Report .",
-   "published": "2026-11-11T13:00:34.000Z",
-   "dupes": 1,
-   "score": 0.307,
-   "tier": 3
-  },
-  {
-   "id": "4780fdf95517ea56e67a1322c15300a640e35fc7",
-   "title": "Can AI agents program industrial robots without training data? Berkeley says yes",
-   "url": "https://www.therobotreport.com/can-ai-agents-program-industrial-robots-without-training-data-berkeley-says-yes",
-   "source": "The Robot Report",
-   "org": [],
-   "topic": "robotics",
-   "tldr": "UC Berkeley and NVIDIA have released open-source tools for teams of AI coding agents that write, simulate, and refine readable robot programs.  The post Can AI agents program industrial robots without training data?",
-   "published": "2026-11-11T12:55:16.000Z",
-   "dupes": 1,
-   "score": 0.306,
+   "score": 0.291,
    "tier": 3
   },
   {
@@ -800,51 +819,46 @@
    "tldr": "S.  Southwest flooded rivers and rapidly raised New Mexico’s second-largest reservoir.",
    "published": "2026-11-11T05:01:00.000Z",
    "dupes": 1,
-   "score": 0.304,
+   "score": 0.283,
    "tier": 3
   },
   {
-   "id": "742a79191e1f4f9ba316083d4facafbd4fed2a63",
-   "title": "Sensor Tower: GTA 6 pre-orders almost reach 8m, 74% bought on PlayStation 5",
-   "url": "https://www.gamesindustry.biz/sensor-tower-gta-6-pre-orders-almost-reach-8m-74-bought-on-playstation-5",
-   "source": "GamesIndustry.biz",
-   "org": [
-    "sony",
-    "rockstar"
-   ],
-   "topic": "gaming",
-   "tldr": "Grand Theft Auto 6 is two weeks away, and the highly anticipated title has nearly reached eight million pre-orders, according to recent data.",
-   "published": "2026-11-05T14:13:50.000Z",
-   "dupes": 1,
-   "score": 0.302,
-   "tier": 3
-  },
-  {
-   "id": "9c32bcd3c3b11649f880416aedbcdb8f3eb205c4",
-   "title": "PlayStation raises full-year forecast after revenue growth in network services and first-party software",
-   "url": "https://www.gamesindustry.biz/playstation-raises-full-year-forecast-after-revenue-growth-in-network-services-and-first-party-software",
-   "source": "GamesIndustry.biz",
-   "org": [
-    "sony"
-   ],
-   "topic": "gaming",
-   "tldr": "Sony has raised its full-year forecast for its games segment after higher net sales and operating income in the second quarter.",
-   "published": "2026-11-05T11:55:30.000Z",
-   "dupes": 1,
-   "score": 0.302,
-   "tier": 3
-  },
-  {
-   "id": "2464a640b3fba60455c4ef51582b65ea305e18e6",
-   "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
-   "url": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning",
-   "source": "Ars Technica",
+   "id": "b08df89588f70e35c8b1a30818eda2b07d962a13",
+   "title": "Serve Robotics opens robot delivery network for others to build on",
+   "url": "https://www.therobotreport.com/serve-robotics-opens-robot-delivery-network-for-others-to-build-on",
+   "source": "The Robot Report",
    "org": [],
-   "topic": "gaming",
-   "tldr": "Any amount of AI coding is too much for many Independent Games Festival judges.",
-   "published": "2026-11-11T17:37:32.000Z",
+   "topic": "robotics",
+   "tldr": "Serve Robotics says its on-demand delivery API allows third parties to develop new delivery services on its fleet of more than 2,000 robots.  The post Serve Robotics opens robot delivery network for others to build on…",
+   "published": "2026-11-11T13:43:29.000Z",
    "dupes": 1,
-   "score": 0.292,
+   "score": 0.283,
+   "tier": 3
+  },
+  {
+   "id": "547614f0a718001d068d9b40389b31cc9ed7253e",
+   "title": "Memories.ai builds standardized egocentric video pipeline",
+   "url": "https://www.therobotreport.com/memories-ai-builds-standardized-egocentric-video-pipeline",
+   "source": "The Robot Report",
+   "org": [],
+   "topic": "robotics",
+   "tldr": "ai provides standardized egocentric video collection and AI-powered annotation to build training data infrastructure for robotics.  ai builds standardized egocentric video pipeline appeared first on The Robot Report .",
+   "published": "2026-11-11T13:00:34.000Z",
+   "dupes": 1,
+   "score": 0.281,
+   "tier": 3
+  },
+  {
+   "id": "4780fdf95517ea56e67a1322c15300a640e35fc7",
+   "title": "Can AI agents program industrial robots without training data? Berkeley says yes",
+   "url": "https://www.therobotreport.com/can-ai-agents-program-industrial-robots-without-training-data-berkeley-says-yes",
+   "source": "The Robot Report",
+   "org": [],
+   "topic": "robotics",
+   "tldr": "UC Berkeley and NVIDIA have released open-source tools for teams of AI coding agents that write, simulate, and refine readable robot programs.  The post Can AI agents program industrial robots without training data?",
+   "published": "2026-11-11T12:55:16.000Z",
+   "dupes": 1,
+   "score": 0.28,
    "tier": 3
   },
   {
@@ -857,7 +871,7 @@
    "tldr": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
    "published": "2026-11-11T00:19:13.000Z",
    "dupes": 1,
-   "score": 0.277,
+   "score": 0.257,
    "tier": 3
   },
   {
@@ -870,20 +884,7 @@
    "tldr": "The Crew Health and Performance Exploration Analog (CHAPEA) Mission 2 crew arranged photos around a boot print in the simulated Martian sand outside their habitat on Aug.  31, 2026.",
    "published": "2026-11-10T14:57:55.000Z",
    "dupes": 1,
-   "score": 0.27,
-   "tier": 3
-  },
-  {
-   "id": "ab5e2462665fe29edb8b2294618fab05a47cfbe1",
-   "title": "Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities for National Security Missions",
-   "url": "https://spacenews.com/kratos-and-seagate-space-partner-to-advance-mobile-offshore-launch-capabilities-for-national-security-missions",
-   "source": "SpaceNews",
-   "org": [],
-   "topic": "space",
-   "tldr": ", a technology company in defense, national security, and global markets, today announced a long-term agreement with Seagate […] The post Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities…",
-   "published": "2026-11-10T14:00:00.000Z",
-   "dupes": 1,
-   "score": 0.261,
+   "score": 0.255,
    "tier": 3
   },
   {
@@ -896,7 +897,7 @@
    "tldr": "The companies will combine Sixth Wall’s character authoring and alignment with Dynamic Creatures’ mobile, expressive robots.  The post Dynamic Creatures partners with Sixth Wall Studio to bring Hasbro characters to life…",
    "published": "2026-11-10T18:31:17.000Z",
    "dupes": 1,
-   "score": 0.255,
+   "score": 0.238,
    "tier": 3
   },
   {
@@ -911,7 +912,7 @@
    "tldr": "Altera and Intel are working to make it easier to connect diverse sensors, turn data into real-time insights, and develop robotics.  The post Intel and Altera expand collaboration to simplify sensor integration for…",
    "published": "2026-11-10T14:47:10.000Z",
    "dupes": 1,
-   "score": 0.247,
+   "score": 0.232,
    "tier": 3
   },
   {
@@ -924,7 +925,7 @@
    "tldr": "S.  as Axon expands its Drone as First Responder program.",
    "published": "2026-11-10T13:06:58.000Z",
    "dupes": 1,
-   "score": 0.244,
+   "score": 0.229,
    "tier": 3
   },
   {
@@ -939,7 +940,7 @@
    "tldr": "Boston Dynamics combines classical motor control with whole-body reinforcement learning to power dynamic, wheeled locomotion for Atlas.  The post Boston Dynamics adds wheels to Atlas humanoid to test whole-body control…",
    "published": "2026-11-09T18:34:38.000Z",
    "dupes": 1,
-   "score": 0.22,
+   "score": 0.209,
    "tier": 3
   },
   {
@@ -954,7 +955,7 @@
    "tldr": "Brian Donnelly, the VP and GM of logistics robotics at Boston Dynamics, said the new version of Stretch has been in the works for two and a half years.  The post Boston Dynamics built Stretch Gen 2 for reliable,…",
    "published": "2026-11-06T21:34:44.000Z",
    "dupes": 1,
-   "score": 0.197,
+   "score": 0.19,
    "tier": 3
   },
   {
@@ -967,7 +968,7 @@
    "tldr": "The ARM Institute reached the milestone as it prepares to host its 10th annual member meeting in Pittsburgh.  The post ARM Institute consortium grows to more than 500 organizations appeared first on The Robot Report .",
    "published": "2026-11-08T13:00:23.000Z",
    "dupes": 1,
-   "score": 0.187,
+   "score": 0.182,
    "tier": 3
   }
  ]
