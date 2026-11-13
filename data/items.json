@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T01:17:47.460Z",
+ "generated": "2026-11-13T08:21:51.829Z",
  "items": [
   {
    "id": "a8d5fa7d24b3647f4501b383397b571abdcb6905",
@@ -13,7 +13,7 @@
    "tldr": "",
    "published": "2026-11-12T18:00:50.000Z",
    "dupes": 3,
-   "score": 0.868,
+   "score": 0.841,
    "tier": 1
   },
   {
@@ -27,8 +27,8 @@
    "topic": "compute",
    "tldr": "Nvidia CEO also had an affair with a senior executive at the firm.",
    "published": "2026-11-12T14:05:17.000Z",
-   "dupes": 4,
-   "score": 0.838,
+   "dupes": 5,
+   "score": 0.812,
    "tier": 2
   },
   {
@@ -46,7 +46,22 @@
     "oss"
    ],
    "dupes": 2,
-   "score": 0.739,
+   "score": 0.71,
+   "tier": 2
+  },
+  {
+   "id": "0a32920355dca27ab3d8c2b9bf1c67fecf30d43c",
+   "title": "Nvidia employees petition to bring back Jensen Huang",
+   "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return",
+   "source": "Hacker News",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-13T02:16:24.000Z",
+   "dupes": 1,
+   "score": 0.7,
    "tier": 2
   },
   {
@@ -61,7 +76,37 @@
    "tldr": "Chief financial officer Colette Kress in in charge of Nvidia for now, but several others are in the frame as potential successors.",
    "published": "2026-11-12T15:10:32.000Z",
    "dupes": 2,
-   "score": 0.724,
+   "score": 0.698,
+   "tier": 2
+  },
+  {
+   "id": "1704b1c03cb59addbd2582816be8bb9aa891700b",
+   "title": "Service degradation on Microsoft 365",
+   "url": "https://status.cloud.microsoft/",
+   "source": "Hacker News",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-12T18:20:48.000Z",
+   "dupes": 1,
+   "score": 0.694,
+   "tier": 2
+  },
+  {
+   "id": "ea7faee116327d54f8f00365820dfba2e0a4601b",
+   "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+   "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Technology",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
+   "published": "2026-11-13T03:57:01.000Z",
+   "dupes": 1,
+   "score": 0.694,
    "tier": 2
   },
   {
@@ -76,22 +121,37 @@
    "tldr": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
    "published": "2026-11-12T20:00:00.000Z",
    "dupes": 1,
-   "score": 0.722,
+   "score": 0.692,
    "tier": 2
   },
   {
-   "id": "ea7faee116327d54f8f00365820dfba2e0a4601b",
-   "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-   "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
+   "id": "35eb1824f5c6cbfad1270318629ccf29123de13f",
+   "title": "Global Microsoft Outage",
+   "url": "https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk",
+   "source": "Hacker News",
    "org": [
-    "nvidia"
+    "microsoft"
    ],
-   "topic": "compute",
-   "tldr": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
-   "published": "2026-11-12T23:34:05.000Z",
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-13T06:18:23.000Z",
    "dupes": 1,
-   "score": 0.706,
+   "score": 0.676,
+   "tier": 2
+  },
+  {
+   "id": "a30e0ab0254296ebe1a77dd454794bf5ffa4191a",
+   "title": "Microsoft Outlook/365 still down after 12 hours",
+   "url": "https://twitter.com/MSFT365Status/status/2121079061774491735",
+   "source": "Hacker News",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-13T05:08:23.000Z",
+   "dupes": 1,
+   "score": 0.675,
    "tier": 2
   },
   {
@@ -109,7 +169,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.705,
+   "score": 0.674,
    "tier": 2
   },
   {
@@ -124,22 +184,7 @@
    "tldr": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
    "published": "2026-11-12T22:42:51.000Z",
    "dupes": 1,
-   "score": 0.702,
-   "tier": 2
-  },
-  {
-   "id": "1704b1c03cb59addbd2582816be8bb9aa891700b",
-   "title": "Service degradation on Microsoft 365",
-   "url": "https://status.cloud.microsoft/",
-   "source": "Hacker News",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-11-12T18:20:48.000Z",
-   "dupes": 1,
-   "score": 0.698,
+   "score": 0.671,
    "tier": 2
   },
   {
@@ -154,22 +199,7 @@
    "tldr": "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon.",
    "published": "2026-11-12T19:23:03.000Z",
    "dupes": 1,
-   "score": 0.695,
-   "tier": 2
-  },
-  {
-   "id": "81bcb5c122b27570a5e3e8958fb62fa842e9ab61",
-   "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
-   "url": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks",
-   "source": "Ars Technica",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Families confront Google after teen’s lawsuit labels Gemini a “suicide coach.”",
-   "published": "2026-11-12T18:57:45.000Z",
-   "dupes": 1,
-   "score": 0.693,
+   "score": 0.666,
    "tier": 2
   },
   {
@@ -184,37 +214,22 @@
    "tldr": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
    "published": "2026-11-12T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.689,
-   "tier": 2
+   "score": 0.664,
+   "tier": 3
   },
   {
-   "id": "a1916f9c67d7225a18111fa987522d39e16377ce",
-   "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide",
-   "source": "BleepingComputer",
+   "id": "81bcb5c122b27570a5e3e8958fb62fa842e9ab61",
+   "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
+   "url": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks",
+   "source": "Ars Technica",
    "org": [
-    "microsoft"
+    "google"
    ],
-   "topic": "security",
-   "tldr": "Microsoft is investigating a widespread outage affecting multiple Microsoft 365 services, including Outlook, Microsoft Teams, and Copilot, as users report connectivity problems worldwide.",
-   "published": "2026-11-12T20:15:16.000Z",
+   "topic": "ai",
+   "tldr": "Families confront Google after teen’s lawsuit labels Gemini a “suicide coach.”",
+   "published": "2026-11-12T18:57:45.000Z",
    "dupes": 1,
-   "score": 0.683,
-   "tier": 2
-  },
-  {
-   "id": "91eeb3c1136d91284cfc5eb2b9d2c4e07248949c",
-   "title": "A New Dawn in the Cloud: ‘Warhammer 40,000: Dawn of War IV’ Is Coming to GeForce NOW",
-   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Rally the ranks this GFN Thursday.  Warhammer 40,000: Dawn of War IV is coming to GeForce NOW, allowing players to experience the battle for Kronus through cloud gaming.",
-   "published": "2026-11-12T14:00:59.000Z",
-   "dupes": 1,
-   "score": 0.681,
+   "score": 0.664,
    "tier": 3
   },
   {
@@ -229,7 +244,37 @@
    "tldr": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
    "published": "2026-11-12T09:30:00.000Z",
    "dupes": 1,
-   "score": 0.68,
+   "score": 0.657,
+   "tier": 3
+  },
+  {
+   "id": "91eeb3c1136d91284cfc5eb2b9d2c4e07248949c",
+   "title": "A New Dawn in the Cloud: ‘Warhammer 40,000: Dawn of War IV’ Is Coming to GeForce NOW",
+   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Rally the ranks this GFN Thursday.  Warhammer 40,000: Dawn of War IV is coming to GeForce NOW, allowing players to experience the battle for Kronus through cloud gaming.",
+   "published": "2026-11-12T14:00:59.000Z",
+   "dupes": 1,
+   "score": 0.655,
+   "tier": 3
+  },
+  {
+   "id": "a1916f9c67d7225a18111fa987522d39e16377ce",
+   "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide",
+   "source": "BleepingComputer",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "security",
+   "tldr": "Microsoft is investigating a widespread outage affecting multiple Microsoft 365 services, including Outlook, Microsoft Teams, and Copilot, as users report connectivity problems worldwide.",
+   "published": "2026-11-12T20:15:16.000Z",
+   "dupes": 1,
+   "score": 0.653,
    "tier": 3
   },
   {
@@ -244,7 +289,7 @@
    "tldr": "The first Gemini smartglasses are a collab between Google, Samsung, Gentle Monster, and Warby Parker.",
    "published": "2026-11-12T14:50:17.000Z",
    "dupes": 1,
-   "score": 0.676,
+   "score": 0.65,
    "tier": 3
   },
   {
@@ -259,22 +304,7 @@
    "tldr": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal.  He was using his influence to push the AI industry in some very specific ways.",
    "published": "2026-11-12T16:32:33.000Z",
    "dupes": 1,
-   "score": 0.675,
-   "tier": 3
-  },
-  {
-   "id": "3403360ccc1df753cef2b348364e95c4489ba5c7",
-   "title": "Google’s new Gemini model is better at understanding complicated questions",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
-   "source": "The Verge AI",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "\" The new model can break down your questions and address each part in its responses.",
-   "published": "2026-11-12T21:55:32.000Z",
-   "dupes": 1,
-   "score": 0.667,
+   "score": 0.648,
    "tier": 3
   },
   {
@@ -289,7 +319,7 @@
    "tldr": "S.  Air Force Thunderbirds create a heart-shaped smoke trail during a flight maneuver near NASA’s Vehicle Assembly Building during the agency’s MAX POWER expo and air show on Sunday, Nov.",
    "published": "2026-11-12T19:12:49.000Z",
    "dupes": 1,
-   "score": 0.667,
+   "score": 0.629,
    "tier": 3
   },
   {
@@ -304,40 +334,7 @@
    "tldr": "The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Alyssa Villanueva, Steve Howell, and Samuel LeBlanc.  Their commitment to the NASA mission represents the…",
    "published": "2026-11-12T17:54:32.000Z",
    "dupes": 1,
-   "score": 0.662,
-   "tier": 3
-  },
-  {
-   "id": "b06379671ede1f625c58d8bbc9930e4829995069",
-   "title": "Supporting research on AI and children’s safety",
-   "url": "https://openai.com/index/children-first-declaration",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI commits $2 million to research on AI and children’s safety.  The work supports shared tools to measure risks and opportunities for young people.",
-   "published": "2026-11-12T00:00:00.000Z",
-   "badges": [
-    "research"
-   ],
-   "dupes": 1,
-   "score": 0.65,
-   "tier": 3
-  },
-  {
-   "id": "f28f90d2895a812ca579d518fcae44bbc0ce22af",
-   "title": "Gilbert + Tobin rethinks the business of law with AI",
-   "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
-   "published": "2026-11-12T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.65,
+   "score": 0.627,
    "tier": 3
   },
   {
@@ -352,7 +349,7 @@
    "tldr": "Microsoft has confirmed that Windows updates released since the October 2026 Patch Tuesday are causing SQL Server performance and stability issues.",
    "published": "2026-11-12T12:11:11.000Z",
    "dupes": 1,
-   "score": 0.65,
+   "score": 0.625,
    "tier": 3
   },
   {
@@ -367,22 +364,7 @@
    "tldr": "A gallery of gravitational lenses captured by NASA’s Hubble Space Telescope showcases the diversity of this cosmic phenomenon and lays the groundwork for follow-up observations by the Nancy Grace Roman Space Telescope.",
    "published": "2026-11-12T13:18:40.000Z",
    "dupes": 1,
-   "score": 0.644,
-   "tier": 3
-  },
-  {
-   "id": "9cc76679e880bb38639931ebf5128a43d579b09d",
-   "title": "Through NASA’s Lens: Capturing Space Shuttle Endeavour’s Move to LA",
-   "url": "https://www.nasa.gov/centers-and-facilities/armstrong/through-nasas-lens-capturing-space-shuttle-endeavours-move-to-la",
-   "source": "NASA",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "As a new exhibit opens showcasing NASA’s space shuttle Endeavour, NASA photographers look back at the final mission.  These photographers documented the iconic images shared around the world on Sept.",
-   "published": "2026-11-12T13:00:00.000Z",
-   "dupes": 1,
-   "score": 0.643,
+   "score": 0.619,
    "tier": 3
   },
   {
@@ -397,7 +379,37 @@
    "tldr": "Microsoft has confirmed reports that the November 2026 security updates are failing to install on Windows 11 systems with the October preview update.",
    "published": "2026-11-12T10:24:07.000Z",
    "dupes": 1,
-   "score": 0.643,
+   "score": 0.619,
+   "tier": 3
+  },
+  {
+   "id": "0921b61b585bdf4e09dd984fd358de1872c92b8f",
+   "title": "NASA's secret weapon in the lunar space race may be ... procurement reform?",
+   "url": "https://arstechnica.com/space/2026/11/nasa-takes-an-all-hands-on-deck-approach-in-its-return-to-the-moon",
+   "source": "Ars Technica",
+   "org": [
+    "nasa"
+   ],
+   "topic": "space",
+   "tldr": "\"The pace that's occurring, and the nature of the procurements, is unprecedented.\"",
+   "published": "2026-11-11T19:00:26.000Z",
+   "dupes": 2,
+   "score": 0.618,
+   "tier": 3
+  },
+  {
+   "id": "9cc76679e880bb38639931ebf5128a43d579b09d",
+   "title": "Through NASA’s Lens: Capturing Space Shuttle Endeavour’s Move to LA",
+   "url": "https://www.nasa.gov/centers-and-facilities/armstrong/through-nasas-lens-capturing-space-shuttle-endeavours-move-to-la",
+   "source": "NASA",
+   "org": [
+    "nasa"
+   ],
+   "topic": "space",
+   "tldr": "As a new exhibit opens showcasing NASA’s space shuttle Endeavour, NASA photographers look back at the final mission.  These photographers documented the iconic images shared around the world on Sept.",
+   "published": "2026-11-12T13:00:00.000Z",
+   "dupes": 1,
+   "score": 0.618,
    "tier": 3
   },
   {
@@ -413,7 +425,7 @@
    "tldr": "Google Cloud VMs on AMD Turin chips need a guest OS patch and a stop-and-start to protect against three CPU side-channel flaws, Google said this week.  The company has already applied mitigations against attacks between…",
    "published": "2026-11-12T12:09:14.000Z",
    "dupes": 1,
-   "score": 0.641,
+   "score": 0.617,
    "tier": 3
   },
   {
@@ -428,22 +440,7 @@
    "tldr": "Since mid-August 2026, a phishing operation has been stealing live Google sessions from corporate users.  Every check defenders normally lean on to judge a link came back clean, and the operator designed it that way on…",
    "published": "2026-11-12T11:51:31.000Z",
    "dupes": 1,
-   "score": 0.64,
-   "tier": 3
-  },
-  {
-   "id": "0921b61b585bdf4e09dd984fd358de1872c92b8f",
-   "title": "NASA's secret weapon in the lunar space race may be ... procurement reform?",
-   "url": "https://arstechnica.com/space/2026/11/nasa-takes-an-all-hands-on-deck-approach-in-its-return-to-the-moon",
-   "source": "Ars Technica",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "\"The pace that's occurring, and the nature of the procurements, is unprecedented.\"",
-   "published": "2026-11-11T19:00:26.000Z",
-   "dupes": 2,
-   "score": 0.634,
+   "score": 0.616,
    "tier": 3
   },
   {
@@ -458,22 +455,7 @@
    "tldr": "NVIDIA is replacing co-founder Jensen Huang with Collette Kress as CEO and Harvey C.  Jones as board chair as it faces trade scrutiny.",
    "published": "2026-11-12T16:33:17.000Z",
    "dupes": 1,
-   "score": 0.633,
-   "tier": 3
-  },
-  {
-   "id": "d68f526af6ae195ea57b84d71eb2acbfe7870d83",
-   "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-   "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
-   "published": "2026-11-10T22:52:15.000Z",
-   "dupes": 2,
-   "score": 0.619,
+   "score": 0.608,
    "tier": 3
   },
   {
@@ -490,7 +472,7 @@
    "tldr": "Latest example of the AI boom’s circular financing comes as AI trade wobbles.",
    "published": "2026-11-11T18:16:40.000Z",
    "dupes": 1,
-   "score": 0.61,
+   "score": 0.594,
    "tier": 3
   },
   {
@@ -505,7 +487,7 @@
    "tldr": "A Senate committee is set to advance nominations for NASA’s chief financial officer and inspector general.  The post Senate committee takes up nominees for NASA chief financial officer and inspector general appeared…",
    "published": "2026-11-12T00:00:18.000Z",
    "dupes": 1,
-   "score": 0.594,
+   "score": 0.577,
    "tier": 3
   },
   {
@@ -520,7 +502,7 @@
    "tldr": "Vision AI and robotics pick what’s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousands of tons of materials from landfills.",
    "published": "2026-11-11T03:00:20.000Z",
    "dupes": 1,
-   "score": 0.586,
+   "score": 0.575,
    "tier": 3
   },
   {
@@ -538,7 +520,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.57,
+   "score": 0.561,
    "tier": 3
   },
   {
@@ -553,7 +535,22 @@
    "tldr": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software.  This month's Patch Tuesday addresses 63…",
    "published": "2026-11-10T21:55:03.000Z",
    "dupes": 1,
-   "score": 0.57,
+   "score": 0.56,
+   "tier": 3
+  },
+  {
+   "id": "d68f526af6ae195ea57b84d71eb2acbfe7870d83",
+   "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+   "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Technology",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
+   "published": "2026-11-10T22:52:15.000Z",
+   "dupes": 1,
+   "score": 0.553,
    "tier": 3
   },
   {
@@ -568,7 +565,7 @@
    "tldr": "Microsoft on Tuesday released patches for a total of 1,259 vulnerabilities spanning its software portfolio, the second consecutive month where the patch volume has exceeded 1,000 flaws.  These cover 726 flaws in…",
    "published": "2026-11-11T08:17:53.000Z",
    "dupes": 1,
-   "score": 0.564,
+   "score": 0.551,
    "tier": 3
   },
   {
@@ -583,22 +580,22 @@
    "tldr": "An AI model can be given a hidden backdoor by editing fewer than 10 of its rarely used neurons, without retraining the model, Microsoft researchers have shown.  When a chosen trigger appears, the model outputs an…",
    "published": "2026-11-11T07:21:05.000Z",
    "dupes": 1,
-   "score": 0.562,
+   "score": 0.55,
    "tier": 3
   },
   {
-   "id": "42ec1e7471a416705847d581726dcb9152f0538a",
-   "title": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
-   "url": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
+   "id": "7cd5e10290710b740d163a4497960e7669c9ee97",
+   "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
+   "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl",
+   "source": "NVIDIA Blog",
    "org": [
     "nvidia"
    ],
    "topic": "compute",
-   "tldr": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses.",
-   "published": "2026-11-10T09:23:55.000Z",
+   "tldr": "Simulation, which has long been the proving ground for robots learning to walk, roll and hop, is now helping researchers teach robots tasks that require a finer touch: aligning gears, connecting cables and assembling…",
+   "published": "2026-11-09T14:00:01.000Z",
    "dupes": 1,
-   "score": 0.545,
+   "score": 0.538,
    "tier": 3
   },
   {
@@ -614,7 +611,7 @@
    "tldr": "2 models, which it said exhibit improvements in coding, reasoning, and vision.",
    "published": "2026-11-10T08:16:14.000Z",
    "dupes": 1,
-   "score": 0.528,
+   "score": 0.521,
    "tier": 3
   },
   {
@@ -629,20 +626,7 @@
    "tldr": "Google on Monday released updates to patch nine security vulnerabilities, including one that has come under active exploitation in the wild.  8), has been described as a use-after-free bug in the XML component.",
    "published": "2026-11-10T06:52:54.000Z",
    "dupes": 1,
-   "score": 0.526,
-   "tier": 3
-  },
-  {
-   "id": "86013c2901eeeb33eb771832c1e677f463e893ac",
-   "title": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
-   "url": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw",
-   "source": "BleepingComputer",
-   "org": [],
-   "topic": "security",
-   "tldr": "A critical vulnerability in the HTTP/2 module of Apache HTTP Server could be exploited by an unauthenticated attacker to obtain remote code execution (RCE).",
-   "published": "2026-11-12T19:12:55.000Z",
-   "dupes": 4,
-   "score": 0.523,
+   "score": 0.519,
    "tier": 3
   },
   {
@@ -657,7 +641,20 @@
    "tldr": "NVIDIA also gave a look at how its partners, like Ambi Robotics, FieldAI, Flexion, Skild AI, RLWRLD, and more, are using these technologies.  0 at CoRL appeared first on The Robot Report .",
    "published": "2026-11-09T21:52:05.000Z",
    "dupes": 1,
-   "score": 0.499,
+   "score": 0.494,
+   "tier": 3
+  },
+  {
+   "id": "86013c2901eeeb33eb771832c1e677f463e893ac",
+   "title": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
+   "url": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw",
+   "source": "BleepingComputer",
+   "org": [],
+   "topic": "security",
+   "tldr": "A critical vulnerability in the HTTP/2 module of Apache HTTP Server could be exploited by an unauthenticated attacker to obtain remote code execution (RCE).",
+   "published": "2026-11-12T19:12:55.000Z",
+   "dupes": 4,
+   "score": 0.494,
    "tier": 3
   },
   {
@@ -674,7 +671,7 @@
    "tldr": "Grand Theft Auto 6 has become the most pre-ordered game on the PlayStation Store and Microsoft Store.",
    "published": "2026-11-11T12:10:40.000Z",
    "dupes": 1,
-   "score": 0.489,
+   "score": 0.477,
    "tier": 3
   },
   {
@@ -687,7 +684,7 @@
    "tldr": "A new worm-like malware toolkit named SCKit was deployed in the recent ScreenConnect attacks targeting managed service providers (MSPs), designed to spread from infected customer devices to MSP technicians' computers…",
    "published": "2026-11-12T22:53:10.000Z",
    "dupes": 2,
-   "score": 0.43,
+   "score": 0.399,
    "tier": 3
   },
   {
@@ -700,7 +697,7 @@
    "tldr": "A livestream Ars discussion is happening on November 17 at 1 pm Eastern Time.",
    "published": "2026-11-12T19:59:59.000Z",
    "dupes": 2,
-   "score": 0.411,
+   "score": 0.383,
    "tier": 3
   },
   {
@@ -713,7 +710,20 @@
    "tldr": "\"We're not doing this thing because we like rockets.\"",
    "published": "2026-11-12T18:28:22.000Z",
    "dupes": 2,
-   "score": 0.405,
+   "score": 0.378,
+   "tier": 3
+  },
+  {
+   "id": "fb82519b244e80abba6edb8d917d073956b830ad",
+   "title": "A Global Rebound for Mangroves",
+   "url": "https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves",
+   "source": "NASA",
+   "org": [],
+   "topic": "space",
+   "tldr": "After decades of decline, this ecologically significant type of forest is making a comeback.",
+   "published": "2026-11-13T05:01:00.000Z",
+   "dupes": 1,
+   "score": 0.375,
    "tier": 3
   },
   {
@@ -726,7 +736,7 @@
    "tldr": "AST SpaceMobile executives expressed confidence in the company’s ability to field a new reusable launch vehicle in just two years despite widespread industry skepticism.  The post AST SpaceMobile presses case for…",
    "published": "2026-11-13T01:15:21.000Z",
    "dupes": 1,
-   "score": 0.383,
+   "score": 0.351,
    "tier": 3
   },
   {
@@ -739,7 +749,7 @@
    "tldr": "For Katie Spicer, embracing opportunity and challenge has led to giant leaps during her time at NASA.  Now as the NASA lander integration lead for Blue Origin’s Blue Moon Mark 2 lander, one of the commercially provided…",
    "published": "2026-11-12T20:10:02.000Z",
    "dupes": 1,
-   "score": 0.367,
+   "score": 0.339,
    "tier": 3
   },
   {
@@ -752,7 +762,7 @@
    "tldr": "Nigrán, Spain | November 12 2026 – UARX Space has achieved a major milestone for Spain’s space industry with the deployment of OSSIE-D, an Orbital Transfer Vehicle (OTV) designed and […] The post UARX Space Marks a…",
    "published": "2026-11-12T20:00:00.000Z",
    "dupes": 1,
-   "score": 0.359,
+   "score": 0.331,
    "tier": 3
   },
   {
@@ -765,20 +775,7 @@
    "tldr": "In this episode, SpaceNews’ Jason Rainbow interviews Atle Woello, the CEO and senior vice president of the space systems and surveillance business unit at Kongsberg NanoAvionics.  They discuss the role […] The post What…",
    "published": "2026-11-12T19:40:35.000Z",
    "dupes": 1,
-   "score": 0.357,
-   "tier": 3
-  },
-  {
-   "id": "9ec53114f601ed4c9e95fc0bfcdcd961d574d88a",
-   "title": "The amazing disappearing exoplanet",
-   "url": "https://arstechnica.com/science/2026/11/the-amazing-disappearing-exoplanet",
-   "source": "Ars Technica",
-   "org": [],
-   "topic": "space",
-   "tldr": "An exoplanet seems to have stopped transiting in front of its host star.",
-   "published": "2026-11-12T17:18:10.000Z",
-   "dupes": 1,
-   "score": 0.348,
+   "score": 0.33,
    "tier": 3
   },
   {
@@ -791,7 +788,7 @@
    "tldr": "The German Games Industry Association (Game) has criticised the Digital Fairness Act (DFA), warning that the legislation creates \"double regulation and legal uncertainty\" that could significantly harm European…",
    "published": "2026-11-12T14:36:10.000Z",
    "dupes": 2,
-   "score": 0.336,
+   "score": 0.315,
    "tier": 3
   },
   {
@@ -804,7 +801,7 @@
    "tldr": "The Viam Launchpad is intended to provide the software and engineering infrastructure to help startups bring robots to commercial deployment.  The post Viam Launchpad aims to accelerate robotics deployments appeared…",
    "published": "2026-11-12T13:30:31.000Z",
    "dupes": 1,
-   "score": 0.318,
+   "score": 0.294,
    "tier": 3
   },
   {
@@ -817,7 +814,7 @@
    "tldr": "Runway launched Praxis-1 with partners including Noble Machines, Standard Bots, and Ultra.  Developers can now use it with open weights.",
    "published": "2026-11-12T13:18:47.000Z",
    "dupes": 1,
-   "score": 0.317,
+   "score": 0.293,
    "tier": 3
   },
   {
@@ -830,7 +827,7 @@
    "tldr": "The organisers of the Game Developers Conference (GDC) Festival of Gaming are not unduly phased about the 30% drop in attendance the event witnessed in 2026 .",
    "published": "2026-11-12T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.299,
+   "score": 0.277,
    "tier": 3
   },
   {
@@ -843,7 +840,7 @@
    "tldr": "40% of developers are using generative AI in their work, according to the latest State of the Game Industry report from the Game Developers Conference (GDC).",
    "published": "2026-11-12T17:00:00.000Z",
    "dupes": 1,
-   "score": 0.299,
+   "score": 0.277,
    "tier": 3
   },
   {
@@ -856,7 +853,7 @@
    "tldr": "A new platform called Launchable aims to connect studios with development talent and publishing services using a \"shared-success framework\".  In other words, developers provide their services on the understanding that…",
    "published": "2026-11-12T16:00:00.000Z",
    "dupes": 1,
-   "score": 0.296,
+   "score": 0.274,
    "tier": 3
   },
   {
@@ -869,7 +866,7 @@
    "tldr": "The 44th Golden Joystick Awards took place last night, with Resident Evil Requiem winning four awards including Ultimate Game of the Year and Console Game of the Year.",
    "published": "2026-11-12T14:42:10.000Z",
    "dupes": 1,
-   "score": 0.291,
+   "score": 0.27,
    "tier": 3
   },
   {
@@ -882,7 +879,7 @@
    "tldr": "Serve Robotics says its on-demand delivery API allows third parties to develop new delivery services on its fleet of more than 2,000 robots.  The post Serve Robotics opens robot delivery network for others to build on…",
    "published": "2026-11-11T13:43:29.000Z",
    "dupes": 1,
-   "score": 0.251,
+   "score": 0.237,
    "tier": 3
   },
   {
@@ -895,7 +892,7 @@
    "tldr": "ai provides standardized egocentric video collection and AI-powered annotation to build training data infrastructure for robotics.  ai builds standardized egocentric video pipeline appeared first on The Robot Report .",
    "published": "2026-11-11T13:00:34.000Z",
    "dupes": 1,
-   "score": 0.249,
+   "score": 0.235,
    "tier": 3
   },
   {
@@ -908,7 +905,7 @@
    "tldr": "UC Berkeley and NVIDIA have released open-source tools for teams of AI coding agents that write, simulate, and refine readable robot programs.  The post Can AI agents program industrial robots without training data?",
    "published": "2026-11-11T12:55:16.000Z",
    "dupes": 1,
-   "score": 0.249,
+   "score": 0.235,
    "tier": 3
   },
   {
@@ -921,7 +918,7 @@
    "tldr": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
    "published": "2026-11-11T00:19:13.000Z",
    "dupes": 1,
-   "score": 0.234,
+   "score": 0.224,
    "tier": 3
   },
   {
@@ -934,7 +931,7 @@
    "tldr": "The companies will combine Sixth Wall’s character authoring and alignment with Dynamic Creatures’ mobile, expressive robots.  The post Dynamic Creatures partners with Sixth Wall Studio to bring Hasbro characters to life…",
    "published": "2026-11-10T18:31:17.000Z",
    "dupes": 1,
-   "score": 0.218,
+   "score": 0.209,
    "tier": 3
   },
   {
@@ -949,7 +946,7 @@
    "tldr": "Altera and Intel are working to make it easier to connect diverse sensors, turn data into real-time insights, and develop robotics.  The post Intel and Altera expand collaboration to simplify sensor integration for…",
    "published": "2026-11-10T14:47:10.000Z",
    "dupes": 1,
-   "score": 0.213,
+   "score": 0.205,
    "tier": 3
   },
   {
@@ -962,7 +959,7 @@
    "tldr": "S.  as Axon expands its Drone as First Responder program.",
    "published": "2026-11-10T13:06:58.000Z",
    "dupes": 1,
-   "score": 0.211,
+   "score": 0.203,
    "tier": 3
   }
  ]

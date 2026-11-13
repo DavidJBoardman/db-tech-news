@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T01:17:53.205Z",
+ "generated": "2026-11-13T08:21:57.613Z",
  "items": [
   {
    "id": "a8d5fa7d24b3647f4501b383397b571abdcb6905",
@@ -13,8 +13,68 @@
    "tldr": "",
    "published": "2026-11-12T18:00:50.000Z",
    "dupes": 2,
-   "score": 0.711,
+   "score": 0.649,
    "tier": 1
+  },
+  {
+   "id": "0a32920355dca27ab3d8c2b9bf1c67fecf30d43c",
+   "title": "Nvidia employees petition to bring back Jensen Huang",
+   "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return",
+   "source": "Hacker News",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-13T02:16:24.000Z",
+   "dupes": 1,
+   "score": 0.563,
+   "tier": 2
+  },
+  {
+   "id": "1704b1c03cb59addbd2582816be8bb9aa891700b",
+   "title": "Service degradation on Microsoft 365",
+   "url": "https://status.cloud.microsoft/",
+   "source": "Hacker News",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-12T18:20:48.000Z",
+   "dupes": 1,
+   "score": 0.538,
+   "tier": 2
+  },
+  {
+   "id": "35eb1824f5c6cbfad1270318629ccf29123de13f",
+   "title": "Global Microsoft Outage",
+   "url": "https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk",
+   "source": "Hacker News",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-13T06:18:23.000Z",
+   "dupes": 1,
+   "score": 0.53,
+   "tier": 2
+  },
+  {
+   "id": "a30e0ab0254296ebe1a77dd454794bf5ffa4191a",
+   "title": "Microsoft Outlook/365 still down after 12 hours",
+   "url": "https://twitter.com/MSFT365Status/status/2121079061774491735",
+   "source": "Hacker News",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-13T05:08:23.000Z",
+   "dupes": 1,
+   "score": 0.524,
+   "tier": 2
   },
   {
    "id": "5b0f73df89a6e31055eee70c9f8e540f23e75376",
@@ -28,7 +88,22 @@
    "tldr": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
    "published": "2026-11-12T20:00:00.000Z",
    "dupes": 1,
-   "score": 0.585,
+   "score": 0.517,
+   "tier": 2
+  },
+  {
+   "id": "f101ffad2bb3a11309d8d81bf89cac5b5f4011f0",
+   "title": "Anthropic IPO",
+   "url": "https://ipo.anthropic.com/us",
+   "source": "Hacker News",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-12T11:46:41.000Z",
+   "dupes": 1,
+   "score": 0.508,
    "tier": 2
   },
   {
@@ -46,50 +121,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.565,
-   "tier": 2
-  },
-  {
-   "id": "f101ffad2bb3a11309d8d81bf89cac5b5f4011f0",
-   "title": "Anthropic IPO",
-   "url": "https://ipo.anthropic.com/us",
-   "source": "Hacker News",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-11-12T11:46:41.000Z",
-   "dupes": 1,
-   "score": 0.558,
-   "tier": 2
-  },
-  {
-   "id": "1704b1c03cb59addbd2582816be8bb9aa891700b",
-   "title": "Service degradation on Microsoft 365",
-   "url": "https://status.cloud.microsoft/",
-   "source": "Hacker News",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-11-12T18:20:48.000Z",
-   "dupes": 1,
-   "score": 0.556,
-   "tier": 2
-  },
-  {
-   "id": "a88bddb17214a0296f9235b7640bc941ef623c8b",
-   "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-   "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-11-12T19:07:35.000Z",
-   "dupes": 1,
-   "score": 0.538,
+   "score": 0.493,
    "tier": 2
   },
   {
@@ -104,7 +136,20 @@
    "tldr": "",
    "published": "2026-11-12T18:52:01.000Z",
    "dupes": 1,
-   "score": 0.527,
+   "score": 0.474,
+   "tier": 2
+  },
+  {
+   "id": "a88bddb17214a0296f9235b7640bc941ef623c8b",
+   "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+   "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-12T19:07:35.000Z",
+   "dupes": 1,
+   "score": 0.473,
    "tier": 2
   },
   {
@@ -119,22 +164,22 @@
    "tldr": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
    "published": "2026-11-12T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.51,
+   "score": 0.46,
    "tier": 2
   },
   {
-   "id": "3403360ccc1df753cef2b348364e95c4489ba5c7",
-   "title": "Google’s new Gemini model is better at understanding complicated questions",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
-   "source": "The Verge AI",
+   "id": "2705c7ac411b8e61b18b960f5f040bad48a60e2e",
+   "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+   "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12",
+   "source": "Hacker News",
    "org": [
-    "google"
+    "nvidia"
    ],
    "topic": "ai",
-   "tldr": "\" The new model can break down your questions and address each part in its responses.",
-   "published": "2026-11-12T21:55:32.000Z",
+   "tldr": "",
+   "published": "2026-11-12T19:51:33.000Z",
    "dupes": 1,
-   "score": 0.507,
+   "score": 0.456,
    "tier": 2
   },
   {
@@ -149,7 +194,7 @@
    "tldr": "Rally the ranks this GFN Thursday.  Warhammer 40,000: Dawn of War IV is coming to GeForce NOW, allowing players to experience the battle for Kronus through cloud gaming.",
    "published": "2026-11-12T14:00:59.000Z",
    "dupes": 1,
-   "score": 0.502,
+   "score": 0.448,
    "tier": 2
   },
   {
@@ -164,8 +209,23 @@
    "tldr": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
    "published": "2026-11-12T09:30:00.000Z",
    "dupes": 1,
-   "score": 0.49,
-   "tier": 2
+   "score": 0.445,
+   "tier": 3
+  },
+  {
+   "id": "3403360ccc1df753cef2b348364e95c4489ba5c7",
+   "title": "Google’s new Gemini model is better at understanding complicated questions",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+   "source": "The Verge AI",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "\" The new model can break down your questions and address each part in its responses.",
+   "published": "2026-11-12T21:55:32.000Z",
+   "dupes": 1,
+   "score": 0.434,
+   "tier": 3
   },
   {
    "id": "2aac58e4c1e4800f9e5b937430c9cf28d820a1dd",
@@ -179,37 +239,7 @@
    "tldr": "We’re bringing clean manufacturing to our data centers and setting an industry standard by entering long-term purchase agreements with low-carbon producers across our supply chain.  The post Meta’s New Agreements Bring…",
    "published": "2026-11-12T12:00:07.000Z",
    "dupes": 1,
-   "score": 0.46,
-   "tier": 2
-  },
-  {
-   "id": "830958e6e6f7f875c563a92abda3a23ae81c2736",
-   "title": "Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang",
-   "source": "The Verge AI",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "ai",
-   "tldr": "Jensen Huang resigned as CEO of Nvidia this morning, a company he co-founded in 1993.  The decision came following the company's board opening an investigation into multiple extramarital affairs Huang had with a direct…",
-   "published": "2026-11-12T15:48:12.000Z",
-   "dupes": 1,
-   "score": 0.443,
-   "tier": 2
-  },
-  {
-   "id": "15c28179b2dc3ec9cbc8a50fc5e36f988b136eb9",
-   "title": "Nvidia CEO Jensen Huang has resigned. What happens next?",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-   "source": "The Verge AI",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "ai",
-   "tldr": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation.  However, The New York Times…",
-   "published": "2026-11-12T15:01:31.000Z",
-   "dupes": 1,
-   "score": 0.436,
+   "score": 0.41,
    "tier": 3
   },
   {
@@ -227,7 +257,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.432,
+   "score": 0.401,
    "tier": 3
   },
   {
@@ -242,20 +272,37 @@
    "tldr": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
    "published": "2026-11-12T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.432,
+   "score": 0.401,
    "tier": 3
   },
   {
-   "id": "56dac742ff29ffe28252636579f54a754978bed4",
-   "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-   "url": "https://huggingface.co/blog/3d-lora-finetuning",
-   "source": "Hugging Face Blog",
-   "org": [],
+   "id": "830958e6e6f7f875c563a92abda3a23ae81c2736",
+   "title": "Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang",
+   "source": "The Verge AI",
+   "org": [
+    "nvidia"
+   ],
    "topic": "ai",
-   "tldr": "",
-   "published": "2026-11-12T00:00:00.000Z",
+   "tldr": "Jensen Huang resigned as CEO of Nvidia this morning, a company he co-founded in 1993.  The decision came following the company's board opening an investigation into multiple extramarital affairs Huang had with a direct…",
+   "published": "2026-11-12T15:48:12.000Z",
    "dupes": 1,
-   "score": 0.395,
+   "score": 0.385,
+   "tier": 3
+  },
+  {
+   "id": "15c28179b2dc3ec9cbc8a50fc5e36f988b136eb9",
+   "title": "Nvidia CEO Jensen Huang has resigned. What happens next?",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+   "source": "The Verge AI",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "ai",
+   "tldr": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation.  However, The New York Times…",
+   "published": "2026-11-12T15:01:31.000Z",
+   "dupes": 1,
+   "score": 0.379,
    "tier": 3
   },
   {
@@ -270,7 +317,20 @@
    "tldr": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
    "published": "2026-11-11T15:00:15.000Z",
    "dupes": 1,
-   "score": 0.393,
+   "score": 0.371,
+   "tier": 3
+  },
+  {
+   "id": "56dac742ff29ffe28252636579f54a754978bed4",
+   "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+   "url": "https://huggingface.co/blog/3d-lora-finetuning",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-12T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.363,
    "tier": 3
   },
   {
@@ -285,7 +345,7 @@
    "tldr": "Health & Bioscience",
    "published": "2026-11-11T19:54:00.000Z",
    "dupes": 1,
-   "score": 0.388,
+   "score": 0.361,
    "tier": 3
   },
   {
@@ -300,7 +360,7 @@
    "tldr": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus.  See how they use it to prepare for civilian careers.",
    "published": "2026-11-11T08:00:00.000Z",
    "dupes": 1,
-   "score": 0.371,
+   "score": 0.354,
    "tier": 3
   },
   {
@@ -315,7 +375,7 @@
    "tldr": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale.  Read his lessons on evals, guardrails, and taking AI into production.",
    "published": "2026-11-11T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.352,
+   "score": 0.34,
    "tier": 3
   },
   {
@@ -330,22 +390,7 @@
    "tldr": "",
    "published": "2026-11-10T16:03:47.000Z",
    "dupes": 1,
-   "score": 0.339,
-   "tier": 3
-  },
-  {
-   "id": "a3f9078912ac05de057568b2406e4f40c088e9d5",
-   "title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
-   "url": "https://blogs.nvidia.com/blog/ai-recycling-startups",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Vision AI and robotics pick what’s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousands of tons of materials from landfills.",
-   "published": "2026-11-11T03:00:20.000Z",
-   "dupes": 1,
-   "score": 0.334,
+   "score": 0.329,
    "tier": 3
   },
   {
@@ -360,7 +405,7 @@
    "tldr": "S.  cities, helping them build practical AI skills for everyday life.",
    "published": "2026-11-10T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.333,
+   "score": 0.325,
    "tier": 3
   },
   {
@@ -375,7 +420,7 @@
    "tldr": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
    "published": "2026-11-10T12:02:28.000Z",
    "dupes": 1,
-   "score": 0.333,
+   "score": 0.325,
    "tier": 3
   },
   {
@@ -390,7 +435,7 @@
    "tldr": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
    "published": "2026-11-10T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.331,
+   "score": 0.323,
    "tier": 3
   },
   {
@@ -405,7 +450,7 @@
    "tldr": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
    "published": "2026-11-10T09:00:00.000Z",
    "dupes": 1,
-   "score": 0.329,
+   "score": 0.322,
    "tier": 3
   },
   {
@@ -420,7 +465,7 @@
    "tldr": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
    "published": "2026-11-10T08:00:00.000Z",
    "dupes": 1,
-   "score": 0.328,
+   "score": 0.322,
    "tier": 3
   },
   {
@@ -435,20 +480,22 @@
    "tldr": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
    "published": "2026-11-10T07:00:00.000Z",
    "dupes": 1,
-   "score": 0.327,
+   "score": 0.321,
    "tier": 3
   },
   {
-   "id": "b22522d14a17f95f283880f472cfa6e801354fb8",
-   "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-   "url": "https://huggingface.co/blog/qvac/botpsy",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-11-11T05:01:16.000Z",
+   "id": "a3f9078912ac05de057568b2406e4f40c088e9d5",
+   "title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
+   "url": "https://blogs.nvidia.com/blog/ai-recycling-startups",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Vision AI and robotics pick what’s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousands of tons of materials from landfills.",
+   "published": "2026-11-11T03:00:20.000Z",
    "dupes": 1,
-   "score": 0.326,
+   "score": 0.32,
    "tier": 3
   },
   {
@@ -463,7 +510,7 @@
    "tldr": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
    "published": "2026-11-10T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.321,
+   "score": 0.316,
    "tier": 3
   },
   {
@@ -478,7 +525,7 @@
    "tldr": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
    "published": "2026-11-09T19:51:47.000Z",
    "dupes": 1,
-   "score": 0.318,
+   "score": 0.314,
    "tier": 3
   },
   {
@@ -493,20 +540,20 @@
    "tldr": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
    "published": "2026-11-09T19:00:00.000Z",
    "dupes": 1,
-   "score": 0.317,
+   "score": 0.313,
    "tier": 3
   },
   {
-   "id": "d2296a64c0dc3b898a3595115c1f5ace43ee82d5",
-   "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-   "url": "https://huggingface.co/blog/token-pooling",
+   "id": "b22522d14a17f95f283880f472cfa6e801354fb8",
+   "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+   "url": "https://huggingface.co/blog/qvac/botpsy",
    "source": "Hugging Face Blog",
    "org": [],
    "topic": "ai",
    "tldr": "",
-   "published": "2026-11-11T00:00:00.000Z",
+   "published": "2026-11-11T05:01:16.000Z",
    "dupes": 1,
-   "score": 0.315,
+   "score": 0.311,
    "tier": 3
   },
   {
@@ -524,7 +571,37 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.314,
+   "score": 0.31,
+   "tier": 3
+  },
+  {
+   "id": "23b94c697622500fcf7d46f91907d47f40d35583",
+   "title": "CodeRabbit scales agentic software development and ships 20x more",
+   "url": "https://openai.com/index/coderabbit-codex-daybreak",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+   "published": "2026-11-09T08:00:00.000Z",
+   "dupes": 1,
+   "score": 0.309,
+   "tier": 3
+  },
+  {
+   "id": "932fe34bad728f30ad4ef609d13a6e2a6ef01f4d",
+   "title": "Kuken Industries searches 70 years of drawings in minutes",
+   "url": "https://openai.com/index/kuken",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings.  5 minutes, down from nearly an hour.",
+   "published": "2026-11-09T08:00:00.000Z",
+   "dupes": 1,
+   "score": 0.309,
    "tier": 3
   },
   {
@@ -542,37 +619,20 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.314,
+   "score": 0.304,
    "tier": 3
   },
   {
-   "id": "23b94c697622500fcf7d46f91907d47f40d35583",
-   "title": "CodeRabbit scales agentic software development and ships 20x more",
-   "url": "https://openai.com/index/coderabbit-codex-daybreak",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
+   "id": "d2296a64c0dc3b898a3595115c1f5ace43ee82d5",
+   "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+   "url": "https://huggingface.co/blog/token-pooling",
+   "source": "Hugging Face Blog",
+   "org": [],
    "topic": "ai",
-   "tldr": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
-   "published": "2026-11-09T08:00:00.000Z",
+   "tldr": "",
+   "published": "2026-11-11T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.311,
-   "tier": 3
-  },
-  {
-   "id": "932fe34bad728f30ad4ef609d13a6e2a6ef01f4d",
-   "title": "Kuken Industries searches 70 years of drawings in minutes",
-   "url": "https://openai.com/index/kuken",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings.  5 minutes, down from nearly an hour.",
-   "published": "2026-11-09T08:00:00.000Z",
-   "dupes": 1,
-   "score": 0.311,
+   "score": 0.302,
    "tier": 3
   },
   {
@@ -587,37 +647,7 @@
    "tldr": "Microsoft researchers have discovered “Lazarus,” a backdoor technique that can reprogram dormant neurons in an AI model, causing an otherwise normal AI agent to execute malicious commands when a hidden trigger appears.…",
    "published": "2026-11-10T20:52:56.000Z",
    "dupes": 1,
-   "score": 0.309,
-   "tier": 3
-  },
-  {
-   "id": "bc8f9eac19663ff628fb02870bf1eb637ef573a5",
-   "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-   "url": "https://openai.com/index/partnering-with-hacktron",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
-   "published": "2026-11-06T08:00:00.000Z",
-   "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
-   "id": "c3e82675d569c730879799cf6c1c9670215db3bf",
-   "title": "Grok Build coding agent leaks oodles of confidential info",
-   "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi",
-   "source": "HN · xAI",
-   "org": [
-    "xai"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-11-11T17:53:23.000Z",
-   "dupes": 1,
-   "score": 0.294,
+   "score": 0.298,
    "tier": 3
   },
   {
@@ -632,7 +662,7 @@
    "tldr": "Natural Language Processing",
    "published": "2026-11-09T20:29:39.000Z",
    "dupes": 1,
-   "score": 0.293,
+   "score": 0.289,
    "tier": 3
   },
   {
@@ -647,7 +677,7 @@
    "tldr": "Simulation, which has long been the proving ground for robots learning to walk, roll and hop, is now helping researchers teach robots tasks that require a finer touch: aligning gears, connecting cables and assembling…",
    "published": "2026-11-09T14:00:01.000Z",
    "dupes": 1,
-   "score": 0.289,
+   "score": 0.286,
    "tier": 3
   },
   {
@@ -662,7 +692,7 @@
    "tldr": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX.  Representatives from the Ministry of Science and ICT and NVIDIA met with over 20 Korean startups across…",
    "published": "2026-11-09T08:00:53.000Z",
    "dupes": 1,
-   "score": 0.286,
+   "score": 0.284,
    "tier": 3
   },
   {
@@ -677,7 +707,7 @@
    "tldr": "Tapping into the country’s strengths in manufacturing and engineering, NVIDIA is helping advance Korea’s physical AI ecosystem.  The country’s industry leaders are applying accelerated computing, AI and simulation to…",
    "published": "2026-11-09T05:00:40.000Z",
    "dupes": 1,
-   "score": 0.285,
+   "score": 0.283,
    "tier": 3
   },
   {
@@ -692,7 +722,7 @@
    "tldr": "As AI agents take on more work, they need capable open models and security that advances alongside them.  Hyundai Motor Group is exploring NVIDIA NemoClaw blueprints and the NVIDIA OpenShell runtime, while AIM…",
    "published": "2026-11-09T05:00:39.000Z",
    "dupes": 1,
-   "score": 0.285,
+   "score": 0.283,
    "tier": 3
   },
   {
@@ -707,7 +737,7 @@
    "tldr": "NVIDIA and Korea’s Ministry of Science and ICT (MSIT) are expanding their collaboration across the country’s sovereign AI ecosystem, from AI semiconductors and data center infrastructure to talent, startups, models,…",
    "published": "2026-11-09T05:00:04.000Z",
    "dupes": 1,
-   "score": 0.285,
+   "score": 0.283,
    "tier": 3
   },
   {
@@ -722,7 +752,7 @@
    "tldr": "0 from LG AI Research, Solar Open 2 from Upstage and Motif-3 from Motif Technologies.",
    "published": "2026-11-09T05:00:00.000Z",
    "dupes": 1,
-   "score": 0.285,
+   "score": 0.283,
    "tier": 3
   },
   {
@@ -737,7 +767,7 @@
    "tldr": "",
    "published": "2026-11-10T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.283,
+   "score": 0.278,
    "tier": 3
   },
   {
@@ -750,36 +780,7 @@
    "tldr": "",
    "published": "2026-11-10T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.283,
-   "tier": 3
-  },
-  {
-   "id": "5e9d3fd0e59ccb776c0fc24529575136232b3097",
-   "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-   "url": "https://github.com/synchopate/llama-modchip",
-   "source": "HN · DeepSeek",
-   "org": [
-    "deepseek",
-    "meta"
-   ],
-   "topic": "compute",
-   "tldr": "",
-   "published": "2026-11-08T10:22:04.000Z",
-   "dupes": 1,
-   "score": 0.282,
-   "tier": 3
-  },
-  {
-   "id": "057e22ab69c04fb1c6649cb0bf4e92ea8c65293a",
-   "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-   "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-11-09T15:05:57.000Z",
-   "dupes": 1,
-   "score": 0.277,
+   "score": 0.278,
    "tier": 3
   },
   {
@@ -801,6 +802,19 @@
    "tier": 3
   },
   {
+   "id": "057e22ab69c04fb1c6649cb0bf4e92ea8c65293a",
+   "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+   "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-09T15:05:57.000Z",
+   "dupes": 1,
+   "score": 0.274,
+   "tier": 3
+  },
+  {
    "id": "7b1451fc786c34f9eeb4411c953942dafa553acd",
    "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
    "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
@@ -810,7 +824,38 @@
    "tldr": "",
    "published": "2026-11-09T12:34:29.000Z",
    "dupes": 1,
-   "score": 0.276,
+   "score": 0.273,
+   "tier": 3
+  },
+  {
+   "id": "5e9d3fd0e59ccb776c0fc24529575136232b3097",
+   "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+   "url": "https://github.com/synchopate/llama-modchip",
+   "source": "HN · DeepSeek",
+   "org": [
+    "deepseek",
+    "meta"
+   ],
+   "topic": "compute",
+   "tldr": "",
+   "published": "2026-11-08T10:22:04.000Z",
+   "dupes": 1,
+   "score": 0.271,
+   "tier": 3
+  },
+  {
+   "id": "c3e82675d569c730879799cf6c1c9670215db3bf",
+   "title": "Grok Build coding agent leaks oodles of confidential info",
+   "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi",
+   "source": "HN · xAI",
+   "org": [
+    "xai"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-11T17:53:23.000Z",
+   "dupes": 1,
+   "score": 0.269,
    "tier": 3
   },
   {
