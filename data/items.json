@@ -1,64 +1,184 @@
 {
- "generated": "2026-11-16T06:58:06.780Z",
+ "generated": "2026-11-16T16:47:40.313Z",
  "items": [
   {
-   "id": "87d7014c15ee68a3a258e4931bcaef4b31534b44",
-   "title": "A step toward defining the Standard Model on a lattice",
-   "url": "https://openai.com/index/step-toward-defining-the-standard-model",
-   "source": "OpenAI Blog",
+   "id": "ca1899ca16809729b73080be61eeb0978fbfba35",
+   "title": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
+   "url": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia",
+   "source": "Ars Technica",
    "org": [
-    "openai"
+    "nvidia"
    ],
-   "topic": "ai",
-   "tldr": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
-   "published": "2026-11-15T22:00:01.000Z",
-   "dupes": 1,
-   "score": 0.706,
+   "topic": "compute",
+   "tldr": "Huang is weighing a return just days after resigning amid a deepening scandal.",
+   "published": "2026-11-16T14:06:16.000Z",
+   "dupes": 2,
+   "score": 0.765,
    "tier": 1
   },
   {
-   "id": "4b0fc5b701ffd77dc12523f912000158b7c589e6",
-   "title": "Our new blog for science",
-   "url": "https://openai.com/index/our-new-blog-for-science",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
-   "published": "2026-11-15T22:00:00.000Z",
-   "dupes": 1,
-   "score": 0.706,
-   "tier": 2
-  },
-  {
-   "id": "46b48e728e8108004efb36a208d1b9619e22d539",
-   "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
-   "url": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup",
+   "id": "aafc20d9f2a085c965c8bc98ce9293784abef1f0",
+   "title": "Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
+   "url": "https://blogs.nvidia.com/blog/lambda-photonics",
    "source": "NVIDIA Blog",
    "org": [
     "nvidia"
    ],
    "topic": "compute",
-   "tldr": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical AI and AI agents.",
-   "published": "2026-11-16T00:00:28.000Z",
+   "tldr": "To train an AI model, thousands of GPUs have to work together, requiring a network that’s fast, efficient and resilient.  Lambda is tackling the network piece of the puzzle with NVIDIA Photonics co-packaged optics (CPO)…",
+   "published": "2026-11-16T16:00:51.000Z",
    "dupes": 1,
-   "score": 0.698,
+   "score": 0.727,
    "tier": 2
   },
   {
-   "id": "c6f717fdbe762fddb3c811fb0f8e9cb3b7759f06",
-   "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-   "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+   "id": "0be2ab6226e78541de53fadb4bedd8b18e0f461f",
+   "title": "NVIDIA Expands Slurm to Bring Quantum Computing Into Supercomputing",
+   "url": "https://blogs.nvidia.com/blog/slurm-quantum-computing-supercomputing",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Quantum processor deployments at supercomputing centers have grown nearly sevenfold over the past five years, with nearly 30 supercomputing centers around the world now in the process of deploying over 50 quantum…",
+   "published": "2026-11-16T16:00:47.000Z",
+   "dupes": 1,
+   "score": 0.727,
+   "tier": 2
+  },
+  {
+   "id": "0f2a855bc6a8fcf25d6065605b52cc9d13fe5cc6",
+   "title": "NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance",
+   "url": "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "In its MLPerf benchmarks debut, with results released today, the NVIDIA Vera Rubin platform delivers leading performance across training, post-training and agentic inference.",
+   "published": "2026-11-16T16:00:25.000Z",
+   "dupes": 1,
+   "score": 0.727,
+   "tier": 2
+  },
+  {
+   "id": "8192f1094925b8739815e3f9d9444b2ff594ba2f",
+   "title": "NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery",
+   "url": "https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "With expanded NVIDIA CUDA-X libraries, including cuPhoton, cuPotential and cuSpa, researchers can sift through vast amounts of data to accelerate research, from astrophysics and materials science to single-cell biology.…",
+   "published": "2026-11-16T16:00:16.000Z",
+   "dupes": 1,
+   "score": 0.727,
+   "tier": 2
+  },
+  {
+   "id": "f96db6736bc3d96a12a5666d46e8db735ce62699",
+   "title": "CUDA at 20: How the Platform Transformed Scientific Computing",
+   "url": "https://blogs.nvidia.com/blog/20-years-cuda",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "This week at SC26, NVIDIA is marking two decades of CUDA by honoring the researchers, developers and engineers who helped make GPU computing a foundation for modern science and AI.",
+   "published": "2026-11-16T16:00:11.000Z",
+   "dupes": 1,
+   "score": 0.727,
+   "tier": 2
+  },
+  {
+   "id": "6cab091c059af43fb71f81530930f3b85777319c",
+   "title": "NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics",
+   "url": "https://blogs.nvidia.com/blog/rubin-hpc",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Announced today at SC26, NVIDIA Rubin HPC is a new GPU in the NVIDIA Vera Rubin platform designed to accelerate simulation and data processing for science, engineering and analytics workflows.",
+   "published": "2026-11-16T16:00:01.000Z",
+   "dupes": 1,
+   "score": 0.727,
+   "tier": 2
+  },
+  {
+   "id": "91e58e2ea930c2fabc271a22401b1d1a40419d3b",
+   "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+   "url": "https://openai.com/index/lvmh-media-division-partnership",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+   "published": "2026-11-16T09:00:00.000Z",
+   "dupes": 1,
+   "score": 0.711,
+   "tier": 2
+  },
+  {
+   "id": "349134aed1b0ce2a1a88909004ef9def2cbdf3ca",
+   "title": "Trump says he wouldn't mind seeing Huang return to Nvidia",
+   "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
    "source": "BBC Technology",
    "org": [
     "nvidia"
    ],
    "topic": "compute",
-   "tldr": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-   "published": "2026-11-16T01:47:57.000Z",
+   "tldr": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
+   "published": "2026-11-16T15:31:20.000Z",
    "dupes": 1,
-   "score": 0.69,
+   "score": 0.709,
+   "tier": 2
+  },
+  {
+   "id": "fea1e58f91c67b79ef5db160c1211eabbce71494",
+   "title": "Microsoft says months-old bug caused global Microsoft 365 outage",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage",
+   "source": "BleepingComputer",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "security",
+   "tldr": "Microsoft says a software bug introduced in July caused last week's worldwide Microsoft 365 outage, triggering a cascading failure that left more than 80% of its networking gateway servers unresponsive.",
+   "published": "2026-11-16T16:43:24.000Z",
+   "dupes": 1,
+   "score": 0.707,
+   "tier": 2
+  },
+  {
+   "id": "b0ded74e06b06613ea577f6c99012354ee06d70e",
+   "title": "Advancing computer-use agents for healthcare teams",
+   "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-16T06:00:00.000Z",
+   "dupes": 1,
+   "score": 0.698,
+   "tier": 2
+  },
+  {
+   "id": "cfcc7acb02e9ca7944d1e900e1dedbf4b8c78667",
+   "title": "More ways to move care forward with ChatGPT for Healthcare",
+   "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+   "published": "2026-11-16T06:00:00.000Z",
+   "dupes": 1,
+   "score": 0.698,
    "tier": 2
   },
   {
@@ -73,38 +193,158 @@
    "tldr": "",
    "published": "2026-11-15T23:55:55.000Z",
    "dupes": 1,
-   "score": 0.659,
+   "score": 0.692,
    "tier": 2
   },
   {
-   "id": "7992364a840a6bc65b6ab6e6009d76d6d852dfd9",
-   "title": "TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry",
-   "url": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry",
-   "source": "TechCrunch",
+   "id": "9019a38c65afeab433a3b7efd30567d2d76bccaf",
+   "title": "Microsoft: Windows Server 2016 reaches end of support in 60 days",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-60-days",
+   "source": "BleepingComputer",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "security",
+   "tldr": "Microsoft has reminded customers again that Windows Server 2016 will stop receiving security updates after it reaches the end of support in two months.",
+   "published": "2026-11-16T12:53:18.000Z",
+   "dupes": 1,
+   "score": 0.688,
+   "tier": 3
+  },
+  {
+   "id": "1df21d2e2c7164f784bb4db08872acf5d2ab749c",
+   "title": "Nvidia Was in Trouble Before the Jensen Huang Mess",
+   "url": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess",
+   "source": "Hacker News",
    "org": [
     "nvidia"
    ],
-   "topic": "compute",
-   "tldr": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-   "published": "2026-11-15T17:05:00.000Z",
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-16T15:24:09.000Z",
    "dupes": 1,
-   "score": 0.655,
-   "tier": 2
+   "score": 0.685,
+   "tier": 3
   },
   {
-   "id": "2f1f5cbf7ce833ab47a4022222f75006fb8227ac",
-   "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
-   "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+   "id": "e3915f7e4cf071c4232933d2f6f49995917fa34a",
+   "title": "The King’s Trust and OpenAI launch £1m partnership",
+   "url": "https://openai.com/index/the-kings-trust-and-openai",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+   "published": "2026-11-16T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.676,
+   "tier": 3
+  },
+  {
+   "id": "87d7014c15ee68a3a258e4931bcaef4b31534b44",
+   "title": "A step toward defining the Standard Model on a lattice",
+   "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+   "published": "2026-11-15T22:00:01.000Z",
+   "dupes": 1,
+   "score": 0.67,
+   "tier": 3
+  },
+  {
+   "id": "4b0fc5b701ffd77dc12523f912000158b7c589e6",
+   "title": "Our new blog for science",
+   "url": "https://openai.com/index/our-new-blog-for-science",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+   "published": "2026-11-15T22:00:00.000Z",
+   "dupes": 1,
+   "score": 0.67,
+   "tier": 3
+  },
+  {
+   "id": "7e3c2db368acc8d1a36a89b5deec3c1ab0714a8b",
+   "title": "Microsoft pushes Windows emergency updates to fix activation failures",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-emergency-updates-fix-activation-licensing-failures",
+   "source": "BleepingComputer",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "security",
+   "tldr": "Microsoft has released emergency out-of-band updates to fix Windows activation and licensing failures caused by this month's security updates.",
+   "published": "2026-11-16T08:26:52.000Z",
+   "dupes": 1,
+   "score": 0.668,
+   "tier": 3
+  },
+  {
+   "id": "2b2bb87b4857660b3e1db9ebf284e5598d1e594b",
+   "title": "The Nvidia scandal isn’t slowing down",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
    "source": "The Verge AI",
    "org": [
     "nvidia"
    ],
    "topic": "ai",
-   "tldr": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly.  The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments…",
-   "published": "2026-11-15T20:43:49.000Z",
+   "tldr": "For years, Jensen Huang has had an almost unprecedented power to shape AI's advancement as Nvidia's CEO, cofounder, and president.",
+   "published": "2026-11-16T13:00:00.000Z",
    "dupes": 1,
-   "score": 0.637,
-   "tier": 2
+   "score": 0.665,
+   "tier": 3
+  },
+  {
+   "id": "f0b3319bef6277d67fbe731e61e4ab6af5e5d3be",
+   "title": "SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity",
+   "url": "https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html",
+   "source": "The Hacker News",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "security",
+   "tldr": "A financially motivated threat activity cluster tracked as REF3364 has been attributed to a Linux-focused cryptocurrency mining operation that tampers with the readings used to detect high GPU workloads.  Central to the…",
+   "published": "2026-11-16T09:32:57.000Z",
+   "dupes": 1,
+   "score": 0.665,
+   "tier": 3
+  },
+  {
+   "id": "46b48e728e8108004efb36a208d1b9619e22d539",
+   "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
+   "url": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical AI and AI agents.",
+   "published": "2026-11-16T00:00:28.000Z",
+   "dupes": 1,
+   "score": 0.66,
+   "tier": 3
+  },
+  {
+   "id": "c6f717fdbe762fddb3c811fb0f8e9cb3b7759f06",
+   "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+   "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Technology",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+   "published": "2026-11-16T01:47:57.000Z",
+   "dupes": 1,
+   "score": 0.651,
+   "tier": 3
   },
   {
    "id": "5bf4951adbe9698dd9e45df17c29fd95e4f30a2d",
@@ -118,8 +358,38 @@
    "tldr": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
    "published": "2026-11-13T15:00:00.000Z",
    "dupes": 2,
-   "score": 0.632,
-   "tier": 2
+   "score": 0.622,
+   "tier": 3
+  },
+  {
+   "id": "7992364a840a6bc65b6ab6e6009d76d6d852dfd9",
+   "title": "TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry",
+   "url": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry",
+   "source": "TechCrunch",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+   "published": "2026-11-15T17:05:00.000Z",
+   "dupes": 1,
+   "score": 0.622,
+   "tier": 3
+  },
+  {
+   "id": "2f1f5cbf7ce833ab47a4022222f75006fb8227ac",
+   "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+   "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+   "source": "The Verge AI",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "ai",
+   "tldr": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly.  The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments…",
+   "published": "2026-11-15T20:43:49.000Z",
+   "dupes": 1,
+   "score": 0.601,
+   "tier": 3
   },
   {
    "id": "1207b5c1c70bbc649c4833862a588f3ea7c47f65",
@@ -133,53 +403,38 @@
    "tldr": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips.  Both Democrats and Republicans have voiced…",
    "published": "2026-11-15T19:15:43.000Z",
    "dupes": 1,
-   "score": 0.631,
-   "tier": 2
-  },
-  {
-   "id": "cdf34d438f124e675638b8220f280dcbd745212a",
-   "title": "Where was Nvidia’s security team?",
-   "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team",
-   "source": "TechCrunch",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former…",
-   "published": "2026-11-15T00:08:07.000Z",
-   "dupes": 1,
-   "score": 0.603,
-   "tier": 2
-  },
-  {
-   "id": "9a736294c460795d30540e93613c6033487be240",
-   "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-   "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang",
-   "source": "TechCrunch",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
-   "published": "2026-11-14T21:41:22.000Z",
-   "dupes": 1,
    "score": 0.597,
-   "tier": 2
+   "tier": 3
   },
   {
-   "id": "2a2bfff1121f561ba8b726cd3923d032df957f0b",
-   "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-   "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit",
-   "source": "TechCrunch",
+   "id": "a0338a2d9b1c8c7a704508bc59814be5145a3017",
+   "title": "\"Gamers don't hate ads; they hate bad ads\" – Why EA and Xbox are putting adverts in their games",
+   "url": "https://www.gamesindustry.biz/gamers-dont-hate-ads-they-hate-bad-ads-why-ea-and-xbox-are-putting-adverts-in-their-games",
+   "source": "GamesIndustry.biz",
    "org": [
-    "nvidia"
+    "microsoft"
    ],
-   "topic": "compute",
-   "tldr": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
-   "published": "2026-11-14T16:34:15.000Z",
+   "topic": "gaming",
+   "tldr": "Once again, game companies are putting more adverts into PC and console titles.",
+   "published": "2026-11-16T13:30:00.000Z",
    "dupes": 1,
-   "score": 0.586,
-   "tier": 2
+   "score": 0.58,
+   "tier": 3
+  },
+  {
+   "id": "819fd9d6f065cdfa7f01db148610b6dade690133",
+   "title": "Google warns that fully-automated AI attacks are coming soon",
+   "url": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon",
+   "source": "BleepingComputer",
+   "org": [
+    "google"
+   ],
+   "topic": "security",
+   "tldr": "Threat actors are now relying on agentic workflows powered by AI-based offensive frameworks to automate vulnerability discovery and exploitation, accelerating attacks to machine speed.",
+   "published": "2026-11-16T14:00:00.000Z",
+   "dupes": 1,
+   "score": 0.579,
+   "tier": 3
   },
   {
    "id": "d1318183fe172893638959c7661c0c781ed07c8d",
@@ -193,354 +448,7 @@
    "tldr": "Shield uses OpenAI to help IT technicians hand off work in legacy portals.  Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
    "published": "2026-11-13T08:00:00.000Z",
    "dupes": 1,
-   "score": 0.57,
-   "tier": 2
-  },
-  {
-   "id": "5b0f73df89a6e31055eee70c9f8e540f23e75376",
-   "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-   "url": "https://openai.com/business/customer-stories/amplitude",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
-   "published": "2026-11-12T20:00:00.000Z",
-   "dupes": 1,
-   "score": 0.559,
-   "tier": 3
-  },
-  {
-   "id": "ece4b84db3e9cab745443b3632e6db75ab76b12f",
-   "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
-   "url": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients.  Health systems and startups are putting it to work across healthcare, from matching…",
-   "published": "2026-11-13T13:00:42.000Z",
-   "dupes": 1,
-   "score": 0.559,
-   "tier": 3
-  },
-  {
-   "id": "c371d06a5231e17db6560fc5c919e9b7f03a3795",
-   "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
-   "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns",
-   "source": "Ars Technica",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Researcher traces a path from AI reward hacking to potential human extinction.",
-   "published": "2026-11-13T17:25:45.000Z",
-   "dupes": 1,
-   "score": 0.556,
-   "tier": 3
-  },
-  {
-   "id": "90d79223706ea3abe78dd2ccec4a9d94005b5123",
-   "title": "Gondola doubles revenue as its team builds more with Codex",
-   "url": "https://openai.com/business/customer-stories/gondola",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
-   "published": "2026-11-12T12:00:00.000Z",
-   "dupes": 1,
-   "score": 0.554,
-   "tier": 3
-  },
-  {
-   "id": "0990939c7d6ea9f7b924e5d425b1951c897f11ae",
-   "title": "Holiday Extras is rethinking what it can build with Codex",
-   "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
-   "published": "2026-11-12T09:30:00.000Z",
-   "dupes": 1,
-   "score": 0.552,
-   "tier": 3
-  },
-  {
-   "id": "dabb9c42293eb206d2f8003eb5890635ee255e1a",
-   "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
-   "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\".",
-   "published": "2026-11-13T19:53:57.000Z",
-   "dupes": 1,
-   "score": 0.551,
-   "tier": 3
-  },
-  {
-   "id": "d46b516a4c8344dc087cc3f6df0593b10b6c48d5",
-   "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
-   "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-   "source": "The Verge AI",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University.  This episode is part two of our series on AI in real life.",
-   "published": "2026-11-14T15:00:00.000Z",
-   "dupes": 1,
-   "score": 0.55,
-   "tier": 3
-  },
-  {
-   "id": "f17748102e2c4282790684de95422a1224afa0cf",
-   "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-   "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen",
-   "source": "TechCrunch",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
-   "published": "2026-11-13T18:40:30.000Z",
-   "dupes": 1,
-   "score": 0.55,
-   "tier": 3
-  },
-  {
-   "id": "b06379671ede1f625c58d8bbc9930e4829995069",
-   "title": "Supporting research on AI and children’s safety",
-   "url": "https://openai.com/index/children-first-declaration",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI commits $2 million to research on AI and children’s safety.  The work supports shared tools to measure risks and opportunities for young people.",
-   "published": "2026-11-12T00:00:00.000Z",
-   "badges": [
-    "research"
-   ],
-   "dupes": 1,
-   "score": 0.547,
-   "tier": 3
-  },
-  {
-   "id": "b11f78109a56b0bd45d0c21e73a847235f228b83",
-   "title": "How a sex scandal at Nvidia is putting pressure on the White House",
-   "url": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
-   "published": "2026-11-13T12:22:30.000Z",
-   "dupes": 1,
-   "score": 0.542,
-   "tier": 3
-  },
-  {
-   "id": "91eeb3c1136d91284cfc5eb2b9d2c4e07248949c",
-   "title": "A New Dawn in the Cloud: ‘Warhammer 40,000: Dawn of War IV’ Is Coming to GeForce NOW",
-   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Rally the ranks this GFN Thursday.  Warhammer 40,000: Dawn of War IV is coming to GeForce NOW, allowing players to experience the battle for Kronus through cloud gaming.",
-   "published": "2026-11-12T14:00:59.000Z",
-   "dupes": 1,
-   "score": 0.539,
-   "tier": 3
-  },
-  {
-   "id": "9a4758eb013a28aa88c2d09c35848425df0cca94",
-   "title": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
-   "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world",
-   "source": "Ars Technica",
-   "org": [
-    "spacex"
-   ],
-   "topic": "space",
-   "tldr": "It felt like stepping into the future.",
-   "published": "2026-11-15T00:40:59.000Z",
-   "dupes": 2,
-   "score": 0.514,
-   "tier": 3
-  },
-  {
-   "id": "172c020a5d34707bf0d3667925a6d454e9e2cd88",
-   "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
-   "url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors",
-   "source": "Ars Technica",
-   "org": [
-    "spacex"
-   ],
-   "topic": "space",
-   "tldr": "This was the first total mission failure in United Launch Alliance's 20-year history.",
-   "published": "2026-11-15T23:11:54.000Z",
-   "dupes": 1,
-   "score": 0.499,
-   "tier": 3
-  },
-  {
-   "id": "11e5a51b11f8f37afb2aa990805ca9600531f283",
-   "title": "Nvidia's Jensen Huang resigns as CEO amid reports of affairs with alleged Chinese spy and two employees",
-   "url": "https://www.gamesindustry.biz/nvidias-jensen-huang-resigns-as-ceo-amid-reports-of-affairs-with-alleged-chinese-spy-and-two-employees",
-   "source": "GamesIndustry.biz",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "gaming",
-   "tldr": "Nvidia co-founder Jensen Huang has resigned as president, CEO, and board member.",
-   "published": "2026-11-13T08:12:50.000Z",
-   "dupes": 2,
-   "score": 0.493,
-   "tier": 3
-  },
-  {
-   "id": "3f424bb62f49c6217ab104cf6013b9e9e5775ef3",
-   "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
-   "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday",
-   "source": "Ars Technica",
-   "org": [
-    "spacex"
-   ],
-   "topic": "space",
-   "tldr": "One way or another, the company will get some more data on Saturday.",
-   "published": "2026-11-14T00:49:13.000Z",
-   "dupes": 2,
-   "score": 0.492,
-   "tier": 3
-  },
-  {
-   "id": "78f77f651f447e0a40a2cbe7039d3c9128745586",
-   "title": "NVIDIA replaces CEO amid China AI and robotics concerns",
-   "url": "https://www.therobotreport.com/nvidia-replaces-ceo-amid-china-ai-and-robotics-concerns",
-   "source": "The Robot Report",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "robotics",
-   "tldr": "NVIDIA is replacing co-founder Jensen Huang with Collette Kress as CEO and Harvey C.  Jones as board chair as it faces trade scrutiny.",
-   "published": "2026-11-12T16:33:17.000Z",
-   "dupes": 1,
-   "score": 0.491,
-   "tier": 3
-  },
-  {
-   "id": "138c67a8d3057dd5a9d417ebb4a56bf3a611bf7e",
-   "title": "Rocket Report: Starship set for historic test flight; a century of Electron",
-   "url": "https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron",
-   "source": "Ars Technica",
-   "org": [
-    "spacex",
-    "rocket-lab"
-   ],
-   "topic": "space",
-   "tldr": "\"You can simplify it as a big tank feeding engines.\"",
-   "published": "2026-11-13T12:00:40.000Z",
-   "dupes": 2,
-   "score": 0.484,
-   "tier": 3
-  },
-  {
-   "id": "4098c7fd6f27db803e7ef4b186856c07a15735d5",
-   "title": "NVIDIA launches GR00T 2 and Isaac Lab 3.0 at CoRL",
-   "url": "https://www.therobotreport.com/nvidia-launches-gr00t-2-isaac-lab-3-0-corl",
-   "source": "The Robot Report",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "robotics",
-   "tldr": "NVIDIA also gave a look at how its partners, like Ambi Robotics, FieldAI, Flexion, Skild AI, RLWRLD, and more, are using these technologies.  0 at CoRL appeared first on The Robot Report .",
-   "published": "2026-11-09T21:52:05.000Z",
-   "dupes": 1,
-   "score": 0.469,
-   "tier": 3
-  },
-  {
-   "id": "04c1c102f5a737e863b3d0475db6c3146c906743",
-   "title": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
-   "url": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
-   "source": "The Hacker News",
-   "org": [
-    "meta"
-   ],
-   "topic": "security",
-   "tldr": "Meta was fined €805 million in Italy yesterday over a Facebook for Android feature that suggests photos and videos from users' phone galleries for them to post.  The Garante, Italy's data protection authority, found…",
-   "published": "2026-11-15T11:27:31.000Z",
-   "dupes": 1,
-   "score": 0.441,
-   "tier": 3
-  },
-  {
-   "id": "eee1d8cec1a11f6086e90c6f1bf9134e6cea0fd1",
-   "title": "SpaceX now fundamentally an \"infrastructure company,\" senior official says",
-   "url": "https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says",
-   "source": "Ars Technica · Space",
-   "org": [
-    "spacex"
-   ],
-   "topic": "space",
-   "tldr": "\"Grok analyzing the same video is 99.9 percent perfect.\"",
-   "published": "2026-11-09T15:39:21.000Z",
-   "dupes": 1,
-   "score": 0.396,
-   "tier": 3
-  },
-  {
-   "id": "dca169dba5fb8f9699eac341090a15d714af950e",
-   "title": "The Last Ice on Puncak Jaya",
-   "url": "https://science.nasa.gov/earth/earth-observatory/the-last-ice-on-puncak-jaya",
-   "source": "NASA",
-   "org": [],
-   "topic": "space",
-   "tldr": "Ice near the summit of the Indonesian mountain peak has shrunk to scattered patches too small to flow like glaciers.",
-   "published": "2026-11-16T05:00:00.000Z",
-   "dupes": 1,
-   "score": 0.381,
-   "tier": 3
-  },
-  {
-   "id": "c80de89ef4b4d17c63bd18fcf1d464acce70d98e",
-   "title": "Microsoft says November security updates cause printing issues",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues",
-   "source": "BleepingComputer",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "security",
-   "tldr": "Microsoft warned customers earlier this week that the November 2026 security updates may break printing for documents with complex formatting.",
-   "published": "2026-11-13T12:27:40.000Z",
-   "dupes": 1,
-   "score": 0.38,
-   "tier": 3
-  },
-  {
-   "id": "52f5d90ba5d5aaea08d4387fdc98d39e1d570831",
-   "title": "Microsoft confirms Windows activation failures after November updates",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates",
-   "source": "BleepingComputer",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "security",
-   "tldr": "Microsoft has confirmed that this month's Patch Tuesday security updates are causing Windows activation and licensing failures with 0x80041008 error codes.",
-   "published": "2026-11-13T09:36:18.000Z",
-   "dupes": 1,
-   "score": 0.378,
+   "score": 0.561,
    "tier": 3
   },
   {
@@ -555,82 +463,7 @@
    "tldr": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software.  This month's Patch Tuesday addresses 63…",
    "published": "2026-11-10T21:55:03.000Z",
    "dupes": 1,
-   "score": 0.377,
-   "tier": 3
-  },
-  {
-   "id": "a1916f9c67d7225a18111fa987522d39e16377ce",
-   "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide",
-   "source": "BleepingComputer",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "security",
-   "tldr": "Microsoft is investigating a widespread outage affecting multiple Microsoft 365 services, including Outlook, Microsoft Teams, and Copilot, as users report connectivity problems worldwide.",
-   "published": "2026-11-12T20:15:16.000Z",
-   "dupes": 1,
-   "score": 0.372,
-   "tier": 3
-  },
-  {
-   "id": "ba7507c6f20e81223b5f57255c30d3ba25a30c98",
-   "title": "Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities",
-   "url": "https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html",
-   "source": "The Hacker News",
-   "org": [
-    "apple"
-   ],
-   "topic": "security",
-   "tldr": "An iMessage flaw could let a remote attacker join a group chat and receive its messages, Apple said yesterday, and it released updates to fix it.  The updates also fix a separate iMessage flaw that could let someone…",
-   "published": "2026-11-10T10:16:51.000Z",
-   "dupes": 1,
-   "score": 0.364,
-   "tier": 3
-  },
-  {
-   "id": "44096b209ce3f9975082bb36d0a9f79116bad255",
-   "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
-   "url": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
-   "source": "The Hacker News",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "security",
-   "tldr": "Microsoft on Tuesday released patches for a total of 1,259 vulnerabilities spanning its software portfolio, the second consecutive month where the patch volume has exceeded 1,000 flaws.  These cover 726 flaws in…",
-   "published": "2026-11-11T08:17:53.000Z",
-   "dupes": 1,
-   "score": 0.355,
-   "tier": 3
-  },
-  {
-   "id": "e23f07d99f928138a0d8e7f0eed966309ad1b094",
-   "title": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons",
-   "url": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html",
-   "source": "The Hacker News",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "security",
-   "tldr": "An AI model can be given a hidden backdoor by editing fewer than 10 of its rarely used neurons, without retraining the model, Microsoft researchers have shown.  When a chosen trigger appears, the model outputs an…",
-   "published": "2026-11-11T07:21:05.000Z",
-   "dupes": 1,
-   "score": 0.355,
-   "tier": 3
-  },
-  {
-   "id": "780db22f678247b396561a819db50e0049c2296c",
-   "title": "Cursor confirms security breach led to malicious Claude Code extension",
-   "url": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension",
-   "source": "BleepingComputer",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "security",
-   "tldr": "Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider Fireworks AI.",
-   "published": "2026-11-14T17:27:25.000Z",
-   "dupes": 2,
-   "score": 0.349,
+   "score": 0.512,
    "tier": 3
   },
   {
@@ -645,35 +478,113 @@
    "tldr": "Astronauts James A.  Lovell Jr.",
    "published": "2026-11-13T16:05:54.000Z",
    "dupes": 1,
-   "score": 0.333,
+   "score": 0.492,
    "tier": 3
   },
   {
-   "id": "e3b72fc53a0352f3053761127faed0cba41d596c",
-   "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
-   "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks",
-   "source": "BleepingComputer",
-   "org": [],
-   "topic": "security",
-   "tldr": "The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that…",
-   "published": "2026-11-15T18:29:53.000Z",
-   "dupes": 1,
-   "score": 0.332,
-   "tier": 3
-  },
-  {
-   "id": "e6828aaf122a0d6bfda73f0f9171c988fbb75cdc",
-   "title": "TSMC employee data breach linked to cloud provider",
-   "url": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider",
-   "source": "BleepingComputer",
+   "id": "44096b209ce3f9975082bb36d0a9f79116bad255",
+   "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
+   "url": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
+   "source": "The Hacker News",
    "org": [
-    "tsmc"
+    "microsoft"
    ],
    "topic": "security",
-   "tldr": "9GB of information allegedly stolen from the company up for auction.",
-   "published": "2026-11-15T15:23:48.000Z",
+   "tldr": "Microsoft on Tuesday released patches for a total of 1,259 vulnerabilities spanning its software portfolio, the second consecutive month where the patch volume has exceeded 1,000 flaws.  These cover 726 flaws in…",
+   "published": "2026-11-11T08:17:53.000Z",
    "dupes": 1,
-   "score": 0.321,
+   "score": 0.49,
+   "tier": 3
+  },
+  {
+   "id": "e23f07d99f928138a0d8e7f0eed966309ad1b094",
+   "title": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons",
+   "url": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html",
+   "source": "The Hacker News",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "security",
+   "tldr": "An AI model can be given a hidden backdoor by editing fewer than 10 of its rarely used neurons, without retraining the model, Microsoft researchers have shown.  When a chosen trigger appears, the model outputs an…",
+   "published": "2026-11-11T07:21:05.000Z",
+   "dupes": 1,
+   "score": 0.49,
+   "tier": 3
+  },
+  {
+   "id": "11e5a51b11f8f37afb2aa990805ca9600531f283",
+   "title": "Nvidia's Jensen Huang resigns as CEO amid reports of affairs with alleged Chinese spy and two employees",
+   "url": "https://www.gamesindustry.biz/nvidias-jensen-huang-resigns-as-ceo-amid-reports-of-affairs-with-alleged-chinese-spy-and-two-employees",
+   "source": "GamesIndustry.biz",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "gaming",
+   "tldr": "Nvidia co-founder Jensen Huang has resigned as president, CEO, and board member.",
+   "published": "2026-11-13T08:12:50.000Z",
+   "dupes": 2,
+   "score": 0.486,
+   "tier": 3
+  },
+  {
+   "id": "78f77f651f447e0a40a2cbe7039d3c9128745586",
+   "title": "NVIDIA replaces CEO amid China AI and robotics concerns",
+   "url": "https://www.therobotreport.com/nvidia-replaces-ceo-amid-china-ai-and-robotics-concerns",
+   "source": "The Robot Report",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "robotics",
+   "tldr": "NVIDIA is replacing co-founder Jensen Huang with Collette Kress as CEO and Harvey C.  Jones as board chair as it faces trade scrutiny.",
+   "published": "2026-11-12T16:33:17.000Z",
+   "dupes": 1,
+   "score": 0.485,
+   "tier": 3
+  },
+  {
+   "id": "5af74d5ce665225df419dc5f091137a50fa1bd22",
+   "title": "Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs",
+   "url": "https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html",
+   "source": "The Hacker News",
+   "org": [
+    "google",
+    "amd"
+   ],
+   "topic": "security",
+   "tldr": "Google Cloud VMs on AMD Turin chips need a guest OS patch and a stop-and-start to protect against three CPU side-channel flaws, Google said this week.  The company has already applied mitigations against attacks between…",
+   "published": "2026-11-12T12:09:14.000Z",
+   "dupes": 1,
+   "score": 0.476,
+   "tier": 3
+  },
+  {
+   "id": "f7cf57082e209fd8cd090c528685b52d7247bc79",
+   "title": "Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign",
+   "url": "https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html",
+   "source": "The Hacker News",
+   "org": [
+    "google"
+   ],
+   "topic": "security",
+   "tldr": "Since mid-August 2026, a phishing operation has been stealing live Google sessions from corporate users.  Every check defenders normally lean on to judge a link came back clean, and the operator designed it that way on…",
+   "published": "2026-11-12T11:51:31.000Z",
+   "dupes": 1,
+   "score": 0.476,
+   "tier": 3
+  },
+  {
+   "id": "4098c7fd6f27db803e7ef4b186856c07a15735d5",
+   "title": "NVIDIA launches GR00T 2 and Isaac Lab 3.0 at CoRL",
+   "url": "https://www.therobotreport.com/nvidia-launches-gr00t-2-isaac-lab-3-0-corl",
+   "source": "The Robot Report",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "robotics",
+   "tldr": "NVIDIA also gave a look at how its partners, like Ambi Robotics, FieldAI, Flexion, Skild AI, RLWRLD, and more, are using these technologies.  0 at CoRL appeared first on The Robot Report .",
+   "published": "2026-11-09T21:52:05.000Z",
+   "dupes": 1,
+   "score": 0.467,
    "tier": 3
   },
   {
@@ -690,35 +601,123 @@
    "tldr": "Grand Theft Auto 6 has become the most pre-ordered game on the PlayStation Store and Microsoft Store.",
    "published": "2026-11-11T12:10:40.000Z",
    "dupes": 1,
-   "score": 0.311,
+   "score": 0.423,
    "tier": 3
   },
   {
-   "id": "4118a50de2906a06bc85e9d1a34f26072d836237",
-   "title": "US disrupts North Korean campaign behind $400 million crypto theft",
-   "url": "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft",
-   "source": "BleepingComputer",
-   "org": [],
-   "topic": "security",
-   "tldr": "S.  government has disrupted a North Korean social engineering campaign called 'FaceStealer', responsible for stealing more than $400 million in cryptocurrency.",
-   "published": "2026-11-14T15:15:49.000Z",
-   "dupes": 2,
-   "score": 0.31,
-   "tier": 3
-  },
-  {
-   "id": "93ae7bb22ca4e2454919504cfda969548ab7295e",
-   "title": "Intel and Altera expand collaboration to simplify sensor integration for physical AI",
-   "url": "https://www.therobotreport.com/intel-altera-expand-collaboration-simplify-sensor-integration-physical-ai",
-   "source": "The Robot Report",
+   "id": "1476251a40216ac5b9d523db12285a925a374adf",
+   "title": "Contractor to Civil Servant: NASA Welcomes Jim Mirandy",
+   "url": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jim-mirandy",
+   "source": "NASA",
    "org": [
-    "intel"
+    "nasa"
    ],
-   "topic": "robotics",
-   "tldr": "Altera and Intel are working to make it easier to connect diverse sensors, turn data into real-time insights, and develop robotics.  The post Intel and Altera expand collaboration to simplify sensor integration for…",
-   "published": "2026-11-10T14:47:10.000Z",
+   "topic": "space",
+   "tldr": "The rumble of a rocket engine might be considered a soundtrack for Jim Mirandy’s life.  Mirandy has grown up with NASA as a constant presence, and his path to becoming a civil servant at NASA’s Stennis Space Center near…",
+   "published": "2026-11-16T15:22:09.000Z",
    "dupes": 1,
-   "score": 0.26,
+   "score": 0.421,
+   "tier": 3
+  },
+  {
+   "id": "9a4758eb013a28aa88c2d09c35848425df0cca94",
+   "title": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
+   "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world",
+   "source": "Ars Technica",
+   "org": [
+    "spacex"
+   ],
+   "topic": "space",
+   "tldr": "It felt like stepping into the future.",
+   "published": "2026-11-15T00:40:59.000Z",
+   "dupes": 2,
+   "score": 0.417,
+   "tier": 3
+  },
+  {
+   "id": "467440d8d81980259995f263a487911f464099b8",
+   "title": "Delivery drones are coming. For some with PTSD, that's a terrifying prospect.",
+   "url": "https://arstechnica.com/gadgets/2026/11/the-drone-delivery-boom-could-be-a-nightmare-for-people-traumatized-by-war",
+   "source": "Ars Technica",
+   "org": [],
+   "topic": "robotics",
+   "tldr": "For those who have lived under armed drones, the sound overhead can be distressing.",
+   "published": "2026-11-16T12:00:57.000Z",
+   "dupes": 2,
+   "score": 0.413,
+   "tier": 3
+  },
+  {
+   "id": "3f424bb62f49c6217ab104cf6013b9e9e5775ef3",
+   "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
+   "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday",
+   "source": "Ars Technica",
+   "org": [
+    "spacex"
+   ],
+   "topic": "space",
+   "tldr": "One way or another, the company will get some more data on Saturday.",
+   "published": "2026-11-14T00:49:13.000Z",
+   "dupes": 2,
+   "score": 0.399,
+   "tier": 3
+  },
+  {
+   "id": "92951c476b05261c5efc471d3ff2ce58ca3689b2",
+   "title": "Anthropic’s Claude Fable 5.2 blocks fewer security tasks, while Mythos gets better at finding bugs",
+   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-claude-fable-52-blocks-fewer-security-tasks-while-mythos-gets-better-at-finding-bugs",
+   "source": "BleepingComputer",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "security",
+   "tldr": "2 to regular users, with improvements to coding and reasoning.  But we also noticed some interesting cybersecurity changes.",
+   "published": "2026-11-16T11:00:00.000Z",
+   "dupes": 1,
+   "score": 0.395,
+   "tier": 3
+  },
+  {
+   "id": "172c020a5d34707bf0d3667925a6d454e9e2cd88",
+   "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
+   "url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors",
+   "source": "Ars Technica",
+   "org": [
+    "spacex"
+   ],
+   "topic": "space",
+   "tldr": "This was the first total mission failure in United Launch Alliance's 20-year history.",
+   "published": "2026-11-15T23:11:54.000Z",
+   "dupes": 1,
+   "score": 0.393,
+   "tier": 3
+  },
+  {
+   "id": "fe45ff6f0988a593dff7b89664b636ed61fc6377",
+   "title": "GTA 6 hacker pleads guilty after release from secure hospital",
+   "url": "https://www.bbc.co.uk/news/articles/cq99exy89dngo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Technology",
+   "org": [
+    "rockstar"
+   ],
+   "topic": "security",
+   "tldr": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.",
+   "published": "2026-11-16T13:34:22.000Z",
+   "dupes": 1,
+   "score": 0.39,
+   "tier": 3
+  },
+  {
+   "id": "dca169dba5fb8f9699eac341090a15d714af950e",
+   "title": "The Last Ice on Puncak Jaya",
+   "url": "https://science.nasa.gov/earth/earth-observatory/the-last-ice-on-puncak-jaya",
+   "source": "NASA",
+   "org": [],
+   "topic": "space",
+   "tldr": "Ice near the summit of the Indonesian mountain peak has shrunk to scattered patches too small to flow like glaciers.",
+   "published": "2026-11-16T05:00:00.000Z",
+   "dupes": 1,
+   "score": 0.341,
    "tier": 3
   },
   {
@@ -733,7 +732,7 @@
    "tldr": "S.  Air Force Thunderbirds create a heart-shaped smoke trail during a flight maneuver near NASA’s Vehicle Assembly Building during the agency’s MAX POWER expo and air show on Sunday, Nov.",
    "published": "2026-11-12T19:12:49.000Z",
    "dupes": 1,
-   "score": 0.256,
+   "score": 0.329,
    "tier": 3
   },
   {
@@ -748,35 +747,23 @@
    "tldr": "The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Alyssa Villanueva, Steve Howell, and Samuel LeBlanc.  Their commitment to the NASA mission represents the…",
    "published": "2026-11-12T17:54:32.000Z",
    "dupes": 1,
-   "score": 0.256,
+   "score": 0.329,
    "tier": 3
   },
   {
-   "id": "dbcb0d7f9ec616cfb99fdba685f554cd8c3f3874",
-   "title": "NASA’s Hubble Offers Cosmic Sampler of Targets for Roman",
-   "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman",
-   "source": "NASA",
+   "id": "138c67a8d3057dd5a9d417ebb4a56bf3a611bf7e",
+   "title": "Rocket Report: Starship set for historic test flight; a century of Electron",
+   "url": "https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron",
+   "source": "Ars Technica · Space",
    "org": [
-    "nasa"
+    "spacex",
+    "rocket-lab"
    ],
    "topic": "space",
-   "tldr": "A gallery of gravitational lenses captured by NASA’s Hubble Space Telescope showcases the diversity of this cosmic phenomenon and lays the groundwork for follow-up observations by the Nancy Grace Roman Space Telescope.",
-   "published": "2026-11-12T13:18:40.000Z",
+   "tldr": "\"You can simplify it as a big tank feeding engines.\"",
+   "published": "2026-11-13T12:00:40.000Z",
    "dupes": 1,
-   "score": 0.254,
-   "tier": 3
-  },
-  {
-   "id": "037e089a5d550c907027bb6dc8ec154b84302e7e",
-   "title": "James Webb telescope finds ice older than the star it orbits",
-   "url": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits",
-   "source": "Ars Technica",
-   "org": [],
-   "topic": "space",
-   "tldr": "Radiation and collisions reshape the planetary building materials.",
-   "published": "2026-11-14T12:15:48.000Z",
-   "dupes": 1,
-   "score": 0.252,
+   "score": 0.325,
    "tier": 3
   },
   {
@@ -791,20 +778,93 @@
    "tldr": "A Senate committee is set to advance nominations for NASA’s chief financial officer and inspector general.  The post Senate committee takes up nominees for NASA chief financial officer and inspector general appeared…",
    "published": "2026-11-12T00:00:18.000Z",
    "dupes": 1,
-   "score": 0.243,
+   "score": 0.317,
    "tier": 3
   },
   {
-   "id": "a862a1212e5a0114c75ce48f2920afdb0d99031c",
-   "title": "German Games Industry Association warns Digital Fairness Act could cause \"double regulation and legal uncertainty\"",
-   "url": "https://www.gamesindustry.biz/german-games-industry-association-warns-digital-fairness-act-could-cause-double-regulation-and-legal-uncertainty",
+   "id": "062ba47c62da9eee440a5e2ebefcf98578c06e24",
+   "title": "Unity launches $50,000 grant for indie developers with no equity or repayment",
+   "url": "https://www.gamesindustry.biz/unity-launches-50000-grant-for-indie-developers-with-no-equity-or-repayment",
    "source": "GamesIndustry.biz",
    "org": [],
    "topic": "gaming",
-   "tldr": "The German Games Industry Association (Game) has criticised the Digital Fairness Act (DFA), warning that the legislation creates \"double regulation and legal uncertainty\" that could significantly harm European…",
-   "published": "2026-11-12T14:36:10.000Z",
-   "dupes": 2,
-   "score": 0.219,
+   "tldr": "Unity has launched the Unity Fellowship program , offering indie developers planning to launch a game within the next 12 months a $50,000 grant with no equity or repayment.",
+   "published": "2026-11-16T13:00:00.000Z",
+   "dupes": 1,
+   "score": 0.315,
+   "tier": 3
+  },
+  {
+   "id": "0921b61b585bdf4e09dd984fd358de1872c92b8f",
+   "title": "NASA's secret weapon in the lunar space race may be ... procurement reform?",
+   "url": "https://arstechnica.com/space/2026/11/nasa-takes-an-all-hands-on-deck-approach-in-its-return-to-the-moon",
+   "source": "Ars Technica · Space",
+   "org": [
+    "nasa"
+   ],
+   "topic": "space",
+   "tldr": "\"The pace that's occurring, and the nature of the procurements, is unprecedented.\"",
+   "published": "2026-11-11T19:00:26.000Z",
+   "dupes": 1,
+   "score": 0.301,
+   "tier": 3
+  },
+  {
+   "id": "4dee9679b58b32cc9bca6ac48a3df660924d0caa",
+   "title": "\"There's no such thing as easy money in our business\" – Strauss Zelnick on GTA 6, BioShock, Take-Two's acquisition plans, and reviving old IP",
+   "url": "https://www.gamesindustry.biz/theres-no-such-thing-as-easy-money-in-our-business-strauss-zelnick-on-gta-6-bioshock-take-twos-acquisition-plans-and-reviving-old-ip",
+   "source": "GamesIndustry.biz",
+   "org": [
+    "rockstar"
+   ],
+   "topic": "gaming",
+   "tldr": "biz had a chance to talk with CEO Strauss Zelnick about the results, as well as where the company is headed.",
+   "published": "2026-11-09T21:39:40.000Z",
+   "dupes": 1,
+   "score": 0.242,
+   "tier": 3
+  },
+  {
+   "id": "f8fd91170130a0dd56d23aa678f50b62c394ead9",
+   "title": "Take-Two Q2 net bookings fall 18% to $1.6bn as NBA 2K27 misses forecast but GTA 6 pre-orders are \"tracking far in excess\" of expectations",
+   "url": "https://www.gamesindustry.biz/take-two-q2-net-bookings-fall-18-to-16bn-as-nba-2k27-misses-forecast-but-gta-6-pre-orders-are-tracking-far-in-excess-of-expectations",
+   "source": "GamesIndustry.biz",
+   "org": [
+    "rockstar"
+   ],
+   "topic": "gaming",
+   "tldr": "50 billion.",
+   "published": "2026-11-09T21:22:20.000Z",
+   "dupes": 1,
+   "score": 0.242,
+   "tier": 3
+  },
+  {
+   "id": "93ae7bb22ca4e2454919504cfda969548ab7295e",
+   "title": "Intel and Altera expand collaboration to simplify sensor integration for physical AI",
+   "url": "https://www.therobotreport.com/intel-altera-expand-collaboration-simplify-sensor-integration-physical-ai",
+   "source": "The Robot Report",
+   "org": [
+    "intel"
+   ],
+   "topic": "robotics",
+   "tldr": "Altera and Intel are working to make it easier to connect diverse sensors, turn data into real-time insights, and develop robotics.  The post Intel and Altera expand collaboration to simplify sensor integration for…",
+   "published": "2026-11-10T14:47:10.000Z",
+   "dupes": 1,
+   "score": 0.24,
+   "tier": 3
+  },
+  {
+   "id": "037e089a5d550c907027bb6dc8ec154b84302e7e",
+   "title": "James Webb telescope finds ice older than the star it orbits",
+   "url": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits",
+   "source": "Ars Technica",
+   "org": [],
+   "topic": "space",
+   "tldr": "Radiation and collisions reshape the planetary building materials.",
+   "published": "2026-11-14T12:15:48.000Z",
+   "dupes": 1,
+   "score": 0.236,
    "tier": 3
   },
   {
@@ -817,7 +877,7 @@
    "tldr": "Four of the six robots pass a performance assessment as the trial puts customer service, retail operations and embodied AI capabilities to the test in a working store.  The post Six AGIBOT G2 Robots Complete 1,730 Tasks…",
    "published": "2026-11-13T16:32:58.000Z",
    "dupes": 1,
-   "score": 0.208,
+   "score": 0.198,
    "tier": 3
   },
   {
@@ -830,7 +890,7 @@
    "tldr": "Rhoda AI offers a direct video action model, which it recently extended with mobile DVA, to enable robots to understand the physical world.  The post How Rhoda AI is using video data to create generalized AI models for…",
    "published": "2026-11-13T13:30:44.000Z",
    "dupes": 1,
-   "score": 0.205,
+   "score": 0.195,
    "tier": 3
   },
   {
@@ -843,48 +903,7 @@
    "tldr": "Narwal executives say they spent a decade in research and development and have tailored their household cleaning robots to local markets.  The post Narwal builds robot vacuums to serve regional needs appeared first on…",
    "published": "2026-11-13T13:18:05.000Z",
    "dupes": 1,
-   "score": 0.204,
-   "tier": 3
-  },
-  {
-   "id": "577652ea7c12bfaf3816017b850892908834b755",
-   "title": "CD Projekt Red used AI to alter the voice of Geralt's original Polish actor in Witcher 3: Songs of the Past",
-   "url": "https://www.gamesindustry.biz/cd-projekt-red-used-ai-to-alter-the-voice-of-geralts-original-polish-actor-in-witcher-3-songs-of-the-past",
-   "source": "GamesIndustry.biz",
-   "org": [],
-   "topic": "gaming",
-   "tldr": "For The Witcher 3's Songs of the Past expansion, CD Projekt Red used AI to alter the voice of Geralt's original Polish actor, Jacek Rozenek.",
-   "published": "2026-11-13T14:43:20.000Z",
-   "dupes": 1,
-   "score": 0.191,
-   "tier": 3
-  },
-  {
-   "id": "a8fb8eefba99a0568d578a03315c7fdccee679bf",
-   "title": "\"It's a wild situation\" – An investor and publisher perspective on the rise of AI copycats, the discoverability crisis, and more",
-   "url": "https://www.gamesindustry.biz/its-a-wild-situation-an-investor-and-publisher-perspective-on-the-rise-of-ai-copycats-the-discoverability-crisis-and-more",
-   "source": "GamesIndustry.biz",
-   "org": [],
-   "topic": "gaming",
-   "tldr": "biz attended the AI and Games Conference in London this week, where a publisher and investor panel discussed the problems and opportunities of AI when it comes to marketing, funding, and publishing games (the full talk…",
-   "published": "2026-11-13T12:04:00.000Z",
-   "dupes": 1,
-   "score": 0.189,
-   "tier": 3
-  },
-  {
-   "id": "e7844a2d07194cc86458b6dec142ade4c8b9e396",
-   "title": "Steam's submission and approval backlog is forcing indie devs to delay game launches",
-   "url": "https://www.gamesindustry.biz/steams-submission-and-approval-backlog-is-forcing-indie-devs-to-delay-game-launches",
-   "source": "GamesIndustry.biz",
-   "org": [
-    "valve"
-   ],
-   "topic": "gaming",
-   "tldr": "Several indie developers have had to postpone their game launches due to delays in Steam's game submission and approval process.",
-   "published": "2026-11-13T12:00:00.000Z",
-   "dupes": 1,
-   "score": 0.188,
+   "score": 0.195,
    "tier": 3
   },
   {
@@ -897,7 +916,7 @@
    "tldr": "The Viam Launchpad is intended to provide the software and engineering infrastructure to help startups bring robots to commercial deployment.  The post Viam Launchpad aims to accelerate robotics deployments appeared…",
    "published": "2026-11-12T13:30:31.000Z",
    "dupes": 1,
-   "score": 0.185,
+   "score": 0.18,
    "tier": 3
   },
   {
@@ -910,7 +929,7 @@
    "tldr": "Runway launched Praxis-1 with partners including Noble Machines, Standard Bots, and Ultra.  Developers can now use it with open weights.",
    "published": "2026-11-12T13:18:47.000Z",
    "dupes": 1,
-   "score": 0.185,
+   "score": 0.18,
    "tier": 3
   },
   {
@@ -923,7 +942,7 @@
    "tldr": "Serve Robotics says its on-demand delivery API allows third parties to develop new delivery services on its fleet of more than 2,000 robots.  The post Serve Robotics opens robot delivery network for others to build on…",
    "published": "2026-11-11T13:43:29.000Z",
    "dupes": 1,
-   "score": 0.174,
+   "score": 0.171,
    "tier": 3
   },
   {
@@ -936,7 +955,7 @@
    "tldr": "ai provides standardized egocentric video collection and AI-powered annotation to build training data infrastructure for robotics.  ai builds standardized egocentric video pipeline appeared first on The Robot Report .",
    "published": "2026-11-11T13:00:34.000Z",
    "dupes": 1,
-   "score": 0.174,
+   "score": 0.171,
    "tier": 3
   },
   {
@@ -949,20 +968,7 @@
    "tldr": "UC Berkeley and NVIDIA have released open-source tools for teams of AI coding agents that write, simulate, and refine readable robot programs.  The post Can AI agents program industrial robots without training data?",
    "published": "2026-11-11T12:55:16.000Z",
    "dupes": 1,
-   "score": 0.174,
-   "tier": 3
-  },
-  {
-   "id": "c86f21700f05c9424a408a81593ed79a086f3542",
-   "title": "Dynamic Creatures partners with Sixth Wall Studio to bring Hasbro characters to life with robots",
-   "url": "https://www.therobotreport.com/dynamic-creatures-partners-sixth-wall-studio-bring-hasbro-characters-life-with-robots",
-   "source": "The Robot Report",
-   "org": [],
-   "topic": "robotics",
-   "tldr": "The companies will combine Sixth Wall’s character authoring and alignment with Dynamic Creatures’ mobile, expressive robots.  The post Dynamic Creatures partners with Sixth Wall Studio to bring Hasbro characters to life…",
-   "published": "2026-11-10T18:31:17.000Z",
-   "dupes": 1,
-   "score": 0.168,
+   "score": 0.171,
    "tier": 3
   }
  ]
