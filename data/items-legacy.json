@@ -1,6 +1,81 @@
 {
- "generated": "2026-11-16T16:47:46.502Z",
+ "generated": "2026-11-17T00:35:42.538Z",
  "items": [
+  {
+   "id": "8617ffe05c73147297358da92ad60b237522bbde",
+   "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
+   "url": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and developers.",
+   "published": "2026-11-16T23:00:05.000Z",
+   "dupes": 1,
+   "score": 0.604,
+   "tier": 1
+  },
+  {
+   "id": "2453547dcede7e6e32b946540416ddbe5dcf3bb8",
+   "title": "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
+   "url": "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Deb Shoquist leads operations at NVIDIA, overseeing the supply chain and manufacturing behind its AI platforms.  That description sums up the job, but it doesn’t begin to encompass what Shoquist has made possible over…",
+   "published": "2026-11-16T20:00:37.000Z",
+   "dupes": 1,
+   "score": 0.568,
+   "tier": 2
+  },
+  {
+   "id": "f26f2a4dfd6b9b957c1544d02f570339b8f668d2",
+   "title": "Broadening access to AI for scientists",
+   "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+   "published": "2026-11-16T17:00:00.000Z",
+   "dupes": 1,
+   "score": 0.561,
+   "tier": 2
+  },
+  {
+   "id": "b1c71d07875ac772d826f89afdf2886a79e196cc",
+   "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+   "url": "https://openai.com/index/strengthening-online-child-safety",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+   "published": "2026-11-16T17:00:00.000Z",
+   "dupes": 1,
+   "score": 0.561,
+   "tier": 2
+  },
+  {
+   "id": "f89cd0c3d555933ee0733913b9f232d35a7d90f0",
+   "title": "Microsoft blames monster email outage on software defect introduced in July fix",
+   "url": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
+   "source": "Hacker News",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-16T13:18:22.000Z",
+   "dupes": 1,
+   "score": 0.535,
+   "tier": 2
+  },
   {
    "id": "aafc20d9f2a085c965c8bc98ce9293784abef1f0",
    "title": "Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
@@ -13,8 +88,8 @@
    "tldr": "To train an AI model, thousands of GPUs have to work together, requiring a network that’s fast, efficient and resilient.  Lambda is tackling the network piece of the puzzle with NVIDIA Photonics co-packaged optics (CPO)…",
    "published": "2026-11-16T16:00:51.000Z",
    "dupes": 1,
-   "score": 0.615,
-   "tier": 1
+   "score": 0.527,
+   "tier": 2
   },
   {
    "id": "0be2ab6226e78541de53fadb4bedd8b18e0f461f",
@@ -28,7 +103,7 @@
    "tldr": "Quantum processor deployments at supercomputing centers have grown nearly sevenfold over the past five years, with nearly 30 supercomputing centers around the world now in the process of deploying over 50 quantum…",
    "published": "2026-11-16T16:00:47.000Z",
    "dupes": 1,
-   "score": 0.615,
+   "score": 0.527,
    "tier": 2
   },
   {
@@ -43,7 +118,7 @@
    "tldr": "In its MLPerf benchmarks debut, with results released today, the NVIDIA Vera Rubin platform delivers leading performance across training, post-training and agentic inference.",
    "published": "2026-11-16T16:00:25.000Z",
    "dupes": 1,
-   "score": 0.615,
+   "score": 0.526,
    "tier": 2
   },
   {
@@ -58,7 +133,7 @@
    "tldr": "With expanded NVIDIA CUDA-X libraries, including cuPhoton, cuPotential and cuSpa, researchers can sift through vast amounts of data to accelerate research, from astrophysics and materials science to single-cell biology.…",
    "published": "2026-11-16T16:00:16.000Z",
    "dupes": 1,
-   "score": 0.614,
+   "score": 0.526,
    "tier": 2
   },
   {
@@ -73,7 +148,7 @@
    "tldr": "This week at SC26, NVIDIA is marking two decades of CUDA by honoring the researchers, developers and engineers who helped make GPU computing a foundation for modern science and AI.",
    "published": "2026-11-16T16:00:11.000Z",
    "dupes": 1,
-   "score": 0.614,
+   "score": 0.526,
    "tier": 2
   },
   {
@@ -88,8 +163,53 @@
    "tldr": "Announced today at SC26, NVIDIA Rubin HPC is a new GPU in the NVIDIA Vera Rubin platform designed to accelerate simulation and data processing for science, engineering and analytics workflows.",
    "published": "2026-11-16T16:00:01.000Z",
    "dupes": 1,
-   "score": 0.614,
+   "score": 0.526,
    "tier": 2
+  },
+  {
+   "id": "669b0798240609c722865ae77e10dd9fcc135801",
+   "title": "TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient",
+   "url": "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient",
+   "source": "Microsoft Research",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "AI coding agents can waste time and tokens relearning the same lessons.  TokenEconomizer is an open-source plugin that builds on past sessions to cut costs while maintaining task success.",
+   "published": "2026-11-16T17:01:35.000Z",
+   "dupes": 1,
+   "score": 0.524,
+   "tier": 2
+  },
+  {
+   "id": "f891bd93f3d21469060271c5a85b2a7a2e8b4138",
+   "title": "Science at the Frontier: How scientists use ChatGPT",
+   "url": "https://openai.com/index/science-at-the-frontier",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Explore how more than 1,800 scientists use ChatGPT in research.  See findings on daily workflows, reported productivity, and expectations for discovery.",
+   "published": "2026-11-16T12:00:00.000Z",
+   "dupes": 1,
+   "score": 0.515,
+   "tier": 2
+  },
+  {
+   "id": "d0b83026be95e613438e227140ead304c194682f",
+   "title": "California sues OpenAI over rogue AI hacking incidents",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+   "source": "The Verge AI",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face.  In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of…",
+   "published": "2026-11-16T20:46:01.000Z",
+   "dupes": 1,
+   "score": 0.502,
+   "tier": 3
   },
   {
    "id": "91e58e2ea930c2fabc271a22401b1d1a40419d3b",
@@ -103,38 +223,53 @@
    "tldr": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
    "published": "2026-11-16T09:00:00.000Z",
    "dupes": 1,
-   "score": 0.559,
-   "tier": 2
+   "score": 0.492,
+   "tier": 3
   },
   {
-   "id": "1df21d2e2c7164f784bb4db08872acf5d2ab749c",
-   "title": "Nvidia Was in Trouble Before the Jensen Huang Mess",
-   "url": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess",
-   "source": "Hacker News",
+   "id": "5f72fbdc79b9385d19bf8b97378b0837896aeef0",
+   "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
+   "url": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
+   "source": "The Verge AI",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly.  At a Monday press briefing in Washington, DC, OpenAI announced…",
+   "published": "2026-11-16T19:23:45.000Z",
+   "dupes": 1,
+   "score": 0.486,
+   "tier": 3
+  },
+  {
+   "id": "ebd9eb94963902d268e98b387f55dc19a0c20460",
+   "title": "Our first phase of embedded assessments",
+   "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+   "published": "2026-11-16T08:00:00.000Z",
+   "dupes": 1,
+   "score": 0.485,
+   "tier": 3
+  },
+  {
+   "id": "bd7cc537cd570a59da967dd2949baf4b0023506e",
+   "title": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back",
+   "url": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back",
+   "source": "The Verge AI",
    "org": [
     "nvidia"
    ],
    "topic": "ai",
-   "tldr": "",
-   "published": "2026-11-16T15:24:09.000Z",
+   "tldr": "Nvidia's board of directors \"isn't considering\" having Jensen Huang return as CEO, according to a report from CNBC.",
+   "published": "2026-11-16T18:43:35.000Z",
    "dupes": 1,
-   "score": 0.549,
-   "tier": 2
-  },
-  {
-   "id": "70fcd4b516bdae91ac8ac07b207dae29cb56e13e",
-   "title": "What's Next for Nvidia?",
-   "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia",
-   "source": "Hacker News",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-11-15T23:55:55.000Z",
-   "dupes": 1,
-   "score": 0.533,
-   "tier": 2
+   "score": 0.479,
+   "tier": 3
   },
   {
    "id": "b0ded74e06b06613ea577f6c99012354ee06d70e",
@@ -148,8 +283,8 @@
    "tldr": "",
    "published": "2026-11-16T06:00:00.000Z",
    "dupes": 1,
-   "score": 0.531,
-   "tier": 2
+   "score": 0.471,
+   "tier": 3
   },
   {
    "id": "cfcc7acb02e9ca7944d1e900e1dedbf4b8c78667",
@@ -163,52 +298,7 @@
    "tldr": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
    "published": "2026-11-16T06:00:00.000Z",
    "dupes": 1,
-   "score": 0.531,
-   "tier": 2
-  },
-  {
-   "id": "dd02c35afc864bbe7d1e57478a76f2e657ea8130",
-   "title": "Google Maps can now create trip itineraries for you",
-   "url": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning",
-   "source": "The Verge AI",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop.  The update, which is rolling out to the Gemini-powered…",
-   "published": "2026-11-16T14:00:00.000Z",
-   "dupes": 1,
-   "score": 0.514,
-   "tier": 2
-  },
-  {
-   "id": "2b2bb87b4857660b3e1db9ebf284e5598d1e594b",
-   "title": "The Nvidia scandal isn’t slowing down",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
-   "source": "The Verge AI",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "ai",
-   "tldr": "For years, Jensen Huang has had an almost unprecedented power to shape AI's advancement as Nvidia's CEO, cofounder, and president.",
-   "published": "2026-11-16T13:00:00.000Z",
-   "dupes": 1,
-   "score": 0.502,
-   "tier": 2
-  },
-  {
-   "id": "dd1ac9ad528a63e3c57234d6ecc5b3cd0d8b9078",
-   "title": "94% of Singapore Small Business Owners Surveyed Say More AI Guidance Is Needed",
-   "url": "https://about.fb.com/news/2026/11/94-of-singapore-small-business-owners-surveyed-say-more-ai-guidance-is-needed",
-   "source": "Meta Newsroom",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "More than 180 small businesses, heartland merchants and creator-entrepreneurs joined Meta Upskill Day 2026 in Singapore, part of Meta's Small Business Growth Academy, with Senior Minister of State Low Yen Ling attending…",
-   "published": "2026-11-16T06:25:27.000Z",
-   "dupes": 1,
-   "score": 0.485,
+   "score": 0.471,
    "tier": 3
   },
   {
@@ -223,7 +313,37 @@
    "tldr": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
    "published": "2026-11-16T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.483,
+   "score": 0.436,
+   "tier": 3
+  },
+  {
+   "id": "3899b6e8ee3cc1f1e22e1d88662f051be1f7932a",
+   "title": "At Holiday Extras, dots get to work before anyone asks",
+   "url": "https://openai.com/business/customer-stories/holiday-extras-dots",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
+   "published": "2026-11-16T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.436,
+   "tier": 3
+  },
+  {
+   "id": "dd02c35afc864bbe7d1e57478a76f2e657ea8130",
+   "title": "Google Maps can now create trip itineraries for you",
+   "url": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning",
+   "source": "The Verge AI",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop.  The update, which is rolling out to the Gemini-powered…",
+   "published": "2026-11-16T14:00:00.000Z",
+   "dupes": 1,
+   "score": 0.433,
    "tier": 3
   },
   {
@@ -238,7 +358,7 @@
    "tldr": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
    "published": "2026-11-15T22:00:01.000Z",
    "dupes": 1,
-   "score": 0.47,
+   "score": 0.426,
    "tier": 3
   },
   {
@@ -253,7 +373,22 @@
    "tldr": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
    "published": "2026-11-15T22:00:00.000Z",
    "dupes": 1,
-   "score": 0.47,
+   "score": 0.426,
+   "tier": 3
+  },
+  {
+   "id": "dd1ac9ad528a63e3c57234d6ecc5b3cd0d8b9078",
+   "title": "94% of Singapore Small Business Owners Surveyed Say More AI Guidance Is Needed",
+   "url": "https://about.fb.com/news/2026/11/94-of-singapore-small-business-owners-surveyed-say-more-ai-guidance-is-needed",
+   "source": "Meta Newsroom",
+   "org": [
+    "meta"
+   ],
+   "topic": "ai",
+   "tldr": "More than 180 small businesses, heartland merchants and creator-entrepreneurs joined Meta Upskill Day 2026 in Singapore, part of Meta's Small Business Growth Academy, with Senior Minister of State Low Yen Ling attending…",
+   "published": "2026-11-16T06:25:27.000Z",
+   "dupes": 1,
+   "score": 0.424,
    "tier": 3
   },
   {
@@ -268,37 +403,20 @@
    "tldr": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical AI and AI agents.",
    "published": "2026-11-16T00:00:28.000Z",
    "dupes": 1,
-   "score": 0.458,
+   "score": 0.411,
    "tier": 3
   },
   {
-   "id": "2f1f5cbf7ce833ab47a4022222f75006fb8227ac",
-   "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
-   "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
-   "source": "The Verge AI",
-   "org": [
-    "nvidia"
-   ],
+   "id": "853b24ff0d6ecd3fcd61e6830268745171134fbb",
+   "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+   "url": "https://huggingface.co/blog/openrouter",
+   "source": "Hugging Face Blog",
+   "org": [],
    "topic": "ai",
-   "tldr": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly.  The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments…",
-   "published": "2026-11-15T20:43:49.000Z",
+   "tldr": "",
+   "published": "2026-11-16T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.362,
-   "tier": 3
-  },
-  {
-   "id": "1207b5c1c70bbc649c4833862a588f3ea7c47f65",
-   "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
-   "source": "The Verge AI",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips.  Both Democrats and Republicans have voiced…",
-   "published": "2026-11-15T19:15:43.000Z",
-   "dupes": 1,
-   "score": 0.353,
+   "score": 0.398,
    "tier": 3
   },
   {
@@ -313,7 +431,7 @@
    "tldr": "",
    "published": "2026-11-14T15:04:15.000Z",
    "dupes": 1,
-   "score": 0.342,
+   "score": 0.376,
    "tier": 3
   },
   {
@@ -328,7 +446,7 @@
    "tldr": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
    "published": "2026-11-13T15:00:00.000Z",
    "dupes": 1,
-   "score": 0.32,
+   "score": 0.315,
    "tier": 3
   },
   {
@@ -343,7 +461,7 @@
    "tldr": "Shield uses OpenAI to help IT technicians hand off work in legacy portals.  Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
    "published": "2026-11-13T08:00:00.000Z",
    "dupes": 1,
-   "score": 0.316,
+   "score": 0.312,
    "tier": 3
   },
   {
@@ -358,7 +476,7 @@
    "tldr": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
    "published": "2026-11-12T20:00:00.000Z",
    "dupes": 1,
-   "score": 0.31,
+   "score": 0.307,
    "tier": 3
   },
   {
@@ -373,7 +491,7 @@
    "tldr": "",
    "published": "2026-11-12T18:00:50.000Z",
    "dupes": 1,
-   "score": 0.309,
+   "score": 0.307,
    "tier": 3
   },
   {
@@ -388,7 +506,7 @@
    "tldr": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
    "published": "2026-11-12T12:00:00.000Z",
    "dupes": 1,
-   "score": 0.307,
+   "score": 0.305,
    "tier": 3
   },
   {
@@ -403,7 +521,7 @@
    "tldr": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
    "published": "2026-11-12T09:30:00.000Z",
    "dupes": 1,
-   "score": 0.307,
+   "score": 0.305,
    "tier": 3
   },
   {
@@ -421,7 +539,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.305,
+   "score": 0.303,
    "tier": 3
   },
   {
@@ -435,21 +553,6 @@
    "topic": "ai",
    "tldr": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
    "published": "2026-11-12T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.305,
-   "tier": 3
-  },
-  {
-   "id": "e879c6fc35d4933fd40afbaeb860ab9eff703b40",
-   "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-   "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
-   "source": "Google DeepMind",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
-   "published": "2026-11-11T15:00:15.000Z",
    "dupes": 1,
    "score": 0.303,
    "tier": 3
@@ -470,6 +573,21 @@
    "tier": 3
   },
   {
+   "id": "e879c6fc35d4933fd40afbaeb860ab9eff703b40",
+   "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+   "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
+   "source": "Google DeepMind",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+   "published": "2026-11-11T15:00:15.000Z",
+   "dupes": 1,
+   "score": 0.302,
+   "tier": 3
+  },
+  {
    "id": "8c999d6885d24711e9176d230ab5bde4e8521195",
    "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
    "url": "https://openai.com/index/jiostar-vijay-seshadri",
@@ -481,7 +599,7 @@
    "tldr": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale.  Read his lessons on evals, guardrails, and taking AI into production.",
    "published": "2026-11-11T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.302,
+   "score": 0.301,
    "tier": 3
   },
   {
@@ -560,36 +678,6 @@
    "tier": 3
   },
   {
-   "id": "1ff74ee2cb1066374d17a7df61ac63f71f255a67",
-   "title": "Cogent and OpenAI build cyber defense factories for enterprises",
-   "url": "https://openai.com/index/cogent-security",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
-   "published": "2026-11-10T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
-   "id": "9c331579e229757a7a398cd4a7db6c8d1421dabe",
-   "title": "ChatGPT Enterprise now available in AWS Marketplace",
-   "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
-   "published": "2026-11-09T19:00:00.000Z",
-   "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
    "id": "fc6b6a56df7b365074b119338f18f53b82e8e233",
    "title": "Gemini 4 Carbon is now available",
    "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available",
@@ -635,21 +723,6 @@
    "tier": 3
   },
   {
-   "id": "7da1b2b4758f6148853c122ae7c8e20bc40537d5",
-   "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
-   "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence",
-   "source": "Google DeepMind",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
-   "published": "2026-11-09T19:51:47.000Z",
-   "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
    "id": "be81354d8a302a35aaed2627d58a26fa2f7f60b7",
    "title": "Advancing science & engineering with Antigravity’s /teamwork",
    "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature",
@@ -661,12 +734,12 @@
    "tldr": "Education Innovation",
    "published": "2026-11-13T20:47:18.000Z",
    "dupes": 1,
-   "score": 0.301,
+   "score": 0.294,
    "tier": 3
   },
   {
    "id": "ece4b84db3e9cab745443b3632e6db75ab76b12f",
-   "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
+   "title": "AI Is Helping Care Teams Get Patients the Right Care, Sooner",
    "url": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams",
    "source": "NVIDIA Blog",
    "org": [
@@ -676,33 +749,7 @@
    "tldr": "From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients.  Health systems and startups are putting it to work across healthcare, from matching…",
    "published": "2026-11-13T13:00:42.000Z",
    "dupes": 1,
-   "score": 0.294,
-   "tier": 3
-  },
-  {
-   "id": "2427bacb74a96b4b261bbbfd7ef785414a53a540",
-   "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-   "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-11-13T18:00:39.000Z",
-   "dupes": 1,
-   "score": 0.285,
-   "tier": 3
-  },
-  {
-   "id": "8400bdfe1e2afd49cb164842f3acb314375cda23",
-   "title": "XYBench: Helping with the problem behind the question",
-   "url": "https://huggingface.co/blog/allenai/xybench",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-11-13T17:02:35.000Z",
-   "dupes": 1,
-   "score": 0.285,
+   "score": 0.289,
    "tier": 3
   },
   {
@@ -717,22 +764,33 @@
    "tldr": "Rally the ranks this GFN Thursday.  Warhammer 40,000: Dawn of War IV is coming to GeForce NOW, allowing players to experience the battle for Kronus through cloud gaming.",
    "published": "2026-11-12T14:00:59.000Z",
    "dupes": 1,
-   "score": 0.283,
+   "score": 0.281,
    "tier": 3
   },
   {
-   "id": "40e78db6601d46e62d9253d05213567fc448d804",
-   "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-   "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+   "id": "2427bacb74a96b4b261bbbfd7ef785414a53a540",
+   "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+   "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
    "source": "Hugging Face Blog",
-   "org": [
-    "meta"
-   ],
+   "org": [],
    "topic": "ai",
    "tldr": "",
-   "published": "2026-11-13T14:05:22.000Z",
+   "published": "2026-11-13T18:00:39.000Z",
    "dupes": 1,
-   "score": 0.282,
+   "score": 0.279,
+   "tier": 3
+  },
+  {
+   "id": "8400bdfe1e2afd49cb164842f3acb314375cda23",
+   "title": "XYBench: Helping with the problem behind the question",
+   "url": "https://huggingface.co/blog/allenai/xybench",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-13T17:02:35.000Z",
+   "dupes": 1,
+   "score": 0.279,
    "tier": 3
   },
   {
@@ -747,12 +805,12 @@
    "tldr": "Health & Bioscience",
    "published": "2026-11-11T19:54:00.000Z",
    "dupes": 1,
-   "score": 0.279,
+   "score": 0.278,
    "tier": 3
   },
   {
    "id": "a3f9078912ac05de057568b2406e4f40c088e9d5",
-   "title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
+   "title": "AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
    "url": "https://blogs.nvidia.com/blog/ai-recycling-startups",
    "source": "NVIDIA Blog",
    "org": [
@@ -766,18 +824,18 @@
    "tier": 3
   },
   {
-   "id": "fead6112027b46238be410ff80eb73420a1a72a2",
-   "title": "Exploring the world's languages with Language Explorer",
-   "url": "https://research.google/blog/exploring-the-worlds-languages-with-language-explorer",
-   "source": "Google Research",
+   "id": "40e78db6601d46e62d9253d05213567fc448d804",
+   "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+   "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+   "source": "Hugging Face Blog",
    "org": [
-    "google"
+    "meta"
    ],
    "topic": "ai",
-   "tldr": "Natural Language Processing",
-   "published": "2026-11-09T20:29:39.000Z",
+   "tldr": "",
+   "published": "2026-11-13T14:05:22.000Z",
    "dupes": 1,
-   "score": 0.276,
+   "score": 0.277,
    "tier": 3
   },
   {
@@ -813,7 +871,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.273,
+   "score": 0.27,
    "tier": 3
   },
   {
@@ -826,7 +884,7 @@
    "tldr": "",
    "published": "2026-11-12T19:07:35.000Z",
    "dupes": 1,
-   "score": 0.272,
+   "score": 0.27,
    "tier": 3
   },
   {
@@ -839,63 +897,7 @@
    "tldr": "",
    "published": "2026-11-12T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.267,
-   "tier": 3
-  },
-  {
-   "id": "b22522d14a17f95f283880f472cfa6e801354fb8",
-   "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-   "url": "https://huggingface.co/blog/qvac/botpsy",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-11-11T05:01:16.000Z",
-   "dupes": 1,
-   "score": 0.265,
-   "tier": 3
-  },
-  {
-   "id": "71f09bf5cddc2e29c9a585442a24885d50e15eda",
-   "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
-   "url": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents",
-   "source": "Microsoft Research",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "Microsoft researchers have discovered “Lazarus,” a backdoor technique that can reprogram dormant neurons in an AI model, causing an otherwise normal AI agent to execute malicious commands when a hidden trigger appears.…",
-   "published": "2026-11-10T20:52:56.000Z",
-   "dupes": 1,
-   "score": 0.264,
-   "tier": 3
-  },
-  {
-   "id": "d2296a64c0dc3b898a3595115c1f5ace43ee82d5",
-   "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-   "url": "https://huggingface.co/blog/token-pooling",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-11-11T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.264,
-   "tier": 3
-  },
-  {
-   "id": "724fae9251483a53cc93e1b086445897a9598c39",
-   "title": "Pay for Hugging Face Hub with your Google Cloud Account",
-   "url": "https://huggingface.co/blog/hub-gcp-marketplace",
-   "source": "Hugging Face Blog",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-11-10T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.263,
+   "score": 0.266,
    "tier": 3
   }
  ]
