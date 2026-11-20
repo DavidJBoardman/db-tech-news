@@ -1,6 +1,21 @@
 {
- "generated": "2026-11-20T03:49:00.739Z",
+ "generated": "2026-11-20T12:23:11.061Z",
  "items": [
+  {
+   "id": "89097e0b21a00ce8cfc2c029f3fc37cf11f87bf0",
+   "title": "Microsoft now automatically installs Windows 11 26H2 on unmanaged devices",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-automatically-installs-windows-11-26h2-on-personal-and-unmanaged-pcs",
+   "source": "BleepingComputer",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "security",
+   "tldr": "Starting this week, Microsoft has begun automatically upgrading eligible devices that aren't managed by an IT department to Windows 11 26H2.",
+   "published": "2026-11-20T12:14:28.000Z",
+   "dupes": 1,
+   "score": 0.706,
+   "tier": 1
+  },
   {
    "id": "f0d0f469e0bfee91cfaeea08eb03e00e33b59b48",
    "title": "Anthropic’s Nasdaq debut",
@@ -13,8 +28,8 @@
    "tldr": "",
    "published": "2026-11-19T17:02:40.000Z",
    "dupes": 1,
-   "score": 0.715,
-   "tier": 1
+   "score": 0.684,
+   "tier": 2
   },
   {
    "id": "93cc88f40ec599103ad7484c418f2df2f70e6ff3",
@@ -29,7 +44,7 @@
    "tldr": "\"Project Suncatcher is a long-term moonshot.\"",
    "published": "2026-11-19T19:52:54.000Z",
    "dupes": 2,
-   "score": 0.704,
+   "score": 0.673,
    "tier": 2
   },
   {
@@ -44,22 +59,7 @@
    "tldr": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
    "published": "2026-11-20T00:43:50.000Z",
    "dupes": 1,
-   "score": 0.7,
-   "tier": 2
-  },
-  {
-   "id": "271e5d72d10e7127d8540a712a64f5d9cc6f2c57",
-   "title": "Anthropic rival says companies can (mostly) skip the pricey models",
-   "url": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models",
-   "source": "TechCrunch",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust.",
-   "published": "2026-11-20T00:26:03.000Z",
-   "dupes": 1,
-   "score": 0.698,
+   "score": 0.663,
    "tier": 2
   },
   {
@@ -74,7 +74,7 @@
    "tldr": "Quantum",
    "published": "2026-11-19T20:03:00.000Z",
    "dupes": 1,
-   "score": 0.695,
+   "score": 0.662,
    "tier": 2
   },
   {
@@ -90,7 +90,22 @@
    "tldr": "NVIDIA and Microsoft are extending their full-stack collaboration to help organizations build, customize and deploy intelligent applications — from next-generation infrastructure on Azure to industrial systems and…",
    "published": "2026-11-19T20:00:15.000Z",
    "dupes": 1,
-   "score": 0.695,
+   "score": 0.662,
+   "tier": 2
+  },
+  {
+   "id": "271e5d72d10e7127d8540a712a64f5d9cc6f2c57",
+   "title": "Anthropic rival says companies can (mostly) skip the pricey models",
+   "url": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models",
+   "source": "TechCrunch",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust.",
+   "published": "2026-11-20T00:26:03.000Z",
+   "dupes": 1,
+   "score": 0.662,
    "tier": 2
   },
   {
@@ -105,7 +120,7 @@
    "tldr": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
    "published": "2026-11-19T23:33:51.000Z",
    "dupes": 1,
-   "score": 0.694,
+   "score": 0.659,
    "tier": 2
   },
   {
@@ -120,82 +135,7 @@
    "tldr": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended.  Developers are combining frontier AI models with NVIDIA…",
    "published": "2026-11-19T17:00:35.000Z",
    "dupes": 1,
-   "score": 0.682,
-   "tier": 2
-  },
-  {
-   "id": "ed33061e28b05b70d146cc39d6c1726ec81e5c0e",
-   "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-   "url": "https://git-aarvin.github.io/mei",
-   "source": "Hacker News",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-11-19T23:35:35.000Z",
-   "dupes": 1,
-   "score": 0.681,
-   "tier": 2
-  },
-  {
-   "id": "c3cb18060c1075bf6f639cfdd9e77603716bf462",
-   "title": "NASA's new Moon plans have a problem: Orion wasn't designed to fly this way",
-   "url": "https://arstechnica.com/space/2026/11/to-make-moon-landings-easier-nasa-is-making-life-harder-for-orion",
-   "source": "Ars Technica",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "\"We also have a responsibility to not go too fast and cut too many corners.\"",
-   "published": "2026-11-19T13:40:02.000Z",
-   "dupes": 2,
-   "score": 0.681,
-   "tier": 2
-  },
-  {
-   "id": "2ed09bbf2a0c5d3caf687cc3cd490b620fb8caba",
-   "title": "Apple may be developing its own AI agent that runs your Mac",
-   "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac",
-   "source": "TechCrunch",
-   "org": [
-    "apple"
-   ],
-   "topic": "ai",
-   "tldr": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
-   "published": "2026-11-20T00:56:01.000Z",
-   "dupes": 1,
-   "score": 0.681,
-   "tier": 2
-  },
-  {
-   "id": "3580245413f2f58af5cb88ad65c15dd738915714",
-   "title": "UK government forced to admit it issued Apple a secret encryption order",
-   "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order",
-   "source": "Hacker News",
-   "org": [
-    "apple"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-11-19T16:21:03.000Z",
-   "dupes": 1,
-   "score": 0.675,
-   "tier": 2
-  },
-  {
-   "id": "e22812a5ccc9366777fb3e13bfa5b962383cf774",
-   "title": "Anthropic’s IPO could deliver $156B to charity",
-   "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity",
-   "source": "TechCrunch",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
-   "published": "2026-11-19T19:10:45.000Z",
-   "dupes": 1,
-   "score": 0.675,
+   "score": 0.652,
    "tier": 2
   },
   {
@@ -210,23 +150,23 @@
    "tldr": "",
    "published": "2026-11-19T17:30:44.000Z",
    "dupes": 1,
-   "score": 0.671,
-   "tier": 3
+   "score": 0.643,
+   "tier": 2
   },
   {
-   "id": "6d6821f501bbce2ed5069143f7edfed4a0a55cd9",
-   "title": "Google gives Gemini the ability to use your Mac for you",
-   "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you",
+   "id": "e22812a5ccc9366777fb3e13bfa5b962383cf774",
+   "title": "Anthropic’s IPO could deliver $156B to charity",
+   "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity",
    "source": "TechCrunch",
    "org": [
-    "google"
+    "anthropic"
    ],
    "topic": "ai",
-   "tldr": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
-   "published": "2026-11-19T18:09:11.000Z",
+   "tldr": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
+   "published": "2026-11-19T19:10:45.000Z",
    "dupes": 1,
-   "score": 0.671,
-   "tier": 3
+   "score": 0.643,
+   "tier": 2
   },
   {
    "id": "6687f7be62c34e4af8b14ad1fa0bb36ceef40b28",
@@ -240,7 +180,67 @@
    "tldr": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
    "published": "2026-11-19T08:00:00.000Z",
    "dupes": 1,
-   "score": 0.666,
+   "score": 0.641,
+   "tier": 2
+  },
+  {
+   "id": "6d6821f501bbce2ed5069143f7edfed4a0a55cd9",
+   "title": "Google gives Gemini the ability to use your Mac for you",
+   "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you",
+   "source": "TechCrunch",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+   "published": "2026-11-19T18:09:11.000Z",
+   "dupes": 1,
+   "score": 0.639,
+   "tier": 2
+  },
+  {
+   "id": "e71232150b493ed54a00c4dbe20c48e468b1a536",
+   "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+   "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price",
+   "source": "TechCrunch",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
+   "published": "2026-11-19T16:59:23.000Z",
+   "dupes": 1,
+   "score": 0.636,
+   "tier": 3
+  },
+  {
+   "id": "3e5d1a7c85bc41a58018a713c8cc3dc5516bfda5",
+   "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+   "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development",
+   "source": "TechCrunch",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
+   "published": "2026-11-19T16:19:41.000Z",
+   "dupes": 1,
+   "score": 0.633,
+   "tier": 3
+  },
+  {
+   "id": "c6d87bb33ae78f6a157f2456468e0cbb016f0185",
+   "title": "Anthropic raises $81bn in record-breaking stock market debut",
+   "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Technology",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
+   "published": "2026-11-19T15:58:58.000Z",
+   "dupes": 1,
+   "score": 0.632,
    "tier": 3
   },
   {
@@ -255,7 +255,7 @@
    "tldr": "Google says almost all developers have already gotten on board with verification.",
    "published": "2026-11-19T18:00:33.000Z",
    "dupes": 1,
-   "score": 0.662,
+   "score": 0.631,
    "tier": 3
   },
   {
@@ -270,82 +270,7 @@
    "tldr": "The easiest way to fool someone is to give them something they already expect.  A job offer.",
    "published": "2026-11-19T18:47:58.000Z",
    "dupes": 1,
-   "score": 0.658,
-   "tier": 3
-  },
-  {
-   "id": "b6a1f1274969b3ca12ee801778a2365b9681757e",
-   "title": "NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars",
-   "url": "https://science.nasa.gov/open-science/fermi-data-pulsar-discovery",
-   "source": "NASA",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "Open data from NASA’s Fermi mission helped an international team of scientists develop a method for finding pulsars about a million times faster than before.",
-   "published": "2026-11-19T15:33:55.000Z",
-   "dupes": 1,
-   "score": 0.643,
-   "tier": 3
-  },
-  {
-   "id": "545f65984d1e8447a74af7f5561c3990a5246d6a",
-   "title": "NASA Conducts Latest RS-25 Engine Test in Support of Future Artemis Missions",
-   "url": "https://www.nasa.gov/image-article/latest-rs-25-engine-test-in-support-of-future-artemis-missions",
-   "source": "NASA",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "NASA tested RS-25 engine No.  10001 on Nov.",
-   "published": "2026-11-19T14:44:39.000Z",
-   "dupes": 1,
-   "score": 0.64,
-   "tier": 3
-  },
-  {
-   "id": "6535cd5104041fef5cb39148e9a0cebae49428d1",
-   "title": "Microsoft’s Agent Framework PyPI package compromised to steal credentials",
-   "url": "https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials",
-   "source": "BleepingComputer",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "security",
-   "tldr": "Hackers compromised Microsoft's official Agent Framework Python package on PyPI, publishing two malicious versions designed to steal cloud credentials and other sensitive information from developers' systems.",
-   "published": "2026-11-18T16:58:42.000Z",
-   "dupes": 2,
-   "score": 0.64,
-   "tier": 3
-  },
-  {
-   "id": "b226cc6ed44ce901806e12d6042d605d2c027e8e",
-   "title": "NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth",
-   "url": "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth",
-   "source": "NASA",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "NASA’s Voyager 1 probe, humanity’s farthest-flying spacecraft, has reached one light-day from Earth, after more than 49 years of constant travel.  9 billion kilometers).",
-   "published": "2026-11-19T14:31:15.000Z",
-   "dupes": 1,
-   "score": 0.639,
-   "tier": 3
-  },
-  {
-   "id": "e8f85c3b9e40e26362a0b1e7c35e1f9fb4ff4e2d",
-   "title": "NVIDIA investigating Gentlemen ransomware breach claims",
-   "url": "https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims",
-   "source": "BleepingComputer",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "security",
-   "tldr": "NVIDIA is investigating claims of a security breach after the Gentlemen ransomware group has added the company to its dark web data leak site.",
-   "published": "2026-11-19T09:23:21.000Z",
-   "dupes": 1,
-   "score": 0.631,
+   "score": 0.626,
    "tier": 3
   },
   {
@@ -360,7 +285,7 @@
    "tldr": "Microsoft is developing a new Edge security feature to reduce the attack surface by disabling the WebGL, WebGL2, and WebGPU APIs.",
    "published": "2026-11-19T11:46:00.000Z",
    "dupes": 1,
-   "score": 0.616,
+   "score": 0.612,
    "tier": 3
   },
   {
@@ -375,7 +300,22 @@
    "tldr": "Microsoft has shared a workaround for installation and launch issues affecting Office and third-party applications after installing this month's Windows 11 hotpatch.",
    "published": "2026-11-19T10:35:05.000Z",
    "dupes": 1,
-   "score": 0.614,
+   "score": 0.608,
+   "tier": 3
+  },
+  {
+   "id": "e8f85c3b9e40e26362a0b1e7c35e1f9fb4ff4e2d",
+   "title": "NVIDIA investigating Gentlemen ransomware breach claims",
+   "url": "https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims",
+   "source": "BleepingComputer",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "security",
+   "tldr": "NVIDIA is investigating claims of a security breach after the Gentlemen ransomware group has added the company to its dark web data leak site.",
+   "published": "2026-11-19T09:23:21.000Z",
+   "dupes": 1,
+   "score": 0.605,
    "tier": 3
   },
   {
@@ -390,7 +330,7 @@
    "tldr": "New NVIDIA RTX Spark compact desktops from ASUS, Dell and MSI are available today, bringing local AI agents, image and video generation, and model fine-tuning to a dedicated Windows PC.",
    "published": "2026-11-18T14:00:31.000Z",
    "dupes": 1,
-   "score": 0.603,
+   "score": 0.586,
    "tier": 3
   },
   {
@@ -405,37 +345,22 @@
    "tldr": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
    "published": "2026-11-18T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.593,
-   "tier": 3
-  },
-  {
-   "id": "bf2b02117a3cfaa3745410accecdc8ce14007eea",
-   "title": "NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch",
-   "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch",
-   "source": "NASA",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "m.  EST, Sunday, Nov.",
-   "published": "2026-11-18T22:19:17.000Z",
-   "dupes": 1,
-   "score": 0.591,
-   "tier": 3
-  },
-  {
-   "id": "e4b9dab08990faaa23ea142939e622faa837f8e2",
-   "title": "NASA Announces Mid-Power Electric Rocket Challenge for US Companies",
-   "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-announces-mid-power-electric-rocket-challenge-for-us-companies",
-   "source": "NASA",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "S.  companies to produce prototypes of mid-power Hall effect thrusters – a type of electric propulsion system considered crucial for future space operations and exploration.",
-   "published": "2026-11-18T18:12:32.000Z",
-   "dupes": 1,
    "score": 0.582,
+   "tier": 3
+  },
+  {
+   "id": "c3cb18060c1075bf6f639cfdd9e77603716bf462",
+   "title": "NASA's new Moon plans have a problem: Orion wasn't designed to fly this way",
+   "url": "https://arstechnica.com/space/2026/11/to-make-moon-landings-easier-nasa-is-making-life-harder-for-orion",
+   "source": "Ars Technica",
+   "org": [
+    "nasa"
+   ],
+   "topic": "space",
+   "tldr": "\"We also have a responsibility to not go too fast and cut too many corners.\"",
+   "published": "2026-11-19T13:40:02.000Z",
+   "dupes": 2,
+   "score": 0.577,
    "tier": 3
   },
   {
@@ -450,37 +375,37 @@
    "tldr": "NVIDIA’s Ian Buck kicked off the company’s week at SC26 in Chicago on Monday with new tools for AI agents, software that can plan experiments, run code and check results on researchers’ own systems.",
    "published": "2026-11-17T14:00:10.000Z",
    "dupes": 1,
-   "score": 0.564,
+   "score": 0.554,
    "tier": 3
   },
   {
-   "id": "ee9a23761ba06bf059073accba0e3ee37023049f",
-   "title": "Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization",
-   "url": "https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html",
-   "source": "The Hacker News",
+   "id": "cb8790c72382e7a1f489c6250c06d5ff8353c402",
+   "title": "IGN partners with Rockstar to host Official Strategy Guide for GTA 6",
+   "url": "https://www.gamesindustry.biz/ign-partners-with-rockstar-to-host-official-strategy-guide-for-gta-6",
+   "source": "GamesIndustry.biz",
    "org": [
-    "google"
+    "rockstar"
    ],
-   "topic": "security",
-   "tldr": "The Russia-linked cyber espionage group known as Cold Relic (formerly COLDRIVER and UNC4057) has been observed weaponizing a single cloud compromise into a launchpad for a series of linked intrusions resulting in…",
-   "published": "2026-11-18T05:58:04.000Z",
+   "topic": "gaming",
+   "tldr": "biz , has released the Official Online Guide for GTA 6 , created through direct collaboration with Rockstar Games.  com, includes an extensive interactive map built using the firm's MapGenie platform, along with…",
+   "published": "2026-11-20T10:07:40.000Z",
    "dupes": 1,
-   "score": 0.555,
+   "score": 0.554,
    "tier": 3
   },
   {
-   "id": "bccee91cf8115d861d69d35c1e70757a998da12a",
-   "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
-   "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote",
-   "source": "Ars Technica · Gadgets",
+   "id": "1df53018af16af504526646979144ea084c6b860",
+   "title": "Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials",
+   "url": "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html",
+   "source": "The Hacker News",
    "org": [
     "microsoft"
    ],
-   "topic": "compute",
-   "tldr": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
-   "published": "2026-11-18T00:27:29.000Z",
+   "topic": "security",
+   "tldr": "Threat actors have compromised Microsoft's agent-framework package to push a credential stealer, according to reports from Aikido, Chainguard, Endor Labs, OX Security, SafeDep, Socket, StepSecurity, and Google-owned…",
+   "published": "2026-11-18T06:45:26.000Z",
    "dupes": 1,
-   "score": 0.554,
+   "score": 0.543,
    "tier": 3
   },
   {
@@ -495,7 +420,37 @@
    "tldr": "At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and developers.",
    "published": "2026-11-16T23:00:05.000Z",
    "dupes": 1,
-   "score": 0.548,
+   "score": 0.542,
+   "tier": 3
+  },
+  {
+   "id": "bccee91cf8115d861d69d35c1e70757a998da12a",
+   "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+   "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote",
+   "source": "Ars Technica · Gadgets",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "compute",
+   "tldr": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
+   "published": "2026-11-18T00:27:29.000Z",
+   "dupes": 1,
+   "score": 0.542,
+   "tier": 3
+  },
+  {
+   "id": "ee9a23761ba06bf059073accba0e3ee37023049f",
+   "title": "Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization",
+   "url": "https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html",
+   "source": "The Hacker News",
+   "org": [
+    "google"
+   ],
+   "topic": "security",
+   "tldr": "The Russia-linked cyber espionage group known as Cold Relic (formerly COLDRIVER and UNC4057) has been observed weaponizing a single cloud compromise into a launchpad for a series of linked intrusions resulting in…",
+   "published": "2026-11-18T05:58:04.000Z",
+   "dupes": 1,
+   "score": 0.542,
    "tier": 3
   },
   {
@@ -510,7 +465,7 @@
    "tldr": "Deb Shoquist leads operations at NVIDIA, overseeing the supply chain and manufacturing behind its AI platforms.  That description sums up the job, but it doesn’t begin to encompass what Shoquist has made possible over…",
    "published": "2026-11-16T20:00:37.000Z",
    "dupes": 1,
-   "score": 0.546,
+   "score": 0.54,
    "tier": 3
   },
   {
@@ -525,7 +480,7 @@
    "tldr": "To train an AI model, thousands of GPUs have to work together, requiring a network that’s fast, efficient and resilient.  Lambda is tackling the network piece of the puzzle with NVIDIA Photonics co-packaged optics (CPO)…",
    "published": "2026-11-16T16:00:51.000Z",
    "dupes": 1,
-   "score": 0.543,
+   "score": 0.537,
    "tier": 3
   },
   {
@@ -540,7 +495,7 @@
    "tldr": "Quantum processor deployments at supercomputing centers have grown nearly sevenfold over the past five years, with nearly 30 supercomputing centers around the world now in the process of deploying over 50 quantum…",
    "published": "2026-11-16T16:00:47.000Z",
    "dupes": 1,
-   "score": 0.543,
+   "score": 0.537,
    "tier": 3
   },
   {
@@ -555,67 +510,67 @@
    "tldr": "In its MLPerf benchmarks debut, with results released today, the NVIDIA Vera Rubin platform delivers leading performance across training, post-training and agentic inference.",
    "published": "2026-11-16T16:00:25.000Z",
    "dupes": 1,
-   "score": 0.543,
+   "score": 0.537,
    "tier": 3
   },
   {
-   "id": "b69860df42181d85482e286dbace3e69311bdb37",
-   "title": "Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission",
-   "url": "https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html",
-   "source": "The Hacker News",
+   "id": "b6a1f1274969b3ca12ee801778a2365b9681757e",
+   "title": "NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars",
+   "url": "https://science.nasa.gov/open-science/fermi-data-pulsar-discovery",
+   "source": "NASA",
    "org": [
-    "apple"
+    "nasa"
    ],
-   "topic": "security",
-   "tldr": "A now-patched flaw in Apple's audio service let apps on iPhones and iPads record audio even after the user tapped \"Don't Allow\" on the microphone prompt.  The first security updates with the fix came out on August 17.",
-   "published": "2026-11-17T12:14:36.000Z",
+   "topic": "space",
+   "tldr": "Open data from NASA’s Fermi mission helped an international team of scientists develop a method for finding pulsars about a million times faster than before.",
+   "published": "2026-11-19T15:33:55.000Z",
    "dupes": 1,
-   "score": 0.53,
+   "score": 0.535,
    "tier": 3
   },
   {
-   "id": "cb74b2746cc6b172fba82708b7cf868be821945c",
-   "title": "Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks",
-   "url": "https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html",
-   "source": "The Hacker News",
+   "id": "545f65984d1e8447a74af7f5561c3990a5246d6a",
+   "title": "NASA Conducts Latest RS-25 Engine Test in Support of Future Artemis Missions",
+   "url": "https://www.nasa.gov/image-article/latest-rs-25-engine-test-in-support-of-future-artemis-missions",
+   "source": "NASA",
    "org": [
-    "apple"
+    "nasa"
    ],
-   "topic": "security",
-   "tldr": "Apple on Monday introduced new controls that allow Mac users to give more granular access to data they give to apps, including those that use artificial intelligence (AI) agents.  3 beta 2, relate to increased…",
-   "published": "2026-11-17T11:07:31.000Z",
+   "topic": "space",
+   "tldr": "NASA tested RS-25 engine No.  10001 on Nov.",
+   "published": "2026-11-19T14:44:39.000Z",
    "dupes": 1,
-   "score": 0.528,
+   "score": 0.534,
    "tier": 3
   },
   {
-   "id": "5adf36e942dec2e1923bf20f3037ffd9ca26441d",
-   "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
-   "url": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html",
-   "source": "The Hacker News",
+   "id": "b226cc6ed44ce901806e12d6042d605d2c027e8e",
+   "title": "NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth",
+   "url": "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth",
+   "source": "NASA",
    "org": [
-    "google"
+    "nasa"
    ],
-   "topic": "security",
-   "tldr": "Google on Monday revealed that adversarial use of artificial intelligence (AI) by threat actors has gone beyond manual prompting to deploying autonomous multi-agent offensive frameworks like ARTEX, CAIRN, CyberStrikeAI,…",
-   "published": "2026-11-16T14:00:00.000Z",
+   "topic": "space",
+   "tldr": "NASA’s Voyager 1 probe, humanity’s farthest-flying spacecraft, has reached one light-day from Earth, after more than 49 years of constant travel.  9 billion kilometers).",
+   "published": "2026-11-19T14:31:15.000Z",
    "dupes": 1,
-   "score": 0.509,
+   "score": 0.534,
    "tier": 3
   },
   {
-   "id": "f0b3319bef6277d67fbe731e61e4ab6af5e5d3be",
-   "title": "SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity",
-   "url": "https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html",
-   "source": "The Hacker News",
+   "id": "bf2b02117a3cfaa3745410accecdc8ce14007eea",
+   "title": "NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch",
+   "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch",
+   "source": "NASA",
    "org": [
-    "nvidia"
+    "nasa"
    ],
-   "topic": "security",
-   "tldr": "A financially motivated threat activity cluster tracked as REF3364 has been attributed to a Linux-focused cryptocurrency mining operation that tampers with the readings used to detect high GPU workloads.  Central to the…",
-   "published": "2026-11-16T09:32:57.000Z",
+   "topic": "space",
+   "tldr": "m.  EST, Sunday, Nov.",
+   "published": "2026-11-18T22:19:17.000Z",
    "dupes": 1,
-   "score": 0.506,
+   "score": 0.513,
    "tier": 3
   },
   {
@@ -630,37 +585,7 @@
    "tldr": "The employment tribunal between Rockstar and members of the Independent Workers' Union of Great Britain (IWGB) has concluded, with both parties issuing their closing arguments.",
    "published": "2026-11-19T10:03:40.000Z",
    "dupes": 1,
-   "score": 0.496,
-   "tier": 3
-  },
-  {
-   "id": "960f41318ea903dd00580e6237aeb6a34687546d",
-   "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
-   "url": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
-   "source": "The Hacker News",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "security",
-   "tldr": "The compromise of Anthropic's official Claude Code extension on Cursor's extension marketplace was the result of the theft of an access key that was exposed in the wake of a breach targeting Fireworks AI.  \"An attacker…",
-   "published": "2026-11-15T08:22:04.000Z",
-   "dupes": 1,
-   "score": 0.494,
-   "tier": 3
-  },
-  {
-   "id": "bc43852d284f4dbdc0cd88006e2ba412750a9e83",
-   "title": "Arknights: Endfield named Google Play's best game of 2026",
-   "url": "https://www.gamesindustry.biz/arknights-endfield-named-google-plays-best-game-of-2026",
-   "source": "GamesIndustry.biz",
-   "org": [
-    "google"
-   ],
-   "topic": "gaming",
-   "tldr": "Gryphline's Arknights: Endfield has been named Google Play's best game of 2026, taking the top prize in every market except Japan and Korea.",
-   "published": "2026-11-18T17:36:20.000Z",
-   "dupes": 1,
-   "score": 0.494,
+   "score": 0.511,
    "tier": 3
   },
   {
@@ -675,7 +600,67 @@
    "tldr": "The game, which was in development for 13 years, is set become one of the world's most popular entertainment products ever.",
    "published": "2026-11-19T12:26:39.000Z",
    "dupes": 1,
-   "score": 0.493,
+   "score": 0.51,
+   "tier": 3
+  },
+  {
+   "id": "5adf36e942dec2e1923bf20f3037ffd9ca26441d",
+   "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
+   "url": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html",
+   "source": "The Hacker News",
+   "org": [
+    "google"
+   ],
+   "topic": "security",
+   "tldr": "Google on Monday revealed that adversarial use of artificial intelligence (AI) by threat actors has gone beyond manual prompting to deploying autonomous multi-agent offensive frameworks like ARTEX, CAIRN, CyberStrikeAI,…",
+   "published": "2026-11-16T14:00:00.000Z",
+   "dupes": 1,
+   "score": 0.504,
+   "tier": 3
+  },
+  {
+   "id": "f0b3319bef6277d67fbe731e61e4ab6af5e5d3be",
+   "title": "SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity",
+   "url": "https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html",
+   "source": "The Hacker News",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "security",
+   "tldr": "A financially motivated threat activity cluster tracked as REF3364 has been attributed to a Linux-focused cryptocurrency mining operation that tampers with the readings used to detect high GPU workloads.  Central to the…",
+   "published": "2026-11-16T09:32:57.000Z",
+   "dupes": 1,
+   "score": 0.501,
+   "tier": 3
+  },
+  {
+   "id": "960f41318ea903dd00580e6237aeb6a34687546d",
+   "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
+   "url": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
+   "source": "The Hacker News",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "security",
+   "tldr": "The compromise of Anthropic's official Claude Code extension on Cursor's extension marketplace was the result of the theft of an access key that was exposed in the wake of a breach targeting Fireworks AI.  \"An attacker…",
+   "published": "2026-11-15T08:22:04.000Z",
+   "dupes": 1,
+   "score": 0.492,
+   "tier": 3
+  },
+  {
+   "id": "bc43852d284f4dbdc0cd88006e2ba412750a9e83",
+   "title": "Arknights: Endfield named Google Play's best game of 2026",
+   "url": "https://www.gamesindustry.biz/arknights-endfield-named-google-plays-best-game-of-2026",
+   "source": "GamesIndustry.biz",
+   "org": [
+    "google"
+   ],
+   "topic": "gaming",
+   "tldr": "Gryphline's Arknights: Endfield has been named Google Play's best game of 2026, taking the top prize in every market except Japan and Korea.",
+   "published": "2026-11-18T17:36:20.000Z",
+   "dupes": 1,
+   "score": 0.48,
    "tier": 3
   },
   {
@@ -690,7 +675,7 @@
    "tldr": "Officially, GTA 6 releases on Thursday, the 19th November.  In practice, the first players in New Zealand, or claiming to be in New Zealand , fired it up on the 18th in the UK and US, and dozens of reviews have been…",
    "published": "2026-11-18T17:03:10.000Z",
    "dupes": 1,
-   "score": 0.476,
+   "score": 0.479,
    "tier": 3
   },
   {
@@ -705,35 +690,50 @@
    "tldr": "Rockstar Games president and co-founder Sam Houser has issued a rare statement as GTA 6 launches, celebrating the game's debut and its glowing critical reception .",
    "published": "2026-11-18T15:56:30.000Z",
    "dupes": 1,
-   "score": 0.475,
+   "score": 0.477,
    "tier": 3
   },
   {
-   "id": "5b65ccb2d95de2a4d10cd4f0e23c23d774f30b20",
-   "title": "GTA 6 leads The Game Awards 2026 with eight nominations",
-   "url": "https://www.gamesindustry.biz/gta-6-leads-the-game-awards-2026-with-eight-nominations",
-   "source": "GamesIndustry.biz",
+   "id": "b69860df42181d85482e286dbace3e69311bdb37",
+   "title": "Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission",
+   "url": "https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html",
+   "source": "The Hacker News",
    "org": [
-    "rockstar"
+    "apple"
    ],
-   "topic": "gaming",
-   "tldr": "Grand Theft Auto 6 received eight nominations for The Game Awards 2026, including Game of the Year.",
-   "published": "2026-11-18T09:12:10.000Z",
+   "topic": "security",
+   "tldr": "A now-patched flaw in Apple's audio service let apps on iPhones and iPads record audio even after the user tapped \"Don't Allow\" on the microphone prompt.  The first security updates with the fix came out on August 17.",
+   "published": "2026-11-17T12:14:36.000Z",
    "dupes": 1,
-   "score": 0.469,
+   "score": 0.442,
    "tier": 3
   },
   {
-   "id": "c23a56f69f68a951eb2be08f74dbaa5a682ebff0",
-   "title": "PHP security updates fix 18 flaws, including critical RCE bugs",
-   "url": "https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs",
-   "source": "BleepingComputer",
-   "org": [],
+   "id": "cb74b2746cc6b172fba82708b7cf868be821945c",
+   "title": "Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks",
+   "url": "https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html",
+   "source": "The Hacker News",
+   "org": [
+    "apple"
+   ],
    "topic": "security",
-   "tldr": "The PHP development team released security updates addressing 18 vulnerabilities, including critical flaws that could allow unauthenticated attackers to remotely execute code on vulnerable servers.",
-   "published": "2026-11-19T16:28:23.000Z",
-   "dupes": 3,
-   "score": 0.446,
+   "tldr": "Apple on Monday introduced new controls that allow Mac users to give more granular access to data they give to apps, including those that use artificial intelligence (AI) agents.  3 beta 2, relate to increased…",
+   "published": "2026-11-17T11:07:31.000Z",
+   "dupes": 1,
+   "score": 0.441,
+   "tier": 3
+  },
+  {
+   "id": "d360efaa5b7a29ee0bff06af94ca4bd56b57f293",
+   "title": "The Stormy Southwest Pacific",
+   "url": "https://science.nasa.gov/earth/earth-observatory/the-stormy-southwest-pacific",
+   "source": "NASA",
+   "org": [],
+   "topic": "space",
+   "tldr": "Tropical Cyclone Xavier launched the basin’s storm season with a bang.",
+   "published": "2026-11-20T05:01:00.000Z",
+   "dupes": 1,
+   "score": 0.358,
    "tier": 3
   },
   {
@@ -748,7 +748,7 @@
    "tldr": "SpaceX CEO Elon Musk said the company has completed the design of a miniature rooftop cell tower that could provide better coverage to mobile phones and eliminate dead zones.",
    "published": "2026-11-19T23:37:56.000Z",
    "dupes": 1,
-   "score": 0.384,
+   "score": 0.343,
    "tier": 3
   },
   {
@@ -761,7 +761,7 @@
    "tldr": "One of robotics' most influential advocates is gone.  Can the industry sustain its momentum without him?",
    "published": "2026-11-20T03:06:28.000Z",
    "dupes": 1,
-   "score": 0.364,
+   "score": 0.327,
    "tier": 3
   },
   {
@@ -774,33 +774,7 @@
    "tldr": "NASA’s Transformational Tools and Technologies (TTT) is gathering public perspectives on life today and how the world may change by 2075.  This challenge asks for conceptual ideas about life in 2075 across four…",
    "published": "2026-11-19T19:34:20.000Z",
    "dupes": 1,
-   "score": 0.354,
-   "tier": 3
-  },
-  {
-   "id": "c514dd998d17ba8cdf33a96a9fc40468e9eff671",
-   "title": "Lake Pelku",
-   "url": "https://www.nasa.gov/image-article/lake-pelku",
-   "source": "NASA",
-   "org": [],
-   "topic": "space",
-   "tldr": "An astronaut on the International Space Station captured this photograph of Lake Pelku (near center) as the station orbited above Asia.  The International Space Station serves as a unique platform for observing Earth…",
-   "published": "2026-11-19T15:32:39.000Z",
-   "dupes": 1,
-   "score": 0.339,
-   "tier": 3
-  },
-  {
-   "id": "0b33705585ecb542606146bfd4ada5e091f12a98",
-   "title": "The sweet spot for constellation size",
-   "url": "https://spacenews.com/the-sweet-spot-for-constellation-size",
-   "source": "SpaceNews",
-   "org": [],
-   "topic": "space",
-   "tldr": "In this episode of Space Minds, SpaceNews’ Mike Gruss speaks with Jan Smolders, the chief commercial officer at Space Inventor.  During a conversation at Space Tech Expo Europe, they discuss […] The post The sweet spot…",
-   "published": "2026-11-19T17:25:17.000Z",
-   "dupes": 1,
-   "score": 0.338,
+   "score": 0.323,
    "tier": 3
   },
   {
@@ -813,7 +787,33 @@
    "tldr": "Ukraine's strike used homegrown tech while adapting battlefield lessons from its adversary.",
    "published": "2026-11-18T23:10:39.000Z",
    "dupes": 2,
-   "score": 0.334,
+   "score": 0.315,
+   "tier": 3
+  },
+  {
+   "id": "c514dd998d17ba8cdf33a96a9fc40468e9eff671",
+   "title": "Lake Pelku",
+   "url": "https://www.nasa.gov/image-article/lake-pelku",
+   "source": "NASA",
+   "org": [],
+   "topic": "space",
+   "tldr": "An astronaut on the International Space Station captured this photograph of Lake Pelku (near center) as the station orbited above Asia.  The International Space Station serves as a unique platform for observing Earth…",
+   "published": "2026-11-19T15:32:39.000Z",
+   "dupes": 1,
+   "score": 0.311,
+   "tier": 3
+  },
+  {
+   "id": "0b33705585ecb542606146bfd4ada5e091f12a98",
+   "title": "The sweet spot for constellation size",
+   "url": "https://spacenews.com/the-sweet-spot-for-constellation-size",
+   "source": "SpaceNews",
+   "org": [],
+   "topic": "space",
+   "tldr": "In this episode of Space Minds, SpaceNews’ Mike Gruss speaks with Jan Smolders, the chief commercial officer at Space Inventor.  During a conversation at Space Tech Expo Europe, they discuss […] The post The sweet spot…",
+   "published": "2026-11-19T17:25:17.000Z",
+   "dupes": 1,
+   "score": 0.309,
    "tier": 3
   },
   {
@@ -826,7 +826,7 @@
    "tldr": "The engineering challenges of industrial drone autonomy include GNSS reliability, SLAM, sensor fusion, obstacle avoidance, and UAV validation.  The post What industrial drone deployments reveal about real-world autonomy…",
    "published": "2026-11-19T17:01:55.000Z",
    "dupes": 1,
-   "score": 0.322,
+   "score": 0.292,
    "tier": 3
   },
   {
@@ -839,7 +839,7 @@
    "tldr": "Winter precipitation helped wake dormant seeds in northern Chile, carpeting the desert with what may be the region’s most extensive flowering of the satellite era.",
    "published": "2026-11-19T05:00:00.000Z",
    "dupes": 1,
-   "score": 0.305,
+   "score": 0.283,
    "tier": 3
   },
   {
@@ -852,7 +852,7 @@
    "tldr": "Humyn Labs provides data collected from real-world operations for frontier AI labs, robotics companies, and world-model developers.  The post Humyn Labs raises $47M to collect real-world data for robotics appeared first…",
    "published": "2026-11-18T22:43:06.000Z",
    "dupes": 1,
-   "score": 0.265,
+   "score": 0.246,
    "tier": 3
   },
   {
@@ -865,7 +865,7 @@
    "tldr": "Robotics is advancing rapidly.  New AI models and increasingly capable hardware are expanding what machines can perceive, understand and do.",
    "published": "2026-11-18T18:00:09.000Z",
    "dupes": 1,
-   "score": 0.254,
+   "score": 0.237,
    "tier": 3
   },
   {
@@ -878,7 +878,7 @@
    "tldr": "Rockwell Automation has agreed to acquire autonomous mobile robot developer AGILOX, expanding its mobile robotics portfolio following its 2023 acquisition of OTTO Motors.  The post Rockwell Automation acquiring mobile…",
    "published": "2026-11-18T16:44:18.000Z",
    "dupes": 1,
-   "score": 0.252,
+   "score": 0.235,
    "tier": 3
   },
   {
@@ -891,7 +891,7 @@
    "tldr": "\" The post California DMV bars Waymo AVs from operating on the state’s freeways appeared first on The Robot Report .",
    "published": "2026-11-17T23:55:07.000Z",
    "dupes": 1,
-   "score": 0.222,
+   "score": 0.21,
    "tier": 3
   },
   {
@@ -904,7 +904,7 @@
    "tldr": "M.  ET.",
    "published": "2026-11-17T19:58:18.000Z",
    "dupes": 1,
-   "score": 0.216,
+   "score": 0.206,
    "tier": 3
   },
   {
@@ -919,7 +919,7 @@
    "tldr": "Boston Dynamics’ Atlas humanoid robot will undergo its first trials outside the automotive industry at a major semiconductor manufacturer in early 2027.  The post Boston Dynamics’ Atlas humanoid lands first…",
    "published": "2026-11-17T14:49:05.000Z",
    "dupes": 1,
-   "score": 0.21,
+   "score": 0.201,
    "tier": 3
   },
   {
@@ -932,7 +932,7 @@
    "tldr": "Evan Beard explains how AI-native robotics could make automation easier to program and help American manufacturing compete globally.  The post The hidden reason most robots fail on the factory floor appeared first on…",
    "published": "2026-11-16T23:49:56.000Z",
    "dupes": 1,
-   "score": 0.195,
+   "score": 0.188,
    "tier": 3
   },
   {
@@ -945,7 +945,7 @@
    "tldr": "Agile Robots builds and deploys a range of robots, including humanoids, mobile robots, robotic arms, and robotics hands.  The post Agile Robots raises $500M to increase production capacity appeared first on The Robot…",
    "published": "2026-11-16T17:47:48.000Z",
    "dupes": 1,
-   "score": 0.19,
+   "score": 0.184,
    "tier": 3
   },
   {
@@ -958,7 +958,7 @@
    "tldr": "Food robotics is entering a new era as companies shift from consumer-facing robot restaurants to B2B automation that help food manufacturers, restaurants, and grocery retailers improve productivity, reduce labor costs,…",
    "published": "2026-11-14T13:00:38.000Z",
    "dupes": 1,
-   "score": 0.168,
+   "score": 0.166,
    "tier": 3
   }
  ]
