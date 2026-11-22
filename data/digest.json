@@ -1,39 +1,39 @@
 {
- "generated": "2026-11-22T01:55:32.591Z",
+ "generated": "2026-11-22T09:11:51.030Z",
  "digest": [
   {
    "n": 1,
-   "title": "Can Anthropic afford to put safety first?",
-   "tldr": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life.  The AI lab behind Claude went public on the Nasdaq last…",
-   "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
-   "meta": "AI · ANTHROPIC"
-  },
-  {
-   "n": 2,
    "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
    "tldr": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant…",
    "url": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data",
    "meta": "SECURITY · MICROSOFT"
   },
   {
-   "n": 3,
+   "n": 2,
    "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
    "tldr": "A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown.  The same attack could be extended to…",
    "url": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
    "meta": "SECURITY · META"
   },
   {
+   "n": 3,
+   "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
+   "tldr": "Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity company Dragos said this week.  Some of the stolen requests…",
+   "url": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
+   "meta": "SECURITY"
+  },
+  {
    "n": 4,
-   "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
-   "tldr": "Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in customer clusters.",
-   "url": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets",
+   "title": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
+   "tldr": "A now-patched flaw in Ghostscript allows a crafted file to escape the program's security sandbox and run commands on the server that processes it.  Ghostscript is the interpreter that many Linux servers use to convert…",
+   "url": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
    "meta": "SECURITY"
   },
   {
    "n": 5,
-   "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
-   "tldr": "S.  Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver, and Broadcom VMware vCenter to its Known Exploited Vulnerabilities (KEV),…",
-   "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html",
+   "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
+   "tldr": "Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in customer clusters.",
+   "url": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets",
    "meta": "SECURITY"
   }
  ]

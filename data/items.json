@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T01:55:32.591Z",
+ "generated": "2026-11-22T09:11:51.030Z",
  "items": [
   {
    "id": "3ea993db7e3c60d1925ec70cc8db101a60f4b500",
@@ -13,7 +13,7 @@
    "tldr": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
    "published": "2026-11-20T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.614,
+   "score": 0.598,
    "tier": 1
   },
   {
@@ -31,7 +31,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.596,
+   "score": 0.586,
    "tier": 2
   },
   {
@@ -46,37 +46,7 @@
    "tldr": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
    "published": "2026-11-20T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.596,
-   "tier": 2
-  },
-  {
-   "id": "97715f31a4737b5a29cee6b2bec1c83e7113b6a4",
-   "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
-   "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
-   "published": "2026-11-20T23:08:57.000Z",
-   "dupes": 1,
-   "score": 0.578,
-   "tier": 2
-  },
-  {
-   "id": "7abcb9e67aa8baf27d557249c0a7bab92a6ee453",
-   "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-   "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-   "published": "2026-11-20T22:42:47.000Z",
-   "dupes": 1,
-   "score": 0.578,
+   "score": 0.586,
    "tier": 2
   },
   {
@@ -91,37 +61,7 @@
    "tldr": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
    "published": "2026-11-19T08:00:00.000Z",
    "dupes": 1,
-   "score": 0.575,
-   "tier": 2
-  },
-  {
-   "id": "a9f34b76fcc6d54c37e3d5729d2af01cab039f66",
-   "title": "Can Anthropic afford to put safety first?",
-   "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
-   "source": "The Verge AI",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life.  The AI lab behind Claude went public on the Nasdaq last…",
-   "published": "2026-11-21T15:00:00.000Z",
-   "dupes": 1,
-   "score": 0.573,
-   "tier": 2
-  },
-  {
-   "id": "565159543ba42dea3e8646efa73ca486e5623c29",
-   "title": "How Google Duplex evolved to also call businesses for you in Gemini",
-   "url": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini",
-   "source": "Google Research",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Generative AI",
-   "published": "2026-11-20T23:30:30.000Z",
-   "dupes": 1,
-   "score": 0.572,
+   "score": 0.568,
    "tier": 2
   },
   {
@@ -136,7 +76,7 @@
    "tldr": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
    "published": "2026-11-19T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.567,
+   "score": 0.561,
    "tier": 2
   },
   {
@@ -151,7 +91,7 @@
    "tldr": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
    "published": "2026-11-19T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.567,
+   "score": 0.561,
    "tier": 2
   },
   {
@@ -166,7 +106,7 @@
    "tldr": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
    "published": "2026-11-19T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.567,
+   "score": 0.561,
    "tier": 2
   },
   {
@@ -181,7 +121,70 @@
    "tldr": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
    "published": "2026-11-19T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.567,
+   "score": 0.561,
+   "tier": 2
+  },
+  {
+   "id": "e683d40fba103b5f4ba802f7642208e3fbf84dbf",
+   "title": "The Silent Consensus",
+   "url": "https://openai.com/index/the-silent-consensus",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+   "published": "2026-11-18T10:00:00.000Z",
+   "dupes": 1,
+   "score": 0.551,
+   "tier": 2
+  },
+  {
+   "id": "b527b6f0ddceafec7084d672744f5ae005b63c0e",
+   "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+   "url": "https://openai.com/business/customer-stories/sumitomo-life",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis.  Early use by executives helped drive adoption.",
+   "published": "2026-11-18T08:00:00.000Z",
+   "dupes": 1,
+   "score": 0.55,
+   "tier": 2
+  },
+  {
+   "id": "9fa731b0ef6c1da92e2ee19dd39d37ee6fef6c75",
+   "title": "Research acceleration: The jagged frontier",
+   "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+   "published": "2026-11-18T08:00:00.000Z",
+   "badges": [
+    "research"
+   ],
+   "dupes": 1,
+   "score": 0.55,
+   "tier": 2
+  },
+  {
+   "id": "53f2a14376dda94d54be4734bb5e7ea38842035f",
+   "title": "Inside the Codex sandbox",
+   "url": "https://openai.com/index/inside-the-codex-sandbox",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+   "published": "2026-11-18T08:00:00.000Z",
+   "dupes": 1,
+   "score": 0.55,
    "tier": 2
   },
   {
@@ -196,7 +199,7 @@
    "tldr": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
    "published": "2026-11-18T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.55,
+   "score": 0.546,
    "tier": 2
   },
   {
@@ -211,7 +214,7 @@
    "tldr": "The easiest way to fool someone is to give them something they already expect.  A job offer.",
    "published": "2026-11-19T18:47:58.000Z",
    "dupes": 1,
-   "score": 0.541,
+   "score": 0.531,
    "tier": 3
   },
   {
@@ -226,7 +229,7 @@
    "tldr": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant…",
    "published": "2026-11-21T18:01:58.000Z",
    "dupes": 1,
-   "score": 0.532,
+   "score": 0.476,
    "tier": 3
   },
   {
@@ -241,7 +244,7 @@
    "tldr": "Google says almost all developers have already gotten on board with verification.",
    "published": "2026-11-19T18:00:33.000Z",
    "dupes": 1,
-   "score": 0.517,
+   "score": 0.463,
    "tier": 3
   },
   {
@@ -257,7 +260,7 @@
    "tldr": "NVIDIA and Microsoft are extending their full-stack collaboration to help organizations build, customize and deploy intelligent applications — from next-generation infrastructure on Azure to industrial systems and…",
    "published": "2026-11-19T20:00:15.000Z",
    "dupes": 1,
-   "score": 0.494,
+   "score": 0.447,
    "tier": 3
   },
   {
@@ -273,7 +276,7 @@
    "tldr": "\"Project Suncatcher is a long-term moonshot.\"",
    "published": "2026-11-19T19:52:54.000Z",
    "dupes": 1,
-   "score": 0.493,
+   "score": 0.441,
    "tier": 3
   },
   {
@@ -288,22 +291,7 @@
    "tldr": "The Russia-linked cyber espionage group known as Cold Relic (formerly COLDRIVER and UNC4057) has been observed weaponizing a single cloud compromise into a launchpad for a series of linked intrusions resulting in…",
    "published": "2026-11-18T05:58:04.000Z",
    "dupes": 1,
-   "score": 0.492,
-   "tier": 3
-  },
-  {
-   "id": "89097e0b21a00ce8cfc2c029f3fc37cf11f87bf0",
-   "title": "Microsoft now automatically installs Windows 11 26H2 on unmanaged devices",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-automatically-installs-windows-11-26h2-on-personal-and-unmanaged-pcs",
-   "source": "BleepingComputer",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "security",
-   "tldr": "Starting this week, Microsoft has begun automatically upgrading eligible devices that aren't managed by an IT department to Windows 11 26H2.",
-   "published": "2026-11-20T12:14:28.000Z",
-   "dupes": 1,
-   "score": 0.485,
+   "score": 0.44,
    "tier": 3
   },
   {
@@ -318,7 +306,7 @@
    "tldr": "36 billion in revenue.",
    "published": "2026-11-20T14:07:30.000Z",
    "dupes": 2,
-   "score": 0.485,
+   "score": 0.44,
    "tier": 3
   },
   {
@@ -333,22 +321,22 @@
    "tldr": "S.  space economy.",
    "published": "2026-11-20T20:46:14.000Z",
    "dupes": 1,
-   "score": 0.484,
+   "score": 0.437,
    "tier": 3
   },
   {
-   "id": "5adf36e942dec2e1923bf20f3037ffd9ca26441d",
-   "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
-   "url": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html",
-   "source": "The Hacker News",
+   "id": "89097e0b21a00ce8cfc2c029f3fc37cf11f87bf0",
+   "title": "Microsoft now automatically installs Windows 11 26H2 on unmanaged devices",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-automatically-installs-windows-11-26h2-on-personal-and-unmanaged-pcs",
+   "source": "BleepingComputer",
    "org": [
-    "google"
+    "microsoft"
    ],
    "topic": "security",
-   "tldr": "Google on Monday revealed that adversarial use of artificial intelligence (AI) by threat actors has gone beyond manual prompting to deploying autonomous multi-agent offensive frameworks like ARTEX, CAIRN, CyberStrikeAI,…",
-   "published": "2026-11-16T14:00:00.000Z",
+   "tldr": "Starting this week, Microsoft has begun automatically upgrading eligible devices that aren't managed by an IT department to Windows 11 26H2.",
+   "published": "2026-11-20T12:14:28.000Z",
    "dupes": 1,
-   "score": 0.483,
+   "score": 0.436,
    "tier": 3
   },
   {
@@ -363,7 +351,22 @@
    "tldr": "Employees contributing to NASA’s mission at the agency’s Stennis Space Center near Bay St.  Louis, Mississippi, were recognized during the center’s Honor Awards ceremony on Nov.",
    "published": "2026-11-20T16:27:46.000Z",
    "dupes": 1,
-   "score": 0.479,
+   "score": 0.433,
+   "tier": 3
+  },
+  {
+   "id": "5adf36e942dec2e1923bf20f3037ffd9ca26441d",
+   "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
+   "url": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html",
+   "source": "The Hacker News",
+   "org": [
+    "google"
+   ],
+   "topic": "security",
+   "tldr": "Google on Monday revealed that adversarial use of artificial intelligence (AI) by threat actors has gone beyond manual prompting to deploying autonomous multi-agent offensive frameworks like ARTEX, CAIRN, CyberStrikeAI,…",
+   "published": "2026-11-16T14:00:00.000Z",
+   "dupes": 1,
+   "score": 0.433,
    "tier": 3
   },
   {
@@ -378,7 +381,7 @@
    "tldr": "This Nov.  16 collage shows 49 drill holes captured by NASA’s Curiosity Mars rover as of November 2026.",
    "published": "2026-11-20T15:53:24.000Z",
    "dupes": 1,
-   "score": 0.478,
+   "score": 0.432,
    "tier": 3
   },
   {
@@ -393,7 +396,7 @@
    "tldr": "\"We tend to have a lot of technical discussion and debate.",
    "published": "2026-11-20T20:26:33.000Z",
    "dupes": 1,
-   "score": 0.476,
+   "score": 0.429,
    "tier": 3
   },
   {
@@ -408,7 +411,7 @@
    "tldr": "A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown.  The same attack could be extended to…",
    "published": "2026-11-21T11:53:07.000Z",
    "dupes": 1,
-   "score": 0.47,
+   "score": 0.422,
    "tier": 3
   },
   {
@@ -423,7 +426,7 @@
    "tldr": "Open data from NASA’s Fermi mission helped an international team of scientists develop a method for finding pulsars about a million times faster than before.",
    "published": "2026-11-19T15:33:55.000Z",
    "dupes": 1,
-   "score": 0.457,
+   "score": 0.414,
    "tier": 3
   },
   {
@@ -438,22 +441,7 @@
    "tldr": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
    "published": "2026-11-18T00:27:29.000Z",
    "dupes": 1,
-   "score": 0.45,
-   "tier": 3
-  },
-  {
-   "id": "b557cf01bc22033d5db2e228c9fc5e746fb16044",
-   "title": "GTA 6 hits $3.79 billion in its first day on sale, becoming \"the biggest entertainment launch in history\"",
-   "url": "https://www.gamesindustry.biz/gta-6-hits-379-billion-in-its-first-day-on-sale-becoming-the-biggest-entertainment-launch-in-history",
-   "source": "GamesIndustry.biz",
-   "org": [
-    "rockstar"
-   ],
-   "topic": "gaming",
-   "tldr": "Rockstar has announced that GTA 6 achieved $3.79 billion in retail sales in its first day on sale, \"setting a new record for entertainment across any medium, and becoming the biggest entertainment launch in history.\"…",
-   "published": "2026-11-20T20:24:00.000Z",
-   "dupes": 1,
-   "score": 0.446,
+   "score": 0.406,
    "tier": 3
   },
   {
@@ -468,7 +456,22 @@
    "tldr": "A hidden bug, shifting traffic, and reduced capacity led to cascading failures.",
    "published": "2026-11-16T21:56:39.000Z",
    "dupes": 1,
-   "score": 0.444,
+   "score": 0.401,
+   "tier": 3
+  },
+  {
+   "id": "b557cf01bc22033d5db2e228c9fc5e746fb16044",
+   "title": "GTA 6 hits $3.79 billion in its first day on sale, becoming \"the biggest entertainment launch in history\"",
+   "url": "https://www.gamesindustry.biz/gta-6-hits-379-billion-in-its-first-day-on-sale-becoming-the-biggest-entertainment-launch-in-history",
+   "source": "GamesIndustry.biz",
+   "org": [
+    "rockstar"
+   ],
+   "topic": "gaming",
+   "tldr": "Rockstar has announced that GTA 6 achieved $3.79 billion in retail sales in its first day on sale, \"setting a new record for entertainment across any medium, and becoming the biggest entertainment launch in history.\"…",
+   "published": "2026-11-20T20:24:00.000Z",
+   "dupes": 1,
+   "score": 0.4,
    "tier": 3
   },
   {
@@ -483,7 +486,37 @@
    "tldr": "Threat actors have compromised Microsoft's agent-framework package to push a credential stealer, according to reports from Aikido, Chainguard, Endor Labs, OX Security, SafeDep, Socket, StepSecurity, and Google-owned…",
    "published": "2026-11-18T06:45:26.000Z",
    "dupes": 1,
-   "score": 0.443,
+   "score": 0.399,
+   "tier": 3
+  },
+  {
+   "id": "1112027d5901b6f1dfea35c8c3f63382b87eaa06",
+   "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+   "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended.  Developers are combining frontier AI models with NVIDIA…",
+   "published": "2026-11-19T17:00:35.000Z",
+   "dupes": 1,
+   "score": 0.398,
+   "tier": 3
+  },
+  {
+   "id": "2137d47239c2cdf79eb7e1f9873ad5014a85ac21",
+   "title": "California AG subpoenas Nvidia over worries about Huang’s ties with China",
+   "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china",
+   "source": "TechCrunch",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "\"The conduct of Nvidia and its former CEO raises bright red flags, including about the ways in which the company may have misled investors,\" California AG Rob Bonta said.",
+   "published": "2026-11-20T13:21:11.000Z",
+   "dupes": 1,
+   "score": 0.397,
    "tier": 3
   },
   {
@@ -499,22 +532,7 @@
    "tldr": "Over two million Xbox players in the UK and US accessed Grand Theft Auto 6 before its official launch by changing their location to New Zealand, according to Ampere Analysis.",
    "published": "2026-11-20T15:21:00.000Z",
    "dupes": 1,
-   "score": 0.441,
-   "tier": 3
-  },
-  {
-   "id": "2137d47239c2cdf79eb7e1f9873ad5014a85ac21",
-   "title": "California AG subpoenas Nvidia over worries about Huang’s ties with China",
-   "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china",
-   "source": "TechCrunch",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "\"The conduct of Nvidia and its former CEO raises bright red flags, including about the ways in which the company may have misled investors,\" California AG Rob Bonta said.",
-   "published": "2026-11-20T13:21:11.000Z",
-   "dupes": 1,
-   "score": 0.438,
+   "score": 0.396,
    "tier": 3
   },
   {
@@ -529,22 +547,7 @@
    "tldr": "biz , has released the Official Online Guide for GTA 6 , created through direct collaboration with Rockstar Games.  com, includes an extensive interactive map built using the firm's MapGenie platform, along with…",
    "published": "2026-11-20T10:07:40.000Z",
    "dupes": 1,
-   "score": 0.436,
-   "tier": 3
-  },
-  {
-   "id": "1112027d5901b6f1dfea35c8c3f63382b87eaa06",
-   "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-   "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended.  Developers are combining frontier AI models with NVIDIA…",
-   "published": "2026-11-19T17:00:35.000Z",
-   "dupes": 1,
-   "score": 0.435,
+   "score": 0.392,
    "tier": 3
   },
   {
@@ -559,22 +562,7 @@
    "tldr": "\"We also have a responsibility to not go too fast and cut too many corners.\"",
    "published": "2026-11-19T13:40:02.000Z",
    "dupes": 1,
-   "score": 0.433,
-   "tier": 3
-  },
-  {
-   "id": "bc43852d284f4dbdc0cd88006e2ba412750a9e83",
-   "title": "Arknights: Endfield named Google Play's best game of 2026",
-   "url": "https://www.gamesindustry.biz/arknights-endfield-named-google-plays-best-game-of-2026",
-   "source": "GamesIndustry.biz",
-   "org": [
-    "google"
-   ],
-   "topic": "gaming",
-   "tldr": "Gryphline's Arknights: Endfield has been named Google Play's best game of 2026, taking the top prize in every market except Japan and Korea.",
-   "published": "2026-11-18T17:36:20.000Z",
-   "dupes": 1,
-   "score": 0.426,
+   "score": 0.39,
    "tier": 3
   },
   {
@@ -589,22 +577,22 @@
    "tldr": "New NVIDIA RTX Spark compact desktops from ASUS, Dell and MSI are available today, bringing local AI agents, image and video generation, and model fine-tuning to a dedicated Windows PC.",
    "published": "2026-11-18T14:00:31.000Z",
    "dupes": 1,
-   "score": 0.421,
+   "score": 0.386,
    "tier": 3
   },
   {
-   "id": "7f6b285aacd8a7f814d42358529f68108c3ce23b",
-   "title": "Rockstar and IWGB members issue closing arguments following conclusion of employment tribunal",
-   "url": "https://www.gamesindustry.biz/rockstar-and-iwgb-members-issue-closing-arguments-following-conclusion-of-employment-tribunal",
+   "id": "bc43852d284f4dbdc0cd88006e2ba412750a9e83",
+   "title": "Arknights: Endfield named Google Play's best game of 2026",
+   "url": "https://www.gamesindustry.biz/arknights-endfield-named-google-plays-best-game-of-2026",
    "source": "GamesIndustry.biz",
    "org": [
-    "rockstar"
+    "google"
    ],
    "topic": "gaming",
-   "tldr": "The employment tribunal between Rockstar and members of the Independent Workers' Union of Great Britain (IWGB) has concluded, with both parties issuing their closing arguments.",
-   "published": "2026-11-19T10:03:40.000Z",
+   "tldr": "Gryphline's Arknights: Endfield has been named Google Play's best game of 2026, taking the top prize in every market except Japan and Korea.",
+   "published": "2026-11-18T17:36:20.000Z",
    "dupes": 1,
-   "score": 0.421,
+   "score": 0.384,
    "tier": 3
   },
   {
@@ -619,7 +607,22 @@
    "tldr": "NVIDIA’s Ian Buck kicked off the company’s week at SC26 in Chicago on Monday with new tools for AI agents, software that can plan experiments, run code and check results on researchers’ own systems.",
    "published": "2026-11-17T14:00:10.000Z",
    "dupes": 1,
-   "score": 0.414,
+   "score": 0.38,
+   "tier": 3
+  },
+  {
+   "id": "7f6b285aacd8a7f814d42358529f68108c3ce23b",
+   "title": "Rockstar and IWGB members issue closing arguments following conclusion of employment tribunal",
+   "url": "https://www.gamesindustry.biz/rockstar-and-iwgb-members-issue-closing-arguments-following-conclusion-of-employment-tribunal",
+   "source": "GamesIndustry.biz",
+   "org": [
+    "rockstar"
+   ],
+   "topic": "gaming",
+   "tldr": "The employment tribunal between Rockstar and members of the Independent Workers' Union of Great Britain (IWGB) has concluded, with both parties issuing their closing arguments.",
+   "published": "2026-11-19T10:03:40.000Z",
+   "dupes": 1,
+   "score": 0.379,
    "tier": 3
   },
   {
@@ -634,7 +637,7 @@
    "tldr": "At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and developers.",
    "published": "2026-11-16T23:00:05.000Z",
    "dupes": 1,
-   "score": 0.412,
+   "score": 0.378,
    "tier": 3
   },
   {
@@ -649,7 +652,7 @@
    "tldr": "Deb Shoquist leads operations at NVIDIA, overseeing the supply chain and manufacturing behind its AI platforms.  That description sums up the job, but it doesn’t begin to encompass what Shoquist has made possible over…",
    "published": "2026-11-16T20:00:37.000Z",
    "dupes": 1,
-   "score": 0.411,
+   "score": 0.377,
    "tier": 3
   },
   {
@@ -664,7 +667,7 @@
    "tldr": "To train an AI model, thousands of GPUs have to work together, requiring a network that’s fast, efficient and resilient.  Lambda is tackling the network piece of the puzzle with NVIDIA Photonics co-packaged optics (CPO)…",
    "published": "2026-11-16T16:00:51.000Z",
    "dupes": 1,
-   "score": 0.411,
+   "score": 0.377,
    "tier": 3
   },
   {
@@ -679,7 +682,33 @@
    "tldr": "\"Explain the changes that were made to the Starshield service in October 2026.\"",
    "published": "2026-11-20T22:16:51.000Z",
    "dupes": 2,
-   "score": 0.386,
+   "score": 0.362,
+   "tier": 3
+  },
+  {
+   "id": "78074d39dfa2deb16e4f936841f83e7b6d22b76a",
+   "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
+   "url": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
+   "source": "The Hacker News",
+   "org": [],
+   "topic": "security",
+   "tldr": "Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity company Dragos said this week.  Some of the stolen requests…",
+   "published": "2026-11-22T05:06:55.000Z",
+   "dupes": 1,
+   "score": 0.359,
+   "tier": 3
+  },
+  {
+   "id": "0be8ff22df4a77bfdff9aa0c2fc94aa12902a850",
+   "title": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
+   "url": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
+   "source": "The Hacker News",
+   "org": [],
+   "topic": "security",
+   "tldr": "A now-patched flaw in Ghostscript allows a crafted file to escape the program's security sandbox and run commands on the server that processes it.  Ghostscript is the interpreter that many Linux servers use to convert…",
+   "published": "2026-11-22T05:03:41.000Z",
+   "dupes": 1,
+   "score": 0.359,
    "tier": 3
   },
   {
@@ -692,7 +721,7 @@
    "tldr": "Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in customer clusters.",
    "published": "2026-11-21T22:59:58.000Z",
    "dupes": 1,
-   "score": 0.373,
+   "score": 0.341,
    "tier": 3
   },
   {
@@ -705,7 +734,7 @@
    "tldr": "S.  Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver, and Broadcom VMware vCenter to its Known Exploited Vulnerabilities (KEV),…",
    "published": "2026-11-21T08:49:13.000Z",
    "dupes": 2,
-   "score": 0.362,
+   "score": 0.339,
    "tier": 3
   },
   {
@@ -718,7 +747,7 @@
    "tldr": "The FBI is reportedly investigating a hack of the National Crime Information Center.",
    "published": "2026-11-21T18:44:53.000Z",
    "dupes": 1,
-   "score": 0.361,
+   "score": 0.333,
    "tier": 3
   },
   {
@@ -731,33 +760,7 @@
    "tldr": "Manufacturers looking to deploy autonomous robots must close gaps in industrial data collection, interoperability, and quality feedback to enable reliable decision-making and improve production efficiency.  The post The…",
    "published": "2026-11-21T22:25:35.000Z",
    "dupes": 1,
-   "score": 0.351,
-   "tier": 3
-  },
-  {
-   "id": "d44944307338229889087c79bda867e7e072f009",
-   "title": "BADBOX botnet returns with record-breaking 40 billion daily ad requests",
-   "url": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests",
-   "source": "BleepingComputer",
-   "org": [],
-   "topic": "security",
-   "tldr": "The BADBOX malware found in a broad range of generic Android TV boxes has returned to large-scale ad-fraud operations following last year's disruptions.",
-   "published": "2026-11-21T15:17:27.000Z",
-   "dupes": 1,
-   "score": 0.339,
-   "tier": 3
-  },
-  {
-   "id": "f4c78575a730648101809f43041d245a51dc11e5",
-   "title": "FBI reportedly hacked again, this time targeting nationwide police database",
-   "url": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database",
-   "source": "BleepingComputer",
-   "org": [],
-   "topic": "security",
-   "tldr": "FBI systems have reportedly been breached for the second time in two months, this time targeting the agency's National Crime Information Center (NCIC), which is used to share information between local, state, and…",
-   "published": "2026-11-21T14:26:04.000Z",
-   "dupes": 1,
-   "score": 0.336,
+   "score": 0.322,
    "tier": 3
   },
   {
@@ -772,7 +775,7 @@
    "tldr": "Bondholders want SpaceX’s valuable chip collateral kept on Earth and within reach.",
    "published": "2026-11-20T14:15:21.000Z",
    "dupes": 1,
-   "score": 0.325,
+   "score": 0.301,
    "tier": 3
   },
   {
@@ -785,7 +788,7 @@
    "tldr": "Description NASA’s Curiosity Mars rover captured these drifting clouds on Oct.  31, 2026, the 5,061st Martian day, or sol, of the mission.",
    "published": "2026-11-20T22:27:05.000Z",
    "dupes": 1,
-   "score": 0.292,
+   "score": 0.275,
    "tier": 3
   },
   {
@@ -798,7 +801,7 @@
    "tldr": "Globally, the Hugo surgical system is on track to surpass 50,000 cumulative procedures by the end of Medtronic's fiscal year.  The post Medtronic’s Hugo surgical robot ready for bigger operation appeared first on The…",
    "published": "2026-11-21T00:55:45.000Z",
    "dupes": 1,
-   "score": 0.276,
+   "score": 0.258,
    "tier": 3
   },
   {
@@ -813,7 +816,7 @@
    "tldr": "All estimates of human spaceflight on Starship should be taken with a gigantic grain of salt.",
    "published": "2026-11-16T19:46:08.000Z",
    "dupes": 1,
-   "score": 0.268,
+   "score": 0.251,
    "tier": 3
   },
   {
@@ -826,7 +829,7 @@
    "tldr": "Russia launched a Soyuz rocket with satellites to help enable drone attacks over Ukraine.",
    "published": "2026-11-20T13:35:45.000Z",
    "dupes": 1,
-   "score": 0.264,
+   "score": 0.25,
    "tier": 3
   },
   {
@@ -839,7 +842,7 @@
    "tldr": "MassRobotics plans to open the marine-focused facility in early 2028, with programming starting throughout 2027.  The post MassRobotics launching marine robotics facility on Boston Harbor appeared first on The Robot…",
    "published": "2026-11-20T17:04:28.000Z",
    "dupes": 1,
-   "score": 0.256,
+   "score": 0.241,
    "tier": 3
   },
   {
@@ -852,7 +855,7 @@
    "tldr": "One of robotics' most influential advocates is gone.  Can the industry sustain its momentum without him?",
    "published": "2026-11-20T03:06:28.000Z",
    "dupes": 1,
-   "score": 0.23,
+   "score": 0.219,
    "tier": 3
   },
   {
@@ -865,7 +868,7 @@
    "tldr": "The engineering challenges of industrial drone autonomy include GNSS reliability, SLAM, sensor fusion, obstacle avoidance, and UAV validation.  The post What industrial drone deployments reveal about real-world autonomy…",
    "published": "2026-11-19T17:01:55.000Z",
    "dupes": 1,
-   "score": 0.215,
+   "score": 0.206,
    "tier": 3
   },
   {
@@ -878,7 +881,7 @@
    "tldr": "Humyn Labs provides data collected from real-world operations for frontier AI labs, robotics companies, and world-model developers.  The post Humyn Labs raises $47M to collect real-world data for robotics appeared first…",
    "published": "2026-11-18T22:43:06.000Z",
    "dupes": 1,
-   "score": 0.195,
+   "score": 0.19,
    "tier": 3
   },
   {
@@ -891,7 +894,7 @@
    "tldr": "Robotics is advancing rapidly.  New AI models and increasingly capable hardware are expanding what machines can perceive, understand and do.",
    "published": "2026-11-18T18:00:09.000Z",
    "dupes": 1,
-   "score": 0.192,
+   "score": 0.187,
    "tier": 3
   },
   {
@@ -904,7 +907,7 @@
    "tldr": "Rockwell Automation has agreed to acquire autonomous mobile robot developer AGILOX, expanding its mobile robotics portfolio following its 2023 acquisition of OTTO Motors.  The post Rockwell Automation acquiring mobile…",
    "published": "2026-11-18T16:44:18.000Z",
    "dupes": 1,
-   "score": 0.191,
+   "score": 0.186,
    "tier": 3
   },
   {
@@ -917,7 +920,7 @@
    "tldr": "\" The post California DMV bars Waymo AVs from operating on the state’s freeways appeared first on The Robot Report .",
    "published": "2026-11-17T23:55:07.000Z",
    "dupes": 1,
-   "score": 0.18,
+   "score": 0.177,
    "tier": 3
   },
   {
@@ -930,7 +933,7 @@
    "tldr": "M.  ET.",
    "published": "2026-11-17T19:58:18.000Z",
    "dupes": 1,
-   "score": 0.178,
+   "score": 0.175,
    "tier": 3
   },
   {
@@ -945,7 +948,7 @@
    "tldr": "Boston Dynamics’ Atlas humanoid robot will undergo its first trials outside the automotive industry at a major semiconductor manufacturer in early 2027.  The post Boston Dynamics’ Atlas humanoid lands first…",
    "published": "2026-11-17T14:49:05.000Z",
    "dupes": 1,
-   "score": 0.176,
+   "score": 0.174,
    "tier": 3
   },
   {
@@ -958,7 +961,7 @@
    "tldr": "Evan Beard explains how AI-native robotics could make automation easier to program and help American manufacturing compete globally.  The post The hidden reason most robots fail on the factory floor appeared first on…",
    "published": "2026-11-16T23:49:56.000Z",
    "dupes": 1,
-   "score": 0.171,
+   "score": 0.169,
    "tier": 3
   }
  ]
