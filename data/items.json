@@ -1,21 +1,6 @@
 {
- "generated": "2026-11-23T03:24:49.322Z",
+ "generated": "2026-11-23T13:24:15.934Z",
  "items": [
-  {
-   "id": "9c4bbd95725ea91d5cb55e423819c24e3e182a60",
-   "title": "Signal to block Siri, Gemini AI from capturing chats on iOS, Android",
-   "url": "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android",
-   "source": "BleepingComputer",
-   "org": [
-    "google"
-   ],
-   "topic": "security",
-   "tldr": "Signal has announced new protections that block screenshots on iOS 27 and prevent AI assistants from capturing conversations on supported Android devices.",
-   "published": "2026-11-22T15:15:25.000Z",
-   "dupes": 3,
-   "score": 0.595,
-   "tier": 1
-  },
   {
    "id": "e02a3f3a918fb26ca56ed61fca09268d59f7d20c",
    "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
@@ -28,7 +13,22 @@
    "tldr": "",
    "published": "2026-11-22T19:10:34.000Z",
    "dupes": 1,
-   "score": 0.559,
+   "score": 0.582,
+   "tier": 1
+  },
+  {
+   "id": "1b3625458ce7e792ac90bcd94626483dccd9bcd3",
+   "title": "Over half of console players in the US played GTA 6 on launch day, according to Circana",
+   "url": "https://www.gamesindustry.biz/over-half-of-console-players-in-the-us-played-gta-6-on-launch-day-according-to-circana",
+   "source": "GamesIndustry.biz",
+   "org": [
+    "rockstar"
+   ],
+   "topic": "gaming",
+   "tldr": "Over half of players on console in the US played Grand Theft Auto 6 on launch day, according to Circana.",
+   "published": "2026-11-23T10:57:20.000Z",
+   "dupes": 1,
+   "score": 0.488,
    "tier": 2
   },
   {
@@ -43,7 +43,22 @@
    "tldr": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
    "published": "2026-11-23T01:25:53.000Z",
    "dupes": 1,
-   "score": 0.556,
+   "score": 0.477,
+   "tier": 2
+  },
+  {
+   "id": "9c4bbd95725ea91d5cb55e423819c24e3e182a60",
+   "title": "Signal to block Siri, Gemini AI from capturing chats on iOS, Android",
+   "url": "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android",
+   "source": "BleepingComputer",
+   "org": [
+    "google"
+   ],
+   "topic": "security",
+   "tldr": "Signal has announced new protections that block screenshots on iOS 27 and prevent AI assistants from capturing conversations on supported Android devices.",
+   "published": "2026-11-22T15:15:25.000Z",
+   "dupes": 2,
+   "score": 0.472,
    "tier": 2
   },
   {
@@ -58,7 +73,37 @@
    "tldr": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
    "published": "2026-11-22T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.547,
+   "score": 0.466,
+   "tier": 2
+  },
+  {
+   "id": "b0e51417b8a48af580ee202c25189aa7db4aa611",
+   "title": "Microsoft confirms Windows printing issues affecting Forcepoint users",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-printing-issues-after-kb5132043-windows-hotpatch",
+   "source": "BleepingComputer",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "security",
+   "tldr": "Microsoft confirmed printing issues on systems running Forcepoint DLP software after installing the KB5132043 November 2026 Windows 11 hotpatch.",
+   "published": "2026-11-23T09:11:15.000Z",
+   "dupes": 1,
+   "score": 0.466,
+   "tier": 2
+  },
+  {
+   "id": "7457a5957156021326e4df098a66c59d2668fdab",
+   "title": "Sensor Tower estimates GTA 6 generated $2.36bn in pre-order and launch-day sales",
+   "url": "https://www.gamesindustry.biz/sensor-tower-estimates-gta-6-generated-236bn-in-pre-order-and-launch-day-sales",
+   "source": "GamesIndustry.biz",
+   "org": [
+    "rockstar"
+   ],
+   "topic": "gaming",
+   "tldr": "36 billion in revenue.",
+   "published": "2026-11-20T14:07:30.000Z",
+   "dupes": 2,
+   "score": 0.463,
    "tier": 2
   },
   {
@@ -73,7 +118,7 @@
    "tldr": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
    "published": "2026-11-20T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.512,
+   "score": 0.438,
    "tier": 2
   },
   {
@@ -91,7 +136,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.507,
+   "score": 0.434,
    "tier": 2
   },
   {
@@ -106,7 +151,7 @@
    "tldr": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
    "published": "2026-11-20T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.507,
+   "score": 0.434,
    "tier": 2
   },
   {
@@ -121,7 +166,7 @@
    "tldr": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
    "published": "2026-11-19T08:00:00.000Z",
    "dupes": 1,
-   "score": 0.501,
+   "score": 0.429,
    "tier": 2
   },
   {
@@ -136,7 +181,7 @@
    "tldr": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
    "published": "2026-11-19T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.499,
+   "score": 0.427,
    "tier": 2
   },
   {
@@ -151,7 +196,7 @@
    "tldr": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
    "published": "2026-11-19T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.499,
+   "score": 0.427,
    "tier": 2
   },
   {
@@ -166,8 +211,8 @@
    "tldr": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
    "published": "2026-11-19T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.499,
-   "tier": 2
+   "score": 0.427,
+   "tier": 3
   },
   {
    "id": "e29ac258c013c12c7631d54deada12189b653035",
@@ -181,8 +226,8 @@
    "tldr": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
    "published": "2026-11-19T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.499,
-   "tier": 2
+   "score": 0.427,
+   "tier": 3
   },
   {
    "id": "e683d40fba103b5f4ba802f7642208e3fbf84dbf",
@@ -196,8 +241,8 @@
    "tldr": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
    "published": "2026-11-18T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.496,
-   "tier": 2
+   "score": 0.424,
+   "tier": 3
   },
   {
    "id": "c7d3ecb006439a135768f56529a5adc2ad0eb57f",
@@ -211,186 +256,7 @@
    "tldr": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
    "published": "2026-11-18T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.494,
-   "tier": 3
-  },
-  {
-   "id": "9d92f9e566bc546e079332ac1e6f58248967b749",
-   "title": "65 Years of Human Spaceflight at NASA Johnson",
-   "url": "https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson",
-   "source": "NASA",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "For 65 years, NASA’s Johnson Space Center in Houston has helped shape human spaceflight, from the Gemini missions that demonstrated rendezvous and docking techniques needed for Apollo to the research conducted aboard…",
-   "published": "2026-11-22T19:13:25.000Z",
-   "dupes": 1,
-   "score": 0.477,
-   "tier": 3
-  },
-  {
-   "id": "53e4a59238e8a8ae63ea2a958c0d43a6a2472e47",
-   "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
-   "url": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
-   "source": "The Hacker News",
-   "org": [
-    "openai"
-   ],
-   "topic": "security",
-   "tldr": "The easiest way to fool someone is to give them something they already expect.  A job offer.",
-   "published": "2026-11-19T18:47:58.000Z",
-   "dupes": 1,
-   "score": 0.457,
-   "tier": 3
-  },
-  {
-   "id": "7457a5957156021326e4df098a66c59d2668fdab",
-   "title": "Sensor Tower estimates GTA 6 generated $2.36bn in pre-order and launch-day sales",
-   "url": "https://www.gamesindustry.biz/sensor-tower-estimates-gta-6-generated-236bn-in-pre-order-and-launch-day-sales",
-   "source": "GamesIndustry.biz",
-   "org": [
-    "rockstar"
-   ],
-   "topic": "gaming",
-   "tldr": "36 billion in revenue.",
-   "published": "2026-11-20T14:07:30.000Z",
-   "dupes": 2,
-   "score": 0.428,
-   "tier": 3
-  },
-  {
-   "id": "3d456a93ee71218b34a897525768b599b88a7348",
-   "title": "New NASA Seed Funding Primes Small Businesses for Innovation",
-   "url": "https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation",
-   "source": "NASA",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "S.  space economy.",
-   "published": "2026-11-20T20:46:14.000Z",
-   "dupes": 1,
-   "score": 0.418,
-   "tier": 3
-  },
-  {
-   "id": "cfcc2050473a49650d32d83b43b28f00dd8483b9",
-   "title": "Google will launch Android app verification requirement globally in January 2027",
-   "url": "https://arstechnica.com/gadgets/2026/11/google-will-launch-android-app-verification-requirement-globally-in-january-2027",
-   "source": "Ars Technica · Gadgets",
-   "org": [
-    "google"
-   ],
-   "topic": "compute",
-   "tldr": "Google says almost all developers have already gotten on board with verification.",
-   "published": "2026-11-19T18:00:33.000Z",
-   "dupes": 1,
-   "score": 0.417,
-   "tier": 3
-  },
-  {
-   "id": "7c935144aa1348358076ba2310e47f55ec79cd66",
-   "title": "NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center",
-   "url": "https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis",
-   "source": "NASA",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "Employees contributing to NASA’s mission at the agency’s Stennis Space Center near Bay St.  Louis, Mississippi, were recognized during the center’s Honor Awards ceremony on Nov.",
-   "published": "2026-11-20T16:27:46.000Z",
-   "dupes": 1,
-   "score": 0.416,
-   "tier": 3
-  },
-  {
-   "id": "694e5ad9cef41b01db756e8a5e0d77cafbbbbdf3",
-   "title": "NASA’s Curiosity Mars Rover Collects Samples",
-   "url": "https://www.nasa.gov/image-article/nasas-curiosity-mars-rover-collects-samples",
-   "source": "NASA",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "This Nov.  16 collage shows 49 drill holes captured by NASA’s Curiosity Mars rover as of November 2026.",
-   "published": "2026-11-20T15:53:24.000Z",
-   "dupes": 1,
-   "score": 0.415,
-   "tier": 3
-  },
-  {
-   "id": "40a1e09e928f6734610716b6ccdc7cd94ee1508b",
-   "title": "NASA’s new Moon plan is taking shape, but some big questions remain",
-   "url": "https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain",
-   "source": "Ars Technica",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "\"We tend to have a lot of technical discussion and debate.",
-   "published": "2026-11-20T20:26:33.000Z",
-   "dupes": 1,
-   "score": 0.411,
-   "tier": 3
-  },
-  {
-   "id": "75061ecab9ff7c7bd345552d83d95a69ddc1529b",
-   "title": "What Happened to Silicon Valley?",
-   "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley",
-   "source": "Hacker News",
-   "org": [],
-   "topic": "compute",
-   "tldr": "",
-   "published": "2026-11-22T19:20:15.000Z",
-   "dupes": 1,
-   "score": 0.406,
-   "tier": 3
-  },
-  {
-   "id": "ee9a23761ba06bf059073accba0e3ee37023049f",
-   "title": "Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization",
-   "url": "https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html",
-   "source": "The Hacker News",
-   "org": [
-    "google"
-   ],
-   "topic": "security",
-   "tldr": "The Russia-linked cyber espionage group known as Cold Relic (formerly COLDRIVER and UNC4057) has been observed weaponizing a single cloud compromise into a launchpad for a series of linked intrusions resulting in…",
-   "published": "2026-11-18T05:58:04.000Z",
-   "dupes": 1,
-   "score": 0.399,
-   "tier": 3
-  },
-  {
-   "id": "93cc88f40ec599103ad7484c418f2df2f70e6ff3",
-   "title": "Google turns to Blue Origin for a rocket, but its long-term problem remains",
-   "url": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains",
-   "source": "Ars Technica · Space",
-   "org": [
-    "google",
-    "blue-origin"
-   ],
-   "topic": "space",
-   "tldr": "\"Project Suncatcher is a long-term moonshot.\"",
-   "published": "2026-11-19T19:52:54.000Z",
-   "dupes": 1,
-   "score": 0.397,
-   "tier": 3
-  },
-  {
-   "id": "5adf36e942dec2e1923bf20f3037ffd9ca26441d",
-   "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
-   "url": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html",
-   "source": "The Hacker News",
-   "org": [
-    "google"
-   ],
-   "topic": "security",
-   "tldr": "Google on Monday revealed that adversarial use of artificial intelligence (AI) by threat actors has gone beyond manual prompting to deploying autonomous multi-agent offensive frameworks like ARTEX, CAIRN, CyberStrikeAI,…",
-   "published": "2026-11-16T14:00:00.000Z",
-   "dupes": 1,
-   "score": 0.395,
+   "score": 0.423,
    "tier": 3
   },
   {
@@ -405,7 +271,7 @@
    "tldr": "Rockstar has announced that GTA 6 achieved $3.79 billion in retail sales in its first day on sale, \"setting a new record for entertainment across any medium, and becoming the biggest entertainment launch in history.\"…",
    "published": "2026-11-20T20:24:00.000Z",
    "dupes": 1,
-   "score": 0.387,
+   "score": 0.421,
    "tier": 3
   },
   {
@@ -421,7 +287,22 @@
    "tldr": "Over two million Xbox players in the UK and US accessed Grand Theft Auto 6 before its official launch by changing their location to New Zealand, according to Ampere Analysis.",
    "published": "2026-11-20T15:21:00.000Z",
    "dupes": 1,
-   "score": 0.384,
+   "score": 0.418,
+   "tier": 3
+  },
+  {
+   "id": "9d92f9e566bc546e079332ac1e6f58248967b749",
+   "title": "65 Years of Human Spaceflight at NASA Johnson",
+   "url": "https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson",
+   "source": "NASA",
+   "org": [
+    "nasa"
+   ],
+   "topic": "space",
+   "tldr": "For 65 years, NASA’s Johnson Space Center in Houston has helped shape human spaceflight, from the Gemini missions that demonstrated rendezvous and docking techniques needed for Apollo to the research conducted aboard…",
+   "published": "2026-11-22T19:13:25.000Z",
+   "dupes": 1,
+   "score": 0.416,
    "tier": 3
   },
   {
@@ -436,22 +317,33 @@
    "tldr": "biz , has released the Official Online Guide for GTA 6 , created through direct collaboration with Rockstar Games.  com, includes an extensive interactive map built using the firm's MapGenie platform, along with…",
    "published": "2026-11-20T10:07:40.000Z",
    "dupes": 1,
-   "score": 0.381,
+   "score": 0.416,
    "tier": 3
   },
   {
-   "id": "c3cb18060c1075bf6f639cfdd9e77603716bf462",
-   "title": "NASA's new Moon plans have a problem: Orion wasn't designed to fly this way",
-   "url": "https://arstechnica.com/space/2026/11/to-make-moon-landings-easier-nasa-is-making-life-harder-for-orion",
-   "source": "Ars Technica · Space",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "\"We also have a responsibility to not go too fast and cut too many corners.\"",
-   "published": "2026-11-19T13:40:02.000Z",
-   "dupes": 1,
-   "score": 0.38,
+   "id": "fa64bc0af999ebfadab9f150185cae691ac346d7",
+   "title": "CISA flags critical Cisco RCE flaw as actively exploited in attacks",
+   "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited",
+   "source": "BleepingComputer",
+   "org": [],
+   "topic": "security",
+   "tldr": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers are now exploiting a recently patched critical Cisco Expressway vulnerability in the wild.",
+   "published": "2026-11-23T07:44:19.000Z",
+   "dupes": 2,
+   "score": 0.415,
+   "tier": 3
+  },
+  {
+   "id": "31afdc96e80bb016e02917967bfbdf41b5cdc78c",
+   "title": "Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE",
+   "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html",
+   "source": "The Hacker News",
+   "org": [],
+   "topic": "security",
+   "tldr": "dll\") following the discovery of a critical vulnerability that has been exploited in the wild.  0.",
+   "published": "2026-11-23T09:11:56.000Z",
+   "dupes": 2,
+   "score": 0.414,
    "tier": 3
   },
   {
@@ -466,7 +358,7 @@
    "tldr": "The employment tribunal between Rockstar and members of the Independent Workers' Union of Great Britain (IWGB) has concluded, with both parties issuing their closing arguments.",
    "published": "2026-11-19T10:03:40.000Z",
    "dupes": 1,
-   "score": 0.372,
+   "score": 0.409,
    "tier": 3
   },
   {
@@ -481,22 +373,7 @@
    "tldr": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant…",
    "published": "2026-11-21T18:01:58.000Z",
    "dupes": 1,
-   "score": 0.37,
-   "tier": 3
-  },
-  {
-   "id": "ad8252773d8400be257ab49b79b4e2f4269d0ffd",
-   "title": "18 unsolicited third-party statistics about GTA 6",
-   "url": "https://www.gamesindustry.biz/18-unsolicited-third-party-statistics-about-gta-6",
-   "source": "GamesIndustry.biz",
-   "org": [
-    "rockstar"
-   ],
-   "topic": "gaming",
-   "tldr": "Officially, GTA 6 releases on Thursday, the 19th November.  In practice, the first players in New Zealand, or claiming to be in New Zealand , fired it up on the 18th in the UK and US, and dozens of reviews have been…",
-   "published": "2026-11-18T17:03:10.000Z",
-   "dupes": 1,
-   "score": 0.369,
+   "score": 0.405,
    "tier": 3
   },
   {
@@ -512,61 +389,89 @@
    "tldr": "NVIDIA and Microsoft are extending their full-stack collaboration to help organizations build, customize and deploy intelligent applications — from next-generation infrastructure on Azure to industrial systems and…",
    "published": "2026-11-19T20:00:15.000Z",
    "dupes": 1,
-   "score": 0.359,
+   "score": 0.402,
    "tier": 3
   },
   {
-   "id": "32066f88a6bcc634ba823bca20d86f284328e993",
-   "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices",
-   "source": "BleepingComputer",
-   "org": [],
-   "topic": "security",
-   "tldr": "iNet has confirmed that hackers exploited a vulnerability in its cloud remote management services to install custom malware on customers' routers and KVM devices, with some affected users reporting backdoors and reverse…",
-   "published": "2026-11-22T18:45:37.000Z",
-   "dupes": 1,
-   "score": 0.347,
-   "tier": 3
-  },
-  {
-   "id": "89097e0b21a00ce8cfc2c029f3fc37cf11f87bf0",
-   "title": "Microsoft now automatically installs Windows 11 26H2 on unmanaged devices",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-automatically-installs-windows-11-26h2-on-personal-and-unmanaged-pcs",
-   "source": "BleepingComputer",
+   "id": "53e4a59238e8a8ae63ea2a958c0d43a6a2472e47",
+   "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
+   "url": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
+   "source": "The Hacker News",
    "org": [
-    "microsoft"
+    "openai"
    ],
    "topic": "security",
-   "tldr": "Starting this week, Microsoft has begun automatically upgrading eligible devices that aren't managed by an IT department to Windows 11 26H2.",
-   "published": "2026-11-20T12:14:28.000Z",
+   "tldr": "The easiest way to fool someone is to give them something they already expect.  A job offer.",
+   "published": "2026-11-19T18:47:58.000Z",
    "dupes": 1,
-   "score": 0.344,
+   "score": 0.384,
    "tier": 3
   },
   {
-   "id": "9165f07cca6a3921ac6da01b99a97a2539b855dd",
-   "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
-   "url": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach",
+   "id": "4123dc3789d7b2279f1cb5333f00cf23fea86ea5",
+   "title": "Tri-screen portable monitors aren’t for the faint of heart",
+   "url": "https://arstechnica.com/gadgets/2026/11/a-triple-screen-portable-monitor-means-more-pixels-and-more-bulk",
+   "source": "Ars Technica · Gadgets",
+   "org": [],
+   "topic": "compute",
+   "tldr": "Three extra screens boost multitasking but can distract and overwhelm.",
+   "published": "2026-11-23T12:15:16.000Z",
+   "dupes": 1,
+   "score": 0.381,
+   "tier": 3
+  },
+  {
+   "id": "09da74a67098fab392bedcbd9a0d966bea3702a9",
+   "title": "Call center operator gets 8 years for helping scam 30,000 Americans",
+   "url": "https://www.bleepingcomputer.com/news/security/call-center-operator-gets-8-years-for-helping-scam-30-000-americans",
    "source": "BleepingComputer",
    "org": [],
    "topic": "security",
-   "tldr": "E-commerce platform Cleverbridge is warning that hackers breached its systems and stole customers' payment card information, including credit card numbers and CVV security codes.",
-   "published": "2026-11-22T15:43:04.000Z",
+   "tldr": "A Peruvian call center operator was sentenced to eight years in prison for stealing millions of dollars from over 30,000 Spanish-speaking US residents in a years-long government-impersonation fraud scheme.",
+   "published": "2026-11-23T12:02:23.000Z",
    "dupes": 1,
-   "score": 0.335,
+   "score": 0.38,
    "tier": 3
   },
   {
-   "id": "91d036c3af3fde0c37d77da149b03ce84889cbea",
-   "title": "TechCrunch Mobility: A/B testing robots vs. humans",
-   "url": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans",
-   "source": "TechCrunch",
+   "id": "33d65726f50ee8a455f9761833d9dfa457242677",
+   "title": "Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning",
+   "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html",
+   "source": "The Hacker News",
    "org": [],
-   "topic": "robotics",
-   "tldr": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.",
-   "published": "2026-11-22T17:06:00.000Z",
+   "topic": "security",
+   "tldr": "Threat actors are exploiting a now-patched security flaw in ConnectWise ScreenConnect to target managed service provider (MSP) servers.  9), a critical ScreenConnect client flaw that allows a guest to transfer and…",
+   "published": "2026-11-23T12:41:04.000Z",
    "dupes": 1,
-   "score": 0.331,
+   "score": 0.375,
+   "tier": 3
+  },
+  {
+   "id": "759d50b40080dffe4e747f16653da07ff64c7b0b",
+   "title": "N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation",
+   "url": "https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html",
+   "source": "The Hacker News",
+   "org": [],
+   "topic": "security",
+   "tldr": "N-able yesterday disclosed a critical flaw it found while investigating the breach of its Mail Assure and SpamExperts Hosted Cloud, an email filtering service it runs for managed service providers.  The bug, tracked as…",
+   "published": "2026-11-23T12:28:09.000Z",
+   "dupes": 1,
+   "score": 0.374,
+   "tier": 3
+  },
+  {
+   "id": "3d456a93ee71218b34a897525768b599b88a7348",
+   "title": "New NASA Seed Funding Primes Small Businesses for Innovation",
+   "url": "https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation",
+   "source": "NASA",
+   "org": [
+    "nasa"
+   ],
+   "topic": "space",
+   "tldr": "S.  space economy.",
+   "published": "2026-11-20T20:46:14.000Z",
+   "dupes": 1,
+   "score": 0.37,
    "tier": 3
   },
   {
@@ -581,7 +486,50 @@
    "tldr": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
    "published": "2026-11-18T00:27:29.000Z",
    "dupes": 1,
-   "score": 0.324,
+   "score": 0.369,
+   "tier": 3
+  },
+  {
+   "id": "75061ecab9ff7c7bd345552d83d95a69ddc1529b",
+   "title": "What Happened to Silicon Valley?",
+   "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley",
+   "source": "Hacker News",
+   "org": [],
+   "topic": "compute",
+   "tldr": "",
+   "published": "2026-11-22T19:20:15.000Z",
+   "dupes": 1,
+   "score": 0.368,
+   "tier": 3
+  },
+  {
+   "id": "7c935144aa1348358076ba2310e47f55ec79cd66",
+   "title": "NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center",
+   "url": "https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis",
+   "source": "NASA",
+   "org": [
+    "nasa"
+   ],
+   "topic": "space",
+   "tldr": "Employees contributing to NASA’s mission at the agency’s Stennis Space Center near Bay St.  Louis, Mississippi, were recognized during the center’s Honor Awards ceremony on Nov.",
+   "published": "2026-11-20T16:27:46.000Z",
+   "dupes": 1,
+   "score": 0.367,
+   "tier": 3
+  },
+  {
+   "id": "694e5ad9cef41b01db756e8a5e0d77cafbbbbdf3",
+   "title": "NASA’s Curiosity Mars Rover Collects Samples",
+   "url": "https://www.nasa.gov/image-article/nasas-curiosity-mars-rover-collects-samples",
+   "source": "NASA",
+   "org": [
+    "nasa"
+   ],
+   "topic": "space",
+   "tldr": "This Nov.  16 collage shows 49 drill holes captured by NASA’s Curiosity Mars rover as of November 2026.",
+   "published": "2026-11-20T15:53:24.000Z",
+   "dupes": 1,
+   "score": 0.367,
    "tier": 3
   },
   {
@@ -596,7 +544,50 @@
    "tldr": "A hidden bug, shifting traffic, and reduced capacity led to cascading failures.",
    "published": "2026-11-16T21:56:39.000Z",
    "dupes": 1,
-   "score": 0.321,
+   "score": 0.366,
+   "tier": 3
+  },
+  {
+   "id": "32066f88a6bcc634ba823bca20d86f284328e993",
+   "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices",
+   "source": "BleepingComputer",
+   "org": [],
+   "topic": "security",
+   "tldr": "iNet has confirmed that hackers exploited a vulnerability in its cloud remote management services to install custom malware on customers' routers and KVM devices, with some affected users reporting backdoors and reverse…",
+   "published": "2026-11-22T18:45:37.000Z",
+   "dupes": 2,
+   "score": 0.365,
+   "tier": 3
+  },
+  {
+   "id": "cfcc2050473a49650d32d83b43b28f00dd8483b9",
+   "title": "Google will launch Android app verification requirement globally in January 2027",
+   "url": "https://arstechnica.com/gadgets/2026/11/google-will-launch-android-app-verification-requirement-globally-in-january-2027",
+   "source": "Ars Technica · Gadgets",
+   "org": [
+    "google"
+   ],
+   "topic": "compute",
+   "tldr": "Google says almost all developers have already gotten on board with verification.",
+   "published": "2026-11-19T18:00:33.000Z",
+   "dupes": 1,
+   "score": 0.363,
+   "tier": 3
+  },
+  {
+   "id": "40a1e09e928f6734610716b6ccdc7cd94ee1508b",
+   "title": "NASA’s new Moon plan is taking shape, but some big questions remain",
+   "url": "https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain",
+   "source": "Ars Technica",
+   "org": [
+    "nasa"
+   ],
+   "topic": "space",
+   "tldr": "\"We tend to have a lot of technical discussion and debate.",
+   "published": "2026-11-20T20:26:33.000Z",
+   "dupes": 1,
+   "score": 0.362,
    "tier": 3
   },
   {
@@ -611,7 +602,64 @@
    "tldr": "Threat actors have compromised Microsoft's agent-framework package to push a credential stealer, according to reports from Aikido, Chainguard, Endor Labs, OX Security, SafeDep, Socket, StepSecurity, and Google-owned…",
    "published": "2026-11-18T06:45:26.000Z",
    "dupes": 1,
-   "score": 0.317,
+   "score": 0.361,
+   "tier": 3
+  },
+  {
+   "id": "80927b607c9d99a7ab3b145b4b689acf076221da",
+   "title": "AI-Assisted Cyber Attacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms",
+   "url": "https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html",
+   "source": "The Hacker News",
+   "org": [],
+   "topic": "security",
+   "tldr": "The Indian Computer Emergency Response Team (CERT-In) has warned that threat actors are carrying out artificial intelligence (AI)-assisted cyber attacks targeting information and communication technology (ICT) assets in…",
+   "published": "2026-11-23T08:24:15.000Z",
+   "dupes": 1,
+   "score": 0.355,
+   "tier": 3
+  },
+  {
+   "id": "0df183c7a96c7eaeb257096ab1c3627f3776e30b",
+   "title": "Laser Focus at the Top of the World",
+   "url": "https://science.nasa.gov/earth/earth-observatory/laser-focus-at-the-top-of-the-world",
+   "source": "NASA",
+   "org": [],
+   "topic": "space",
+   "tldr": "A next-generation geodetic instrument developed by NASA, part of a network that helps measure satellites’ orbits and the planet’s shape, has debuted in Svalbard, Norway.",
+   "published": "2026-11-23T05:01:00.000Z",
+   "dupes": 1,
+   "score": 0.354,
+   "tier": 3
+  },
+  {
+   "id": "93cc88f40ec599103ad7484c418f2df2f70e6ff3",
+   "title": "Google turns to Blue Origin for a rocket, but its long-term problem remains",
+   "url": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains",
+   "source": "Ars Technica · Space",
+   "org": [
+    "google",
+    "blue-origin"
+   ],
+   "topic": "space",
+   "tldr": "\"Project Suncatcher is a long-term moonshot.\"",
+   "published": "2026-11-19T19:52:54.000Z",
+   "dupes": 1,
+   "score": 0.346,
+   "tier": 3
+  },
+  {
+   "id": "c3cb18060c1075bf6f639cfdd9e77603716bf462",
+   "title": "NASA's new Moon plans have a problem: Orion wasn't designed to fly this way",
+   "url": "https://arstechnica.com/space/2026/11/to-make-moon-landings-easier-nasa-is-making-life-harder-for-orion",
+   "source": "Ars Technica · Space",
+   "org": [
+    "nasa"
+   ],
+   "topic": "space",
+   "tldr": "\"We also have a responsibility to not go too fast and cut too many corners.\"",
+   "published": "2026-11-19T13:40:02.000Z",
+   "dupes": 1,
+   "score": 0.334,
    "tier": 3
   },
   {
@@ -626,48 +674,20 @@
    "tldr": "\"Explain the changes that were made to the Starshield service in October 2026.\"",
    "published": "2026-11-20T22:16:51.000Z",
    "dupes": 2,
-   "score": 0.315,
+   "score": 0.297,
    "tier": 3
   },
   {
-   "id": "0ad755f2681c37300b1d468669917e8ab4a81c43",
-   "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
-   "url": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
-   "source": "The Hacker News",
-   "org": [
-    "meta"
-   ],
-   "topic": "security",
-   "tldr": "A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown.  The same attack could be extended to…",
-   "published": "2026-11-21T11:53:07.000Z",
-   "dupes": 1,
-   "score": 0.315,
-   "tier": 3
-  },
-  {
-   "id": "a3eac34b29cf4ec48f0c0918e0168bc21d98df72",
-   "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
-   "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html",
-   "source": "The Hacker News",
+   "id": "91d036c3af3fde0c37d77da149b03ce84889cbea",
+   "title": "TechCrunch Mobility: A/B testing robots vs. humans",
+   "url": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans",
+   "source": "TechCrunch",
    "org": [],
-   "topic": "security",
-   "tldr": "S.  Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver, and Broadcom VMware vCenter to its Known Exploited Vulnerabilities (KEV),…",
-   "published": "2026-11-21T08:49:13.000Z",
-   "dupes": 2,
-   "score": 0.296,
-   "tier": 3
-  },
-  {
-   "id": "78074d39dfa2deb16e4f936841f83e7b6d22b76a",
-   "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
-   "url": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
-   "source": "The Hacker News",
-   "org": [],
-   "topic": "security",
-   "tldr": "Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity company Dragos said this week.  Some of the stolen requests…",
-   "published": "2026-11-22T05:06:55.000Z",
+   "topic": "robotics",
+   "tldr": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.",
+   "published": "2026-11-22T17:06:00.000Z",
    "dupes": 1,
-   "score": 0.29,
+   "score": 0.297,
    "tier": 3
   },
   {
@@ -682,7 +702,7 @@
    "tldr": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended.  Developers are combining frontier AI models with NVIDIA…",
    "published": "2026-11-19T17:00:35.000Z",
    "dupes": 1,
-   "score": 0.281,
+   "score": 0.263,
    "tier": 3
   },
   {
@@ -697,7 +717,7 @@
    "tldr": "New NVIDIA RTX Spark compact desktops from ASUS, Dell and MSI are available today, bringing local AI agents, image and video generation, and model fine-tuning to a dedicated Windows PC.",
    "published": "2026-11-18T14:00:31.000Z",
    "dupes": 1,
-   "score": 0.274,
+   "score": 0.257,
    "tier": 3
   },
   {
@@ -712,7 +732,7 @@
    "tldr": "NVIDIA’s Ian Buck kicked off the company’s week at SC26 in Chicago on Monday with new tools for AI agents, software that can plan experiments, run code and check results on researchers’ own systems.",
    "published": "2026-11-17T14:00:10.000Z",
    "dupes": 1,
-   "score": 0.27,
+   "score": 0.253,
    "tier": 3
   },
   {
@@ -727,7 +747,7 @@
    "tldr": "At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and developers.",
    "published": "2026-11-16T23:00:05.000Z",
    "dupes": 1,
-   "score": 0.268,
+   "score": 0.252,
    "tier": 3
   },
   {
@@ -742,22 +762,7 @@
    "tldr": "Deb Shoquist leads operations at NVIDIA, overseeing the supply chain and manufacturing behind its AI platforms.  That description sums up the job, but it doesn’t begin to encompass what Shoquist has made possible over…",
    "published": "2026-11-16T20:00:37.000Z",
    "dupes": 1,
-   "score": 0.268,
-   "tier": 3
-  },
-  {
-   "id": "aafc20d9f2a085c965c8bc98ce9293784abef1f0",
-   "title": "Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
-   "url": "https://blogs.nvidia.com/blog/lambda-photonics",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "To train an AI model, thousands of GPUs have to work together, requiring a network that’s fast, efficient and resilient.  Lambda is tackling the network piece of the puzzle with NVIDIA Photonics co-packaged optics (CPO)…",
-   "published": "2026-11-16T16:00:51.000Z",
-   "dupes": 1,
-   "score": 0.268,
+   "score": 0.252,
    "tier": 3
   },
   {
@@ -770,7 +775,7 @@
    "tldr": "Manufacturers looking to deploy autonomous robots must close gaps in industrial data collection, interoperability, and quality feedback to enable reliable decision-making and improve production efficiency.  The post The…",
    "published": "2026-11-21T22:25:35.000Z",
    "dupes": 1,
-   "score": 0.266,
+   "score": 0.244,
    "tier": 3
   },
   {
@@ -785,7 +790,7 @@
    "tldr": "Bondholders want SpaceX’s valuable chip collateral kept on Earth and within reach.",
    "published": "2026-11-20T14:15:21.000Z",
    "dupes": 1,
-   "score": 0.257,
+   "score": 0.24,
    "tier": 3
   },
   {
@@ -798,7 +803,7 @@
    "tldr": "Description NASA’s Curiosity Mars rover captured these drifting clouds on Oct.  31, 2026, the 5,061st Martian day, or sol, of the mission.",
    "published": "2026-11-20T22:27:05.000Z",
    "dupes": 1,
-   "score": 0.243,
+   "score": 0.23,
    "tier": 3
   },
   {
@@ -811,7 +816,7 @@
    "tldr": "Russia launched a Soyuz rocket with satellites to help enable drone attacks over Ukraine.",
    "published": "2026-11-20T13:35:45.000Z",
    "dupes": 1,
-   "score": 0.224,
+   "score": 0.214,
    "tier": 3
   },
   {
@@ -824,20 +829,7 @@
    "tldr": "Globally, the Hugo surgical system is on track to surpass 50,000 cumulative procedures by the end of Medtronic's fiscal year.  The post Medtronic’s Hugo surgical robot ready for bigger operation appeared first on The…",
    "published": "2026-11-21T00:55:45.000Z",
    "dupes": 1,
-   "score": 0.224,
-   "tier": 3
-  },
-  {
-   "id": "d360efaa5b7a29ee0bff06af94ca4bd56b57f293",
-   "title": "The Stormy Southwest Pacific",
-   "url": "https://science.nasa.gov/earth/earth-observatory/the-stormy-southwest-pacific",
-   "source": "NASA",
-   "org": [],
-   "topic": "space",
-   "tldr": "Tropical Cyclone Xavier launched the basin’s storm season with a bang.",
-   "published": "2026-11-20T05:01:00.000Z",
-   "dupes": 1,
-   "score": 0.223,
+   "score": 0.21,
    "tier": 3
   },
   {
@@ -850,7 +842,7 @@
    "tldr": "MassRobotics plans to open the marine-focused facility in early 2028, with programming starting throughout 2027.  The post MassRobotics launching marine robotics facility on Boston Harbor appeared first on The Robot…",
    "published": "2026-11-20T17:04:28.000Z",
    "dupes": 1,
-   "score": 0.213,
+   "score": 0.202,
    "tier": 3
   },
   {
@@ -863,7 +855,7 @@
    "tldr": "One of robotics' most influential advocates is gone.  Can the industry sustain its momentum without him?",
    "published": "2026-11-20T03:06:28.000Z",
    "dupes": 1,
-   "score": 0.198,
+   "score": 0.19,
    "tier": 3
   },
   {
@@ -876,7 +868,7 @@
    "tldr": "The engineering challenges of industrial drone autonomy include GNSS reliability, SLAM, sensor fusion, obstacle avoidance, and UAV validation.  The post What industrial drone deployments reveal about real-world autonomy…",
    "published": "2026-11-19T17:01:55.000Z",
    "dupes": 1,
-   "score": 0.19,
+   "score": 0.183,
    "tier": 3
   },
   {
@@ -889,7 +881,7 @@
    "tldr": "Humyn Labs provides data collected from real-world operations for frontier AI labs, robotics companies, and world-model developers.  The post Humyn Labs raises $47M to collect real-world data for robotics appeared first…",
    "published": "2026-11-18T22:43:06.000Z",
    "dupes": 1,
-   "score": 0.179,
+   "score": 0.175,
    "tier": 3
   },
   {
@@ -902,7 +894,7 @@
    "tldr": "Robotics is advancing rapidly.  New AI models and increasingly capable hardware are expanding what machines can perceive, understand and do.",
    "published": "2026-11-18T18:00:09.000Z",
    "dupes": 1,
-   "score": 0.177,
+   "score": 0.173,
    "tier": 3
   },
   {
@@ -915,7 +907,7 @@
    "tldr": "Rockwell Automation has agreed to acquire autonomous mobile robot developer AGILOX, expanding its mobile robotics portfolio following its 2023 acquisition of OTTO Motors.  The post Rockwell Automation acquiring mobile…",
    "published": "2026-11-18T16:44:18.000Z",
    "dupes": 1,
-   "score": 0.176,
+   "score": 0.173,
    "tier": 3
   },
   {
@@ -928,7 +920,7 @@
    "tldr": "\" The post California DMV bars Waymo AVs from operating on the state’s freeways appeared first on The Robot Report .",
    "published": "2026-11-17T23:55:07.000Z",
    "dupes": 1,
-   "score": 0.171,
+   "score": 0.168,
    "tier": 3
   },
   {
@@ -941,7 +933,7 @@
    "tldr": "M.  ET.",
    "published": "2026-11-17T19:58:18.000Z",
    "dupes": 1,
-   "score": 0.17,
+   "score": 0.167,
    "tier": 3
   },
   {
@@ -956,7 +948,7 @@
    "tldr": "Boston Dynamics’ Atlas humanoid robot will undergo its first trials outside the automotive industry at a major semiconductor manufacturer in early 2027.  The post Boston Dynamics’ Atlas humanoid lands first…",
    "published": "2026-11-17T14:49:05.000Z",
    "dupes": 1,
-   "score": 0.168,
+   "score": 0.166,
    "tier": 3
   }
  ]
