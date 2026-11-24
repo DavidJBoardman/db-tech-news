@@ -1,6 +1,139 @@
 {
- "generated": "2026-11-24T11:17:32.990Z",
+ "generated": "2026-11-24T21:25:12.553Z",
  "items": [
+  {
+   "id": "bc9058b8abe3655ea181c64328b031bc6574dc01",
+   "title": "Anthropic breaks below $83 IPO price",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+   "source": "Hacker News",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-24T13:23:47.000Z",
+   "dupes": 1,
+   "score": 0.607,
+   "tier": 1
+  },
+  {
+   "id": "5e51eda1ac97c96b89d33658f25376506c24cacd",
+   "title": "Microsoft declares 'Code Red' after historic outage, internal memos show",
+   "url": "https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24",
+   "source": "Hacker News",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-24T17:07:41.000Z",
+   "dupes": 1,
+   "score": 0.591,
+   "tier": 2
+  },
+  {
+   "id": "3c6728c1bfd198791155e7911f8c578086a9a218",
+   "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+   "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "GPT-6 models design protein structures and sequences using reasoning and code.  Lab tests found evidence of binding across five targets.",
+   "published": "2026-11-24T13:00:00.000Z",
+   "dupes": 1,
+   "score": 0.553,
+   "tier": 2
+  },
+  {
+   "id": "16565a3f5dc091b0864725078fd4c4547458c83f",
+   "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+   "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-24T16:34:13.000Z",
+   "dupes": 1,
+   "score": 0.553,
+   "tier": 2
+  },
+  {
+   "id": "9b60f3c3da8786c50204dc31596cb63f81f91aea",
+   "title": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver",
+   "url": "https://andlukyane.com/blog/cayley-graphs-and-torchtpu",
+   "source": "Hacker News",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "",
+   "published": "2026-11-24T19:40:43.000Z",
+   "dupes": 1,
+   "score": 0.541,
+   "tier": 2
+  },
+  {
+   "id": "f3aa9260f1094b3713b95db83158321ea63632fb",
+   "title": "Searching for distant planets with Astra",
+   "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+   "published": "2026-11-24T11:00:00.000Z",
+   "dupes": 1,
+   "score": 0.534,
+   "tier": 2
+  },
+  {
+   "id": "32af257829de969688cb2a7c428e4b6af398aa4a",
+   "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
+   "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+   "source": "The Verge AI",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "ai",
+   "tldr": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job…",
+   "published": "2026-11-24T20:02:03.000Z",
+   "dupes": 1,
+   "score": 0.532,
+   "tier": 2
+  },
+  {
+   "id": "ec442b764e041cd285d6ece959606d2241d7d5c3",
+   "title": "How Intentful uses dots to make more time for growth",
+   "url": "https://openai.com/business/customer-stories/intentful-dots",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+   "published": "2026-11-24T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.453,
+   "tier": 2
+  },
+  {
+   "id": "7a6462e387eb267a9c42da1ffaa35959c095f129",
+   "title": "How iFood scales coding agents across 15,000 repositories",
+   "url": "https://openai.com/business/customer-stories/ifood",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-24T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.453,
+   "tier": 2
+  },
   {
    "id": "5ace9de0dfdb0aed5363d94a10bee7ce5859d750",
    "title": "Introducing Muse in the UK: A Personal AI Agent You Control",
@@ -13,8 +146,8 @@
    "tldr": "Muse is now in the UK: a personal AI agent that doesn't just answer questions, but one that you can task to get things done on your behalf The post Introducing Muse in the UK: A Personal AI Agent You Control appeared…",
    "published": "2026-11-24T06:00:40.000Z",
    "dupes": 1,
-   "score": 0.536,
-   "tier": 1
+   "score": 0.443,
+   "tier": 2
   },
   {
    "id": "1d0c151fefed0deaf7f3ec56aad3faaff42e5184",
@@ -28,22 +161,7 @@
    "tldr": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux.  It helps teams protect running systems while they roll out patches.",
    "published": "2026-11-23T21:20:00.000Z",
    "dupes": 1,
-   "score": 0.504,
-   "tier": 2
-  },
-  {
-   "id": "e3a79f42fb3c2e50c77ad828dd9d4b6590efc28c",
-   "title": "Nvidia Reinstates Jensen Huang as CEO",
-   "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
-   "source": "Hacker News",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-11-23T14:00:18.000Z",
-   "dupes": 1,
-   "score": 0.504,
+   "score": 0.438,
    "tier": 2
   },
   {
@@ -58,7 +176,7 @@
    "tldr": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
    "published": "2026-11-23T16:59:40.000Z",
    "dupes": 1,
-   "score": 0.473,
+   "score": 0.417,
    "tier": 2
   },
   {
@@ -73,7 +191,7 @@
    "tldr": "Algorithms & Theory",
    "published": "2026-11-23T17:21:12.000Z",
    "dupes": 1,
-   "score": 0.45,
+   "score": 0.394,
    "tier": 2
   },
   {
@@ -88,51 +206,8 @@
    "tldr": "The elves don’t have to be the only ones busy in the workshop this holiday season.  With the lights twinkling and the gift wrap out, it’s the perfect time to give someone — or yourself — a spark to take a hobby to the…",
    "published": "2026-11-23T17:00:08.000Z",
    "dupes": 1,
-   "score": 0.448,
-   "tier": 2
-  },
-  {
-   "id": "fd77f33bf07301c07e3cbef810d95f0967c63107",
-   "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
-   "url": "https://stalw.art/blog/microsoft-exchange-replacement",
-   "source": "Hacker News",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-11-23T22:32:29.000Z",
-   "dupes": 1,
-   "score": 0.443,
-   "tier": 2
-  },
-  {
-   "id": "ca38829e731287133c5ce858c81137975894da48",
-   "title": "RoboTrack: Point tracking for real-world robotic manipulation",
-   "url": "https://huggingface.co/blog/allenai/robotrack",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-11-23T17:20:37.000Z",
-   "dupes": 1,
-   "score": 0.438,
-   "tier": 2
-  },
-  {
-   "id": "fd143178f0e9a69aeb2dfc2191b1eb57675f03e2",
-   "title": "Researchers Are Using Meta’s Open-Weight AI Models to Transform Medicine",
-   "url": "https://about.fb.com/news/2026/11/researchers-using-meta-open-weight-ai-models-medical-breakthroughs",
-   "source": "Meta Newsroom",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "We brought researchers together for the Open Source AI For Science Summit, where they shared how they’re using AI to accelerate scientific discovery.  The post Researchers Are Using Meta’s Open-Weight AI Models to…",
-   "published": "2026-11-23T18:00:01.000Z",
-   "dupes": 1,
-   "score": 0.43,
-   "tier": 2
+   "score": 0.392,
+   "tier": 3
   },
   {
    "id": "f8a4e02f421246931880184e0500ae92d6ece8c1",
@@ -146,8 +221,8 @@
    "tldr": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside…",
    "published": "2026-11-23T08:00:00.000Z",
    "dupes": 1,
-   "score": 0.422,
-   "tier": 2
+   "score": 0.383,
+   "tier": 3
   },
   {
    "id": "680b35173b971311b4b8603cf638c317fd3576b6",
@@ -161,8 +236,36 @@
    "tldr": "1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
    "published": "2026-11-23T08:00:00.000Z",
    "dupes": 1,
-   "score": 0.422,
-   "tier": 2
+   "score": 0.383,
+   "tier": 3
+  },
+  {
+   "id": "ca38829e731287133c5ce858c81137975894da48",
+   "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+   "url": "https://huggingface.co/blog/allenai/robotrack",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-23T17:20:37.000Z",
+   "dupes": 1,
+   "score": 0.381,
+   "tier": 3
+  },
+  {
+   "id": "fd143178f0e9a69aeb2dfc2191b1eb57675f03e2",
+   "title": "Researchers Are Using Meta’s Open-Weight AI Models to Transform Medicine",
+   "url": "https://about.fb.com/news/2026/11/researchers-using-meta-open-weight-ai-models-medical-breakthroughs",
+   "source": "Meta Newsroom",
+   "org": [
+    "meta"
+   ],
+   "topic": "ai",
+   "tldr": "We brought researchers together for the Open Source AI For Science Summit, where they shared how they’re using AI to accelerate scientific discovery.  The post Researchers Are Using Meta’s Open-Weight AI Models to…",
+   "published": "2026-11-23T18:00:01.000Z",
+   "dupes": 1,
+   "score": 0.372,
+   "tier": 3
   },
   {
    "id": "15c28179b2dc3ec9cbc8a50fc5e36f988b136eb9",
@@ -176,23 +279,8 @@
    "tldr": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation.",
    "published": "2026-11-23T22:10:32.000Z",
    "dupes": 1,
-   "score": 0.411,
-   "tier": 2
-  },
-  {
-   "id": "5094532b4e2e63d2f4ca43eedb036db817dbcfaa",
-   "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
-   "url": "https://z.ai/blog/glm-5.4",
-   "source": "Hacker News",
-   "org": [
-    "zhipu"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-11-23T10:06:43.000Z",
-   "dupes": 1,
-   "score": 0.398,
-   "tier": 2
+   "score": 0.343,
+   "tier": 3
   },
   {
    "id": "49ef9cf5084cd81be3d8fae177f58a2dec453603",
@@ -206,50 +294,7 @@
    "tldr": "Anthropic is launching some new Claude AI features to help software engineers ship code.  As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests.",
    "published": "2026-11-23T20:00:00.000Z",
    "dupes": 1,
-   "score": 0.394,
-   "tier": 3
-  },
-  {
-   "id": "47b1648bdb930a3d39c6bb346a7585d0a6b857ff",
-   "title": "How Jensen Huang ended up as Nvidia CEO again",
-   "url": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
-   "source": "The Verge AI",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "ai",
-   "tldr": "The Jensen Huang era of Nvidia nearly came to an end this month.  Huang, who three decades ago cofounded what's come to be considered one of the most important companies in AI, resigned from his role on November 12th…",
-   "published": "2026-11-23T19:57:18.000Z",
-   "dupes": 1,
-   "score": 0.394,
-   "tier": 3
-  },
-  {
-   "id": "786a4f32021c11f8878af9a4fc1b207743563043",
-   "title": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
-   "source": "The Verge AI",
-   "org": [
-    "xai"
-   ],
-   "topic": "ai",
-   "tldr": "In separate but similar lawsuits filed on Monday, Oregon Attorney General Dan Rayfield and Virginia Attorney General Jay Jones accused SpaceX of violating state consumer protection laws by ignoring industry-standard…",
-   "published": "2026-11-23T18:26:47.000Z",
-   "dupes": 1,
-   "score": 0.383,
-   "tier": 3
-  },
-  {
-   "id": "6fd4c32fe34a4cba398f7bd59cf540fcd9787faa",
-   "title": "How to build and maintain an agentic evaluation",
-   "url": "https://huggingface.co/blog/agentic-evals",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-11-23T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.352,
+   "score": 0.332,
    "tier": 3
   },
   {
@@ -264,7 +309,20 @@
    "tldr": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
    "published": "2026-11-22T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.336,
+   "score": 0.324,
+   "tier": 3
+  },
+  {
+   "id": "6fd4c32fe34a4cba398f7bd59cf540fcd9787faa",
+   "title": "How to build and maintain an agentic evaluation",
+   "url": "https://huggingface.co/blog/agentic-evals",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-23T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.323,
    "tier": 3
   },
   {
@@ -279,7 +337,7 @@
    "tldr": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
    "published": "2026-11-20T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.308,
+   "score": 0.306,
    "tier": 3
   },
   {
@@ -297,7 +355,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.306,
+   "score": 0.304,
    "tier": 3
   },
   {
@@ -312,7 +370,7 @@
    "tldr": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
    "published": "2026-11-20T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.306,
+   "score": 0.304,
    "tier": 3
   },
   {
@@ -326,36 +384,6 @@
    "topic": "ai",
    "tldr": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
    "published": "2026-11-19T08:00:00.000Z",
-   "dupes": 1,
-   "score": 0.303,
-   "tier": 3
-  },
-  {
-   "id": "cb99e2baa62e786645f381f533d6d9f307017a54",
-   "title": "See PR scans in action",
-   "url": "https://openai.com/business/learn/pr-scans-demo",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
-   "published": "2026-11-19T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.302,
-   "tier": 3
-  },
-  {
-   "id": "a2fb00344062975fa7ac8b40f7787e8b1769674a",
-   "title": "Get started with Daybreak Blue",
-   "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
-   "published": "2026-11-19T00:00:00.000Z",
    "dupes": 1,
    "score": 0.302,
    "tier": 3
@@ -391,31 +419,31 @@
    "tier": 3
   },
   {
-   "id": "b898a1b2127c5756e1c018cc6a81581a6294cda6",
-   "title": "Introducing Gemini 4 Neon",
-   "url": "https://deepmind.google/blog/introducing-gemini-4-neon",
-   "source": "Google DeepMind",
+   "id": "cb99e2baa62e786645f381f533d6d9f307017a54",
+   "title": "See PR scans in action",
+   "url": "https://openai.com/business/learn/pr-scans-demo",
+   "source": "OpenAI Blog",
    "org": [
-    "google"
+    "openai"
    ],
    "topic": "ai",
-   "tldr": "",
-   "published": "2026-11-18T21:35:43.000Z",
+   "tldr": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+   "published": "2026-11-19T00:00:00.000Z",
    "dupes": 1,
    "score": 0.302,
    "tier": 3
   },
   {
-   "id": "50e3ea47cbae988d3477f301b521889b55c9580b",
-   "title": "Genie 4 is now available",
-   "url": "https://deepmind.google/blog/genie-4-is-now-available",
-   "source": "Google DeepMind",
+   "id": "a2fb00344062975fa7ac8b40f7787e8b1769674a",
+   "title": "Get started with Daybreak Blue",
+   "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+   "source": "OpenAI Blog",
    "org": [
-    "google"
+    "openai"
    ],
    "topic": "ai",
-   "tldr": "",
-   "published": "2026-11-18T18:13:42.000Z",
+   "tldr": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+   "published": "2026-11-19T00:00:00.000Z",
    "dupes": 1,
    "score": 0.302,
    "tier": 3
@@ -436,6 +464,21 @@
    "tier": 3
   },
   {
+   "id": "b527b6f0ddceafec7084d672744f5ae005b63c0e",
+   "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+   "url": "https://openai.com/business/customer-stories/sumitomo-life",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis.  Early use by executives helped drive adoption.",
+   "published": "2026-11-18T08:00:00.000Z",
+   "dupes": 1,
+   "score": 0.301,
+   "tier": 3
+  },
+  {
    "id": "9fa731b0ef6c1da92e2ee19dd39d37ee6fef6c75",
    "title": "Research acceleration: The jagged frontier",
    "url": "https://openai.com/index/research-acceleration-jagged-frontier",
@@ -449,21 +492,6 @@
    "badges": [
     "research"
    ],
-   "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
-   "id": "b527b6f0ddceafec7084d672744f5ae005b63c0e",
-   "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-   "url": "https://openai.com/business/customer-stories/sumitomo-life",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis.  Early use by executives helped drive adoption.",
-   "published": "2026-11-18T08:00:00.000Z",
    "dupes": 1,
    "score": 0.301,
    "tier": 3
@@ -529,16 +557,31 @@
    "tier": 3
   },
   {
-   "id": "549a77347d5e1e5f25e081258d641a2b8758c868",
-   "title": "Introducing GPT-6.2 Astra and Sol",
-   "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-   "source": "OpenAI Blog",
+   "id": "b898a1b2127c5756e1c018cc6a81581a6294cda6",
+   "title": "Introducing Gemini 4 Neon",
+   "url": "https://deepmind.google/blog/introducing-gemini-4-neon",
+   "source": "Google DeepMind",
    "org": [
-    "openai"
+    "google"
    ],
    "topic": "ai",
-   "tldr": "2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
-   "published": "2026-11-17T17:45:00.000Z",
+   "tldr": "",
+   "published": "2026-11-18T21:35:43.000Z",
+   "dupes": 1,
+   "score": 0.301,
+   "tier": 3
+  },
+  {
+   "id": "50e3ea47cbae988d3477f301b521889b55c9580b",
+   "title": "Genie 4 is now available",
+   "url": "https://deepmind.google/blog/genie-4-is-now-available",
+   "source": "Google DeepMind",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-18T18:13:42.000Z",
    "dupes": 1,
    "score": 0.301,
    "tier": 3
@@ -555,7 +598,7 @@
    "tldr": "Generative AI",
    "published": "2026-11-20T23:30:30.000Z",
    "dupes": 1,
-   "score": 0.289,
+   "score": 0.284,
    "tier": 3
   },
   {
@@ -570,7 +613,7 @@
    "tldr": "Quantum",
    "published": "2026-11-19T20:03:00.000Z",
    "dupes": 1,
-   "score": 0.28,
+   "score": 0.278,
    "tier": 3
   },
   {
@@ -586,7 +629,7 @@
    "tldr": "NVIDIA and Microsoft are extending their full-stack collaboration to help organizations build, customize and deploy intelligent applications — from next-generation infrastructure on Azure to industrial systems and…",
    "published": "2026-11-19T20:00:15.000Z",
    "dupes": 1,
-   "score": 0.28,
+   "score": 0.278,
    "tier": 3
   },
   {
@@ -601,7 +644,7 @@
    "tldr": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended.  Developers are combining frontier AI models with NVIDIA…",
    "published": "2026-11-19T17:00:35.000Z",
    "dupes": 1,
-   "score": 0.279,
+   "score": 0.278,
    "tier": 3
   },
   {
@@ -616,7 +659,7 @@
    "tldr": "GeForce NOW is kicking off Black Friday with more reasons to make time for gaming.  Six-month memberships are back for a limited time.",
    "published": "2026-11-19T14:00:12.000Z",
    "dupes": 1,
-   "score": 0.279,
+   "score": 0.278,
    "tier": 3
   },
   {
@@ -631,21 +674,6 @@
    "tldr": "New NVIDIA RTX Spark compact desktops from ASUS, Dell and MSI are available today, bringing local AI agents, image and video generation, and model fine-tuning to a dedicated Windows PC.",
    "published": "2026-11-18T14:00:31.000Z",
    "dupes": 1,
-   "score": 0.277,
-   "tier": 3
-  },
-  {
-   "id": "dec08682255b4b6530848f64cb15ef5daeaa03e8",
-   "title": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
-   "url": "https://blogs.nvidia.com/blog/ian-buck-sc26",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "NVIDIA’s Ian Buck kicked off the company’s week at SC26 in Chicago on Monday with new tools for AI agents, software that can plan experiments, run code and check results on researchers’ own systems.",
-   "published": "2026-11-17T14:00:10.000Z",
-   "dupes": 1,
    "score": 0.276,
    "tier": 3
   },
@@ -659,7 +687,7 @@
    "tldr": "",
    "published": "2026-11-20T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.268,
+   "score": 0.266,
    "tier": 3
   },
   {
@@ -672,7 +700,7 @@
    "tldr": "",
    "published": "2026-11-20T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.268,
+   "score": 0.266,
    "tier": 3
   },
   {
@@ -712,21 +740,6 @@
    "published": "2026-11-18T15:00:23.000Z",
    "dupes": 1,
    "score": 0.264,
-   "tier": 3
-  },
-  {
-   "id": "745a96bce666dec75a281b249a2f1719ca424218",
-   "title": "Can AI help build a healthier future?",
-   "url": "https://www.microsoft.com/en-us/research/podcast/can-ai-help-build-a-healthier-future",
-   "source": "Microsoft Research",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "What can AI enable in medicine, and how do we get there?  Microsoft Research lead Doug Burger, Microsoft Principal Research Manager Ava Amini, Microsoft Chief Scientific Officer Eric Horvitz, and physician-scientist…",
-   "published": "2026-11-17T16:52:17.000Z",
-   "dupes": 1,
-   "score": 0.263,
    "tier": 3
   },
   {
@@ -770,22 +783,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.261,
-   "tier": 3
-  },
-  {
-   "id": "2f7ff3d5ef40d974572fd7faaccadbdfd112d2df",
-   "title": "Muse Is Now Available in Australia: The World’s First Personal AI Agent Built for Everyone",
-   "url": "https://about.fb.com/news/2026/11/muse-is-now-available-in-australia",
-   "source": "Meta Newsroom",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "Muse is available in Australia from today, with local connector experiences across creativity, shopping, property, fitness and entertainment rolling out progressively.  The post Muse Is Now Available in Australia: The…",
-   "published": "2026-11-17T18:00:31.000Z",
-   "dupes": 1,
-   "score": 0.251,
+   "score": 0.258,
    "tier": 3
   }
  ]
