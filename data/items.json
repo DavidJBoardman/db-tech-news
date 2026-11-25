@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T04:24:15.120Z",
+ "generated": "2026-11-25T14:44:17.418Z",
  "items": [
   {
    "id": "3c6728c1bfd198791155e7911f8c578086a9a218",
@@ -13,8 +13,53 @@
    "tldr": "GPT-6 models design protein structures and sequences using reasoning and code.  Lab tests found evidence of binding across five targets.",
    "published": "2026-11-24T13:00:00.000Z",
    "dupes": 2,
-   "score": 0.788,
+   "score": 0.756,
    "tier": 1
+  },
+  {
+   "id": "9edbb62c9bcf9b95d25b037db0439497cdebc85b",
+   "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+   "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed",
+   "source": "TechCrunch",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Huang still faces questions from Congress and his own board about his romantic relationship with an alleged chip smuggler.",
+   "published": "2026-11-25T13:00:00.000Z",
+   "dupes": 1,
+   "score": 0.706,
+   "tier": 2
+  },
+  {
+   "id": "3885183f32787fc75de247a540aae987362048bf",
+   "title": "Ex-OpenAI Employee Accused of Bugging Company Offices Granted $1 Million Bail",
+   "url": "https://thehackernews.com/2026/11/ex-openai-employee-accused-of-bugging.html",
+   "source": "The Hacker News",
+   "org": [
+    "openai"
+   ],
+   "topic": "security",
+   "tldr": "A former OpenAI employee accused of concealing a covert recording device at the company's San Francisco offices will be allowed to be released from jail on a $1 million bond, a San Francisco federal court judge ruled…",
+   "published": "2026-11-25T10:43:07.000Z",
+   "dupes": 1,
+   "score": 0.679,
+   "tier": 2
+  },
+  {
+   "id": "9a9294d39772b25f86580ecb42443ebd39a60505",
+   "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+   "url": "https://gpu-demo-gallery.pages.dev/",
+   "source": "Hacker News",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-25T04:31:48.000Z",
+   "dupes": 1,
+   "score": 0.676,
+   "tier": 2
   },
   {
    "id": "ca6bd074c97c660efdfe9ed49a981adf11e58a6a",
@@ -28,22 +73,7 @@
    "tldr": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
    "published": "2026-11-25T03:44:07.000Z",
    "dupes": 1,
-   "score": 0.712,
-   "tier": 2
-  },
-  {
-   "id": "d6a3974a1a3c345c876adefdbde2272f3b3c0426",
-   "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
-   "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion",
-   "source": "TechCrunch",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal…",
-   "published": "2026-11-25T00:12:02.000Z",
-   "dupes": 1,
-   "score": 0.695,
+   "score": 0.666,
    "tier": 2
   },
   {
@@ -58,7 +88,37 @@
    "tldr": "\"Without this funding, activities would be delayed.\"",
    "published": "2026-11-24T16:12:46.000Z",
    "dupes": 2,
-   "score": 0.688,
+   "score": 0.654,
+   "tier": 2
+  },
+  {
+   "id": "d6a3974a1a3c345c876adefdbde2272f3b3c0426",
+   "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+   "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion",
+   "source": "TechCrunch",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal…",
+   "published": "2026-11-25T00:12:02.000Z",
+   "dupes": 1,
+   "score": 0.652,
+   "tier": 2
+  },
+  {
+   "id": "74b608e4c0cfebe977a77e703ea7f5cae0c92e28",
+   "title": "Microsoft fixes Microsoft 365 bug blocking access to Office apps",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable",
+   "source": "BleepingComputer",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "security",
+   "tldr": "Earlier this week, Microsoft resolved a known issue that was preventing some Microsoft 365 customers from accessing Office applications.",
+   "published": "2026-11-25T11:16:32.000Z",
+   "dupes": 1,
+   "score": 0.644,
    "tier": 2
   },
   {
@@ -73,7 +133,22 @@
    "tldr": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
    "published": "2026-11-24T11:00:00.000Z",
    "dupes": 1,
-   "score": 0.674,
+   "score": 0.643,
+   "tier": 2
+  },
+  {
+   "id": "5cda110a7697c4f8ea49c1f581f63917fd811444",
+   "title": "Microsoft confirms authentication issues after November updates",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates",
+   "source": "BleepingComputer",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "security",
+   "tldr": "Microsoft has confirmed that customers may experience authentication issues after installing November security updates that address a high-severity remote code execution vulnerability.",
+   "published": "2026-11-25T09:02:57.000Z",
+   "dupes": 1,
+   "score": 0.638,
    "tier": 2
   },
   {
@@ -88,7 +163,7 @@
    "tldr": "Huang’s allies enlisted Trump and Vance to pressure Nvidia’s board into taking him back.",
    "published": "2026-11-24T14:56:50.000Z",
    "dupes": 1,
-   "score": 0.664,
+   "score": 0.63,
    "tier": 2
   },
   {
@@ -103,37 +178,7 @@
    "tldr": "NASA announced Monday that NASA+ content has found its first theatrical home at The Greenbelt Cinema in Greenbelt, Maryland, expanding the agency’s reach across major viewing platforms and bringing space even closer to…",
    "published": "2026-11-24T21:14:36.000Z",
    "dupes": 1,
-   "score": 0.663,
-   "tier": 2
-  },
-  {
-   "id": "9b60f3c3da8786c50204dc31596cb63f81f91aea",
-   "title": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver",
-   "url": "https://andlukyane.com/blog/cayley-graphs-and-torchtpu",
-   "source": "Hacker News",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "",
-   "published": "2026-11-24T19:40:43.000Z",
-   "dupes": 1,
-   "score": 0.662,
-   "tier": 2
-  },
-  {
-   "id": "b879995cf1e26209e886a481644d952b380bc110",
-   "title": "Half of NASA's aging Mars fleet knocked offline by technical issues",
-   "url": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues",
-   "source": "Ars Technica",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "Perseverance is having trouble transmitting to Earth.  Odyssey is rapidly burning through its waning fuel supply.",
-   "published": "2026-11-24T22:50:11.000Z",
-   "dupes": 1,
-   "score": 0.662,
+   "score": 0.625,
    "tier": 2
   },
   {
@@ -148,23 +193,23 @@
    "tldr": "NASA completed a major review for Space Reactor-1 (SR-1) Freedom and locked in key elements of the spacecraft, which is targeted to launch in 2028 and demonstrate nuclear electric propulsion in deep space for the first…",
    "published": "2026-11-24T21:04:32.000Z",
    "dupes": 1,
-   "score": 0.662,
+   "score": 0.624,
    "tier": 2
   },
   {
-   "id": "5845ed4863b4926585035e5be53fe505a19610e2",
-   "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
-   "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race",
-   "source": "TechCrunch",
+   "id": "b879995cf1e26209e886a481644d952b380bc110",
+   "title": "Half of NASA's aging Mars fleet knocked offline by technical issues",
+   "url": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues",
+   "source": "Ars Technica",
    "org": [
-    "nvidia"
+    "nasa"
    ],
-   "topic": "compute",
-   "tldr": "5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
-   "published": "2026-11-24T15:51:07.000Z",
+   "topic": "space",
+   "tldr": "Perseverance is having trouble transmitting to Earth.  Odyssey is rapidly burning through its waning fuel supply.",
+   "published": "2026-11-24T22:50:11.000Z",
    "dupes": 1,
-   "score": 0.66,
-   "tier": 2
+   "score": 0.623,
+   "tier": 3
   },
   {
    "id": "fc5b3aa26dd83a2f5dc42a308f6063fe9c901166",
@@ -178,37 +223,7 @@
    "tldr": "NASA’s Northrop Grumman Commercial Resupply Services 25 mission, or Northrop Grumman CRS-25, will deliver about 11,000 pounds of science and supplies to the International Space Station.  The mission will be the third…",
    "published": "2026-11-24T19:09:16.000Z",
    "dupes": 1,
-   "score": 0.654,
-   "tier": 2
-  },
-  {
-   "id": "9b1c6d7c2e843a1deb1e67f504e4700114daab00",
-   "title": "Huang reportedly admitted to more than two affairs to Nvidia’s board",
-   "url": "https://techcrunch.com/2026/11/24/huang-reportedly-admitted-to-more-than-two-affairs-to-nvidias-board",
-   "source": "TechCrunch",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "During a meeting before his reinstatement, Huang admitted to more affairs beyond the two that have been reported in the news, according to The Wall Street Journal.",
-   "published": "2026-11-24T13:29:53.000Z",
-   "dupes": 1,
-   "score": 0.651,
-   "tier": 2
-  },
-  {
-   "id": "32af257829de969688cb2a7c428e4b6af398aa4a",
-   "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
-   "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
-   "source": "The Verge AI",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "ai",
-   "tldr": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job…",
-   "published": "2026-11-24T20:02:03.000Z",
-   "dupes": 1,
-   "score": 0.644,
+   "score": 0.618,
    "tier": 3
   },
   {
@@ -223,7 +238,7 @@
    "tldr": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
    "published": "2026-11-24T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.641,
+   "score": 0.617,
    "tier": 3
   },
   {
@@ -238,7 +253,7 @@
    "tldr": "",
    "published": "2026-11-24T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.641,
+   "score": 0.617,
    "tier": 3
   },
   {
@@ -253,37 +268,22 @@
    "tldr": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
    "published": "2026-11-24T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.641,
+   "score": 0.617,
    "tier": 3
   },
   {
-   "id": "5f786a00f2fe256e6ab15ae63bbb0e016faec08e",
-   "title": "NASA’s Titan-Bound Dragonfly Rotorcraft Gets Its Eyes",
-   "url": "https://science.nasa.gov/missions/dragonfly/nasas-titan-bound-dragonfly-rotorcraft-gets-its-eyes",
-   "source": "NASA",
+   "id": "44f6d57a797b432efe9cc43541ff37138cfd1a4d",
+   "title": "Microsoft's historic cloud outage exposed an engineering “fog of war”",
+   "url": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war",
+   "source": "Ars Technica · Gadgets",
    "org": [
-    "nasa"
+    "microsoft"
    ],
-   "topic": "space",
-   "tldr": "Science instruments for NASA’s Dragonfly are starting to arrive at the Johns Hopkins Applied Physics Laboratory (APL) in Laurel, Maryland, where the car-sized rotorcraft is coming together for its mission to explore…",
-   "published": "2026-11-24T15:44:38.000Z",
+   "topic": "compute",
+   "tldr": "Internal memos reveal a “Code Red” overhaul and ambitious one-hour recovery goals.",
+   "published": "2026-11-24T22:36:28.000Z",
    "dupes": 1,
-   "score": 0.641,
-   "tier": 3
-  },
-  {
-   "id": "05f3dc377d25e6f6100dc5594bb1a0a1f5758268",
-   "title": "NASA Hubble’s New View of NGC 4394 Raises the Bar",
-   "url": "https://science.nasa.gov/missions/hubble/nasa-hubbles-new-view-of-ngc-4394-raises-the-bar",
-   "source": "NASA",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "The brilliant galaxy NGC 4394 with its distinct galactic bar takes center stage in this Hubble Space Telescope image",
-   "published": "2026-11-24T13:58:28.000Z",
-   "dupes": 1,
-   "score": 0.635,
+   "score": 0.617,
    "tier": 3
   },
   {
@@ -298,67 +298,67 @@
    "tldr": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux.  It helps teams protect running systems while they roll out patches.",
    "published": "2026-11-23T21:20:00.000Z",
    "dupes": 1,
-   "score": 0.634,
+   "score": 0.612,
    "tier": 3
   },
   {
-   "id": "31bc9b6a56000390ff72e250fd245ad7d341b16d",
-   "title": "GTA 6 Running on Windows",
-   "url": "https://twitter.com/raul_bs3/status/2125213756238291075",
-   "source": "Hacker News",
+   "id": "5f786a00f2fe256e6ab15ae63bbb0e016faec08e",
+   "title": "NASA’s Titan-Bound Dragonfly Rotorcraft Gets Its Eyes",
+   "url": "https://science.nasa.gov/missions/dragonfly/nasas-titan-bound-dragonfly-rotorcraft-gets-its-eyes",
+   "source": "NASA",
    "org": [
-    "rockstar"
+    "nasa"
    ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-11-24T13:19:31.000Z",
-   "dupes": 1,
-   "score": 0.633,
-   "tier": 3
-  },
-  {
-   "id": "a0a25e5ec0683ad7b02966894e524b7a8ea7c5f9",
-   "title": "OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching",
-   "url": "https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html",
-   "source": "The Hacker News",
-   "org": [
-    "openai"
-   ],
-   "topic": "security",
-   "tldr": "OpenAI and Cisco have teamed up to launch Shirudo (meaning \"shield\" in Japanese), an open-source Linux runtime that allows artificial intelligence (AI) agents to defend systems without downtime.  \"It lets agents write…",
-   "published": "2026-11-24T06:02:57.000Z",
-   "dupes": 1,
-   "score": 0.61,
-   "tier": 3
-  },
-  {
-   "id": "a88353929e99aa7db7e770ca59e8f450fa741f0c",
-   "title": "Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season",
-   "url": "https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026",
-   "source": "NVIDIA Blog",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "compute",
-   "tldr": "The elves don’t have to be the only ones busy in the workshop this holiday season.  With the lights twinkling and the gift wrap out, it’s the perfect time to give someone — or yourself — a spark to take a hobby to the…",
-   "published": "2026-11-23T17:00:08.000Z",
+   "topic": "space",
+   "tldr": "Science instruments for NASA’s Dragonfly are starting to arrive at the Johns Hopkins Applied Physics Laboratory (APL) in Laurel, Maryland, where the car-sized rotorcraft is coming together for its mission to explore…",
+   "published": "2026-11-24T15:44:38.000Z",
    "dupes": 1,
    "score": 0.608,
    "tier": 3
   },
   {
-   "id": "a3cfe28cbe36e0354a3802d04565140fe715024b",
-   "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
-   "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
+   "id": "32af257829de969688cb2a7c428e4b6af398aa4a",
+   "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
+   "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+   "source": "The Verge AI",
    "org": [
     "nvidia"
    ],
-   "topic": "compute",
-   "tldr": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
-   "published": "2026-11-23T23:16:08.000Z",
+   "topic": "ai",
+   "tldr": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job…",
+   "published": "2026-11-24T20:02:03.000Z",
    "dupes": 1,
-   "score": 0.607,
+   "score": 0.606,
+   "tier": 3
+  },
+  {
+   "id": "05f3dc377d25e6f6100dc5594bb1a0a1f5758268",
+   "title": "NASA Hubble’s New View of NGC 4394 Raises the Bar",
+   "url": "https://science.nasa.gov/missions/hubble/nasa-hubbles-new-view-of-ngc-4394-raises-the-bar",
+   "source": "NASA",
+   "org": [
+    "nasa"
+   ],
+   "topic": "space",
+   "tldr": "The brilliant galaxy NGC 4394 with its distinct galactic bar takes center stage in this Hubble Space Telescope image",
+   "published": "2026-11-24T13:58:28.000Z",
+   "dupes": 1,
+   "score": 0.603,
+   "tier": 3
+  },
+  {
+   "id": "9436fc5b47f7d00e3629429972de56976500188d",
+   "title": "Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets",
+   "url": "https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html",
+   "source": "The Hacker News",
+   "org": [
+    "microsoft"
+   ],
+   "topic": "security",
+   "tldr": "Norway's National Security Authority (NSM) has disclosed that it became aware of a security vulnerability in Microsoft's Azure API Management (APIM) that has affected multiple businesses in the country, including energy…",
+   "published": "2026-11-24T10:44:49.000Z",
+   "dupes": 1,
+   "score": 0.59,
    "tier": 3
   },
   {
@@ -373,7 +373,7 @@
    "tldr": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside…",
    "published": "2026-11-23T08:00:00.000Z",
    "dupes": 1,
-   "score": 0.606,
+   "score": 0.589,
    "tier": 3
   },
   {
@@ -388,7 +388,67 @@
    "tldr": "1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
    "published": "2026-11-23T08:00:00.000Z",
    "dupes": 1,
-   "score": 0.606,
+   "score": 0.589,
+   "tier": 3
+  },
+  {
+   "id": "abef7dcffe0c6e9bbc9153a03527612c86726294",
+   "title": "Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More",
+   "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+   "source": "Hacker News",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-25T13:33:07.000Z",
+   "dupes": 1,
+   "score": 0.588,
+   "tier": 3
+  },
+  {
+   "id": "a88353929e99aa7db7e770ca59e8f450fa741f0c",
+   "title": "Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season",
+   "url": "https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026",
+   "source": "NVIDIA Blog",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "The elves don’t have to be the only ones busy in the workshop this holiday season.  With the lights twinkling and the gift wrap out, it’s the perfect time to give someone — or yourself — a spark to take a hobby to the…",
+   "published": "2026-11-23T17:00:08.000Z",
+   "dupes": 1,
+   "score": 0.587,
+   "tier": 3
+  },
+  {
+   "id": "a3cfe28cbe36e0354a3802d04565140fe715024b",
+   "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+   "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Technology",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "compute",
+   "tldr": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
+   "published": "2026-11-23T23:16:08.000Z",
+   "dupes": 1,
+   "score": 0.583,
+   "tier": 3
+  },
+  {
+   "id": "a0a25e5ec0683ad7b02966894e524b7a8ea7c5f9",
+   "title": "OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching",
+   "url": "https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html",
+   "source": "The Hacker News",
+   "org": [
+    "openai"
+   ],
+   "topic": "security",
+   "tldr": "OpenAI and Cisco have teamed up to launch Shirudo (meaning \"shield\" in Japanese), an open-source Linux runtime that allows artificial intelligence (AI) agents to defend systems without downtime.  \"It lets agents write…",
+   "published": "2026-11-24T06:02:57.000Z",
+   "dupes": 1,
+   "score": 0.582,
    "tier": 3
   },
   {
@@ -403,7 +463,7 @@
    "tldr": "5%.",
    "published": "2026-11-23T21:23:42.000Z",
    "dupes": 1,
-   "score": 0.602,
+   "score": 0.58,
    "tier": 3
   },
   {
@@ -418,52 +478,37 @@
    "tldr": "The Nvidia chief executive has been at the centre of the artificial intelligence boom.",
    "published": "2026-11-23T16:12:35.000Z",
    "dupes": 1,
-   "score": 0.59,
+   "score": 0.57,
    "tier": 3
   },
   {
-   "id": "15c28179b2dc3ec9cbc8a50fc5e36f988b136eb9",
-   "title": "Nvidia CEO Jensen Huang is back. What happens next?",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-   "source": "The Verge AI",
+   "id": "61dcf1169479ac822b31a5cef7d46fd39c77927b",
+   "title": "Finding faster quantum algorithms with agents and formal verification",
+   "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification",
+   "source": "Google DeepMind",
    "org": [
-    "nvidia"
+    "google"
    ],
    "topic": "ai",
-   "tldr": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation.",
-   "published": "2026-11-23T22:10:32.000Z",
+   "tldr": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+   "published": "2026-11-23T16:59:40.000Z",
    "dupes": 1,
-   "score": 0.572,
+   "score": 0.566,
    "tier": 3
   },
   {
-   "id": "de5cd1a6d51dc917ab910942b7b9fe70d73cd78c",
-   "title": "Perplexity and Intelligence",
-   "url": "https://openai.com/index/perplexity-and-intelligence",
-   "source": "OpenAI Blog",
+   "id": "bb2efaa9d0e695bb8f95902cc413ccd3aa8f394b",
+   "title": "Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity",
+   "url": "https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html",
+   "source": "The Hacker News",
    "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
-   "published": "2026-11-22T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.565,
-   "tier": 3
-  },
-  {
-   "id": "e7c549582e28a7699df02ebcfda452d9bbe7551c",
-   "title": "GTA 6 hacker released on licence with warning 'don't let this happen again'",
-   "url": "https://www.bbc.co.uk/news/articles/cqpv9kr7pxmro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
-   "org": [
-    "rockstar"
+    "google"
    ],
    "topic": "security",
-   "tldr": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.",
-   "published": "2026-11-23T14:08:50.000Z",
+   "tldr": "NET Framework loads a program file let a local attacker run untrusted code past two separate protections on Windows built to block it, Google Project Zero researcher James Forshaw showed in a write-up published…",
+   "published": "2026-11-24T12:02:00.000Z",
    "dupes": 1,
-   "score": 0.552,
+   "score": 0.54,
    "tier": 3
   },
   {
@@ -478,7 +523,20 @@
    "tldr": "S.  government officials, amid growing pressure from the White House, investors and technology executives.",
    "published": "2026-11-23T14:20:46.000Z",
    "dupes": 1,
-   "score": 0.549,
+   "score": 0.531,
+   "tier": 3
+  },
+  {
+   "id": "1a1e12592b0f8828ab7a105712d6f6205523f7bc",
+   "title": "Hackers now exploit critical Drupal RCE flaw to hijack sites",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites",
+   "source": "BleepingComputer",
+   "org": [],
+   "topic": "security",
+   "tldr": "The Drupal security team has confirmed that a critical vulnerability that lets attackers hijack unpatched sites has been actively exploited since at least Thursday.",
+   "published": "2026-11-25T10:10:20.000Z",
+   "dupes": 4,
+   "score": 0.53,
    "tier": 3
   },
   {
@@ -494,7 +552,7 @@
    "tldr": "NVIDIA and Microsoft are extending their full-stack collaboration to help organizations build, customize and deploy intelligent applications — from next-generation infrastructure on Azure to industrial systems and…",
    "published": "2026-11-19T20:00:15.000Z",
    "dupes": 1,
-   "score": 0.522,
+   "score": 0.52,
    "tier": 3
   },
   {
@@ -509,22 +567,22 @@
    "tldr": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended.  Developers are combining frontier AI models with NVIDIA…",
    "published": "2026-11-19T17:00:35.000Z",
    "dupes": 1,
-   "score": 0.522,
+   "score": 0.519,
    "tier": 3
   },
   {
-   "id": "bb2efaa9d0e695bb8f95902cc413ccd3aa8f394b",
-   "title": "Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity",
-   "url": "https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html",
-   "source": "The Hacker News",
+   "id": "cfcc2050473a49650d32d83b43b28f00dd8483b9",
+   "title": "Google will launch Android app verification requirement globally in January 2027",
+   "url": "https://arstechnica.com/gadgets/2026/11/google-will-launch-android-app-verification-requirement-globally-in-january-2027",
+   "source": "Ars Technica · Gadgets",
    "org": [
     "google"
    ],
-   "topic": "security",
-   "tldr": "NET Framework loads a program file let a local attacker run untrusted code past two separate protections on Windows built to block it, Google Project Zero researcher James Forshaw showed in a write-up published…",
-   "published": "2026-11-24T12:02:00.000Z",
+   "topic": "compute",
+   "tldr": "Google says almost all developers have already gotten on board with verification.",
+   "published": "2026-11-19T18:00:33.000Z",
    "dupes": 1,
-   "score": 0.511,
+   "score": 0.491,
    "tier": 3
   },
   {
@@ -539,68 +597,7 @@
    "tldr": "The easiest way to fool someone is to give them something they already expect.  A job offer.",
    "published": "2026-11-19T18:47:58.000Z",
    "dupes": 1,
-   "score": 0.49,
-   "tier": 3
-  },
-  {
-   "id": "ca9ad854fd977dc4b78a2de4fbe546000575d4a9",
-   "title": "Jensen Huang reinstated as Nvidia CEO and president following affair allegations",
-   "url": "https://www.gamesindustry.biz/jensen-huang-reinstated-as-nvidia-ceo-and-president-following-affair-allegations",
-   "source": "GamesIndustry.biz",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "gaming",
-   "tldr": "Nvidia has reinstated Jensen Huang as CEO and president following a unanimous vote by its Board of Directors.",
-   "published": "2026-11-23T14:33:30.000Z",
-   "dupes": 1,
    "score": 0.488,
-   "tier": 3
-  },
-  {
-   "id": "3d2dafb48c1b2acf4554e262cd96d2e9165d384f",
-   "title": "GTA 6 was the \"biggest launch in PlayStation history\", with the highest number of concurrent players ever",
-   "url": "https://www.gamesindustry.biz/gta-6-was-the-biggest-launch-in-playstation-history-with-the-highest-number-of-concurrent-players-ever",
-   "source": "GamesIndustry.biz",
-   "org": [
-    "sony",
-    "rockstar"
-   ],
-   "topic": "gaming",
-   "tldr": "Christmas did not come early for Sony, but it came close: the firm has declared that GTA 6 was the largest game launch in the platform's history, driving a record number of concurrent players on its November 19th…",
-   "published": "2026-11-24T11:44:10.000Z",
-   "dupes": 1,
-   "score": 0.484,
-   "tier": 3
-  },
-  {
-   "id": "f359e02609983b087d468625eba671038d134596",
-   "title": "Microsoft Azure flaw exploited to steal customers' API credentials",
-   "url": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials",
-   "source": "BleepingComputer",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "security",
-   "tldr": "Microsoft is warning customers that a security vulnerability in Azure API Management (APIM) Classic tiers was exploited to steal stored API credentials, with Norwegian authorities linking the flaw to cyberattacks…",
-   "published": "2026-11-23T19:42:20.000Z",
-   "dupes": 2,
-   "score": 0.483,
-   "tier": 3
-  },
-  {
-   "id": "c3cb18060c1075bf6f639cfdd9e77603716bf462",
-   "title": "NASA's new Moon plans have a problem: Orion wasn't designed to fly this way",
-   "url": "https://arstechnica.com/space/2026/11/to-make-moon-landings-easier-nasa-is-making-life-harder-for-orion",
-   "source": "Ars Technica · Space",
-   "org": [
-    "nasa"
-   ],
-   "topic": "space",
-   "tldr": "\"We also have a responsibility to not go too fast and cut too many corners.\"",
-   "published": "2026-11-19T13:40:02.000Z",
-   "dupes": 1,
-   "score": 0.472,
    "tier": 3
   },
   {
@@ -616,52 +613,52 @@
    "tldr": "GTA 6 leaker Cyberleek has reportedly released the executable file for the leaked Xbox build of the game, prompting concern that an unofficial PC port could follow.",
    "published": "2026-11-23T19:43:30.000Z",
    "dupes": 1,
-   "score": 0.464,
+   "score": 0.479,
    "tier": 3
   },
   {
-   "id": "1b3625458ce7e792ac90bcd94626483dccd9bcd3",
-   "title": "Over half of console players in the US played GTA 6 on launch day, according to Circana",
-   "url": "https://www.gamesindustry.biz/over-half-of-console-players-in-the-us-played-gta-6-on-launch-day-according-to-circana",
+   "id": "ca9ad854fd977dc4b78a2de4fbe546000575d4a9",
+   "title": "Jensen Huang reinstated as Nvidia CEO and president following affair allegations",
+   "url": "https://www.gamesindustry.biz/jensen-huang-reinstated-as-nvidia-ceo-and-president-following-affair-allegations",
    "source": "GamesIndustry.biz",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "gaming",
+   "tldr": "Nvidia has reinstated Jensen Huang as CEO and president following a unanimous vote by its Board of Directors.",
+   "published": "2026-11-23T14:33:30.000Z",
+   "dupes": 1,
+   "score": 0.472,
+   "tier": 3
+  },
+  {
+   "id": "e7c549582e28a7699df02ebcfda452d9bbe7551c",
+   "title": "GTA 6 hacker released on licence with warning 'don't let this happen again'",
+   "url": "https://www.bbc.co.uk/news/articles/cqpv9kr7pxmro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Technology",
    "org": [
     "rockstar"
    ],
-   "topic": "gaming",
-   "tldr": "Over half of players on console in the US played Grand Theft Auto 6 on launch day, according to Circana.",
-   "published": "2026-11-23T10:57:20.000Z",
+   "topic": "security",
+   "tldr": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.",
+   "published": "2026-11-23T14:08:50.000Z",
    "dupes": 1,
-   "score": 0.456,
+   "score": 0.47,
    "tier": 3
   },
   {
-   "id": "a537bca51434b72790f117ae294d488d58ab05c7",
-   "title": "UK mobile developers can now apply for their share of a £260 million Google settlement",
-   "url": "https://www.gamesindustry.biz/uk-mobile-developers-can-now-apply-for-their-share-of-a-260-million-google-settlement",
-   "source": "GamesIndustry.biz",
+   "id": "c3cb18060c1075bf6f639cfdd9e77603716bf462",
+   "title": "NASA's new Moon plans have a problem: Orion wasn't designed to fly this way",
+   "url": "https://arstechnica.com/space/2026/11/to-make-moon-landings-easier-nasa-is-making-life-harder-for-orion",
+   "source": "Ars Technica · Space",
    "org": [
-    "google"
+    "nasa"
    ],
-   "topic": "gaming",
-   "tldr": "UK developers who released games, apps or content on the Google Play Store between August 2018 and July 2026 can now claim for their share of a &pound;260 million settlement agreed in a class action suit earlier this…",
-   "published": "2026-11-24T10:50:00.000Z",
+   "topic": "space",
+   "tldr": "\"We also have a responsibility to not go too fast and cut too many corners.\"",
+   "published": "2026-11-19T13:40:02.000Z",
    "dupes": 1,
-   "score": 0.437,
-   "tier": 3
-  },
-  {
-   "id": "b557cf01bc22033d5db2e228c9fc5e746fb16044",
-   "title": "GTA 6 hits $3.79 billion in its first day on sale, becoming \"the biggest entertainment launch in history\"",
-   "url": "https://www.gamesindustry.biz/gta-6-hits-379-billion-in-its-first-day-on-sale-becoming-the-biggest-entertainment-launch-in-history",
-   "source": "GamesIndustry.biz",
-   "org": [
-    "rockstar"
-   ],
-   "topic": "gaming",
-   "tldr": "Rockstar has announced that GTA 6 achieved $3.79 billion in retail sales in its first day on sale, \"setting a new record for entertainment across any medium, and becoming the biggest entertainment launch in history.\"…",
-   "published": "2026-11-20T20:24:00.000Z",
-   "dupes": 1,
-   "score": 0.429,
+   "score": 0.47,
    "tier": 3
   },
   {
@@ -677,33 +674,22 @@
    "tldr": "\"Project Suncatcher is a long-term moonshot.\"",
    "published": "2026-11-19T19:52:54.000Z",
    "dupes": 1,
-   "score": 0.425,
+   "score": 0.467,
    "tier": 3
   },
   {
-   "id": "cb6f8525252b21b1de22135a2d2cd426b5e24425",
-   "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
-   "url": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage",
-   "source": "Ars Technica",
-   "org": [],
-   "topic": "robotics",
-   "tldr": "Amazon says Prime Air drones made “hundreds of thousands” of deliveries in 2026.",
-   "published": "2026-11-24T18:47:57.000Z",
-   "dupes": 2,
-   "score": 0.394,
-   "tier": 3
-  },
-  {
-   "id": "fb7a1ad02384f987a57a3d135d6e27d1eaec0319",
-   "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
-   "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input",
-   "source": "Ars Technica",
-   "org": [],
-   "topic": "security",
-   "tldr": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
-   "published": "2026-11-24T12:30:05.000Z",
-   "dupes": 2,
-   "score": 0.39,
+   "id": "a537bca51434b72790f117ae294d488d58ab05c7",
+   "title": "UK mobile developers can now apply for their share of a £260 million Google settlement",
+   "url": "https://www.gamesindustry.biz/uk-mobile-developers-can-now-apply-for-their-share-of-a-260-million-google-settlement",
+   "source": "GamesIndustry.biz",
+   "org": [
+    "google"
+   ],
+   "topic": "gaming",
+   "tldr": "UK developers who released games, apps or content on the Google Play Store between August 2018 and July 2026 can now claim for their share of a &pound;260 million settlement agreed in a class action suit earlier this…",
+   "published": "2026-11-24T10:50:00.000Z",
+   "dupes": 1,
+   "score": 0.461,
    "tier": 3
   },
   {
@@ -718,46 +704,106 @@
    "tldr": "A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown.  The same attack could be extended to…",
    "published": "2026-11-21T11:53:07.000Z",
    "dupes": 1,
-   "score": 0.39,
+   "score": 0.447,
    "tier": 3
   },
   {
-   "id": "db22ce6bdf49656950527d4254c30edae4d04ece",
-   "title": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
-   "url": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html",
-   "source": "The Hacker News",
+   "id": "da376550bcf71c9def31eada848b1e3d95342b01",
+   "title": "Ampere Analysis: Over 2m UK and US Xbox players accessed GTA 6 before official launch by switching location to New Zealand",
+   "url": "https://www.gamesindustry.biz/ampere-analysis-over-1m-uk-and-us-xbox-players-accessed-gta-6-before-official-launch-by-switching-location-to-new-zealand",
+   "source": "GamesIndustry.biz",
+   "org": [
+    "microsoft",
+    "rockstar"
+   ],
+   "topic": "gaming",
+   "tldr": "Over two million Xbox players in the UK and US accessed Grand Theft Auto 6 before its official launch by changing their location to New Zealand, according to Ampere Analysis.",
+   "published": "2026-11-20T15:21:00.000Z",
+   "dupes": 1,
+   "score": 0.424,
+   "tier": 3
+  },
+  {
+   "id": "bc43852d284f4dbdc0cd88006e2ba412750a9e83",
+   "title": "Arknights: Endfield named Google Play's best game of 2026",
+   "url": "https://www.gamesindustry.biz/arknights-endfield-named-google-plays-best-game-of-2026",
+   "source": "GamesIndustry.biz",
+   "org": [
+    "google"
+   ],
+   "topic": "gaming",
+   "tldr": "Gryphline's Arknights: Endfield has been named Google Play's best game of 2026, taking the top prize in every market except Japan and Korea.",
+   "published": "2026-11-18T17:36:20.000Z",
+   "dupes": 1,
+   "score": 0.415,
+   "tier": 3
+  },
+  {
+   "id": "3d2dafb48c1b2acf4554e262cd96d2e9165d384f",
+   "title": "GTA 6 was the \"biggest launch in PlayStation history\", with the highest number of concurrent players ever",
+   "url": "https://www.gamesindustry.biz/gta-6-was-the-biggest-launch-in-playstation-history-with-the-highest-number-of-concurrent-players-ever",
+   "source": "GamesIndustry.biz",
+   "org": [
+    "sony",
+    "rockstar"
+   ],
+   "topic": "gaming",
+   "tldr": "Christmas did not come early for Sony, but it came close: the firm has declared that GTA 6 was the largest game launch in the platform's history, driving a record number of concurrent players on its November 19th…",
+   "published": "2026-11-24T11:44:10.000Z",
+   "dupes": 1,
+   "score": 0.411,
+   "tier": 3
+  },
+  {
+   "id": "c131d93ba57f0b89695e34a95feb54345207f938",
+   "title": "A familiar Iranian hacking group has found a new way to cause chaos",
+   "url": "https://arstechnica.com/security/2026/11/a-familiar-iranian-hacking-group-has-found-a-new-way-to-cause-chaos",
+   "source": "Ars Technica",
    "org": [],
    "topic": "security",
-   "tldr": "Broadcom has shipped patches to address 23 vulnerabilities impacting VMware ESX, vCenter, Workstation, Fusion, and Avi Load Balancer, including one critical bug that could be abused to bypass authentication.  0 on the…",
-   "published": "2026-11-24T13:28:26.000Z",
-   "dupes": 2,
-   "score": 0.37,
+   "tldr": "France blames an Iranian cyber unit for sabotaging hundreds of supermarket freezers.",
+   "published": "2026-11-25T14:29:43.000Z",
+   "dupes": 1,
+   "score": 0.402,
    "tier": 3
   },
   {
-   "id": "8b0e4b552e838cdc1acf7d5a70909dd61acb1a13",
-   "title": "Dozens of oil and shipping tankers hacked in recent weeks, per report",
-   "url": "https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report",
+   "id": "036ac64fb77f39152278eea82e3c479a539b2aba",
+   "title": "Todoist confirms 6% of customers’ details were stolen in data breach",
+   "url": "https://techcrunch.com/2026/11/25/todoist-confirms-6-of-customers-details-were-stolen-in-data-breach",
    "source": "TechCrunch",
    "org": [],
    "topic": "security",
-   "tldr": "Iran is the chief suspect behind the dozens of cyberattacks targeting oil and chemical shipping vessels.",
-   "published": "2026-11-24T21:09:04.000Z",
+   "tldr": "Todoist said a hacker gained access to its production systems and stole customer data, including email IDs, password hashes, and account creation dates.",
+   "published": "2026-11-25T14:20:28.000Z",
    "dupes": 1,
-   "score": 0.361,
+   "score": 0.393,
    "tier": 3
   },
   {
-   "id": "1a2f60d55e4c5d9ca96c94dfb0eaa089b1ca3dab",
-   "title": "Rackspace shuts down Spot cloud platform after security breach",
-   "url": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach",
-   "source": "BleepingComputer",
+   "id": "cb6f8525252b21b1de22135a2d2cd426b5e24425",
+   "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
+   "url": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage",
+   "source": "Ars Technica",
    "org": [],
-   "topic": "security",
-   "tldr": "Rackspace is shutting down its Rackspace Spot cloud platform after a security breach allowed hackers to access customer Kubernetes clusters and secrets, giving customers until December 8 to migrate their services and…",
-   "published": "2026-11-24T21:37:30.000Z",
+   "topic": "robotics",
+   "tldr": "Amazon says Prime Air drones made “hundreds of thousands” of deliveries in 2026.",
+   "published": "2026-11-24T18:47:57.000Z",
+   "dupes": 2,
+   "score": 0.358,
+   "tier": 3
+  },
+  {
+   "id": "40eaea74cad60792ec5786372de4138660c64fa5",
+   "title": "Georgia’s Pecan Belt",
+   "url": "https://science.nasa.gov/earth/earth-observatory/georgias-pecan-belt",
+   "source": "NASA",
+   "org": [],
+   "topic": "space",
+   "tldr": "S.  pecan production.",
+   "published": "2026-11-25T05:00:00.000Z",
    "dupes": 1,
-   "score": 0.355,
+   "score": 0.348,
    "tier": 3
   },
   {
@@ -770,20 +816,7 @@
    "tldr": "Neutron stars are the ultra-dense, city-sized leftovers of dead stars.  When they collide, they can release a brief flash of light called a kilonova.",
    "published": "2026-11-24T19:19:52.000Z",
    "dupes": 1,
-   "score": 0.351,
-   "tier": 3
-  },
-  {
-   "id": "8673f1f5116ab5f884b0d3e8544a5e7a798ef517",
-   "title": "New Inception extortion gang launches large-scale vishing campaign",
-   "url": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign",
-   "source": "BleepingComputer",
-   "org": [],
-   "topic": "security",
-   "tldr": "A newly formed data extortion group named 'Inception' has been linked to a large-scale campaign that targets single sign-on (SSO) credentials of multiple global brands and firms.",
-   "published": "2026-11-24T20:21:20.000Z",
-   "dupes": 1,
-   "score": 0.35,
+   "score": 0.315,
    "tier": 3
   },
   {
@@ -796,33 +829,7 @@
    "tldr": "American Geophysical Union (AGU) 2026 Join NASA in the Exhibit Hall (Booth #525) for Hyperwall Storytelling by NASA experts.  Full Hyperwall Agenda below.",
    "published": "2026-11-24T18:55:42.000Z",
    "dupes": 1,
-   "score": 0.349,
-   "tier": 3
-  },
-  {
-   "id": "99ccfc2d0741be954acfe56738917228906387c4",
-   "title": "Turnitin discloses cyberattack affecting customer-facing systems",
-   "url": "https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems",
-   "source": "BleepingComputer",
-   "org": [],
-   "topic": "security",
-   "tldr": "Turnitin disclosed via a statement from its CEO, Chris Caren, that it recently detected unauthorized activity involving certain customer-facing systems.",
-   "published": "2026-11-24T18:59:52.000Z",
-   "dupes": 1,
-   "score": 0.344,
-   "tier": 3
-  },
-  {
-   "id": "5a93512c176d6e5f404e91a8136bb55e83b6c0c9",
-   "title": "Webb Reveals New Details in Supernova Remnant",
-   "url": "https://www.nasa.gov/image-article/webb-reveals-new-details-in-supernova-remnant",
-   "source": "NASA",
-   "org": [],
-   "topic": "space",
-   "tldr": "NASA’s James Webb Space Telescope reveals the hot dust that makes up Cassiopeia A (Cas A) in this high-resolution, mid-infrared image released on Nov.  23, 2026.",
-   "published": "2026-11-24T16:51:27.000Z",
-   "dupes": 1,
-   "score": 0.342,
+   "score": 0.314,
    "tier": 3
   },
   {
@@ -835,7 +842,7 @@
    "tldr": "The Robotics Summit & Expo returns to Boston June 2-3, 2027 with deepened coverage, an expanded expo floor, and more.  The post Robotics Summit 2027 opens call for speakers appeared first on The Robot Report .",
    "published": "2026-11-24T18:03:37.000Z",
    "dupes": 1,
-   "score": 0.323,
+   "score": 0.288,
    "tier": 3
   },
   {
@@ -848,7 +855,7 @@
    "tldr": "SoftBank has completed its acquisition of the Robotics and AI Institute from Hyundai Motor Group, expanding its robotics portfolio as the research organization looks to fill 24 open positions in Massachusetts and…",
    "published": "2026-11-24T14:48:57.000Z",
    "dupes": 1,
-   "score": 0.311,
+   "score": 0.279,
    "tier": 3
   },
   {
@@ -861,7 +868,7 @@
    "tldr": "John Deere said the deal strengthens its ability to help growers make more informed decisions throughout the growing season.  The post How does Orchard AI fit into John Deere’s technology portfolio?",
    "published": "2026-11-23T20:29:55.000Z",
    "dupes": 1,
-   "score": 0.259,
+   "score": 0.237,
    "tier": 3
   },
   {
@@ -874,7 +881,7 @@
    "tldr": "The Robot Report looks at recent advances in automation for manufacturing, from improvements in technologies and use cases to the potential of humanoids and AI.  The post Special Report: Engineering Focus on Motion…",
    "published": "2026-11-23T15:16:26.000Z",
    "dupes": 1,
-   "score": 0.247,
+   "score": 0.228,
    "tier": 3
   },
   {
@@ -887,7 +894,7 @@
    "tldr": "Manufacturers looking to deploy autonomous robots must close gaps in industrial data collection, interoperability, and quality feedback to enable reliable decision-making and improve production efficiency.  The post The…",
    "published": "2026-11-21T22:25:35.000Z",
    "dupes": 1,
-   "score": 0.193,
+   "score": 0.186,
    "tier": 3
   },
   {
@@ -900,7 +907,7 @@
    "tldr": "Globally, the Hugo surgical system is on track to surpass 50,000 cumulative procedures by the end of Medtronic's fiscal year.  The post Medtronic’s Hugo surgical robot ready for bigger operation appeared first on The…",
    "published": "2026-11-21T00:55:45.000Z",
    "dupes": 1,
-   "score": 0.18,
+   "score": 0.175,
    "tier": 3
   },
   {
@@ -913,7 +920,7 @@
    "tldr": "MassRobotics plans to open the marine-focused facility in early 2028, with programming starting throughout 2027.  The post MassRobotics launching marine robotics facility on Boston Harbor appeared first on The Robot…",
    "published": "2026-11-20T17:04:28.000Z",
    "dupes": 1,
-   "score": 0.176,
+   "score": 0.172,
    "tier": 3
   },
   {
@@ -926,7 +933,7 @@
    "tldr": "One of robotics' most influential advocates is gone.  Can the industry sustain its momentum without him?",
    "published": "2026-11-20T03:06:28.000Z",
    "dupes": 1,
-   "score": 0.171,
+   "score": 0.169,
    "tier": 3
   },
   {
@@ -939,7 +946,7 @@
    "tldr": "The engineering challenges of industrial drone autonomy include GNSS reliability, SLAM, sensor fusion, obstacle avoidance, and UAV validation.  The post What industrial drone deployments reveal about real-world autonomy…",
    "published": "2026-11-19T17:01:55.000Z",
    "dupes": 1,
-   "score": 0.169,
+   "score": 0.167,
    "tier": 3
   },
   {
@@ -952,7 +959,7 @@
    "tldr": "Humyn Labs provides data collected from real-world operations for frontier AI labs, robotics companies, and world-model developers.  The post Humyn Labs raises $47M to collect real-world data for robotics appeared first…",
    "published": "2026-11-18T22:43:06.000Z",
    "dupes": 1,
-   "score": 0.165,
+   "score": 0.164,
    "tier": 3
   }
  ]
