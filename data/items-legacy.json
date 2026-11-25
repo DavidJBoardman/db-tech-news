@@ -1,36 +1,6 @@
 {
- "generated": "2026-11-24T21:25:12.553Z",
+ "generated": "2026-11-25T04:24:20.512Z",
  "items": [
-  {
-   "id": "bc9058b8abe3655ea181c64328b031bc6574dc01",
-   "title": "Anthropic breaks below $83 IPO price",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
-   "source": "Hacker News",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-11-24T13:23:47.000Z",
-   "dupes": 1,
-   "score": 0.607,
-   "tier": 1
-  },
-  {
-   "id": "5e51eda1ac97c96b89d33658f25376506c24cacd",
-   "title": "Microsoft declares 'Code Red' after historic outage, internal memos show",
-   "url": "https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24",
-   "source": "Hacker News",
-   "org": [
-    "microsoft"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-11-24T17:07:41.000Z",
-   "dupes": 1,
-   "score": 0.591,
-   "tier": 2
-  },
   {
    "id": "3c6728c1bfd198791155e7911f8c578086a9a218",
    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
@@ -42,21 +12,23 @@
    "topic": "ai",
    "tldr": "GPT-6 models design protein structures and sequences using reasoning and code.  Lab tests found evidence of binding across five targets.",
    "published": "2026-11-24T13:00:00.000Z",
-   "dupes": 1,
-   "score": 0.553,
-   "tier": 2
+   "dupes": 2,
+   "score": 0.706,
+   "tier": 1
   },
   {
-   "id": "16565a3f5dc091b0864725078fd4c4547458c83f",
-   "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-   "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
-   "source": "Hugging Face Blog",
-   "org": [],
+   "id": "ebaf1c30665d630cbe02fd646f2d0c0890bf2fb5",
+   "title": "Serving Qwen via AWS Lambdas for fun and 80x negative profit",
+   "url": "https://noahbuilt.it/writing/qwen-on-5600-lambdas",
+   "source": "Hacker News",
+   "org": [
+    "qwen"
+   ],
    "topic": "ai",
    "tldr": "",
-   "published": "2026-11-24T16:34:13.000Z",
+   "published": "2026-11-25T03:28:06.000Z",
    "dupes": 1,
-   "score": 0.553,
+   "score": 0.543,
    "tier": 2
   },
   {
@@ -71,7 +43,20 @@
    "tldr": "",
    "published": "2026-11-24T19:40:43.000Z",
    "dupes": 1,
-   "score": 0.541,
+   "score": 0.506,
+   "tier": 2
+  },
+  {
+   "id": "16565a3f5dc091b0864725078fd4c4547458c83f",
+   "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+   "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-24T16:34:13.000Z",
+   "dupes": 1,
+   "score": 0.484,
    "tier": 2
   },
   {
@@ -86,7 +71,7 @@
    "tldr": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
    "published": "2026-11-24T11:00:00.000Z",
    "dupes": 1,
-   "score": 0.534,
+   "score": 0.479,
    "tier": 2
   },
   {
@@ -101,7 +86,7 @@
    "tldr": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job…",
    "published": "2026-11-24T20:02:03.000Z",
    "dupes": 1,
-   "score": 0.532,
+   "score": 0.454,
    "tier": 2
   },
   {
@@ -116,7 +101,7 @@
    "tldr": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
    "published": "2026-11-24T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.453,
+   "score": 0.417,
    "tier": 2
   },
   {
@@ -131,22 +116,22 @@
    "tldr": "",
    "published": "2026-11-24T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.453,
+   "score": 0.417,
    "tier": 2
   },
   {
-   "id": "5ace9de0dfdb0aed5363d94a10bee7ce5859d750",
-   "title": "Introducing Muse in the UK: A Personal AI Agent You Control",
-   "url": "https://about.fb.com/news/2026/11/introducing-muse-in-the-uk-a-personal-ai-agent-you-control",
-   "source": "Meta Newsroom",
+   "id": "99b93f3e10984935a6ab283857e5b97c678a706d",
+   "title": "Clay helps sales teams win with Codex and ChatGPT",
+   "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+   "source": "OpenAI Blog",
    "org": [
-    "meta"
+    "openai"
    ],
    "topic": "ai",
-   "tldr": "Muse is now in the UK: a personal AI agent that doesn't just answer questions, but one that you can task to get things done on your behalf The post Introducing Muse in the UK: A Personal AI Agent You Control appeared…",
-   "published": "2026-11-24T06:00:40.000Z",
+   "tldr": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+   "published": "2026-11-24T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.443,
+   "score": 0.417,
    "tier": 2
   },
   {
@@ -161,7 +146,22 @@
    "tldr": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux.  It helps teams protect running systems while they roll out patches.",
    "published": "2026-11-23T21:20:00.000Z",
    "dupes": 1,
-   "score": 0.438,
+   "score": 0.406,
+   "tier": 2
+  },
+  {
+   "id": "5ace9de0dfdb0aed5363d94a10bee7ce5859d750",
+   "title": "Introducing Muse in the UK: A Personal AI Agent You Control",
+   "url": "https://about.fb.com/news/2026/11/introducing-muse-in-the-uk-a-personal-ai-agent-you-control",
+   "source": "Meta Newsroom",
+   "org": [
+    "meta"
+   ],
+   "topic": "ai",
+   "tldr": "Muse is now in the UK: a personal AI agent that doesn't just answer questions, but one that you can task to get things done on your behalf The post Introducing Muse in the UK: A Personal AI Agent You Control appeared…",
+   "published": "2026-11-24T06:00:40.000Z",
+   "dupes": 1,
+   "score": 0.398,
    "tier": 2
   },
   {
@@ -176,7 +176,7 @@
    "tldr": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
    "published": "2026-11-23T16:59:40.000Z",
    "dupes": 1,
-   "score": 0.417,
+   "score": 0.39,
    "tier": 2
   },
   {
@@ -191,7 +191,7 @@
    "tldr": "Algorithms & Theory",
    "published": "2026-11-23T17:21:12.000Z",
    "dupes": 1,
-   "score": 0.394,
+   "score": 0.366,
    "tier": 2
   },
   {
@@ -206,7 +206,7 @@
    "tldr": "The elves don’t have to be the only ones busy in the workshop this holiday season.  With the lights twinkling and the gift wrap out, it’s the perfect time to give someone — or yourself — a spark to take a hobby to the…",
    "published": "2026-11-23T17:00:08.000Z",
    "dupes": 1,
-   "score": 0.392,
+   "score": 0.365,
    "tier": 3
   },
   {
@@ -221,7 +221,7 @@
    "tldr": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside…",
    "published": "2026-11-23T08:00:00.000Z",
    "dupes": 1,
-   "score": 0.383,
+   "score": 0.363,
    "tier": 3
   },
   {
@@ -236,7 +236,7 @@
    "tldr": "1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
    "published": "2026-11-23T08:00:00.000Z",
    "dupes": 1,
-   "score": 0.383,
+   "score": 0.363,
    "tier": 3
   },
   {
@@ -249,7 +249,7 @@
    "tldr": "",
    "published": "2026-11-23T17:20:37.000Z",
    "dupes": 1,
-   "score": 0.381,
+   "score": 0.353,
    "tier": 3
   },
   {
@@ -264,37 +264,7 @@
    "tldr": "We brought researchers together for the Open Source AI For Science Summit, where they shared how they’re using AI to accelerate scientific discovery.  The post Researchers Are Using Meta’s Open-Weight AI Models to…",
    "published": "2026-11-23T18:00:01.000Z",
    "dupes": 1,
-   "score": 0.372,
-   "tier": 3
-  },
-  {
-   "id": "15c28179b2dc3ec9cbc8a50fc5e36f988b136eb9",
-   "title": "Nvidia CEO Jensen Huang is back. What happens next?",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-   "source": "The Verge AI",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "ai",
-   "tldr": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation.",
-   "published": "2026-11-23T22:10:32.000Z",
-   "dupes": 1,
    "score": 0.343,
-   "tier": 3
-  },
-  {
-   "id": "49ef9cf5084cd81be3d8fae177f58a2dec453603",
-   "title": "Claude AI can review pull requests and ship fixes on its own now",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
-   "source": "The Verge AI",
-   "org": [
-    "anthropic"
-   ],
-   "topic": "ai",
-   "tldr": "Anthropic is launching some new Claude AI features to help software engineers ship code.  As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests.",
-   "published": "2026-11-23T20:00:00.000Z",
-   "dupes": 1,
-   "score": 0.332,
    "tier": 3
   },
   {
@@ -309,7 +279,7 @@
    "tldr": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
    "published": "2026-11-22T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.324,
+   "score": 0.318,
    "tier": 3
   },
   {
@@ -322,7 +292,22 @@
    "tldr": "",
    "published": "2026-11-23T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.323,
+   "score": 0.309,
+   "tier": 3
+  },
+  {
+   "id": "15c28179b2dc3ec9cbc8a50fc5e36f988b136eb9",
+   "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+   "source": "The Verge AI",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "ai",
+   "tldr": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation.",
+   "published": "2026-11-23T22:10:32.000Z",
+   "dupes": 1,
+   "score": 0.309,
    "tier": 3
   },
   {
@@ -337,7 +322,7 @@
    "tldr": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
    "published": "2026-11-20T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.306,
+   "score": 0.304,
    "tier": 3
   },
   {
@@ -355,7 +340,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.304,
+   "score": 0.303,
    "tier": 3
   },
   {
@@ -370,7 +355,7 @@
    "tldr": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
    "published": "2026-11-20T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.304,
+   "score": 0.303,
    "tier": 3
   },
   {
@@ -389,18 +374,18 @@
    "tier": 3
   },
   {
-   "id": "e29ac258c013c12c7631d54deada12189b653035",
-   "title": "Explore the Codex Security Plugin",
-   "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+   "id": "cb99e2baa62e786645f381f533d6d9f307017a54",
+   "title": "See PR scans in action",
+   "url": "https://openai.com/business/learn/pr-scans-demo",
    "source": "OpenAI Blog",
    "org": [
     "openai"
    ],
    "topic": "ai",
-   "tldr": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+   "tldr": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
    "published": "2026-11-19T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.302,
+   "score": 0.301,
    "tier": 3
   },
   {
@@ -415,22 +400,22 @@
    "tldr": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
    "published": "2026-11-19T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.302,
+   "score": 0.301,
    "tier": 3
   },
   {
-   "id": "cb99e2baa62e786645f381f533d6d9f307017a54",
-   "title": "See PR scans in action",
-   "url": "https://openai.com/business/learn/pr-scans-demo",
+   "id": "e29ac258c013c12c7631d54deada12189b653035",
+   "title": "Explore the Codex Security Plugin",
+   "url": "https://openai.com/business/learn/codex-security-plugin-demo",
    "source": "OpenAI Blog",
    "org": [
     "openai"
    ],
    "topic": "ai",
-   "tldr": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+   "tldr": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
    "published": "2026-11-19T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.302,
+   "score": 0.301,
    "tier": 3
   },
   {
@@ -445,7 +430,7 @@
    "tldr": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
    "published": "2026-11-19T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.302,
+   "score": 0.301,
    "tier": 3
   },
   {
@@ -527,36 +512,6 @@
    "tier": 3
   },
   {
-   "id": "6cab9c8cd38347e314ec19080853721e61b4aabd",
-   "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-   "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
-   "published": "2026-11-18T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
-   "id": "c7d3ecb006439a135768f56529a5adc2ad0eb57f",
-   "title": "Advancing chip design with OpenAI models",
-   "url": "https://openai.com/index/advancing-chip-design-with-our-models",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "compute",
-   "tldr": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
-   "published": "2026-11-18T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
    "id": "b898a1b2127c5756e1c018cc6a81581a6294cda6",
    "title": "Introducing Gemini 4 Neon",
    "url": "https://deepmind.google/blog/introducing-gemini-4-neon",
@@ -587,6 +542,21 @@
    "tier": 3
   },
   {
+   "id": "49ef9cf5084cd81be3d8fae177f58a2dec453603",
+   "title": "Claude AI can review pull requests and ship fixes on its own now",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+   "source": "The Verge AI",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "Anthropic is launching some new Claude AI features to help software engineers ship code.  As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests.",
+   "published": "2026-11-23T20:00:00.000Z",
+   "dupes": 1,
+   "score": 0.3,
+   "tier": 3
+  },
+  {
    "id": "565159543ba42dea3e8646efa73ca486e5623c29",
    "title": "How Google Duplex evolved to also call businesses for you in Gemini",
    "url": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini",
@@ -598,7 +568,7 @@
    "tldr": "Generative AI",
    "published": "2026-11-20T23:30:30.000Z",
    "dupes": 1,
-   "score": 0.284,
+   "score": 0.282,
    "tier": 3
   },
   {
@@ -613,7 +583,7 @@
    "tldr": "Quantum",
    "published": "2026-11-19T20:03:00.000Z",
    "dupes": 1,
-   "score": 0.278,
+   "score": 0.277,
    "tier": 3
   },
   {
@@ -629,7 +599,7 @@
    "tldr": "NVIDIA and Microsoft are extending their full-stack collaboration to help organizations build, customize and deploy intelligent applications — from next-generation infrastructure on Azure to industrial systems and…",
    "published": "2026-11-19T20:00:15.000Z",
    "dupes": 1,
-   "score": 0.278,
+   "score": 0.277,
    "tier": 3
   },
   {
@@ -644,7 +614,7 @@
    "tldr": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended.  Developers are combining frontier AI models with NVIDIA…",
    "published": "2026-11-19T17:00:35.000Z",
    "dupes": 1,
-   "score": 0.278,
+   "score": 0.277,
    "tier": 3
   },
   {
@@ -659,7 +629,7 @@
    "tldr": "GeForce NOW is kicking off Black Friday with more reasons to make time for gaming.  Six-month memberships are back for a limited time.",
    "published": "2026-11-19T14:00:12.000Z",
    "dupes": 1,
-   "score": 0.278,
+   "score": 0.277,
    "tier": 3
   },
   {
@@ -687,7 +657,7 @@
    "tldr": "",
    "published": "2026-11-20T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.266,
+   "score": 0.265,
    "tier": 3
   },
   {
@@ -700,7 +670,7 @@
    "tldr": "",
    "published": "2026-11-20T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.266,
+   "score": 0.265,
    "tier": 3
   },
   {
@@ -713,7 +683,7 @@
    "tldr": "",
    "published": "2026-11-18T19:54:56.000Z",
    "dupes": 1,
-   "score": 0.264,
+   "score": 0.263,
    "tier": 3
   },
   {
@@ -726,7 +696,7 @@
    "tldr": "",
    "published": "2026-11-18T18:53:43.000Z",
    "dupes": 1,
-   "score": 0.264,
+   "score": 0.263,
    "tier": 3
   },
   {
@@ -738,32 +708,6 @@
    "topic": "ai",
    "tldr": "",
    "published": "2026-11-18T15:00:23.000Z",
-   "dupes": 1,
-   "score": 0.264,
-   "tier": 3
-  },
-  {
-   "id": "af1852b4c46dc30e685f171de7728ab1aafefce8",
-   "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
-   "url": "https://huggingface.co/blog/moe-expert-streaming",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-11-18T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.263,
-   "tier": 3
-  },
-  {
-   "id": "679cee5ea1466f1fcddadc93ba91d96b658d38dc",
-   "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
-   "url": "https://huggingface.co/blog/rumble-2-flash",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-11-18T00:00:00.000Z",
    "dupes": 1,
    "score": 0.263,
    "tier": 3
@@ -783,7 +727,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.258,
+   "score": 0.256,
    "tier": 3
   }
  ]
