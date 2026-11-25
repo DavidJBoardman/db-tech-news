@@ -1,24 +1,9 @@
 {
- "generated": "2026-11-25T14:44:22.601Z",
+ "generated": "2026-11-25T23:26:04.977Z",
  "items": [
   {
-   "id": "3c6728c1bfd198791155e7911f8c578086a9a218",
-   "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-   "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "GPT-6 models design protein structures and sequences using reasoning and code.  Lab tests found evidence of binding across five targets.",
-   "published": "2026-11-24T13:00:00.000Z",
-   "dupes": 2,
-   "score": 0.642,
-   "tier": 1
-  },
-  {
    "id": "abef7dcffe0c6e9bbc9153a03527612c86726294",
-   "title": "Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More",
+   "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
    "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
    "source": "Hacker News",
    "org": [
@@ -28,7 +13,78 @@
    "tldr": "",
    "published": "2026-11-25T13:33:07.000Z",
    "dupes": 1,
-   "score": 0.576,
+   "score": 0.589,
+   "tier": 1
+  },
+  {
+   "id": "f63f4cad14680799588db9f6b447a683c8a33a0b",
+   "title": "Much shorter version of GRH Lean verification from Anthropic",
+   "url": "https://github.com/lsernau/grh-lean",
+   "source": "Hacker News",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-25T21:48:10.000Z",
+   "dupes": 1,
+   "score": 0.582,
+   "tier": 2
+  },
+  {
+   "id": "37b5c9ba932667510c47b67a8eaf7e479db38e02",
+   "title": "Where scientists draw the line on AI agents",
+   "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-25T18:52:55.000Z",
+   "dupes": 1,
+   "score": 0.556,
+   "tier": 2
+  },
+  {
+   "id": "e2ee4ad335699ba84614058257f962db191fecdf",
+   "title": "Verifiable Social Reasoning for LLM Assistants",
+   "url": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants",
+   "source": "Google Research",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Generative AI",
+   "published": "2026-11-25T17:10:27.000Z",
+   "dupes": 1,
+   "score": 0.55,
+   "tier": 2
+  },
+  {
+   "id": "ceecf9e348f1c1f1b26163654301827456aeff80",
+   "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+   "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+   "source": "The Verge AI",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users.",
+   "published": "2026-11-25T21:51:26.000Z",
+   "dupes": 1,
+   "score": 0.529,
+   "tier": 2
+  },
+  {
+   "id": "6359c2ce0900437371d3630aa30704e087d30f5c",
+   "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+   "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+   "source": "The Verge AI",
+   "org": [],
+   "topic": "compute",
+   "tldr": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative.",
+   "published": "2026-11-25T17:44:51.000Z",
+   "dupes": 1,
+   "score": 0.481,
    "tier": 2
   },
   {
@@ -41,37 +97,50 @@
    "tldr": "",
    "published": "2026-11-25T10:22:09.000Z",
    "dupes": 1,
-   "score": 0.558,
+   "score": 0.474,
    "tier": 2
   },
   {
-   "id": "9a9294d39772b25f86580ecb42443ebd39a60505",
-   "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
-   "url": "https://gpu-demo-gallery.pages.dev/",
-   "source": "Hacker News",
-   "org": [
-    "nvidia"
-   ],
+   "id": "d8d6777ecf09078330b26ef4bab0c3d0c914ff72",
+   "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+   "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+   "source": "Hugging Face Blog",
+   "org": [],
    "topic": "ai",
    "tldr": "",
-   "published": "2026-11-25T04:31:48.000Z",
+   "published": "2026-11-25T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.546,
+   "score": 0.404,
    "tier": 2
   },
   {
-   "id": "ebaf1c30665d630cbe02fd646f2d0c0890bf2fb5",
-   "title": "Serving Qwen via AWS Lambdas for fun and 80x negative profit",
-   "url": "https://noahbuilt.it/writing/qwen-on-5600-lambdas",
-   "source": "Hacker News",
+   "id": "3c6728c1bfd198791155e7911f8c578086a9a218",
+   "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+   "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+   "source": "OpenAI Blog",
    "org": [
-    "qwen"
+    "openai"
    ],
    "topic": "ai",
-   "tldr": "",
-   "published": "2026-11-25T03:28:06.000Z",
+   "tldr": "GPT-6 models design protein structures and sequences using reasoning and code.  Lab tests found evidence of binding across five targets.",
+   "published": "2026-11-24T13:00:00.000Z",
    "dupes": 1,
-   "score": 0.477,
+   "score": 0.393,
+   "tier": 2
+  },
+  {
+   "id": "f14a6f6dfd19f4cad2e8dfd115373335a579422a",
+   "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+   "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity",
+   "source": "Google DeepMind",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
+   "published": "2026-11-24T13:07:53.000Z",
+   "dupes": 1,
+   "score": 0.393,
    "tier": 2
   },
   {
@@ -86,7 +155,7 @@
    "tldr": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
    "published": "2026-11-24T11:00:00.000Z",
    "dupes": 1,
-   "score": 0.42,
+   "score": 0.386,
    "tier": 2
   },
   {
@@ -99,7 +168,7 @@
    "tldr": "",
    "published": "2026-11-24T16:34:13.000Z",
    "dupes": 1,
-   "score": 0.412,
+   "score": 0.369,
    "tier": 2
   },
   {
@@ -114,7 +183,7 @@
    "tldr": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
    "published": "2026-11-24T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.379,
+   "score": 0.356,
    "tier": 2
   },
   {
@@ -129,8 +198,8 @@
    "tldr": "",
    "published": "2026-11-24T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.379,
-   "tier": 2
+   "score": 0.356,
+   "tier": 3
   },
   {
    "id": "99b93f3e10984935a6ab283857e5b97c678a706d",
@@ -144,8 +213,8 @@
    "tldr": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
    "published": "2026-11-24T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.379,
-   "tier": 2
+   "score": 0.356,
+   "tier": 3
   },
   {
    "id": "1d0c151fefed0deaf7f3ec56aad3faaff42e5184",
@@ -159,23 +228,8 @@
    "tldr": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux.  It helps teams protect running systems while they roll out patches.",
    "published": "2026-11-23T21:20:00.000Z",
    "dupes": 1,
-   "score": 0.371,
-   "tier": 2
-  },
-  {
-   "id": "32af257829de969688cb2a7c428e4b6af398aa4a",
-   "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
-   "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
-   "source": "The Verge AI",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "ai",
-   "tldr": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job…",
-   "published": "2026-11-24T20:02:03.000Z",
-   "dupes": 1,
-   "score": 0.37,
-   "tier": 2
+   "score": 0.351,
+   "tier": 3
   },
   {
    "id": "61dcf1169479ac822b31a5cef7d46fd39c77927b",
@@ -189,22 +243,7 @@
    "tldr": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
    "published": "2026-11-23T16:59:40.000Z",
    "dupes": 1,
-   "score": 0.36,
-   "tier": 2
-  },
-  {
-   "id": "5ace9de0dfdb0aed5363d94a10bee7ce5859d750",
-   "title": "Introducing Muse in the UK: A Personal AI Agent You Control",
-   "url": "https://about.fb.com/news/2026/11/introducing-muse-in-the-uk-a-personal-ai-agent-you-control",
-   "source": "Meta Newsroom",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "Muse is now in the UK: a personal AI agent that doesn't just answer questions, but one that you can task to get things done on your behalf The post Introducing Muse in the UK: A Personal AI Agent You Control appeared…",
-   "published": "2026-11-24T06:00:40.000Z",
-   "dupes": 1,
-   "score": 0.349,
+   "score": 0.343,
    "tier": 3
   },
   {
@@ -219,7 +258,7 @@
    "tldr": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside…",
    "published": "2026-11-23T08:00:00.000Z",
    "dupes": 1,
-   "score": 0.343,
+   "score": 0.33,
    "tier": 3
   },
   {
@@ -234,7 +273,37 @@
    "tldr": "1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
    "published": "2026-11-23T08:00:00.000Z",
    "dupes": 1,
-   "score": 0.343,
+   "score": 0.33,
+   "tier": 3
+  },
+  {
+   "id": "32af257829de969688cb2a7c428e4b6af398aa4a",
+   "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
+   "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+   "source": "The Verge AI",
+   "org": [
+    "nvidia"
+   ],
+   "topic": "ai",
+   "tldr": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job…",
+   "published": "2026-11-24T20:02:03.000Z",
+   "dupes": 1,
+   "score": 0.322,
+   "tier": 3
+  },
+  {
+   "id": "5ace9de0dfdb0aed5363d94a10bee7ce5859d750",
+   "title": "Introducing Muse in the UK: A Personal AI Agent You Control",
+   "url": "https://about.fb.com/news/2026/11/introducing-muse-in-the-uk-a-personal-ai-agent-you-control",
+   "source": "Meta Newsroom",
+   "org": [
+    "meta"
+   ],
+   "topic": "ai",
+   "tldr": "Muse is now in the UK: a personal AI agent that doesn't just answer questions, but one that you can task to get things done on your behalf The post Introducing Muse in the UK: A Personal AI Agent You Control appeared…",
+   "published": "2026-11-24T06:00:40.000Z",
+   "dupes": 1,
+   "score": 0.321,
    "tier": 3
   },
   {
@@ -249,7 +318,7 @@
    "tldr": "Algorithms & Theory",
    "published": "2026-11-23T17:21:12.000Z",
    "dupes": 1,
-   "score": 0.336,
+   "score": 0.319,
    "tier": 3
   },
   {
@@ -264,20 +333,7 @@
    "tldr": "The elves don’t have to be the only ones busy in the workshop this holiday season.  With the lights twinkling and the gift wrap out, it’s the perfect time to give someone — or yourself — a spark to take a hobby to the…",
    "published": "2026-11-23T17:00:08.000Z",
    "dupes": 1,
-   "score": 0.335,
-   "tier": 3
-  },
-  {
-   "id": "ca38829e731287133c5ce858c81137975894da48",
-   "title": "RoboTrack: Point tracking for real-world robotic manipulation",
-   "url": "https://huggingface.co/blog/allenai/robotrack",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-11-23T17:20:37.000Z",
-   "dupes": 1,
-   "score": 0.323,
+   "score": 0.318,
    "tier": 3
   },
   {
@@ -292,22 +348,7 @@
    "tldr": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
    "published": "2026-11-22T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.312,
-   "tier": 3
-  },
-  {
-   "id": "fd143178f0e9a69aeb2dfc2191b1eb57675f03e2",
-   "title": "Researchers Are Using Meta’s Open-Weight AI Models to Transform Medicine",
-   "url": "https://about.fb.com/news/2026/11/researchers-using-meta-open-weight-ai-models-medical-breakthroughs",
-   "source": "Meta Newsroom",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "We brought researchers together for the Open Source AI For Science Summit, where they shared how they’re using AI to accelerate scientific discovery.  The post Researchers Are Using Meta’s Open-Weight AI Models to…",
-   "published": "2026-11-23T18:00:01.000Z",
-   "dupes": 1,
-   "score": 0.312,
+   "score": 0.309,
    "tier": 3
   },
   {
@@ -322,7 +363,7 @@
    "tldr": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
    "published": "2026-11-20T10:00:00.000Z",
    "dupes": 1,
-   "score": 0.303,
+   "score": 0.302,
    "tier": 3
   },
   {
@@ -340,7 +381,7 @@
     "research"
    ],
    "dupes": 1,
-   "score": 0.302,
+   "score": 0.301,
    "tier": 3
   },
   {
@@ -355,7 +396,7 @@
    "tldr": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
    "published": "2026-11-20T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.302,
+   "score": 0.301,
    "tier": 3
   },
   {
@@ -434,33 +475,18 @@
    "tier": 3
   },
   {
-   "id": "b898a1b2127c5756e1c018cc6a81581a6294cda6",
-   "title": "Introducing Gemini 4 Neon",
-   "url": "https://deepmind.google/blog/introducing-gemini-4-neon",
-   "source": "Google DeepMind",
+   "id": "fd143178f0e9a69aeb2dfc2191b1eb57675f03e2",
+   "title": "Researchers Are Using Meta’s Open-Weight AI Models to Transform Medicine",
+   "url": "https://about.fb.com/news/2026/11/researchers-using-meta-open-weight-ai-models-medical-breakthroughs",
+   "source": "Meta Newsroom",
    "org": [
-    "google"
+    "meta"
    ],
    "topic": "ai",
-   "tldr": "",
-   "published": "2026-11-18T21:35:43.000Z",
+   "tldr": "We brought researchers together for the Open Source AI For Science Summit, where they shared how they’re using AI to accelerate scientific discovery.  The post Researchers Are Using Meta’s Open-Weight AI Models to…",
+   "published": "2026-11-23T18:00:01.000Z",
    "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
-   "id": "50e3ea47cbae988d3477f301b521889b55c9580b",
-   "title": "Genie 4 is now available",
-   "url": "https://deepmind.google/blog/genie-4-is-now-available",
-   "source": "Google DeepMind",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-11-18T18:13:42.000Z",
-   "dupes": 1,
-   "score": 0.301,
+   "score": 0.295,
    "tier": 3
   },
   {
@@ -473,7 +499,7 @@
    "tldr": "",
    "published": "2026-11-23T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.294,
+   "score": 0.285,
    "tier": 3
   },
   {
@@ -488,7 +514,22 @@
    "tldr": "Generative AI",
    "published": "2026-11-20T23:30:30.000Z",
    "dupes": 1,
-   "score": 0.28,
+   "score": 0.278,
+   "tier": 3
+  },
+  {
+   "id": "c0f9b5be5e227e74d7d39d21faac8463b1babe96",
+   "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+   "url": "https://bjin.github.io/go-codegolf-benchmark",
+   "source": "Hacker News",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-22T16:44:48.000Z",
+   "dupes": 1,
+   "score": 0.277,
    "tier": 3
   },
   {
@@ -503,7 +544,7 @@
    "tldr": "Quantum",
    "published": "2026-11-19T20:03:00.000Z",
    "dupes": 1,
-   "score": 0.277,
+   "score": 0.276,
    "tier": 3
   },
   {
@@ -519,7 +560,7 @@
    "tldr": "NVIDIA and Microsoft are extending their full-stack collaboration to help organizations build, customize and deploy intelligent applications — from next-generation infrastructure on Azure to industrial systems and…",
    "published": "2026-11-19T20:00:15.000Z",
    "dupes": 1,
-   "score": 0.277,
+   "score": 0.276,
    "tier": 3
   },
   {
@@ -553,21 +594,6 @@
    "tier": 3
   },
   {
-   "id": "15c28179b2dc3ec9cbc8a50fc5e36f988b136eb9",
-   "title": "Nvidia CEO Jensen Huang is back. What happens next?",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-   "source": "The Verge AI",
-   "org": [
-    "nvidia"
-   ],
-   "topic": "ai",
-   "tldr": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation.",
-   "published": "2026-11-23T22:10:32.000Z",
-   "dupes": 1,
-   "score": 0.273,
-   "tier": 3
-  },
-  {
    "id": "80d31a6dee298bbd6550aefa2b8a7396dcf19593",
    "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
    "url": "https://huggingface.co/blog/inkling2mini",
@@ -594,32 +620,6 @@
    "tier": 3
   },
   {
-   "id": "f689168723dc030df68e3b673ab44c5f35046795",
-   "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
-   "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-11-18T19:54:56.000Z",
-   "dupes": 1,
-   "score": 0.263,
-   "tier": 3
-  },
-  {
-   "id": "75623b38e68bd27d92e36a52d6a4cbbd66f1e8a3",
-   "title": "Why your fine-tuning job takes longer than the FLOPs say",
-   "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-11-18T18:53:43.000Z",
-   "dupes": 1,
-   "score": 0.263,
-   "tier": 3
-  },
-  {
    "id": "2ef902c4582a1ae83a8ab000c1205b3155d54837",
    "title": "Advancing Science Together: Highlights From the Open Source AI for Science Summit",
    "url": "https://about.fb.com/news/2026/11/advancing-science-together-highlights-from-the-open-source-ai-for-science-summit",
@@ -634,7 +634,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.254,
+   "score": 0.253,
    "tier": 3
   }
  ]
