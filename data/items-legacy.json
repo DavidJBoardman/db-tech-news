@@ -1,19 +1,17 @@
 {
- "generated": "2026-11-25T23:26:04.977Z",
+ "generated": "2026-11-26T05:16:33.815Z",
  "items": [
   {
-   "id": "abef7dcffe0c6e9bbc9153a03527612c86726294",
-   "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
-   "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
-   "source": "Hacker News",
-   "org": [
-    "google"
-   ],
+   "id": "d3aa48daa62df5852a1b067eacae1265bc9a1872",
+   "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+   "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+   "source": "Hugging Face Blog",
+   "org": [],
    "topic": "ai",
    "tldr": "",
-   "published": "2026-11-25T13:33:07.000Z",
+   "published": "2026-11-26T05:05:36.000Z",
    "dupes": 1,
-   "score": 0.589,
+   "score": 0.61,
    "tier": 1
   },
   {
@@ -28,7 +26,37 @@
    "tldr": "",
    "published": "2026-11-25T21:48:10.000Z",
    "dupes": 1,
-   "score": 0.582,
+   "score": 0.578,
+   "tier": 2
+  },
+  {
+   "id": "244a3e8cb4f170fa443cbaebc171763c980673d3",
+   "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+   "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+   "source": "Hacker News",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-26T03:36:58.000Z",
+   "dupes": 1,
+   "score": 0.548,
+   "tier": 2
+  },
+  {
+   "id": "abef7dcffe0c6e9bbc9153a03527612c86726294",
+   "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+   "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+   "source": "Hacker News",
+   "org": [
+    "google"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-25T13:33:07.000Z",
+   "dupes": 1,
+   "score": 0.541,
    "tier": 2
   },
   {
@@ -41,7 +69,22 @@
    "tldr": "",
    "published": "2026-11-25T18:52:55.000Z",
    "dupes": 1,
-   "score": 0.556,
+   "score": 0.497,
+   "tier": 2
+  },
+  {
+   "id": "a1356d98cece1a517d1f7bab15adc0bc3140933e",
+   "title": "Bare Metal Qwen",
+   "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+   "source": "Hacker News",
+   "org": [
+    "qwen"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-25T22:15:34.000Z",
+   "dupes": 1,
+   "score": 0.497,
    "tier": 2
   },
   {
@@ -56,7 +99,7 @@
    "tldr": "Generative AI",
    "published": "2026-11-25T17:10:27.000Z",
    "dupes": 1,
-   "score": 0.55,
+   "score": 0.495,
    "tier": 2
   },
   {
@@ -71,20 +114,7 @@
    "tldr": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users.",
    "published": "2026-11-25T21:51:26.000Z",
    "dupes": 1,
-   "score": 0.529,
-   "tier": 2
-  },
-  {
-   "id": "6359c2ce0900437371d3630aa30704e087d30f5c",
-   "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
-   "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
-   "source": "The Verge AI",
-   "org": [],
-   "topic": "compute",
-   "tldr": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative.",
-   "published": "2026-11-25T17:44:51.000Z",
-   "dupes": 1,
-   "score": 0.481,
+   "score": 0.463,
    "tier": 2
   },
   {
@@ -97,7 +127,20 @@
    "tldr": "",
    "published": "2026-11-25T10:22:09.000Z",
    "dupes": 1,
-   "score": 0.474,
+   "score": 0.431,
+   "tier": 2
+  },
+  {
+   "id": "6359c2ce0900437371d3630aa30704e087d30f5c",
+   "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+   "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+   "source": "The Verge AI",
+   "org": [],
+   "topic": "compute",
+   "tldr": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative.",
+   "published": "2026-11-25T17:44:51.000Z",
+   "dupes": 1,
+   "score": 0.425,
    "tier": 2
   },
   {
@@ -110,22 +153,7 @@
    "tldr": "",
    "published": "2026-11-25T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.404,
-   "tier": 2
-  },
-  {
-   "id": "3c6728c1bfd198791155e7911f8c578086a9a218",
-   "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-   "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "GPT-6 models design protein structures and sequences using reasoning and code.  Lab tests found evidence of binding across five targets.",
-   "published": "2026-11-24T13:00:00.000Z",
-   "dupes": 1,
-   "score": 0.393,
+   "score": 0.376,
    "tier": 2
   },
   {
@@ -140,7 +168,22 @@
    "tldr": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
    "published": "2026-11-24T13:07:53.000Z",
    "dupes": 1,
-   "score": 0.393,
+   "score": 0.375,
+   "tier": 2
+  },
+  {
+   "id": "3c6728c1bfd198791155e7911f8c578086a9a218",
+   "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+   "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+   "source": "OpenAI Blog",
+   "org": [
+    "openai"
+   ],
+   "topic": "ai",
+   "tldr": "GPT-6 models design protein structures and sequences using reasoning and code.  Lab tests found evidence of binding across five targets.",
+   "published": "2026-11-24T13:00:00.000Z",
+   "dupes": 1,
+   "score": 0.374,
    "tier": 2
   },
   {
@@ -155,21 +198,8 @@
    "tldr": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
    "published": "2026-11-24T11:00:00.000Z",
    "dupes": 1,
-   "score": 0.386,
-   "tier": 2
-  },
-  {
-   "id": "16565a3f5dc091b0864725078fd4c4547458c83f",
-   "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-   "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-11-24T16:34:13.000Z",
-   "dupes": 1,
    "score": 0.369,
-   "tier": 2
+   "tier": 3
   },
   {
    "id": "ec442b764e041cd285d6ece959606d2241d7d5c3",
@@ -183,8 +213,8 @@
    "tldr": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
    "published": "2026-11-24T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.356,
-   "tier": 2
+   "score": 0.345,
+   "tier": 3
   },
   {
    "id": "7a6462e387eb267a9c42da1ffaa35959c095f129",
@@ -198,7 +228,7 @@
    "tldr": "",
    "published": "2026-11-24T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.356,
+   "score": 0.345,
    "tier": 3
   },
   {
@@ -213,7 +243,7 @@
    "tldr": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
    "published": "2026-11-24T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.356,
+   "score": 0.345,
    "tier": 3
   },
   {
@@ -228,7 +258,7 @@
    "tldr": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux.  It helps teams protect running systems while they roll out patches.",
    "published": "2026-11-23T21:20:00.000Z",
    "dupes": 1,
-   "score": 0.351,
+   "score": 0.341,
    "tier": 3
   },
   {
@@ -243,7 +273,7 @@
    "tldr": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
    "published": "2026-11-23T16:59:40.000Z",
    "dupes": 1,
-   "score": 0.343,
+   "score": 0.334,
    "tier": 3
   },
   {
@@ -258,7 +288,7 @@
    "tldr": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside…",
    "published": "2026-11-23T08:00:00.000Z",
    "dupes": 1,
-   "score": 0.33,
+   "score": 0.324,
    "tier": 3
   },
   {
@@ -273,37 +303,22 @@
    "tldr": "1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
    "published": "2026-11-23T08:00:00.000Z",
    "dupes": 1,
-   "score": 0.33,
+   "score": 0.324,
    "tier": 3
   },
   {
-   "id": "32af257829de969688cb2a7c428e4b6af398aa4a",
-   "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
-   "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
-   "source": "The Verge AI",
+   "id": "c0f9b5be5e227e74d7d39d21faac8463b1babe96",
+   "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+   "url": "https://bjin.github.io/go-codegolf-benchmark",
+   "source": "Hacker News",
    "org": [
-    "nvidia"
+    "openai"
    ],
    "topic": "ai",
-   "tldr": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job…",
-   "published": "2026-11-24T20:02:03.000Z",
+   "tldr": "",
+   "published": "2026-11-22T16:44:48.000Z",
    "dupes": 1,
-   "score": 0.322,
-   "tier": 3
-  },
-  {
-   "id": "5ace9de0dfdb0aed5363d94a10bee7ce5859d750",
-   "title": "Introducing Muse in the UK: A Personal AI Agent You Control",
-   "url": "https://about.fb.com/news/2026/11/introducing-muse-in-the-uk-a-personal-ai-agent-you-control",
-   "source": "Meta Newsroom",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "Muse is now in the UK: a personal AI agent that doesn't just answer questions, but one that you can task to get things done on your behalf The post Introducing Muse in the UK: A Personal AI Agent You Control appeared…",
-   "published": "2026-11-24T06:00:40.000Z",
-   "dupes": 1,
-   "score": 0.321,
+   "score": 0.314,
    "tier": 3
   },
   {
@@ -318,7 +333,7 @@
    "tldr": "Algorithms & Theory",
    "published": "2026-11-23T17:21:12.000Z",
    "dupes": 1,
-   "score": 0.319,
+   "score": 0.31,
    "tier": 3
   },
   {
@@ -333,7 +348,7 @@
    "tldr": "The elves don’t have to be the only ones busy in the workshop this holiday season.  With the lights twinkling and the gift wrap out, it’s the perfect time to give someone — or yourself — a spark to take a hobby to the…",
    "published": "2026-11-23T17:00:08.000Z",
    "dupes": 1,
-   "score": 0.318,
+   "score": 0.309,
    "tier": 3
   },
   {
@@ -348,7 +363,22 @@
    "tldr": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
    "published": "2026-11-22T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.309,
+   "score": 0.307,
+   "tier": 3
+  },
+  {
+   "id": "5ace9de0dfdb0aed5363d94a10bee7ce5859d750",
+   "title": "Introducing Muse in the UK: A Personal AI Agent You Control",
+   "url": "https://about.fb.com/news/2026/11/introducing-muse-in-the-uk-a-personal-ai-agent-you-control",
+   "source": "Meta Newsroom",
+   "org": [
+    "meta"
+   ],
+   "topic": "ai",
+   "tldr": "Muse is now in the UK: a personal AI agent that doesn't just answer questions, but one that you can task to get things done on your behalf The post Introducing Muse in the UK: A Personal AI Agent You Control appeared…",
+   "published": "2026-11-24T06:00:40.000Z",
+   "dupes": 1,
+   "score": 0.307,
    "tier": 3
   },
   {
@@ -415,63 +445,18 @@
    "tier": 3
   },
   {
-   "id": "cb99e2baa62e786645f381f533d6d9f307017a54",
-   "title": "See PR scans in action",
-   "url": "https://openai.com/business/learn/pr-scans-demo",
-   "source": "OpenAI Blog",
+   "id": "32af257829de969688cb2a7c428e4b6af398aa4a",
+   "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
+   "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+   "source": "The Verge AI",
    "org": [
-    "openai"
+    "nvidia"
    ],
    "topic": "ai",
-   "tldr": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
-   "published": "2026-11-19T00:00:00.000Z",
+   "tldr": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job…",
+   "published": "2026-11-24T20:02:03.000Z",
    "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
-   "id": "4b08ec50268e04a4eb3cb57ed8baf78fd82cefe6",
-   "title": "Deploying Daybreak Red",
-   "url": "https://openai.com/business/learn/deploying-daybreak-red",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
-   "published": "2026-11-19T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
-   "id": "e29ac258c013c12c7631d54deada12189b653035",
-   "title": "Explore the Codex Security Plugin",
-   "url": "https://openai.com/business/learn/codex-security-plugin-demo",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
-   "published": "2026-11-19T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
-   "id": "a2fb00344062975fa7ac8b40f7787e8b1769674a",
-   "title": "Get started with Daybreak Blue",
-   "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
-   "published": "2026-11-19T00:00:00.000Z",
-   "dupes": 1,
-   "score": 0.301,
+   "score": 0.297,
    "tier": 3
   },
   {
@@ -486,7 +471,7 @@
    "tldr": "We brought researchers together for the Open Source AI For Science Summit, where they shared how they’re using AI to accelerate scientific discovery.  The post Researchers Are Using Meta’s Open-Weight AI Models to…",
    "published": "2026-11-23T18:00:01.000Z",
    "dupes": 1,
-   "score": 0.295,
+   "score": 0.286,
    "tier": 3
   },
   {
@@ -499,7 +484,7 @@
    "tldr": "",
    "published": "2026-11-23T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.285,
+   "score": 0.28,
    "tier": 3
   },
   {
@@ -515,21 +500,6 @@
    "published": "2026-11-20T23:30:30.000Z",
    "dupes": 1,
    "score": 0.278,
-   "tier": 3
-  },
-  {
-   "id": "c0f9b5be5e227e74d7d39d21faac8463b1babe96",
-   "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
-   "url": "https://bjin.github.io/go-codegolf-benchmark",
-   "source": "Hacker News",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-11-22T16:44:48.000Z",
-   "dupes": 1,
-   "score": 0.277,
    "tier": 3
   },
   {
@@ -634,7 +604,7 @@
     "oss"
    ],
    "dupes": 1,
-   "score": 0.253,
+   "score": 0.252,
    "tier": 3
   }
  ]
