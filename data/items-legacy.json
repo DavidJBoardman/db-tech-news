@@ -1,6 +1,39 @@
 {
- "generated": "2026-11-27T08:53:20.384Z",
+ "generated": "2026-11-27T18:36:53.817Z",
  "items": [
+  {
+   "id": "d6b51fef844abdcdd2403789bbeaeb8938c92f39",
+   "title": "Kimi for Science: More scientific ideas, made possible",
+   "url": "https://www.kimi.ai/news/kimi-for-science-program",
+   "source": "Hacker News",
+   "org": [
+    "moonshot"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-27T12:03:11.000Z",
+   "dupes": 2,
+   "score": 0.59,
+   "tier": 1
+  },
+  {
+   "id": "138e1e18872d9e9b5386c90467e0be8218201a16",
+   "title": "Claude sabotaging ML research tasks?",
+   "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+   "source": "Hacker News",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-27T08:28:08.000Z",
+   "badges": [
+    "research"
+   ],
+   "dupes": 1,
+   "score": 0.566,
+   "tier": 2
+  },
   {
    "id": "1d45997e4997625f9817125417346ee454996a19",
    "title": "AMD-specific fork of llama.cpp",
@@ -13,8 +46,23 @@
    "tldr": "",
    "published": "2026-11-26T17:11:29.000Z",
    "dupes": 1,
-   "score": 0.541,
-   "tier": 1
+   "score": 0.481,
+   "tier": 2
+  },
+  {
+   "id": "0256b11e8366a05168e83214472323cbc00a964a",
+   "title": "\"What's Claude's fursona?\" and other questions",
+   "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona",
+   "source": "Hacker News",
+   "org": [
+    "anthropic"
+   ],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-27T04:56:18.000Z",
+   "dupes": 1,
+   "score": 0.451,
+   "tier": 2
   },
   {
    "id": "6f6a6b07f17a726f0cf416f09370755900e04234",
@@ -28,7 +76,20 @@
    "tldr": "",
    "published": "2026-11-26T09:44:23.000Z",
    "dupes": 1,
-   "score": 0.484,
+   "score": 0.443,
+   "tier": 2
+  },
+  {
+   "id": "2d7f8b4f8454af3138b975bc7f8d7a019ddb5d13",
+   "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+   "url": "https://huggingface.co/blog/video-trainium3",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-27T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.433,
    "tier": 2
   },
   {
@@ -43,7 +104,7 @@
    "tldr": "Good games bring people together.  This GFN Thursday, GeForce NOW is celebrating the members, creators and community moderators who turn every session into something worth sharing.",
    "published": "2026-11-26T14:00:22.000Z",
    "dupes": 1,
-   "score": 0.444,
+   "score": 0.391,
    "tier": 2
   },
   {
@@ -58,7 +119,7 @@
    "tldr": "",
    "published": "2026-11-26T11:37:17.000Z",
    "dupes": 1,
-   "score": 0.417,
+   "score": 0.369,
    "tier": 2
   },
   {
@@ -71,7 +132,7 @@
    "tldr": "",
    "published": "2026-11-26T05:05:36.000Z",
    "dupes": 1,
-   "score": 0.383,
+   "score": 0.345,
    "tier": 2
   },
   {
@@ -84,7 +145,7 @@
    "tldr": "",
    "published": "2026-11-26T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.361,
+   "score": 0.33,
    "tier": 2
   },
   {
@@ -99,20 +160,7 @@
    "tldr": "Generative AI",
    "published": "2026-11-25T17:10:27.000Z",
    "dupes": 1,
-   "score": 0.351,
-   "tier": 2
-  },
-  {
-   "id": "37b5c9ba932667510c47b67a8eaf7e479db38e02",
-   "title": "Where scientists draw the line on AI agents",
-   "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-11-25T18:52:55.000Z",
-   "dupes": 1,
-   "score": 0.343,
+   "score": 0.327,
    "tier": 2
   },
   {
@@ -127,7 +175,7 @@
    "tldr": "GPT-6 models design protein structures and sequences using reasoning and code.  Lab tests found evidence of binding across five targets.",
    "published": "2026-11-24T13:00:00.000Z",
    "dupes": 1,
-   "score": 0.326,
+   "score": 0.318,
    "tier": 2
   },
   {
@@ -142,8 +190,21 @@
    "tldr": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
    "published": "2026-11-24T13:07:53.000Z",
    "dupes": 1,
-   "score": 0.326,
+   "score": 0.318,
    "tier": 2
+  },
+  {
+   "id": "37b5c9ba932667510c47b67a8eaf7e479db38e02",
+   "title": "Where scientists draw the line on AI agents",
+   "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-25T18:52:55.000Z",
+   "dupes": 1,
+   "score": 0.318,
+   "tier": 3
   },
   {
    "id": "f3aa9260f1094b3713b95db83158321ea63632fb",
@@ -157,21 +218,8 @@
    "tldr": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
    "published": "2026-11-24T11:00:00.000Z",
    "dupes": 1,
-   "score": 0.324,
-   "tier": 2
-  },
-  {
-   "id": "d0a3a7f662b58965bac4af6309f496652b034a9c",
-   "title": "An Indic Voice Agent with CUGA",
-   "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
-   "source": "Hugging Face Blog",
-   "org": [],
-   "topic": "ai",
-   "tldr": "",
-   "published": "2026-11-25T10:22:09.000Z",
-   "dupes": 1,
-   "score": 0.321,
-   "tier": 2
+   "score": 0.316,
+   "tier": 3
   },
   {
    "id": "ec442b764e041cd285d6ece959606d2241d7d5c3",
@@ -185,8 +233,8 @@
    "tldr": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
    "published": "2026-11-24T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.316,
-   "tier": 2
+   "score": 0.311,
+   "tier": 3
   },
   {
    "id": "7a6462e387eb267a9c42da1ffaa35959c095f129",
@@ -200,7 +248,7 @@
    "tldr": "",
    "published": "2026-11-24T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.316,
+   "score": 0.311,
    "tier": 3
   },
   {
@@ -215,7 +263,7 @@
    "tldr": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
    "published": "2026-11-24T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.316,
+   "score": 0.311,
    "tier": 3
   },
   {
@@ -230,7 +278,7 @@
    "tldr": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux.  It helps teams protect running systems while they roll out patches.",
    "published": "2026-11-23T21:20:00.000Z",
    "dupes": 1,
-   "score": 0.314,
+   "score": 0.31,
    "tier": 3
   },
   {
@@ -245,7 +293,7 @@
    "tldr": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
    "published": "2026-11-23T16:59:40.000Z",
    "dupes": 1,
-   "score": 0.312,
+   "score": 0.308,
    "tier": 3
   },
   {
@@ -260,7 +308,7 @@
    "tldr": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside…",
    "published": "2026-11-23T08:00:00.000Z",
    "dupes": 1,
-   "score": 0.308,
+   "score": 0.306,
    "tier": 3
   },
   {
@@ -275,7 +323,20 @@
    "tldr": "1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
    "published": "2026-11-23T08:00:00.000Z",
    "dupes": 1,
-   "score": 0.308,
+   "score": 0.306,
+   "tier": 3
+  },
+  {
+   "id": "d0a3a7f662b58965bac4af6309f496652b034a9c",
+   "title": "An Indic Voice Agent with CUGA",
+   "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-25T10:22:09.000Z",
+   "dupes": 1,
+   "score": 0.303,
    "tier": 3
   },
   {
@@ -303,37 +364,7 @@
    "tldr": "",
    "published": "2026-11-25T00:00:00.000Z",
    "dupes": 1,
-   "score": 0.302,
-   "tier": 3
-  },
-  {
-   "id": "3ea993db7e3c60d1925ec70cc8db101a60f4b500",
-   "title": "Combatting adversarial distillation",
-   "url": "https://openai.com/index/combatting-adversarial-distillation",
-   "source": "OpenAI Blog",
-   "org": [
-    "openai"
-   ],
-   "topic": "ai",
-   "tldr": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
-   "published": "2026-11-20T10:00:00.000Z",
-   "dupes": 1,
-   "score": 0.301,
-   "tier": 3
-  },
-  {
-   "id": "ceecf9e348f1c1f1b26163654301827456aeff80",
-   "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
-   "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
-   "source": "The Verge AI",
-   "org": [
-    "google"
-   ],
-   "topic": "ai",
-   "tldr": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users.",
-   "published": "2026-11-25T21:51:26.000Z",
-   "dupes": 1,
-   "score": 0.291,
+   "score": 0.289,
    "tier": 3
   },
   {
@@ -348,7 +379,7 @@
    "tldr": "Algorithms & Theory",
    "published": "2026-11-23T17:21:12.000Z",
    "dupes": 1,
-   "score": 0.287,
+   "score": 0.283,
    "tier": 3
   },
   {
@@ -363,20 +394,7 @@
    "tldr": "The elves don’t have to be the only ones busy in the workshop this holiday season.  With the lights twinkling and the gift wrap out, it’s the perfect time to give someone — or yourself — a spark to take a hobby to the…",
    "published": "2026-11-23T17:00:08.000Z",
    "dupes": 1,
-   "score": 0.287,
-   "tier": 3
-  },
-  {
-   "id": "6359c2ce0900437371d3630aa30704e087d30f5c",
-   "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
-   "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
-   "source": "The Verge AI",
-   "org": [],
-   "topic": "compute",
-   "tldr": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative.",
-   "published": "2026-11-25T17:44:51.000Z",
-   "dupes": 1,
-   "score": 0.278,
+   "score": 0.283,
    "tier": 3
   },
   {
@@ -395,6 +413,19 @@
    "tier": 3
   },
   {
+   "id": "6fd4c32fe34a4cba398f7bd59cf540fcd9787faa",
+   "title": "How to build and maintain an agentic evaluation",
+   "url": "https://huggingface.co/blog/agentic-evals",
+   "source": "Hugging Face Blog",
+   "org": [],
+   "topic": "ai",
+   "tldr": "",
+   "published": "2026-11-23T00:00:00.000Z",
+   "dupes": 1,
+   "score": 0.267,
+   "tier": 3
+  },
+  {
    "id": "5ace9de0dfdb0aed5363d94a10bee7ce5859d750",
    "title": "Introducing Muse in the UK: A Personal AI Agent You Control",
    "url": "https://about.fb.com/news/2026/11/introducing-muse-in-the-uk-a-personal-ai-agent-you-control",
@@ -406,20 +437,22 @@
    "tldr": "Muse is now in the UK: a personal AI agent that doesn't just answer questions, but one that you can task to get things done on your behalf The post Introducing Muse in the UK: A Personal AI Agent You Control appeared…",
    "published": "2026-11-24T06:00:40.000Z",
    "dupes": 1,
-   "score": 0.27,
+   "score": 0.263,
    "tier": 3
   },
   {
-   "id": "6fd4c32fe34a4cba398f7bd59cf540fcd9787faa",
-   "title": "How to build and maintain an agentic evaluation",
-   "url": "https://huggingface.co/blog/agentic-evals",
-   "source": "Hugging Face Blog",
-   "org": [],
+   "id": "ceecf9e348f1c1f1b26163654301827456aeff80",
+   "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+   "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+   "source": "The Verge AI",
+   "org": [
+    "google"
+   ],
    "topic": "ai",
-   "tldr": "",
-   "published": "2026-11-23T00:00:00.000Z",
+   "tldr": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users.",
+   "published": "2026-11-25T21:51:26.000Z",
    "dupes": 1,
-   "score": 0.269,
+   "score": 0.262,
    "tier": 3
   },
   {
@@ -434,25 +467,20 @@
    "tldr": "We brought researchers together for the Open Source AI For Science Summit, where they shared how they’re using AI to accelerate scientific discovery.  The post Researchers Are Using Meta’s Open-Weight AI Models to…",
    "published": "2026-11-23T18:00:01.000Z",
    "dupes": 1,
-   "score": 0.262,
+   "score": 0.258,
    "tier": 3
   },
   {
-   "id": "2ef902c4582a1ae83a8ab000c1205b3155d54837",
-   "title": "Advancing Science Together: Highlights From the Open Source AI for Science Summit",
-   "url": "https://about.fb.com/news/2026/11/advancing-science-together-highlights-from-the-open-source-ai-for-science-summit",
-   "source": "Meta Newsroom",
-   "org": [
-    "meta"
-   ],
-   "topic": "ai",
-   "tldr": "We brought researchers from universities, hospitals, and industry together for the Open Source AI for Science Summit, an event built around using open source AI to accelerate scientific discovery.  The post Advancing…",
-   "published": "2026-11-20T18:30:45.000Z",
-   "badges": [
-    "oss"
-   ],
+   "id": "6359c2ce0900437371d3630aa30704e087d30f5c",
+   "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+   "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+   "source": "The Verge AI",
+   "org": [],
+   "topic": "compute",
+   "tldr": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative.",
+   "published": "2026-11-25T17:44:51.000Z",
    "dupes": 1,
-   "score": 0.251,
+   "score": 0.253,
    "tier": 3
   },
   {
@@ -467,7 +495,7 @@
    "tldr": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job…",
    "published": "2026-11-24T20:02:03.000Z",
    "dupes": 1,
-   "score": 0.234,
+   "score": 0.223,
    "tier": 3
   }
  ]
